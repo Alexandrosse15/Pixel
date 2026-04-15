@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
-import { enrichArticleWithCover, resolveArticleImages } from '@/lib/igdb'
+import { enrichArticleWithCover, getGameScreenshots } from '@/lib/igdb'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Link from 'next/link'
@@ -39,12 +39,13 @@ export default async function ArticlePage({ params }: Props) {
   const raw = getArticleBySlug(params.slug)
   if (!raw) notFound()
 
-  const article = await enrichArticleWithCover(raw)
+  const [article, screenshots] = await Promise.all([
+    enrichArticleWithCover(raw),
+    raw.gameName ? getGameScreenshots(raw.gameName, 10) : Promise.resolve([]),
+  ])
 
-  // Remplace les images locales du contenu par les screenshots IGDB
-  const resolvedContent = article.gameName
-    ? await resolveArticleImages(article.content, article.gameName)
-    : article.content
+  // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
+  let screenshotIdx = 0
 
   const catConfig = categoryConfig[article.category]
   const articleUrl = `${SITE_URL}/articles/${article.slug}`
@@ -217,20 +218,31 @@ export default async function ArticlePage({ params }: Props) {
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{
-              img: ({ src, alt }) => (
-                <span className="my-8 block overflow-hidden rounded-sm">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={src}
-                    alt={alt || ''}
-                    className="w-full object-cover"
-                    loading="lazy"
-                  />
-                </span>
-              ),
+              img: ({ src, alt }) => {
+                // Si l'image est locale (/images/...) et qu'on a des screenshots IGDB dispo,
+                // on utilise le prochain screenshot dans la liste
+                let finalSrc = src || ''
+                if (finalSrc.startsWith('/images/') && screenshotIdx < screenshots.length) {
+                  finalSrc = screenshots[screenshotIdx]
+                  screenshotIdx++
+                }
+                // Si toujours local (plus de screenshots), on masque l'image cassée
+                if (!finalSrc || finalSrc.startsWith('/images/')) return null
+                return (
+                  <span className="my-8 block overflow-hidden rounded-sm">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={finalSrc}
+                      alt={alt || ''}
+                      className="w-full object-cover"
+                      loading="lazy"
+                    />
+                  </span>
+                )
+              },
             }}
           >
-            {resolvedContent}
+            {article.content}
           </ReactMarkdown>
         </div>
 
