@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
-import { enrichArticleWithCover, getGameScreenshots } from '@/lib/igdb'
+import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Link from 'next/link'
@@ -39,9 +39,15 @@ export default async function ArticlePage({ params }: Props) {
   const raw = getArticleBySlug(params.slug)
   if (!raw) notFound()
 
+  const screenshotsPromise = raw.gameNames?.length
+    ? getMultipleGameScreenshots(raw.gameNames, 4)
+    : raw.gameName
+    ? getGameScreenshots(raw.gameName, 10)
+    : Promise.resolve([])
+
   const [article, screenshots] = await Promise.all([
     enrichArticleWithCover(raw),
-    raw.gameName ? getGameScreenshots(raw.gameName, 10) : Promise.resolve([]),
+    screenshotsPromise,
   ])
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot

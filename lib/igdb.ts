@@ -151,6 +151,25 @@ export async function resolveArticleImages(content: string, gameName: string): P
   })
 }
 
+// Récupère des screenshots de plusieurs jeux (pour les dossiers multi-jeux)
+export async function getMultipleGameScreenshots(
+  gameNames: string[],
+  countPerGame = 3
+): Promise<string[]> {
+  const results = await Promise.all(
+    gameNames.map((name) => getGameScreenshots(name, countPerGame))
+  )
+  // Interleave les screenshots : 1 par jeu à la fois
+  const interleaved: string[] = []
+  const maxLen = Math.max(...results.map((r) => r.length))
+  for (let i = 0; i < maxLen; i++) {
+    for (const shots of results) {
+      if (shots[i]) interleaved.push(shots[i])
+    }
+  }
+  return interleaved
+}
+
 // Enrichit un tableau d'articles avec leurs covers IGDB en parallèle
 export async function enrichArticlesWithCovers(articles: Article[]): Promise<Article[]> {
   return Promise.all(
