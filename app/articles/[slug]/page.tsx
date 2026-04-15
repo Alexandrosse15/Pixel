@@ -8,12 +8,10 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
 
+export const dynamic = 'force-dynamic'
+
 interface Props {
   params: { slug: string }
-}
-
-export async function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ slug }))
 }
 
 export async function generateMetadata({ params }: Props) {
