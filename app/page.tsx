@@ -82,7 +82,7 @@ export default async function HomePage() {
           La critique sans compromis
         </h2>
         <p className="mx-auto mt-3 max-w-lg text-sm text-ink-secondary">
-          InsertCoin.press défend une presse gaming libre, honnête et passionnée. Pas de scores gonflés, pas de preview sous embargo draconien.
+          InsertCoins.press défend une presse gaming libre, honnête et passionnée. Pas de scores gonflés, pas de preview sous embargo draconien.
         </p>
         <div className="mt-4 inline-block h-px w-16 bg-brand" />
       </section>

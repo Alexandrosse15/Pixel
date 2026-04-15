@@ -181,7 +181,7 @@ export default async function ArticlePage({ params }: Props) {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  Note InsertCoin.press
+                  Note InsertCoins.press
                 </p>
                 <p className="mt-1 font-display text-4xl font-black text-brand">
                   {article.score}

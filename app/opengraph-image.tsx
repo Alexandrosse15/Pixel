@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
-export const alt = 'InsertCoin.press — Le média indépendant du jeu vidéo'
+export const alt = 'InsertCoins.press — Le média indépendant du jeu vidéo'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
@@ -56,7 +56,7 @@ export default function Image() {
               textTransform: 'uppercase',
             }}
           >
-            COIN
+            COINS
           </span>
           <span
             style={{

@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Dossiers',
-  description: 'Analyses de fond, rétrospectives et grands dossiers sur le jeu vidéo par InsertCoin.press.',
+  description: 'Analyses de fond, rétrospectives et grands dossiers sur le jeu vidéo par InsertCoins.press.',
 }
 
 export default async function DossiersPage() {

@@ -27,7 +27,7 @@ export default function Header() {
             INSERT
           </span>
           <span className="font-display text-2xl font-black uppercase tracking-tight text-brand">
-            COIN
+            COINS
           </span>
           <span className="font-display text-sm font-bold uppercase text-ink-muted transition-colors group-hover:text-ink-secondary">
             .press

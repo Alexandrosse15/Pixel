@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Previews',
-  description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoin.press.',
+  description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoins.press.',
 }
 
 export default async function PreviewsPage() {

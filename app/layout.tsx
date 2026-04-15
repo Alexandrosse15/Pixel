@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@insertcoinpress',
+    site: '@insertcoinspress',
   },
   robots: {
     index: true,
@@ -63,7 +63,7 @@ const organizationSchema = {
   name: SITE_NAME,
   url: SITE_URL,
   description: SITE_DESCRIPTION,
-  sameAs: ['https://twitter.com/insertcoinpress'],
+  sameAs: ['https://twitter.com/insertcoinspress'],
 }
 
 export default function RootLayout({

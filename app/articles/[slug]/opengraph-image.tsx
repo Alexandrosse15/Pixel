@@ -169,7 +169,7 @@ export default function Image({ params }: { params: { slug: string } }) {
                 textTransform: 'uppercase',
               }}
             >
-              COIN
+              COINS
             </span>
             <span style={{ fontFamily: 'sans-serif', fontSize: 14, color: '#555' }}>
               .press

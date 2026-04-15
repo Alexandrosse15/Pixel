@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Tests',
-  description: 'Tous les tests de jeux vidéo par InsertCoin.press. Des critiques honnêtes et sans compromis.',
+  description: 'Tous les tests de jeux vidéo par InsertCoins.press. Des critiques honnêtes et sans compromis.',
 }
 
 export default async function TestsPage() {
