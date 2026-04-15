@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
+import { enrichArticleWithCover } from '@/lib/igdb'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Link from 'next/link'
@@ -36,10 +37,11 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
-export default function ArticlePage({ params }: Props) {
-  const article = getArticleBySlug(params.slug)
+export default async function ArticlePage({ params }: Props) {
+  const raw = getArticleBySlug(params.slug)
+  if (!raw) notFound()
 
-  if (!article) notFound()
+  const article = await enrichArticleWithCover(raw)
 
   const catConfig = categoryConfig[article.category]
   const articleUrl = `${SITE_URL}/articles/${article.slug}`

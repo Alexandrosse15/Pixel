@@ -1,4 +1,5 @@
 import { getArticlesByCategory } from '@/lib/articles'
+import { enrichArticlesWithCovers } from '@/lib/igdb'
 import ArticleCard from '@/components/ArticleCard'
 import type { Metadata } from 'next'
 
@@ -7,8 +8,8 @@ export const metadata: Metadata = {
   description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoin.press.',
 }
 
-export default function PreviewsPage() {
-  const articles = getArticlesByCategory('previews')
+export default async function PreviewsPage() {
+  const articles = await enrichArticlesWithCovers(getArticlesByCategory('previews'))
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-12 md:px-8">
@@ -16,12 +17,8 @@ export default function PreviewsPage() {
         <div className="flex items-center gap-4">
           <span className="block h-10 w-1.5 bg-amber-500" />
           <div>
-            <p className="font-display text-xs uppercase tracking-widest text-amber-500">
-              Rubrique
-            </p>
-            <h1 className="font-display text-4xl font-black uppercase text-white md:text-5xl">
-              Previews
-            </h1>
+            <p className="font-display text-xs uppercase tracking-widest text-amber-500">Rubrique</p>
+            <h1 className="font-display text-4xl font-black uppercase text-white md:text-5xl">Previews</h1>
           </div>
         </div>
         <p className="mt-4 max-w-xl text-sm leading-relaxed text-ink-secondary">
@@ -30,7 +27,7 @@ export default function PreviewsPage() {
       </div>
 
       {articles.length === 0 ? (
-        <p className="text-center text-ink-muted py-24">Aucune preview pour le moment.</p>
+        <p className="py-24 text-center text-ink-muted">Aucune preview pour le moment.</p>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {articles.map((article) => (

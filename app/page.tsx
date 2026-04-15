@@ -1,15 +1,17 @@
-import { getAllArticles, getArticlesByCategory, getFeaturedArticle } from '@/lib/articles'
+import { getAllArticles } from '@/lib/articles'
+import { enrichArticlesWithCovers } from '@/lib/igdb'
 import HeroArticle from '@/components/HeroArticle'
 import ArticleCard from '@/components/ArticleCard'
 import SectionHeader from '@/components/SectionHeader'
 
-export default function HomePage() {
-  const featured = getFeaturedArticle()
-  const allArticles = getAllArticles()
-  const latestArticles = allArticles.slice(0, 6)
-  const tests = getArticlesByCategory('tests')
-  const previews = getArticlesByCategory('previews')
-  const dossiers = getArticlesByCategory('dossiers')
+export default async function HomePage() {
+  const all = await enrichArticlesWithCovers(getAllArticles())
+
+  const featured = all.find((a) => a.featured) ?? all[0] ?? null
+  const latestArticles = all.slice(0, 6)
+  const tests = all.filter((a) => a.category === 'tests')
+  const previews = all.filter((a) => a.category === 'previews')
+  const dossiers = all.filter((a) => a.category === 'dossiers')
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 md:px-8">
@@ -35,7 +37,6 @@ export default function HomePage() {
 
       {/* Two-column layout: Tests + Sidebar */}
       <div className="mb-16 grid grid-cols-1 gap-12 lg:grid-cols-3">
-        {/* Tests */}
         {tests.length > 0 && (
           <div className="lg:col-span-2">
             <SectionHeader title="Tests" href="/tests" accent />
@@ -47,7 +48,6 @@ export default function HomePage() {
           </div>
         )}
 
-        {/* Sidebar: Previews + Dossiers */}
         <div className="space-y-10">
           {previews.length > 0 && (
             <div>
