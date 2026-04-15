@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-base: #0A0A0A;
+    --brand: #FF4500;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bg-base text-ink-primary font-body antialiased;
+  }
+
+  ::selection {
+    background-color: #FF4500;
+    color: white;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-bg-base;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-brand rounded-full;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply relative text-xs font-display uppercase tracking-widest text-ink-secondary transition-colors duration-200 hover:text-brand;
+  }
+
+  .nav-link::after {
+    content: '';
+    @apply absolute -bottom-1 left-0 h-px w-0 bg-brand transition-all duration-300;
+  }
+
+  .nav-link:hover::after,
+  .nav-link.active::after {
+    @apply w-full;
+  }
+
+  .nav-link.active {
+    @apply text-brand;
+  }
+
+  .category-badge {
+    @apply inline-flex items-center px-2 py-0.5 text-[10px] font-display uppercase tracking-widest font-bold;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-brand/10;
+  }
+
+  .section-title {
+    @apply font-display text-2xl font-black uppercase tracking-wider text-ink-primary;
+  }
+
+  .section-divider {
+    @apply border-t border-line my-8;
+  }
+
+  .score-ring {
+    @apply relative flex items-center justify-center rounded-full font-display font-black;
+    background: conic-gradient(#FF4500 var(--score-pct), #242424 var(--score-pct));
+  }
+}
+
+@layer utilities {
+  .text-brand-glow {
+    text-shadow: 0 0 30px rgba(255, 69, 0, 0.5);
+  }
+
+  .border-brand-glow {
+    box-shadow: 0 0 20px rgba(255, 69, 0, 0.2);
+  }
+
+  .clip-diagonal {
+    clip-path: polygon(0 0, 100% 0, 96% 100%, 0% 100%);
+  }
+}
+
+/* Prose overrides for dark theme */
+.prose {
+  --tw-prose-body: #B0B0B0;
+  --tw-prose-headings: #FFFFFF;
+  --tw-prose-lead: #B0B0B0;
+  --tw-prose-links: #FF4500;
+  --tw-prose-bold: #FFFFFF;
+  --tw-prose-counters: #666666;
+  --tw-prose-bullets: #FF4500;
+  --tw-prose-hr: #242424;
+  --tw-prose-quotes: #FFFFFF;
+  --tw-prose-quote-borders: #FF4500;
+  --tw-prose-captions: #666666;
+  --tw-prose-code: #FF6A33;
+  --tw-prose-pre-code: #B0B0B0;
+  --tw-prose-pre-bg: #161616;
+  --tw-prose-th-borders: #242424;
+  --tw-prose-td-borders: #242424;
+}
+
+.prose h2 {
+  @apply font-display uppercase tracking-wide;
+}
+
+.prose h3 {
+  @apply font-display uppercase tracking-wide;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-brand bg-bg-card p-4 not-italic;
+}
+
+.prose blockquote p::before,
+.prose blockquote p::after {
+  content: '';
+}
