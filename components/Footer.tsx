@@ -26,7 +26,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="mt-4 text-sm leading-relaxed text-ink-muted">
-              Le média indépendant du jeu vidéo. Tests, previews, dossiers de fond et actualité de l'industrie.
+              Le média indépendant du jeu vidéo. Tests, previews, dossiers de fond et actualité de l&apos;industrie.
             </p>
           </div>
 

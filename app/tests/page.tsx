@@ -26,7 +26,7 @@ export default function TestsPage() {
           </div>
         </div>
         <p className="mt-4 max-w-xl text-sm leading-relaxed text-ink-secondary">
-          Des critiques approfondies, honnêtes et sans compromis. On joue jusqu'au bout, on vous dit tout.
+          Des critiques approfondies, honnêtes et sans compromis. On joue jusqu&apos;au bout, on vous dit tout.
         </p>
       </div>
 

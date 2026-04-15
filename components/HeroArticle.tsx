@@ -54,7 +54,7 @@ export default function HeroArticle({ article }: Props) {
           </div>
 
           <div className="mt-6 inline-flex items-center gap-2 border border-brand/50 px-4 py-2 text-xs font-display font-bold uppercase tracking-widest text-brand transition-all duration-200 group-hover:bg-brand group-hover:text-white">
-            <span>Lire l'article</span>
+            <span>Lire l&apos;article</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-3.5 w-3.5"

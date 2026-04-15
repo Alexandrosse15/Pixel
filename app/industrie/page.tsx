@@ -25,7 +25,7 @@ export default function IndustriePage() {
           </div>
         </div>
         <p className="mt-4 max-w-xl text-sm leading-relaxed text-ink-secondary">
-          Acquisitions, licenciements, tendances de marché. L'industrie du jeu vidéo vue de l'intérieur.
+          Acquisitions, licenciements, tendances de marché. L&apos;industrie du jeu vidéo vue de l&apos;intérieur.
         </p>
       </div>
 
