@@ -68,7 +68,7 @@ export default function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-line pt-8 md:flex-row">
           <p className="text-xs text-ink-muted">
-            © {new Date().getFullYear()} InsertCoins.press — Tous droits réservés
+            © {new Date().getFullYear()} InsertCoins.press · Tous droits réservés
           </p>
           <p className="text-xs text-ink-subtle">
             <span className="text-brand">▶</span> Fait avec passion pour les joueurs

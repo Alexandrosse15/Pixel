@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
-export const alt = 'InsertCoins.press — Le média indépendant du jeu vidéo'
+export const alt = 'InsertCoins.press, le média indépendant du jeu vidéo'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
