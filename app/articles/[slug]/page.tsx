@@ -1,9 +1,11 @@
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
 import CategoryBadge from '@/components/CategoryBadge'
+import JsonLd from '@/components/JsonLd'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import { SITE_URL, SITE_NAME } from '@/lib/config'
 
 interface Props {
   params: { slug: string }
@@ -16,9 +18,21 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props) {
   const article = getArticleBySlug(params.slug)
   if (!article) return {}
+  const url = `${SITE_URL}/articles/${article.slug}`
   return {
     title: article.title,
     description: article.excerpt,
+    alternates: { canonical: url },
+    openGraph: {
+      title: article.title,
+      description: article.excerpt,
+      url,
+      type: 'article',
+      locale: 'fr_FR',
+      publishedTime: article.date,
+      authors: [article.author],
+      tags: [article.category, 'jeux vidéo', 'gaming'],
+    },
   }
 }
 
@@ -28,9 +42,62 @@ export default function ArticlePage({ params }: Props) {
   if (!article) notFound()
 
   const catConfig = categoryConfig[article.category]
+  const articleUrl = `${SITE_URL}/articles/${article.slug}`
+
+  const articleSchema = article.score
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Review',
+        name: article.title,
+        description: article.excerpt,
+        url: articleUrl,
+        datePublished: article.date,
+        author: { '@type': 'Person', name: article.author },
+        publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+        inLanguage: 'fr-FR',
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: article.score,
+          bestRating: 10,
+          worstRating: 0,
+        },
+        itemReviewed: {
+          '@type': 'VideoGame',
+          name: article.title.split('—')[0].trim(),
+        },
+      }
+    : {
+        '@context': 'https://schema.org',
+        '@type': 'NewsArticle',
+        headline: article.title,
+        description: article.excerpt,
+        url: articleUrl,
+        datePublished: article.date,
+        author: { '@type': 'Person', name: article.author },
+        publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+        inLanguage: 'fr-FR',
+        articleSection: article.category,
+      }
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE_URL },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: catConfig.label + 's',
+        item: `${SITE_URL}/${article.category}`,
+      },
+      { '@type': 'ListItem', position: 3, name: article.title, item: articleUrl },
+    ],
+  }
 
   return (
     <div>
+      <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbSchema} />
       {/* Hero */}
       <div className={`relative bg-gradient-to-br ${article.imageColor} overflow-hidden`}>
         <div className="absolute inset-0 bg-gradient-to-t from-bg-base via-bg-base/70 to-transparent" />
