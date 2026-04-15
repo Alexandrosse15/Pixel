@@ -36,10 +36,27 @@ export const metadata: Metadata = {
     locale: 'fr_FR',
     siteName: SITE_NAME,
     url: SITE_URL,
+    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+    description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: '/opengraph-image',
+        width: 1200,
+        height: 630,
+        alt: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@insertcoinspress',
+    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+    description: SITE_DESCRIPTION,
+    images: ['/opengraph-image'],
+  },
+  icons: {
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
   },
   robots: {
     index: true,
