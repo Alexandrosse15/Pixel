@@ -16,6 +16,7 @@ export interface Article {
   readTime: string
   score?: number
   imageColor: string
+  coverImage?: string
   content: string
   featured?: boolean
 }
@@ -69,6 +70,7 @@ export function getArticleBySlug(slug: string): Article | null {
       readTime: data.readTime as string,
       score: data.score as number | undefined,
       imageColor: (data.image_color as string) || 'from-zinc-900 to-zinc-800',
+      coverImage: data.coverImage as string | undefined,
       content,
       featured: (data.featured as boolean) ?? false,
     }

@@ -209,7 +209,22 @@ export default function ArticlePage({ params }: Props) {
 
         {/* Markdown content */}
         <div className="prose prose-lg max-w-none">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={{
+              img: ({ src, alt }) => (
+                <span className="my-8 block overflow-hidden rounded-sm">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={src}
+                    alt={alt || ''}
+                    className="w-full object-cover"
+                    loading="lazy"
+                  />
+                </span>
+              ),
+            }}
+          >
             {article.content}
           </ReactMarkdown>
         </div>

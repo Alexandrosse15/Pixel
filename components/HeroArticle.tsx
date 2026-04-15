@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { Article, formatDate } from '@/lib/articles'
 import CategoryBadge from './CategoryBadge'
 
@@ -9,9 +10,20 @@ interface Props {
 export default function HeroArticle({ article }: Props) {
   return (
     <Link href={`/articles/${article.slug}`} className="group no-underline">
-      <article
-        className={`relative overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor} min-h-[480px] flex flex-col justify-end`}
-      >
+      <article className="relative min-h-[480px] overflow-hidden rounded-sm flex flex-col justify-end">
+        {/* Background image or gradient */}
+        {article.coverImage ? (
+          <Image
+            src={article.coverImage}
+            alt={article.title}
+            fill
+            className="object-cover transition-transform duration-700 group-hover:scale-105"
+            priority
+          />
+        ) : (
+          <div className={`absolute inset-0 bg-gradient-to-br ${article.imageColor}`} />
+        )}
+
         {/* Dark overlay */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/50 to-transparent" />
 

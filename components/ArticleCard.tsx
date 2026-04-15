@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { Article, formatDate } from '@/lib/articles'
 import CategoryBadge from './CategoryBadge'
 
@@ -13,9 +14,12 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
       <Link href={`/articles/${article.slug}`} className="group no-underline">
         <article className="card-hover flex gap-4 rounded-sm border border-line bg-bg-card p-4 transition-colors hover:border-brand/30">
           {/* Thumbnail */}
-          <div
-            className={`relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor}`}
-          >
+          <div className="relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-sm">
+            {article.coverImage ? (
+              <Image src={article.coverImage} alt={article.title} fill className="object-cover" />
+            ) : (
+              <div className={`h-full w-full bg-gradient-to-br ${article.imageColor}`} />
+            )}
             {article.score && (
               <div className="absolute bottom-1 right-1 flex h-8 w-8 items-center justify-center rounded-sm bg-brand font-display text-sm font-black text-white">
                 {article.score}
@@ -61,11 +65,17 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
     <Link href={`/articles/${article.slug}`} className="group no-underline">
       <article className="card-hover flex h-full flex-col overflow-hidden rounded-sm border border-line bg-bg-card">
         {/* Image area */}
-        <div
-          className={`relative h-48 bg-gradient-to-br ${article.imageColor} overflow-hidden`}
-        >
-          {/* Overlay */}
-          <div className="absolute inset-0 bg-gradient-to-t from-bg-card/90 via-transparent to-transparent" />
+        <div className="relative h-48 overflow-hidden">
+          {article.coverImage ? (
+            <>
+              <Image src={article.coverImage} alt={article.title} fill className="object-cover transition-transform duration-500 group-hover:scale-105" />
+              <div className="absolute inset-0 bg-gradient-to-t from-bg-card/90 via-transparent to-transparent" />
+            </>
+          ) : (
+            <div className={`h-full w-full bg-gradient-to-br ${article.imageColor}`}>
+              <div className="absolute inset-0 bg-gradient-to-t from-bg-card/90 via-transparent to-transparent" />
+            </div>
+          )}
 
           {/* Score badge */}
           {article.score && (
