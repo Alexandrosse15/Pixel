@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
-import { enrichArticleWithCover } from '@/lib/igdb'
+import { enrichArticleWithCover, resolveArticleImages } from '@/lib/igdb'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Link from 'next/link'
@@ -42,6 +42,11 @@ export default async function ArticlePage({ params }: Props) {
   if (!raw) notFound()
 
   const article = await enrichArticleWithCover(raw)
+
+  // Remplace les images locales du contenu par les screenshots IGDB
+  const resolvedContent = article.gameName
+    ? await resolveArticleImages(article.content, article.gameName)
+    : article.content
 
   const catConfig = categoryConfig[article.category]
   const articleUrl = `${SITE_URL}/articles/${article.slug}`
@@ -227,7 +232,7 @@ export default async function ArticlePage({ params }: Props) {
               ),
             }}
           >
-            {article.content}
+            {resolvedContent}
           </ReactMarkdown>
         </div>
 

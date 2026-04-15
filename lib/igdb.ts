@@ -6,6 +6,7 @@ const IGDB_API_URL = 'https://api.igdb.com/v4'
 // Module-level caches (persistent between requests in the same process)
 let tokenCache: { access_token: string; expires_at: number } | null = null
 const coverCache = new Map<string, string | null>()
+const screenshotsCache = new Map<string, string[]>()
 
 async function getAccessToken(): Promise<string> {
   if (tokenCache && Date.now() < tokenCache.expires_at) {
@@ -98,6 +99,56 @@ export async function getGameCover(gameName: string): Promise<string | null> {
     coverCache.set(gameName, null)
     return null
   }
+}
+
+// Récupère N screenshots d'un jeu (format paysage, t_screenshot_big = 889×500)
+export async function getGameScreenshots(gameName: string, count = 8): Promise<string[]> {
+  if (screenshotsCache.has(gameName)) return screenshotsCache.get(gameName)!
+
+  try {
+    type GameResult = { screenshots?: number[] }
+    const games = await igdbPost<GameResult[]>(
+      'games',
+      `search "${gameName}"; fields screenshots; limit 1;`
+    )
+
+    const ids = games?.[0]?.screenshots?.slice(0, count)
+    if (!ids?.length) {
+      screenshotsCache.set(gameName, [])
+      return []
+    }
+
+    type ImgResult = { image_id: string }
+    const shots = await igdbPost<ImgResult[]>(
+      'screenshots',
+      `fields image_id; where id = (${ids.join(',')});`
+    )
+
+    const urls = (shots ?? [])
+      .filter((s) => s.image_id)
+      .map((s) => `https://images.igdb.com/igdb/image/upload/t_screenshot_big/${s.image_id}.jpg`)
+
+    screenshotsCache.set(gameName, urls)
+    return urls
+  } catch (err) {
+    console.error(`[IGDB] Screenshots error for "${gameName}":`, err)
+    screenshotsCache.set(gameName, [])
+    return []
+  }
+}
+
+// Remplace les images locales (/images/...) du contenu Markdown par les screenshots IGDB
+export async function resolveArticleImages(content: string, gameName: string): Promise<string> {
+  const screenshots = await getGameScreenshots(gameName)
+  if (!screenshots.length) return content
+
+  let idx = 0
+  return content.replace(/!\[([^\]]*)\]\(\/images\/[^)]+\)/g, (match, alt) => {
+    const url = screenshots[idx]
+    if (!url) return match // plus de screenshots dispo, on garde le placeholder
+    idx++
+    return `![${alt}](${url})`
+  })
 }
 
 // Enrichit un tableau d'articles avec leurs covers IGDB en parallèle
