@@ -2,6 +2,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Article, formatDate } from '@/lib/articles'
 import CategoryBadge from './CategoryBadge'
+import CommunityScoreBadge from './CommunityScoreBadge'
 
 interface Props {
   article: Article
@@ -25,6 +26,9 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
                 {article.score}
               </div>
             )}
+            <div className="absolute left-1 bottom-1">
+              <CommunityScoreBadge slug={article.slug} />
+            </div>
           </div>
 
           {/* Content */}
@@ -77,7 +81,7 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
             </div>
           )}
 
-          {/* Score badge */}
+          {/* Score badge éditorial */}
           {article.score && (
             <div className="absolute bottom-3 right-3 flex h-12 w-12 items-center justify-center rounded-sm border border-brand/40 bg-bg-base/80 backdrop-blur-sm">
               <span className="font-display text-xl font-black text-brand">
@@ -85,6 +89,10 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
               </span>
             </div>
           )}
+          {/* Score communauté */}
+          <div className="absolute bottom-3 left-3">
+            <CommunityScoreBadge slug={article.slug} />
+          </div>
 
           {/* Category */}
           <div className="absolute left-3 top-3">

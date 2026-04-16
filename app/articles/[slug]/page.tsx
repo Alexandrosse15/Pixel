@@ -187,104 +187,146 @@ export default async function ArticlePage({ params }: Props) {
       </div>
 
       {/* Article content */}
-      <div className="mx-auto max-w-4xl px-4 py-12 md:px-8">
-        {/* Score bar for reviews */}
-        {article.score && (
-          <div className="mb-12 rounded-sm border border-line bg-bg-card p-6">
-            <div className="flex items-center justify-between">
-              <div>
-                <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  {a.score_site}
-                </p>
-                <p className="mt-1 font-display text-4xl font-black text-brand">
-                  {article.score}
-                  <span className="ml-1 text-lg font-bold text-ink-muted">/10</span>
-                </p>
+      <div className="mx-auto max-w-6xl px-4 py-12 md:px-8">
+        <div className="grid grid-cols-1 items-start gap-10 lg:grid-cols-[1fr_260px]">
+
+          {/* Colonne principale */}
+          <div className="min-w-0">
+            {/* Score bar for reviews */}
+            {article.score && (
+              <div className="mb-12 rounded-sm border border-line bg-bg-card p-6">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
+                      {a.score_site}
+                    </p>
+                    <p className="mt-1 font-display text-4xl font-black text-brand">
+                      {article.score}
+                      <span className="ml-1 text-lg font-bold text-ink-muted">/10</span>
+                    </p>
+                  </div>
+                  <div className="text-right">
+                    <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
+                      {a.verdict}
+                    </p>
+                    <p className="mt-1 font-display text-sm font-bold uppercase text-white">
+                      {article.score >= 9
+                        ? a.verdict_labels.must_have
+                        : article.score >= 7
+                        ? a.verdict_labels.recommended
+                        : article.score >= 5
+                        ? a.verdict_labels.mixed
+                        : a.verdict_labels.disappointing}
+                    </p>
+                  </div>
+                </div>
+                <div className="mt-4 h-1.5 w-full rounded-full bg-bg-elevated">
+                  <div
+                    className="h-full rounded-full bg-brand transition-all duration-1000"
+                    style={{ width: `${article.score * 10}%` }}
+                  />
+                </div>
               </div>
-              <div className="text-right">
-                <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  {a.verdict}
-                </p>
-                <p className="mt-1 font-display text-sm font-bold uppercase text-white">
-                  {article.score >= 9
-                    ? a.verdict_labels.must_have
-                    : article.score >= 7
-                    ? a.verdict_labels.recommended
-                    : article.score >= 5
-                    ? a.verdict_labels.mixed
-                    : a.verdict_labels.disappointing}
-                </p>
-              </div>
+            )}
+
+            {/* Markdown content */}
+            <div className="prose prose-lg max-w-none">
+              <ReactMarkdown
+                remarkPlugins={[remarkGfm]}
+                components={{
+                  img: ({ src, alt }) => {
+                    let finalSrc = src || ''
+                    if (finalSrc.startsWith('/images/') && screenshotIdx < screenshots.length) {
+                      finalSrc = screenshots[screenshotIdx]
+                      screenshotIdx++
+                    }
+                    if (!finalSrc) {
+                      return (
+                        <span className={`my-8 block h-48 overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor} opacity-60`} />
+                      )
+                    }
+                    return (
+                      <span className="my-8 block overflow-hidden rounded-sm">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={finalSrc}
+                          alt={alt || ''}
+                          className="w-full object-cover"
+                          loading="lazy"
+                        />
+                      </span>
+                    )
+                  },
+                }}
+              >
+                {article.content}
+              </ReactMarkdown>
             </div>
-            {/* Score bar */}
-            <div className="mt-4 h-1.5 w-full rounded-full bg-bg-elevated">
-              <div
-                className="h-full rounded-full bg-brand transition-all duration-1000"
-                style={{ width: `${article.score * 10}%` }}
-              />
+
+            {/* Note communauté (mobile uniquement) */}
+            <div className="lg:hidden">
+              <CommunityRating slug={article.slug} variant="inline" />
+            </div>
+
+            <Comments slug={article.slug} />
+
+            {/* Bottom nav */}
+            <div className="mt-16 border-t border-line pt-8">
+              <Link
+                href={`/${article.category}`}
+                className="inline-flex items-center gap-2 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="h-3.5 w-3.5 rotate-180"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  strokeWidth={2}
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+                </svg>
+                {a.back_to} {t.sections[article.category].title}
+              </Link>
             </div>
           </div>
-        )}
 
-        {/* Markdown content */}
-        <div className="prose prose-lg max-w-none">
-          <ReactMarkdown
-            remarkPlugins={[remarkGfm]}
-            components={{
-              img: ({ src, alt }) => {
-                let finalSrc = src || ''
-                // Si l'image est locale et qu'on a des screenshots IGDB, on les utilise
-                if (finalSrc.startsWith('/images/') && screenshotIdx < screenshots.length) {
-                  finalSrc = screenshots[screenshotIdx]
-                  screenshotIdx++
-                }
-                // Pas de src du tout : placeholder gradient
-                if (!finalSrc) {
-                  return (
-                    <span className={`my-8 block h-48 overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor} opacity-60`} />
-                  )
-                }
-                // Chemin local sans IGDB : on sert le fichier public tel quel
-                return (
-                  <span className="my-8 block overflow-hidden rounded-sm">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={finalSrc}
-                      alt={alt || ''}
-                      className="w-full object-cover"
-                      loading="lazy"
+          {/* Sidebar sticky (desktop uniquement) */}
+          <aside className="hidden lg:block">
+            <div className="sticky top-24 flex flex-col gap-4">
+              {/* Note presse */}
+              {article.score && (
+                <div className="rounded-sm border border-line bg-bg-card p-5">
+                  <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
+                    {a.score_site}
+                  </p>
+                  <div className="mt-2 flex items-baseline gap-1">
+                    <span className="font-display text-5xl font-black text-brand">{article.score}</span>
+                    <span className="font-display text-base font-bold text-ink-muted">/10</span>
+                  </div>
+                  <p className="mt-1 font-display text-xs font-bold uppercase text-ink-muted">
+                    {article.score >= 9
+                      ? a.verdict_labels.must_have
+                      : article.score >= 7
+                      ? a.verdict_labels.recommended
+                      : article.score >= 5
+                      ? a.verdict_labels.mixed
+                      : a.verdict_labels.disappointing}
+                  </p>
+                  <div className="mt-3 h-1 w-full rounded-full bg-bg-elevated">
+                    <div
+                      className="h-full rounded-full bg-brand"
+                      style={{ width: `${article.score * 10}%` }}
                     />
-                  </span>
-                )
-              },
-            }}
-          >
-            {article.content}
-          </ReactMarkdown>
-        </div>
+                  </div>
+                </div>
+              )}
 
-        {/* Comments */}
-        <CommunityRating slug={article.slug} />
-        <Comments slug={article.slug} />
+              {/* Note communauté */}
+              <CommunityRating slug={article.slug} variant="sidebar" />
+            </div>
+          </aside>
 
-        {/* Bottom nav */}
-        <div className="mt-16 border-t border-line pt-8">
-          <Link
-            href={`/${article.category}`}
-            className="inline-flex items-center gap-2 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="h-3.5 w-3.5 rotate-180"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              strokeWidth={2}
-            >
-              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
-            </svg>
-            {a.back_to} {t.sections[article.category].title}
-          </Link>
         </div>
       </div>
     </div>
