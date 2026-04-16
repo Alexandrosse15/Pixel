@@ -50,12 +50,13 @@ export default function Header() {
         {/* Right: search icon */}
         <div className="hidden items-center gap-4 md:flex">
           <button
-            className="text-ink-muted transition-colors hover:text-brand"
+            className="flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-3 py-1.5 text-ink-muted transition-colors hover:border-brand hover:text-brand"
             aria-label="Rechercher"
+            onClick={() => window.dispatchEvent(new Event('open-search'))}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5"
+              className="h-4 w-4"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -67,6 +68,10 @@ export default function Header() {
                 d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
               />
             </svg>
+            <span className="font-body text-xs">Rechercher</span>
+            <kbd className="rounded border border-line bg-bg-base px-1 py-0.5 font-mono text-xs leading-none">
+              ⌘K
+            </kbd>
           </button>
         </div>
 
@@ -106,6 +111,29 @@ export default function Header() {
                 {label}
               </Link>
             ))}
+            <button
+              className="mt-2 flex items-center gap-2 py-3 font-display text-sm uppercase tracking-widest text-ink-secondary transition-colors hover:text-brand"
+              onClick={() => {
+                setMenuOpen(false)
+                window.dispatchEvent(new Event('open-search'))
+              }}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-4 w-4"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                strokeWidth={1.5}
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+                />
+              </svg>
+              Rechercher
+            </button>
           </nav>
         </div>
       )}

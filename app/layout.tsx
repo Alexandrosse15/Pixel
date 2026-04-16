@@ -4,6 +4,7 @@ import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import JsonLd from '@/components/JsonLd'
+import SearchWrapper from '@/components/SearchWrapper'
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/config'
 import { Analytics } from '@vercel/analytics/next'
 
@@ -95,6 +96,7 @@ export default function RootLayout({
         <JsonLd data={websiteSchema} />
         <JsonLd data={organizationSchema} />
         <Header />
+        <SearchWrapper />
         <main>{children}</main>
         <Footer />
         <Analytics />

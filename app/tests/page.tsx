@@ -1,6 +1,7 @@
 import { getArticlesByCategory } from '@/lib/articles'
 import { enrichArticlesWithCovers } from '@/lib/igdb'
 import ArticleCard from '@/components/ArticleCard'
+import Pagination from '@/components/Pagination'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -8,8 +9,20 @@ export const metadata: Metadata = {
   description: 'Tous les tests de jeux vidéo par InsertCoins.press. Des critiques honnêtes et sans compromis.',
 }
 
-export default async function TestsPage() {
-  const articles = await enrichArticlesWithCovers(getArticlesByCategory('tests'))
+const ARTICLES_PER_PAGE = 9
+
+export default async function TestsPage({
+  searchParams,
+}: {
+  searchParams: { page?: string }
+}) {
+  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('tests'))
+  const currentPage = Math.max(1, parseInt(searchParams.page ?? '1', 10))
+  const totalPages = Math.ceil(allArticles.length / ARTICLES_PER_PAGE)
+  const articles = allArticles.slice(
+    (currentPage - 1) * ARTICLES_PER_PAGE,
+    currentPage * ARTICLES_PER_PAGE
+  )
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-12 md:px-8">
@@ -29,11 +42,14 @@ export default async function TestsPage() {
       {articles.length === 0 ? (
         <p className="py-24 text-center text-ink-muted">Aucun test pour le moment.</p>
       ) : (
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {articles.map((article) => (
-            <ArticleCard key={article.slug} article={article} />
-          ))}
-        </div>
+        <>
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {articles.map((article) => (
+              <ArticleCard key={article.slug} article={article} />
+            ))}
+          </div>
+          <Pagination currentPage={currentPage} totalPages={totalPages} basePath="/tests" />
+        </>
       )}
     </div>
   )

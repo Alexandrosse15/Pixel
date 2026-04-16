@@ -1,4 +1,4 @@
-import { Category, categoryConfig } from '@/lib/articles'
+import { Category, categoryConfig } from '@/lib/categories'
 
 interface Props {
   category: Category

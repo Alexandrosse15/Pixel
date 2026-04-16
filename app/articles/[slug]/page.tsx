@@ -3,6 +3,7 @@ import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib
 import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
+import Comments from '@/components/Comments'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -251,6 +252,9 @@ export default async function ArticlePage({ params }: Props) {
             {article.content}
           </ReactMarkdown>
         </div>
+
+        {/* Comments */}
+        <Comments slug={article.slug} />
 
         {/* Bottom nav */}
         <div className="mt-16 border-t border-line pt-8">

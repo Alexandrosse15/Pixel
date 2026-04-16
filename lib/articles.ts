@@ -1,10 +1,11 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+export type { Category } from './categories'
+export { categoryConfig } from './categories'
+import type { Category } from './categories'
 
 const contentDirectory = path.join(process.cwd(), 'content/articles')
-
-export type Category = 'tests' | 'previews' | 'dossiers' | 'industrie'
 
 export interface Article {
   slug: string
@@ -21,13 +22,6 @@ export interface Article {
   gameNames?: string[]
   content: string
   featured?: boolean
-}
-
-export const categoryConfig: Record<Category, { label: string; color: string; textColor: string }> = {
-  tests: { label: 'Test', color: 'bg-brand', textColor: 'text-white' },
-  previews: { label: 'Preview', color: 'bg-amber-500', textColor: 'text-black' },
-  dossiers: { label: 'Dossier', color: 'bg-violet-600', textColor: 'text-white' },
-  industrie: { label: 'Industrie', color: 'bg-emerald-600', textColor: 'text-white' },
 }
 
 export function getAllArticles(): Article[] {
