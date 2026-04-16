@@ -6,6 +6,7 @@ import { getT, type Locale } from '@/lib/i18n'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Comments from '@/components/Comments'
+import CommunityRating from '@/components/CommunityRating'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -263,6 +264,7 @@ export default async function ArticlePage({ params }: Props) {
         </div>
 
         {/* Comments */}
+        <CommunityRating slug={article.slug} />
         <Comments slug={article.slug} />
 
         {/* Bottom nav */}
