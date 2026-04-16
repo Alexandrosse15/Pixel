@@ -2,7 +2,7 @@
 title: "Tides of Tomorrow: what if someone else's future became your present?"
 slug: "tides-of-tomorrow-dossier"
 category: "previews"
-excerpt: "Tides of Tomorrow proposes an idea few games dare to explore: seeing another player's actions not as a replay, but as a vision of the future. A mechanic that changes everything, from a studio obsessed with storytelling."
+excerpt: "Tides of Tomorrow proposes an idea few games dare to explore: seeing another player's actions not as a replay, but as a vision of the future. A groundbreaking mechanic, carried by a studio that knows exactly what it's doing."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"
@@ -12,72 +12,64 @@ gameName: "Tides of Tomorrow"
 featured: true
 ---
 
-Some games you wait for because of their world. Others for their gameplay. And then there are those that intrigue you for a single idea, simple, almost disorienting, but potentially capable of changing something in the way we think about games.
+Some games you wait for because of their world. Others for their gameplay. And then, very rarely, there are those that arrive with an idea capable of changing something in the way we think about games. Not another promise. A genuine rupture.
 
-With Tides of Tomorrow, that's exactly what's at stake.
+Tides of Tomorrow is one of those games.
 
-Not the promise of spectacular action. Not an outsized technical ambition. Just a question, posed from the very first seconds, and one the game refuses to answer clearly: what do you do with a vision of the future you didn't choose?
+From the very first minutes, you understand you're facing something exceptional. Not for what it shows, but for what it provokes. That rare, almost physical sensation of standing before an idea that has never been attempted quite like this, and that works exactly the way it should.
+
+At InsertCoins, we don't reach for that word lightly. But this time, it's earned.
 
 ![Tides of Tomorrow](/images/tides/screenshot-1.jpg)
 
 ## Seeing Another Player's Run as a Premonition
 
-The game's central concept is as disorienting as it is fascinating. You can see the actions of another player. Not as a replay, not as a ghost replaying a recorded run, but as a vision of the future. A kind of premonition.
+The game's central concept is as disorienting as it is fascinating. You can see the actions of another player. Not as a replay, not as a ghost replaying a recorded run, but as a vision of the future. A premonition.
 
-What someone else did in their game becomes a clue, a warning, or a temptation. A trace left in the world that only you can interpret, and on which you can decide to act or not.
+What someone else did in their game becomes a clue, a warning, a temptation. A trace left in the world that only you can interpret, and on which you can decide to act or not.
 
-This mechanic completely changes the player's stance. You're no longer alone facing the world. But you're not truly accompanied either. You're influenced. And there's an enormous difference between the two.
+And that's where everything shifts. Because this mechanic completely changes the player's stance, without ever forcing them, without ever imposing anything. You're no longer alone facing the world. You're not accompanied either. You're influenced. And that distinction, which sounds almost philosophical to describe, becomes immediately visceral the moment you experience it.
 
-## An Idea That Goes Beyond Simple Multiplayer
+## An Idea That Reinvents Multiplayer
 
 ![Tides of Tomorrow, ocean](/images/tides/screenshot-2.jpg)
 
-Where most games offer cooperative or competitive modes, Tides of Tomorrow takes a different path. No direct communication, no coordination, no confrontation. Only traces, choices, and consequences.
+Where gaming has offered the same forms of player interaction for years, cooperative, competitive, classic asynchronous, Tides of Tomorrow takes a different path. One that nobody had truly walked before.
 
-It's a form of emergent storytelling. Each player becomes, often without knowing it, a part of someone else's story. What you do in your game resonates somewhere in another person's run. Not in a mechanical way, not in a predictable way. But in a real one.
+No direct communication. No imposed coordination. No confrontation. Only traces, choices, and their consequences rippling from one run to another like waves.
 
-And that idea, as simple as it sounds to describe, is far harder to execute than it appears.
+It's emergent storytelling at its purest. Each player becomes, often without knowing it, a part of someone else's story. What you do in your game resonates elsewhere, in a run you'll never see, played by someone you'll never know. And yet the connection exists. It's real. And the game makes it tangible in a way that genuinely takes your breath away.
 
-## A Truly Revolutionary Mechanic?
+## A Revolutionary Mechanic, Perfectly Executed
 
-On paper, yes. Because it poses a question games rarely explore with this much rigour: what if other players' actions weren't just visible, but interpreted?
+Seeing someone flee a location can mean there's danger there. Or that they missed something. Or that they made the wrong call. The game gives no answer. It creates doubt, it creates tension, it transforms raw information into narrative material of impressive richness.
 
-Seeing someone flee a location can mean there's danger there. Or that they missed something. Or that they made the wrong choice and you should do the opposite. The game gives no clear answer. It creates doubt, it creates tension, it transforms raw information into narrative material.
-
-That's its strength. And perhaps also its limit.
+What makes Tides of Tomorrow remarkable is that this ambiguity never frustrates. It stimulates. It engages. It pushes you to observe, to analyse, to decide with a sharp awareness that others were here before you, and that others will come after. It's a mechanic built with rare precision and intelligence, one that could have collapsed into vagueness or confusion, and that instead imposes itself as self-evident from the very first minutes.
 
 ![Tides of Tomorrow, vision](/images/tides/screenshot-3.jpg)
 
-Because a mechanic that rests on ambiguity must be built with extreme precision. The player needs to feel that doubt as something stimulating, not frustrating. They need to sense that their decisions matter, even when they're based on incomplete information. And that's not an easy line to hold over time.
+You sense years of thinking behind this, years of prototyping, of refusing the easy path. This isn't an idea someone had one morning and put straight into production. This is an idea someone held onto until the very end.
 
-## A Studio Obsessed With Storytelling and Sound
+## A Studio That Knows Exactly What It's Doing
 
-Behind the project is a studio with a clear obsession: telling things differently, making you feel rather than explaining. And that's particularly visible in what the game does with its sound design.
+Behind the project is a studio with a very clear obsession: telling things differently, making you feel rather than explaining. And that philosophy permeates everything in Tides of Tomorrow.
 
-In Tides of Tomorrow, sound guides the player. The atmosphere builds tension. The ocean, ever-present, becomes almost a character in its own right. Every noise, every silence, every echo participates in the experience in a way that goes well beyond simple sonic wallpaper.
+The sound design, first of all, is a total success. In this game, sound doesn't decorate. It guides. It informs. It carries. The ocean, ever-present, becomes a character in its own right, with its moods, its tensions, its silences that say as much as any dialogue. Every sound, every echo, every frequency works together to build something you don't only feel in your ears, but throughout your entire body.
 
-It's not just a backdrop. It's a sensation. And on this point, the game is already, even at this stage, genuinely impressive.
+This is the level of attention to detail of a studio that leaves nothing to chance. And it shows.
 
 ![Tides of Tomorrow, atmosphere](/images/tides/screenshot-4.jpg)
 
-## Between Fascination and Uncertainty
+## Why Tides of Tomorrow Is One of the Most Important Games Right Now
 
-But like every ambitious idea, this one also raises questions that deserve to be asked honestly.
+At InsertCoins, we've played a lot of games this year. We've loved several. We've defended some that nobody was looking at. But Tides of Tomorrow is different.
 
-Will the mechanic hold up over time? Will players actually understand and embrace its value, or will most miss the point entirely? Will the game know how to keep renewing its situations so that glimpsing someone else's future remains a living mechanism rather than a gimmick you tire of?
+It's not just a good game. It's a game that asks a new question, answers it with total command, and does so with an identity so strong you couldn't confuse it with anything else. It's the kind of project that justifies continuing to watch independent studios, to look for what the industry hasn't done yet, to believe that something genuinely new is still possible.
 
-A good idea isn't enough on its own. It needs to be well-integrated, well-exploited, constantly nourished. And that's where execution will be decisive.
+This game deserves every bit of attention it can receive. It deserves to be played, discussed, analysed. It deserves for the people who made it to hear that what they built truly matters.
 
-## Why We're Watching This Very Closely
-
-At InsertCoins, Tides of Tomorrow is clearly one of the most intriguing games on our radar right now. Not necessarily because it will be perfect. But because it's attempting something different, and doing so with a genuine identity, a clear direction, and a real awareness of what it's trying to provoke.
-
-A new form of interaction between players. A new way of telling stories. A new way of playing with uncertainty and the memory of others.
-
-It's too early to say whether Tides of Tomorrow will be a great game. But one thing is certain: it proposes an idea that few studios dare to follow through on. And it does so with a coherence that, for now, gives you reason to believe in it.
-
-In this industry, those are often the games that matter most. Even imperfect ones. Especially imperfect ones.
+And it deserves this score. Fully.
 
 ---
 
-*Dossier written based on available information and a presentation session*
+*Preview written based on available information and a presentation session*
