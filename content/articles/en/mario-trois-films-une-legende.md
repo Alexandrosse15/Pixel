@@ -11,9 +11,9 @@ coverImage: "/images/mario/screenshot-1.jpg"
 featured: false
 ---
 
-Some franchises should never have ended up in cinemas. And then there's Mario, who went three times, in three radically different ways, and each time managed to surprise us — even when it wasn't for the right reasons.
+Some franchises should never have ended up in cinemas. And then there's Mario, who went three times, in three radically different ways, and each time managed to surprise us even when it wasn't for the right reasons.
 
-With the new film just out, the opportunity is too good to pass up: a look back at the whole story. Because between the live-action madness of 1993, the animated triumph of 2023, and this new chapter, there's an unexpected coherence. The coherence of a franchise that doesn't quite know what it is on screen — and which, for precisely that reason, remains fascinating.
+With the new film just out, the opportunity is too good to pass up: a look back at the whole story. Because between the live-action madness of 1993, the animated triumph of 2023, and this new chapter, there's an unexpected coherence. The coherence of a franchise that doesn't quite know what it is on screen and which, for precisely that reason, remains fascinating.
 
 ![Mario at the cinema](/images/mario/screenshot-1.jpg)
 
@@ -23,7 +23,7 @@ Let's be honest about what the 1993 Super Mario Bros. actually is. It's a strang
 
 And yet.
 
-This film breathes the 90s in a way that has become, with time, almost miraculous. The grainy photography, the sets that smell of latex and glue, the special effects you could already see ageing in theatres — all of this forms today a perfect time capsule. Watching this film in 2026 is watching a version of genre cinema that no longer exists. Imperfect, audacious, strangely sincere in its madness.
+This film breathes the 90s in a way that has become, with time, almost miraculous. The grainy photography, the sets that smell of latex and glue, the special effects you could already see ageing in theatres all of this forms today a perfect time capsule. Watching this film in 2026 is watching a version of genre cinema that no longer exists. Imperfect, audacious, strangely sincere in its madness.
 
 We love it for that. We might even love it more for that than for what it claimed to be.
 
@@ -31,11 +31,11 @@ We love it for that. We might even love it more for that than for what it claime
 
 ## 2023: when Mario finally learns to be Mario
 
-The 2023 Illumination film did something nobody had managed in thirty years: it did justice to the universe of the games. Not by being "faithful" in a mechanical way, but by understanding what makes Mario's magic — the colour, the energy, the rhythm, that way the games have of making you smile without ever asking why.
+The 2023 Illumination film did something nobody had managed in thirty years: it did justice to the universe of the games. Not by being "faithful" in a mechanical way, but by understanding what makes Mario's magic the colour, the energy, the rhythm, that way the games have of making you smile without ever asking why.
 
 It's not a great film in the dramatic sense. The screenplay is simple, the stakes predictable, the storytelling safe. But it achieves something essential: it makes you feel Mario. It translates onto screen a sensation millions of players have carried since childhood, and it does so with a visual and sonic precision that occasionally borders on prodigious.
 
-The film was a massive hit. Logically. Because it understood that Mario at the cinema shouldn't be an adaptation, but an extension — an additional space where the universe could exist differently.
+The film was a massive hit. Logically. Because it understood that Mario at the cinema shouldn't be an adaptation, but an extension an additional space where the universe could exist differently.
 
 ## 2026: the new chapter
 
@@ -43,7 +43,7 @@ The film was a massive hit. Logically. Because it understood that Mario at the c
 
 With this new film, the question was simple: now that the formula works, are we going to do something with it, or just repeat it?
 
-The answer sits somewhere between the two. The film clearly owns its lineage from 2023 — same energy, same visual generosity, same relationship to fan service that never takes itself too seriously. But there are new ambitions, a willingness to go a little further, to give more substance to a universe that had the means but not yet the confidence.
+The answer sits somewhere between the two. The film clearly owns its lineage from 2023 same energy, same visual generosity, same relationship to fan service that never takes itself too seriously. But there are new ambitions, a willingness to go a little further, to give more substance to a universe that had the means but not yet the confidence.
 
 This isn't a revolution. It's a confirmation. Mario is now a cinematic franchise that knows what it is, owns its strengths, and is beginning to work on its weaknesses. For a franchise that nearly fumbled its entrance into the big leagues, that's already a great deal.
 
@@ -53,11 +53,11 @@ This isn't a revolution. It's a confirmation. Mario is now a cinematic franchise
 
 What's striking, looking at these three films side by side, is how clearly each reflects the era that produced it.
 
-1993 is Hollywood not yet knowing what to do with video games — seeing a popular IP and treating it like modelling clay, with no regard for what made it special. The result is chaotic, but it has the merit of existing fully, unashamedly, in its own strangeness.
+1993 is Hollywood not yet knowing what to do with video games seeing a popular IP and treating it like modelling clay, with no regard for what made it special. The result is chaotic, but it has the merit of existing fully, unashamedly, in its own strangeness.
 
 2023 is the era of studios that understood game franchises deserve respect, that fans have long memories and precise expectations. It's a film made by people who loved Mario. And you can hear it, see it, feel it.
 
-2026 might be the beginning of something else — a film that no longer merely pays homage, but starts to build.
+2026 might be the beginning of something else a film that no longer merely pays homage, but starts to build.
 
 ## The case for the old madman from 1993
 

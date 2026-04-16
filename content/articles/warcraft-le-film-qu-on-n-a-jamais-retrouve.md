@@ -1,5 +1,5 @@
 ---
-title: "Warcraft — le film qu'on n'attendait pas… et qu'on n'a jamais vraiment retrouvé"
+title: "Warcraft le film qu'on n'attendait pas… et qu'on n'a jamais vraiment retrouvé"
 slug: "warcraft-le-film-qu-on-n-a-jamais-retrouve"
 category: "cinema"
 excerpt: "À sa sortie, Warcraft a divisé la critique. Chez InsertCoins, le constat est sans appel : on a adoré. Et ça nous a brisé le cœur qu'il n'y ait jamais eu de suite."
@@ -50,7 +50,7 @@ Tout n'est pas parfait, évidemment. Le rythme trébuche par endroits, certains 
 
 Il y a un moment précis dans le film où quelque chose se passe pour ceux qui ont joué.
 
-Quand les images posent les Marches de l'Ouest à l'écran — ce paysage d'herbes dorées, ces plaines qui s'étendent sous un ciel lourd, cette lumière particulière qu'on a regardée pendant des centaines d'heures derrière un écran — quelque chose frémit. Un souvenir qui remonte d'un coup, sans prévenir. Pas une nostalgie vague et abstraite. Une mémoire physique, presque. Comme si le corps reconnaissait l'endroit avant que le cerveau ait le temps de mettre le mot dessus.
+Quand les images posent les Marches de l'Ouest à l'écran ce paysage d'herbes dorées, ces plaines qui s'étendent sous un ciel lourd, cette lumière particulière qu'on a regardée pendant des centaines d'heures derrière un écran quelque chose frémit. Un souvenir qui remonte d'un coup, sans prévenir. Pas une nostalgie vague et abstraite. Une mémoire physique, presque. Comme si le corps reconnaissait l'endroit avant que le cerveau ait le temps de mettre le mot dessus.
 
 C'est ça, la vraie force du film pour ceux qui ont grandi avec cet univers. Il ne reproduit pas Azeroth. Il la convoque. Et pendant quelques secondes, on n'est plus dans une salle de cinéma. On est ailleurs, dans quelque chose qui nous appartient depuis longtemps.
 
@@ -74,7 +74,7 @@ On attend toujours.
 
 Il faut qu'on parle de Travis Fimmel.
 
-Parce que pendant une bonne partie de notre première vision du film, on regardait le personnage d'Anduin Lothar en se disant qu'il avait quelque chose de familier. Une façon de bouger. Un regard. Quelque chose qu'on n'arrivait pas à placer.
+Parce que pendant une bonne partie de notre première vision du film, on regardait le personnage d'Lothar en se disant qu'il avait quelque chose de familier. Une façon de bouger. Un regard. Quelque chose qu'on n'arrivait pas à placer.
 
 C'est seulement après le générique, en cherchant le casting, qu'on a réalisé.
 

@@ -2,7 +2,7 @@
 title: "Pourquoi les jeux indé sont devenus plus intéressants que les AAA"
 slug: "pourquoi-les-jeux-inde-sont-devenus-plus-interessants-que-les-aaa"
 category: "dossiers"
-excerpt: "Les AAA sont toujours plus grands, toujours plus chers, toujours plus impressionnants. Mais de moins en moins intéressants. Pendant ce temps, les jeux indépendants prennent une autre direction — plus risquée, plus personnelle, souvent plus marquante."
+excerpt: "Les AAA sont toujours plus grands, toujours plus chers, toujours plus impressionnants. Mais de moins en moins intéressants. Pendant ce temps, les jeux indépendants prennent une autre direction plus risquée, plus personnelle, souvent plus marquante."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "10 min"

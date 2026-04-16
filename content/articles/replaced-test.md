@@ -18,7 +18,7 @@ Avec REPLACED, la première réaction est immédiate et sans ambiguïté : c'est
 
 Mais une fois la claque visuelle passée, une question reste. Et c'est souvent la plus difficile à poser sur un jeu aussi beau : est-ce que le reste suit ?
 
-*Sorti sur PC et Xbox Series X|S — date de sortie : 2026*
+*Sorti sur PC et Xbox Series X|S date de sortie : 2026*
 
 ![REPLACED](/images/replaced/screenshot-1.jpg)
 

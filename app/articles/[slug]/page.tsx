@@ -91,7 +91,7 @@ export default async function ArticlePage({ params }: Props) {
         },
         itemReviewed: {
           '@type': 'VideoGame',
-          name: article.gameName ?? article.title.split('—')[0].trim(),
+          name: article.gameName ?? article.title,
           ...(communityRating.count > 0 && {
             aggregateRating: {
               '@type': 'AggregateRating',

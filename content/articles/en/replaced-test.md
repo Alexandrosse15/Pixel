@@ -18,7 +18,7 @@ With REPLACED, the first reaction is immediate and unambiguous: it's beautiful. 
 
 But once the visual impact settles, a question remains. And it's often the hardest one to ask about a game this stunning: does the rest hold up?
 
-*Available on PC and Xbox Series X|S — release date: 2026*
+*Available on PC and Xbox Series X|S release date: 2026*
 
 ![REPLACED](/images/replaced/screenshot-1.jpg)
 
@@ -70,7 +70,7 @@ This isn't without precedent. Some games commit fully to this proposition and su
 
 ## A game or an artistic experience?
 
-That's where REPLACED becomes an open question. Approached as a pure game, you can legitimately feel frustrated by the lack of mechanical depth. Approached as an artistic experience, it works better — the aesthetic coherence justifying the journey on its own terms.
+That's where REPLACED becomes an open question. Approached as a pure game, you can legitimately feel frustrated by the lack of mechanical depth. Approached as an artistic experience, it works better the aesthetic coherence justifying the journey on its own terms.
 
 But either way, something small is missing. A twist. A strong gameplay idea that would complement what the art direction does so well. That twist never quite arrives.
 

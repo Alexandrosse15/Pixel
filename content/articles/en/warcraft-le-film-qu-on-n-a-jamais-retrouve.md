@@ -1,5 +1,5 @@
 ---
-title: "Warcraft — the film we didn't expect… and never really got back"
+title: "Warcraft the film we didn't expect… and never really got back"
 slug: "warcraft-le-film-qu-on-n-a-jamais-retrouve"
 category: "cinema"
 excerpt: "When it came out, Warcraft divided critics. At InsertCoins, our verdict is simple: we loved it. And it broke our hearts that there was never a sequel."
@@ -50,7 +50,7 @@ Not everything works perfectly. The pacing stumbles in places, some of the human
 
 There's one specific moment in the film where something happens for those who have played.
 
-When the images place Westfall on screen — those golden plains, the grass stretching under a heavy sky, that particular light you stared at for hundreds of hours behind a screen — something stirs. A memory that surfaces all at once, without warning. Not a vague, abstract nostalgia. Something closer to physical memory. As if the body recognises the place before the brain has time to find the word for it.
+When the images place Westfall on screen those golden plains, the grass stretching under a heavy sky, that particular light you stared at for hundreds of hours behind a screen something stirs. A memory that surfaces all at once, without warning. Not a vague, abstract nostalgia. Something closer to physical memory. As if the body recognises the place before the brain has time to find the word for it.
 
 That's the film's real power for those who grew up with this universe. It doesn't reproduce Azeroth. It summons it. And for a few seconds, you're not in a cinema anymore. You're somewhere else, inside something that has belonged to you for a long time.
 
@@ -74,7 +74,7 @@ We're still waiting.
 
 We have to talk about Travis Fimmel.
 
-Because for a significant portion of our first viewing of the film, we kept staring at the character of Anduin Lothar thinking he looked oddly familiar. Something about the way he moved. A look. Something we couldn't place.
+Because for a significant portion of our first viewing of the film, we kept staring at the character of Lothar thinking he looked oddly familiar. Something about the way he moved. A look. Something we couldn't place.
 
 It was only after the credits, while checking the cast list, that it clicked.
 

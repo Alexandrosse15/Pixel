@@ -2,7 +2,7 @@
 title: "Why indie games have become more interesting than AAA titles"
 slug: "pourquoi-les-jeux-inde-sont-devenus-plus-interessants-que-les-aaa"
 category: "dossiers"
-excerpt: "AAA games keep getting bigger, more expensive, more technically impressive. But less and less interesting. Meanwhile, independent games are taking a different direction — riskier, more personal, and more often genuinely memorable."
+excerpt: "AAA games keep getting bigger, more expensive, more technically impressive. But less and less interesting. Meanwhile, independent games are taking a different direction riskier, more personal, and more often genuinely memorable."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "10 min"
