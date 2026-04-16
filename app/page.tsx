@@ -5,6 +5,30 @@ import { getT, type Locale } from '@/lib/i18n'
 import HeroArticle from '@/components/HeroArticle'
 import ArticleCard from '@/components/ArticleCard'
 import SectionHeader from '@/components/SectionHeader'
+import type { Metadata } from 'next'
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/config'
+
+export const metadata: Metadata = {
+  title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+  description: SITE_DESCRIPTION,
+  alternates: { canonical: SITE_URL },
+  openGraph: {
+    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    type: 'website',
+    locale: 'fr_FR',
+    siteName: SITE_NAME,
+    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `${SITE_NAME}, le média indépendant du jeu vidéo` }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@insertcoinspress',
+    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+    description: SITE_DESCRIPTION,
+    images: ['/opengraph-image'],
+  },
+}
 
 export default async function HomePage() {
   const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale

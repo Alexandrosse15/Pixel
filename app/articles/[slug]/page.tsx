@@ -3,6 +3,7 @@ import { cookies } from 'next/headers'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
 import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
+import { getRating } from '@/lib/redis'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Comments from '@/components/Comments'
@@ -36,6 +37,12 @@ export async function generateMetadata({ params }: Props) {
       authors: [article.author],
       tags: [article.category, 'jeux vidéo', 'gaming'],
     },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@insertcoinspress',
+      title: article.title,
+      description: article.excerpt,
+    },
   }
 }
 
@@ -53,9 +60,10 @@ export default async function ArticlePage({ params }: Props) {
     ? getGameScreenshots(raw.gameName, 10)
     : Promise.resolve([])
 
-  const [article, screenshots] = await Promise.all([
+  const [article, screenshots, communityRating] = await Promise.all([
     enrichArticleWithCover(raw),
     screenshotsPromise,
+    getRating(params.slug),
   ])
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
@@ -83,7 +91,16 @@ export default async function ArticlePage({ params }: Props) {
         },
         itemReviewed: {
           '@type': 'VideoGame',
-          name: article.title.split('—')[0].trim(),
+          name: article.gameName ?? article.title.split('—')[0].trim(),
+          ...(communityRating.count > 0 && {
+            aggregateRating: {
+              '@type': 'AggregateRating',
+              ratingValue: communityRating.average,
+              ratingCount: communityRating.count,
+              bestRating: 100,
+              worstRating: 0,
+            },
+          }),
         },
       }
     : {

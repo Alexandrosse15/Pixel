@@ -5,10 +5,27 @@ import { getT, type Locale } from '@/lib/i18n'
 import ArticleCard from '@/components/ArticleCard'
 import Pagination from '@/components/Pagination'
 import type { Metadata } from 'next'
+import { SITE_URL, SITE_NAME } from '@/lib/config'
 
 export const metadata: Metadata = {
   title: 'Dossiers',
   description: 'Analyses de fond, rétrospectives et grands dossiers sur le jeu vidéo par InsertCoins.press.',
+  alternates: { canonical: `${SITE_URL}/dossiers` },
+  openGraph: {
+    title: `Dossiers | ${SITE_NAME}`,
+    description: 'Analyses de fond, rétrospectives et grands dossiers sur le jeu vidéo par InsertCoins.press.',
+    url: `${SITE_URL}/dossiers`,
+    type: 'website',
+    locale: 'fr_FR',
+    siteName: SITE_NAME,
+    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Dossiers | ${SITE_NAME}` }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@insertcoinspress',
+    title: `Dossiers | ${SITE_NAME}`,
+    description: 'Analyses de fond, rétrospectives et grands dossiers sur le jeu vidéo par InsertCoins.press.',
+  },
 }
 
 const ARTICLES_PER_PAGE = 9
