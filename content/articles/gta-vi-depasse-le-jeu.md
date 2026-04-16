@@ -21,7 +21,7 @@ Avec GTA VI, Rockstar Games ne promet pas seulement un jeu. Le studio orchestre 
 
 Depuis la sortie de Grand Theft Auto V, l'industrie a changé. Les modèles économiques ont évolué, les technologies ont progressé, mais Rockstar, lui, a pris son temps.
 
-Ce silence n'a pas freiné l'attente — il l'a amplifiée.
+Ce silence n'a pas freiné l'attente, il l'a amplifiée.
 
 Chaque fuite, chaque image, chaque seconde de trailer est disséquée, analysée, surinterprétée. GTA VI n'est plus seulement attendu pour ce qu'il est, mais pour ce qu'il représente :
 
@@ -72,7 +72,7 @@ GTA VI doit être :
 
 Et en même temps, il doit surprendre.
 
-C'est là tout le paradoxe : répondre à des attentes devenues presque impossibles. Car GTA V n'est pas seulement un succès — c'est un monument. Et dépasser un monument, c'est risquer de décevoir, même en réussissant.
+C'est là tout le paradoxe : répondre à des attentes devenues presque impossibles. Car GTA V n'est pas seulement un succès : c'est un monument. Et dépasser un monument, c'est risquer de décevoir, même en réussissant.
 
 ## Une industrie suspendue à sa sortie
 
@@ -98,6 +98,6 @@ Celui d'une industrie capable de produire des œuvres gigantesques, mais aussi p
 
 Quand GTA VI sortira, il sera jugé, comparé, disséqué. Certains seront déçus, d'autres émerveillés.
 
-Mais une chose est certaine : pendant quelques semaines — ou quelques mois — le monde du jeu vidéo tournera autour de lui.
+Mais une chose est certaine : pendant quelques semaines, ou quelques mois, le monde du jeu vidéo tournera autour de lui.
 
 Et au fond, c'est peut-être ça, le véritable pouvoir de Grand Theft Auto.
