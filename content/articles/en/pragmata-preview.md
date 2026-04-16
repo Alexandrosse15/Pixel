@@ -8,7 +8,7 @@ author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-slate-900 via-blue-950 to-indigo-950"
 gameName: "Pragmata"
-featured: true
+featured: false
 ---
 
 ![Pragmata overview](/images/pragmata/screenshot-1.jpg)
