@@ -6,7 +6,7 @@ excerpt: "Some games make you dream. Others make you want to open Excel. Under P
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "8 min"
-score: 5
+score: 7.5
 image_color: "from-green-950 via-emerald-900 to-slate-950"
 gameName: "Under Par Golf Architect"
 featured: false
