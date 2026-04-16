@@ -5,7 +5,8 @@ export type { Category } from './categories'
 export { categoryConfig } from './categories'
 import type { Category } from './categories'
 
-const contentDirectory = path.join(process.cwd(), 'content/articles')
+const FR_DIR = path.join(process.cwd(), 'content/articles')
+const EN_DIR = path.join(process.cwd(), 'content/articles/en')
 
 export interface Article {
   slug: string
@@ -24,35 +25,20 @@ export interface Article {
   featured?: boolean
 }
 
-export function getAllArticles(): Article[] {
-  if (!fs.existsSync(contentDirectory)) return []
-
-  const fileNames = fs.readdirSync(contentDirectory)
-  const articles = fileNames
-    .filter((name) => name.endsWith('.md'))
-    .map((fileName) => {
-      const slug = fileName.replace(/\.md$/, '')
-      return getArticleBySlug(slug)
-    })
-    .filter(Boolean) as Article[]
-
-  return articles.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  )
+function contentDir(locale = 'fr') {
+  return locale === 'en' ? EN_DIR : FR_DIR
 }
 
-export function getArticlesByCategory(category: Category): Article[] {
-  return getAllArticles().filter((article) => article.category === category)
-}
-
-export function getFeaturedArticle(): Article | null {
-  const all = getAllArticles()
-  return all.find((a) => a.featured) ?? all[0] ?? null
-}
-
-export function getArticleBySlug(slug: string): Article | null {
+function parseFile(slug: string, locale = 'fr'): Article | null {
   try {
-    const fullPath = path.join(contentDirectory, `${slug}.md`)
+    const dir = contentDir(locale)
+    const fullPath = path.join(dir, `${slug}.md`)
+
+    // English fallback to French if translation doesn't exist
+    if (locale === 'en' && !fs.existsSync(fullPath)) {
+      return parseFile(slug, 'fr')
+    }
+
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const { data, content } = matter(fileContents)
 
@@ -77,6 +63,45 @@ export function getArticleBySlug(slug: string): Article | null {
   }
 }
 
+export function getAllArticles(locale = 'fr'): Article[] {
+  if (!fs.existsSync(FR_DIR)) return []
+
+  // Always enumerate slugs from the FR directory (source of truth)
+  const slugs = fs
+    .readdirSync(FR_DIR)
+    .filter((name) => name.endsWith('.md'))
+    .map((name) => name.replace(/\.md$/, ''))
+
+  const articles = slugs
+    .map((slug) => parseFile(slug, locale))
+    .filter(Boolean) as Article[]
+
+  return articles.sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  )
+}
+
+export function getArticlesByCategory(category: Category, locale = 'fr'): Article[] {
+  return getAllArticles(locale).filter((a) => a.category === category)
+}
+
+export function getFeaturedArticle(locale = 'fr'): Article | null {
+  const all = getAllArticles(locale)
+  return all.find((a) => a.featured) ?? all[0] ?? null
+}
+
+export function getArticleBySlug(slug: string, locale = 'fr'): Article | null {
+  return parseFile(slug, locale)
+}
+
+export function getAllSlugs(): string[] {
+  if (!fs.existsSync(FR_DIR)) return []
+  return fs
+    .readdirSync(FR_DIR)
+    .filter((name) => name.endsWith('.md'))
+    .map((name) => name.replace(/\.md$/, ''))
+}
+
 export function formatDate(dateStr: string): string {
   const date = new Date(dateStr)
   return date.toLocaleDateString('fr-FR', {
@@ -84,12 +109,4 @@ export function formatDate(dateStr: string): string {
     month: 'long',
     year: 'numeric',
   })
-}
-
-export function getAllSlugs(): string[] {
-  if (!fs.existsSync(contentDirectory)) return []
-  return fs
-    .readdirSync(contentDirectory)
-    .filter((name) => name.endsWith('.md'))
-    .map((name) => name.replace(/\.md$/, ''))
 }

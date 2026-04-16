@@ -43,7 +43,7 @@ export default async function ArticlePage({ params }: Props) {
   const t = getT(locale)
   const a = t.article
 
-  const raw = getArticleBySlug(params.slug)
+  const raw = getArticleBySlug(params.slug, locale)
   if (!raw) notFound()
 
   const screenshotsPromise = raw.gameNames?.length

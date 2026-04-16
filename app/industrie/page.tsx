@@ -22,7 +22,7 @@ export default async function IndustriePage({
   const t = getT(locale)
   const s = t.sections.industrie
 
-  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('industrie'))
+  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('industrie', locale))
   const currentPage = Math.max(1, parseInt(searchParams.page ?? '1', 10))
   const totalPages = Math.ceil(allArticles.length / ARTICLES_PER_PAGE)
   const articles = allArticles.slice(

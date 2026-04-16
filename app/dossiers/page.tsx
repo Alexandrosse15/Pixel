@@ -22,7 +22,7 @@ export default async function DossiersPage({
   const t = getT(locale)
   const s = t.sections.dossiers
 
-  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('dossiers'))
+  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('dossiers', locale))
   const currentPage = Math.max(1, parseInt(searchParams.page ?? '1', 10))
   const totalPages = Math.ceil(allArticles.length / ARTICLES_PER_PAGE)
   const articles = allArticles.slice(

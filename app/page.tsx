@@ -11,7 +11,7 @@ export default async function HomePage() {
   const t = getT(locale)
   const h = t.home
 
-  const all = await enrichArticlesWithCovers(getAllArticles())
+  const all = await enrichArticlesWithCovers(getAllArticles(locale))
   const featured = all.find((a) => a.featured) ?? all[0] ?? null
   const latestArticles = all.slice(0, 6)
   const tests = all.filter((a) => a.category === 'tests')

@@ -22,7 +22,7 @@ export default async function PreviewsPage({
   const t = getT(locale)
   const s = t.sections.previews
 
-  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('previews'))
+  const allArticles = await enrichArticlesWithCovers(getArticlesByCategory('previews', locale))
   const currentPage = Math.max(1, parseInt(searchParams.page ?? '1', 10))
   const totalPages = Math.ceil(allArticles.length / ARTICLES_PER_PAGE)
   const articles = allArticles.slice(
