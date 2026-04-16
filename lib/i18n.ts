@@ -41,6 +41,12 @@ const translations = {
           "Acquisitions, licenciements, tendances de marché. L'industrie du jeu vidéo vue de l'intérieur.",
         empty: 'Aucun article industrie pour le moment.',
       },
+      cinema: {
+        title: 'Cinéma',
+        description:
+          "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art.",
+        empty: 'Aucun article cinéma pour le moment.',
+      },
     },
     article: {
       score_label: 'Note',
@@ -60,6 +66,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Dossier',
       industrie: 'Industrie',
+      cinema: 'Cinéma',
     },
     search: {
       placeholder: 'Rechercher un article...',
@@ -128,6 +135,12 @@ const translations = {
           "Acquisitions, layoffs, market trends. The video game industry from the inside.",
         empty: 'No industry articles yet.',
       },
+      cinema: {
+        title: 'Cinema',
+        description:
+          "Reviews, analysis and recommendations. A gaming team's take on cinema.",
+        empty: 'No cinema articles yet.',
+      },
     },
     article: {
       score_label: 'Score',
@@ -147,6 +160,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Feature',
       industrie: 'Industry',
+      cinema: 'Cinema',
     },
     search: {
       placeholder: 'Search an article...',

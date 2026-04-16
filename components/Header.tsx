@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { href: '/previews', label: 'Previews' },
   { href: '/dossiers', label: 'Dossiers' },
   { href: '/industrie', label: 'Industrie' },
+  { href: '/cinema', label: 'Cinéma' },
 ]
 
 export default function Header() {
