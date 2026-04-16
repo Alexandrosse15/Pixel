@@ -1,5 +1,5 @@
 ---
-title: "Windrose — Test"
+title: "Windrose"
 slug: "windrose-test"
 category: "tests"
 excerpt: "Le jeu de pirate en monde ouvert que beaucoup attendaient sans vraiment y croire. Une promesse séduisante, un résultat imparfait mais sincère, et surtout : prometteur."

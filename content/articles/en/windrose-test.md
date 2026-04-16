@@ -1,8 +1,8 @@
 ---
-title: "Windrose — Review"
+title: "Windrose Review"
 slug: "windrose-test"
 category: "tests"
-excerpt: "The pirate open-world game many were waiting for without quite believing in it. A seductive promise, an imperfect but sincere result — and above all: a promising one."
+excerpt: "The pirate open-world game many were waiting for without quite believing in it. A seductive promise, an imperfect but sincere result, and above all: a promising one."
 date: "2026-04-16"
 author: "Alexandrosse"
 readTime: "5 min"
@@ -58,7 +58,7 @@ You sense a game still under construction.
 
 ![Windrose multiplayer](/images/windrose/screenshot-4.jpg)
 
-In multiplayer, the game takes on another dimension. Sailing with friends, coordinating actions, managing the ship together — all of this works very well.
+In multiplayer, the game takes on another dimension. Sailing with friends, coordinating actions, managing the ship together, all of this works very well.
 
 This is clearly the configuration in which Windrose reveals its full potential.
 
@@ -89,4 +89,4 @@ But unlike some others, it gives a solid impression of a strong foundation. You 
 - content still light
 - uneven polish
 
-Windrose isn't yet the ultimate pirate game, but it gets closer than many before it. An imperfect title, but a sincere one — and above all, a promising one.
+Windrose isn't yet the ultimate pirate game, but it gets closer than many before it. An imperfect title, but a sincere one, and above all, a promising one.

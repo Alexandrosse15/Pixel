@@ -2,7 +2,7 @@
 title: "GTA VI: the game that already goes beyond the game"
 slug: "gta-vi-depasse-le-jeu"
 category: "dossiers"
-excerpt: "When a new Grand Theft Auto is announced, it isn't just another release on the calendar. It's a cultural event — a tipping point where video games stop being merely entertainment and become a social phenomenon once again."
+excerpt: "When a new Grand Theft Auto is announced, it isn't just another release on the calendar. It's a cultural event, a tipping point where video games stop being merely entertainment and become a social phenomenon once again."
 date: "2026-04-16"
 author: "Alexandrosse"
 readTime: "6 min"
@@ -11,7 +11,7 @@ gameName: "Grand Theft Auto VI"
 featured: false
 ---
 
-When Grand Theft Auto VI is announced, it isn't just another release on the calendar. It's a cultural event — a tipping point where video games stop being merely entertainment and become a social phenomenon once again.
+When Grand Theft Auto VI is announced, it isn't just another release on the calendar. It's a cultural event, a tipping point where video games stop being merely entertainment and become a social phenomenon once again.
 
 With GTA VI, Rockstar Games isn't just promising a game. The studio is already orchestrating something far larger: a worldwide anticipation, almost irrational, nourished by ten years of silence, rumours, and fantasies.
 
@@ -21,7 +21,7 @@ With GTA VI, Rockstar Games isn't just promising a game. The studio is already o
 
 Since the release of Grand Theft Auto V, the industry has changed. Business models have evolved, technologies have advanced, but Rockstar has taken its time.
 
-That silence didn't slow the anticipation — it amplified it.
+That silence didn't slow the anticipation, it amplified it.
 
 Every leak, every image, every second of trailer is dissected, analysed, over-interpreted. GTA VI is no longer anticipated just for what it is, but for what it represents:
 

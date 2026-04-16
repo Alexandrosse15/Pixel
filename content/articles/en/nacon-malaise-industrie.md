@@ -2,7 +2,7 @@
 title: "Nacon's silent unease: chronicle of an industry under strain"
 slug: "nacon-malaise-industrie"
 category: "industrie"
-excerpt: "Behind the official press releases and stated ambitions, a more fragile, more human — and above all more troubling — reality is taking shape around Nacon. A chronicle of a European player caught between growth and its limits."
+excerpt: "Behind the official press releases and stated ambitions, a more fragile, more human, and above all more troubling reality is taking shape around Nacon. A chronicle of a European player caught between growth and its limits."
 date: "2026-04-13"
 author: "Alexandrosse"
 readTime: "7 min"
@@ -14,7 +14,7 @@ gameNames:
 featured: false
 ---
 
-There is something deeply disillusioned about what is playing out today around Nacon in France. Behind the official press releases, the release announcements, and the stated ambitions, a more fragile, more human — and above all more troubling — reality is taking shape.
+There is something deeply disillusioned about what is playing out today around Nacon in France. Behind the official press releases, the release announcements, and the stated ambitions, a more fragile, more human, and above all more troubling reality is taking shape.
 
 ## A Company Between Ambition and Turbulence
 
@@ -24,7 +24,7 @@ Nacon has established itself in recent years as a significant player in European
 
 But this expansion has a cost.
 
-Reports point to increasing pressure on teams, restructurings, and a difficulty in maintaining coherence across projects. By trying to move fast everywhere, the company sometimes gives the impression of spreading itself too thin — at the risk of exhausting the people who actually make the games.
+Reports point to increasing pressure on teams, restructurings, and a difficulty in maintaining coherence across projects. By trying to move fast everywhere, the company sometimes gives the impression of spreading itself too thin, at the risk of exhausting the people who actually make the games.
 
 ## The Human Weight Behind the Productions
 
@@ -32,9 +32,9 @@ Reports point to increasing pressure on teams, restructurings, and a difficulty 
 
 We often talk about numbers, sales, strategy. But we too easily forget the people behind these decisions.
 
-Developing a video game is demanding work, often driven by passion. When conditions deteriorate — tight deadlines, lack of resources, internal uncertainty — entire teams bear the weight. And with them, a part of the creativity.
+Developing a video game is demanding work, often driven by passion. When conditions deteriorate, with tight deadlines, lack of resources, internal uncertainty, and entire teams bear the weight. And with them, a part of the creativity.
 
-What makes the situation sad isn't just the state of one company. It's the idea that talented people — sometimes brilliant ones — might find themselves doubting, burning out, or even leaving an industry they love.
+What makes the situation sad isn't just the state of one company. It's the idea that talented people, sometimes brilliant ones, might find themselves doubting, burning out, or even leaving an industry they love.
 
 ## A Fragile Image
 

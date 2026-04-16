@@ -13,7 +13,7 @@ featured: true
 
 ![Pragmata overview](/images/pragmata/screenshot-1.jpg)
 
-Capcom, as we know, has a formula that works. Resident Evil, Devil May Cry, Monster Hunter: the Japanese publisher knows how to make hits. But pure originality — a project that genuinely steps outside its comfort zone? That's rarer. **Pragmata** might be exactly that.
+Capcom, as we know, has a formula that works. Resident Evil, Devil May Cry, Monster Hunter: the Japanese publisher knows how to make hits. But pure originality, a project that genuinely steps outside its comfort zone? That's rarer. **Pragmata** might be exactly that.
 
 ## Diana and the Astronaut
 
@@ -21,7 +21,7 @@ At the heart of the game, an unlikely duo: **Diana**, a little girl with unexpla
 
 ![Pragmata, Diana and the astronaut](/images/pragmata/screenshot-2.jpg)
 
-What strikes you immediately is the atmosphere. The environments echo Earth — buildings, streets, familiar structures — but everything is **warped**, as if reality had shifted. You navigate between fascination and unease, two feelings Capcom rarely masters this well.
+What strikes you immediately is the atmosphere. The environments echo Earth, buildings, streets, familiar structures, but everything is **warped**, as if reality had shifted. You navigate between fascination and unease, two feelings Capcom rarely masters this well.
 
 ## A Lunar Station as Stage
 
@@ -39,7 +39,7 @@ The game made waves at the **February 2026 State of Play**, with a trailer explo
 
 ![Pragmata, urban environment](/images/pragmata/screenshot-5.jpg)
 
-The free demo confirms the intention: Pragmata wants to establish an atmosphere above all else. No heavy tutorial, no forced exposition. You're thrown into a world that doesn't explain itself — and that's intentional.
+The free demo confirms the intention: Pragmata wants to establish an atmosphere above all else. No heavy tutorial, no forced exposition. You're thrown into a world that doesn't explain itself, and that's intentional.
 
 ![Pragmata, moon and Earth](/images/pragmata/screenshot-6.jpg)
 
