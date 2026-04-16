@@ -188,7 +188,7 @@ export default async function ArticlePage({ params }: Props) {
 
       {/* Article content */}
       <div className="mx-auto max-w-6xl px-4 py-12 md:px-8">
-        <div className="grid grid-cols-1 items-start gap-10 lg:grid-cols-[1fr_260px]">
+        <div className="grid grid-cols-1 gap-10 lg:grid-cols-[1fr_260px] lg:items-start">
 
           {/* Colonne principale */}
           <div className="min-w-0">
@@ -293,7 +293,7 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Sidebar sticky (desktop uniquement) */}
           <aside className="hidden lg:block">
-            <div className="sticky top-24 flex flex-col gap-4">
+            <div className="sticky top-28 flex flex-col gap-4">
               {/* Note presse */}
               {article.score && (
                 <div className="rounded-sm border border-line bg-bg-card p-5">
