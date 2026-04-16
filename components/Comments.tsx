@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useRef } from 'react'
+import { useLocale } from './LocaleProvider'
 
 interface Props {
   slug: string
@@ -8,6 +9,7 @@ interface Props {
 
 export default function Comments({ slug: _slug }: Props) {
   const ref = useRef<HTMLDivElement>(null)
+  const { t } = useLocale()
 
   useEffect(() => {
     if (!ref.current) return
@@ -38,7 +40,7 @@ export default function Comments({ slug: _slug }: Props) {
   return (
     <div className="mt-16 border-t border-line pt-12">
       <h2 className="mb-8 font-display text-xl font-black uppercase tracking-wide text-white">
-        Commentaires
+        {t.comments.title}
       </h2>
       <div ref={ref} />
     </div>

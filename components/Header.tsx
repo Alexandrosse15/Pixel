@@ -3,6 +3,8 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { useState } from 'react'
+import { useLocale } from './LocaleProvider'
+import LanguageSwitcher from './LanguageSwitcher'
 
 const NAV_LINKS = [
   { href: '/tests', label: 'Tests' },
@@ -14,6 +16,7 @@ const NAV_LINKS = [
 export default function Header() {
   const pathname = usePathname()
   const [menuOpen, setMenuOpen] = useState(false)
+  const { t } = useLocale()
 
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-bg-base/95 backdrop-blur-sm">
@@ -47,11 +50,12 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Right: search icon */}
-        <div className="hidden items-center gap-4 md:flex">
+        {/* Right: language switcher + search */}
+        <div className="hidden items-center gap-3 md:flex">
+          <LanguageSwitcher />
           <button
             className="flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-3 py-1.5 text-ink-muted transition-colors hover:border-brand hover:text-brand"
-            aria-label="Rechercher"
+            aria-label={t.nav.search}
             onClick={() => window.dispatchEvent(new Event('open-search'))}
           >
             <svg
@@ -68,7 +72,7 @@ export default function Header() {
                 d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
               />
             </svg>
-            <span className="font-body text-xs">Rechercher</span>
+            <span className="font-body text-xs">{t.nav.search}</span>
             <kbd className="rounded border border-line bg-bg-base px-1 py-0.5 font-mono text-xs leading-none">
               ⌘K
             </kbd>
@@ -79,7 +83,7 @@ export default function Header() {
         <button
           className="flex flex-col gap-1.5 md:hidden"
           onClick={() => setMenuOpen(!menuOpen)}
-          aria-label="Menu"
+          aria-label={t.nav.menu}
         >
           <span
             className={`block h-0.5 w-6 bg-white transition-all ${menuOpen ? 'translate-y-2 rotate-45' : ''}`}
@@ -132,8 +136,11 @@ export default function Header() {
                   d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
                 />
               </svg>
-              Rechercher
+              {t.nav.search}
             </button>
+            <div className="mt-3 border-t border-line pt-3">
+              <LanguageSwitcher />
+            </div>
           </nav>
         </div>
       )}

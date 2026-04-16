@@ -1,12 +1,17 @@
+import { cookies } from 'next/headers'
 import { getAllArticles } from '@/lib/articles'
 import { enrichArticlesWithCovers } from '@/lib/igdb'
+import { getT, type Locale } from '@/lib/i18n'
 import HeroArticle from '@/components/HeroArticle'
 import ArticleCard from '@/components/ArticleCard'
 import SectionHeader from '@/components/SectionHeader'
 
 export default async function HomePage() {
-  const all = await enrichArticlesWithCovers(getAllArticles())
+  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const t = getT(locale)
+  const h = t.home
 
+  const all = await enrichArticlesWithCovers(getAllArticles())
   const featured = all.find((a) => a.featured) ?? all[0] ?? null
   const latestArticles = all.slice(0, 6)
   const tests = all.filter((a) => a.category === 'tests')
@@ -26,7 +31,7 @@ export default async function HomePage() {
       {/* Latest articles grid */}
       {latestArticles.length > 0 && (
         <section className="mb-16">
-          <SectionHeader title="À la une" accent />
+          <SectionHeader title={h.featured} accent />
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {latestArticles.map((article) => (
               <ArticleCard key={article.slug} article={article} />
@@ -39,7 +44,7 @@ export default async function HomePage() {
       <div className="mb-16 grid grid-cols-1 gap-12 lg:grid-cols-3">
         {tests.length > 0 && (
           <div className="lg:col-span-2">
-            <SectionHeader title="Tests" href="/tests" accent />
+            <SectionHeader title={t.sections.tests.title} href="/tests" accent />
             <div className="space-y-4">
               {tests.map((article) => (
                 <ArticleCard key={article.slug} article={article} variant="horizontal" />
@@ -51,7 +56,7 @@ export default async function HomePage() {
         <div className="space-y-10">
           {previews.length > 0 && (
             <div>
-              <SectionHeader title="Previews" href="/previews" accent />
+              <SectionHeader title={t.sections.previews.title} href="/previews" accent />
               <div className="space-y-0">
                 {previews.map((article) => (
                   <ArticleCard key={article.slug} article={article} variant="compact" />
@@ -62,7 +67,7 @@ export default async function HomePage() {
 
           {dossiers.length > 0 && (
             <div>
-              <SectionHeader title="Dossiers" href="/dossiers" accent />
+              <SectionHeader title={t.sections.dossiers.title} href="/dossiers" accent />
               <div className="space-y-0">
                 {dossiers.map((article) => (
                   <ArticleCard key={article.slug} article={article} variant="compact" />
@@ -76,13 +81,13 @@ export default async function HomePage() {
       {/* Bottom CTA band */}
       <section className="mb-16 rounded-sm border border-brand/20 bg-bg-card p-8 text-center">
         <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-          Presse gaming indépendante
+          {h.cta_eyebrow}
         </p>
         <h2 className="mt-2 font-display text-2xl font-black uppercase text-white md:text-3xl">
-          La critique sans compromis
+          {h.cta_title}
         </h2>
         <p className="mx-auto mt-3 max-w-lg text-sm text-ink-secondary">
-          InsertCoins.press défend une presse gaming libre, honnête et passionnée. Pas de scores gonflés, pas de preview sous embargo draconien.
+          {h.cta_body}
         </p>
         <div className="mt-4 inline-block h-px w-16 bg-brand" />
       </section>

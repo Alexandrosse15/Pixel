@@ -5,6 +5,7 @@ import Fuse from 'fuse.js'
 import Link from 'next/link'
 import CategoryBadge from './CategoryBadge'
 import type { Category } from '@/lib/categories'
+import { useLocale } from './LocaleProvider'
 
 export interface SearchArticle {
   slug: string
@@ -25,6 +26,8 @@ export default function SearchModal({ articles }: Props) {
   const [results, setResults] = useState<SearchArticle[]>([])
   const [selected, setSelected] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
+  const { t } = useLocale()
+  const s = t.search
 
   const fuse = useRef(
     new Fuse(articles, {
@@ -138,7 +141,7 @@ export default function SearchModal({ articles }: Props) {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Rechercher un article..."
+            placeholder={s.placeholder}
             className="flex-1 bg-transparent font-body text-sm text-white placeholder-ink-muted outline-none"
           />
           <kbd className="hidden rounded border border-line bg-bg-elevated px-1.5 py-0.5 font-mono text-xs text-ink-muted md:block">
@@ -150,14 +153,14 @@ export default function SearchModal({ articles }: Props) {
         <div className="max-h-[60vh] overflow-y-auto">
           {results.length === 0 && query ? (
             <p className="px-4 py-8 text-center text-sm text-ink-muted">
-              Aucun résultat pour &quot;{query}&quot;
+              {s.no_results} &quot;{query}&quot;
             </p>
           ) : (
             <ul>
               {!query && (
                 <li className="px-4 pb-1 pt-3">
                   <span className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                    Articles récents
+                    {s.recent}
                   </span>
                 </li>
               )}
@@ -190,15 +193,15 @@ export default function SearchModal({ articles }: Props) {
           <div className="flex items-center gap-4 text-xs text-ink-muted">
             <span className="flex items-center gap-1">
               <kbd className="rounded border border-line bg-bg-elevated px-1 py-0.5 font-mono text-xs">↑↓</kbd>
-              naviguer
+              {s.navigate}
             </span>
             <span className="flex items-center gap-1">
               <kbd className="rounded border border-line bg-bg-elevated px-1 py-0.5 font-mono text-xs">↵</kbd>
-              ouvrir
+              {s.open}
             </span>
           </div>
           <span className="text-xs text-ink-muted">
-            {results.length} résultat{results.length !== 1 ? 's' : ''}
+            {results.length} {results.length !== 1 ? s.results_many : s.results_one}
           </span>
         </div>
       </div>

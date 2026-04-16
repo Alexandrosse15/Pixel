@@ -1,12 +1,15 @@
 import type { Metadata } from 'next'
 import { Oswald, Inter } from 'next/font/google'
+import { cookies } from 'next/headers'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import JsonLd from '@/components/JsonLd'
 import SearchWrapper from '@/components/SearchWrapper'
+import { LocaleProvider } from '@/components/LocaleProvider'
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/config'
 import { Analytics } from '@vercel/analytics/next'
+import type { Locale } from '@/lib/i18n'
 
 const oswald = Oswald({
   subsets: ['latin'],
@@ -90,15 +93,19 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+
   return (
-    <html lang="fr" className={`${oswald.variable} ${inter.variable}`}>
+    <html lang={locale} className={`${oswald.variable} ${inter.variable}`}>
       <body className="min-h-screen bg-bg-base text-ink-primary">
-        <JsonLd data={websiteSchema} />
-        <JsonLd data={organizationSchema} />
-        <Header />
-        <SearchWrapper />
-        <main>{children}</main>
-        <Footer />
+        <LocaleProvider initialLocale={locale}>
+          <JsonLd data={websiteSchema} />
+          <JsonLd data={organizationSchema} />
+          <Header />
+          <SearchWrapper />
+          <main>{children}</main>
+          <Footer />
+        </LocaleProvider>
         <Analytics />
       </body>
     </html>

@@ -1,6 +1,8 @@
 import { notFound } from 'next/navigation'
+import { cookies } from 'next/headers'
 import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
 import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
+import { getT, type Locale } from '@/lib/i18n'
 import CategoryBadge from '@/components/CategoryBadge'
 import JsonLd from '@/components/JsonLd'
 import Comments from '@/components/Comments'
@@ -37,6 +39,10 @@ export async function generateMetadata({ params }: Props) {
 }
 
 export default async function ArticlePage({ params }: Props) {
+  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const t = getT(locale)
+  const a = t.article
+
   const raw = getArticleBySlug(params.slug)
   if (!raw) notFound()
 
@@ -132,7 +138,7 @@ export default async function ArticlePage({ params }: Props) {
             >
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
             </svg>
-            {catConfig.label}s
+            {t.sections[article.category].title}
           </Link>
 
           {/* Meta */}
@@ -141,7 +147,7 @@ export default async function ArticlePage({ params }: Props) {
             {article.score && (
               <div className="flex items-center gap-2 rounded-sm border border-brand/40 bg-bg-base/60 px-3 py-1 backdrop-blur-sm">
                 <span className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  Note
+                  {a.score_label}
                 </span>
                 <span className="font-display text-2xl font-black leading-none text-brand">
                   {article.score}
@@ -174,7 +180,7 @@ export default async function ArticlePage({ params }: Props) {
             <span className="text-white/20">·</span>
             <span className="text-sm text-white/60">{formatDate(article.date)}</span>
             <span className="text-white/20">·</span>
-            <span className="text-sm text-white/60">{article.readTime} de lecture</span>
+            <span className="text-sm text-white/60">{article.readTime} {a.read_time}</span>
           </div>
         </div>
       </div>
@@ -187,7 +193,7 @@ export default async function ArticlePage({ params }: Props) {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  Note InsertCoins.press
+                  {a.score_site}
                 </p>
                 <p className="mt-1 font-display text-4xl font-black text-brand">
                   {article.score}
@@ -196,16 +202,16 @@ export default async function ArticlePage({ params }: Props) {
               </div>
               <div className="text-right">
                 <p className="font-display text-xs uppercase tracking-widest text-ink-muted">
-                  Verdict
+                  {a.verdict}
                 </p>
                 <p className="mt-1 font-display text-sm font-bold uppercase text-white">
                   {article.score >= 9
-                    ? 'Indispensable'
+                    ? a.verdict_labels.must_have
                     : article.score >= 7
-                    ? 'Recommandé'
+                    ? a.verdict_labels.recommended
                     : article.score >= 5
-                    ? 'Mitigé'
-                    : 'Déçevant'}
+                    ? a.verdict_labels.mixed
+                    : a.verdict_labels.disappointing}
                 </p>
               </div>
             </div>
@@ -271,7 +277,7 @@ export default async function ArticlePage({ params }: Props) {
             >
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
             </svg>
-            Retour aux {categoryConfig[article.category].label}s
+            {a.back_to} {t.sections[article.category].title}
           </Link>
         </div>
       </div>
