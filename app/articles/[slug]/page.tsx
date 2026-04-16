@@ -231,19 +231,19 @@ export default async function ArticlePage({ params }: Props) {
             remarkPlugins={[remarkGfm]}
             components={{
               img: ({ src, alt }) => {
-                // Si l'image est locale (/images/...) et qu'on a des screenshots IGDB dispo,
-                // on utilise le prochain screenshot dans la liste
                 let finalSrc = src || ''
+                // Si l'image est locale et qu'on a des screenshots IGDB, on les utilise
                 if (finalSrc.startsWith('/images/') && screenshotIdx < screenshots.length) {
                   finalSrc = screenshots[screenshotIdx]
                   screenshotIdx++
                 }
-                // Si toujours local (plus de screenshots), on affiche un placeholder avec le gradient de l'article
-                if (!finalSrc || finalSrc.startsWith('/images/')) {
+                // Pas de src du tout : placeholder gradient
+                if (!finalSrc) {
                   return (
                     <span className={`my-8 block h-48 overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor} opacity-60`} />
                   )
                 }
+                // Chemin local sans IGDB : on sert le fichier public tel quel
                 return (
                   <span className="my-8 block overflow-hidden rounded-sm">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
