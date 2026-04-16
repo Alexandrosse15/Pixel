@@ -6,7 +6,7 @@ excerpt: "On paper it's simple: roguelite, deckbuilding, real-time action. In pr
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"
-score: 7
+score: 8
 image_color: "from-red-950 via-violet-950 to-slate-950"
 gameName: "Vampire Crawlers"
 featured: false
