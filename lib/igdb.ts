@@ -172,18 +172,15 @@ export async function getMultipleGameScreenshots(
 
 // Enrichit un tableau d'articles avec leurs covers IGDB en parallèle
 export async function enrichArticlesWithCovers(articles: Article[]): Promise<Article[]> {
-  return Promise.all(
-    articles.map(async (article) => {
-      if (article.coverImage || !article.gameName) return article
-      const cover = await getGameCover(article.gameName)
-      return cover ? { ...article, coverImage: cover } : article
-    })
-  )
+  return Promise.all(articles.map(enrichArticleWithCover))
 }
 
 // Enrichit un seul article
 export async function enrichArticleWithCover(article: Article): Promise<Article> {
-  if (article.coverImage || !article.gameName) return article
-  const cover = await getGameCover(article.gameName)
+  if (article.coverImage) return article
+  // gameName en priorité, sinon le premier de gameNames
+  const name = article.gameName ?? article.gameNames?.[0]
+  if (!name) return article
+  const cover = await getGameCover(name)
   return cover ? { ...article, coverImage: cover } : article
 }
