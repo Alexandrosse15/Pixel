@@ -55,13 +55,21 @@ export default function Footer() {
               Le média
             </h3>
             <ul className="space-y-2 text-sm">
-              {['À propos', 'Équipe', 'Mentions légales'].map((item) => (
+              {['À propos', 'Équipe'].map((item) => (
                 <li key={item}>
                   <span className="cursor-pointer text-ink-secondary transition-colors hover:text-brand">
                     {item}
                   </span>
                 </li>
               ))}
+              <li>
+                <Link
+                  href="/mentions-legales"
+                  className="text-ink-secondary transition-colors hover:text-brand"
+                >
+                  Mentions légales
+                </Link>
+              </li>
               <li>
                 <a
                   href="mailto:pressinsertcoins@gmail.com"
