@@ -169,7 +169,6 @@ export default async function ArticlePage({ params }: Props) {
               </div>
               <div>
                 <p className="text-sm font-medium text-white">{article.author}</p>
-                <p className="text-xs text-white/50">Rédacteur</p>
               </div>
             </div>
             <span className="text-white/20">·</span>
