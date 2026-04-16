@@ -91,7 +91,7 @@ export default function Footer() {
             © {new Date().getFullYear()} InsertCoins.press · {f.rights}
           </p>
           <p className="text-xs text-ink-subtle">
-            <span className="text-brand">▶</span> {f.made_with}
+            <span className="text-brand"></span> {f.made_with}
           </p>
         </div>
       </div>

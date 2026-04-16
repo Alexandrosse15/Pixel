@@ -14,7 +14,7 @@ featured: false
 
 With Windrose, the pirate open-world game many were waiting for without quite believing in it, the bet is simple: deliver a complete experience blending survival, exploration, and naval combat. But behind this seductive promise, does the result live up to it?
 
-## ⚓ A Real Sense of Freedom
+##  A Real Sense of Freedom
 
 ![Windrose exploration](/images/windrose/screenshot-1.jpg)
 
@@ -22,7 +22,7 @@ From the first few hours, Windrose wins you over with its open approach. You fre
 
 The game rarely gives strict directives, and that's precisely what works. You advance at your own pace, driven by curiosity.
 
-## 🚢 The Ship, Star of the Gameplay
+##  The Ship, Star of the Gameplay
 
 ![Windrose ship](/images/windrose/screenshot-2.jpg)
 
@@ -35,7 +35,7 @@ The heart of the game is clearly the vessel.
 
 The ship quickly becomes more than a tool: it's your base, your weapon, and your identity.
 
-## ⚔️ Rich Gameplay... but Uneven
+##  Rich Gameplay... but Uneven
 
 ![Windrose combat](/images/windrose/screenshot-3.jpg)
 
@@ -48,13 +48,13 @@ Windrose attempts a lot:
 
 The problem is that not everything is at the same level.
 
-👉 Combat, for example, sometimes lacks impact
-👉 Some survival mechanics remain superficial
-👉 The balancing can feel off
+ Combat, for example, sometimes lacks impact
+ Some survival mechanics remain superficial
+ The balancing can feel off
 
 You sense a game still under construction.
 
-## 👥 Promising Co-op
+##  Promising Co-op
 
 ![Windrose multiplayer](/images/windrose/screenshot-4.jpg)
 
@@ -62,7 +62,7 @@ In multiplayer, the game takes on another dimension. Sailing with friends, coord
 
 This is clearly the configuration in which Windrose reveals its full potential.
 
-## 🛠️ An Early Access That Shows
+##  An Early Access That Shows
 
 ![Windrose world](/images/windrose/screenshot-5.jpg)
 
@@ -74,7 +74,7 @@ Let's be clear: Windrose is not yet a finished game.
 
 But unlike some others, it gives a solid impression of a strong foundation. You can clearly see what it could become.
 
-## ⭐ Verdict
+##  Verdict
 
 **Strengths:**
 

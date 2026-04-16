@@ -20,7 +20,7 @@ That tension is precisely what makes the game fascinating, and frustrating.
 
 So yes, it deserves to be talked about. But not the same way everyone else is talking about it.
 
-## 🎨 An Art Direction That Immediately Commands Respect
+##  An Art Direction That Immediately Commands Respect
 
 ![Clair Obscur Expedition 33](/images/clairobscur/screenshot-1.jpg)
 
@@ -34,7 +34,7 @@ The environments are beautiful, the visual effects are controlled, and the overa
 
 But this visual success also conceals a more subtle inconsistency.
 
-## 👁️ The Problem With the Eyes: a Detail That Isn't One
+##  The Problem With the Eyes: a Detail That Isn't One
 
 ![Clair Obscur, characters](/images/clairobscur/screenshot-2.jpg)
 
@@ -48,7 +48,7 @@ It's not constant. There are moments where it works, where the staging compensat
 
 Other studios have faced this problem in their first projects. Some survived it because the writing was strong enough to make animation secondary. Here, that's not quite the case.
 
-## ⚔️ An Engaging Combat System... That Becomes Mechanical
+##  An Engaging Combat System... That Becomes Mechanical
 
 ![Clair Obscur, combat](/images/clairobscur/screenshot-3.jpg)
 
@@ -66,7 +66,7 @@ It's not a disaster. The system remains good. But it loses intensity as the hour
 
 This is exactly the kind of system that would have benefited from one more iteration during development.
 
-## 📖 A Narrative That Intrigues... Without Always Convincing
+##  A Narrative That Intrigues... Without Always Convincing
 
 ![Clair Obscur, cutscene](/images/clairobscur/screenshot-4.jpg)
 
@@ -82,7 +82,7 @@ And again, the facial animation problems compound these flaws. You understand wh
 
 There are moments where it works. Instants that deliver on their promise. But they're fewer than you'd hope given the care lavished on the visual universe.
 
-## 🎮 Visible Ambition... Incomplete Execution
+##  Visible Ambition... Incomplete Execution
 
 ![Clair Obscur, exploration](/images/clairobscur/screenshot-5.jpg)
 
@@ -98,7 +98,7 @@ This is exactly the kind of game where you often think: with a bit more time or 
 
 Many studios have been there. Some got the chance at a second game, and that's where they truly broke through. Sandfall deserves that chance.
 
-## 🧭 An Experience That Constantly Oscillates
+##  An Experience That Constantly Oscillates
 
 ![Clair Obscur, boss](/images/clairobscur/screenshot-6.jpg)
 
@@ -116,7 +116,7 @@ Because the avalanche of perfect scores that followed launch does the game no fa
 
 An honest 7.5 is worth more than a complicit 9.
 
-## ⚖️ Verdict
+##  Verdict
 
 **Strengths:**
 

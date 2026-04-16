@@ -5,8 +5,8 @@ import { useLocale } from './LocaleProvider'
 import { setLocaleAction } from '@/app/actions'
 
 const FLAGS = {
-  fr: { emoji: '🇫🇷', label: 'Français' },
-  en: { emoji: '🇬🇧', label: 'English' },
+  fr: { emoji: '', label: 'Français' },
+  en: { emoji: '', label: 'English' },
 } as const
 
 export default function LanguageSwitcher() {

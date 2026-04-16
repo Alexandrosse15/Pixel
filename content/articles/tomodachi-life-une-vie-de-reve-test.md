@@ -22,7 +22,7 @@ Alors : est-ce que ça tient ?
 
 ![Tomodachi Life](/images/tomodachi/screenshot-1.jpg)
 
-## 🏝️ Une formule inchangée... pour le meilleur et pour le pire
+##  Une formule inchangée... pour le meilleur et pour le pire
 
 Dès les premières minutes, une évidence s'impose avec une clarté presque déconcertante : le jeu n'a presque pas changé.
 
@@ -34,7 +34,7 @@ Et c'est là que tout se joue. Que le jeu divise immédiatement, et de manière 
 
 Certains joueurs vont retrouver instantanément ce charme singulier que rien d'autre ne reproduit. Ce sentiment d'avoir une petite vie miniature entre les mains, avec ses propres règles, ses propres logiques, ses propres absurdités. D'autres, en revanche, vont avoir l'impression de rejouer exactement au même jeu qu'il y a dix ans, sans que quoi que ce soit ait vraiment évolué. Et ces deux réactions sont également valides, également honnêtes, et c'est justement ce qui rend Tomodachi Life aussi complexe à évaluer.
 
-## 😂 L'absurde comme moteur principal
+##  L'absurde comme moteur principal
 
 ![Tomodachi Life, situations](/images/tomodachi/screenshot-2.jpg)
 
@@ -50,7 +50,7 @@ Mais cette force, aussi réelle soit-elle, peut aussi devenir une limite au fil 
 
 L'humour repose énormément sur l'effet de surprise. Une fois l'effet passé, une fois qu'on a compris les patterns, certaines situations commencent à se répéter avec une régularité un peu mécanique. Ce qui faisait rire sans retenue hier peut sembler plus calculé aujourd'hui. Ce n'est pas que le jeu perd son charme, c'est plutôt qu'il révèle ses rouages, et qu'une fois visible, le mécanisme ne fait plus tout à fait le même effet.
 
-## 🧠 Une simulation toujours aussi limitée
+##  Une simulation toujours aussi limitée
 
 C'est probablement le point faible le plus important du jeu, et celui qui n'a pas évolué d'un millimètre.
 
@@ -64,7 +64,7 @@ Pour d'autres, et c'est une critique tout aussi légitime, cette passivité fini
 
 ![Tomodachi Life, île](/images/tomodachi/screenshot-3.jpg)
 
-## ⏳ Un rythme très particulier, qui ne convient pas à tout le monde
+##  Un rythme très particulier, qui ne convient pas à tout le monde
 
 Tomodachi Life est fondamentalement un jeu du quotidien. Il est conçu pour être joué quelques minutes, plusieurs fois par jour, sans objectif précis à cocher dans une liste.
 
@@ -78,7 +78,7 @@ Ce n'est pas un jeu qui récompense les longues sessions. C'est un jeu qui deman
 
 Et pourtant, quand ça fonctionne, quand le jeu décide de sortir quelque chose d'inattendu au bon moment, l'effet est immédiat. On sourit, on fait une capture d'écran, on envoie ça à un ami. Et on revient le lendemain, pour voir ce qui s'est passé.
 
-## 🎭 Une modernisation timide
+##  Une modernisation timide
 
 ![Tomodachi Life, interface](/images/tomodachi/screenshot-4.jpg)
 
@@ -92,7 +92,7 @@ Et c'est là que le contraste devient frappant, surtout en 2026. Le jeu est char
 
 D'autres jeux de simulation sociale sont sortis ces dernières années. Certains ont pris des risques, ont intégré de nouvelles idées, ont repensé leur rapport au joueur. Tomodachi Life, lui, est resté exactement là où on l'avait laissé. Ce n'est pas une catastrophe. C'est simplement un choix, assumé mais pas sans conséquences.
 
-## 🤝 Une expérience profondément personnelle
+##  Une expérience profondément personnelle
 
 C'est peut-être le point le plus difficile à articuler, et pourtant le plus important pour comprendre ce que Tomodachi Life est vraiment.
 
@@ -104,7 +104,7 @@ Avec cette implication, il devient attachant d'une façon difficile à expliquer
 
 ![Tomodachi Life, personnages](/images/tomodachi/screenshot-5.jpg)
 
-## 🧭 Un retour fidèle... peut-être trop
+##  Un retour fidèle... peut-être trop
 
 Nintendo a fait un choix très clair avec cette nouvelle version : ne pas bouleverser la formule. Conserver ce qui faisait l'identité du jeu original, l'affiner légèrement, et le proposer à une nouvelle génération tout en satisfaisant les nostalgiques.
 
@@ -118,7 +118,7 @@ On aurait aimé plus de profondeur dans les systèmes sociaux. Plus de variété
 
 Le jeu donne parfois l'impression d'avoir été soigneusement remis à jour sans avoir jamais été véritablement repensé. Et en 2026, avec tout ce qui a évolué dans le jeu vidéo en général, dans la simulation sociale en particulier, cette prudence laisse un goût légèrement amer.
 
-## ⚖️ Verdict
+##  Verdict
 
 **Points forts :**
 

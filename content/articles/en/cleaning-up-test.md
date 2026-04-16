@@ -22,7 +22,7 @@ But here, the magic doesn't quite materialise. And the reason is simple: Cleanin
 
 ![Cleaning Up!](/images/cleaningup/screenshot-1.jpg)
 
-## 🧹 A Minimalist Concept... With Nothing Behind It
+##  A Minimalist Concept... With Nothing Behind It
 
 From the moment you launch it, the game doesn't try to mislead you. You're dropped into a cluttered environment, you spot what needs doing, and you do it. Simple, immediate, accessible.
 
@@ -30,7 +30,7 @@ The problem is that this first contact also reveals most of what the game has to
 
 And that absence of development is the title's central problem.
 
-## 🎮 A Gameplay That Never Surpasses Its Base Idea
+##  A Gameplay That Never Surpasses Its Base Idea
 
 In practice, Cleaning Up! offers very few mechanics. Tools are limited in number, interactions reduced to their strictest expression: clean, move, repeat. There's no real progression, no skills or equipment system, nothing that gives the impression of growing or mastering something over time.
 
@@ -40,7 +40,7 @@ Here, that satisfaction never arrives. You do the same thing in the same way fro
 
 ![Cleaning Up!, environment](/images/cleaningup/screenshot-2.jpg)
 
-## ⏳ A Repetitiveness That Sets In Immediately
+##  A Repetitiveness That Sets In Immediately
 
 Where some simulation games manage to create a satisfying loop despite their simplicity, Cleaning Up! locks itself into an almost mechanical repetition within the first few minutes. The same actions, the same sensations, no renewal. There's no escalation, no surprises, no moment where the game decides to reveal itself from a different angle.
 
@@ -48,7 +48,7 @@ This isn't a question of timing or patience. It's not a game you need to let bre
 
 And that absence of evolution weighs on you very quickly.
 
-## 🧠 No Stakes, No Hook
+##  No Stakes, No Hook
 
 A problem perhaps even more fundamental: the game never creates a reason to keep going. There's no genuinely motivating reward system, no real challenge, no objective that makes you want to see what comes next. Cleaning Up! never pushes the player to invest, to improve, to come back.
 
@@ -56,13 +56,13 @@ You can stop at any moment without feeling frustrated. But more importantly, wit
 
 ![Cleaning Up!, gameplay](/images/cleaningup/screenshot-3.jpg)
 
-## 🎨 Functional Production, No Personality
+##  Functional Production, No Personality
 
 Visually, Cleaning Up! does the bare minimum. The graphics are simple, the interface basic, the animations acceptable without being remarkable. Nothing is technically catastrophic. But nothing leaves a mark either.
 
 The game lacks identity. It lacks style. And above all, it lacks life. The environments exist, but they tell nothing. They're there to be cleaned, not to be inhabited or explored. This isn't a question of budget or team size, it's a question of intention. You don't sense a desire to create something beyond the pretext.
 
-## 🧭 The Gadget Game Syndrome
+##  The Gadget Game Syndrome
 
 Cleaning Up! gives a very particular impression: that of a game that could almost be a demo. One idea, a quick execution, but no ambition behind it. This is exactly the kind of project you try out of curiosity after seeing a thumbnail somewhere, then uninstall without thinking about it again.
 
@@ -70,7 +70,7 @@ This isn't about condemning simplicity. Some very simple games in concept are am
 
 ![Cleaning Up!, result](/images/cleaningup/screenshot-4.jpg)
 
-## ⚖️ Verdict
+##  Verdict
 
 **Strengths:**
 

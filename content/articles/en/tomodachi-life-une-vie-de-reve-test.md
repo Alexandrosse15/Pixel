@@ -22,7 +22,7 @@ So: does it hold up?
 
 ![Tomodachi Life](/images/tomodachi/screenshot-1.jpg)
 
-## 🏝️ An Unchanged Formula... For Better and Worse
+##  An Unchanged Formula... For Better and Worse
 
 From the very first minutes, one thing becomes obvious with an almost unsettling clarity: the game has barely changed.
 
@@ -34,7 +34,7 @@ And that's where everything plays out. Where the game immediately and clearly di
 
 Some players will instantly rediscover that singular charm that nothing else quite replicates. That feeling of holding a small miniature life in your hands, with its own rules, its own logic, its own absurdities. Others, on the other hand, will feel like they're playing the exact same game they played ten years ago, without anything having genuinely evolved. Both reactions are equally valid, equally honest, and that's precisely what makes Tomodachi Life so complex to evaluate.
 
-## 😂 Absurdity as the Main Engine
+##  Absurdity as the Main Engine
 
 ![Tomodachi Life, situations](/images/tomodachi/screenshot-2.jpg)
 
@@ -50,7 +50,7 @@ But this strength, as real as it is, can also become a limitation over time.
 
 The humour relies heavily on the element of surprise. Once that effect has passed, once you've understood the patterns, certain situations start to repeat with a slightly mechanical regularity. What made you laugh without restraint yesterday can feel more calculated today. It's not that the game loses its charm, it's more that it reveals its inner workings, and once visible, the mechanism no longer has quite the same effect.
 
-## 🧠 A Simulation That Remains Just as Limited
+##  A Simulation That Remains Just as Limited
 
 This is probably the game's most significant weak point, and the one that hasn't evolved one bit.
 
@@ -64,7 +64,7 @@ For others, and it's an equally legitimate criticism, this passivity eventually 
 
 ![Tomodachi Life, island](/images/tomodachi/screenshot-3.jpg)
 
-## ⏳ A Very Particular Rhythm That Doesn't Suit Everyone
+##  A Very Particular Rhythm That Doesn't Suit Everyone
 
 Tomodachi Life is fundamentally a daily game. It's designed to be played for a few minutes, several times a day, with no specific objective to tick off a list.
 
@@ -78,7 +78,7 @@ This isn't a game that rewards long sessions. It's a game that demands patience,
 
 And yet, when it works, when the game decides to produce something unexpected at exactly the right moment, the effect is immediate. You smile, you take a screenshot, you send it to a friend. And you come back the next day, to see what happened.
 
-## 🎭 A Timid Modernisation
+##  A Timid Modernisation
 
 ![Tomodachi Life, interface](/images/tomodachi/screenshot-4.jpg)
 
@@ -92,7 +92,7 @@ And that's where the contrast becomes striking, especially in 2026. The game is 
 
 Other social simulation games have come out in recent years. Some have taken risks, integrated new ideas, rethought their relationship with the player. Tomodachi Life, meanwhile, has stayed exactly where we left it. That's not a disaster. It's simply a choice, assumed but not without consequences.
 
-## 🤝 A Deeply Personal Experience
+##  A Deeply Personal Experience
 
 This is perhaps the hardest point to articulate, and yet the most important for understanding what Tomodachi Life actually is.
 
@@ -104,7 +104,7 @@ With that investment, it becomes endearing in a way that's hard to explain to so
 
 ![Tomodachi Life, characters](/images/tomodachi/screenshot-5.jpg)
 
-## 🧭 A Faithful Return... Perhaps Too Faithful
+##  A Faithful Return... Perhaps Too Faithful
 
 Nintendo made a very clear choice with this new version: don't disrupt the formula. Preserve what gave the original game its identity, refine it slightly, and offer it to a new generation while satisfying the nostalgic crowd.
 
@@ -118,7 +118,7 @@ You'd have liked more depth in the social systems. More variety in the generated
 
 The game sometimes gives the impression of having been carefully updated without ever having been truly reimagined. And in 2026, with everything that has evolved in gaming broadly, in social simulation specifically, that caution leaves a slightly bitter aftertaste.
 
-## ⚖️ Verdict
+##  Verdict
 
 **Strengths:**
 

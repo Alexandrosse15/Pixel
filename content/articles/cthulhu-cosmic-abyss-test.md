@@ -24,7 +24,7 @@ La question, comme toujours, c'est de savoir si l'intention suffit.
 
 ![Cthulhu: The Cosmic Abyss](/images/cthulhu/screenshot-1.jpg)
 
-## 🌊 Une ambiance qui écrase plus qu'elle n'effraie
+##  Une ambiance qui écrase plus qu'elle n'effraie
 
 Dès les premières minutes, le ton est donné, et il ne changera plus.
 
@@ -34,7 +34,7 @@ C'est là que le jeu réussit le mieux. Il met mal à l'aise. Il installe une te
 
 Mais cette approche a aussi ses limites, et elles sont réelles. Le rythme est extrêmement lent. Volontairement, assumément, mais lentement quand même. Certains joueurs décrocheront avant que l'atmosphère n'ait eu le temps de faire pleinement son effet. Et l'absence quasi totale d'action peut générer une frustration légitime chez ceux qui attendent quelque chose de plus tangible de leur expérience d'horreur.
 
-## 🧠 Une narration fidèle à Lovecraft… mais exigeante
+##  Une narration fidèle à Lovecraft… mais exigeante
 
 ![Cthulhu: The Cosmic Abyss, exploration](/images/cthulhu/screenshot-2.jpg)
 
@@ -44,7 +44,7 @@ C'est une narration volontairement floue, presque fragmentée, fidèle dans sa f
 
 Mais la fidélité à une esthétique littéraire ne garantit pas automatiquement la réussite dans un autre médium. Certains moments brillent par leur subtilité, par cette capacité à faire sentir quelque chose sans jamais l'expliciter. D'autres donnent l'impression d'être obscurs non pas parce qu'ils sont profonds, mais parce qu'ils sont simplement peu lisibles. La ligne est fine, et le jeu ne la respecte pas toujours.
 
-## 🎮 Un gameplay minimaliste… parfois trop
+##  Un gameplay minimaliste… parfois trop
 
 La structure de jeu repose sur des bases simples : exploration, interaction avec l'environnement, résolution de petites énigmes. On se déplace d'une zone à l'autre, on manipule des objets, on déchiffre des éléments narratifs. Le tout dans un silence lourd, interrompu seulement par des sons qui n'invitent pas à la sérénité.
 
@@ -52,7 +52,7 @@ Le problème, c'est que ces mécaniques restent limitées et peinent à évoluer
 
 ![Cthulhu: The Cosmic Abyss, environnement](/images/cthulhu/screenshot-3.jpg)
 
-## 👁️ L'horreur de l'invisible
+##  L'horreur de l'invisible
 
 Contrairement à beaucoup de jeux du genre, Cosmic Abyss montre très peu. Les créatures sont rares, souvent suggérées, parfois à peine visibles avant de disparaître. On entend. On devine. On ressent leur présence sans jamais vraiment les confronter.
 
@@ -60,7 +60,7 @@ C'est une excellente décision, et elle témoigne d'une compréhension réelle d
 
 Mais là encore, l'équilibre est fragile. Trop de retenue finit par frustrer. Certains joueurs attendront une confrontation, une révélation, un moment de rupture qui ne vient pas. Et cette attente déçue peut transformer l'ambition stylistique en absence ressentie comme un manque.
 
-## ⚙️ Une réalisation solide mais inégale
+##  Une réalisation solide mais inégale
 
 ![Cthulhu: The Cosmic Abyss, atmosphère](/images/cthulhu/screenshot-4.jpg)
 
@@ -68,7 +68,7 @@ Techniquement, le jeu s'en sort bien. La direction artistique est cohérente, co
 
 Mais tout n'est pas aussi maîtrisé. Les animations manquent parfois de fluidité. Certaines interactions semblent peu naturelles, presque mécaniques. Il manque un dynamisme global qui aurait pu transformer les moments de calme en instants de respiration plutôt qu'en temps morts. On sent un projet qui a les idées claires sur ce qu'il veut être, mais pas toujours les moyens de tout accomplir au même niveau.
 
-## ⏳ Une expérience qui divise
+##  Une expérience qui divise
 
 Cthulhu: The Cosmic Abyss demande quelque chose au joueur. De la patience, d'abord. De l'attention, ensuite. Et une certaine tolérance à la lenteur, à l'imprécision, au refus de tout clarifier.
 
@@ -78,7 +78,7 @@ Pour les autres, pour ceux qui sont prêts à se laisser engoutir sans garantie 
 
 ![Cthulhu: The Cosmic Abyss, créature](/images/cthulhu/screenshot-5.jpg)
 
-## ⚖️ Verdict
+##  Verdict
 
 **Points forts :**
 

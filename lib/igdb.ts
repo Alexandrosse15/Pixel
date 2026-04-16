@@ -46,7 +46,7 @@ async function igdbPost<T>(endpoint: string, query: string): Promise<T> {
   return res.json() as Promise<T>
 }
 
-// ─── Cover ────────────────────────────────────────────────────────────────────
+//  Cover 
 // unstable_cache persiste entre les invocations serverless (Next.js data cache)
 // revalidate: 86400 = 24h
 
@@ -97,7 +97,7 @@ export const getGameCover = unstable_cache(
   { revalidate: 86400 }
 )
 
-// ─── Screenshots ──────────────────────────────────────────────────────────────
+//  Screenshots 
 
 async function _getGameScreenshots(gameName: string, count: number): Promise<string[]> {
   try {
@@ -131,7 +131,7 @@ export const getGameScreenshots = unstable_cache(
   { revalidate: 86400 }
 )
 
-// ─── Multi-game screenshots ───────────────────────────────────────────────────
+//  Multi-game screenshots 
 
 export async function getMultipleGameScreenshots(
   gameNames: string[],
@@ -150,7 +150,7 @@ export async function getMultipleGameScreenshots(
   return interleaved
 }
 
-// ─── Article enrichment ───────────────────────────────────────────────────────
+//  Article enrichment 
 
 export async function enrichArticlesWithCovers(articles: Article[]): Promise<Article[]> {
   return Promise.all(articles.map(enrichArticleWithCover))

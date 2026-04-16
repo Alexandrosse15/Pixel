@@ -22,7 +22,7 @@ export async function GET() {
 
     return NextResponse.json({
       ok: true,
-      env: { clientId: clientId.slice(0, 6) + '…', secret: '✓' },
+      env: { clientId: clientId.slice(0, 6) + '…', secret: '' },
       cover,
       screenshots,
       screenshotsCount: screenshots.length,

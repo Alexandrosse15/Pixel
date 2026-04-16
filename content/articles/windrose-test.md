@@ -14,7 +14,7 @@ featured: false
 
 Avec Windrose, le jeu de pirate en monde ouvert que beaucoup attendaient sans vraiment y croire, le pari est simple : offrir une expérience complète mêlant survie, exploration et combats navals. Mais derrière cette promesse séduisante, le résultat est-il à la hauteur ?
 
-## ⚓ Une vraie sensation de liberté
+##  Une vraie sensation de liberté
 
 ![Windrose exploration](/images/windrose/screenshot-1.jpg)
 
@@ -22,7 +22,7 @@ Dès les premières heures, Windrose séduit par son approche ouverte. On explor
 
 Le jeu donne rarement des directives strictes, et c'est précisément ce qui fonctionne. On avance à son rythme, porté par la curiosité.
 
-## 🚢 Le bateau, star du gameplay
+##  Le bateau, star du gameplay
 
 ![Windrose navire](/images/windrose/screenshot-2.jpg)
 
@@ -35,7 +35,7 @@ Le cœur du jeu, c'est clairement le navire.
 
 Le bateau devient rapidement plus qu'un outil : c'est votre base, votre arme et votre identité.
 
-## ⚔️ Un gameplay riche... mais inégal
+##  Un gameplay riche... mais inégal
 
 ![Windrose combat](/images/windrose/screenshot-3.jpg)
 
@@ -48,13 +48,13 @@ Windrose tente beaucoup de choses :
 
 Le problème, c'est que tout n'est pas au même niveau.
 
-👉 Les combats, par exemple, manquent parfois d'impact
-👉 Certaines mécaniques de survie restent superficielles
-👉 L'équilibrage peut sembler bancal
+ Les combats, par exemple, manquent parfois d'impact
+ Certaines mécaniques de survie restent superficielles
+ L'équilibrage peut sembler bancal
 
 On sent un jeu encore en construction.
 
-## 👥 Une coop prometteuse
+##  Une coop prometteuse
 
 ![Windrose multijoueur](/images/windrose/screenshot-4.jpg)
 
@@ -62,7 +62,7 @@ En multijoueur, le jeu prend une autre dimension. Naviguer avec des amis, coordo
 
 C'est clairement dans cette configuration que Windrose révèle son plein potentiel.
 
-## 🛠️ Un accès anticipé qui se ressent
+##  Un accès anticipé qui se ressent
 
 ![Windrose world](/images/windrose/screenshot-5.jpg)
 
@@ -74,7 +74,7 @@ Il faut être clair : Windrose n'est pas encore un jeu fini.
 
 Mais contrairement à d'autres, il donne une impression solide de base. On voit clairement ce qu'il pourrait devenir.
 
-## ⭐ Verdict
+##  Verdict
 
 **Points forts :**
 
