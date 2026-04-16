@@ -238,8 +238,12 @@ export default async function ArticlePage({ params }: Props) {
                   finalSrc = screenshots[screenshotIdx]
                   screenshotIdx++
                 }
-                // Si toujours local (plus de screenshots), on masque l'image cassée
-                if (!finalSrc || finalSrc.startsWith('/images/')) return null
+                // Si toujours local (plus de screenshots), on affiche un placeholder avec le gradient de l'article
+                if (!finalSrc || finalSrc.startsWith('/images/')) {
+                  return (
+                    <span className={`my-8 block h-48 overflow-hidden rounded-sm bg-gradient-to-br ${article.imageColor} opacity-60`} />
+                  )
+                }
                 return (
                   <span className="my-8 block overflow-hidden rounded-sm">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
