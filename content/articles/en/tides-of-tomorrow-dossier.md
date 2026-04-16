@@ -1,12 +1,12 @@
 ---
 title: "Tides of Tomorrow: what if someone else's future became your present?"
 slug: "tides-of-tomorrow-dossier"
-category: "dossiers"
+category: "previews"
 excerpt: "Tides of Tomorrow proposes an idea few games dare to explore: seeing another player's actions not as a replay, but as a vision of the future. A mechanic that changes everything, from a studio obsessed with storytelling."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"
-score: 6
+score: 9
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
 gameName: "Tides of Tomorrow"
 featured: true
