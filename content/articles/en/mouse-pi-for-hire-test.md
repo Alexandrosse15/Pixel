@@ -9,6 +9,7 @@ readTime: "9 min"
 score: 6
 image_color: "from-zinc-950 via-neutral-900 to-stone-950"
 gameName: "Mouse: P.I. For Hire"
+coverImage: "/images/mouse/screenshot-3.jpg"
 featured: false
 ---
 
