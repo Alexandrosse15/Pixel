@@ -7,6 +7,7 @@ date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "14 min"
 image_color: "from-zinc-950 via-red-950 to-slate-950"
+gameNames: ["Destiny 2", "Genshin Impact", "Diablo IV"]
 featured: false
 ---
 
