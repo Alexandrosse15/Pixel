@@ -6,7 +6,6 @@ excerpt: "There are the Star Wars games we played. And then there are the ones w
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "13 min"
-score: 4
 image_color: "from-slate-950 via-neutral-900 to-zinc-950"
 gameNames: ["Star Wars Eclipse", "Star Wars Outlaws", "Star Wars Jedi: Survivor"]
 featured: false

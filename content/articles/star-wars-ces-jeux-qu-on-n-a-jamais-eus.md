@@ -6,7 +6,6 @@ excerpt: "Il y a les jeux Star Wars auxquels on a joué. Et puis il y a ceux qu'
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "13 min"
-score: 4
 image_color: "from-slate-950 via-neutral-900 to-zinc-950"
 gameNames: ["Star Wars Eclipse", "Star Wars Outlaws", "Star Wars Jedi: Survivor"]
 featured: false
