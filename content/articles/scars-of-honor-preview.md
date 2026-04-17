@@ -6,7 +6,6 @@ excerpt: "Scars of Honor ne se cache pas derrière une ambition timide : propose
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "11 min"
-score: 6
 image_color: "from-slate-950 via-indigo-950 to-zinc-950"
 gameName: "Scars of Honor"
 featured: false
