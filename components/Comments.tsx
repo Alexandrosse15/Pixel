@@ -5,44 +5,55 @@ import { useLocale } from './LocaleProvider'
 
 interface Props {
   slug: string
+  title: string
+  url: string
 }
 
-export default function Comments({ slug: _slug }: Props) {
+export default function Comments({ slug, title, url }: Props) {
   const ref = useRef<HTMLDivElement>(null)
   const { t } = useLocale()
 
   useEffect(() => {
     if (!ref.current) return
 
-    // Remove previous script if any (e.g. navigation between articles)
-    const existing = ref.current.querySelector('script')
+    // Reset the div so Cusdis re-initialises on navigation
+    ref.current.setAttribute('data-page-id', slug)
+    ref.current.setAttribute('data-page-url', url)
+    ref.current.setAttribute('data-page-title', title)
+
+    // Remove any previous Cusdis script
+    const existing = document.getElementById('cusdis-script')
     if (existing) existing.remove()
 
     const script = document.createElement('script')
-    script.src = 'https://giscus.app/client.js'
-    script.setAttribute('data-repo', 'Alexandrosse15/Pixel')
-    script.setAttribute('data-repo-id', 'R_kgDOSDpeTQ')
-    script.setAttribute('data-category', 'Announcements')
-    script.setAttribute('data-category-id', 'DIC_kwDOSDpeTc4C685n')
-    script.setAttribute('data-mapping', 'pathname')
-    script.setAttribute('data-strict', '0')
-    script.setAttribute('data-reactions-enabled', '1')
-    script.setAttribute('data-emit-metadata', '0')
-    script.setAttribute('data-input-position', 'bottom')
-    script.setAttribute('data-theme', 'dark')
-    script.setAttribute('data-lang', 'fr')
-    script.crossOrigin = 'anonymous'
+    script.id = 'cusdis-script'
+    script.src = 'https://cusdis.com/js/cusdis.es.js'
     script.async = true
+    script.defer = true
+    document.body.appendChild(script)
 
-    ref.current.appendChild(script)
-  }, [])
+    // If Cusdis is already loaded, manually trigger a re-render
+    script.onload = () => {
+      if (typeof window !== 'undefined' && (window as any).CUSDIS) {
+        ;(window as any).CUSDIS.renderTo(ref.current)
+      }
+    }
+  }, [slug, title, url])
 
   return (
     <div className="mt-16 border-t border-line pt-12">
       <h2 className="mb-8 font-display text-xl font-black uppercase tracking-wide text-white">
         {t.comments.title}
       </h2>
-      <div ref={ref} />
+      <div
+        ref={ref}
+        id="cusdis_thread"
+        data-host="https://cusdis.com"
+        data-app-id="bb0125e2-8ec8-4f26-b1df-dbed60c5aa7b"
+        data-page-id={slug}
+        data-page-url={url}
+        data-page-title={title}
+      />
     </div>
   )
 }

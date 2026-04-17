@@ -285,7 +285,7 @@ export default async function ArticlePage({ params }: Props) {
               <CommunityRating slug={article.slug} variant="inline" />
             </div>
 
-            <Comments slug={article.slug} />
+            <Comments slug={article.slug} title={article.title} url={articleUrl} />
 
             {/* Bottom nav */}
             <div className="mt-16 border-t border-line pt-8">
