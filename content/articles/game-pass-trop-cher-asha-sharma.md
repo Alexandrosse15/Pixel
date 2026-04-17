@@ -7,6 +7,7 @@ date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-green-950 via-zinc-950 to-slate-950"
+coverImage: "/images/gamepass/screenshot-1.jpg"
 featured: false
 ---
 
