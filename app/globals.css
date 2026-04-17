@@ -130,3 +130,9 @@
 .prose blockquote p::after {
   content: '';
 }
+
+/* Cusdis iframe — prevent overflow, fill container */
+#cusdis_thread iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+}

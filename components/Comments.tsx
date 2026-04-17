@@ -16,7 +16,6 @@ export default function Comments({ slug, title, url }: Props) {
   useEffect(() => {
     if (!ref.current) return
 
-    // Update data attributes before (re)initialising
     ref.current.setAttribute('data-page-id', slug)
     ref.current.setAttribute('data-page-url', url)
     ref.current.setAttribute('data-page-title', title)
@@ -24,12 +23,10 @@ export default function Comments({ slug, title, url }: Props) {
     const w = window as any
 
     if (w.CUSDIS) {
-      // Script already loaded (SPA navigation) — just re-render
       w.CUSDIS.initial()
       return
     }
 
-    // First load — inject the script once
     if (!document.getElementById('cusdis-script')) {
       const script = document.createElement('script')
       script.id = 'cusdis-script'
@@ -45,15 +42,19 @@ export default function Comments({ slug, title, url }: Props) {
       <h2 className="mb-8 font-display text-xl font-black uppercase tracking-wide text-white">
         {t.comments.title}
       </h2>
-      <div
-        ref={ref}
-        id="cusdis_thread"
-        data-host="https://cusdis.com"
-        data-app-id="bb0125e2-8ec8-4f26-b1df-dbed60c5aa7b"
-        data-page-id={slug}
-        data-page-url={url}
-        data-page-title={title}
-      />
+      {/* Light wrapper so the Cusdis iframe (white bg, dark text) is readable */}
+      <div className="rounded-sm overflow-hidden bg-white p-6" style={{ maxWidth: '100%' }}>
+        <div
+          ref={ref}
+          id="cusdis_thread"
+          data-host="https://cusdis.com"
+          data-app-id="bb0125e2-8ec8-4f26-b1df-dbed60c5aa7b"
+          data-page-id={slug}
+          data-page-url={url}
+          data-page-title={title}
+          style={{ maxWidth: '100%', width: '100%' }}
+        />
+      </div>
     </div>
   )
 }
