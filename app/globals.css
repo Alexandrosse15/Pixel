@@ -131,10 +131,3 @@
   content: '';
 }
 
-/* Cusdis iframe — dark mode via invert filter, prevent overflow */
-#cusdis_thread iframe {
-  max-width: 100% !important;
-  width: 100% !important;
-  filter: invert(1) hue-rotate(180deg);
-  border-radius: 2px;
-}
