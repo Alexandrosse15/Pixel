@@ -16,27 +16,27 @@ export default function Comments({ slug, title, url }: Props) {
   useEffect(() => {
     if (!ref.current) return
 
-    // Reset the div so Cusdis re-initialises on navigation
+    // Update data attributes before (re)initialising
     ref.current.setAttribute('data-page-id', slug)
     ref.current.setAttribute('data-page-url', url)
     ref.current.setAttribute('data-page-title', title)
 
-    // Remove any previous Cusdis script
-    const existing = document.getElementById('cusdis-script')
-    if (existing) existing.remove()
+    const w = window as any
 
-    const script = document.createElement('script')
-    script.id = 'cusdis-script'
-    script.src = 'https://cusdis.com/js/cusdis.es.js'
-    script.async = true
-    script.defer = true
-    document.body.appendChild(script)
+    if (w.CUSDIS) {
+      // Script already loaded (SPA navigation) — just re-render
+      w.CUSDIS.initial()
+      return
+    }
 
-    // If Cusdis is already loaded, manually trigger a re-render
-    script.onload = () => {
-      if (typeof window !== 'undefined' && (window as any).CUSDIS) {
-        ;(window as any).CUSDIS.renderTo(ref.current)
-      }
+    // First load — inject the script once
+    if (!document.getElementById('cusdis-script')) {
+      const script = document.createElement('script')
+      script.id = 'cusdis-script'
+      script.src = 'https://cusdis.com/js/cusdis.es.js'
+      script.async = true
+      script.defer = true
+      document.body.appendChild(script)
     }
   }, [slug, title, url])
 
