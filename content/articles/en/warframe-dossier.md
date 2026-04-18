@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "11 min"
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-gameName: "Warframe"
+coverImage: "/images/warframe/screenshot-1.jpg"
 featured: false
 ---
 
@@ -16,8 +16,6 @@ In March 2026, Warframe turned 13. Not with a spectacular trailer or a marketing
 Thirteen years. In an industry where a live service game that holds five years is considered a success, where studios close, where games-as-a-service collapse under the weight of their own promises, Digital Extremes keeps shipping updates. Regularly. Since 2013.
 
 That's not coincidence. And understanding why Warframe is still here means understanding something important about how games can survive.
-
-![Warframe](/images/warframe/screenshot-1.jpg)
 
 ## 2013: a launch nobody watched
 
@@ -28,8 +26,6 @@ March 2013. The game enters open beta on PC, developed by Digital Extremes, a Ca
 Warframe arrives with limited resources, an ambitious art direction (space ninjas in an organic, strange sci-fi universe), and a free-to-play model at a time when that term was still largely synonymous with pay-to-win. Reviews are mixed. The press isn't excited. Player numbers are low.
 
 What nobody saw then was that Digital Extremes was laying the foundations of a game that would outlast most of its competitors with ten times its budget.
-
-![Warframe](/images/warframe/screenshot-2.jpg)
 
 ## The model that changes everything
 
@@ -73,8 +69,6 @@ That moment, discussed in forums, YouTube videos, Reddit threads, created someth
 
 The Second Dream proves Warframe isn't just a game that survives because it's free and generous. It's a game that survives because Digital Extremes knows how to create moments players want to talk about, even from outside the mainstream press conversation.
 
-![Warframe](/images/warframe/screenshot-5.jpg)
-
 ## Digital Extremes: the studio that didn't sell
 
 In 2013, as Warframe begins finding its audience, Digital Extremes is a mid-sized studio surviving on the strength of the game it just launched. In the years that follow, as Warframe grows, acquisition offers arrive.
@@ -100,8 +94,6 @@ First, the game is dense. Warframe's entry curve is one of the genre's steepest.
 Second, the game doesn't chase virality. There's no battle royale mode added to capture an audience. No collaboration with a rapper or film franchise to make noise. Warframe does collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), but they're never the core of the communication.
 
 Third, the community is self-sufficient. It doesn't need external validation. It produces its own guides, its own tier lists, its own analysis. It exists within its own ecosystem. Which means gaming journalists, usually drawn to controversy or novelty, have few reasons to return to it regularly.
-
-![Warframe](/images/warframe/screenshot-7.jpg)
 
 ## What Warframe teaches
 

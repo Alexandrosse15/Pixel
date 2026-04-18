@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "11 min"
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-gameName: "Warframe"
+coverImage: "/images/warframe/screenshot-1.jpg"
 featured: false
 ---
 
@@ -16,8 +16,6 @@ En mars 2026, Warframe a fêté ses 13 ans. Pas avec un trailer spectaculaire ni
 Treize ans. Dans un secteur où un jeu live service qui tient cinq ans est considéré comme un succès, où les studios ferment, où les games-as-a-service s'effondrent sous le poids de leurs propres promesses, Digital Extremes continue de faire des mises à jour. Régulièrement. Depuis 2013.
 
 Ce n'est pas un hasard. Et comprendre pourquoi Warframe est encore là, c'est comprendre quelque chose d'important sur la façon dont les jeux peuvent survivre.
-
-![Warframe](/images/warframe/screenshot-1.jpg)
 
 ## 2013 : un lancement que personne ne regardait
 
@@ -28,8 +26,6 @@ Mars 2013. Le jeu sort en open beta sur PC, développé par Digital Extremes, un
 Warframe arrive avec peu de moyens, une direction artistique ambitieuse (des space ninjas dans un univers de science-fiction organique et étrange), et un modèle free-to-play à une époque où ce terme était encore largement synonyme de pay-to-win. Les critiques sont mitigées. La presse ne s'emballe pas. Les joueurs sont peu nombreux.
 
 Ce que personne ne voyait à l'époque, c'est que Digital Extremes était en train de construire les fondations d'un jeu qui durerait plus longtemps que la plupart de ses concurrents qui avaient dix fois son budget.
-
-![Warframe](/images/warframe/screenshot-2.jpg)
 
 ## Le modèle qui change tout
 
@@ -73,8 +69,6 @@ Ce moment, raconté dans des forums, des vidéos YouTube, des discussions Reddit
 
 The Second Dream prouve que Warframe n'est pas seulement un jeu qui dure parce qu'il est gratuit et généreux. C'est un jeu qui dure parce que Digital Extremes sait créer des moments dont les joueurs veulent parler, même dans l'ombre de la presse généraliste.
 
-![Warframe](/images/warframe/screenshot-5.jpg)
-
 ## Digital Extremes : le studio qui n'a pas vendu
 
 En 2013, quand Warframe commence à trouver son public, Digital Extremes est un studio de taille modeste qui survit par la force du jeu qu'il vient de lancer. Dans les années qui suivent, à mesure que Warframe grandit, les offres de rachat arrivent.
@@ -100,8 +94,6 @@ D'abord, le jeu est dense. La courbe d'entrée de Warframe est connue pour être
 Ensuite, le jeu ne cherche pas la viralité. Il n'y a pas de mode battle royale ajouté pour capter un public. Pas de collaboration avec un rappeur ou une franchise cinématographique pour faire du bruit. Warframe fait des collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), mais elles ne sont jamais le coeur de la communication.
 
 Enfin, la communauté est autosuffisante. Elle n'a pas besoin de validation externe. Elle produit ses propres guides, ses propres tier lists, ses propres analyses. Elle existe dans son écosystème. Ce qui fait que les journalistes gaming, souvent attirés par la controverse ou la nouveauté, ont peu de raisons de revenir régulièrement dessus.
-
-![Warframe](/images/warframe/screenshot-7.jpg)
 
 ## Ce que Warframe enseigne
 
