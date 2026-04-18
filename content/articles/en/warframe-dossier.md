@@ -17,6 +17,8 @@ Thirteen years. In an industry where a live service game that holds five years i
 
 That's not coincidence. And understanding why Warframe is still here means understanding something important about how games can survive.
 
+![Warframe](/images/warframe/screenshot-1.jpg)
+
 ## 2013: a launch nobody watched
 
 We need to remember what Warframe was at launch.
@@ -26,6 +28,8 @@ March 2013. The game enters open beta on PC, developed by Digital Extremes, a Ca
 Warframe arrives with limited resources, an ambitious art direction (space ninjas in an organic, strange sci-fi universe), and a free-to-play model at a time when that term was still largely synonymous with pay-to-win. Reviews are mixed. The press isn't excited. Player numbers are low.
 
 What nobody saw then was that Digital Extremes was laying the foundations of a game that would outlast most of its competitors with ten times its budget.
+
+![Warframe](/images/warframe/screenshot-2.jpg)
 
 ## The model that changes everything
 
@@ -38,6 +42,8 @@ Platinum, the game's premium currency, can be traded between players. Not bought
 That's not a detail. It's the backbone of the entire relationship between Digital Extremes and its community. The studio can't afford to betray players who'd been farming for five years, because those players are the liquidity of the internal market. They're the game's economic engine.
 
 Result: in 13 years, Warframe has never introduced a pay-to-win mechanic. Never sold a direct advantage for real money. That consistency, in this industry, is almost without equivalent.
+
+![Warframe](/images/warframe/screenshot-3.jpg)
 
 ## While Destiny burned
 
@@ -55,6 +61,8 @@ Every major update was free. Every new world, every new warframe, every story ex
 
 That's not abstract generosity. It's a model that proved it worked while better-funded models exhausted themselves.
 
+![Warframe](/images/warframe/screenshot-4.jpg)
+
 ## The Second Dream and the narrative question
 
 In 2015, Warframe did something unexpected.
@@ -65,6 +73,8 @@ That moment, discussed in forums, YouTube videos, Reddit threads, created someth
 
 The Second Dream proves Warframe isn't just a game that survives because it's free and generous. It's a game that survives because Digital Extremes knows how to create moments players want to talk about, even from outside the mainstream press conversation.
 
+![Warframe](/images/warframe/screenshot-5.jpg)
+
 ## Digital Extremes: the studio that didn't sell
 
 In 2013, as Warframe begins finding its audience, Digital Extremes is a mid-sized studio surviving on the strength of the game it just launched. In the years that follow, as Warframe grows, acquisition offers arrive.
@@ -74,6 +84,8 @@ The studio stayed independent.
 We don't know the details of those discussions, the names of the prospective buyers, the amounts discussed. What we know is that Digital Extremes still exists as an independent entity in 2026. That editorial decisions on Warframe are made by the same people who launched it. That Steve Sinclair, the game's creative director, was present through a decade of development.
 
 That continuity isn't common. It partly explains the coherence of a game that went through 13 years of patches, expansions, meta changes and evolutions without losing its fundamental identity.
+
+![Warframe](/images/warframe/screenshot-6.jpg)
 
 ## Why it's not in the mainstream conversation
 
@@ -88,6 +100,8 @@ First, the game is dense. Warframe's entry curve is one of the genre's steepest.
 Second, the game doesn't chase virality. There's no battle royale mode added to capture an audience. No collaboration with a rapper or film franchise to make noise. Warframe does collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), but they're never the core of the communication.
 
 Third, the community is self-sufficient. It doesn't need external validation. It produces its own guides, its own tier lists, its own analysis. It exists within its own ecosystem. Which means gaming journalists, usually drawn to controversy or novelty, have few reasons to return to it regularly.
+
+![Warframe](/images/warframe/screenshot-7.jpg)
 
 ## What Warframe teaches
 
