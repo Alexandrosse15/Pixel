@@ -60,13 +60,14 @@ export default function Footer() {
               {f.about_title}
             </h3>
             <ul className="space-y-2 text-sm">
-              {[f.about, f.team].map((item) => (
-                <li key={item}>
-                  <span className="cursor-pointer text-ink-secondary transition-colors hover:text-brand">
-                    {item}
-                  </span>
-                </li>
-              ))}
+              <li>
+                <Link
+                  href="/a-propos"
+                  className="text-ink-secondary transition-colors hover:text-brand"
+                >
+                  {f.about}
+                </Link>
+              </li>
               <li>
                 <Link
                   href="/mentions-legales"
