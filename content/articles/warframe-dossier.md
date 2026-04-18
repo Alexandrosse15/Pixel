@@ -95,7 +95,7 @@ Mais dans la conversation gaming généraliste — celle des médias, des trendi
 
 Plusieurs raisons.
 
-D'abord, le jeu est dense. La courbe d'entrée de Warframe est connue pour être une des plus abruptes du genre. Le tutoriel a été refondu plusieurs fois sans jamais totalement résoudre le problème : il y a trop à comprendre, trop de systèmes, trop de vocabulaire propre au jeu. Ce n'est pas un jeu qu'on lance et qu'on comprend en deux heures.
+D'abord, le jeu est dense. La courbe d'entrée de Warframe est connue pour être une des plus abruptes du genre. Le tutoriel a été refondu plusieurs fois au fil des années, et la dernière version en date — déployée il y a moins d'un mois — est probablement la meilleure qu'il ait jamais eue. L'effort est réel, visible, et mérite d'être salué. Mais Warframe est tellement vaste, tellement chargé de systèmes imbriqués, de vocabulaire propre et de méchaniques accumulées en 13 ans, qu'aucun tutoriel ne pourra jamais totalement aplanir la pente. C'est toujours un jeu abrupt à prendre en main — malgré des efforts nets et constants pour que ce soit moins vrai qu'avant.
 
 Ensuite, le jeu ne cherche pas la viralité. Il n'y a pas de mode battle royale ajouté pour capter un public. Pas de collaboration avec un rappeur ou une franchise cinématographique pour faire du bruit. Warframe fait des collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), mais elles ne sont jamais le coeur de la communication.
 
