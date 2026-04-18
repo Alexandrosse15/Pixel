@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-blue-950 via-indigo-950 to-slate-950"
-gameName: "Sword Art Online Fractured Daydream"
+coverImage: "/images/SAO/screenshot-1.jpg"
 featured: false
 ---
 
