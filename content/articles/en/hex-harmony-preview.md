@@ -7,9 +7,11 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-emerald-950 via-teal-950 to-slate-950"
-gameName: "Hex Harmony"
+coverImage: "/images/hexharmony/screenshot-1.jpg"
 featured: false
 ---
+
+![Hex Harmony](/images/hexharmony/screenshot-2.jpg)
 
 Some games get noticed not because they're loud, but because they do exactly what you wish more games would do. No battle pass, no forced multiplayer, no trailer full of explosions. Just a clean idea, well executed, and an art style that makes you want to spend an evening with it.
 
@@ -23,11 +25,15 @@ What sets Hex Harmony apart from the crowd of management games is what it refuse
 
 The central idea — understanding how elements interact and finding balance — is the idea of a good puzzle: simple to state, rich to explore.
 
+![Hex Harmony](/images/hexharmony/screenshot-3.jpg)
+
 ## The art style
 
 We won't pretend otherwise: the colourful low-poly look with that soft cosy atmosphere is exactly what we love in this kind of indie production. It's not a triple-A budget, and that's not the point. This is a game that found a style coherent with what it wants to be: calm, readable, pleasant to look at while you think.
 
 There's something considered about Hex Harmony's art direction. Nothing ostentatious, everything in service of readability and atmosphere. The kind of indie you put on a Sunday afternoon and don't forget.
+
+![Hex Harmony](/images/hexharmony/screenshot-4.jpg)
 
 ## A demo available
 
@@ -45,11 +51,15 @@ We don't know yet whether the execution will match the promise. Will the puzzles
 
 But the intention is right, the art style is charming, and Pixel Builder Studio seems to know what they want to make.
 
+![Hex Harmony](/images/hexharmony/screenshot-5.jpg)
+
 ## We're watching
 
 At InsertCoins, we have a soft spot for this kind of quiet indie that doesn't try to be anything other than what it is. No artificial hype, no outsized promises. A well-conceived small game, a demo available, a release planned for this year.
 
 We'll be there for the review.
+
+![Hex Harmony](/images/hexharmony/screenshot-6.jpg)
 
 ---
 
