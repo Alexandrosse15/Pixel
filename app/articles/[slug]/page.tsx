@@ -23,6 +23,13 @@ export async function generateMetadata({ params }: Props) {
   const article = getArticleBySlug(params.slug)
   if (!article) return {}
   const url = `${SITE_URL}/articles/${article.slug}`
+
+  const ogImage = article.coverImage
+    ? article.coverImage.startsWith('http')
+      ? article.coverImage
+      : `${SITE_URL}${article.coverImage}`
+    : `${SITE_URL}/opengraph-image`
+
   return {
     title: article.title,
     description: article.excerpt,
@@ -36,12 +43,14 @@ export async function generateMetadata({ params }: Props) {
       publishedTime: article.date,
       authors: [article.author],
       tags: [article.category, 'jeux vidéo', 'gaming'],
+      images: [{ url: ogImage, width: 1200, height: 630, alt: article.title }],
     },
     twitter: {
       card: 'summary_large_image',
       site: '@insertcoinspress',
       title: article.title,
       description: article.excerpt,
+      images: [ogImage],
     },
   }
 }
