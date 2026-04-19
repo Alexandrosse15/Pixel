@@ -7,13 +7,15 @@ date: "2026-04-19"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-emerald-950 via-teal-900 to-amber-950"
-gameName: "Cartel Pilots Wanted"
+coverImage: "/images/cartelpiloits/screenshot-1.jpg"
 featured: false
 ---
 
 We'll be upfront from the start: we haven't played Cartel Pilots Wanted. No demo available, no preview session, no early access. What we have is an announcement trailer, a Steam page, and an immediate reaction we don't want to stay quiet about.
 
 That reaction is nostalgia. A precise, dated, perfectly identifiable nostalgia.
+
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-2.jpg)
 
 ## What the trailer wakes up
 
@@ -27,6 +29,8 @@ Cartel Pilots Wanted isn't Far Cry. It's not an FPS — it's an accessible fligh
 
 We're trying anyway.
 
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-3.jpg)
+
 ## What we know objectively
 
 OldYacht's project rests on a clear proposition: take risky delivery contracts with friends, keep your aircraft airworthy, customise your planes with custom liveries, and explore a tropical archipelago in co-op up to four players — with a solo mode planned for lone pilots.
@@ -34,6 +38,8 @@ OldYacht's project rests on a clear proposition: take risky delivery contracts w
 The flight physics are advertised as accessible, not hardcore simulation. That's an assumed design choice that opens the game to a wider audience and, in the context of a co-op smuggling game, makes sense: you want the flying to be satisfying, not for learning it to be a full-time job before you can have fun with friends.
 
 Dynamic weather, hidden islands, hangar management: the game seems to want to build a progression loop that mixes free exploration and resource management. That's ambitious for an indie studio, and exactly the kind of ambition we watch closely — because it can produce something exceptional or exhaust itself before release.
+
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.jpg)
 
 ## What holds us back
 
@@ -43,13 +49,19 @@ A polished trailer and a well-written Steam page don't make a good game. "Access
 
 Those are questions only the complete game can answer. OldYacht hasn't announced a release date yet. The game is in active development, with a playtest app on Steam suggesting testing has taken place, but no public session open to our knowledge.
 
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-5.jpg)
+
 ## We'll be there
 
 What's certain is that Cartel Pilots Wanted achieved something rare: making us want to be there before we've even touched it. Not through viral marketing, not through a loud campaign. Through a visual and mechanical proposition that activated something precise in our memory as players.
 
 That's not a quality guarantee. It's a promise, and promises get tested.
 
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-6.jpg)
+
 We'll be there when it's playable.
+
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-7.jpg)
 
 ---
 
