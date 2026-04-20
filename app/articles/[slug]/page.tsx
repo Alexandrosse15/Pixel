@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation'
-import { cookies } from 'next/headers'
+import { headers } from 'next/headers'
 import { getAllSlugs, getArticleBySlug, getRelatedArticles, formatDate, categoryConfig } from '@/lib/articles'
 import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
@@ -19,9 +19,13 @@ interface Props {
 }
 
 export async function generateMetadata({ params }: Props) {
-  const article = getArticleBySlug(params.slug)
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
+  const article = getArticleBySlug(params.slug, locale)
   if (!article) return {}
-  const url = `${SITE_URL}/articles/${article.slug}`
+
+  const frUrl = `${SITE_URL}/articles/${article.slug}`
+  const enUrl = `${SITE_URL}/en/articles/${article.slug}`
+  const canonicalUrl = locale === 'en' ? enUrl : frUrl
 
   const ogImage = article.coverImage
     ? article.coverImage.startsWith('http')
@@ -32,13 +36,16 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: article.title,
     description: article.excerpt,
-    alternates: { canonical: url },
+    alternates: {
+      canonical: canonicalUrl,
+      languages: { fr: frUrl, en: enUrl, 'x-default': frUrl },
+    },
     openGraph: {
       title: article.title,
       description: article.excerpt,
-      url,
+      url: canonicalUrl,
       type: 'article',
-      locale: 'fr_FR',
+      locale: locale === 'en' ? 'en_US' : 'fr_FR',
       publishedTime: article.date,
       authors: [article.author],
       tags: [article.category, 'jeux vidéo', 'gaming'],
@@ -55,7 +62,7 @@ export async function generateMetadata({ params }: Props) {
 }
 
 export default async function ArticlePage({ params }: Props) {
-  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
   const t = getT(locale)
   const a = t.article
 

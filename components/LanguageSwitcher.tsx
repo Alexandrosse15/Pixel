@@ -1,8 +1,8 @@
 'use client'
 
-import { usePathname } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { useLocale } from './LocaleProvider'
-import { setLocaleAction } from '@/app/actions'
+import type { Locale } from '@/lib/i18n'
 
 function FlagFR() {
   return (
@@ -38,6 +38,18 @@ const FLAGS = {
 export default function LanguageSwitcher() {
   const { locale } = useLocale()
   const pathname = usePathname()
+  const router = useRouter()
+
+  const handleSwitch = (l: Locale) => {
+    if (l === locale) return
+    if (l === 'en') {
+      const target = pathname.startsWith('/en') ? pathname : `/en${pathname}`
+      router.push(target)
+    } else {
+      const target = pathname.startsWith('/en') ? pathname.slice(3) || '/' : pathname
+      router.push(target)
+    }
+  }
 
   return (
     <div className="flex items-center gap-1">
@@ -46,7 +58,7 @@ export default function LanguageSwitcher() {
         return (
           <button
             key={l}
-            onClick={() => setLocaleAction(l, pathname)}
+            onClick={() => handleSwitch(l)}
             title={label}
             aria-label={label}
             className={`flex h-7 w-8 items-center justify-center rounded-sm transition-all ${

@@ -40,6 +40,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/industrie`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
     { url: `${SITE_URL}/cinema`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${SITE_URL}/a-propos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 },
+    // EN versions
+    { url: `${SITE_URL}/en`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9 },
+    { url: `${SITE_URL}/en/tests`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
+    { url: `${SITE_URL}/en/previews`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
+    { url: `${SITE_URL}/en/dossiers`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${SITE_URL}/en/industrie`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.7 },
+    { url: `${SITE_URL}/en/cinema`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${SITE_URL}/en/a-propos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4 },
   ]
 
   const paginationRoutes: MetadataRoute.Sitemap = [
@@ -48,14 +56,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...paginatedRoutes('/dossiers', dossiersCount, 'weekly', 0.8),
     ...paginatedRoutes('/industrie', industrieCount, 'daily', 0.8),
     ...paginatedRoutes('/cinema', cinemaCount, 'weekly', 0.8),
+    ...paginatedRoutes('/en/tests', testsCount, 'daily', 0.8),
+    ...paginatedRoutes('/en/previews', previewsCount, 'daily', 0.8),
+    ...paginatedRoutes('/en/dossiers', dossiersCount, 'weekly', 0.7),
+    ...paginatedRoutes('/en/industrie', industrieCount, 'daily', 0.7),
+    ...paginatedRoutes('/en/cinema', cinemaCount, 'weekly', 0.7),
   ]
 
-  const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: `${SITE_URL}/articles/${article.slug}`,
-    lastModified: new Date(article.date),
-    changeFrequency: 'monthly',
-    priority: article.featured ? 0.9 : 0.7,
-  }))
+  const articleRoutes: MetadataRoute.Sitemap = articles.flatMap((article) => [
+    {
+      url: `${SITE_URL}/articles/${article.slug}`,
+      lastModified: new Date(article.date),
+      changeFrequency: 'monthly' as const,
+      priority: article.featured ? 0.9 : 0.7,
+    },
+    {
+      url: `${SITE_URL}/en/articles/${article.slug}`,
+      lastModified: new Date(article.date),
+      changeFrequency: 'monthly' as const,
+      priority: article.featured ? 0.8 : 0.6,
+    },
+  ])
 
   return [...staticRoutes, ...paginationRoutes, ...articleRoutes]
 }

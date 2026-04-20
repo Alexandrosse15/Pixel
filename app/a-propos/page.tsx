@@ -1,4 +1,4 @@
-import { cookies } from 'next/headers'
+import { headers } from 'next/headers'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
@@ -6,11 +6,14 @@ import type { Locale } from '@/lib/i18n'
 
 export const metadata: Metadata = {
   title: 'À propos',
-  description: 'InsertCoins.press est un média jeux vidéo indépendant. Tests, previews, dossiers de fond et actualité industrie — sans compromis.',
-  alternates: { canonical: `${SITE_URL}/a-propos` },
+  description: 'InsertCoins.press est un média jeux vidéo indépendant. Tests, previews, dossiers de fond et actualité industrie, sans compromis.',
+  alternates: {
+    canonical: `${SITE_URL}/a-propos`,
+    languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos`, 'x-default': `${SITE_URL}/a-propos` },
+  },
   openGraph: {
     title: `À propos | ${SITE_NAME}`,
-    description: 'InsertCoins.press est un média jeux vidéo indépendant. Tests, previews, dossiers de fond et actualité industrie — sans compromis.',
+    description: 'InsertCoins.press est un média jeux vidéo indépendant. Tests, previews, dossiers de fond et actualité industrie, sans compromis.',
     url: `${SITE_URL}/a-propos`,
     type: 'website',
     locale: 'fr_FR',
@@ -115,7 +118,7 @@ const content = {
 }
 
 export default async function AProposPage() {
-  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
   const c = content[locale]
 
   return (

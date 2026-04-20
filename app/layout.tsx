@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { Oswald, Inter } from 'next/font/google'
-import { cookies } from 'next/headers'
+import { headers } from 'next/headers'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
@@ -93,7 +93,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
-  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
 
   return (
     <html lang={locale} className={`${oswald.variable} ${inter.variable}`}>

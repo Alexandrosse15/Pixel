@@ -6,18 +6,20 @@ import { useState } from 'react'
 import { useLocale } from './LocaleProvider'
 import LanguageSwitcher from './LanguageSwitcher'
 
-const NAV_LINKS = [
-  { href: '/tests', label: 'Tests' },
-  { href: '/previews', label: 'Previews' },
-  { href: '/dossiers', label: 'Dossiers' },
-  { href: '/industrie', label: 'Industrie' },
-  { href: '/cinema', label: 'Cinéma' },
+const NAV_PATHS = [
+  { path: '/tests', label: 'Tests' },
+  { path: '/previews', label: 'Previews' },
+  { path: '/dossiers', label: 'Dossiers' },
+  { path: '/industrie', label: 'Industrie' },
+  { path: '/cinema', label: 'Cinéma' },
 ]
 
 export default function Header() {
   const pathname = usePathname()
   const [menuOpen, setMenuOpen] = useState(false)
-  const { t } = useLocale()
+  const { t, locale } = useLocale()
+  const prefix = locale === 'en' ? '/en' : ''
+  const navLinks = NAV_PATHS.map(({ path, label }) => ({ href: `${prefix}${path}`, label }))
 
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-bg-base/95 backdrop-blur-sm">
@@ -40,7 +42,7 @@ export default function Header() {
 
         {/* Desktop Nav */}
         <nav className="hidden items-center gap-8 md:flex">
-          {NAV_LINKS.map(({ href, label }) => (
+          {navLinks.map(({ href, label }) => (
             <Link
               key={href}
               href={href}
@@ -102,7 +104,7 @@ export default function Header() {
       {menuOpen && (
         <div className="border-t border-line bg-bg-surface md:hidden">
           <nav className="flex flex-col px-4 py-4">
-            {NAV_LINKS.map(({ href, label }) => (
+            {navLinks.map(({ href, label }) => (
               <Link
                 key={href}
                 href={href}

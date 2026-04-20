@@ -1,4 +1,4 @@
-import { cookies } from 'next/headers'
+import { headers } from 'next/headers'
 import { getArticlesByCategory } from '@/lib/articles'
 import { enrichArticlesWithCovers } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
@@ -12,23 +12,31 @@ export async function generateMetadata({
 }: {
   searchParams: { page?: string }
 }): Promise<Metadata> {
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
+  const t = getT(locale)
   const page = Math.max(1, parseInt(searchParams.page ?? '1', 10))
-  const baseUrl = `${SITE_URL}/cinema`
-  const canonicalUrl = page === 1 ? baseUrl : `${baseUrl}?page=${page}`
-  const title = page === 1 ? 'Cinéma' : `Cinéma — page ${page}`
-  const description = "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art."
+  const frBase = `${SITE_URL}/cinema`
+  const enBase = `${SITE_URL}/en/cinema`
+  const base = locale === 'en' ? enBase : frBase
+  const canonicalUrl = page === 1 ? base : `${base}?page=${page}`
+  const sectionTitle = t.sections.cinema.title
+  const title = page === 1 ? sectionTitle : `${sectionTitle} — page ${page}`
+  const description = t.sections.cinema.description
   return {
     title,
     description,
-    alternates: { canonical: canonicalUrl },
+    alternates: {
+      canonical: canonicalUrl,
+      languages: { fr: frBase, en: enBase, 'x-default': frBase },
+    },
     openGraph: {
       title: `${title} | ${SITE_NAME}`,
       description,
       url: canonicalUrl,
       type: 'website',
-      locale: 'fr_FR',
+      locale: locale === 'en' ? 'en_US' : 'fr_FR',
       siteName: SITE_NAME,
-      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Cinéma | ${SITE_NAME}` }],
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `${sectionTitle} | ${SITE_NAME}` }],
     },
     twitter: {
       card: 'summary_large_image',
@@ -46,7 +54,7 @@ export default async function CinemaPage({
 }: {
   searchParams: { page?: string }
 }) {
-  const locale = ((cookies().get('locale')?.value) ?? 'fr') as Locale
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
   const t = getT(locale)
   const s = t.sections.cinema
 
