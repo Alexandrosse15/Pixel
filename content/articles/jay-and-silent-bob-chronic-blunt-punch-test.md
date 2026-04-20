@@ -18,6 +18,8 @@ La première fois qu'on voit la direction artistique en mouvement, les animation
 
 Chronic Blunt Punch réveille ça immédiatement. Et c'est précisément pour ça que ce qui suit est douloureux à écrire.
 
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-1.jpg)
+
 ## Ce que le jeu fait très bien
 
 Commençons par là, parce que ça mérite d'être dit sans réserve.
@@ -26,9 +28,13 @@ La direction artistique est exceptionnelle. Interabang Entertainment et Digital 
 
 Kevin Smith et Jason Mewes sont impliqués. Ça s'entend, ça se voit dans l'écriture. Les dialogues sont vrais, les personnages sonnent juste, l'humour est celui des films. Ce n'est pas une licence exploitée par un studio sans âme. C'est une oeuvre faite par des gens qui aiment ce qu'ils adaptent.
 
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-2.jpg)
+
 Le système de jeu sur le papier est solide : Jay et Silent Bob en tag-team avec échange de personnage, collecte de "nugs" pour alimenter les supers, compteur d'assistance pour appeler des personnages du View Askewniverse en renfort, et la transformation Bluntman et Chronic qui fige le temps pour lâcher des attaques dévastatrices. C'est bien pensé.
 
 ## Le problème
+
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-3.jpg)
 
 Le problème, c'est que tout ça existe dans un beat 'em up qui ne sait pas se battre.
 
@@ -41,6 +47,8 @@ Le support manette était cassé au lancement. Pas partiellement dysfonctionnel 
 Et le co-op justement, vendu comme le coeur de l'expérience, souffre de bugs lors des transitions entre zones.
 
 Au-delà des problèmes techniques, le design du combat lui-même reste très classique, peut-être trop. Les vagues d'ennemis qui arrivent par la droite, les mêmes archétypes qui reviennent en boucle avec des palettes de couleurs différentes, les patterns limités qui se répètent d'un niveau à l'autre. Le genre beat 'em up a évolué depuis Double Dragon : des jeux comme Streets of Rage 4 ont prouvé qu'on peut respecter les codes des années 90 tout en apportant une profondeur de combat moderne, des systèmes de parry, des jugles, une vraie lecture des situations. Chronic Blunt Punch ne va pas jusque-là. Il s'arrête à la surface du genre sans chercher à le réinventer ou même à le transcender. Le tag-team et les assists sont des idées intéressantes mais pas suffisamment exploitées pour compenser la répétitivité de l'ensemble. Des bugs qui sortent de l'immersion, qui interrompent le rythme, qui rappellent qu'on joue à quelque chose de pas tout à fait fini.
+
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-4.jpg)
 
 ## Ce que ça représente quand même
 

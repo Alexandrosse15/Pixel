@@ -18,6 +18,8 @@ The first time you see the art direction in motion, the hand-drawn animations, t
 
 Chronic Blunt Punch brings that back immediately. Which is precisely why what follows is painful to write.
 
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-1.jpg)
+
 ## What the game does very well
 
 Let's start here, because it deserves to be said without reservation.
@@ -26,9 +28,13 @@ The art direction is exceptional. Interabang Entertainment and Digital Eclipse h
 
 Kevin Smith and Jason Mewes are involved. You can hear it, see it in the writing. The dialogue is genuine, the characters sound right, the humour is the films' humour. This isn't a license exploited by a studio with no soul. It's a work made by people who love what they're adapting.
 
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-2.jpg)
+
 The game system on paper is solid: Jay and Silent Bob as a tag-team with character swapping, collecting "nugs" to power specials, an assist meter to call in View Askewniverse characters for backup, and the Bluntman and Chronic transformation that freezes time to unleash devastating attacks. It's well conceived.
 
 ## The problem
+
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-3.jpg)
 
 The problem is that all of this exists inside a beat 'em up that doesn't know how to fight.
 
@@ -42,11 +48,15 @@ Beyond the technical issues, the combat design itself stays very classical, perh
 
 And the co-op, sold as the heart of the experience, suffers from bugs during zone transitions. Bugs that break immersion, interrupt the rhythm, and remind you that you're playing something not quite finished.
 
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-4.jpg)
+
 ## What it still represents
 
 Chronic Blunt Punch launches at €19.99. That's not the price of an AAA. It's the price of an ambitious indie project that doesn't hide its budget limits but hides them behind an art direction that delivers visually.
 
 If you're a View Askewniverse fan, if Jay and Silent Bob mean something to you, if simply seeing these characters hand-animated in a beat 'em up gives you the feeling it gave us, there's something here. It's not a bad game. It's a game that deeply loves what it draws from and didn't have the means or time to bring its combat mechanics up to the level of its art direction.
+
+![Jay and Silent Bob: Chronic Blunt Punch](/images/jaysilentbob/screenshot-1.jpg)
 
 The Double Dragon nostalgia is there. The Double Dragon feeling never quite materialises.
 
