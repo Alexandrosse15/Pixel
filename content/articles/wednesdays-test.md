@@ -1,5 +1,5 @@
 ---
-title: "Wednesdays : quand le jeu vidéo ose éclairer ce qu'on préférerait ignorer"
+title: "Wednesdays : éclairer ce qu'on préférerait voir ne pas exister"
 slug: "wednesdays-test"
 category: "tests"
 excerpt: "Wednesdays arrive avec un style BD qui rappelle les meilleures heures de Ghost World, et un sujet que peu d'œuvres ont le courage d'aborder frontalement. C'est inconfortable, nécessaire, et lumineux."

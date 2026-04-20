@@ -1,5 +1,5 @@
 ---
-title: "Wednesdays: when a video game dares to illuminate what we'd rather ignore"
+title: "Wednesdays: shedding light on what we'd rather didn't exist"
 slug: "wednesdays-test"
 category: "tests"
 excerpt: "Wednesdays arrives with a comic book style that echoes the best of Ghost World, and a subject few works have the courage to address head-on. It's uncomfortable, necessary, and luminous."
