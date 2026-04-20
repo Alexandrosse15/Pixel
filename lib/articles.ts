@@ -94,6 +94,17 @@ export function getArticleBySlug(slug: string, locale = 'fr'): Article | null {
   return parseFile(slug, locale)
 }
 
+export function getRelatedArticles(
+  currentSlug: string,
+  category: Category,
+  locale = 'fr',
+  limit = 3
+): Article[] {
+  return getAllArticles(locale)
+    .filter((a) => a.category === category && a.slug !== currentSlug)
+    .slice(0, limit)
+}
+
 export function getAllSlugs(): string[] {
   if (!fs.existsSync(FR_DIR)) return []
   return fs

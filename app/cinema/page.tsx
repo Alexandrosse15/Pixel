@@ -7,25 +7,36 @@ import Pagination from '@/components/Pagination'
 import type { Metadata } from 'next'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
 
-export const metadata: Metadata = {
-  title: 'Cinéma',
-  description: "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art.",
-  alternates: { canonical: `${SITE_URL}/cinema` },
-  openGraph: {
-    title: `Cinéma | ${SITE_NAME}`,
-    description: "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art.",
-    url: `${SITE_URL}/cinema`,
-    type: 'website',
-    locale: 'fr_FR',
-    siteName: SITE_NAME,
-    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Cinéma | ${SITE_NAME}` }],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    site: '@insertcoinspress',
-    title: `Cinéma | ${SITE_NAME}`,
-    description: "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art.",
-  },
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: { page?: string }
+}): Promise<Metadata> {
+  const page = Math.max(1, parseInt(searchParams.page ?? '1', 10))
+  const baseUrl = `${SITE_URL}/cinema`
+  const canonicalUrl = page === 1 ? baseUrl : `${baseUrl}?page=${page}`
+  const title = page === 1 ? 'Cinéma' : `Cinéma — page ${page}`
+  const description = "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art."
+  return {
+    title,
+    description,
+    alternates: { canonical: canonicalUrl },
+    openGraph: {
+      title: `${title} | ${SITE_NAME}`,
+      description,
+      url: canonicalUrl,
+      type: 'website',
+      locale: 'fr_FR',
+      siteName: SITE_NAME,
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Cinéma | ${SITE_NAME}` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@insertcoinspress',
+      title: `${title} | ${SITE_NAME}`,
+      description,
+    },
+  }
 }
 
 const ARTICLES_PER_PAGE = 9

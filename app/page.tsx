@@ -45,6 +45,13 @@ export default async function HomePage() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 md:px-8">
 
+      {/* Editorial intro */}
+      <section className="mb-10">
+        <p className="max-w-3xl text-base leading-relaxed text-ink-secondary">
+          {h.intro}
+        </p>
+      </section>
+
       {/* Hero */}
       {featured && (
         <section className="mb-16">

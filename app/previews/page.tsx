@@ -7,25 +7,36 @@ import Pagination from '@/components/Pagination'
 import type { Metadata } from 'next'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
 
-export const metadata: Metadata = {
-  title: 'Previews',
-  description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoins.press.',
-  alternates: { canonical: `${SITE_URL}/previews` },
-  openGraph: {
-    title: `Previews | ${SITE_NAME}`,
-    description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoins.press.',
-    url: `${SITE_URL}/previews`,
-    type: 'website',
-    locale: 'fr_FR',
-    siteName: SITE_NAME,
-    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Previews | ${SITE_NAME}` }],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    site: '@insertcoinspress',
-    title: `Previews | ${SITE_NAME}`,
-    description: 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoins.press.',
-  },
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: { page?: string }
+}): Promise<Metadata> {
+  const page = Math.max(1, parseInt(searchParams.page ?? '1', 10))
+  const baseUrl = `${SITE_URL}/previews`
+  const canonicalUrl = page === 1 ? baseUrl : `${baseUrl}?page=${page}`
+  const title = page === 1 ? 'Previews' : `Previews — page ${page}`
+  const description = 'Nos aperçus et présentations des jeux à venir. Anticipez les sorties avec InsertCoins.press.'
+  return {
+    title,
+    description,
+    alternates: { canonical: canonicalUrl },
+    openGraph: {
+      title: `${title} | ${SITE_NAME}`,
+      description,
+      url: canonicalUrl,
+      type: 'website',
+      locale: 'fr_FR',
+      siteName: SITE_NAME,
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Previews | ${SITE_NAME}` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@insertcoinspress',
+      title: `${title} | ${SITE_NAME}`,
+      description,
+    },
+  }
 }
 
 const ARTICLES_PER_PAGE = 9

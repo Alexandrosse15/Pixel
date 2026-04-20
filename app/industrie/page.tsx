@@ -7,25 +7,36 @@ import Pagination from '@/components/Pagination'
 import type { Metadata } from 'next'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
 
-export const metadata: Metadata = {
-  title: 'Industrie',
-  description: "L'actualité de l'industrie du jeu vidéo : acquisitions, tendances, économie du secteur.",
-  alternates: { canonical: `${SITE_URL}/industrie` },
-  openGraph: {
-    title: `Industrie | ${SITE_NAME}`,
-    description: "L'actualité de l'industrie du jeu vidéo : acquisitions, tendances, économie du secteur.",
-    url: `${SITE_URL}/industrie`,
-    type: 'website',
-    locale: 'fr_FR',
-    siteName: SITE_NAME,
-    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Industrie | ${SITE_NAME}` }],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    site: '@insertcoinspress',
-    title: `Industrie | ${SITE_NAME}`,
-    description: "L'actualité de l'industrie du jeu vidéo : acquisitions, tendances, économie du secteur.",
-  },
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: { page?: string }
+}): Promise<Metadata> {
+  const page = Math.max(1, parseInt(searchParams.page ?? '1', 10))
+  const baseUrl = `${SITE_URL}/industrie`
+  const canonicalUrl = page === 1 ? baseUrl : `${baseUrl}?page=${page}`
+  const title = page === 1 ? 'Industrie' : `Industrie — page ${page}`
+  const description = "L'actualité de l'industrie du jeu vidéo : acquisitions, tendances, économie du secteur."
+  return {
+    title,
+    description,
+    alternates: { canonical: canonicalUrl },
+    openGraph: {
+      title: `${title} | ${SITE_NAME}`,
+      description,
+      url: canonicalUrl,
+      type: 'website',
+      locale: 'fr_FR',
+      siteName: SITE_NAME,
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `Industrie | ${SITE_NAME}` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@insertcoinspress',
+      title: `${title} | ${SITE_NAME}`,
+      description,
+    },
+  }
 }
 
 const ARTICLES_PER_PAGE = 9

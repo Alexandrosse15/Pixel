@@ -10,6 +10,7 @@ const translations = {
     },
     home: {
       featured: 'À la une',
+      intro: "Tests, previews, dossiers de fond et actualité de l'industrie. InsertCoins.press est un média gaming indépendant : pas de régie publicitaire, pas de partenariats éditoriaux, pas de scores gonflés. Juste des gens qui aiment les jeux vidéo et qui vous en parlent franchement.",
       cta_eyebrow: 'Presse gaming indépendante',
       cta_title: 'La critique sans compromis',
       cta_body:
@@ -60,6 +61,7 @@ const translations = {
       },
       read_time: 'de lecture',
       back_to: 'Retour aux',
+      related_title: 'Lire aussi',
     },
     categories: {
       tests: 'Test',
@@ -104,6 +106,7 @@ const translations = {
     },
     home: {
       featured: 'Featured',
+      intro: "Reviews, previews, in-depth features and industry news. InsertCoins.press is an independent gaming media: no ad network, no editorial partnerships, no inflated scores. Just people who love video games and tell you about them straight.",
       cta_eyebrow: 'Independent gaming press',
       cta_title: 'Uncompromising reviews',
       cta_body:
@@ -154,6 +157,7 @@ const translations = {
       },
       read_time: 'read',
       back_to: 'Back to',
+      related_title: 'You might also like',
     },
     categories: {
       tests: 'Review',

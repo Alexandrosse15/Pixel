@@ -17,7 +17,7 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
           {/* Thumbnail */}
           <div className="relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-sm">
             {article.coverImage ? (
-              <Image src={article.coverImage} alt={article.title} fill className="object-cover" />
+              <Image src={article.coverImage} alt={article.title} fill sizes="128px" className="object-cover" />
             ) : (
               <div className={`h-full w-full bg-gradient-to-br ${article.imageColor}`} />
             )}
@@ -72,7 +72,7 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
         <div className="relative h-48 overflow-hidden">
           {article.coverImage ? (
             <>
-              <Image src={article.coverImage} alt={article.title} fill className="object-cover transition-transform duration-500 group-hover:scale-105" />
+              <Image src={article.coverImage} alt={article.title} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover transition-transform duration-500 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-bg-card/90 via-transparent to-transparent" />
             </>
           ) : (

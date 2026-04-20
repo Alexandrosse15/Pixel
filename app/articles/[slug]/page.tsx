@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { cookies } from 'next/headers'
-import { getAllSlugs, getArticleBySlug, formatDate, categoryConfig } from '@/lib/articles'
+import { getAllSlugs, getArticleBySlug, getRelatedArticles, formatDate, categoryConfig } from '@/lib/articles'
 import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
@@ -9,11 +9,10 @@ import JsonLd from '@/components/JsonLd'
 import Comments from '@/components/Comments'
 import CommunityRating from '@/components/CommunityRating'
 import Link from 'next/link'
+import ArticleCard from '@/components/ArticleCard'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
-
-export const dynamic = 'force-dynamic'
 
 interface Props {
   params: { slug: string }
@@ -74,6 +73,8 @@ export default async function ArticlePage({ params }: Props) {
     screenshotsPromise,
     getRating(params.slug),
   ])
+
+  const related = getRelatedArticles(params.slug, raw.category, locale)
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
   let screenshotIdx = 0
@@ -272,13 +273,15 @@ export default async function ArticlePage({ params }: Props) {
                       )
                     }
                     return (
-                      <span className="my-8 block overflow-hidden rounded-sm">
+                      <span className="my-8 block overflow-hidden rounded-sm" style={{ aspectRatio: '16/9' }}>
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={finalSrc}
                           alt={alt || ''}
-                          className="w-full object-cover"
+                          className="w-full h-full object-cover"
                           loading="lazy"
+                          width={1200}
+                          height={675}
                         />
                       </span>
                     )
@@ -296,8 +299,22 @@ export default async function ArticlePage({ params }: Props) {
 
             <Comments slug={article.slug} title={article.title} url={articleUrl} />
 
+            {/* Related articles */}
+            {related.length > 0 && (
+              <div className="mt-16 border-t border-line pt-10">
+                <p className="mb-6 font-display text-xs uppercase tracking-widest text-brand">
+                  {a.related_title}
+                </p>
+                <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+                  {related.map((rel) => (
+                    <ArticleCard key={rel.slug} article={rel} />
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Bottom nav */}
-            <div className="mt-16 border-t border-line pt-8">
+            <div className="mt-10 border-t border-line pt-8">
               <Link
                 href={`/${article.category}`}
                 className="inline-flex items-center gap-2 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
