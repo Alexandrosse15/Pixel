@@ -22,7 +22,7 @@ export function LocaleProvider({
   initialLocale: Locale
 }) {
   const pathname = usePathname()
-  const locale: Locale = pathname.startsWith('/en') ? 'en' : initialLocale
+  const locale: Locale = pathname.startsWith('/en') ? 'en' : 'fr'
 
   return (
     <LocaleContext.Provider value={{ locale, t: getT(locale) }}>
