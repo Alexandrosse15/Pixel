@@ -91,7 +91,7 @@ export default function CommunityRating({ slug, variant = 'sidebar' }: Props) {
 
           {/* Votes count */}
           <p className="mt-1.5 text-xs text-white/40">
-            {count > 0 ? labels.votes(count) : labels.noVotes}
+            {count >= 100 ? labels.votes(count) : labels.noVotes}
           </p>
 
           {/* Barre */}
@@ -164,7 +164,7 @@ export default function CommunityRating({ slug, variant = 'sidebar' }: Props) {
               </span>
               <span className="mb-0.5 font-display text-base font-bold text-white/30">/100</span>
             </div>
-            {count > 0 && <p className="mt-1 text-xs text-white/40">{labels.votes(count)}</p>}
+            {count >= 100 && <p className="mt-1 text-xs text-white/40">{labels.votes(count)}</p>}
           </div>
 
           {hasVoted ? (
