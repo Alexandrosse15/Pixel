@@ -1,5 +1,5 @@
 ---
-title: "Jay and Silent Bob: Chronic Blunt Punch — the most beautiful love letter that doesn't know how to fight"
+title: "Jay and Silent Bob: Chronic Blunt Punch, the most beautiful love letter that doesn't know how to fight"
 slug: "jay-and-silent-bob-chronic-blunt-punch-test"
 category: "tests"
 excerpt: "The art direction is stunning, the View Askewniverse references are impeccable, and it takes us straight back to Double Dragon on Game Boy. Too bad the beat 'em up underneath is this sluggish."

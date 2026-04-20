@@ -2,7 +2,7 @@
 title: "Windrose est le jeu de pirates qu'on attendait depuis Black Flag. Et c'est pas du flan."
 slug: "windrose-test"
 category: "tests"
-excerpt: "500 000 copies en 48 heures. 89% de positifs sur Steam. Un accès anticipé qui cartonne. Après plusieurs jours passés à sillonner les mers de Windrose, on comprend pourquoi — et on identifie ce qui reste à faire."
+excerpt: "500 000 copies en 48 heures. 89% de positifs sur Steam. Un accès anticipé qui cartonne. Après plusieurs jours passés à sillonner les mers de Windrose, on comprend pourquoi, et on identifie ce qui reste à faire."
 date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "12 min"

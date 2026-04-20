@@ -1,8 +1,8 @@
 ---
-title: "Sword Art Online: Echoes of Aincrad — the Aincrad we've been waiting for since Hollow Realization"
+title: "Sword Art Online: Echoes of Aincrad, the Aincrad we've been waiting for since Hollow Realization"
 slug: "sao-echoes-of-aincrad-preview"
 category: "previews"
-excerpt: "Bandai Namco announces a return to Aincrad with a custom hero and a full permadeath Death Game Mode. We're SAO fans at InsertCoins — so yes, we're watching this very closely."
+excerpt: "Bandai Namco announces a return to Aincrad with a custom hero and a full permadeath Death Game Mode. We're SAO fans at InsertCoins, so yes, we're watching this very closely."
 date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "6 min"
