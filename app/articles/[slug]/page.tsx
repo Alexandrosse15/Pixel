@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation'
 import { cookies } from 'next/headers'
 import { getAllSlugs, getArticleBySlug, getRelatedArticles, formatDate, categoryConfig } from '@/lib/articles'
-import { enrichArticleWithCover, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
+import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
 import CategoryBadge from '@/components/CategoryBadge'
@@ -68,13 +68,14 @@ export default async function ArticlePage({ params }: Props) {
     ? getGameScreenshots(raw.gameName, 10)
     : Promise.resolve([])
 
-  const [article, screenshots, communityRating] = await Promise.all([
+  const rawRelated = getRelatedArticles(params.slug, raw.category, locale)
+
+  const [article, screenshots, communityRating, related] = await Promise.all([
     enrichArticleWithCover(raw),
     screenshotsPromise,
     getRating(params.slug),
+    enrichArticlesWithCovers(rawRelated),
   ])
-
-  const related = getRelatedArticles(params.slug, raw.category, locale)
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
   let screenshotIdx = 0
