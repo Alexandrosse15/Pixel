@@ -271,7 +271,7 @@ export default async function ArticlePage({ params }: Props) {
                 components={{
                   img: ({ src, alt }) => {
                     let finalSrc = src || ''
-                    if (finalSrc.startsWith('/images/') && screenshotIdx < screenshots.length) {
+                    if (finalSrc.startsWith('/images/') && !article.coverImage && screenshotIdx < screenshots.length) {
                       finalSrc = screenshots[screenshotIdx]
                       screenshotIdx++
                     }
