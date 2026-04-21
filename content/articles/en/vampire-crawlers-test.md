@@ -8,9 +8,12 @@ author: "Alexandrosse"
 readTime: "6 min"
 score: 7
 image_color: "from-red-950 via-rose-950 to-zinc-950"
+coverImage: "/images/vampirecrawler/screenshot-1.jpg"
 gameName: "Vampire Crawlers"
 featured: false
 ---
+
+![Vampire Crawlers](/images/vampirecrawler/screenshot-2.jpg)
 
 Yet another deck builder. Slay the Spire opened the box, Balatro slammed it on our fingers, and since then barely a week passes without new card mechanics to master. The genre is saturated. Which makes it all the more surprising that Vampire Crawlers manages to exist in this space without feeling like filler.
 
@@ -27,6 +30,8 @@ It isn't. Because poncle and Nosebleed Interactive didn't try to reproduce the c
 First-person in a deck builder is rare. It's not a cosmetic detail, it's a real design decision. Exploration carries weight. Enemy anticipation does too, since the game shows you their intentions in advance: you know what's coming, you decide how to respond. An asymmetry of information that fundamentally changes the nature of decisions.
 
 Between runs, a village hub lets you spend accumulated gold to unlock characters, stat buffs, and gem slots. Permanent progression is well-paced, providing direction without short-circuiting replayability.
+
+![Vampire Crawlers](/images/vampirecrawler/screenshot-3.jpg)
 
 ## The honest limitations
 

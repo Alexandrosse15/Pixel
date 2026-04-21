@@ -8,9 +8,12 @@ author: "Alexandrosse"
 readTime: "5 min"
 score: 7
 image_color: "from-slate-950 via-gray-900 to-zinc-950"
+coverImage: "/images/thirdshift/screenshot-1.jpg"
 gameName: "The Third Shift"
 featured: false
 ---
+
+![The Third Shift](/images/thirdshift/screenshot-2.jpg)
 
 The Third Shift's trailer gets you before the game does. There's VHS grain, image glitches, a cassette aesthetic that dredges up very specific memories: old FMV games, Night Trap, plastic cases dog-eared from too many rentals. You fall for it, and assume this is going to be one of those nostalgia-as-a-selling-point projects.
 
@@ -24,17 +27,23 @@ You're a night shift security guard at the Roanoke Museum of History and Wonder.
 
 Gameplay mixes survival, exploration, and puzzles in a clean loop. Resource management is present without crushing everything else, and the space itself, each room, each corridor, gradually starts to weigh on you. This is economical survival horror: no jump scare every thirty seconds, just a tension that builds because you never quite know what's changed since your last round.
 
+![The Third Shift](/images/thirdshift/screenshot-3.jpg)
+
 ## The perspective thing
 
 What really sets The Third Shift apart is its perspective-switching system. First person, second, third: the game shifts depending on the situation, and it doesn't feel like a gimmick. It genuinely changes how you read a room, how you anticipate anomalies, how you position yourself in the more loaded spaces.
 
 For a small studio, it's a technical gamble that could easily have destabilised the whole thing. It doesn't.
 
+![The Third Shift](/images/thirdshift/screenshot-4.jpg)
+
 ## What we take away
 
 The VHS trailer and the Game Boy pixel art game don't quite speak the same language, but they speak from the same place. A certain way of building dread with limited resources, constructing anxiety through space rather than spectacle. The Third Shift is retroactively lit in the right sense: it doesn't mimic an era, it shares its instinct.
 
 Short, dense, nothing wasted. An indie that knows exactly what it is.
+
+![The Third Shift](/images/thirdshift/screenshot-5.jpg)
 
 ## Verdict
 

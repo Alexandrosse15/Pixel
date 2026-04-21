@@ -8,9 +8,12 @@ author: "Alexandrosse"
 readTime: "5 min"
 score: 7
 image_color: "from-slate-950 via-gray-900 to-zinc-950"
+coverImage: "/images/thirdshift/screenshot-1.jpg"
 gameName: "The Third Shift"
 featured: false
 ---
+
+![The Third Shift](/images/thirdshift/screenshot-2.jpg)
 
 La bande annonce de The Third Shift vous attrape avant le jeu. Il y a du grain VHS, des glitches d'image, une esthétique cassette qui fait remonter des souvenirs très précis : les vieux jeux FMV, Night Trap, les jaquettes plastifiées qui s'effilochaient dans les bacs des vidéoclubs. On s'y laisse prendre, et on se dit que ça va être un de ces projets qui jouent sur la nostalgie parce que c'est vendeur.
 
@@ -24,17 +27,23 @@ Vous êtes gardien de nuit au Roanoke Museum of History and Wonder. Ce que ça i
 
 Le gameplay mélange survie, exploration et puzzles dans une boucle propre. La gestion des ressources est présente sans écraser le reste, et l'espace lui-même, chaque salle, chaque couloir, finit par peser. C'est du survival horror économe : pas de jump scares toutes les trente secondes, juste une tension qui monte parce que vous ne savez jamais ce qui a changé depuis votre dernière ronde.
 
+![The Third Shift](/images/thirdshift/screenshot-3.jpg)
+
 ## Le truc des perspectives
 
 Ce qui distingue vraiment The Third Shift, c'est son système de changement de point de vue. Première personne, deuxième, troisième : le jeu bascule selon les situations, et ça ne ressemble pas à un gadget. Ça change réellement comment on lit l'espace, comment on anticipe les anomalies, comment on se positionne dans les salles les plus chargées.
 
 Pour un petit studio, c'est une prise de risque technique qui aurait facilement pu dérégler l'ensemble. Elle ne le fait pas.
 
+![The Third Shift](/images/thirdshift/screenshot-4.jpg)
+
 ## Ce qu'on retient
 
 La bande annonce VHS et le jeu pixel art Game Boy ne parlent pas exactement le même langage, mais ils parlent du même endroit. Une certaine façon de faire peur avec peu de moyens, de construire l'angoisse par l'espace plutôt que par le spectacle. The Third Shift est rétro-éclairé dans le bon sens : il ne mime pas une époque, il en partage l'instinct.
 
 Court, dense, sans remplissage. Un indépendant qui sait ce qu'il est.
+
+![The Third Shift](/images/thirdshift/screenshot-5.jpg)
 
 ## Verdict
 
