@@ -8,11 +8,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7.5
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
+coverImage: "/images/tidesoftomorrow/screenshot-1.jpg"
 gameName: "Tides of Tomorrow"
 featured: false
 ---
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-1.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-2.jpg)
 
 There's a scene in Waterworld where Kevin Costner finally reaches the Atoll. Dry land might not exist. Eden might be a lie. But people believe in it, and that's why they keep going. In Mad Max Fury Road, the Green Place is already gone. Furiosa has known this from the start. And yet we run toward it, because we can't do otherwise.
 
@@ -26,7 +27,7 @@ What Tides of Tomorrow does differently is the Story-Link. The decisions you mak
 
 This isn't multiplayer. It isn't replay sharing. It's a form of mechanical empathy. You don't play with others, you play through them. The first time it genuinely works, when you recognise in the world a trace of someone else, it's a sensation that has no equivalent in video games.
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-2.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-3.jpg)
 
 ## Choosing in a world you can't save
 
@@ -38,7 +39,9 @@ In Waterworld, the world is dead. In Fury Road, the Green Place is gone. In Tide
 
 The game doesn't tell you this directly. It makes you feel it, run after run, choice after choice. That's its greatest achievement.
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-3.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-4.jpg)
+
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-5.jpg)
 
 ## Where it snags
 
@@ -47,6 +50,8 @@ Tides of Tomorrow is a great narrative game with gameplay sections that don't ma
 The dissonance is real. The written world and the played world don't always speak the same language. Secondary characters lack depth. Some dialogue rings hollow where the main story demands nuance. And the Story-Link, as brilliant as it is in its best moments, can fade into the background if you don't actively look for it.
 
 This isn't a perfect game. It's an important game with visible imperfections.
+
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-6.jpg)
 
 ## What we take away
 

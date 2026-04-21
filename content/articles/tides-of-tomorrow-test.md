@@ -8,11 +8,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7.5
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
+coverImage: "/images/tidesoftomorrow/screenshot-1.jpg"
 gameName: "Tides of Tomorrow"
 featured: false
 ---
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-1.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-2.jpg)
 
 Il y a une scène dans Waterworld où Kevin Costner arrive enfin à l'Atoll. La terre ferme n'existe peut-être pas. L'Éden est peut-être un mensonge. Mais les gens y croient, et c'est pour ça qu'ils continuent. Dans Mad Max Fury Road, la Terre Verte n'existe plus. Furiosa le sait depuis le début. Et pourtant on court vers elle, parce qu'on ne peut pas faire autrement.
 
@@ -26,7 +27,7 @@ Ce que Tides of Tomorrow fait différemment, c'est le Story-Link. Les décisions
 
 Ce n'est pas du multijoueur. Ce n'est pas du partage de replay. C'est une forme d'empathie mécanique. On ne joue pas avec les autres, on joue à travers eux. La première fois que ça fonctionne vraiment, que vous reconnaissez dans le monde une trace de quelqu'un d'autre, c'est une sensation qui n'a pas d'équivalent dans le jeu vidéo.
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-2.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-3.jpg)
 
 ## Choisir dans un monde qu'on ne peut pas sauver
 
@@ -38,7 +39,9 @@ Dans Waterworld, le monde est mort. Dans Fury Road, la Terre Verte n'existe plus
 
 Le jeu ne vous dit pas ça explicitement. Il vous le fait sentir, run après run, choix après choix. C'est sa plus grande réussite.
 
-![Tides of Tomorrow](/images/tides-of-tomorrow/screenshot-3.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-4.jpg)
+
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-5.jpg)
 
 ## Là où ça coince
 
@@ -47,6 +50,8 @@ Tides of Tomorrow est un grand jeu narratif avec des sections de gameplay qui ne
 La dissonance est réelle. Le monde écrit et le monde joué ne parlent pas toujours le même langage. Les personnages secondaires manquent d'épaisseur. Certains dialogues sonnent creux là où le récit principal réclame de la nuance. Et le Story-Link, aussi brillant soit-il dans ses meilleurs moments, peut disparaître dans le décor si on ne lui prête pas attention.
 
 Ce n'est pas un jeu parfait. C'est un jeu important avec des imperfections visibles.
+
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-6.jpg)
 
 ## Ce qu'on retient
 
