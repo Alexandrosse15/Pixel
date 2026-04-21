@@ -9,7 +9,7 @@ readTime: "9 min"
 score: 9
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
 gameName: "Tides of Tomorrow"
-featured: true
+featured: false
 ---
 
 Il y a des jeux qu'on attend pour leur univers. D'autres pour leur gameplay. Et puis, très rarement, il y a ceux qui arrivent avec une idée capable de changer quelque chose dans la façon dont on pense le jeu vidéo. Pas une promesse de plus. Une vraie rupture.

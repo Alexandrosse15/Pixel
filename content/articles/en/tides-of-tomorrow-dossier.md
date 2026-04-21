@@ -9,7 +9,7 @@ readTime: "9 min"
 score: 9
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
 gameName: "Tides of Tomorrow"
-featured: true
+featured: false
 ---
 
 Some games you wait for because of their world. Others for their gameplay. And then, very rarely, there are those that arrive with an idea capable of changing something in the way we think about games. Not another promise. A genuine rupture.
