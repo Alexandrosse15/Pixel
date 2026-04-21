@@ -1,8 +1,8 @@
 ---
-title: "The Third Shift : Game Boy, musée hanté et une bande annonce qui sent la VHS"
+title: "The Third Shift : gardien de nuit dans un musée qui ne dort pas"
 slug: "the-third-shift-test"
 category: "tests"
-excerpt: "Le trailer VHS vous vend une ambiance de jeu FMV des années 90. Le jeu lui-même est un survival horror pixel art Game Boy. Les deux fonctionnent, et ensemble ils créent quelque chose de bien plus cohérent qu'on ne l'attendait."
+excerpt: "Un survival horror pixel art où vous faites des rondes de nuit dans un musée peuplé d'anomalies. Court, tendu, bien fait."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "5 min"
@@ -15,17 +15,13 @@ featured: false
 
 ![The Third Shift](/images/thirdshift/screenshot-2.jpg)
 
-La bande annonce de The Third Shift vous attrape avant le jeu. Il y a du grain VHS, des glitches d'image, une esthétique cassette qui fait remonter des souvenirs très précis : les vieux jeux FMV, Night Trap, les jaquettes plastifiées qui s'effilochaient dans les bacs des vidéoclubs. On s'y laisse prendre, et on se dit que ça va être un de ces projets qui jouent sur la nostalgie parce que c'est vendeur.
-
-Et puis on lance le jeu. Et c'est du pixel art Game Boy.
-
-Le fossé entre les deux aurait pu être un problème. Ce n'en est pas un.
+La bande annonce a ce look VHS qui accroche l'oeil. On note, on passe, on lance le jeu.
 
 ## Ronde de nuit, musée qui déraille
 
-Vous êtes gardien de nuit au Roanoke Museum of History and Wonder. Ce que ça implique en théorie : des rondes, un rapport de fin de service, une thermos de café froid. Ce que ça implique en pratique : gérer votre endurance, surveiller votre santé mentale, et naviguer dans des expositions qui ne se comportent pas comme elles devraient. La section corps humain. Les terreurs des profondeurs. Le mystère de Roanoke. Pas un musée pour les enfants.
+Vous êtes gardien de nuit au Roanoke Museum of History and Wonder. En théorie : des rondes, un rapport de fin de service, une thermos de café froid. En pratique : gérer votre endurance, surveiller votre santé mentale, et naviguer dans des expositions qui ne se comportent plus comme elles devraient. La section corps humain. Les terreurs des profondeurs. Le mystère de Roanoke.
 
-Le gameplay mélange survie, exploration et puzzles dans une boucle propre. La gestion des ressources est présente sans écraser le reste, et l'espace lui-même, chaque salle, chaque couloir, finit par peser. C'est du survival horror économe : pas de jump scares toutes les trente secondes, juste une tension qui monte parce que vous ne savez jamais ce qui a changé depuis votre dernière ronde.
+Le gameplay mélange survie, exploration et puzzles dans une boucle propre. La gestion des ressources est présente sans écraser le reste, et l'espace lui-même finit par peser. Chaque salle que vous avez déjà traversée, chaque couloir que vous pensiez connaître. C'est du survival horror économe : pas de jump scares toutes les trente secondes, juste une tension qui monte parce que vous ne savez jamais ce qui a changé depuis votre dernière ronde.
 
 ![The Third Shift](/images/thirdshift/screenshot-3.jpg)
 
@@ -39,9 +35,7 @@ Pour un petit studio, c'est une prise de risque technique qui aurait facilement 
 
 ## Ce qu'on retient
 
-La bande annonce VHS et le jeu pixel art Game Boy ne parlent pas exactement le même langage, mais ils parlent du même endroit. Une certaine façon de faire peur avec peu de moyens, de construire l'angoisse par l'espace plutôt que par le spectacle. The Third Shift est rétro-éclairé dans le bon sens : il ne mime pas une époque, il en partage l'instinct.
-
-Court, dense, sans remplissage. Un indépendant qui sait ce qu'il est.
+Court, dense, sans remplissage. The Third Shift sait ce qu'il est et ne cherche pas à être autre chose. Un espace bien construit, une mécanique qui tient, une tension honnête. Dans la catégorie des petits indépendants qui font ce qu'ils annoncent, c'est exactement ce qu'on demande.
 
 ![The Third Shift](/images/thirdshift/screenshot-5.jpg)
 
@@ -49,17 +43,17 @@ Court, dense, sans remplissage. Un indépendant qui sait ce qu'il est.
 
 **Points forts :**
 
-- esthétique Game Boy cohérente et assumée, vraiment travaillée
-- tension construite par l'espace, pas par les effets
-- changement de perspectives, une idée qui fonctionne
-- boucle de gameplay claire, survie sans surcharge
-- court mais sans rien à retrancher
+- ambiance survival horror bien dosée, tension construite par l'espace
+- changement de perspectives, une idée qui fonctionne vraiment
+- boucle de gameplay claire, jamais artificielle
+- court mais dense, pas de remplissage
+- esthétique pixel art cohérente et travaillée
 
 **Points faibles :**
 
 - durée de vie limitée même pour le genre
-- la gestion stamina/santé mentale un peu en surface
-- la narration s'essouffle un peu sur la fin
+- gestion stamina/santé mentale un peu en surface
+- narration qui s'essouffle sur la fin
 
 ---
 
