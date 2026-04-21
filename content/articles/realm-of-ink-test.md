@@ -8,6 +8,7 @@ author: "Alexandrosse"
 readTime: "10 min"
 score: 7
 image_color: "from-zinc-950 via-stone-900 to-slate-950"
+coverImage: "/images/realmofink/screenshot-1.jpg"
 gameName: "Realm of Ink"
 featured: false
 ---
@@ -18,7 +19,7 @@ Realm of Ink a une proposition. Elle se voit dès la première image.
 
 Un style encre de Chine et calligraphie chinoise, des animations qui semblent tracées au pinceau, un univers visuel cohérent et immédiatement identifiable. Première impression forte. Maintenant, est-ce que le jeu tient derrière ?
 
-![Realm of Ink](/images/realm-of-ink/screenshot-1.jpg)
+![Realm of Ink](/images/realmofink/screenshot-1.jpg)
 
 ## Une direction artistique qui capte
 
@@ -28,7 +29,7 @@ C'est travaillé. On sent que la direction artistique a précédé le reste, qu'
 
 Là où REPLACED imposait son identité cyberpunk pixel art comme une déclaration d'intention, Realm of Ink fait quelque chose de plus subtil : il laisse son univers visuel informer le gameplay plutôt que simplement le décorer. Chaque run a quelque chose d'une page qui s'écrit, d'un combat qui se trace. Ce n'est pas qu'une image. C'est une cohérence.
 
-![Realm of Ink, combat](/images/realm-of-ink/screenshot-2.jpg)
+![Realm of Ink, combat](/images/realmofink/screenshot-2.jpg)
 
 ## Un gameplay qui tient ses promesses de base
 
@@ -48,7 +49,7 @@ Hades a résolu ce problème avec une narration qui avançait à chaque run. Dea
 
 Realm of Ink a une réponse à ce problème. Elle est honnête mais limitée : la variété des builds est suffisante pour que les premières heures restent fraîches, et le système de progression méta donne envie de revenir. Mais à mi-parcours, la sensation de déjà-vu commence à s'installer. Pas de manière brutale. De manière progressive, douce, presque imperceptible. Et quand elle arrive, elle est difficile à faire partir.
 
-![Realm of Ink, compétences](/images/realm-of-ink/screenshot-3.jpg)
+![Realm of Ink, compétences](/images/realmofink/screenshot-3.jpg)
 
 ## Le roguelite de trop, ou le roguelite qui mérite son espace ?
 
@@ -68,7 +69,7 @@ Realm of Ink a l'un des meilleurs habillages du genre cette année. C'est réel,
 
 Il y a quelque chose. Pas assez pour tout emporter. Suffisamment pour passer un bon moment.
 
-![Realm of Ink, boss](/images/realm-of-ink/screenshot-4.jpg)
+![Realm of Ink, boss](/images/realmofink/screenshot-4.jpg)
 
 ## Verdict
 

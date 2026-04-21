@@ -8,6 +8,7 @@ author: "Alexandrosse"
 readTime: "10 min"
 score: 7
 image_color: "from-zinc-950 via-stone-900 to-slate-950"
+coverImage: "/images/realmofink/screenshot-1.jpg"
 gameName: "Realm of Ink"
 featured: false
 ---
@@ -18,7 +19,7 @@ Realm of Ink has a proposition. You can see it from the very first frame.
 
 A Chinese ink and calligraphy aesthetic, animations that look drawn with a brush, a coherent and immediately recognisable visual universe. Strong first impression. Now: does the game hold up behind it?
 
-![Realm of Ink](/images/realm-of-ink/screenshot-1.jpg)
+![Realm of Ink](/images/realmofink/screenshot-1.jpg)
 
 ## An art direction that commands attention
 
@@ -28,7 +29,7 @@ It's crafted. You can feel that the art direction came first, that it guided dec
 
 Where REPLACED imposed its cyberpunk pixel art identity as a declaration of intent, Realm of Ink does something more subtle: it lets its visual universe inform the gameplay rather than simply decorate it. Every run has something of a page being written, a fight being traced. This isn't just an image. It's a coherence.
 
-![Realm of Ink, combat](/images/realm-of-ink/screenshot-2.jpg)
+![Realm of Ink, combat](/images/realmofink/screenshot-2.jpg)
 
 ## Gameplay that delivers on its basic promises
 
@@ -48,7 +49,7 @@ Hades solved this with a narrative that advanced every run. Dead Cells with a bu
 
 Realm of Ink has an answer to this problem. It's honest but limited: the build variety is sufficient to keep the first hours fresh, and the meta-progression system gives you a reason to return. But halfway through, the sense of déjà vu begins to set in. Not brutally. Progressively, softly, almost imperceptibly. And once it arrives, it's hard to shake.
 
-![Realm of Ink, skills](/images/realm-of-ink/screenshot-3.jpg)
+![Realm of Ink, skills](/images/realmofink/screenshot-3.jpg)
 
 ## One roguelite too many, or a game that earns its place?
 
@@ -68,7 +69,7 @@ Realm of Ink has one of the best dressings in the genre this year. That's real, 
 
 There's something there. Not enough to carry everything. Enough to have a good time.
 
-![Realm of Ink, boss](/images/realm-of-ink/screenshot-4.jpg)
+![Realm of Ink, boss](/images/realmofink/screenshot-4.jpg)
 
 ## Verdict
 
