@@ -19,6 +19,10 @@ Lancer une nouvelle licence chez Capcom, ça ne s'improvise pas. La maison a ses
 
 La réponse est quelque part entre les deux, mais elle penche vers le sérieux.
 
+L'univers est posé dès les premières minutes. La Lune n'est pas un décor générique de SF, elle a une texture, une histoire visible dans ses couloirs abandonnés, ses terminaux grillés, ses niveaux de gravité variables qui changent la lecture de l'espace. On comprend vite que quelque chose s'est passé ici, et que notre androïde arrive après la catastrophe. Ce contexte post-effondrement est l'un des atouts du jeu : il n'a pas besoin d'expliquer pour installer une atmosphère.
+
+Le casting est réduit à l'essentiel. Peu de personnages, peu de dialogues superflus. Pragmata mise sur la suggestion plutôt que l'exposition, ce qui lui donne une sobriété qu'on apprécie dans un genre souvent bavard. Ce choix a un coût sur la profondeur narrative, mais il évite à l'ensemble de s'embourber dans une lore qu'il n'aurait pas les moyens de porter.
+
 ## La mécanique qui compte
 
 Ce qui fait l'identité de Pragmata, c'est sa boucle de combat hybride. Le jeu mêle tir à la troisième personne et hacking en temps réel, les deux s'alimentant mutuellement. On ne se contente pas d'abattre des ennemis, on pirate leurs systèmes, on retourne leurs protocoles contre eux, on ouvre des fenêtres dans leur code pour créer des ouvertures. La référence NieR: Automata est assumée, et elle se sent dans la fluidité des transitions entre les modes.

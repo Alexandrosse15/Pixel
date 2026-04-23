@@ -19,6 +19,10 @@ Launching a new IP at Capcom isn't something you improvise. The studio has its h
 
 The answer is somewhere between the two, but it leans toward serious.
 
+The world is established within the first few minutes. The Moon isn't generic SF scenery, it has texture, a history visible in its abandoned corridors, fried terminals, and variable gravity levels that change how you read a space. You understand quickly that something happened here, and that our android arrives after the catastrophe. This post-collapse context is one of the game's strengths: it doesn't need to explain itself to build atmosphere.
+
+The cast is stripped down to essentials. Few characters, few superfluous lines. Pragmata bets on suggestion over exposition, which gives it a restraint that's welcome in a genre that tends toward verbosity. That choice costs something in narrative depth, but it stops the whole thing from sinking under lore it wouldn't have the means to sustain.
+
 ## The mechanic that matters
 
 What defines Pragmata is its hybrid combat loop. The game blends third-person shooting with real-time hacking, each feeding into the other. You're not just gunning enemies down, you're breaching their systems, turning their protocols against them, opening windows in their code to create openings. The NieR: Automata reference is acknowledged and felt in the fluidity of transitions between modes.
