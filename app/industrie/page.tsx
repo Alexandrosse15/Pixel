@@ -20,14 +20,14 @@ export async function generateMetadata({
   const base = locale === 'en' ? enBase : frBase
   const canonicalUrl = page === 1 ? base : `${base}?page=${page}`
   const sectionTitle = t.sections.industrie.title
-  const title = page === 1 ? sectionTitle : `${sectionTitle} — page ${page}`
+  const title = page === 1 ? sectionTitle : `${sectionTitle}, page ${page}`
   const description = t.sections.industrie.description
   return {
     title,
     description,
     alternates: {
       canonical: canonicalUrl,
-      languages: { fr: frBase, en: enBase, 'x-default': frBase },
+      languages: { fr: page === 1 ? frBase : `${frBase}?page=${page}`, en: page === 1 ? enBase : `${enBase}?page=${page}`, 'x-default': frBase },
     },
     openGraph: {
       title: `${title} | ${SITE_NAME}`,
