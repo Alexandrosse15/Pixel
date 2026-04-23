@@ -65,13 +65,7 @@ Difficulty is well calibrated. Normal offers a genuine challenge without being p
 
 ![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
 
-## Multiplayer
-
-Multiplayer was the soul of the first Sudden Strike. Hundreds of hours fighting over custom maps, devising strategies during load screens, yelling in either triumph or frustration depending on whether the encirclement held.
-
-Sudden Strike 5 returns to that with particular care. The cooperative modes have been expanded: you can now share command in real time over the same army, one player managing infantry while the other coordinates armour and artillery. That's exactly the kind of thing we used to talk about at school as though it were theoretically possible, without the technology ever quite allowing it. Seeing it actually work now, playing alongside someone you find online after years away, is a satisfaction that's hard to explain to anyone who wasn't there.
-
-The matchmaking is clean, the netcode holds up, ranked play is well balanced. Nothing to fault technically.
+Multiplayer we're saving for later. That's the part of the game we're genuinely waiting to put to the test.
 
 ## What's missing
 
@@ -107,7 +101,6 @@ We were sixteen. We're here. The game goes on.
 - general system well integrated, genuinely changing your approach
 - supply lines as a central tactical priority, a genuinely good addition
 - convincing and authentic faction asymmetry
-- shared cooperative mode, what we wanted twenty years ago
 - veteran difficulty that respects the player
 
 **Weaknesses:**

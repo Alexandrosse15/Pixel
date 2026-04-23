@@ -65,13 +65,7 @@ La difficulté est bien calibrée. Le mode normal offre un challenge réel sans 
 
 ![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
 
-## Le multijoueur
-
-Le multijoueur était le coeur du premier Sudden Strike. Ce sont des centaines d'heures passées à s'affronter sur des cartes custom, à élaborer des stratégies pendant les chargements, à hurler de rire ou de rage selon que l'encerclement tenait ou non.
-
-Sudden Strike 5 remet ça sur la table avec un soin particulier. Les modes coopératifs ont été développés : on peut maintenant partager le commandement en temps réel sur une même armée, l'un gérant l'infanterie pendant que l'autre coordonne les blindés et l'artillerie. C'est exactement le genre de chose qu'on se disait être possible au lycée sans que la technologie de l'époque permette de le faire vraiment. Voir ça fonctionner maintenant, avec quelqu'un qu'on retrouve en ligne après des années, c'est une satisfaction difficile à expliquer à quelqu'un qui n'était pas là.
-
-Le matchmaking est propre, la netcode tient la route, les parties classées sont bien équilibrées. Rien à redire sur la technique.
+Le multijoueur, on le garde pour plus tard. C'est la partie du jeu qu'on attend vraiment au tournant.
 
 ## Ce qui manque
 
@@ -107,7 +101,6 @@ On avait seize ans. On est là. Et la partie continue.
 - système de généraux bien intégré, qui change vraiment l'approche
 - le ravitaillement comme enjeu tactique central, une vraie bonne idée
 - asymétrie des factions convaincante et authentique
-- le mode coopératif partagé, ce qu'on voulait il y a vingt ans
 - une difficulté vétéran qui respecte le joueur
 
 **Points faibles :**
