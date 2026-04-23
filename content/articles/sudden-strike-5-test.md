@@ -8,9 +8,12 @@ author: "Alexandrosse"
 readTime: "8 min"
 score: 8.5
 image_color: "from-stone-950 via-zinc-950 to-neutral-950"
+coverImage: "/images/suddenstrike/screenshot-1.png"
 gameName: "Sudden Strike 5"
 featured: false
 ---
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-2.png)
 
 Il y a des souvenirs qu'on n'explique pas vraiment. Pas des souvenirs de cinéma ou de concert, pas des dates précises. Des souvenirs de sensations. L'odeur d'un sous-sol, le son d'un ventilateur de PC qui chauffe, une carte de la Normandie à l'échelle 1:1 sur un écran 17 pouces. Des tanks qui brûlent. Des avions qui passent bas. Un général ennemi qu'on a mis vingt minutes à encercler et qui vient de se rendre.
 
@@ -32,6 +35,8 @@ Kite Games a fait un choix que d'autres auraient hésité à faire : ne pas tout
 
 Dans un paysage de jeux de stratégie qui ont souvent tendance à se surcharger de systèmes, cette austérité est presque provocatrice. Et elle fonctionne exactement comme elle fonctionnait en 2000.
 
+![Sudden Strike 5](/images/suddenstrike/screenshot-3.png)
+
 ## Ce qui reste, ce qui change
 
 Ce qui reste, c'est l'essentiel.
@@ -46,6 +51,8 @@ Sudden Strike 5 introduit un système de généraux beaucoup plus développé qu
 
 L'autre nouveauté majeure concerne le système de ravitaillement. Dans les premiers Sudden Strike, la logistique était présente mais relativement simple. Ici, elle devient un enjeu tactique à part entière. Les lignes d'approvisionnement se rompent, les camions de ravitaillement doivent emprunter des routes sécurisées, et une unité blindée qui manque de carburant au mauvais moment peut faire basculer une bataille entière. C'est une mécanique qui aurait pu être frustrante, et qui au contraire ajoute une couche de tension très bienvenue sur les longues missions.
 
+![Sudden Strike 5](/images/suddenstrike/screenshot-4.png)
+
 ## Les campagnes
 
 Sudden Strike 5 propose quatre campagnes principales, une par faction plus une campagne croisée qui mêle les points de vue. Chacune couvre un théâtre d'opérations différent : le front de l'Est, la Normandie, l'Afrique du Nord, le Pacifique pour les Alliés en fin de guerre.
@@ -55,6 +62,8 @@ La qualité narrative est solide sans être exceptionnelle. Les briefings sont b
 Ces moments-là, Sudden Strike 5 en est plein. Et c'est tout ce qui compte.
 
 La difficulté est bien calibrée. Le mode normal offre un challenge réel sans être punitif, le mode vétéran est une autre affaire : l'IA est plus agressive, les renforts ennemis plus fréquents, la marge d'erreur quasi nulle. On a passé deux heures sur une mission de la campagne soviétique en mode vétéran et on ne s'est pas ennuyé une seconde, même en recommençant pour la quatrième fois.
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
 
 ## Le multijoueur
 
@@ -75,6 +84,10 @@ L'éditeur de cartes, attendu par une communauté qui a survécu depuis vingt an
 La direction artistique, enfin, joue la carte du réalisme sobre. C'est propre, c'est lisible, c'est fonctionnel. Mais les premiers Sudden Strike avaient une identité graphique immédiatement reconnaissable, presque expressionniste dans sa façon de styliser les unités et les explosions. Cette personnalité-là a été lissée au profit d'un rendu plus contemporain et moins saillant.
 
 Ce qu'on attend maintenant, c'est que les mises à jour viennent combler ce qui manque. L'éditeur de cartes en premier lieu : c'est lui qui a fait vivre la communauté Sudden Strike pendant deux décennies, et il a besoin d'être ouvert, complet, documenté correctement. On espère aussi des campagnes supplémentaires, d'autres théâtres d'opérations, peut-être la guerre du Pacifique plus développée ou un DLC centré sur des batailles moins connues. Le socle est solide, la fondation tient. Maintenant il faut construire dessus. Et avec une communauté qui attend ce jeu depuis des années, la matière première pour que ça dure longtemps est déjà là.
+
+Et si on devait choisir le prochain DLC, la réponse est immédiate : l'Asie. Le théâtre sino-japonais, la Birmanie, la Mandchourie, les batailles de la guerre du Pacifique terrestre : c'est un terrain tactique fascinant que la série n'a jamais vraiment exploité à fond. Des doctrines militaires radicalement différentes, des conditions de terrain extrêmes, une asymétrie entre factions qui pourrait être parmi les plus marquantes de la série. On rêve d'une campagne japonaise dans les îles, d'une opération soviétique en Mandchourie en 1945, d'une armée chinoise avec ses propres mécaniques. C'est là que Sudden Strike 5 pourrait vraiment aller chercher quelque chose d'inédit.
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-6.png)
 
 ## Mille heures
 

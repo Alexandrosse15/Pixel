@@ -8,9 +8,12 @@ author: "Alexandrosse"
 readTime: "8 min"
 score: 8.5
 image_color: "from-stone-950 via-zinc-950 to-neutral-950"
+coverImage: "/images/suddenstrike/screenshot-1.png"
 gameName: "Sudden Strike 5"
 featured: false
 ---
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-2.png)
 
 Some memories resist explanation. Not cinema memories or concert memories, not precise dates. Sensory memories. The smell of a basement, the sound of a PC fan running hot, a map of Normandy at 1:1 scale on a 17-inch monitor. Tanks burning. Low-flying aircraft. An enemy general you spent twenty minutes encircling who just surrendered.
 
@@ -32,6 +35,8 @@ Kite Games made a choice others might have hesitated over: don't reinvent everyt
 
 In a landscape of strategy games that tend to pile on systems, this austerity is almost provocative. And it works exactly as it worked in 2000.
 
+![Sudden Strike 5](/images/suddenstrike/screenshot-3.png)
+
 ## What stays, what changes
 
 What stays is what matters.
@@ -46,6 +51,8 @@ Sudden Strike 5 introduces a far more developed general system than previous ent
 
 The other major addition concerns the supply system. In the early Sudden Strike games, logistics were present but relatively simple. Here, they become a tactical priority of their own. Supply lines break, logistics trucks must use secured roads, and an armoured unit that runs out of fuel at the wrong moment can tip an entire battle. A mechanic that could have been frustrating, and instead adds a welcome layer of tension across longer missions.
 
+![Sudden Strike 5](/images/suddenstrike/screenshot-4.png)
+
 ## The campaigns
 
 Sudden Strike 5 offers four main campaigns, one per faction plus a crossover campaign that blends perspectives. Each covers a different theatre of operations: the Eastern Front, Normandy, North Africa, the Pacific for the Allies in the late war.
@@ -55,6 +62,8 @@ Narrative quality is solid without being exceptional. Briefings are well-written
 Those moments happen constantly in Sudden Strike 5. And that's all that matters.
 
 Difficulty is well calibrated. Normal offers a genuine challenge without being punishing. Veteran is a different matter: the AI is more aggressive, enemy reinforcements more frequent, the margin for error almost nonexistent. We spent two hours on a Soviet campaign mission on veteran and didn't lose interest once, even resetting for the fourth time.
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
 
 ## Multiplayer
 
@@ -75,6 +84,10 @@ The map editor, anticipated by a community that has survived for twenty years on
 The art direction, finally, plays it safe with sober realism. It's clean, readable, functional. But the early Sudden Strike games had an immediately recognisable visual identity, almost expressionist in how they stylised units and explosions. That personality has been smoothed over in favour of a more contemporary and less distinctive render.
 
 What we're counting on now is updates filling in the gaps. The map editor above all: it's what kept the Sudden Strike community alive for two decades, and it needs to be open, complete, and properly documented. We're also hoping for additional campaigns, more theatres of operations, possibly a more developed Pacific front or a DLC centred on lesser-known battles. The foundation is solid, the base holds. Now it needs to be built on. And with a community that has been waiting for this game for years, the raw material for something long-lasting is already there.
+
+And if we had to name the next DLC: Asia. The Sino-Japanese theatre, Burma, Manchuria, the land battles of the Pacific War: tactically fascinating ground the series has never fully explored. Radically different military doctrines, extreme terrain conditions, faction asymmetry that could be among the most striking in the series. A Japanese island campaign, a Soviet operation in Manchuria in 1945, a Chinese army with its own mechanics: that's where Sudden Strike 5 could go somewhere genuinely new. We want it. Badly.
+
+![Sudden Strike 5](/images/suddenstrike/screenshot-6.png)
 
 ## A thousand hours
 
