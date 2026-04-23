@@ -6,7 +6,7 @@ excerpt: "Capcom mise sur une nouvelle licence avec une mécanique hybride tir e
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "6 min"
-score: 7
+score: 6.5
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
 gameName: "Pragmata"
 featured: false
