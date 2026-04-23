@@ -7,9 +7,12 @@ date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "10 min"
 image_color: "from-cyan-950 via-blue-950 to-zinc-950"
+coverImage: "/images/blackflag/screenshot-1.png"
 gameName: "Assassin's Creed Black Flag"
 featured: false
 ---
+
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-2.png)
 
 Il y a des jeux qu'on apprécie. Il y a ceux qu'on finit avec plaisir, qu'on recommande à un ami, qu'on oublie six mois plus tard. Et puis il y en a d'autres, rares, qui restent. Pas parce qu'ils étaient parfaits. Pas parce qu'ils ont inventé quelque chose d'absolument nouveau. Mais parce qu'ils ont capturé quelque chose qu'on n'arrive pas à formuler précisément, et qui manque depuis qu'ils sont terminés.
 
@@ -27,6 +30,8 @@ Ce qui paraît simple sur le papier a en réalité tout changé. Pas dans la str
 
 La navigation libre sur la Jackdaw, le vaisseau d'Edward Kenway, est l'exemple parfait. Ce n'était pas un moyen de transport entre deux missions. C'était un jeu à l'intérieur du jeu. La mer des Caraïbes existait vraiment : ses tempêtes, ses navires à chasser, ses îles à explorer, ses cargos à aborder, ses requins qui rôdaient quand on tombait à l'eau. On pouvait passer trois heures à naviguer sans toucher à l'histoire principale et avoir l'impression d'avoir passé trois heures à jouer à quelque chose. Ce n'est pas un détail, c'est tout.
 
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-3.png)
+
 Edward Kenway, lui, n'était pas un Assassin vertueux en quête de rédemption. C'était un pirate opportuniste, ambitieux, parfois lâche, souvent drôle. Un personnage qu'on a rarement vu dans la franchise depuis : quelqu'un qui voulait quelque chose de concret, d'humain, de compréhensible. De l'argent. La liberté. Une réputation. Pas sauver le monde. Et cette humilité d'intention donnait au jeu une légèreté que les opus suivants ont mis des années à retrouver, en vain.
 
 ## La dérive des années suivantes
@@ -38,6 +43,8 @@ La franchise a évolué vers davantage de RPG, davantage de systèmes, davantage
 Odyssey et Valhalla sont de bons exemples de ce paradoxe. Ce sont techniquement des jeux impressionnants, ambitieux, larges. Mais ils n'ont pas de Jackdaw. Ils n'ont pas ce moment où on coupe le moteur des objectifs et on se laisse porter. Ils sont trop bien construits pour ça, trop structurés, trop conscients de leur propre taille. Chaque zone est un hub de contenu à vider. Le monde ouvert y ressemble moins à un endroit où on vit qu'à une liste organisée.
 
 Ce n'est pas une régression. C'est une ambition différente qui a produit un résultat différent. Mais le résultat, objectivement, n'a pas la même prise sur la mémoire.
+
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-4.png)
 
 ## Skull and Bones, ou l'héritier qui n'a jamais existé
 
@@ -64,6 +71,8 @@ Ce type de jeu est devenu rare dans les grandes productions. Pas parce que perso
 Il y a aussi une question d'appétence au risque. En 2012, Ubisoft Montréal avait fait le choix audacieux de mettre l'assassinat et les Assassins au second plan pour raconter l'histoire d'un pirate. C'était une décision créative courageuse dans une licence qui avait encore une identité bien définie. Aujourd'hui, prendre ce genre de risque dans un contexte de restructuration, de sorties qui doivent performer rapidement, est beaucoup plus difficile à défendre en interne.
 
 La spontanéité que dégageait Black Flag n'était pas accidentelle. Elle était le produit d'une équipe à qui on avait laissé de la liberté. Cette liberté-là aussi a un coût.
+
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-5.png)
 
 ## Ce que le Resync révèle vraiment
 
