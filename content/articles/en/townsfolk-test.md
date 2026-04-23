@@ -24,7 +24,15 @@ What sets TownsFolk apart from its contemporaries is the human layer it places o
 
 It's a distinction that sounds minor on paper but completely changes your relationship with the game. When you place a farm next to the mill, it's not just for a production bonus, it's because the Lebrun family needs flour for the baker across the way. A fiction builds itself naturally, without the game needing to write it for you.
 
+Mechanically, this narrative layer translates into chains of dependency between buildings and their occupants. A sawmill needs to be within range of a forest, a blacksmith needs the miner's ore, the miner needs to be fed. These relationships read quickly and create genuine spatial satisfaction: watching your village organize itself with coherence, seeing each hexagon find its place in a whole that holds together, that's the heart of the game and it knows it.
+
 The loop is classic: place tiles, satisfy needs, unlock new residents and buildings, repeat. But the pacing is well-calibrated. You never feel overwhelmed, never behind. TownsFolk plays in the cozy category without apologising for it.
+
+## Who it's for
+
+TownsFolk is built for a specific kind of player. Someone looking to unwind, to build something pretty and functional without time pressure, without enemies to defeat, without a timer threatening overhead. In that category, it ranks among the best of the year. The art direction is warm, the music understated, the interface readable. Everything works toward the cozy experience it promises.
+
+For players looking for stronger systemic depth, a real challenge, a loop that keeps renewing itself beyond the first few hours, the verdict is more nuanced. This isn't the game for you. Not because it's poorly made, but because it wasn't made for you.
 
 ## The honest limitations
 
@@ -32,13 +40,13 @@ It's not a flawless game.
 
 The strategic depth plateaus fairly quickly. Once you've understood the production chains and tile compatibilities, there are no more real surprises. Your first runs are captivating because you're discovering. Later ones are pleasant because they're comfortable. But the jump from "I'm learning" to "I've mastered it" is a little short, and players looking for genuine systemic complexity may hit the ceiling fast.
 
-Replayability rests almost entirely on the procedural tile generation. It works, but it doesn't always sustain the surprise over time.
+Replayability rests almost entirely on the procedural tile generation. It works, but it doesn't always sustain the surprise over time. You'd want more varied secondary objectives, events that shake up the routine, a little more benevolent friction so that each run feels distinct from the last.
 
 ## What we take away
 
 TownsFolk is a well-made indie game, honest in its ambitions, generous in its execution. It doesn't claim to reinvent the hexagon genre. It settles into it with a smile and a cup of tea, and does its job with care.
 
-In a market where small studios can sometimes aim too high and stumble on the basics, TownsFolk does something harder than it looks: it delivers a complete, clean experience that does exactly what it says.
+In a market where small studios can sometimes aim too high and stumble on the basics, TownsFolk does something harder than it looks: it delivers a complete, clean experience that does exactly what it says. The narrative layer placed over the tile mechanic is a genuinely good idea, executed with consistency. That's rare. And in the cozy category, that kind of care is exactly what builds lasting loyalty.
 
 Hexagons are having a moment. TownsFolk deserves to ride it.
 
@@ -50,6 +58,7 @@ Hexagons are having a moment. TownsFolk deserves to ride it.
 - perfectly calibrated cozy pacing, never stressful
 - warm and cohesive art direction
 - immediately accessible, no unnecessary friction
+- the dependency chains between inhabitants, a source of genuine spatial satisfaction
 - a game that does exactly what it promises
 
 **Weaknesses:**
@@ -57,6 +66,7 @@ Hexagons are having a moment. TownsFolk deserves to ride it.
 - limited strategic depth over time
 - complexity ceiling reached quickly
 - replayability relies too heavily on procedural generation alone
+- lack of events or secondary objectives to sustain interest
 
 ---
 
