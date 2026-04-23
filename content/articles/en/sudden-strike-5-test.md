@@ -74,6 +74,8 @@ The map editor, anticipated by a community that has survived for twenty years on
 
 The art direction, finally, plays it safe with sober realism. It's clean, readable, functional. But the early Sudden Strike games had an immediately recognisable visual identity, almost expressionist in how they stylised units and explosions. That personality has been smoothed over in favour of a more contemporary and less distinctive render.
 
+What we're counting on now is updates filling in the gaps. The map editor above all: it's what kept the Sudden Strike community alive for two decades, and it needs to be open, complete, and properly documented. We're also hoping for additional campaigns, more theatres of operations, possibly a more developed Pacific front or a DLC centred on lesser-known battles. The foundation is solid, the base holds. Now it needs to be built on. And with a community that has been waiting for this game for years, the raw material for something long-lasting is already there.
+
 ## A thousand hours
 
 No point pretending otherwise. We're going to spend hundreds of hours on Sudden Strike 5. Possibly more. The kind of game you return to naturally, without thinking about it, because you have an idea to test, a strategy to refine, a map you want to replay differently.

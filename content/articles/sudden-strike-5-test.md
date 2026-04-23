@@ -74,6 +74,8 @@ L'éditeur de cartes, attendu par une communauté qui a survécu depuis vingt an
 
 La direction artistique, enfin, joue la carte du réalisme sobre. C'est propre, c'est lisible, c'est fonctionnel. Mais les premiers Sudden Strike avaient une identité graphique immédiatement reconnaissable, presque expressionniste dans sa façon de styliser les unités et les explosions. Cette personnalité-là a été lissée au profit d'un rendu plus contemporain et moins saillant.
 
+Ce qu'on attend maintenant, c'est que les mises à jour viennent combler ce qui manque. L'éditeur de cartes en premier lieu : c'est lui qui a fait vivre la communauté Sudden Strike pendant deux décennies, et il a besoin d'être ouvert, complet, documenté correctement. On espère aussi des campagnes supplémentaires, d'autres théâtres d'opérations, peut-être la guerre du Pacifique plus développée ou un DLC centré sur des batailles moins connues. Le socle est solide, la fondation tient. Maintenant il faut construire dessus. Et avec une communauté qui attend ce jeu depuis des années, la matière première pour que ça dure longtemps est déjà là.
+
 ## Mille heures
 
 On ne va pas se mentir là-dessus. On va passer des centaines d'heures sur Sudden Strike 5. Peut-être plus. Le genre de jeu sur lequel on revient naturellement, sans s'en rendre compte, parce qu'on a une idée à tester, une stratégie à affiner, une carte qu'on veut recommencer différemment.
