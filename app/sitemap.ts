@@ -24,13 +24,13 @@ function paginatedRoutes(
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const articles = getAllArticles()
+  const articles = getAllArticles('fr')
 
-  const testsCount = getArticlesByCategory('tests').length
-  const previewsCount = getArticlesByCategory('previews').length
-  const dossiersCount = getArticlesByCategory('dossiers').length
-  const industrieCount = getArticlesByCategory('industrie').length
-  const cinemaCount = getArticlesByCategory('cinema').length
+  const testsCount = getArticlesByCategory('tests', 'fr').length
+  const previewsCount = getArticlesByCategory('previews', 'fr').length
+  const dossiersCount = getArticlesByCategory('dossiers', 'fr').length
+  const industrieCount = getArticlesByCategory('industrie', 'fr').length
+  const cinemaCount = getArticlesByCategory('cinema', 'fr').length
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: SITE_URL, lastModified: new Date(), changeFrequency: 'daily', priority: 1 },
@@ -63,20 +63,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...paginatedRoutes('/en/cinema', cinemaCount, 'weekly', 0.7),
   ]
 
-  const articleRoutes: MetadataRoute.Sitemap = articles.flatMap((article) => [
-    {
-      url: `${SITE_URL}/articles/${article.slug}`,
-      lastModified: new Date(article.date),
-      changeFrequency: 'monthly' as const,
-      priority: article.featured ? 0.9 : 0.7,
+  // FR article entries with alternates for hreflang
+  const frArticleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
+    url: `${SITE_URL}/articles/${article.slug}`,
+    lastModified: new Date(article.date),
+    changeFrequency: 'monthly' as const,
+    priority: article.featured ? 0.9 : 0.7,
+    alternates: {
+      languages: {
+        fr: `${SITE_URL}/articles/${article.slug}`,
+        en: `${SITE_URL}/en/articles/${article.slug}`,
+      },
     },
-    {
-      url: `${SITE_URL}/en/articles/${article.slug}`,
-      lastModified: new Date(article.date),
-      changeFrequency: 'monthly' as const,
-      priority: article.featured ? 0.8 : 0.6,
-    },
-  ])
+  }))
 
-  return [...staticRoutes, ...paginationRoutes, ...articleRoutes]
+  // EN article entries with alternates for hreflang
+  const enArticleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
+    url: `${SITE_URL}/en/articles/${article.slug}`,
+    lastModified: new Date(article.date),
+    changeFrequency: 'monthly' as const,
+    priority: article.featured ? 0.8 : 0.6,
+    alternates: {
+      languages: {
+        fr: `${SITE_URL}/articles/${article.slug}`,
+        en: `${SITE_URL}/en/articles/${article.slug}`,
+      },
+    },
+  }))
+
+  return [...staticRoutes, ...paginationRoutes, ...frArticleRoutes, ...enArticleRoutes]
 }
