@@ -6,7 +6,7 @@ excerpt: "Space Drilling Station n'a pas l'ambition de redéfinir un genre. Il a
 date: "2026-04-24"
 author: "Alexandrosse"
 readTime: "7 min"
-score: 7
+score: 6,5
 image_color: "from-indigo-950 via-slate-950 to-zinc-950"
 coverImage: "/images/spacedrillingstation/screenshot-1.png"
 gameName: "Space Drilling Station"
