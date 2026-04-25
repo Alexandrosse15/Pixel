@@ -7,19 +7,19 @@ import { useLocale } from './LocaleProvider'
 import LanguageSwitcher from './LanguageSwitcher'
 
 const NAV_PATHS = [
-  { path: '/tests', label: 'Tests' },
-  { path: '/previews', label: 'Previews' },
-  { path: '/dossiers', label: 'Dossiers' },
-  { path: '/industrie', label: 'Industrie' },
-  { path: '/cinema', label: 'Cinéma' },
-]
+  { path: '/tests', key: 'tests' },
+  { path: '/previews', key: 'previews' },
+  { path: '/dossiers', key: 'dossiers' },
+  { path: '/industrie', key: 'industrie' },
+  { path: '/cinema', key: 'cinema' },
+] as const
 
 export default function Header() {
   const pathname = usePathname()
   const [menuOpen, setMenuOpen] = useState(false)
   const { t, locale } = useLocale()
   const prefix = locale === 'en' ? '/en' : ''
-  const navLinks = NAV_PATHS.map(({ path, label }) => ({ href: `${prefix}${path}`, label }))
+  const navLinks = NAV_PATHS.map(({ path, key }) => ({ href: `${prefix}${path}`, label: t.sections[key].title }))
 
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-bg-base/95 backdrop-blur-sm">
