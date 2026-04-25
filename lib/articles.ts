@@ -69,7 +69,7 @@ export function getAllArticles(locale = 'fr'): Article[] {
   // Always enumerate slugs from the FR directory (source of truth)
   const slugs = fs
     .readdirSync(FR_DIR)
-    .filter((name) => name.endsWith('.md'))
+    .filter((name) => name.endsWith('.md') && !name.startsWith('_'))
     .map((name) => name.replace(/\.md$/, ''))
 
   const articles = slugs
@@ -109,7 +109,7 @@ export function getAllSlugs(): string[] {
   if (!fs.existsSync(FR_DIR)) return []
   return fs
     .readdirSync(FR_DIR)
-    .filter((name) => name.endsWith('.md'))
+    .filter((name) => name.endsWith('.md') && !name.startsWith('_'))
     .map((name) => name.replace(/\.md$/, ''))
 }
 
