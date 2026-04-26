@@ -7,9 +7,12 @@ date: "2026-04-26"
 author: "Alexandrosse"
 readTime: "10 min"
 image_color: "from-slate-950 via-zinc-950 to-neutral-950"
+coverImage: "/images/arcraiders/screenshot-1.png"
 gameName: "ARC Raiders"
 featured: false
 ---
+
+![ARC Raiders](/images/arcraiders/screenshot-2.png)
 
 On a déjà vu ce genre de jeu échouer.
 
@@ -25,6 +28,8 @@ Ce bagage se voit immédiatement dans ARC Raiders. Pas dans les systèmes de pro
 
 C'est une expertise qui ne s'improvise pas. Et dans un genre qui a souvent péché par manque de fondation technique, avoir une équipe dont c'est le coeur de métier change absolument tout.
 
+![ARC Raiders](/images/arcraiders/screenshot-3.png)
+
 ## Ce qui fait fonctionner ARC Raiders
 
 ### Un jeu lisible
@@ -34,6 +39,8 @@ Le premier péché de l'extraction shooter, c'est la surcharge. Trop de système
 ARC Raiders résiste à cette tentation. La boucle de base est claire : entrer, explorer, extraire. Les objectifs sont lisibles. Les risques sont identifiables. Le jeu ne cherche pas à vous impressionner avec sa profondeur, il vous laisse la découvrir progressivement, à votre rythme, sans vous forcer à lire un wiki pour comprendre ce qui vient de vous tuer.
 
 Cette clarté n'est pas de la simplicité. C'est de la discipline. Et dans un genre où le surdesign est la norme, la discipline est une forme de courage.
+
+![ARC Raiders](/images/arcraiders/screenshot-4.png)
 
 ### Une tension maîtrisée
 
@@ -51,19 +58,31 @@ Juste un jeu. Un bon jeu, bien fait, qui sait ce qu'il est.
 
 Dans une industrie où le bullshit marketing a souvent précédé les catastrophes de lancement, cette sobriété est presque désarmante. Et elle fonctionne, précisément parce qu'elle ne crée pas d'attentes qu'elle ne peut pas tenir.
 
+![ARC Raiders](/images/arcraiders/screenshot-5.png)
+
 ## Le fantôme de DayZ
 
 On ne peut pas parler d'ARC Raiders sans parler de DayZ. Pas parce que les deux jeux sont identiques, mais parce que DayZ a tracé le chemin sur lequel ARC Raiders marche.
 
+![DayZ](/images/dayz/screenshot-1.png)
+
 DayZ a apporté quelque chose d'irremplaçable au jeu vidéo multijoueur : la preuve qu'un environnement ouvert avec des ressources limitées et d'autres joueurs humains pouvait générer des histoires qu'aucun scénariste n'aurait pu écrire. La tension permanente de ne jamais savoir si le joueur que vous croisez va vous aider ou vous tirer dessus. L'émergence de situations absurdes et mémorables nées de la rencontre entre des systèmes simples et des décisions humaines imprévisibles. La façon dont la rareté crée de la valeur et transforme une boîte de conserve en enjeu narratif.
 
+![DayZ](/images/dayz/screenshot-2.png)
+
 Ce genre d'expérience, DayZ l'a créée presque par accident, et personne n'a vraiment pu la reproduire de façon fiable depuis. Parce que DayZ avait un problème fondamental : une exécution fragile. Une beta éternelle qui a duré des années, une technique instable, une expérience frustrante pour quiconque n'avait pas la patience de subir les bugs comme une partie du gameplay. Le concept était génial. La réalisation était une construction permanente sur des fondations instables.
+
+![DayZ](/images/dayz/screenshot-3.png)
 
 Ce que DayZ prouvait par l'intention, ARC Raiders l'accomplit par la méthode. La tension est là. L'imprévisibilité humaine est là. Les histoires émergentes sont là. Mais elles reposent cette fois sur une structure claire, une technique propre, une vision définie de ce que l'expérience doit être.
 
 Là où DayZ improvisait, ARC Raiders structure.
 
+![DayZ](/images/dayz/screenshot-4.png)
+
 Ce n'est pas une critique de DayZ, c'est une reconnaissance de ce qu'il a ouvert. Le genre de la survie extraction n'existerait pas sans lui. Mais avoir ouvert la voie et savoir l'emprunter correctement, ce sont deux compétences différentes.
+
+![DayZ](/images/dayz/screenshot-5.png)
 
 ## Pourquoi la communauté reste
 
@@ -77,6 +96,8 @@ La progression ensuite. Le jeu a trouvé un équilibre délicat : assez de press
 
 Le bouche-à-oreille enfin. Dans l'extraction shooter, la communauté se crée autour des anecdotes. Les trahisons. Les alliances improbables. Les extractions réussies à deux secondes d'être rattrapé. Ces histoires circulent, attirent des curieux, et transforment un jeu en phénomène social. ARC Raiders génère ces histoires avec une régularité que ses prédécesseurs n'ont pas su maintenir.
 
+![ARC Raiders](/images/arcraiders/screenshot-6.png)
+
 ## Ce qui attend ARC Raiders
 
 Les scénarios pour la suite sont clairs, et pas tous roses.
@@ -87,6 +108,8 @@ Le deuxième est l'essoufflement progressif. Si le contenu ne suit pas, si la va
 
 Le troisième est le plus dangereux : la mauvaise gestion du live service. Le moment où les décisions monétaires prennent le dessus sur les décisions créatives. Où les passes de combat deviennent la priorité sur l'équilibrage, où le contenu cosmétique remplace le contenu de gameplay, où la communication devient du marketing plutôt que du dialogue. C'est le classique. Et même les meilleurs studios y sont tombés.
 
+![ARC Raiders](/images/arcraiders/screenshot-7.png)
+
 ## Ce qui rend ARC Raiders important
 
 ARC Raiders n'est pas important parce qu'il réinvente son genre. Il est important parce qu'il démontre que le genre peut être fait correctement.
@@ -94,6 +117,8 @@ ARC Raiders n'est pas important parce qu'il réinvente son genre. Il est importa
 C'est une démonstration qui manquait. Depuis DayZ, la promesse de l'extraction shooter avec des stakes réelles, des interactions humaines imprévisibles et une progression qui a du poids existait dans les esprits mais se fracassait régulièrement à l'exécution. Hunt: Showdown l'a approchée par le flank, Escape from Tarkov l'a poussée à l'extrême au détriment de l'accessibilité. Mais une version à la fois tendue, accessible, propre techniquement et honnête dans sa communication : ça manquait.
 
 ARC Raiders ne réinvente rien. Il fait juste enfin les choses correctement. Et dans un genre qui a autant souffert de l'hubris de ses créateurs, c'est peut-être la forme de génie la plus précieuse.
+
+![ARC Raiders](/images/arcraiders/screenshot-8.png)
 
 ---
 
