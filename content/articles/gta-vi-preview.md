@@ -58,7 +58,7 @@ Alors oui, novembre 2026 est crédible. Mais on a été crédules avant. Et mêm
 
 ## Nous, les enfants de Vice City
 
-Ici, à InsertCoins, on n'est pas neutres sur ce sujet. On ne peut pas l'être.
+Ici, chez InsertCoins, nous ne sommes pas neutres sur ce sujet. Nous ne pouvons pas l'être.
 
 ![Vice City](/images/vicecity/screenshot-1.png)
 
