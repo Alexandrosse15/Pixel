@@ -26,7 +26,7 @@ export default function SearchModal({ articles }: Props) {
   const [results, setResults] = useState<SearchArticle[]>([])
   const [selected, setSelected] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
-  const { t } = useLocale()
+  const { t, locale } = useLocale()
   const s = t.search
 
   const fuse = useRef(
@@ -107,7 +107,7 @@ export default function SearchModal({ articles }: Props) {
       setSelected((s) => Math.max(s - 1, 0))
     } else if (e.key === 'Enter' && results[selected]) {
       closeModal()
-      window.location.href = `/articles/${results[selected].slug}`
+      window.location.href = locale === 'en' ? `/en/articles/${results[selected].slug}` : `/articles/${results[selected].slug}`
     }
   }
 
@@ -167,7 +167,7 @@ export default function SearchModal({ articles }: Props) {
               {results.map((article, i) => (
                 <li key={article.slug}>
                   <Link
-                    href={`/articles/${article.slug}`}
+                    href={locale === 'en' ? `/en/articles/${article.slug}` : `/articles/${article.slug}`}
                     onClick={closeModal}
                     className={`flex items-start gap-3 px-4 py-3 transition-colors hover:bg-bg-elevated ${
                       i === selected ? 'bg-bg-elevated' : ''
