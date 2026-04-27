@@ -89,6 +89,7 @@ export default async function ArticlePage({ params }: Props) {
 
   const catConfig = categoryConfig[article.category]
   const articleUrl = `${SITE_URL}/articles/${article.slug}`
+  const categoryHref = locale === 'en' ? `/en/${article.category}` : `/${article.category}`
 
   const articleSchema = article.score
     ? {
@@ -161,7 +162,7 @@ export default async function ArticlePage({ params }: Props) {
         <div className="relative mx-auto max-w-4xl px-4 pb-16 pt-16 md:px-8 md:pt-24">
           {/* Back link */}
           <Link
-            href={`/${article.category}`}
+            href={categoryHref}
             className="mb-6 inline-flex items-center gap-2 text-xs font-display uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
           >
             <svg
@@ -319,7 +320,7 @@ export default async function ArticlePage({ params }: Props) {
                 </p>
                 <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
                   {related.map((rel) => (
-                    <ArticleCard key={rel.slug} article={rel} />
+                    <ArticleCard key={rel.slug} article={rel} locale={locale} />
                   ))}
                 </div>
               </div>
@@ -328,7 +329,7 @@ export default async function ArticlePage({ params }: Props) {
             {/* Bottom nav */}
             <div className="mt-10 border-t border-line pt-8">
               <Link
-                href={`/${article.category}`}
+                href={categoryHref}
                 className="inline-flex items-center gap-2 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
               >
                 <svg

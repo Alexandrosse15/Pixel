@@ -5,11 +5,13 @@ import CategoryBadge from './CategoryBadge'
 
 interface Props {
   article: Article
+  locale?: string
 }
 
-export default function HeroArticle({ article }: Props) {
+export default function HeroArticle({ article, locale }: Props) {
+  const articleHref = locale === 'en' ? `/en/articles/${article.slug}` : `/articles/${article.slug}`
   return (
-    <Link href={`/articles/${article.slug}`} className="group no-underline">
+    <Link href={articleHref} className="group no-underline">
       <article className="relative min-h-[480px] overflow-hidden rounded-sm flex flex-col justify-end">
         {/* Background image or gradient */}
         {article.coverImage ? (

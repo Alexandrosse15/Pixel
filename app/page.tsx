@@ -55,7 +55,7 @@ export default async function HomePage() {
       {/* Hero */}
       {featured && (
         <section className="mb-16">
-          <HeroArticle article={featured} />
+          <HeroArticle article={featured} locale={locale} />
         </section>
       )}
 
@@ -65,7 +65,7 @@ export default async function HomePage() {
           <SectionHeader title={h.featured} accent />
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {latestArticles.map((article) => (
-              <ArticleCard key={article.slug} article={article} />
+              <ArticleCard key={article.slug} article={article} locale={locale} />
             ))}
           </div>
         </section>
@@ -78,7 +78,7 @@ export default async function HomePage() {
             <SectionHeader title={t.sections.tests.title} href="/tests" accent />
             <div className="space-y-4">
               {tests.map((article) => (
-                <ArticleCard key={article.slug} article={article} variant="horizontal" />
+                <ArticleCard key={article.slug} article={article} variant="horizontal" locale={locale} />
               ))}
             </div>
           </div>
@@ -90,7 +90,7 @@ export default async function HomePage() {
               <SectionHeader title={t.sections.previews.title} href="/previews" accent />
               <div className="space-y-0">
                 {previews.map((article) => (
-                  <ArticleCard key={article.slug} article={article} variant="compact" />
+                  <ArticleCard key={article.slug} article={article} variant="compact" locale={locale} />
                 ))}
               </div>
             </div>
@@ -101,7 +101,7 @@ export default async function HomePage() {
               <SectionHeader title={t.sections.dossiers.title} href="/dossiers" accent />
               <div className="space-y-0">
                 {dossiers.map((article) => (
-                  <ArticleCard key={article.slug} article={article} variant="compact" />
+                  <ArticleCard key={article.slug} article={article} variant="compact" locale={locale} />
                 ))}
               </div>
             </div>

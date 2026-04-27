@@ -7,12 +7,15 @@ import CommunityScoreBadge from './CommunityScoreBadge'
 interface Props {
   article: Article
   variant?: 'default' | 'horizontal' | 'compact'
+  locale?: string
 }
 
-export default function ArticleCard({ article, variant = 'default' }: Props) {
+export default function ArticleCard({ article, variant = 'default', locale }: Props) {
+  const articleHref = locale === 'en' ? `/en/articles/${article.slug}` : `/articles/${article.slug}`
+
   if (variant === 'horizontal') {
     return (
-      <Link href={`/articles/${article.slug}`} className="group no-underline">
+      <Link href={articleHref} className="group no-underline">
         <article className="card-hover flex gap-4 rounded-sm border border-line bg-bg-card p-4 transition-colors hover:border-brand/30">
           {/* Thumbnail */}
           <div className="relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-sm">
@@ -50,7 +53,7 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
 
   if (variant === 'compact') {
     return (
-      <Link href={`/articles/${article.slug}`} className="group no-underline">
+      <Link href={articleHref} className="group no-underline">
         <article className="flex items-start gap-3 border-b border-line py-3 last:border-0">
           <CategoryBadge category={article.category} size="sm" />
           <div className="min-w-0 flex-1">
@@ -66,7 +69,7 @@ export default function ArticleCard({ article, variant = 'default' }: Props) {
 
   // Default card
   return (
-    <Link href={`/articles/${article.slug}`} className="group no-underline">
+    <Link href={articleHref} className="group no-underline">
       <article className="card-hover flex h-full flex-col overflow-hidden rounded-sm border border-line bg-bg-card">
         {/* Image area */}
         <div className="relative h-48 overflow-hidden">
