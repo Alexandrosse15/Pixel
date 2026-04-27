@@ -9,7 +9,7 @@ readTime: "10 min"
 image_color: "from-cyan-950 via-blue-950 to-zinc-950"
 coverImage: "/images/blackflag/screenshot-1.png"
 gameName: "Assassin's Creed Black Flag"
-featured: false
+featured: true
 ---
 
 ![Assassin's Creed Black Flag](/images/blackflag/screenshot-2.png)

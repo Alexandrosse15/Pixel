@@ -10,7 +10,7 @@ score: 7.5
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
 coverImage: "/images/tidesoftomorrow/screenshot-1.jpg"
 gameName: "Tides of Tomorrow"
-featured: true
+featured: false
 ---
 
 ![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-2.jpg)
