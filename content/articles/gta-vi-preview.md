@@ -68,7 +68,7 @@ Vice City, c'est le GTA de notre enfance. Pas juste un jeu qu'on a aimé. Un jeu
 
 Tommy Vercetti était notre héros. Brutal, froid, efficace. Et Lance Vance était son frère de fortune, le partenaire qu'on ne choisit pas mais qu'on finit par ne plus imaginer perdre.
 
-Sauf qu'on l'a perdu. Lance, celui qu'on croyait indestructible, celui dont on défendait les mauvais choix parce qu'on pensait qu'au fond il était des nôtres, c'est lui qui nous a retourné le couteau. La trahison finale, quand elle arrive, elle fait ce qu'elle doit faire : elle brise quelque chose. On avait quinze ans. On n'a pas oublié.
+Sauf qu'on l'a perdu. Lance, celui qu'on croyait indestructible, celui dont on défendait les mauvais choix parce qu'on pensait qu'au fond il était des nôtres, c'est lui qui nous a trahis. La trahison finale, quand elle arrive, elle fait ce qu'elle doit faire : elle brise quelque chose. On avait quinze ans. On n'a pas oublié.
 
 ![Vice City](/images/vicecity/screenshot-3.png)
 
