@@ -7,11 +7,12 @@ date: "2026-04-28"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-red-950 via-zinc-950 to-stone-950"
+coverImage: "/images/diablo4Dlc/screenshot-1.png"
 gameName: "Diablo IV"
 featured: false
 ---
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-2.png)
 
 Diablo IV hurt us.
 
@@ -27,7 +28,7 @@ Let's start here, because it's the conversation everyone avoids and needs to be 
 
 The announced price for this expansion is hard to defend. What Blizzard is proposing looks, at least on paper, more like an enriched DLC than a full expansion in the true sense. New classes, a loot filter, an overlay map, skill tree reworks: these are corrections and additions that could have, and in some cases should have, arrived as free updates or foundational patches. Bundling them together behind an expansion price tag is billing players for maintenance.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-3.jpg)
 
 The commercial logic is understandable. It isn't honest. Blizzard sold a game for full price, published a first expansion, and now returns with a second paid addition where part of the content corrects known issues from launch. The community has every right to be sceptical.
 
@@ -45,7 +46,7 @@ This is the kind of fix that doesn't make headlines but changes how you play. An
 
 Diablo IV had a loot problem. Not one of scarcity, not one of incoherent progression, but above all one of catastrophic readability of what fell on the ground. In a genre that lives and dies by the loot dopamine hit, watching objects flood the screen without being able to quickly identify what deserves attention is a serious design failure.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-4.png)
 
 The loot filter is the answer. Setting up rules, defining rarity thresholds, hiding what doesn't match the current build: features that Path of Exile popularised and that ARPG players have long considered non-negotiable. Diablo IV lacked them. That will no longer be the case.
 
@@ -57,7 +58,7 @@ Two classes that have been waiting for this.
 
 The new granularity given to the Necromancer over its summoned armies is exactly the level of depth that was missing. Rather than deploying an undead horde and watching it work, the announced system lets you fine-tune each unit type, adjust their behaviour, and build your army with intent rather than by accident. The Necromancer moves from passive commander to genuine tactician.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-5.png)
 
 The Druid rework goes even further. Choosing your animal form, anchoring into it, building an identity around a single transformation rather than toggling between them situationally: it's a fundamental change to how the class plays and feels. The Druid fantasy wasn't broken. It was simply never fully realised. This rework finally gets it there.
 
@@ -73,7 +74,7 @@ This is probably the expansion's most ambitious undertaking, and the one whose s
 
 Diablo IV's original skill trees were functional but unsatisfying. Not enough real decisions to make, too many filler nodes, a mechanical progression feeling rather than an identity-building one. In a genre where the build fantasy is central, the skill tree must be a playground, not a corridor.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-6.png)
 
 What's announced moves in the right direction: more branches, more skill interactions, synergies that reward system knowledge over guide-following. If the delivery matches the promise, it's one of the most structural changes Diablo IV will have seen since launch.
 
@@ -83,7 +84,7 @@ War plans add a strategic framework to a game that has always been strong on cha
 
 Community challenges deserve special attention, because across many live service games they've become a reliable health gauge for a title. When a community shows up for collective objectives, invests in shared challenges, and generates noise around common accomplishments, it tells developers something no internal metric can replace: the game still has a pulse. Blizzard's teams will be watching those numbers very closely. So will we.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-7.png)
 
 ## Can it reconcile us?
 
@@ -93,7 +94,7 @@ We had been disappointed. Not the superficial disappointment of someone who didn
 
 What this expansion proposes looks like a direct answer to that disappointment. The overlay map, the loot filter, the reworked trees, the rediscovered depth of the Necromancer and the Druid: these aren't content additions. They're foundational corrections. Disguised admissions that something was wrong, packaged as an expansion so the commercial balance stays positive. You can find that cynical. You can also decide that the result matters more than the motivation.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-8.png)
 
 If everything announced works as promised, Diablo IV will finally become the game it should have been at launch. That's both good news and a bitter observation.
 

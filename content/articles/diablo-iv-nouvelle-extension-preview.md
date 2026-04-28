@@ -7,11 +7,12 @@ date: "2026-04-28"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-red-950 via-zinc-950 to-stone-950"
+coverImage: "/images/diablo4Dlc/screenshot-1.png"
 gameName: "Diablo IV"
 featured: false
 ---
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-2.png)
 
 Diablo IV nous a blessés.
 
@@ -27,7 +28,7 @@ Commençons par là, parce que c'est la conversation que tout le monde évite et
 
 Le tarif annoncé pour cette extension est difficile à défendre. Ce que Blizzard propose ressemble, au moins sur le papier, davantage à un DLC enrichi qu'à une extension au sens plein du terme. Les nouvelles classes, le filtre de butin, la carte superposée, les refontes d'arbres de compétences : ce sont des corrections et des ajouts qui auraient pu, et dans certains cas auraient dû, arriver sous forme de mises à jour gratuites ou de patches de fond. Les coller ensemble derrière un prix d'extension, c'est facturer la maintenance.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-3.jpg)
 
 On peut comprendre la logique commerciale. On ne peut pas la trouver honnête. Blizzard a vendu un jeu à 70 euros, a publié une première extension, et revient maintenant avec une deuxième addition payante dont une partie du contenu corrige des manques connus depuis le lancement. La communauté a le droit d'être sceptique.
 
@@ -45,7 +46,7 @@ C'est le genre de correction qui ne fait pas les titres mais qui change la faço
 
 Diablo IV avait un problème de butin. Pas de rareté, pas de sentiment de progression incohérent, mais surtout une lisibilité catastrophique de ce qui tombait sur le sol. Dans un genre qui vit et meurt par la dopamine du loot, voir déferler des objets sans être capable de distinguer rapidement ce qui mérite l'attention est une faute de conception grave.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-4.png)
 
 Le filtre de butin est la réponse. Configurer des règles, définir des seuils de rareté, masquer ce qui ne correspond pas au profil du build en cours : des fonctionnalités que Path of Exile a popularisées et que les joueurs d'ARPG considèrent depuis longtemps comme non-négociables. Diablo IV en était dépourvu. Ce ne sera plus le cas.
 
@@ -57,7 +58,7 @@ Deux classes qui attendaient cet moment.
 
 La nouvelle granularité accordée au Nécromancien sur ses armées invoquées est exactement le niveau de profondeur qui manquait. Plutôt que de déployer une horde de morts-vivants et de la regarder travailler, le système annoncé permet de paramétrer finement chaque type d'unité, d'ajuster leur comportement, de construire son armée avec intention plutôt que par accident. Le Nécromancien passe de commandant passif à véritable tacticien.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-5.png)
 
 La refonte du Druide va encore plus loin. Choisir sa forme animale, s'y ancrer, construire une identité autour d'une transformation plutôt que de basculer d'une forme à l'autre selon les situations : c'est un changement fondamental dans la façon dont la classe se joue et se ressent. Le fantasme du Druide n'était pas cassé. Il n'était simplement jamais pleinement réalisé. Cette refonte l'approche enfin.
 
@@ -73,7 +74,7 @@ C'est probablement le chantier le plus ambitieux de l'extension, et celui dont l
 
 Les arbres de compétences originaux de Diablo IV étaient fonctionnels mais peu satisfaisants. Pas assez de vraies décisions à prendre, des noeuds de passage trop nombreux, une impression de progression mécanique plutôt que de construction identitaire. Dans un genre où le fantasme du build est central, l'arbre doit être un terrain de jeu, pas un couloir.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-6.png)
 
 Ce qui est annoncé va dans la bonne direction : plus de branchements, plus d'interactions entre compétences, des synergies qui récompensent la connaissance du système. Si la livraison est fidèle à la promesse, c'est un des changements les plus structurants que Diablo IV aura connus depuis son lancement.
 
@@ -83,7 +84,7 @@ Les plans de guerre ajoutent un cadre stratégique à un jeu qui a toujours ét�
 
 Les défis communautaires méritent une attention particulière, parce qu'ils sont devenus dans beaucoup de jeux live service une jauge fiable de l'état de santé du titre. Quand une communauté répond présent sur des objectifs collectifs, s'investit dans des challenges partagés et génère du bruit autour d'accomplissements communs, elle dit aux développeurs quelque chose qu'aucune métrique interne ne peut remplacer : le jeu a encore un pouls. Les équipes de Blizzard regarderont ces chiffres de très près. Nous aussi.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-7.png)
 
 ## Peut-elle nous réconcilier ?
 
@@ -93,7 +94,7 @@ Nous avions été déçus. Pas de la déception superficielle de quelqu'un qui n
 
 Ce que cette extension propose ressemble à une réponse directe à cette déception. La carte superposée, le filtre de butin, les arbres refondus, la profondeur retrouvée du Nécromancien et du Druide : ce ne sont pas des ajouts de contenu. Ce sont des corrections de fond. Des aveux déguisés que quelque chose n'allait pas, emballés dans la forme d'une extension pour que le bilan commercial reste positif. On peut trouver ça cynique. On peut aussi décider que le résultat compte plus que la motivation.
 
-![Diablo IV](/images/placeholder)
+![Diablo IV](/images/diablo4Dlc/screenshot-8.png)
 
 Si tout ce qui est annoncé fonctionne comme promis, Diablo IV deviendra enfin le jeu qu'il aurait dû être à la sortie. C'est à la fois une bonne nouvelle et un constat amer.
 
