@@ -2,7 +2,7 @@
 title: "Invincible VS : le jeu de combat qu'on mérite enfin"
 slug: "invincible-vs-preview"
 category: "previews"
-excerpt: "Un univers co-écrit par Robert Kirkman, le même homme qui a créé Walking Dead. Des personnages qu'on connaît depuis des années. Un jeu de combat qui semble comprendre pourquoi cet univers est aussi précieux. On a attendu longtemps. L'attente était justifiée."
+excerpt: "Un univers né de la plume de Robert Kirkman, le même homme qui a créé Walking Dead. Des personnages qu'on connaît depuis des années. Un jeu de combat qui semble comprendre pourquoi cet univers est aussi précieux. On a attendu longtemps. L'attente était justifiée."
 date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "8 min"
@@ -18,7 +18,7 @@ Il y a des univers qu'on protège.
 
 Invincible en fait partie. Chez InsertCoins, on a les comics en papier, dans leur intégralité. On a suivi Mark Grayson depuis le début, depuis le lycée, depuis avant qu'il comprenne ce qu'il était vraiment. On a vu l'univers s'étendre, se compliquer, se déchirer. On a lu la fin. Et on a été triste, d'une tristesse nette et propre, celle qu'on a quand quelque chose de bien se termine vraiment.
 
-Ce "vraiment" est important. Parce qu'Invincible, co-écrit par Robert Kirkman, le même homme qui a créé The Walking Dead, a eu le bon goût de savoir s'arrêter. Au numéro 144, proprement, avec une fin qui respectait l'histoire et les lecteurs. C'est une chose rare. Une chose précieuse. Et une chose qu'on ne peut pas dire de tout le monde, n'est-ce pas : ni de Game of Thrones, ni de The Walking Dead lui-même, deux récits qui ont perdu le fil au point de transformer des années d'investissement émotionnel en déception progressive. Kirkman a appris de ses erreurs. Il a su quand poser le stylo.
+Ce "vraiment" est important. Parce qu'Invincible, co-écrit par Robert Kirkman, le même homme qui a créé The Walking Dead, a eu le bon goût de savoir s'arrêter. Au numéro 144, proprement, avec une fin qui respectait l'histoire et les lecteurs. C'est une chose rare. Une chose précieuse. Et une chose qu'on ne peut pas dire de tout le monde, n'est-ce pas : ni de Game of Thrones, ni de The Walking Dead lui-même, deux récits qui ont perdu le fil au point de transformer des années d'investissement émotionnel en déception progressive. Kirkman, lui, a su quand poser le stylo sur Invincible.
 
 Cet univers méritait un jeu à la hauteur. Il semble qu'il l'ait enfin.
 
@@ -62,7 +62,7 @@ Chez InsertCoins, Invincible est quelque chose de personnel. On a les comics en 
 
 ![Invincible VS](/images/invincibleVS/screenshot-6.png)
 
-Et il y a quelque chose d'émouvant aussi dans le fait que Kirkman continue de construire sur cet univers après la fin des comics. La série animée Amazon d'abord, aujourd'hui ce jeu. Invincible est terminé en tant que comics mais il continue d'exister, de s'étendre, de trouver de nouveaux publics. C'est une façon de lui offrir une deuxième vie sans trahir la première. C'est bien fait.
+Et il y a quelque chose d'émouvant dans le fait que cet univers continue de vivre après la fin des comics. La série animée Amazon d'abord, aujourd'hui ce jeu. Invincible est terminé en tant que comics mais il continue d'exister, de s'étendre, de trouver de nouveaux publics. C'est une façon de lui offrir une deuxième vie sans trahir la première. C'est bien fait.
 
 On a hâte. Vraiment.
 
