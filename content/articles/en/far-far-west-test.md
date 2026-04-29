@@ -19,7 +19,7 @@ Let's start with the elephant in the room.
 
 Far Far West has no microtransactions. No battle pass. No premium currency with a conversion rate designed to make you lose track of what you're actually spending. No loot boxes. No "limited-time exclusive cosmetic content" that disappears in 48 hours to manufacture artificial purchase pressure. You pay for the game. You get the game. That's it.
 
-In 2026, that warrants a mention in the first paragraph. Here we are.
+In 2026, a game without microtransactions is rare enough that it needs to be said upfront. That's sad, but that's where we are.
 
 ## A supernatural western, and that changes everything
 
