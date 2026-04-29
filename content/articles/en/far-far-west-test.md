@@ -7,12 +7,13 @@ date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-amber-950 via-stone-950 to-zinc-950"
+coverImage: "/images/farfarwest/screenshot-1.png"
 gameName: "Far Far West"
 score: 7.5
 featured: false
 ---
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-2.png)
 
 Let's start with the elephant in the room.
 
@@ -24,7 +25,7 @@ In 2026, that warrants a mention in the first paragraph. Here we are.
 
 Far Far West is a four-player co-op shooter with extraction mechanics. On paper, nothing original. In execution, the game stands apart through a genre mashup that holds together better than expected: traditional Far West collides head-on with the paranormal.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-3.png)
 
 The enemies you face aren't simple outlaws. They're creatures that feel straight out of American frontier folklore, supernatural entities that would fit right into the stories passed around campfires in the 19th century. The result is a distinctive atmosphere. The dusty environments of frontier towns and wild territories host threats that have no logical business being there, and that's precisely what works. The dissonance is intentional, fully committed, and produces exactly the unhinged blend the game is going for.
 
@@ -34,7 +35,7 @@ Far Far West's real proposition is two layers of combat that feed off each other
 
 Gunplay on one side: classic, readable, effective. Firearms handle crowd control and raw damage. The impact could be a little more pronounced, we'll get to that, but the foundation is solid.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-4.png)
 
 Spellcasting on the other: and that's where the game really opens up. Spell combos are the genuine standout surprise of this session. Chaining effects, finding synergies between team abilities, discovering that a specific combination triggers something devastating: that's exactly the kind of moment that justifies the existence of a game system. Clearing a room with explosive magic while a teammate lays defensive enchantments on the squad is a chaotic choreography that gradually becomes less chaotic as you learn to talk to each other.
 
@@ -44,7 +45,7 @@ Because coordination is the real heart of the game. Far Far West asks players to
 
 The mission structure is built around a bounty hunting system. The team selects a contract, ventures into dangerous territory, neutralises the target, and must get out alive — or at least "mostly alive," based on the sessions we played.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-5.png)
 
 This extraction mechanic is what gives decisions weight. Completing objectives is only half the challenge. Getting back out with your bounties intact is the other half, and often the harder one. The chaotic encounters on the way back turn successful hunts into desperate escapes. That's where the best stories get made, and games that make stories are the games you talk about afterwards.
 
@@ -52,7 +53,7 @@ This extraction mechanic is what gives decisions weight. Completing objectives i
 
 We played as a group, and we had a genuinely good time. The game is very easy to pick up, which matters more than it seems for co-op: when you pull friends into a session, you don't want to spend the first hour explaining systems. Here you're operational quickly, and the depth arrives naturally after that.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-6.png)
 
 The art style is impressive. Each zone has its own palette, the visual identity is strong, and the art direction knows exactly what it wants. The music follows the same register: great and completely unhinged, in the best sense. It doesn't try to be atmospheric and understated. It commits, it overflows, and it matches the game's overall tone perfectly. We had several laughing fits during sessions because of what was happening in our ears at exactly the wrong moment. That's a win.
 

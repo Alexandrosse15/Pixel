@@ -7,12 +7,13 @@ date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-amber-950 via-stone-950 to-zinc-950"
+coverImage: "/images/farfarwest/screenshot-1.png"
 gameName: "Far Far West"
 score: 7.5
 featured: false
 ---
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-2.png)
 
 Il faut commencer par l'éléphant dans la pièce.
 
@@ -24,7 +25,7 @@ En 2026, ça mérite une mention dans le premier paragraphe. On en est là.
 
 Far Far West est un shooter coopératif à quatre joueurs avec mécanique d'extraction. Sur le papier, rien d'original. Dans l'exécution, le jeu se distingue par un mélange de genres qui tient mieux qu'on ne l'attendait : le Far West traditionnel percute de plein fouet le paranormal.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-3.png)
 
 Les ennemis que vous affrontez ne sont pas de simples bandits. Ce sont des créatures qui semblent tout droit sorties du folklore de la frontière américaine, des entités surnaturelles qui auraient trouvé leur place dans les récits qui circulaient autour des feux de camp au XIXe siècle. Résultat : l'atmosphère est distinctive. Les environnements poussiéreux des villes frontalières et des étendues sauvages accueillent des menaces qui n'y ont aucune logique d'y être, et c'est précisément ça qui fonctionne. La dissonance est intentionnelle, elle est assumée, et elle produit exactement le mélange déjanté que le jeu cherche.
 
@@ -34,7 +35,7 @@ La vraie proposition de Far Far West, ce sont ses deux couches de combat qui se 
 
 Le gunplay d'un côté : classique, lisible, efficace. Les armes à feu ont leur rôle dans la gestion des foules et le damage brut. L'impact pourrait être un peu plus marqué, on y reviendra, mais la base est solide.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-4.png)
 
 Les sorts de l'autre : et c'est là que le jeu se déverrouille vraiment. Les combos de sorts sont la vraie bonne surprise de cette session. Enchaîner les effets, trouver les synergies entre les capacités de l'équipe, découvrir qu'une combinaison particulière déclenche quelque chose de dévastateur : c'est exactement le type de moment qui justifie l'existence d'un système de jeu. Nettoyer une salle avec de la magie explosive pendant qu'un coéquipier pose des enchantements défensifs sur l'escouade, c'est une chorégraphie chaotique qui devient progressivement moins chaotique à mesure qu'on apprend à se parler.
 
@@ -44,7 +45,7 @@ Parce que la coordination est le vrai coeur du jeu. Far Far West demande aux jou
 
 La structure de mission repose sur un système de chasse aux primes. L'équipe sélectionne un contrat, s'aventure en territoire dangereux, neutralise la cible, et doit ressortir vivante, ou du moins "presque vivante" selon les séances qu'on a vécues.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-5.png)
 
 Cette mécanique d'extraction est ce qui donne du poids aux décisions. Réussir les objectifs ne représente que la moitié du défi. Survivre au retour avec les primes intactes, c'est l'autre moitié, souvent la plus difficile. Les rencontres chaotiques sur le chemin du retour transforment des chasses réussies en échappées désespérées. C'est là que les meilleures anecdotes se fabriquent, et les jeux qui fabriquent des anecdotes sont les jeux dont on reparle.
 
@@ -52,7 +53,7 @@ Cette mécanique d'extraction est ce qui donne du poids aux décisions. Réussir
 
 On a joué en groupe, et on a passé un bon moment. Vraiment. Le jeu est très facile à prendre en main, ce qui n'est pas anodin pour un co-op : quand vous recrutez des amis pour une session, vous ne voulez pas passer la première heure à expliquer les systèmes. Ici on est opérationnel rapidement, et la profondeur arrive ensuite, naturellement.
 
-![Far Far West](/images/placeholder)
+![Far Far West](/images/farfarwest/screenshot-6.png)
 
 Le style artistique est remarquable. Chaque zone a sa propre palette, l'identité visuelle est forte, et la direction artistique sait exactement ce qu'elle veut. La musique suit le même registre : géniale et complètement déjantée. Elle ne cherche pas à être atmosphérique et discrète. Elle s'assume, elle déborde, et elle colle parfaitement au ton général. On a eu plusieurs fous rires pendant les sessions à cause de ce qui passait dans les oreilles au mauvais moment. C'est une réussite.
 
