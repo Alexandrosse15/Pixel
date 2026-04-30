@@ -55,15 +55,19 @@ A lot of games call themselves "cozy." Most use the word to describe a slow pace
 
 There's one scene in particular, which we won't detail, where the game says something simple about family and loss without ever articulating it explicitly. Boris has no dialogue. Maxime narrates. And yet the emotion arrives, cleanly, without forcing.
 
+We didn't see it coming. This is a game about a baby boar finding his siblings in a national park. And we found ourselves genuinely invested, genuinely moved, wanting to find the next family member not to advance a progression system but because we wanted to. Because Boris needed to. That's the difference between a game that simulates attachment and one that actually creates it.
+
 That's what good narrative games do, and Adorable Adventures achieves it with an economy of means that commands respect.
 
 ## Freshness as an argument
 
 Mechanical innovation is often treated as a quality criterion. Adorable Adventures doesn't revolutionise anything. The scent mechanic is original, the setting is distinctive, but the game never tries to impress you with technical ambition.
 
+What it does instead is pull you in. You launch a session for twenty minutes and find yourself an hour later still searching for the last missing scent in a cave because you can't stop mid-trail. It's not addiction by design, not a reward mechanic calculated to retain the player. It's simply that the world is rich enough and alive enough that you don't want to leave.
+
 ![Adorable Adventures](/images/adorableadventure/screenshot-7.png)
 
-What it does instead is exist completely in what it is. A game about a baby boar in a French national park, made with care by a small passionate team. No more. No less.
+What it also does is exist completely in what it is. A game about a baby boar in a French national park, made with care by a small passionate team. No more. No less.
 
 In a landscape where every game tries to be bigger, longer, more monetised, more visible than the last, that quietness is almost subversive. Adorable Adventures doesn't try to do everything. It does one thing, does it well, and sends you away with something gentle in your head.
 

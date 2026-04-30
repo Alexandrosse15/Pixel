@@ -55,15 +55,19 @@ On a beaucoup de jeux qui se disent "cozy". La plupart utilisent ce mot pour dé
 
 Il y a une scène en particulier, qu'on ne détaillera pas, où le jeu dit quelque chose de simple sur la famille et la perte sans jamais l'articuler explicitement. Boris n'a pas de dialogues. Maxime raconte. Et pourtant l'émotion arrive, proprement, sans forcer.
 
+On ne s'y attendait pas. C'est un jeu sur un marcassin qui retrouve ses frères et sœurs dans un parc naturel. Et on s'est retrouvé sincèrement investi, sincèrement ému, à vouloir retrouver le prochain membre de la famille non pas pour avancer dans un système de progression mais parce qu'on en avait envie. Parce que Boris en avait besoin. C'est la différence entre un jeu qui simule l'attachement et un jeu qui le crée vraiment.
+
 C'est ce que font les bons jeux narratifs, et c'est ce que réussit Adorable Adventures avec une économie de moyens qui force le respect.
 
 ## La fraîcheur comme argument
 
 On parle beaucoup de l'innovation mécanique comme critère de qualité. Adorable Adventures ne révolutionne rien. La mécanique de flair est originale, le cadre est distinct, mais à aucun moment le jeu ne cherche à vous impressionner avec son ambition technique.
 
+Ce qu'il fait à la place, c'est capturer. On lance une session pour vingt minutes et on se retrouve une heure plus tard à chercher la dernière odeur manquante dans une grotte parce qu'on est incapable de s'arrêter au milieu d'une piste. Ce n'est pas de l'addiction par design, ce n'est pas une mécanique de récompense calculée pour retenir le joueur. C'est juste que l'univers est suffisamment riche et suffisamment vivant pour qu'on n'ait pas envie d'en sortir.
+
 ![Adorable Adventures](/images/adorableadventure/screenshot-7.png)
 
-Ce qu'il fait à la place, c'est exister complètement dans ce qu'il est. Un jeu sur un marcassin dans un parc naturel français, fait avec soin par une petite équipe passionnée. Pas plus. Pas moins.
+Ce qu'il fait aussi, c'est exister complètement dans ce qu'il est. Un jeu sur un marcassin dans un parc naturel français, fait avec soin par une petite équipe passionnée. Pas plus. Pas moins.
 
 Dans un paysage où chaque jeu cherche à être plus grand, plus long, plus monétisé, plus visible que le précédent, ce calme-là est presque subversif. Adorable Adventures n'essaie pas de tout faire. Il fait une chose, il la fait bien, et il vous laisse repartir avec quelque chose de doux dans la tête.
 
