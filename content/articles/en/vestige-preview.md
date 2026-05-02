@@ -36,7 +36,7 @@ It's the reality of independent development: build with little, but build anyway
 
 ## Already playable on Itch.io
 
-No need to wait: a Vestige prototype is already available on Itch.io, regularly updated as development progresses. It's the best way to follow the game's evolution in real time.
+No need to wait: a Vestige prototype is already available on [Itch.io](https://pyramide-games.itch.io/), regularly updated as development progresses. It's the best way to follow the game's evolution in real time.
 
 Looking ahead, Pyramide Games is targeting a full release in late 2027 or early 2028, with Steam as the main distribution platform.
 
