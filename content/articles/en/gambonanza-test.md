@@ -7,6 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-amber-950 via-yellow-950 to-zinc-950"
+coverImage: "/images/Gambonanza/screenshot-1.png"
 gameName: "Gambonanza"
 score: 5.5
 featured: false
@@ -22,6 +23,8 @@ On paper, it's exactly the kind of improbable blend that should work. Chess as t
 
 The problem is that Balatro wasn't just an idea.
 
+![Gambonanza](/images/Gambonanza/screenshot-2.png)
+
 ## What Balatro understood
 
 Balatro worked because it took something everyone already knew, poker, and used it as an emotional foundation. You didn't have to learn the rules: you already knew them. All the learning happened in the roguelite layer on top. The curve wasn't steep because the foundation was familiar.
@@ -30,17 +33,23 @@ Gambonanza takes chess as its starting point and immediately starts breaking its
 
 What remains is a roguelite synergy system. Which isn't bad. Which doesn't justify the journey.
 
+![Gambonanza](/images/Gambonanza/screenshot-3.png)
+
 ## The gambits: a lot for not much
 
 150 gambits is an impressive number to put on a Steam page. In practice, the density doesn't compensate for the lack of clarity around what makes each run feel distinct. Combinations exist, synergies can be found, but the satisfaction of building something never quite settles in.
 
 Balatro made you feel like a genius when your deck started to snowball. Gambonanza makes you feel like you're solving a puzzle whose rules you haven't quite understood. That's not the same thing. The difference between the two is the feeling of mastery. One gives it to you. The other promises it without really delivering.
 
+![Gambonanza](/images/Gambonanza/screenshot-4.png)
+
 ## The pachinko, the slots, and the diluted identity
 
 The pachinko and slot machine-inspired minigames are presented as an extra layer of fun. In reality, they illustrate the game's central problem: Gambonanza doesn't quite know what it is.
 
 A chess roguelite with synergies is already an ambitious project. Adding pachinko and slots risks diluting every pillar instead of reinforcing them together. In Balatro, everything served the same purpose. Here, you get the impression that each system was designed separately and bundled into the same client.
+
+![Gambonanza](/images/Gambonanza/screenshot-5.png)
 
 ## Maybe we missed the essence
 
