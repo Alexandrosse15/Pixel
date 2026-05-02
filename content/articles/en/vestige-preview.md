@@ -1,8 +1,8 @@
 ---
-title: "Vestige: an island that is grief, and that changes everything"
+title: "Vestige: an island that is actually a character's subconscious"
 slug: "vestige-preview"
 category: "previews"
-excerpt: "A narrative game where the island you explore is a character's subconscious, split into seven emotional zones. Pyramide Games is building something intimate with limited resources. And it shows, in the best way."
+excerpt: "An island split into seven zones of grief, an impulse mechanic, and a small team building something intimate on their own dime. Vestige deserves your attention."
 date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"
@@ -12,44 +12,52 @@ gameName: "Vestige"
 featured: false
 ---
 
-Some games tell you about an island. Others make the island you. Vestige is the second kind.
+Imagine an island. Not the postcard kind, the kind full of questions that stay with you. An island that is actually a character's subconscious, split into seven zones, each governed by a different emotion of grief. That's where Pyramide Games is building Vestige.
 
 ## An island as subconscious
 
-Vestige is a narrative game developed by Pyramide Games. You explore an island, but it isn't a geographical space: it's a character's subconscious, structured around the seven zones of grief. Each zone has its own visual and emotional identity. Each crossing reveals something.
+Vestige is a narrative game. You explore an island guided by an impulse mechanic that evolves depending on the zones you travel through. The story unfolds naturally, never asking the player to connect the dots themselves: the narration does that work, at its own pace, carried by the character's emotions.
 
 ![Vestige](/images/vestige/screenshot-2.png)
 
-The central mechanic is that of impulses, which evolve across zones and guide progression as much as they translate the character's inner state. It's not a marker on a map. It's an emotional compass. The story builds naturally, without asking the player to do the connecting work themselves. The narration carries that weight.
+The artistic approach is dual: a realistic style for memory sequences, and a more stylised, almost oneiric direction for the island itself. The acknowledged visual reference is Kena: Bridge of Spirits.
 
-The artistic approach is dual and deliberate: a realistic style for memory sequences, a more oneiric and stylised direction for the island itself. The acknowledged visual reference is Kena: Bridge of Spirits. That's an honest reference. If Vestige holds that visual promise, there's little to argue about regarding the ambition.
+Seven zones of grief structure the experience, each with its own visual and emotional identity. The impulse mechanic, central to the game, evolves from zone to zone and guides progression as much as it reveals the character's inner state.
 
-## Valentin, Rémy, and twenty pairs of hands
+## The team behind Vestige
 
-Behind Vestige is Pyramide Games. Three people at the studio's core: Rémy BAL as director, and Valentin as Game Director, the one whose original idea, rooted in the theme of grief, gradually transformed a personal project into something larger.
-
-Around that core, a team of around twenty contributors: interns, freelancers, volunteers. About fifteen still active today. Recruitment runs through Discord forums, video game school networks, and the indie community. That's the day-to-day reality of many independent productions: build with little, but build anyway.
+Vestige is a project that grew around a personal vision. Originally an idea from Valentin, the game's Director, whose theme of grief gradually became woven into development, transforming an intimate project into something larger. It's Rémy BAL who leads Pyramide Games, the studio now carrying the project forward.
 
 ![Vestige](/images/vestige/screenshot-3.png)
 
-The team speaks openly about their early mistakes: game design was started before the script was finalised, which required adjustments along the way. That's a common lesson for a first production, and naming it clearly rather than hiding it says something about the project's maturity. Vestige is also ineligible for CNC funding due to the proportion of volunteers on the team, which constrains the development pace. Valentin and Rémy are personally financing the project.
+Pyramide Games has three people at its core. Around them, a team of around twenty contributors, including interns, freelancers, and volunteers, around fifteen of whom are still active. Recruitment goes through Discord forums, video game school networks, and the indie community.
 
-## Already playable, not yet finished
+It's the reality of independent development: build with little, but build anyway.
 
-A Vestige prototype is available on Itch.io, regularly updated as development progresses. It's the most direct way to see where the project stands and which direction it's heading.
+## Already playable on Itch.io
+
+No need to wait: a Vestige prototype is already available on Itch.io, regularly updated as development progresses. It's the best way to follow the game's evolution in real time.
+
+Looking ahead, Pyramide Games is targeting a full release in late 2027 or early 2028, with Steam as the main distribution platform.
+
+## The challenges of development
+
+Valentin and Rémy are personally financing the project, which is a real constraint on the pace of development. Managing a partly volunteer team also represents a significant coordination challenge.
+
+The team acknowledges pipeline mistakes early in the project: game design was started before the script was finalised, which required adjustments. A lesson shared by many first independent productions.
+
+Vestige is also ineligible for CNC funding due to the proportion of volunteers on the team.
+
+## To follow
 
 ![Vestige](/images/vestige/screenshot-4.png)
 
-Looking ahead, Pyramide Games is targeting a full release in late 2027 or early 2028, with Steam as the main platform. A Kickstarter pre-launch page is already live for those who want to follow the upcoming campaign.
+Vestige has a clear identity, an ambitious narrative structure, and a team that learns quickly from its mistakes. The seven zones of grief, the impulse mechanic that evolves throughout the game, the blend of realism and stylisation — all of it sketches a game that knows where it wants to go.
 
-## What worries us, what excites us
+If the project intrigues you, a Kickstarter pre-launch page is already live for those who want to keep an eye on the upcoming campaign.
 
-The worry is simple: Vestige carries a narrative and emotional ambition that demands flawless writing to deliver on its promises. The seven zones of grief, impulses as a central mechanic, the dual visual register, all of it works or collapses together. This isn't a game that can recover through gameplay if the story doesn't hold.
-
-The excitement is equally straightforward: Vestige has an identity. In a landscape where indie narrative games often blur together, the premise of an island as an emotional map of a grieving character is an idea that stands on its own. A team that learns quickly, an existing prototype, a clear vision. That's already more than many.
-
-We're watching.
+[Kickstarter pre-launch page](https://www.kickstarter.com/projects/pyramide-games/vestige-a-narrative-adventure-about-memory-and-grief)
 
 ---
 
-*Preview based on available information and the Itch.io prototype. Release planned for late 2027 / early 2028 on Steam. [Kickstarter page](https://www.kickstarter.com/projects/pyramide-games/vestige-a-narrative-adventure-about-memory-and-grief)*
+*Preview based on available information and the Itch.io prototype. Release planned for late 2027 / early 2028 on Steam.*

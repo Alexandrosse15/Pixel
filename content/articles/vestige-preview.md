@@ -1,8 +1,8 @@
 ---
-title: "Vestige : une île qui est un deuil, et ça suffit à tout changer"
+title: "Vestige : une île qui est en réalité le subconscient d'un personnage"
 slug: "vestige-preview"
 category: "previews"
-excerpt: "Un jeu narratif où l'île que vous explorez est le subconscient d'un personnage, découpée en sept zones émotionnelles. Pyramide Games construit quelque chose d'intime avec peu de moyens. Et ça se voit dans le bon sens."
+excerpt: "Une île découpée en sept zones du deuil, une mécanique de pulsions, et une petite équipe qui construit quelque chose d'intime avec ses propres deniers. Vestige mérite qu'on y prête attention."
 date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"
@@ -12,44 +12,52 @@ gameName: "Vestige"
 featured: false
 ---
 
-Il y a des jeux qui vous parlent d'une île. Et il y a des jeux où l'île, c'est vous. Vestige est dans la deuxième catégorie.
+Imaginez une île. Pas celle des cartes postales, celle des questions qui restent. Une île qui est en réalité le subconscient d'un personnage, découpée en sept zones, chacune régie par une émotion différente du deuil. C'est là que Pyramide Games construit Vestige.
 
 ## Une île comme subconscient
 
-Vestige est un jeu narratif développé par Pyramide Games. Vous explorez une île, mais ce n'est pas un espace géographique : c'est le subconscient d'un personnage, structuré autour des sept zones du deuil. Chaque zone a sa propre identité visuelle et émotionnelle. Chaque traversée révèle quelque chose.
+Vestige est un jeu narratif. Vous explorez une île guidé par une mécanique de pulsions qui évolue en fonction des zones traversées. Le récit se déroule naturellement, sans jamais demander au joueur de relier les points lui-même : la narration fait ce travail, à son rythme, portée par les émotions du personnage.
 
 ![Vestige](/images/vestige/screenshot-2.png)
 
-La mécanique centrale est celle des pulsions, qui évolue au fil des zones et guide la progression autant qu'elle traduit l'état intérieur du personnage. Ce n'est pas un marqueur sur une carte. C'est une boussole émotionnelle. Le récit se construit naturellement, sans demander au joueur de faire le travail de liaison lui-même. La narration porte ce poids.
+Le parti pris artistique est double : un style réaliste pour les séquences de souvenirs, et une direction plus stylisée, presque onirique, pour l'île elle-même. La référence graphique assumée est Kena : Bridge of Spirits.
 
-Le parti pris artistique est double et assumé : un style réaliste pour les séquences de souvenirs, une direction plus onirique, presque stylisée, pour l'île elle-même. La référence graphique revendiquée est Kena : Bridge of Spirits. C'est une référence honnête. Si Vestige tient cette promesse visuelle, il n'y a pas grand-chose à redire sur l'ambition.
+Sept zones du deuil structurent l'expérience, chacune avec sa propre identité visuelle et émotionnelle. La mécanique de pulsions, centrale dans le jeu, évolue d'une zone à l'autre et guide la progression autant qu'elle révèle l'état intérieur du personnage.
 
-## Valentin, Rémy, et une vingtaine de mains
+## L'équipe derrière Vestige
 
-Derrière Vestige, il y a Pyramide Games. Trois personnes au cœur du studio : Rémy BAL qui en est le directeur, et Valentin qui occupe le poste de Game Director, celui dont l'idée originale, ancrée dans le thème du deuil, a progressivement transformé un projet intime en quelque chose de plus grand.
-
-Autour de ce noyau, une équipe d'une vingtaine de contributeurs : stagiaires, freelances, bénévoles. Une quinzaine encore actifs aujourd'hui. Le recrutement passe par les forums Discord, les réseaux d'écoles de jeu vidéo, la communauté indie. C'est le quotidien de beaucoup de productions indépendantes : construire avec peu, mais construire quand même.
+Vestige est un projet qui a grandi autour d'une vision personnelle. À l'origine, une idée de Valentin – Game Director du jeu – dont la thématique du deuil s'est intégrée progressivement au développement, transformant un projet intime en quelque chose de plus grand. C'est Rémy BAL qui dirige Pyramide Games, le studio qui porte aujourd'hui le projet.
 
 ![Vestige](/images/vestige/screenshot-3.png)
 
-L'équipe parle ouvertement de ses erreurs de départ : le game design a été entamé avant que le scénario soit finalisé, ce qui a demandé des ajustements en cours de route. C'est un apprentissage classique pour une première production, et le fait de le nommer clairement plutôt que de le dissimuler dit quelque chose sur la maturité du projet. Vestige est aussi inéligible aux aides du CNC en raison de la proportion de bénévoles dans l'équipe, ce qui contraint le rythme de développement. Valentin et Rémy financent le projet personnellement.
+Pyramide Games compte trois personnes en son sein. Autour d'eux, une équipe d'une vingtaine de contributeurs – stagiaires, freelances et bénévoles – dont une quinzaine encore actifs. Le recrutement passe par les forums Discord, les réseaux d'écoles de jeu vidéo et la communauté indie.
 
-## Déjà jouable, pas encore fini
+C'est une réalité du développement indépendant : construire avec peu, mais construire quand même.
 
-Un prototype de Vestige est disponible sur Itch.io, régulièrement mis à jour au fil du développement. C'est la façon la plus directe de voir où en est le projet et dans quelle direction il va.
+## Déjà jouable sur Itch.io
+
+Pas besoin d'attendre : un prototype de Vestige est déjà disponible sur Itch.io, régulièrement mis à jour au fil du développement. C'est la meilleure façon de suivre l'évolution du jeu en temps réel.
+
+Pour la suite, Pyramide Games vise une sortie complète fin 2027 / début 2028, avec Steam comme plateforme de distribution principale.
+
+## Les défis du développement
+
+Valentin et Rémy assurent le financement personnel du projet, ce qui constitue une contrainte réelle sur le rythme de développement. La gestion d'une équipe en partie bénévole représente également un défi de coordination significatif.
+
+L'équipe reconnaît des erreurs de pipeline en début de projet : le game design avait été commencé avant que le scénario soit finalisé, ce qui a nécessité des ajustements. Un apprentissage commun à beaucoup de premières productions indépendantes.
+
+Vestige est aussi inéligible aux aides du CNC en raison de la proportion de bénévoles dans l'équipe.
+
+## À suivre
 
 ![Vestige](/images/vestige/screenshot-4.png)
 
-Pour la suite, Pyramide Games vise une sortie complète fin 2027 ou début 2028, avec Steam comme plateforme principale. Une page de pré-lancement Kickstarter est déjà en ligne pour ceux qui veulent suivre la campagne à venir.
+Vestige a une identité claire, une structure narrative ambitieuse et une équipe qui apprend vite de ses erreurs. Les sept zones du deuil, la mécanique de pulsions qui évolue au fil du jeu, le mélange de réalisme et de stylisation – tout cela dessine un jeu qui sait où il veut aller.
 
-## Ce qui inquiète, ce qui enthousiasme
+Si le projet vous intrigue, une page de pré-lancement Kickstarter est déjà en ligne pour ceux qui veulent garder un œil sur la campagne à venir.
 
-L'inquiétude est simple : Vestige porte une ambition narrative et émotionnelle qui demande une écriture irréprochable pour tenir ses promesses. Les sept zones du deuil, les pulsions comme mécanique centrale, le double registre visuel, tout cela fonctionne ou s'effondre ensemble. Ce n'est pas un jeu qui peut se rattraper par le gameplay si l'histoire ne tient pas.
-
-L'enthousiasme l'est tout autant : Vestige a une identité. Dans un paysage où les jeux narratifs indés se ressemblent souvent, ce parti pris d'une île comme carte émotionnelle d'un personnage en deuil est une idée qui tient debout toute seule. Une équipe qui apprend vite, un prototype existant, une vision claire. C'est déjà plus que beaucoup.
-
-On suit.
+[Page de pré-lancement Kickstarter](https://www.kickstarter.com/projects/pyramide-games/vestige-a-narrative-adventure-about-memory-and-grief)
 
 ---
 
-*Preview basée sur les informations disponibles et le prototype Itch.io. Sortie prévue fin 2027 / début 2028 sur Steam. [Page Kickstarter](https://www.kickstarter.com/projects/pyramide-games/vestige-a-narrative-adventure-about-memory-and-grief)*
+*Preview basée sur les informations disponibles et le prototype Itch.io. Sortie prévue fin 2027 / début 2028 sur Steam.*
