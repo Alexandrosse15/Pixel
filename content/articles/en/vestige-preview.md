@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-teal-950 via-slate-950 to-zinc-950"
-coverImage: "/images/vestige/screenshot-1.png"
+coverImage: "/images/vestige/banniére.png"
 gameName: "Vestige"
 featured: false
 ---
