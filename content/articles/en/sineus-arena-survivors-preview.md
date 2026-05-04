@@ -12,7 +12,7 @@ gameName: "Sineus Arena Survivors"
 featured: false
 ---
 
-Some games are born from a desire. Others are born from a decision. Sineus Arena Survivors belongs to the second category: Sineus Games, the studio behind the project, is a developer who put their personal situation on the line to make this game exist. No safety net, no plan B. Everything on the table.
+Some games are born from a desire. Others are born from a decision. Sineus Arena Survivors belongs to the second category: Sineus Games, the studio behind the project, is a developer who sold their car to fund the game. No safety net, no plan B. Everything on the table.
 
 That's the kind of context that changes how you look at a game.
 

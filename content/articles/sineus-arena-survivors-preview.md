@@ -12,7 +12,7 @@ gameName: "Sineus Arena Survivors"
 featured: false
 ---
 
-Il y a des jeux qui naissent d'une envie. Et il y a des jeux qui naissent d'une décision. Sineus Arena Survivors appartient à la deuxième catégorie : Sineus Games, le studio derrière le projet, c'est un développeur qui a mis sa situation personnelle en jeu pour faire exister ce jeu. Pas de filet de sécurité, pas de plan B. Tout sur la table.
+Il y a des jeux qui naissent d'une envie. Et il y a des jeux qui naissent d'une décision. Sineus Arena Survivors appartient à la deuxième catégorie : Sineus Games, le studio derrière le projet, c'est un développeur qui a vendu sa voiture pour financer le jeu. Pas de filet de sécurité, pas de plan B. Tout sur la table.
 
 C'est le genre de contexte qui change la façon dont on regarde un jeu.
 
