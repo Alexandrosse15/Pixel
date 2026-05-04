@@ -12,7 +12,7 @@ gameName: "LEGO Batman: Legacy of the Dark Knight"
 featured: false
 ---
 
-There's one LEGO game that's never really left a corner of our heads. LEGO Star Wars: The Skywalker Saga had rediscovered something the series had lost for ten years: pure, unconditional joy of smashing everything into little bricks. LEGO Batman: Legacy of the Dark Knight looks, for the first time in a long time, like a game that could do the same.
+At InsertCoins, we discovered LEGO games in 2005 with the Star Wars prequel trilogy. We've been hooked ever since. Through the highs and lows of the series, through the episodes running on fumes and the years where the formula felt hollow, we always came back. And on LEGO Batman: Legacy of the Dark Knight, we're sure this is the good stuff.
 
 ## TT Games picks up the cape
 

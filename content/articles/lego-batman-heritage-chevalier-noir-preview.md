@@ -12,7 +12,7 @@ gameName: "LEGO Batman: Legacy of the Dark Knight"
 featured: false
 ---
 
-Il y a un jeu LEGO qu'on n'a jamais vraiment quitté dans un coin de la tête. LEGO Star Wars : La Saga Skywalker avait retrouvé quelque chose que la série avait perdu pendant dix ans : la joie pure, sans condition, de tout casser en petites briques. LEGO Batman : L'Héritage du Chevalier Noir ressemble, pour la première fois depuis longtemps, à un jeu qui pourrait faire pareil.
+Chez InsertCoins, on a découvert les jeux LEGO en 2005 avec la prélogie Star Wars. Depuis, on est accros. Malgré les hauts et les bas de la série, malgré les épisodes en roue libre et les ans où la formule tournait à vide, on est toujours revenus. Et sur LEGO Batman : L'Héritage du Chevalier Noir, on est sûrs que c'est du bon.
 
 ## TT Games reprend la cape
 
