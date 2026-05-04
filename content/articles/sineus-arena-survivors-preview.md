@@ -7,6 +7,7 @@ date: "2026-05-04"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-violet-950 via-indigo-950 to-zinc-950"
+coverImage: "/images/sineusarena/screenshot-1.png"
 gameName: "Sineus Arena Survivors"
 featured: false
 ---
@@ -15,11 +16,17 @@ Il y a des jeux qui naissent d'une envie. Et il y a des jeux qui naissent d'une 
 
 C'est le genre de contexte qui change la façon dont on regarde un jeu.
 
+![Sineus Arena Survivors](/images/sineusarena/screenshot-2.png)
+
 ## Ce que c'est
 
 Sineus Arena Survivors est un bullet heaven en vue à la troisième personne, jouable en solo ou en co-op jusqu'à quatre joueurs. Le principe est direct : des vagues d'ennemis arrivent, vous montez en puissance, vous collectez des armes et des artefacts, vous construisez des structures et des tours en temps réel pendant les combats, et vous défendez votre forteresse, le Beacon, le plus longtemps possible.
 
+![Sineus Arena Survivors](/images/sineusarena/screenshot-3.png)
+
 Ce n'est pas une formule inédite. Vampire Survivors a ouvert une brèche, et depuis le genre est encombré. Ce qui distingue Sineus Arena Survivors sur le papier, c'est le passage en 3D et la dimension co-op structurée : quatre joueurs qui se répartissent les rôles, gèrent les ressources ensemble, construisent et défendent en coordination. C'est un pari différent de l'expérience solo et hypnotique que le genre pratique habituellement.
+
+![Sineus Arena Survivors](/images/sineusarena/screenshot-4.png)
 
 ## Ce qu'on attend
 
@@ -27,11 +34,15 @@ La mécanique de construction en temps réel pendant les vagues est l'idée qui 
 
 Le fait que ça soit pensé pour quatre joueurs dès le départ, et pas rétrospectivement ajouté au-dessus d'une expérience solo, est également un signal positif. Les meilleurs co-op sont ceux qui auraient été moins bons sans les autres.
 
+![Sineus Arena Survivors](/images/sineusarena/screenshot-5.png)
+
 ## Ce qui inquiète
 
 Le genre est saturé. Vraiment saturé. Pour qu'un bullet heaven existe dans la conversation en 2026, il doit apporter quelque chose que les autres n'ont pas, et le justifier dans les trente premières minutes. La 3D et le co-op sont des arguments. Ils doivent se transformer en sensations, pas rester des cases cochées sur une page Steam.
 
 L'autre inconnue est l'équilibre du contenu. Un survivor qui manque de variété dans ses artefacts et ses synergies devient une corvée après quelques runs. La richesse des builds disponibles sera déterminante.
+
+![Sineus Arena Survivors](/images/sineusarena/screenshot-6.png)
 
 ## On y va ?
 
