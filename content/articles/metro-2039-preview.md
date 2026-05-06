@@ -45,7 +45,7 @@ Ce n'est pas un détail. C'est une déclaration.
 
 ## Ce qui inquiète
 
-Le Novoreich a conquis tout le métro en trois ans. Pour les fans des factions, de la Ligne Rouge, de la Hansa, des équilibres politiques complexes qui donnaient à l'univers sa richesse, ce choix narratif interroge. Est-ce que ça implique que tout ce tissu de factions a simplement disparu ? Ou est-ce que le Novoreich contrôle en surface ce que d'autres résistances tiennent en sous-sol ?
+Le Novoreich a conquis tout le métro en trois ans. Pour les fans des factions, de la Ligne Rouge, de la Hanse, des équilibres politiques complexes qui donnaient à l'univers sa richesse, ce choix narratif interroge. Est-ce que ça implique que tout ce tissu de factions a simplement disparu ? Ou est-ce que le Novoreich contrôle en surface ce que d'autres résistances tiennent en sous-sol ?
 
 On espère que Metro 2039 ne simplifie pas l'univers en le réduisant à un seul antagoniste monolithique. Les meilleurs moments de la série ont toujours été ceux où la menace était multiple et les alliances impures.
 
