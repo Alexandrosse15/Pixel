@@ -1,6 +1,6 @@
 'use client'
 
-import { usePathname, useRouter } from 'next/navigation'
+import { usePathname } from 'next/navigation'
 import { useLocale } from './LocaleProvider'
 import type { Locale } from '@/lib/i18n'
 
@@ -38,16 +38,15 @@ const FLAGS = {
 export default function LanguageSwitcher() {
   const { locale } = useLocale()
   const pathname = usePathname()
-  const router = useRouter()
 
   const handleSwitch = (l: Locale) => {
     if (l === locale) return
     if (l === 'en') {
       const target = pathname.startsWith('/en') ? pathname : `/en${pathname}`
-      router.push(target)
+      window.location.href = target
     } else {
       const target = pathname.startsWith('/en') ? pathname.slice(3) || '/' : pathname
-      router.push(target)
+      window.location.href = target
     }
   }
 
