@@ -11,6 +11,8 @@ gameName: "Metro 2039"
 featured: false
 ---
 
+![Metro 2039](/images/metro2039/screenshot-1.png)
+
 On a lu tous les livres. On a fait tous les jeux. On connaît le métro de Moscou mieux que certains de ses habitants fictifs. Alors quand 4A Games a lâché la bande-annonce de Metro 2039, on n'a pas regardé en spectateurs. On a regardé en gens qui savent exactement ce qu'ils voient.
 
 Et ce qu'on voit nous convient parfaitement.
@@ -23,6 +25,8 @@ Le cadre : six ans après les événements de Metro Exodus, en 2039. Le Novoreic
 
 Hunter est devenu Führer.
 
+![Metro 2039](/images/metro2039/screenshot-2.png)
+
 ## Hunter, et pourquoi ça nous convient
 
 On ne va pas faire semblant d'être neutres : Hunter est notre personnage préféré de la série. Apparu brièvement dans Metro 2033, disparu dans des circonstances qui n'ont jamais été totalement élucidées dans les jeux, présent dans les livres avec une psychologie bien plus complexe que ce que les adaptations vidéoludiques ont eu le temps de montrer. Sa philosophie "si c'est hostile, tue-le" a toujours été une façon d'interroger les limites de la survie et de la morale dans un monde post-apocalyptique.
@@ -30,6 +34,8 @@ On ne va pas faire semblant d'être neutres : Hunter est notre personnage préf�
 Le voir revenir comme antagoniste principal d'un régime autoritaire qui a unifié le métro par la force, c'est une continuité narrative qui tient. Les livres de Glukhovsky ont posé les bases de sa dérive, son traumatisme, son rapport aux Sombres. Dans les jeux, Artyom a fait le chemin inverse : de la méfiance à la compréhension. Hunter, lui, a semblé aller dans l'autre direction.
 
 Un Führer qui a peut-être été brisé par les Sombres avant d'en faire un ennemi existentiel. Dans l'univers de Metro, c'est précisément le genre de tragédie qui fonctionne.
+
+![Metro 2039](/images/metro2039/screenshot-3.png)
 
 ## Le Stranger et la question qui agite Reddit
 
@@ -43,11 +49,15 @@ Le site du jeu confirme un nouveau protagoniste. Le mystère est intentionnel. E
 
 Ce n'est pas un détail. C'est une déclaration.
 
+![Metro 2039](/images/metro2039/screenshot-4.png)
+
 ## Ce qui inquiète
 
 Le Novoreich a conquis tout le métro en trois ans. Pour les fans des factions, de la Ligne Rouge, de la Hanse, des équilibres politiques complexes qui donnaient à l'univers sa richesse, ce choix narratif interroge. Est-ce que ça implique que tout ce tissu de factions a simplement disparu ? Ou est-ce que le Novoreich contrôle en surface ce que d'autres résistances tiennent en sous-sol ?
 
 On espère que Metro 2039 ne simplifie pas l'univers en le réduisant à un seul antagoniste monolithique. Les meilleurs moments de la série ont toujours été ceux où la menace était multiple et les alliances impures.
+
+![Metro 2039](/images/metro2039/screenshot-5.png)
 
 ## On y va
 
