@@ -13,7 +13,7 @@ featured: false
 
 ![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-1.png)
 
-Let's be honest: since the end of the old BioWare, we'd put that hope away in the back drawer. The one where you keep things you don't really believe in anymore but can't quite throw away either. A worthy successor to Knights of the Old Republic. A Star Wars RPG that treats the player like an adult. A story in a galaxy far, far away that doesn't need a Skywalker to exist (no Rey, declaring yourself a Skywalker doesn't count).
+Let's be honest: since the end of the old BioWare, we'd put that hope away in the back drawer. The one where you keep things you don't really believe in anymore but can't quite throw away either. A worthy successor to Knights of the Old Republic. A Star Wars RPG that treats the player like an adult. A story in a galaxy far, far away that doesn't need a Skywalker to exist (no Rey, you are not a Skywalker).
 
 Then Casey Hudson founded Arcanaut Studios. Then he started recruiting. Then we looked at the list of names.
 
