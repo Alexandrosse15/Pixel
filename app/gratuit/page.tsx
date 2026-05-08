@@ -34,38 +34,43 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
     for (const el of elements) {
       const originalPrice = el?.price?.totalPrice?.originalPrice ?? 0
       const discountPrice = el?.price?.totalPrice?.discountPrice ?? 0
-
-      // Ignore permanently free games
-      if (originalPrice === 0) continue
-
       const activeOffers = el?.promotions?.promotionalOffers ?? []
       const upcomingOffers = el?.promotions?.upcomingPromotionalOffers ?? []
 
       let isCurrent = false
+      let isMystery = false
       let endDate: string | null = null
       let startDate: string | null = null
 
-      // Check active free offers
-      for (const promo of activeOffers) {
-        for (const offer of promo?.promotionalOffers ?? []) {
-          const start = new Date(offer.startDate)
-          const end = new Date(offer.endDate)
-          if (now >= start && now <= end && discountPrice === 0) {
-            isCurrent = true
-            endDate = offer.endDate
-            break
+      // Check active free offers (price = 0, original > 0)
+      if (originalPrice > 0 && discountPrice === 0) {
+        for (const promo of activeOffers) {
+          for (const offer of promo?.promotionalOffers ?? []) {
+            const start = new Date(offer.startDate)
+            const end = new Date(offer.endDate)
+            if (now >= start && now <= end) {
+              isCurrent = true
+              endDate = offer.endDate
+              break
+            }
           }
+          if (isCurrent) break
         }
-        if (isCurrent) break
       }
 
-      // Check upcoming free offers
+      // Check upcoming free offers — two patterns:
+      // 1. Revealed game: discountPercentage === 100 and original > 0
+      // 2. Mystery game: originalPrice === 0, upcomingOffers with discountPercentage === 0 (Epic placeholder)
       if (!isCurrent) {
         for (const promo of upcomingOffers) {
           for (const offer of promo?.promotionalOffers ?? []) {
-            if (offer?.discountSetting?.discountPercentage === 100) {
+            const pct = offer?.discountSetting?.discountPercentage ?? -1
+            const isRevealedFree = pct === 100 && originalPrice > 0
+            const isMysteryFree = pct === 0 && originalPrice === 0 && discountPrice === 0
+            if (isRevealedFree || isMysteryFree) {
               startDate = offer.startDate
               endDate = offer.endDate
+              isMystery = isMysteryFree
               break
             }
           }
@@ -73,6 +78,9 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
         }
         if (!startDate) continue
       }
+
+      // Skip permanently free games (no upcoming offers)
+      if (originalPrice === 0 && !startDate) continue
 
       // Pick best image
       const images: { type: string; url: string }[] = el?.keyImages ?? []
@@ -92,9 +100,9 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
 
       games.push({
         id: el?.id ?? Math.random().toString(),
-        title: el?.title ?? '',
-        imageUrl,
-        storeUrl,
+        title: isMystery ? '???' : (el?.title ?? ''),
+        imageUrl: isMystery ? null : imageUrl,
+        storeUrl: isMystery ? 'https://store.epicgames.com/fr/free-games' : storeUrl,
         endDate,
         startDate,
         isCurrent,
@@ -112,29 +120,32 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
 
 async function fetchGOGFreeGames(): Promise<FreeGame[]> {
   try {
+    // Fetch discounted games and look for 100% off (giveaways: base > 0, final = 0)
     const res = await fetch(
-      'https://catalog.gog.com/v1/catalog?limit=12&price=between:0,0&discounted=true&order=desc:discountedToDate',
+      'https://catalog.gog.com/v1/catalog?limit=48&discountedOnly=true&order=desc:discount',
       { next: { revalidate: 3600 } }
     )
     if (!res.ok) return []
     const data = await res.json()
-    const products = data?.products ?? []
+    const products: Record<string, unknown>[] = data?.products ?? []
 
     return products
-      .filter((p: Record<string, unknown>) => {
-        const price = p?.price as Record<string, string> | undefined
-        const discount = parseInt(price?.discount ?? '0', 10)
-        return discount === 100
+      .filter((p) => {
+        const price = p?.price as Record<string, unknown> | undefined
+        const finalMoney = price?.finalMoney as Record<string, string> | undefined
+        const baseMoney = price?.baseMoney as Record<string, string> | undefined
+        const finalAmt = parseFloat(finalMoney?.amount ?? '999')
+        const baseAmt = parseFloat(baseMoney?.amount ?? '0')
+        // Giveaway: base price exists (paid game), final is 0
+        return finalAmt === 0 && baseAmt > 0
       })
-      .map((p: Record<string, unknown>) => {
+      .map((p) => {
         const cover = p?.coverHorizontal as string | undefined
         const imageUrl = cover
           ? cover.startsWith('//') ? `https:${cover}` : cover
           : null
         const storeLink = p?.storeLink as string | undefined
-        const storeUrl = storeLink
-          ? `https://www.gog.com${storeLink}`
-          : 'https://www.gog.com/games?priceRange=0,0&discounted=true'
+        const storeUrl = storeLink ?? 'https://www.gog.com/en/games?priceRange=0,0&discounted=true'
 
         return {
           id: String(p?.id ?? Math.random()),
