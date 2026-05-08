@@ -338,25 +338,22 @@ export default async function GratuitPage() {
         )}
       </section>
 
-      {/* GOG */}
-      <section>
-        <div className="mb-6 flex items-center gap-3">
-          <span className="block h-6 w-1 bg-brand" />
-          <h2 className="font-display text-xl font-black uppercase tracking-wide text-white">
-            {tg.gog_section}
-          </h2>
-        </div>
-
-        {gogGames.length === 0 ? (
-          <p className="py-8 text-sm text-ink-muted">{tg.no_games}</p>
-        ) : (
+      {/* GOG — hidden when no active giveaway */}
+      {gogGames.length > 0 && (
+        <section>
+          <div className="mb-6 flex items-center gap-3">
+            <span className="block h-6 w-1 bg-brand" />
+            <h2 className="font-display text-xl font-black uppercase tracking-wide text-white">
+              {tg.gog_section}
+            </h2>
+          </div>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {gogGames.map((game) => (
               <GameCard key={game.id} game={game} tg={tg} locale={locale} />
             ))}
           </div>
-        )}
-      </section>
+        </section>
+      )}
     </div>
   )
 }
