@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
+    // Images are already WebP — bypass /_next/image to avoid Vercel quota (402)
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -9,10 +11,6 @@ const nextConfig = {
         pathname: '/igdb/image/upload/**',
       },
     ],
-    // Cache optimized images for 7 days (default is 60s — way too short)
-    minimumCacheTTL: 604800,
-    // Only generate WebP, skip AVIF to reduce function duration
-    formats: ['image/webp'],
   },
   async headers() {
     return [
