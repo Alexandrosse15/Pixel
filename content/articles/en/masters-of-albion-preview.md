@@ -20,7 +20,7 @@ The creator of Populous, Black & White, Fable. The man who invented the god game
 
 This isn't just a new game. It's an attempt to answer a question he's been asking himself for years: can you still create something that's truly free?
 
-![Masters of Albion](/images/mastersofalbion/screenshot-1.jpg)
+![Masters of Albion](/images/mastersofalbion/screenshot-1.webp)
 
 ## What Masters of Albion Is
 
@@ -32,7 +32,7 @@ But what immediately distinguishes Masters of Albion from its predecessors is th
 
 ## The Divine Hand and the Player's Body
 
-![Masters of Albion, gameplay](/images/mastersofalbion/screenshot-2.jpg)
+![Masters of Albion, gameplay](/images/mastersofalbion/screenshot-2.webp)
 
 As in Molyneux's earlier games, you control the world from on high via a giant hand capable of moving villagers, placing buildings, and interacting directly with the environment. This hand is both your primary tool and your most immediate connection to the world you're shaping. It inherits everything Black & White introduced, with a fluidity and precision improved by two decades of technical progress.
 
@@ -44,7 +44,7 @@ On paper, it's vertiginous. The village you built stone by stone from the height
 
 ## The Day and Night Cycle as Fundamental Structure
 
-![Masters of Albion, village](/images/mastersofalbion/screenshot-3.jpg)
+![Masters of Albion, village](/images/mastersofalbion/screenshot-3.webp)
 
 The gameplay of Masters of Albion is organised around a central loop: the day and night cycle.
 
@@ -60,7 +60,7 @@ One of Molyneux's central arguments for Masters of Albion is freedom. No single 
 
 This freedom is real, and it's precious. It recalls what made Black & White so powerful in its time: the feeling that the world responds to your decisions in a way that's uniquely yours, that your island isn't someone else's, that your experience is singular.
 
-![Masters of Albion, panorama](/images/mastersofalbion/screenshot-4.jpg)
+![Masters of Albion, panorama](/images/mastersofalbion/screenshot-4.webp)
 
 But this freedom also raises serious questions. A game that wants to leave everything possible risks guiding nothing. A world that responds to everything can become unreadable. And emergent systems, as fascinating as they are in theory, can generate frustrating experiences if their coherence isn't perfectly controlled.
 
@@ -74,7 +74,7 @@ Some feedback from presentation sessions already evokes the impression of a game
 
 Games that try to cover too much ground often leave dark zones. Mechanics that feel incidental, systems that don't connect as smoothly as intended, depth that varies depending on how you approach things. And that's exactly what will need watching at launch.
 
-![Masters of Albion, night](/images/mastersofalbion/screenshot-5.jpg)
+![Masters of Albion, night](/images/mastersofalbion/screenshot-5.webp)
 
 ## The Weight of a Name
 

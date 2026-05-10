@@ -18,7 +18,7 @@ And then you notice the gacha. And inner peace takes a small hit.
 
 Heartopia is a free-to-play multiplayer life sim developed by XD Entertainment, available on PC, iOS and Android with full cross-play across all platforms. After a closed beta in December 2025, the game officially launched on January 7th 2026. And since then, it's been trying very hard to convince you that everything is fine.
 
-![Heartopia](/images/heartopia/screenshot-1.jpg)
+![Heartopia](/images/heartopia/screenshot-1.webp)
 
 ## What the game promises, and what it delivers
 
@@ -40,7 +40,7 @@ This is a deliberate choice. Heartopia is targeting an audience that wants to de
 
 The multiplayer is the real added value. Visiting a friend's house, co-building spaces together, attending mini-concerts organised in-game: the social side works, and if you're playing with people you know, the experience takes on a completely different dimension. Alone, the game runs dry quickly.
 
-![Heartopia, house](/images/heartopia/screenshot-2.jpg)
+![Heartopia, house](/images/heartopia/screenshot-2.webp)
 
 ## Since the beta: real improvements
 
@@ -62,7 +62,7 @@ The PC version also shows the marks of its mobile origins. The interface has bee
 
 Steam reviews hover around 60% positive at the time of testing. Not disastrous. Not glorious. An honest reflection of a game that does one thing correctly, does another less well, and leaves part of its audience behind.
 
-![Heartopia, pets](/images/heartopia/screenshot-3.jpg)
+![Heartopia, pets](/images/heartopia/screenshot-3.webp)
 
 ## Verdict
 

@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7
 image_color: "from-indigo-950 via-slate-950 to-zinc-950"
-coverImage: "/images/spacedrillingstation/screenshot-1.png"
+coverImage: "/images/spacedrillingstation/screenshot-1.webp"
 gameName: "Space Drilling Station"
 featured: false
 ---
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-2.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-2.webp)
 
 On paper, Space Drilling Station has nothing revolutionary going for it. You manage a space drilling station, extract resources, upgrade your equipment, push a little deeper each session. The kind of pitch you've read a hundred times in Steam's catalogue over the last five years. And yet, past the first hour, something catches. That quiet satisfaction of watching numbers rise, tunnels extend, unknown depths give way a little more with each descent.
 
@@ -25,7 +25,7 @@ Everything rests on a simple, well-calibrated cycle. Descend, drill, return. Bet
 
 What separates Space Drilling Station from a simple idle game is the presence of active management during descents. You're not just watching a progress bar fill. You're making real-time decisions: which ore vein to prioritise, how to manage drill heat, where to install energy relays to maintain the link with the surface. These decisions aren't complex, but they're present, and they give each session a sense of engagement a simple clicker wouldn't have.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-3.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-3.webp)
 
 ## What the game genuinely does well
 
@@ -35,7 +35,7 @@ This progression through strata is communicated visually with care. The game's a
 
 The station module system is also well thought through. You don't just unlock stat upgrades, you unlock new functions: a ground analyser that anticipates dangerous formations, a thermal recycler that captures drill heat to power secondary systems, a rare ore laboratory that opens a more advanced crafting branch. Each module slightly changes how you play, and the progression reads as a succession of small revolutions in the station's daily routine.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-4.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-4.webp)
 
 ## What holds it back
 
@@ -47,7 +47,7 @@ The interface is also a recurring point of friction. Station management menus ar
 
 The sound design, finally, is the weakest part of the production. Drilling sounds are fine, the surface space ambience too. But the music loops are short and repeat quickly, to the point where you often end up muting the game after an hour to put something else on. For a game designed for long, repetitive sessions, that's a gap that weighs more than it should.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-5.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-5.webp)
 
 ## Survival mode
 
@@ -55,7 +55,7 @@ Space Drilling Station offers a survival mode alongside the main campaign, where
 
 The constraint changes everything. When a drill breaks down 800 metres deep and you don't have the materials to fix it on site, decisions suddenly matter. Head back up and lose the session's progress, or improvise with what you have? Survival mode asks questions the main campaign carefully avoids, and it's hard not to wonder why that tension wasn't built into the base experience from the start.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-6.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-6.webp)
 
 ## The bottom line
 
@@ -65,7 +65,7 @@ The foundations are there: a satisfying progression loop, well-constructed verti
 
 These are fixable problems. And they don't erase what works. Space Drilling Station deserves its audience, and that audience will almost certainly spend far more hours in it than they planned. But it also deserves updates that take seriously what survival mode demonstrates: this game is capable of being demanding. It should remember that more often.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-7.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-7.webp)
 
 ## Verdict
 

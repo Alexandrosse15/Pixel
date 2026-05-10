@@ -7,7 +7,7 @@ date: "2026-05-04"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-amber-950 via-stone-950 to-zinc-950"
-coverImage: "/images/heroesmightandmagic/screenshot-1.png"
+coverImage: "/images/heroesmightandmagic/screenshot-1.webp"
 gameName: "Heroes of Might and Magic: Olden Era"
 score: 7.5
 featured: false
@@ -17,7 +17,7 @@ We played Heroes III to death. Really to death. Late nights on custom maps downl
 
 The question was: does it hold up?
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-2.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-2.webp)
 
 ## Unfrozen does what Ubisoft couldn't
 
@@ -25,7 +25,7 @@ Olden Era is developed by Unfrozen and published by Hooded Horse. Released in Ea
 
 This isn't a reboot. It isn't a Heroes VII with a new skin. It's a game built by people who played the old ones, who understand why they worked, and who decided to start from there rather than reinvent what didn't need reinventing. The similarities to Heroes III are striking: the strategic structure, the pacing, the way every decision on the adventure map carries real weight. You find your footing within minutes.
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-3.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-3.webp)
 
 ## What genuinely works
 
@@ -35,7 +35,7 @@ The combat skill system is smart: it forces trade-offs between unit types and pr
 
 Units are well designed, the roster keeps just the right amount of iconic creatures without leaning on them entirely. The game runs well, not a single crash. For an Early Access title, that's an achievement.
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-4.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-4.webp)
 
 ## What still needs work
 
@@ -47,7 +47,7 @@ The absence of war machines is something longtime players will notice immediatel
 
 These are real flaws. None of them are dealbreakers for an Early Access title, and the team has announced a year of additional development. The question is whether these points get addressed or quietly dropped.
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-5.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-5.webp)
 
 ## What it feels like to play this in 2026
 
@@ -55,11 +55,11 @@ There's a moment, fairly early in the game, where you recognise the sound of som
 
 This isn't a perfect return. It's an honest one, made by people who respect the source material and delivered something solid in Early Access. The road is still long, but the direction is right.
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-6.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-6.webp)
 
 ## The verdict
 
-![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-7.png)
+![Heroes of Might and Magic Olden Era](/images/heroesmightandmagic/screenshot-7.webp)
 
 Olden Era is the Heroes we've been waiting twenty years for, not quite finished yet but already good enough to matter. Unfrozen understood what the recent entries missed: the weight of every decision, the pleasure of the strategic map, the balance between building and combat. There's still work to do, and the Early Access label justifies that. But if you grew up with Heroes III, you're home.
 

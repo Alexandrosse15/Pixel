@@ -9,12 +9,12 @@ author: "Alexandrosse"
 readTime: "6 min"
 score: 7
 image_color: "from-red-950 via-rose-950 to-zinc-950"
-coverImage: "/images/vampirecrawler/screenshot-1.jpg"
+coverImage: "/images/vampirecrawler/screenshot-1.webp"
 gameName: "Vampire Crawlers"
 featured: false
 ---
 
-![Vampire Crawlers](/images/vampirecrawler/screenshot-2.jpg)
+![Vampire Crawlers](/images/vampirecrawler/screenshot-2.webp)
 
 Encore un deck builder. Slay the Spire a ouvert la boîte, Balatro l'a refermée sur nos doigts, et depuis, chaque semaine apporte son lot de nouvelles mécaniques de cartes à maîtriser. Le genre est saturé, c'est un fait. Ce qui rend d'autant plus surprenant que Vampire Crawlers arrive à exister dans cet espace sans donner l'impression de faire de la figuration.
 
@@ -32,7 +32,7 @@ La première personne dans un deck builder, c'est rare. Ce n'est pas un détail 
 
 Entre les runs, un hub de village permet de dépenser l'or accumulé pour débloquer des personnages, des bonus de statistiques, des emplacements de gemmes. La progression permanente est bien dosée, elle donne une direction sans court-circuiter la rejouabilité.
 
-![Vampire Crawlers](/images/vampirecrawler/screenshot-3.jpg)
+![Vampire Crawlers](/images/vampirecrawler/screenshot-3.webp)
 
 ## Les limites honnêtes
 

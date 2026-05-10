@@ -8,12 +8,12 @@ date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "12 min"
 image_color: "from-indigo-950 via-violet-950 to-slate-950"
-coverImage: "/images/stellaris/screenshot-1.png"
+coverImage: "/images/stellaris/screenshot-1.webp"
 gameName: "Stellaris"
 featured: true
 ---
 
-![Stellaris](/images/stellaris/screenshot-1.png)
+![Stellaris](/images/stellaris/screenshot-1.webp)
 
 Le 9 mai 2016, Paradox Interactive lançait Stellaris. Un jeu de stratégie spatiale 4X avec des ambitions démesurées, une profondeur mécanique qui prenait des centaines d'heures à explorer, et une promesse simple : construire ton propre empire parmi les étoiles et voir ce qui se passe. Dix ans plus tard, le jeu est toujours là, toujours en développement actif, et Paradox a décidé de marquer l'occasion d'une façon qui dit beaucoup, à la fois sur ce que le jeu est devenu et sur les erreurs que le studio a préféré corriger plutôt qu'ignorer.
 
@@ -21,7 +21,7 @@ Le 9 mai 2016, Paradox Interactive lançait Stellaris. Un jeu de stratégie spat
 
 C'est un geste de générosité réelle. C'est aussi, si on lit entre les lignes, une façon élégante de reconnaître que la barrière d'entrée dans Stellaris était devenue, au fil des années et des extensions, franchement absurde.
 
-![Stellaris](/images/stellaris/screenshot-2.png)
+![Stellaris](/images/stellaris/screenshot-2.webp)
 
 ## Ce que Paradox offre, et ce que ça change vraiment
 
@@ -37,7 +37,7 @@ Chez Paradox, il coûtait jusqu'à présent une dizaine d'euros. Ce qui semble p
 
 Intégrer ces trois-là au jeu de base ne règle pas le problème structurel. Mais ça signale que Paradox commence à comprendre que le modèle a ses limites.
 
-![Stellaris](/images/stellaris/screenshot-3.png)
+![Stellaris](/images/stellaris/screenshot-3.webp)
 
 ## Le problème que ce geste pointe sans le résoudre
 
@@ -51,7 +51,7 @@ L'intégration d'Utopia, Synthetic Dawn et Humanoids au jeu de base est une rép
 
 Ce que Paradox fait aujourd'hui est juste. Ce qu'ils auraient dû faire avant est un autre débat. Mais l'intention est bonne, et si elle se répète dans les années qui viennent, si d'autres DLC vieillissants rejoignent progressivement le jeu de base pendant que de nouvelles extensions continuent d'apporter du contenu frais, alors le modèle pourrait trouver un équilibre viable. C'est le voeu pieux.
 
-![Stellaris](/images/stellaris/screenshot-4.png)
+![Stellaris](/images/stellaris/screenshot-4.webp)
 
 ## Dix ans d'évolution : ce que Stellaris a gagné, ce qu'il a perdu
 
@@ -67,7 +67,7 @@ Ce genre de nostalgie dit quelque chose d'important sur ce qu'un jeu peut créer
 
 Ce niveau d'attachement, on ne l'achète pas avec des DLC. On le mérite en construisant quelque chose qui dure.
 
-![Stellaris](/images/stellaris/screenshot-5.png)
+![Stellaris](/images/stellaris/screenshot-5.webp)
 
 ## La communauté Stellaris : dix ans d'histoires émergentes
 

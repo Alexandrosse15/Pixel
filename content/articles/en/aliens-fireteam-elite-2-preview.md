@@ -11,7 +11,7 @@ gameName: "Aliens: Fireteam Elite 2"
 featured: false
 ---
 
-![Aliens: Fireteam Elite 2](/images/alienfirearmes/screenshot-1.png)
+![Aliens: Fireteam Elite 2](/images/alienfirearmes/screenshot-1.webp)
 
 Nobody really saw it coming. The first Aliens: Fireteam Elite had convinced those who found it in time, but sparse matchmaking and limited post-launch content eroded its playerbase faster than it deserved. The kind of game that has a loyal, enthusiastic community, but whose empty servers scared away latecomers.
 
@@ -25,7 +25,7 @@ Crossplay will be available from day one, fixing one of the most criticized mist
 
 On the content side: new Xenomorph types, new classes (including the Specialist, a fully customizable class that lets you mix and match abilities from any other class), and a confirmed Horde mode. That last point is particularly interesting: Horde mode was the part of the first game that offered the most replayability, and a Left 4 Dead-style AI director with dynamic spawns could give Fireteam Elite 2 the longevity its predecessor lacked.
 
-![Aliens: Fireteam Elite 2](/images/alienfirearmes/screenshot-2.png)
+![Aliens: Fireteam Elite 2](/images/alienfirearmes/screenshot-2.webp)
 
 ## What the community expects
 

@@ -20,7 +20,7 @@ Après des années d'absence, Nintendo relance une licence culte, étrange, parf
 
 Alors : est-ce que ça tient ?
 
-![Tomodachi Life](/images/tomodachi/screenshot-1.jpg)
+![Tomodachi Life](/images/tomodachi/screenshot-1.webp)
 
 ##  Une formule inchangée... pour le meilleur et pour le pire
 
@@ -36,7 +36,7 @@ Certains joueurs vont retrouver instantanément ce charme singulier que rien d'a
 
 ##  L'absurde comme moteur principal
 
-![Tomodachi Life, situations](/images/tomodachi/screenshot-2.jpg)
+![Tomodachi Life, situations](/images/tomodachi/screenshot-2.webp)
 
 Tomodachi Life ne fonctionne pas comme une simulation classique. Il ne cherche pas à être réaliste. Il ne cherche pas à être cohérent. Il cherche, avant tout, à être imprévisible.
 
@@ -62,7 +62,7 @@ Pour certains joueurs, c'est une vraie force : le jeu crée l'illusion d'une vie
 
 Pour d'autres, et c'est une critique tout aussi légitime, cette passivité finit par frustrer. On aimerait avoir plus de prise sur les événements, plus de capacité à orienter les relations, plus de contrôle sur la direction que prend l'île. On regarde, on sourit, et puis on referme la console avec cette petite sensation persistante qu'il manque quelque chose. Quelque chose de plus substantiel.
 
-![Tomodachi Life, île](/images/tomodachi/screenshot-3.jpg)
+![Tomodachi Life, île](/images/tomodachi/screenshot-3.webp)
 
 ##  Un rythme très particulier, qui ne convient pas à tout le monde
 
@@ -80,7 +80,7 @@ Et pourtant, quand ça fonctionne, quand le jeu décide de sortir quelque chose 
 
 ##  Une modernisation timide
 
-![Tomodachi Life, interface](/images/tomodachi/screenshot-4.jpg)
+![Tomodachi Life, interface](/images/tomodachi/screenshot-4.webp)
 
 Cette nouvelle version apporte quelques améliorations concrètes. L'interface est plus propre, plus lisible, plus agréable à naviguer. Certaines animations ont été légèrement retravaillées. Le rendu global bénéficie évidemment du passage sur une plateforme plus récente, et ça se voit.
 
@@ -102,7 +102,7 @@ Sans cette implication personnelle, le jeu peut sembler vide. Creux, même. Une 
 
 Avec cette implication, il devient attachant d'une façon difficile à expliquer à quelqu'un qui n'y a jamais joué. Parce que chaque île est unique. Chaque Mii est chargé d'une histoire que le jeu ne connaît pas mais que le joueur connaît parfaitement. Et c'est cette friction entre la réalité du joueur et l'absurde du jeu qui crée quelque chose de véritablement singulier.
 
-![Tomodachi Life, personnages](/images/tomodachi/screenshot-5.jpg)
+![Tomodachi Life, personnages](/images/tomodachi/screenshot-5.webp)
 
 ##  Un retour fidèle... peut-être trop
 

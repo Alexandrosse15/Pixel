@@ -7,12 +7,12 @@ date: "2026-04-25"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-violet-950 via-purple-950 to-zinc-950"
-coverImage: "/images/nebulae/screenshot-1.png"
+coverImage: "/images/nebulae/screenshot-1.webp"
 gameName: "Nebulae"
 featured: false
 ---
 
-![Nebulae](/images/nebulae/screenshot-1.png)
+![Nebulae](/images/nebulae/screenshot-1.webp)
 
 Il y a des jeux qui se jouent. Et il y a des jeux qui se vivent collectivement, dont le résultat dépend non pas de votre skill individuel mais de votre capacité à convaincre, négocier, trahir ou rallier des milliers d'inconnus autour d'un objectif commun.
 
@@ -24,7 +24,7 @@ Le concept central de Nebulae est aussi simple qu'il est brutal : une nébuleuse
 
 Parce que la nébuleuse ne se contente pas de progresser. Elle rebat constamment les cartes en réduisant les zones tampons entre nations, fragilisant les alliances qui semblaient stables et forçant des rapprochements improbables entre factions ennemies. La menace environnementale devient ainsi un moteur politique permanent. Tout le monde sait que la nébuleuse avance. Personne ne s'entend sur comment l'arrêter. Et c'est exactement là que Nebulae devient intéressant.
 
-![Nebulae](/images/nebulae/screenshot-2.png)
+![Nebulae](/images/nebulae/screenshot-2.webp)
 
 ## Gouverner, pas juste combattre
 
@@ -34,7 +34,7 @@ Les joueurs démarrent comme gouverneurs planétaires, sans niveau inférieur à
 
 Le système politique est l'un des points les plus ambitieux du projet. Trois régimes sont prévus au lancement : démocratie, monarchie, totalitarisme militariste. Neuf régimes supplémentaires sont planifiés : théocratie, républiques corporatistes, fédéralisme, tribalisme, autocratie, communisme. Mais ce qui distingue Nebulae d'un simple menu de sélection de faction, c'est que chaque régime est construit à partir de briques modulables que les joueurs peuvent réagencer. Il est donc possible de créer des régimes émergents qui n'existaient pas dans le design d'origine. Un résultat organique qui naît des choix des joueurs plutôt que des intentions des développeurs.
 
-![Nebulae](/images/nebulae/screenshot-3.png)
+![Nebulae](/images/nebulae/screenshot-3.webp)
 
 ## Le combat comme outil diplomatique
 
@@ -60,7 +60,7 @@ Sur le modèle économique : free-to-play sur mobile avec skins et récompenses 
 
 Une campagne Kickstarter est en cours. Si les objectifs ne sont pas atteints en fin de semaine, elle sera reportée à octobre. Les joueurs Android peuvent accéder à l'alpha dès maintenant sans attendre.
 
-![Nebulae](/images/nebulae/screenshot-4.png)
+![Nebulae](/images/nebulae/screenshot-4.webp)
 
 ## Ce qu'on attend
 

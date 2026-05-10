@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-blue-950 via-indigo-950 to-slate-950"
-coverImage: "/images/SAO/screenshot-1.jpg"
+coverImage: "/images/SAO/screenshot-1.webp"
 featured: false
 ---
 
@@ -15,7 +15,7 @@ Disclosure upfront: we like Sword Art Online at InsertCoins. Not ironically, not
 
 Which means we're following Sword Art Online: Echoes of Aincrad with considerably more than polite interest.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-2.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-2.webp)
 
 ## What we know
 
@@ -23,7 +23,7 @@ Announced in March 2026 by Bandai Namco, Echoes of Aincrad is set for July 10th 
 
 The major new feature is a series first: for the first time, you don't play as Kirito. You create your own character and experience an original story running parallel to the events of the original arc. That's a real narrative risk for a series whose historical protagonist is a central figure — but it's also the smartest decision Bandai Namco could have made to renew player investment.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-3.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-3.webp)
 
 Death Game Mode is the other announcement that caught our attention. Unlocked after completing the main game or via the Deluxe Edition, it introduces full permadeath: if your character dies, the save is deleted. In the world of SAO, a universe whose entire dramatic engine is built on virtual death, this is thematically coherent and mechanically bold.
 
@@ -33,13 +33,13 @@ A DLC expansion is also confirmed, scheduled before the end of 2026.
 
 The SAO franchise has an uneven game history. Lost Song was decent. Hollow Fragment was a solid introduction. Fractured Daydream, released in October 2024, was competent without being memorable.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-4.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-4.webp)
 
 But Hollow Realization, from 2016, remains for many the best SAO game to date. An ambitious open world, a combat system that finally found its rhythm, an atmosphere that captured something real from the source material. Echoes of Aincrad has to measure itself against that standard.
 
 Returning to floors 1 and 2 of Aincrad isn't a throwaway choice. It's a return to origins — to what made SAO hit so hard in the first place. Not the later arcs with their successive virtual worlds, but the original castle, the Death Game tension, the atmosphere that defined the series. For a fan of the manga and anime, this is exactly the terrain where you want a game to operate.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-5.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-5.webp)
 
 The custom character is also a genuinely interesting promise. Hollow Realization explored this direction. The possibility of no longer being a spectator to Kirito's story but an actor in a parallel narrative changes the relationship to the writing entirely.
 
@@ -47,7 +47,7 @@ The custom character is also a genuinely interesting promise. Hollow Realization
 
 We haven't played it. No public demo has been announced to date, no press access before release. What we know comes from the announcement trailer and Bandai Namco's official communications — which means we're talking about promises.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-6.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-6.webp)
 
 The SAO series has a habit of delivering games that are decent but don't fully follow through. Fractured Daydream was the most recent example: technically solid, narratively thin, forgotten quickly. A Death Game Mode with permadeath is a brilliant idea on paper that can become a frustrating punishment if the combat system doesn't hold up.
 
@@ -57,7 +57,7 @@ And the fact that Bandai Namco hasn't organised any public playable sessions six
 
 We'll be honest: we're probably buying Echoes of Aincrad on day one. Because we're fans of the universe, because the return to Aincrad genuinely interests us, because Death Game Mode is exactly the kind of creative bet that deserves to be supported.
 
-![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-7.jpg)
+![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-7.webp)
 
 None of which will stop us from telling you exactly what it's worth the moment we've played it.
 

@@ -35,11 +35,11 @@ Et il devient un produit.
 
 Pendant ce temps, regardez ce qui s'est passé ces deux dernières années du côté des jeux indépendants.
 
-![Balatro](/images/placeholder-balatro-1.jpg)
+![Balatro](/images/placeholder-balatro-1.webp)
 
 Balatro. Un jeu de cartes roguelite qui n'aurait dû intéresser personne, conçu par une seule personne, sorti sans bruit, et qui a fini dans les conversations de tout le monde pendant des mois. Pas parce qu'il était ambitieux graphiquement. Parce qu'il avait une idée. Une vraie. Tenue du début à la fin avec une précision chirurgicale.
 
-![Balatro, gameplay](/images/placeholder-balatro-2.jpg)
+![Balatro, gameplay](/images/placeholder-balatro-2.webp)
 
 Hades II. La suite d'un jeu qui avait déjà repoussé les limites du genre, qui continue à le faire, et qui traite ses joueurs comme des adultes capables d'apprécier une narration dense et un système de combat qui demande du temps pour être maîtrisé.
 
@@ -49,7 +49,7 @@ Ces jeux n'ont pas les mêmes budgets. Ils n'ont pas les mêmes équipes. Mais i
 
 ## Quand la direction artistique devient une arme
 
-![Hades II](/images/placeholder-hades-1.jpg)
+![Hades II](/images/placeholder-hades-1.webp)
 
 Prenons REPLACED. Un jeu qui impose immédiatement une identité visuelle qui n'appartient qu'à lui : pixel art ultra travaillé, ambiance cyberpunk maîtrisée, animations d'une fluidité rare. Dès les premières secondes, vous savez que vous êtes quelque part de précis. Aucun AAA ne prend ce type de risque aujourd'hui. Pas parce qu'ils ne pourraient pas, mais parce qu'ils ne veulent pas. Une direction artistique aussi tranchée, c'est clivant. Et clivant, c'est dangereux quand le budget est en jeu.
 
@@ -59,7 +59,7 @@ Les jeux indépendants n'ont pas le luxe d'être "sûrs". Ils doivent tenter. Il
 
 ## La fatigue du déjà-vu
 
-![Hades II, combat](/images/placeholder-hades-2.jpg)
+![Hades II, combat](/images/placeholder-hades-2.webp)
 
 Les joueurs commencent à le ressentir. Open worlds trop longs, mécaniques recyclées d'un épisode à l'autre, progressions artificiellement étirées pour justifier le prix. Le plaisir laisse progressivement place à une sensation étrange : celle d'avoir déjà fait ça. Plusieurs fois.
 
@@ -73,7 +73,7 @@ Il faut être honnête : les jeux indé ne sont pas parfaits. Le manque de moyen
 
 Mais l'imperfection n'est pas la même chose que l'absence de vie. Un jeu peut être techniquement en deçà et intellectuellement au-dessus. Un jeu peut manquer de polish et avoir une idée forte. Un jeu peut sembler limité sur le papier et vous marquer durablement dans les faits.
 
-![REPLACED, direction artistique](/images/placeholder-replaced.jpg)
+![REPLACED, direction artistique](/images/placeholder-replaced.webp)
 
 Ce que beaucoup de AAA ont perdu, et que les indés gardent encore, c'est la sensation qu'il y a quelqu'un derrière le jeu. Un point de vue. Une obsession. Une raison d'exister qui va au-delà de la case à cocher sur une feuille de roadmap.
 
@@ -87,7 +87,7 @@ Les jeux les plus discutés, les plus recommandés, les plus cités quand on par
 
 ## Une question d'attente
 
-![Mouse: P.I. For Hire](/images/placeholder-mouse.jpg)
+![Mouse: P.I. For Hire](/images/placeholder-mouse.webp)
 
 Le jeu vidéo n'a jamais été aussi riche. Jamais autant de titres, jamais autant de diversité, jamais autant d'espaces différents pour des expériences différentes. C'est une bonne nouvelle.
 

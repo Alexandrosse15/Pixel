@@ -14,7 +14,7 @@ featured: false
 
 Il a fallu dix ans. Dix ans, des milliers de patches, un rebranding et une mise à jour XXL pour que Rainbow Six Siege devienne enfin le jeu qu'Ubisoft nous avait promis en 2015. C'est long. C'est aussi, quelque part, un peu beau.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-1.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-1.webp)
 
 ## Le passé qu'on préfère oublier
 
@@ -24,7 +24,7 @@ Et Siege n'était pas seul dans cette galère. Son petit frère sorti deux ans p
 
 Ce n'est qu'à partir de l'Opération Health en 2017 qu'Ubisoft a commencé à migrer progressivement Siege vers des serveurs dédiés, en commençant par les parties classées et les parties personnalisées. Le mode Chasse aux Terroristes, lui, a attendu encore un peu. Parce que pourquoi se presser.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-2.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-2.webp)
 
 ## Siege X : la refonte que personne n'osait espérer
 
@@ -38,7 +38,7 @@ Côté gameplay, il est désormais possible de courir sur les murs ou de se dép
 
 Et le crossplay ? Ubisoft a enfin implémenté le crossplay entre console et PC, permettant aux joueurs de faire équipe peu importe leur plateforme. Seulement dix ans après la sortie. On applaudit le courage, vraiment.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-3.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-3.webp)
 
 ## La scène esport : enfin une vraie structure
 
@@ -50,7 +50,7 @@ Les Challenger Series 2026 créent enfin un vrai tremplin entre le ranked et la 
 
 Côté transferts, le mercato a bougé. Shaiiko quitte Team Falcons pour rejoindre G2 Esports. Team BDS change de nom pour devenir Shifters. Le prochain grand rendez-vous est le Major de Salt Lake City, prévu du 7 au 17 mai, avec quatre slots européens en jeu.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-4.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-4.webp)
 
 ## Ce que ça dit d'Ubisoft
 

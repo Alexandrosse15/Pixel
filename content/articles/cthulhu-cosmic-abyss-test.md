@@ -22,7 +22,7 @@ Il y a des jeux d'horreur qui misent sur les sursauts. D'autres sur la tension. 
 
 La question, comme toujours, c'est de savoir si l'intention suffit.
 
-![Cthulhu: The Cosmic Abyss](/images/cthulhu/screenshot-1.jpg)
+![Cthulhu: The Cosmic Abyss](/images/cthulhu/screenshot-1.webp)
 
 ##  Une ambiance qui écrase plus qu'elle n'effraie
 
@@ -36,7 +36,7 @@ Mais cette approche a aussi ses limites, et elles sont réelles. Le rythme est e
 
 ##  Une narration fidèle à Lovecraft… mais exigeante
 
-![Cthulhu: The Cosmic Abyss, exploration](/images/cthulhu/screenshot-2.jpg)
+![Cthulhu: The Cosmic Abyss, exploration](/images/cthulhu/screenshot-2.webp)
 
 Le jeu propose une enquête, mais pas au sens classique du terme. On n'est pas guidé. On explore, on lit, on observe, on assemble des fragments. Il faut prêter attention aux détails, comprendre sans être pris par la main, et accepter de ne pas tout saisir immédiatement. Parfois jamais.
 
@@ -50,7 +50,7 @@ La structure de jeu repose sur des bases simples : exploration, interaction avec
 
 Le problème, c'est que ces mécaniques restent limitées et peinent à évoluer. Les interactions sont souvent répétitives. Les puzzles manquent de variété. Et quand le jeu n'a pas de nouvelle carte atmosphérique à abattre, ce vide mécanique devient perceptible. L'ambiance porte l'expérience sur ses épaules, et elle y parvient la plupart du temps. Mais elle n'est pas infaillible. Et quand elle faiblit, le gameplay ne prend pas le relais.
 
-![Cthulhu: The Cosmic Abyss, environnement](/images/cthulhu/screenshot-3.jpg)
+![Cthulhu: The Cosmic Abyss, environnement](/images/cthulhu/screenshot-3.webp)
 
 ##  L'horreur de l'invisible
 
@@ -62,7 +62,7 @@ Mais là encore, l'équilibre est fragile. Trop de retenue finit par frustrer. C
 
 ##  Une réalisation solide mais inégale
 
-![Cthulhu: The Cosmic Abyss, atmosphère](/images/cthulhu/screenshot-4.jpg)
+![Cthulhu: The Cosmic Abyss, atmosphère](/images/cthulhu/screenshot-4.webp)
 
 Techniquement, le jeu s'en sort bien. La direction artistique est cohérente, construite autour d'une palette sombre et d'environnements aquatiques oppressants qui servent parfaitement le propos. Le design sonore est remarquable : les ambiances sonores constituent probablement la réussite la plus homogène du titre, et elles contribuent largement à l'efficacité de l'ensemble.
 
@@ -76,7 +76,7 @@ Ce n'est pas un jeu qu'on consomme. C'est un jeu qu'on endure ou qu'on savoure, 
 
 Pour les autres, pour ceux qui sont prêts à se laisser engoutir sans garantie de retour, il peut devenir quelque chose de marquant. Pas spectaculaire. Pas mémorable au sens traditionnel du terme. Mais persistant, comme un rêve dont on ne se souvient pas exactement mais dont on garde une impression longtemps après le réveil.
 
-![Cthulhu: The Cosmic Abyss, créature](/images/cthulhu/screenshot-5.jpg)
+![Cthulhu: The Cosmic Abyss, créature](/images/cthulhu/screenshot-5.webp)
 
 ##  Verdict
 

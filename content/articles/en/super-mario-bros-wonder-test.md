@@ -12,7 +12,7 @@ gameName: "Super Mario Bros. Wonder"
 featured: false
 ---
 
-![Super Mario Bros. Wonder](/images/mario/screenshot-1.jpg)
+![Super Mario Bros. Wonder](/images/mario/screenshot-1.webp)
 
 After years of very safe "New Super Mario Bros." entries, Wonder arrives like a breath of fresh air. The foundation stays classic: run, jump, reach the flag. But every level introduces a strong idea. The game isn't content to be solid, it's constantly inventive. Where other entries recycled their mechanics, this one looks to surprise at every turn.
 
@@ -20,7 +20,7 @@ After years of very safe "New Super Mario Bros." entries, Wonder arrives like a 
 
 The heart of the game is the famous Wonder Flowers.
 
-![Wonder Flowers](/images/mario/screenshot-2.jpg)
+![Wonder Flowers](/images/mario/screenshot-2.webp)
 
 They completely transform levels: pipes that come alive, inverted gravity, gameplay that suddenly shifts, absurd or unexpected transformations. This system creates a permanent sense of surprise. You never know what's about to happen, and that's precisely what makes the adventure so memorable.
 
@@ -28,7 +28,7 @@ Nintendo clearly gave its teams free rein to design these sequences. The result:
 
 ## Fun Powers and a Clever Badge System
 
-![Elephant Mario](/images/mario/screenshot-3.jpg)
+![Elephant Mario](/images/mario/screenshot-3.webp)
 
 The new transformations land well, especially Elephant Mario, powerful and a little burlesque, and the bubbles, very handy for attacking at range. But the real twist is the **badge system**. It lets you customize your playstyle: improved jump, grapple hook, special abilities. It adds a welcome strategic layer without needlessly complicating the experience.
 
@@ -36,7 +36,7 @@ Badges can be swapped freely between levels, which encourages experimentation. S
 
 ## Accessible and Smart Multiplayer
 
-![Multiplayer](/images/mario/screenshot-4.jpg)
+![Multiplayer](/images/mario/screenshot-4.webp)
 
 The game also shines in co-op. Up to 4 players locally, a simple and smooth resurrection system, less frustration than in older Mario games. The online mode is more original than it appears: you don't play directly together, but the presence of others, as ghosts and helpers, gives a rather unique sense of community.
 
@@ -44,7 +44,7 @@ It was a smart call not to go for traditional online multiplayer. Wonder's level
 
 ## An Ultra-Expressive Art Direction
 
-![Art direction](/images/mario/screenshot-5.jpg)
+![Art direction](/images/mario/screenshot-5.webp)
 
 Visually, Wonder is a real treat. Exaggerated, lively animations, highly expressive characters, colorful and readable levels. The game overflows with personality. Even Mario feels more alive than ever, with reactions and expressions that are almost cartoon-like.
 

@@ -16,7 +16,7 @@ Some games you test while wondering why they have so many players. And there are
 
 Windrose is the second kind. Developed by Kraken Express, released in early access on PC on April 14th 2026 at €26.99, the game arrived with a peak of 113,930 concurrent players and 89% positive reviews on Steam. This isn't a hype phenomenon. It's a game that delivers on its promises.
 
-![Windrose](/images/windrose/screenshot-6.jpg)
+![Windrose](/images/windrose/screenshot-6.webp)
 
 ## Gameplay: the ship first, everything else second
 
@@ -30,7 +30,7 @@ Naval combat follows the same logic. Positioning your cannons, managing the firi
 
 Ship customisation runs deep. Hull, sails, cannons, onboard equipment: your vessel evolves with you, visually and mechanically. After ten hours, your ship looks nothing like the one you started with, and that organic progression is one of the best things the game offers.
 
-![Windrose naval combat](/images/windrose/screenshot-7.jpg)
+![Windrose naval combat](/images/windrose/screenshot-7.webp)
 
 ## The world: 90 points of interest to find without being led by the hand
 
@@ -54,7 +54,7 @@ That's not trivial. Studios that go quiet in the face of launch issues exist. Kr
 
 The full roadmap hasn't been published yet, but the studio confirmed they want to consolidate first-weeks feedback before communicating on what comes next. New biomes, additional ships, bosses, narrative content: the broad strokes are known, details are coming.
 
-![Windrose exploration](/images/windrose/screenshot-8.jpg)
+![Windrose exploration](/images/windrose/screenshot-8.webp)
 
 ## What still needs fixing
 
@@ -76,7 +76,7 @@ The soundtrack follows the same logic: adventure themes that step back when need
 
 Co-op for up to 4 players, once the launch connectivity issues were resolved, is an excellent way to play. Dividing roles on the ship, coordinating a boarding action, navigating a storm together: the multiplayer experience is clearly one of the game's strengths, and Kraken Express was right to make it a priority.
 
-![Windrose co-op](/images/windrose/screenshot-9.jpg)
+![Windrose co-op](/images/windrose/screenshot-9.webp)
 
 ## Verdict
 

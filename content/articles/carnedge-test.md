@@ -9,7 +9,7 @@ author: "Alexandrosse"
 readTime: "9 min"
 score: 7
 image_color: "from-zinc-950 via-stone-950 to-red-950"
-coverImage: "/images/carnedge/screenshot-1.jpg"
+coverImage: "/images/carnedge/screenshot-1.webp"
 featured: false
 ---
 
@@ -25,7 +25,7 @@ La mécanique centrale est un mariage entre deckbuilding et auto-battle RPG. Vou
 
 C'est une distinction importante. CARNEDGE demande de la réflexion avant le combat, pas pendant. Si votre deck est mal construit, vous mourrez. Si votre synergie est solide, vous regarderez vos cartes détruire des boss avec une satisfaction qui n'appartient qu'aux bons deckbuilders.
 
-![CARNEDGE](/images/carnedge/screenshot-2.jpg)
+![CARNEDGE](/images/carnedge/screenshot-2.webp)
 
 ## Ce qui fonctionne
 
@@ -35,7 +35,7 @@ La structure de pèlerinage — chaque run comme une avancée à travers un mond
 
 Les synergies de cartes sont le coeur du jeu, et c'est là qu'OneShark a clairement mis ses dix ans. Il y a de la profondeur ici. Des combinaisons qui surprennent, des builds qui semblent impossibles jusqu'à ce qu'ils fonctionnent, une variété qui donne envie de recommencer différemment. Un bon deckbuilder vous fait vouloir explorer toutes les possibilités. CARNEDGE fait ça.
 
-![CARNEDGE](/images/carnedge/screenshot-3.jpg)
+![CARNEDGE](/images/carnedge/screenshot-3.webp)
 
 ## Ce qui résiste
 
@@ -45,7 +45,7 @@ Les bugs d'interface rapportés à la sortie sont réels. Rien de bloquant dans 
 
 La narration est esquissée plus que développée. L'univers est là, l'atmosphère est là, mais l'histoire ne creuse pas autant qu'elle le pourrait. Pour un jeu dont la prémisse — porter une flamme éternelle à travers un monde mourant — a tout pour être portée par un récit fort, c'est une occasion partiellement manquée.
 
-![CARNEDGE](/images/carnedge/screenshot-4.jpg)
+![CARNEDGE](/images/carnedge/screenshot-4.webp)
 
 ## Dix ans, trois personnes
 
@@ -63,7 +63,7 @@ CARNEDGE n'est pas un jeu parfait. Il a des angles rough, une interface qui pour
 
 Le jeu en dessous mérite mieux.
 
-![CARNEDGE](/images/carnedge/screenshot-5.jpg)
+![CARNEDGE](/images/carnedge/screenshot-5.webp)
 
 **Points forts :**
 

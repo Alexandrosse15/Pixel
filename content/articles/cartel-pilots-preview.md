@@ -8,7 +8,7 @@ date: "2026-04-19"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-emerald-950 via-teal-900 to-amber-950"
-coverImage: "/images/cartelpiloits/screenshot-1.jpg"
+coverImage: "/images/cartelpiloits/screenshot-1.webp"
 featured: false
 ---
 
@@ -16,7 +16,7 @@ On va être transparents dès le départ : on n'a pas joué à Cartel Pilots Wan
 
 Cette réaction, c'est de la nostalgie. Une nostalgie précise, datée, et parfaitement identifiable.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-2.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-2.webp)
 
 ## Ce que le trailer réveille
 
@@ -30,7 +30,7 @@ Cartel Pilots Wanted n'est pas Far Cry. Ce n'est pas un FPS, c'est un simulateur
 
 On essaie quand même.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-3.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-3.webp)
 
 ## Ce qu'on sait objectivement
 
@@ -40,7 +40,7 @@ La physique de vol est annoncée comme accessible, pas comme une simulation hard
 
 La météo dynamique, les îles cachées, la gestion du hangar : le jeu semble vouloir construire une boucle de progression qui mêle l'exploration libre et la gestion de ressources. C'est ambitieux pour un studio indie, et c'est exactement ce genre d'ambition qu'on surveille de près — parce qu'elle peut donner naissance à quelque chose d'exceptionnel ou s'épuiser avant la sortie.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.webp)
 
 ## Ce qui nous retient
 
@@ -50,7 +50,7 @@ Un trailer soigné et une page Steam bien écrite ne font pas un bon jeu. La phy
 
 Ce sont les questions auxquelles seul le jeu complet peut répondre. OldYacht n'a pas encore annoncé de date de sortie. Le jeu est en phase de développement active, avec une application de playtest sur Steam qui suggère que des tests ont eu lieu, mais aucune session publique ouverte à notre connaissance.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-5.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-5.webp)
 
 ## On est là
 
@@ -58,11 +58,11 @@ Ce qui est certain, c'est que Cartel Pilots Wanted a réussi quelque chose de ra
 
 Ce n'est pas une garantie de qualité. C'est une promesse, et les promesses se testent.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-6.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-6.webp)
 
 On sera là quand ce sera jouable.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-7.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-7.webp)
 
 ---
 

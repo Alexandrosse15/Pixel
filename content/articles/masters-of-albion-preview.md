@@ -21,7 +21,7 @@ Le créateur de Populous, de Black & White, de Fable. L'homme qui a inventé le 
 
 Ce n'est pas seulement un nouveau jeu. C'est une tentative de répondre à une question qu'il se pose depuis des années : peut-on encore créer quelque chose de vraiment libre ?
 
-![Masters of Albion](/images/mastersofalbion/screenshot-1.jpg)
+![Masters of Albion](/images/mastersofalbion/screenshot-1.webp)
 
 ## Ce qu'est Masters of Albion
 
@@ -33,7 +33,7 @@ Mais ce qui distingue immédiatement Masters of Albion de ses prédécesseurs, c
 
 ## La main divine et le corps du joueur
 
-![Masters of Albion, gameplay](/images/mastersofalbion/screenshot-2.jpg)
+![Masters of Albion, gameplay](/images/mastersofalbion/screenshot-2.webp)
 
 Comme dans les anciens jeux de Molyneux, vous contrôlez le monde depuis les hauteurs, via une main géante capable de déplacer des villageois, de poser des bâtiments, d'interagir directement avec l'environnement. Cette main est à la fois votre outil principal et votre lien le plus immédiat avec le monde que vous façonnez. Elle hérite de tout ce que Black & White avait introduit, avec une fluidité et une précision améliorées par deux décennies de progrès technique.
 
@@ -45,7 +45,7 @@ Sur le papier, c'est vertigineux. Votre village, que vous avez construit pierre 
 
 ## Le cycle jour et nuit comme structure fondamentale
 
-![Masters of Albion, village](/images/mastersofalbion/screenshot-3.jpg)
+![Masters of Albion, village](/images/mastersofalbion/screenshot-3.webp)
 
 Le gameplay de Masters of Albion s'organise autour d'une boucle centrale : le cycle jour et nuit.
 
@@ -61,7 +61,7 @@ L'un des arguments centraux de Molyneux pour Masters of Albion, c'est la libert�
 
 Cette liberté est réelle, et elle est précieuse. Elle rappelle ce qui avait fait la force de Black & White à son époque : le sentiment que le monde réagit à vos décisions d'une façon qui vous appartient, que votre île n'est pas celle d'un autre joueur, que votre expérience est unique.
 
-![Masters of Albion, panorama](/images/mastersofalbion/screenshot-4.jpg)
+![Masters of Albion, panorama](/images/mastersofalbion/screenshot-4.webp)
 
 Mais cette liberté soulève aussi des questions sérieuses. Un jeu qui veut tout laisser possible risque de ne rien vraiment guider. Un monde qui réagit à tout peut manquer de lisibilité. Et des systèmes émergents, aussi fascinants soient-ils en théorie, peuvent générer des expériences frustrantes si leur cohérence n'est pas parfaitement maîtrisée.
 
@@ -75,7 +75,7 @@ Certains retours de sessions de présentation évoquent déjà l'impression d'un
 
 Les jeux qui tentent de couvrir trop de terrain finissent souvent par laisser des zones d'ombre. Des mécaniques qui semblent anecdotiques, des systèmes qui ne s'articulent pas aussi bien que prévu, une profondeur inégale selon les angles d'approche. Et c'est exactement ce qu'il faudra surveiller à la sortie.
 
-![Masters of Albion, nuit](/images/mastersofalbion/screenshot-5.jpg)
+![Masters of Albion, nuit](/images/mastersofalbion/screenshot-5.webp)
 
 ## Le poids du nom
 

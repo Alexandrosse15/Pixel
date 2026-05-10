@@ -8,7 +8,7 @@ date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-red-950 via-yellow-950 to-orange-950"
-coverImage: "/images/mario/screenshot-1.jpg"
+coverImage: "/images/mario/screenshot-1.webp"
 featured: false
 ---
 
@@ -16,7 +16,7 @@ Il y a des licences qui n'auraient jamais dû finir au cinéma. Et puis il y a M
 
 Avec la sortie du nouveau film, l'occasion est trop belle de revenir sur toute cette histoire. Parce qu'entre le délire live-action de 1993, le triomphe d'animation de 2023, et ce nouveau chapitre, il y a en fait une cohérence inattendue. Celle d'une franchise qui ne sait pas vraiment ce qu'elle est au cinéma et qui, précisément pour ça, reste fascinante.
 
-![Mario au cinéma](/images/mario/screenshot-1.jpg)
+![Mario au cinéma](/images/mario/screenshot-1.webp)
 
 ## 1993 : le film qu'on n'aurait pas dû aimer
 
@@ -28,7 +28,7 @@ Ce film respire les années 90 d'une façon qui est devenue, avec le temps, pres
 
 On l'aime pour ça. On l'aime peut-être même plus pour ça que pour ce qu'il prétendait être.
 
-![Super Mario Bros. 1993](/images/mario/screenshot-2.jpg)
+![Super Mario Bros. 1993](/images/mario/screenshot-2.webp)
 
 ## 2023 : quand Mario apprend enfin à être Mario
 
@@ -40,7 +40,7 @@ Le film a cartonné. Logiquement. Parce qu'il avait compris que Mario au cinéma
 
 ## 2026 : le nouveau chapitre
 
-![Le nouveau film Mario](/images/mario/screenshot-3.jpg)
+![Le nouveau film Mario](/images/mario/screenshot-3.webp)
 
 Avec ce nouveau film, la question était simple : maintenant que la formule fonctionne, est-ce qu'on va en faire quelque chose, ou est-ce qu'on va juste la répéter ?
 
@@ -48,7 +48,7 @@ La réponse est quelque part entre les deux. Le film assume clairement sa filiat
 
 Ce n'est pas une révolution. C'est une confirmation. Mario est maintenant une franchise cinématographique qui sait ce qu'elle est, qui assume ses forces, et qui commence à travailler ses faiblesses. Pour une licence qui a failli rater son entrée dans la cour des grands, c'est déjà beaucoup.
 
-![Mario, univers](/images/mario/screenshot-4.jpg)
+![Mario, univers](/images/mario/screenshot-4.webp)
 
 ## Ce que les trois films nous disent de Mario
 
@@ -68,9 +68,9 @@ Cette odeur des années 90. Cette façon de faire du cinéma sans filet de sécu
 
 Dans vingt ans, on regardera encore ce Bowser en costume-cravate avec la même tendresse incrédule. Et quelque part, c'est une forme d'immortalité que les films trop bien calibrés n'obtiennent jamais.
 
-![Super Mario Bros., 1993, culte](/images/mario/screenshot-5.jpg)
+![Super Mario Bros., 1993, culte](/images/mario/screenshot-5.webp)
 
-![Mario, nostalgie](/images/mario/screenshot-6.jpg)
+![Mario, nostalgie](/images/mario/screenshot-6.webp)
 
 ## Verdict
 
@@ -80,7 +80,7 @@ Le premier est un accident de parcours devenu culte, un artefact des années 90 
 
 On a aimé les trois, pour des raisons différentes. Et on espère qu'il y en aura un quatrième.
 
-![Mario](/images/mario/screenshot-7.jpg)
+![Mario](/images/mario/screenshot-7.webp)
 
 ---
 

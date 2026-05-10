@@ -11,7 +11,7 @@ gameName: "Sudden Strike 5"
 featured: false
 ---
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-1.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-1.webp)
 
 Sudden Strike 5 est sorti le 23 avril 2026. Deux semaines et des critiques mitigées plus tard, l'équipe de développement publie sa roadmap pour le reste de l'année. C'est le genre de communication qu'on apprécie : plutôt que d'attendre que la frustration monte, ils posent les cartes sur la table.
 
@@ -27,7 +27,7 @@ Quatre axes annoncés pour 2026, sans dates précises :
 
 **Éditeur de scénarios** : création de contenu par les joueurs, personnalisation et partage. Pour un RTS historique dont la longévité repose sur la variété des maps, c'est potentiellement le point le plus important à long terme.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-2.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-2.webp)
 
 ## Ce que la communauté en pense
 
@@ -37,7 +37,7 @@ Les critiques les plus récurrentes au lancement : l'absence de tutoriel (sévè
 
 Ce qui convainc : les performances sont bonnes, même sur des configurations modestes. La difficulté est présente sans être punitive. Et pour ceux qui cherchaient le feeling Blitzkrieg ou les premiers Sudden Strike, le jeu livre en grande partie ce qu'il promet.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-3.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-3.webp)
 
 ## Pourquoi la roadmap est la bonne réponse
 
@@ -45,7 +45,7 @@ Le problème principal de Sudden Strike 5 au lancement n'est pas la qualité de 
 
 La question qui reste entière : les délais. "Dans les mois qui viennent" est vague. Si le patch QoL arrive dans les deux à trois semaines (comme le studio l'avait fait avec Holy Zeppelin pour SS4, quarante jours après la sortie), ça enverrait un signal fort. Si les joueurs PS5 continuent de subir des crashs pendant deux mois, la roadmap sonnera creux.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-4.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-4.webp)
 
 ## Notre position
 
@@ -53,11 +53,11 @@ Sudden Strike 5 est un RTS honnête dans un genre qui manque de représentants. 
 
 La roadmap dit les bonnes choses. L'éditeur de scénarios en particulier, s'il est bien implémenté, peut transformer un jeu à durée de vie limitée en quelque chose de beaucoup plus durable. On surveille les délais.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-5.webp)
 
 Sudden Strike 5 est disponible sur PC, Xbox Series X/S et PS5.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-6.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-6.webp)
 
 ---
 

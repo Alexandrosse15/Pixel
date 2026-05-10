@@ -20,7 +20,7 @@ From the very first minutes, you understand you're facing something exceptional.
 
 At InsertCoins, we don't reach for that word lightly. But this time, it's earned.
 
-![Tides of Tomorrow](/images/tides/screenshot-1.jpg)
+![Tides of Tomorrow](/images/tides/screenshot-1.webp)
 
 ## Seeing Another Player's Run as a Premonition
 
@@ -32,7 +32,7 @@ And that's where everything shifts. Because this mechanic completely changes the
 
 ## An Idea That Reinvents Multiplayer
 
-![Tides of Tomorrow, ocean](/images/tides/screenshot-2.jpg)
+![Tides of Tomorrow, ocean](/images/tides/screenshot-2.webp)
 
 Where gaming has offered the same forms of player interaction for years, cooperative, competitive, classic asynchronous, Tides of Tomorrow takes a different path. One that nobody had truly walked before.
 
@@ -46,7 +46,7 @@ Seeing someone flee a location can mean there's danger there. Or that they misse
 
 What makes Tides of Tomorrow remarkable is that this ambiguity never frustrates. It stimulates. It engages. It pushes you to observe, to analyse, to decide with a sharp awareness that others were here before you, and that others will come after. It's a mechanic built with rare precision and intelligence, one that could have collapsed into vagueness or confusion, and that instead imposes itself as self-evident from the very first minutes.
 
-![Tides of Tomorrow, vision](/images/tides/screenshot-3.jpg)
+![Tides of Tomorrow, vision](/images/tides/screenshot-3.webp)
 
 You sense years of thinking behind this, years of prototyping, of refusing the easy path. This isn't an idea someone had one morning and put straight into production. This is an idea someone held onto until the very end.
 
@@ -58,7 +58,7 @@ The sound design, first of all, is a total success. In this game, sound doesn't 
 
 This is the level of attention to detail of a studio that leaves nothing to chance. And it shows.
 
-![Tides of Tomorrow, atmosphere](/images/tides/screenshot-4.jpg)
+![Tides of Tomorrow, atmosphere](/images/tides/screenshot-4.webp)
 
 ## Why Tides of Tomorrow Is One of the Most Important Games Right Now
 

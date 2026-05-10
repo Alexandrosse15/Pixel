@@ -7,12 +7,12 @@ date: "2026-04-25"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-violet-950 via-purple-950 to-zinc-950"
-coverImage: "/images/nebulae/screenshot-1.png"
+coverImage: "/images/nebulae/screenshot-1.webp"
 gameName: "Nebulae"
 featured: false
 ---
 
-![Nebulae](/images/nebulae/screenshot-1.png)
+![Nebulae](/images/nebulae/screenshot-1.webp)
 
 Some games are played. Others are lived collectively, their outcome depending not on individual skill but on your ability to convince, negotiate, betray, or rally thousands of strangers around a common goal.
 
@@ -24,7 +24,7 @@ The central concept of Nebulae is as simple as it is brutal: a nebula spreads th
 
 Because the nebula doesn't just advance. It constantly reshuffles the deck by shrinking the buffer zones between nations, destabilising alliances that seemed solid, and forcing unlikely rapprochements between enemy factions. The environmental threat becomes a permanent political engine. Everyone knows the nebula is advancing. Nobody agrees on how to stop it. And that's exactly where Nebulae becomes interesting.
 
-![Nebulae](/images/nebulae/screenshot-2.png)
+![Nebulae](/images/nebulae/screenshot-2.webp)
 
 ## Govern, not just fight
 
@@ -34,7 +34,7 @@ Players start as planetary governors, no lower levels to unlock, no condescendin
 
 The political system is one of the most ambitious elements of the project. Three regimes are planned at launch: democracy, monarchy, militarist totalitarianism. Nine more are on the roadmap: theocracy, corporate republics, federalism, tribalism, autocracy, communism. But what sets Nebulae apart from a simple faction selection screen is that each regime is built from modular components that players can rearrange. Emergent regimes that didn't exist in the original design can therefore appear. An organic outcome that grows from player choices rather than developer intent.
 
-![Nebulae](/images/nebulae/screenshot-3.png)
+![Nebulae](/images/nebulae/screenshot-3.webp)
 
 ## Combat as a diplomatic tool
 
@@ -60,7 +60,7 @@ On the business model: free-to-play on mobile with skins and cosmetic rewards, P
 
 A Kickstarter campaign is currently live. If targets aren't met by end of week, it will be pushed to October. Android players can access the alpha right now without waiting.
 
-![Nebulae](/images/nebulae/screenshot-4.png)
+![Nebulae](/images/nebulae/screenshot-4.webp)
 
 ## What we're watching for
 

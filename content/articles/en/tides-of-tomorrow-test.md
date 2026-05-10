@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7.5
 image_color: "from-cyan-950 via-teal-950 to-slate-950"
-coverImage: "/images/tidesoftomorrow/screenshot-1.jpg"
+coverImage: "/images/tidesoftomorrow/screenshot-1.webp"
 gameName: "Tides of Tomorrow"
 featured: false
 ---
 
-![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-2.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-2.webp)
 
 There's a scene in Waterworld where Kevin Costner finally reaches the Atoll. Dry land might not exist. Eden might be a lie. But people believe in it, and that's why they keep going. In Mad Max Fury Road, the Green Place is already gone. Furiosa has known this from the start. And yet we run toward it, because we can't do otherwise.
 
@@ -27,7 +27,7 @@ What Tides of Tomorrow does differently is the Story-Link. The decisions you mak
 
 This isn't multiplayer. It isn't replay sharing. It's a form of mechanical empathy. You don't play with others, you play through them. The first time it genuinely works, when you recognise in the world a trace of someone else, it's a sensation that has no equivalent in video games.
 
-![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-3.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-3.webp)
 
 ## Choosing in a world you can't save
 
@@ -39,9 +39,9 @@ In Waterworld, the world is dead. In Fury Road, the Green Place is gone. In Tide
 
 The game doesn't tell you this directly. It makes you feel it, run after run, choice after choice. That's its greatest achievement.
 
-![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-4.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-4.webp)
 
-![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-5.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-5.webp)
 
 ## Where it snags
 
@@ -51,7 +51,7 @@ The dissonance is real. The written world and the played world don't always spea
 
 This isn't a perfect game. It's an important game with visible imperfections.
 
-![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-6.jpg)
+![Tides of Tomorrow](/images/tidesoftomorrow/screenshot-6.webp)
 
 ## What we take away
 

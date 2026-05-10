@@ -20,7 +20,7 @@ Dès les premières minutes, on comprend qu'on a affaire à quelque chose d'exce
 
 Chez InsertCoins, on ne prend pas souvent ce mot-là. Mais cette fois, il est mérité.
 
-![Tides of Tomorrow](/images/tides/screenshot-1.jpg)
+![Tides of Tomorrow](/images/tides/screenshot-1.webp)
 
 ## Voir la partie d'un autre comme une prémonition
 
@@ -32,7 +32,7 @@ Et c'est là que tout bascule. Parce que cette mécanique change complètement l
 
 ## Une idée qui réinvente le multijoueur
 
-![Tides of Tomorrow, océan](/images/tides/screenshot-2.jpg)
+![Tides of Tomorrow, océan](/images/tides/screenshot-2.webp)
 
 Là où le jeu vidéo propose depuis des années les mêmes formes d'interaction entre joueurs, coopératif, compétitif, asynchrone classique, Tides of Tomorrow prend un autre chemin. Un chemin que personne n'avait vraiment emprunté jusqu'ici.
 
@@ -46,7 +46,7 @@ Voir quelqu'un fuir un endroit peut signifier qu'il y a un danger. Ou qu'il a ra
 
 Ce qui rend Tides of Tomorrow remarquable, c'est que cette ambiguïté ne frustre jamais. Elle stimule. Elle engage. Elle pousse à observer, à analyser, à décider avec une conscience aiguë que d'autres ont été là avant vous, et que d'autres viendront après. C'est une mécanique construite avec une précision et une intelligence rares, qui aurait pu tomber dans le vague ou l'incompréhensible, et qui au contraire s'impose comme une évidence dès les premières minutes.
 
-![Tides of Tomorrow, vision](/images/tides/screenshot-3.jpg)
+![Tides of Tomorrow, vision](/images/tides/screenshot-3.webp)
 
 On sent qu'il y a derrière cela des années de réflexion, de prototypage, de refus de la facilité. Ce n'est pas une idée qu'on a eu un matin et qu'on a mise en production. C'est une idée qu'on a tenue jusqu'au bout.
 
@@ -58,7 +58,7 @@ Le sound design, d'abord, est une réussite totale. Dans ce jeu, le son ne déco
 
 C'est le niveau d'attention au détail d'un studio qui ne laisse rien au hasard. Et ça s'entend.
 
-![Tides of Tomorrow, atmosphère](/images/tides/screenshot-4.jpg)
+![Tides of Tomorrow, atmosphère](/images/tides/screenshot-4.webp)
 
 ## Pourquoi Tides of Tomorrow est l'un des jeux les plus importants du moment
 

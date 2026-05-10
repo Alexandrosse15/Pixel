@@ -7,7 +7,7 @@ date: "2026-05-05"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-red-950 via-zinc-950 to-stone-950"
-coverImage: "/images/darkheresy/screenshot-1.jpg"
+coverImage: "/images/darkheresy/screenshot-1.webp"
 gameName: "Warhammer 40,000: Dark Heresy"
 featured: false
 ---
@@ -16,7 +16,7 @@ Let's be upfront from the start: we're already sold. Veteran players of the Dark
 
 We haven't played yet. Here's why we already want this to be good.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-2.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-2.webp)
 
 ## Owlcat Games: a studio that knows what it's doing
 
@@ -24,7 +24,7 @@ Owlcat Games isn't discovering CRPGs. Pathfinder: Kingmaker, Pathfinder: Wrath o
 
 The Calixis Sector as a playground. Abnett's novels as a tonal reference. That's artistic intent, and it shows.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-3.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-3.webp)
 
 ## What we know about the game
 
@@ -32,11 +32,11 @@ Dark Heresy is an isometric turn-based CRPG. You command an Inquisitor investiga
 
 The team you build around you: Heimar Davos, a Catachan veteran whose presence needs no explanation. Cogg, an Ogryn conscript, which means a mountain of muscle with just enough feelings. An Imperial Navy officer. An Eldar Psyker, because the Inquisition keeps unlikely allies when the situation demands it.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-4.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-4.webp)
 
 And Ra'akhti. A Kroot mercenary. Playable. In a game where you fight Kroots. We don't know yet if that's a source of narrative tension or simply a wink, but the question deserves to be asked.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-5.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-5.webp)
 
 ## The Night Lords and Aaron Dembski-Bowden
 
@@ -44,13 +44,13 @@ This is the detail that got an involuntary noise of satisfaction out of us: the 
 
 Well-written Night Lords, with their particular philosophy, their use of fear as a weapon, their warband structure rather than ordered armies: in a narrative CRPG, that's an opposition capable of producing genuinely memorable moments.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-6.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-6.webp)
 
 ## The art direction and the music
 
 The trailer was enough. The art direction is stunning: a 40K aesthetic that doesn't tip into caricature, environments that breathe Grimdark without hammering it, a palette consistent with what the universe demands. And the trailer music is fantastic. Brass, choirs, tension building exactly where it should. If the full soundtrack holds that level, Dark Heresy will have a soundscape worthy of the Inquisition.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-7.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-7.webp)
 
 ## What worries us
 
@@ -58,13 +58,13 @@ Owlcat makes dense games. Sometimes too dense for their own good: Kingmaker had 
 
 The other unknown is the treatment of the Inquisition itself. The subject carries a moral ambiguity that Abnett's best novels exploit to the full. If Owlcat softens that to make the game more accessible, something will be lost. We're hoping they had the courage not to.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-8.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-8.webp)
 
 ## The letter we're about to write
 
 We're sending an email to Owlcat Games requesting a review session. Not an announcement, an intention. But it says something about the mindset in which we're waiting for this game.
 
-![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-9.jpg)
+![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-9.webp)
 
 Dark Heresy releases in 2026 on PC, PS5, and Xbox Series X/S. The alpha is already accessible for Collector's Edition buyers. The countdown has started.
 

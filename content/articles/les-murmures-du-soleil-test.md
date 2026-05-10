@@ -9,7 +9,7 @@ author: "Alexandrosse"
 readTime: "10 min"
 score: 8.5
 image_color: "from-amber-950 via-orange-950 to-zinc-950"
-coverImage: "/images/lesmurmuresdusoleil/screenshot-1.jpg"
+coverImage: "/images/lesmurmuresdusoleil/screenshot-1.webp"
 gameName: "Les Murmures du Soleil"
 featured: false
 ---

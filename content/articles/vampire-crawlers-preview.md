@@ -20,7 +20,7 @@ Sur le papier, c'est simple : un mélange entre roguelite, deckbuilding et actio
 
 Et surtout : on a pu y jouer. Ce qui suit, c'est notre retour sur ces premières heures.
 
-![Vampire Crawlers](/images/vampirecrawlers/screenshot-1.jpg)
+![Vampire Crawlers](/images/vampirecrawlers/screenshot-1.webp)
 
 ## Un concept hybride, mais immédiatement lisible
 
@@ -30,7 +30,7 @@ Ce qui change, c'est l'intégration d'un système de cartes au coeur de la progr
 
 La lisibilité est immédiate. En quelques minutes, le jeu communique clairement ses règles, ses enjeux, sa logique. C'est une qualité rare dans un genre qui peut vite devenir opaque.
 
-![Vampire Crawlers, gameplay](/images/vampirecrawlers/screenshot-2.jpg)
+![Vampire Crawlers, gameplay](/images/vampirecrawlers/screenshot-2.webp)
 
 ## Une boucle de gameplay redoutablement efficace
 
@@ -48,7 +48,7 @@ Mais certains points méritent qu'on reste prudents. Certaines cartes semblent d
 
 Pour l'instant, on sent le potentiel. Pas encore la maîtrise totale.
 
-![Vampire Crawlers, cartes](/images/vampirecrawlers/screenshot-3.jpg)
+![Vampire Crawlers, cartes](/images/vampirecrawlers/screenshot-3.webp)
 
 ## Sensations et prise en main
 
@@ -64,7 +64,7 @@ Mais clairement, ce n'est pas un titre qui va marquer visuellement. Il manque un
 
 Le jeu mise tout sur son gameplay, et ça se voit dans les choix artistiques. C'est un parti pris assumé, mais qui implique que la mécanique devra assumer tout le poids de l'expérience.
 
-![Vampire Crawlers, ambiance](/images/vampirecrawlers/screenshot-4.jpg)
+![Vampire Crawlers, ambiance](/images/vampirecrawlers/screenshot-4.webp)
 
 ## Le vrai test : la durée
 

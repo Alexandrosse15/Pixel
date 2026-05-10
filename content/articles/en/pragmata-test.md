@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "6 min"
 score: 6.5
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/pragmatatest/screenshot-1.png"
+coverImage: "/images/pragmatatest/screenshot-1.webp"
 gameName: "Pragmata"
 featured: false
 ---
 
-![Pragmata](/images/pragmatatest/screenshot-2.png)
+![Pragmata](/images/pragmatatest/screenshot-2.webp)
 
 Launching a new IP at Capcom isn't something you improvise. The studio has its habits, its established franchises, its recipes that work. So when Pragmata arrives, a science-fiction game featuring an android, a little girl, and a ruined Moon, the question is whether this is a genuine bet or just a well-packaged shell.
 
@@ -31,7 +31,7 @@ It's not a revolutionary system, but it's well built. Every encounter demands a 
 
 The 3D Metroidvania structure works well with this approach. Exploring the Moon's corridors is rewarding, zones unlocked via new abilities justify backtracking, and the map reads clearly enough that you're not getting lost without reason.
 
-![Pragmata](/images/pragmatatest/screenshot-3.png)
+![Pragmata](/images/pragmatatest/screenshot-3.webp)
 
 ## What the duo brings
 
@@ -39,7 +39,7 @@ The other strong point is the duo itself. The android and the little girl he pro
 
 Because the main narrative is conventional. The Moon's mystery, the android's nature, the delayed revelations: the structure has been seen elsewhere, often executed better. It's not bad, it's functional. It marks the beats without taking risks.
 
-![Pragmata](/images/pragmatatest/screenshot-4.png)
+![Pragmata](/images/pragmatatest/screenshot-4.webp)
 
 ## The limits
 
@@ -51,7 +51,7 @@ The bestiary is too homogeneous over time. Fifteen hours of gameplay would have 
 
 The sound design, finally, doesn't match the art direction's level. The visuals are remarkable, the Moon is a backdrop that knows how to assert itself, and the music is adequate without ever quite fitting the image. It's the kind of dissonance you notice without knowing exactly why at first, and that gradually weighs on you.
 
-![Pragmata](/images/pragmatatest/screenshot-5.png)
+![Pragmata](/images/pragmatatest/screenshot-5.webp)
 
 ## What Pragmata establishes
 
@@ -59,7 +59,7 @@ Over fifteen hours, Capcom builds the foundations of a franchise. Pragmata isn't
 
 Next time, with more friction, a more ambitious bestiary, and a narrative that takes greater risks, this could be something. For now, it's a half-kept promise, executed with care.
 
-![Pragmata](/images/pragmatatest/screenshot-6.png)
+![Pragmata](/images/pragmatatest/screenshot-6.webp)
 
 ## Verdict
 

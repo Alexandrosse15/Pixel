@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-amber-950 via-yellow-950 to-zinc-950"
-coverImage: "/images/Gambonanza/screenshot-1.png"
+coverImage: "/images/Gambonanza/screenshot-1.webp"
 gameName: "Gambonanza"
 score: 5.5
 featured: false
@@ -23,7 +23,7 @@ On paper, it's exactly the kind of improbable blend that should work. Chess as t
 
 The problem is that Balatro wasn't just an idea.
 
-![Gambonanza](/images/Gambonanza/screenshot-2.png)
+![Gambonanza](/images/Gambonanza/screenshot-2.webp)
 
 ## What Balatro understood
 
@@ -33,7 +33,7 @@ Gambonanza takes chess as its starting point and immediately starts breaking its
 
 What remains is a roguelite synergy system. Which isn't bad. Which doesn't justify the journey.
 
-![Gambonanza](/images/Gambonanza/screenshot-3.png)
+![Gambonanza](/images/Gambonanza/screenshot-3.webp)
 
 ## The gambits: a lot for not much
 
@@ -41,7 +41,7 @@ What remains is a roguelite synergy system. Which isn't bad. Which doesn't justi
 
 Balatro made you feel like a genius when your deck started to snowball. Gambonanza makes you feel like you're solving a puzzle whose rules you haven't quite understood. That's not the same thing. The difference between the two is the feeling of mastery. One gives it to you. The other promises it without really delivering.
 
-![Gambonanza](/images/Gambonanza/screenshot-4.png)
+![Gambonanza](/images/Gambonanza/screenshot-4.webp)
 
 ## The pachinko, the slots, and the diluted identity
 
@@ -49,7 +49,7 @@ The pachinko and slot machine-inspired minigames are presented as an extra layer
 
 A chess roguelite with synergies is already an ambitious project. Adding pachinko and slots risks diluting every pillar instead of reinforcing them together. In Balatro, everything served the same purpose. Here, you get the impression that each system was designed separately and bundled into the same client.
 
-![Gambonanza](/images/Gambonanza/screenshot-5.png)
+![Gambonanza](/images/Gambonanza/screenshot-5.webp)
 
 ## Maybe we missed the essence
 

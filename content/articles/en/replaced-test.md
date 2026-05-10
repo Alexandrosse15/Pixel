@@ -20,7 +20,7 @@ But once the visual impact settles, a question remains. And it's often the harde
 
 *Available on PC and Xbox Series X|S release date: 2026*
 
-![REPLACED](/images/replaced/screenshot-1.jpg)
+![REPLACED](/images/replaced/screenshot-1.webp)
 
 ## An art direction above the rest
 
@@ -30,7 +30,7 @@ The ultra-detailed pixel art, the rare fluidity of the animations, the cyberpunk
 
 There's a visual ambition here that commands respect. And that puts into even sharper relief what's missing elsewhere.
 
-![REPLACED, gameplay](/images/replaced/screenshot-2.jpg)
+![REPLACED, gameplay](/images/replaced/screenshot-2.webp)
 
 ## Solid gameplay… but without surprises
 
@@ -48,7 +48,7 @@ But quickly, the fights become repetitive. Situations blur together. The challen
 
 It's clean. Too clean.
 
-![REPLACED, combat](/images/replaced/screenshot-3.jpg)
+![REPLACED, combat](/images/replaced/screenshot-3.webp)
 
 ## A restrained narrative
 
@@ -66,7 +66,7 @@ The game sometimes feels like a brilliant tech demo more than a meaningful exper
 
 This isn't without precedent. Some games commit fully to this proposition and sustain it. REPLACED doesn't quite manage it.
 
-![REPLACED, atmosphere](/images/replaced/screenshot-4.jpg)
+![REPLACED, atmosphere](/images/replaced/screenshot-4.webp)
 
 ## A game or an artistic experience?
 

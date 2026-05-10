@@ -18,7 +18,7 @@ Il y a quelque chose de profondément désenchanté dans ce qui se joue aujourd'
 
 ## Une entreprise entre ambitions et turbulences
 
-![RoboCop: Rogue City](/images/nacon/screenshot-1.jpg)
+![RoboCop: Rogue City](/images/nacon/screenshot-1.webp)
 
 Nacon s'est imposée ces dernières années comme un acteur important du jeu vidéo européen, multipliant les studios, les licences et les investissements. Sur le papier, tout semblait aller dans le bon sens : croissance rapide, diversification, volonté de rivaliser avec les grands noms.
 
@@ -28,7 +28,7 @@ Des retours évoquent une pression accrue sur les équipes, des restructurations
 
 ## Le poids humain derrière les productions
 
-![Hell is Us](/images/nacon/screenshot-2.jpg)
+![Hell is Us](/images/nacon/screenshot-2.webp)
 
 On parle souvent de chiffres, de ventes, de stratégie. Mais on oublie trop facilement les personnes derrière ces décisions.
 
@@ -38,7 +38,7 @@ Ce qui rend la situation triste, ce n'est pas seulement l'état d'une entreprise
 
 ## Une image fragilisée
 
-![Dragonkin: The Banished](/images/nacon/screenshot-3.jpg)
+![Dragonkin: The Banished](/images/nacon/screenshot-3.webp)
 
 À cela s'ajoute une réception critique parfois mitigée de certains jeux récents. Des projets perçus comme inachevés ou trop ambitieux pour leurs moyens ont entamé la confiance du public.
 
@@ -48,7 +48,7 @@ Des titres comme **RoboCop: Rogue City** avaient pourtant montré que Nacon éta
 
 ## Une tristesse qui dépasse Nacon
 
-![RoboCop Unfinished Business](/images/nacon/screenshot-4.jpg)
+![RoboCop Unfinished Business](/images/nacon/screenshot-4.webp)
 
 Ce qui se joue ici dépasse le cas d'une seule entreprise.
 
@@ -58,7 +58,7 @@ Le phénomène n'est pas nouveau. On l'a vu chez d'autres studios européens qui
 
 ## Et maintenant ?
 
-![Hell is Us gameplay](/images/nacon/screenshot-5.jpg)
+![Hell is Us gameplay](/images/nacon/screenshot-5.webp)
 
 Rien n'est irréversible. L'histoire du jeu vidéo est remplie de renaissances, de remises en question salutaires.
 

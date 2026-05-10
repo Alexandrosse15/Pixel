@@ -22,7 +22,7 @@ Alors oui, il mérite qu'on en parle. Mais pas de la même façon que tout le mo
 
 ##  Une direction artistique qui impose immédiatement le respect
 
-![Clair Obscur Expedition 33](/images/clairobscur/screenshot-1.jpg)
+![Clair Obscur Expedition 33](/images/clairobscur/screenshot-1.webp)
 
 Dès les premières minutes, Expedition 33 capte le regard.
 
@@ -36,7 +36,7 @@ Mais cette réussite visuelle cache aussi une incohérence plus subtile.
 
 ##  Le problème des regards : un détail qui n'en est pas un
 
-![Clair Obscur, personnages](/images/clairobscur/screenshot-2.jpg)
+![Clair Obscur, personnages](/images/clairobscur/screenshot-2.webp)
 
 C'est sans doute l'un des défauts les plus marquants, et les plus dérangeants.
 
@@ -50,7 +50,7 @@ D'autres studios ont eu ce problème au cours de leurs premiers projets. Certain
 
 ##  Un système de combat engageant... puis mécanique
 
-![Clair Obscur, combat](/images/clairobscur/screenshot-3.jpg)
+![Clair Obscur, combat](/images/clairobscur/screenshot-3.webp)
 
 Le système de combat est clairement l'un des points forts du jeu, et la chose qui distingue le plus Expedition 33 de la concurrence.
 
@@ -68,7 +68,7 @@ C'est typiquement le genre de système qui aurait bénéficié d'une itération 
 
 ##  Une narration qui intrigue... sans toujours convaincre
 
-![Clair Obscur, cinématique](/images/clairobscur/screenshot-4.jpg)
+![Clair Obscur, cinématique](/images/clairobscur/screenshot-4.webp)
 
 Le jeu pose un concept fort, presque poétique.
 
@@ -84,7 +84,7 @@ Il y a des moments où ça fonctionne. Des instants qui tiennent leurs promesses
 
 ##  Une ambition visible... mais une exécution incomplète
 
-![Clair Obscur, exploration](/images/clairobscur/screenshot-5.jpg)
+![Clair Obscur, exploration](/images/clairobscur/screenshot-5.webp)
 
 Ce qui ressort après plusieurs heures de jeu, c'est une impression assez claire.
 
@@ -100,7 +100,7 @@ Beaucoup de studios sont passés par là. Certains ont eu la chance d'une second
 
 ##  Une expérience qui oscille en permanence
 
-![Clair Obscur, boss](/images/clairobscur/screenshot-6.jpg)
+![Clair Obscur, boss](/images/clairobscur/screenshot-6.webp)
 
 Ce qui rend Expedition 33 difficile à noter de manière tranchée, c'est son côté profondément inégal.
 

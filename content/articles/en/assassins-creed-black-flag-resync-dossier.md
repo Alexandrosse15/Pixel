@@ -7,12 +7,12 @@ date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "10 min"
 image_color: "from-cyan-950 via-blue-950 to-zinc-950"
-coverImage: "/images/blackflag/screenshot-1.png"
+coverImage: "/images/blackflag/screenshot-1.webp"
 gameName: "Assassin's Creed Black Flag"
 featured: true
 ---
 
-![Assassin's Creed Black Flag](/images/blackflag/screenshot-2.png)
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-2.webp)
 
 Some games you enjoy. Some you finish with pleasure, recommend to a friend, forget six months later. And then there are others, rare ones, that stay. Not because they were perfect. Not because they invented something entirely new. But because they captured something you can't quite put into words, and that has been missing ever since you put them down.
 
@@ -30,7 +30,7 @@ What looks obvious on paper actually changed everything. Not in the mechanical s
 
 Free navigation aboard the Jackdaw, Edward Kenway's ship, is the clearest example. It wasn't a transport system between missions. It was a game inside the game. The Caribbean Sea actually existed: its storms, the ships to hunt, the islands to explore, the cargo ships to board, the sharks circling when you fell overboard. You could spend three hours sailing without touching the main story and feel like you'd spent three hours genuinely playing something. That's not a detail, that's everything.
 
-![Assassin's Creed Black Flag](/images/blackflag/screenshot-3.png)
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-3.webp)
 
 Edward Kenway himself wasn't a virtuous Assassin seeking redemption. He was an opportunistic, ambitious, sometimes cowardly, often funny pirate. A character the franchise has rarely seen since: someone who wanted something concrete, human, understandable. Money. Freedom. A reputation. Not to save the world. And that humility of intention gave the game a lightness that subsequent entries spent years failing to recapture.
 
@@ -44,7 +44,7 @@ Odyssey and Valhalla are the clearest examples of this paradox. They are technic
 
 That's not regression. It's a different ambition that produced a different result. But the result, objectively, doesn't grip memory the same way.
 
-![Assassin's Creed Black Flag](/images/blackflag/screenshot-4.png)
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-4.webp)
 
 ## Skull and Bones, or the heir that never existed
 
@@ -72,7 +72,7 @@ There's also a question of appetite for risk. In 2012, Ubisoft Montreal made the
 
 The spontaneity Black Flag projected wasn't accidental. It was the product of a team given real freedom. And that freedom has a cost too.
 
-![Assassin's Creed Black Flag](/images/blackflag/screenshot-5.png)
+![Assassin's Creed Black Flag](/images/blackflag/screenshot-5.webp)
 
 ## What Resync actually reveals
 

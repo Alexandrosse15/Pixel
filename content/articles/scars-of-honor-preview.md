@@ -20,7 +20,7 @@ Le MMO en développement ne se définit pas uniquement par ce qu'il est. Il se d
 
 Nuançons.
 
-![Scars of Honor](/images/scars-of-honor/screenshot-1.jpg)
+![Scars of Honor](/images/scars-of-honor/screenshot-1.webp)
 
 ## Un MMO classique qui sait ce qu'il est
 
@@ -40,7 +40,7 @@ Ici, la promesse est différente. Une classe n'est pas associée à un rôle fix
 
 C'est une liberté de construction qui manque cruellement à la plupart des MMO contemporains. Et dans un genre où la personnalisation est souvent plus cosmétique que fonctionnelle, c'est une différence qui compte.
 
-![Scars of Honor, talents](/images/scars-of-honor/screenshot-2.jpg)
+![Scars of Honor, talents](/images/scars-of-honor/screenshot-2.webp)
 
 ## Le skill comme valeur, pas comme accessoire
 
@@ -62,7 +62,7 @@ C'est une position qui a quelque chose d'anachronique par rapport aux tendances 
 
 Si vous jouez seul et que vous ne cherchez pas à vous intégrer à une communauté, Scars of Honor sera rapidement frustrant. Si vous cherchez exactement ce genre d'expérience collective, c'est potentiellement exactement ce dont vous avez besoin.
 
-![Scars of Honor, monde](/images/scars-of-honor/screenshot-3.jpg)
+![Scars of Honor, monde](/images/scars-of-honor/screenshot-3.webp)
 
 ## Peut-il vraiment remplacer World of Warcraft ?
 
@@ -88,7 +88,7 @@ Le risque de répétitivité à l'endgame est réel. C'est le problème structur
 
 Et il y a la question de confiance. L'histoire des MMO qui promettaient de changer le genre est longue, et elle est jalonnée d'échecs retentissants. Les joueurs qui ont été déçus avant ne rejoindront pas facilement un nouveau projet, même si celui-ci semble sérieux. Scars of Honor devra mériter sa communauté, pas la supposer acquise.
 
-![Scars of Honor, combat](/images/scars-of-honor/screenshot-4.jpg)
+![Scars of Honor, combat](/images/scars-of-honor/screenshot-4.webp)
 
 ## Verdict
 

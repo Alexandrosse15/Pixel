@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-amber-950 via-yellow-950 to-zinc-950"
-coverImage: "/images/Gambonanza/screenshot-1.png"
+coverImage: "/images/Gambonanza/screenshot-1.webp"
 gameName: "Gambonanza"
 score: 5.5
 featured: false
@@ -23,7 +23,7 @@ Sur le papier, c'est exactement le genre de mélange improbable qui devrait fonc
 
 Le problème, c'est que Balatro n'était pas juste une idée.
 
-![Gambonanza](/images/Gambonanza/screenshot-2.png)
+![Gambonanza](/images/Gambonanza/screenshot-2.webp)
 
 ## Ce que Balatro avait compris
 
@@ -33,7 +33,7 @@ Gambonanza prend les échecs comme point de départ et commence immédiatement �
 
 Il reste un système de synergies roguelite. Qui n'est pas mauvais. Qui ne justifie pas le voyage.
 
-![Gambonanza](/images/Gambonanza/screenshot-3.png)
+![Gambonanza](/images/Gambonanza/screenshot-3.webp)
 
 ## Les gambits : beaucoup pour pas grand chose
 
@@ -41,7 +41,7 @@ Il reste un système de synergies roguelite. Qui n'est pas mauvais. Qui ne justi
 
 Balatro vous donnait l'impression d'être un génie quand votre deck s'emballait. Gambonanza vous donne l'impression de résoudre un puzzle dont vous n'avez pas bien compris les règles. Ce n'est pas la même chose. La différence entre les deux, c'est le sentiment de maîtrise. L'un vous le donne. L'autre vous le promet sans vraiment le livrer.
 
-![Gambonanza](/images/Gambonanza/screenshot-4.png)
+![Gambonanza](/images/Gambonanza/screenshot-4.webp)
 
 ## Le pachinko, les slots, et l'identité qui se dilue
 
@@ -49,7 +49,7 @@ Les mini-jeux inspirés du pachinko et des machines à sous sont présentés com
 
 Un roguelite d'échecs avec des synergies, c'est déjà un projet ambitieux. Y ajouter du pachinko et des slots, c'est prendre le risque de diluer chaque pilier au lieu de les renforcer mutuellement. Dans Balatro, tout servait la même chose. Ici, on a l'impression que chaque système a été conçu séparément et réuni dans le même client.
 
-![Gambonanza](/images/Gambonanza/screenshot-5.png)
+![Gambonanza](/images/Gambonanza/screenshot-5.webp)
 
 ## Peut-être qu'on n'a pas saisi l'essence
 

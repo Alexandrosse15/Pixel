@@ -8,12 +8,12 @@ date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-slate-950 via-indigo-950 to-zinc-950"
-coverImage: "/images/stellfortressawakening/screenshot-1.jpg"
+coverImage: "/images/stellfortressawakening/screenshot-1.webp"
 gameName: "Steel Fortress Awakening"
 featured: false
 ---
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-2.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-2.webp)
 
 Il y a des projets qui naissent d'une frustration. D'autres d'une obsession. Steel Fortress Awakening, c'est clairement la deuxième catégorie.
 
@@ -27,7 +27,7 @@ La référence assumée côté gameplay ? NieR: Automata. Des combats nerveux, d
 
 C'est une idée simple et élégante, du genre qui dit beaucoup sur l'intention d'un créateur.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-3.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-3.webp)
 
 ## Une DA qui commence par l'image
 
@@ -37,7 +37,7 @@ Le style visuel visé est un rendu flat animé à la japonaise, avec des ombres 
 
 Côté format, l'ambition est claire et assumée : environ 8 heures de jeu, aventure linéaire sans rejouabilité pour l'instant, sans système de choix narratifs. On est dans l'expérience concentrée, pas dans le monde ouvert qui se délite.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-4.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-4.webp)
 
 ## L'IA dans le workflow : oui, mais honnêtement
 
@@ -51,7 +51,7 @@ Steel Fortress Awakening n'est pas encore un jeu. C'est une vision, une préprod
 
 C'est le pari risqué et excitant du jeu indépendant à l'état pur : quelqu'un qui a une idée qui ne le lâche plus et qui décide de tout miser dessus.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-5.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-5.webp)
 
 On suivra ça de près.
 

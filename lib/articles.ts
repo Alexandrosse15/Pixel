@@ -107,6 +107,23 @@ export function getRelatedArticles(
     .slice(0, limit)
 }
 
+export function getArticlesByGame(
+  gameName: string,
+  currentSlug: string,
+  locale = 'fr',
+  limit = 4
+): Article[] {
+  const lower = gameName.toLowerCase()
+  return getAllArticles(locale)
+    .filter(
+      (a) =>
+        a.slug !== currentSlug &&
+        (a.gameName?.toLowerCase() === lower ||
+          a.gameNames?.some((n) => n.toLowerCase() === lower))
+    )
+    .slice(0, limit)
+}
+
 export function getAllSlugs(): string[] {
   if (!fs.existsSync(FR_DIR)) return []
   return fs

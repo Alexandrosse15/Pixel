@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "8 min"
 score: 8.5
 image_color: "from-stone-950 via-zinc-950 to-neutral-950"
-coverImage: "/images/suddenstrike/screenshot-1.png"
+coverImage: "/images/suddenstrike/screenshot-1.webp"
 gameName: "Sudden Strike 5"
 featured: false
 ---
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-2.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-2.webp)
 
 Some memories resist explanation. Not cinema memories or concert memories, not precise dates. Sensory memories. The smell of a basement, the sound of a PC fan running hot, a map of Normandy at 1:1 scale on a 17-inch monitor. Tanks burning. Low-flying aircraft. An enemy general you spent twenty minutes encircling who just surrendered.
 
@@ -35,7 +35,7 @@ Kite Games made a choice others might have hesitated over: don't reinvent everyt
 
 In a landscape of strategy games that tend to pile on systems, this austerity is almost provocative. And it works exactly as it worked in 2000.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-3.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-3.webp)
 
 ## What stays, what changes
 
@@ -51,7 +51,7 @@ Sudden Strike 5 introduces a far more developed general system than previous ent
 
 The other major addition concerns the supply system. In the early Sudden Strike games, logistics were present but relatively simple. Here, they become a tactical priority of their own. Supply lines break, logistics trucks must use secured roads, and an armoured unit that runs out of fuel at the wrong moment can tip an entire battle. A mechanic that could have been frustrating, and instead adds a welcome layer of tension across longer missions.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-4.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-4.webp)
 
 ## The campaigns
 
@@ -63,7 +63,7 @@ Those moments happen constantly in Sudden Strike 5. And that's all that matters.
 
 Difficulty is well calibrated. Normal offers a genuine challenge without being punishing. Veteran is a different matter: the AI is more aggressive, enemy reinforcements more frequent, the margin for error almost nonexistent. We spent two hours on a Soviet campaign mission on veteran and didn't lose interest once, even resetting for the fourth time.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-5.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-5.webp)
 
 Multiplayer we're saving for later. That's the part of the game we're genuinely waiting to put to the test.
 
@@ -81,7 +81,7 @@ What we're counting on now is updates filling in the gaps. The map editor above 
 
 And if we had to name the next DLC: Asia. The Sino-Japanese theatre, Burma, Manchuria, the land battles of the Pacific War: tactically fascinating ground the series has never fully explored. Radically different military doctrines, extreme terrain conditions, faction asymmetry that could be among the most striking in the series. A Japanese island campaign, a Soviet operation in Manchuria in 1945, a Chinese army with its own mechanics: that's where Sudden Strike 5 could go somewhere genuinely new. We want it. Badly.
 
-![Sudden Strike 5](/images/suddenstrike/screenshot-6.png)
+![Sudden Strike 5](/images/suddenstrike/screenshot-6.webp)
 
 ## A thousand hours
 

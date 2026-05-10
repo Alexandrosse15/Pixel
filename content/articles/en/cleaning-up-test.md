@@ -20,7 +20,7 @@ The premise is perfectly transparent: clean. Stains on the floor, objects to put
 
 But here, the magic doesn't quite materialise. And the reason is simple: Cleaning Up! never tried to understand why those games worked.
 
-![Cleaning Up!](/images/cleaningup/screenshot-1.jpg)
+![Cleaning Up!](/images/cleaningup/screenshot-1.webp)
 
 ##  A Minimalist Concept... With Nothing Behind It
 
@@ -38,7 +38,7 @@ What makes certain task simulators effective is that sensation of increasing con
 
 Here, that satisfaction never arrives. You do the same thing in the same way from start to finish. The game asks nothing more of you, and in return gives nothing more back.
 
-![Cleaning Up!, environment](/images/cleaningup/screenshot-2.jpg)
+![Cleaning Up!, environment](/images/cleaningup/screenshot-2.webp)
 
 ##  A Repetitiveness That Sets In Immediately
 
@@ -54,7 +54,7 @@ A problem perhaps even more fundamental: the game never creates a reason to keep
 
 You can stop at any moment without feeling frustrated. But more importantly, without feeling any attachment. That quiet detachment is perhaps the worst thing a game can provoke: indifference. Not anger, not disappointment, just indifference.
 
-![Cleaning Up!, gameplay](/images/cleaningup/screenshot-3.jpg)
+![Cleaning Up!, gameplay](/images/cleaningup/screenshot-3.webp)
 
 ##  Functional Production, No Personality
 
@@ -68,7 +68,7 @@ Cleaning Up! gives a very particular impression: that of a game that could almos
 
 This isn't about condemning simplicity. Some very simple games in concept are among the most memorable there are. But simplicity has to serve something. It has to conceal a depth, or amplify an emotion, or offer an experience that wouldn't be possible any other way. Here, the simplicity conceals nothing. It is the endpoint.
 
-![Cleaning Up!, result](/images/cleaningup/screenshot-4.jpg)
+![Cleaning Up!, result](/images/cleaningup/screenshot-4.webp)
 
 ##  Verdict
 

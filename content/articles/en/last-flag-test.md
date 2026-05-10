@@ -16,7 +16,7 @@ Some games want to do everything. They pile on modes, variants, and content, as 
 
 With Last Flag, the bet is simple: one mode, one idea, one execution. Capture the flag. Nothing more. And against all expectations, that's enough. Sometimes more than enough.
 
-![Last Flag](/images/lastflag/screenshot-1.jpg)
+![Last Flag](/images/lastflag/screenshot-1.webp)
 
 ## A single mode, fully committed
 
@@ -30,7 +30,7 @@ Last Flag is not a relaxed FPS. Every second counts. Every mistake has a cost. W
 
 It's this quality, this ability to maintain psychological pressure beyond the firefights themselves, that sets Last Flag apart from the competition. Many FPS games create tension in combat. Few create as much outside of it.
 
-![Last Flag, gameplay](/images/lastflag/screenshot-2.jpg)
+![Last Flag, gameplay](/images/lastflag/screenshot-2.webp)
 
 ## Real strategic depth
 
@@ -44,7 +44,7 @@ The game adopts a retro art direction that's highly readable: bold colours, mini
 
 It's not spectacular. It's not the kind of game where you save screenshots to show friends. But it's perfectly suited to what Last Flag is trying to be. The style serves readability, and readability serves gameplay. It's a coherence worth appreciating.
 
-![Last Flag, map](/images/lastflag/screenshot-3.jpg)
+![Last Flag, map](/images/lastflag/screenshot-3.webp)
 
 ## A soundtrack that drives the action
 
@@ -58,7 +58,7 @@ This is probably the most important thing to understand before buying. Last Flag
 
 One mode, high demands, total dependence on team play: if you're in, you're going to love it. If you're not into it, if you play alone without communication, if you're looking for variety or a solo progression, you'll drop off fast. The game makes no effort to pull you back. It's a deliberate choice, and you can respect it, but it's a choice that structurally limits the audience it reaches.
 
-![Last Flag, action](/images/lastflag/screenshot-4.jpg)
+![Last Flag, action](/images/lastflag/screenshot-4.webp)
 
 ## The real problem: the console version
 

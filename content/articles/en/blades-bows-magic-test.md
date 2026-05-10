@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "6 min"
 score: 7
 image_color: "from-violet-950 via-indigo-950 to-zinc-950"
-coverImage: "/images/bladebowsandmagic/screenshot-1.jpg"
+coverImage: "/images/bladebowsandmagic/screenshot-1.webp"
 gameName: "Blades Bows and Magic"
 featured: false
 ---
 
-![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-2.jpg)
+![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-2.webp)
 
 Blades, Bows and Magic doesn't overcomplicate things. There are blades, bows, and magic. There's a fantasy world, enemies to defeat, cards to build and runs to chain. Nothing you haven't seen before on paper. And yet from the very first runs, something sticks.
 
@@ -25,7 +25,7 @@ We'll say it and own it: the art direction of Blades, Bows and Magic is pixel pe
 
 This isn't surface-level pixel art, the kind that slaps a retro filter on a game that doesn't need one. It's considered, crafted pixel art that suits what the game actually is. A small indie production that decided its budget would show on screen rather than in a pitch deck.
 
-![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-3.jpg)
+![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-3.webp)
 
 ## The deck building, since we're here
 
@@ -35,7 +35,7 @@ Blades, Bows and Magic plays in this space with welcome generosity. The three av
 
 The pacing is well-judged. You never feel stuck on a failed run, never invincible on a perfect one. The difficulty curve feels tested, not just balanced on a spreadsheet.
 
-![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-4.jpg)
+![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-4.webp)
 
 ## We'd love to play this co-op
 
@@ -43,7 +43,7 @@ It needs to be said because it was the first thing we thought when discovering t
 
 But we also know what that means. Implementing real co-op often means reworking an entire architecture, multiplying tests, managing state synchronisation. For an indie studio, it's a project that can double development time. We're not holding it against them. We're flagging it because the potential is clearly there, and because we hope the roadmap has it in mind.
 
-![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-5.jpg)
+![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-5.webp)
 
 ## What we take away
 
@@ -51,7 +51,7 @@ Blades, Bows and Magic does what good indie games do best: deliver on the promis
 
 It's not the roguelite of the year. It's an honest, well-put-together game that makes you want one more run the moment the last one ends. In this genre, that's exactly what you ask for.
 
-![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-6.jpg)
+![Blades, Bows and Magic](/images/bladebowsandmagic/screenshot-6.webp)
 
 ## Verdict
 

@@ -17,7 +17,7 @@ Windrose arrive avec une proposition simple et directe : un monde ouvert pirate,
 
 La question n'est pas de savoir si le concept est bon. Il l'est. La question est de savoir si Kraken Express peut en faire quelque chose de durable.
 
-![Windrose](/images/windrose/screenshot-1.jpg)
+![Windrose](/images/windrose/screenshot-1.webp)
 
 ## Ce qu'on sait
 
@@ -29,7 +29,7 @@ Le studio Kraken Express vient d'un projet précédent appelé Crosswind, un MMO
 
 Pour un accès anticipé, c'est une base sérieuse. Environ 500 000 copies vendues en 48 heures et un pic de 113 000 joueurs simultanés au lancement ne laissent pas beaucoup de doute sur l'intérêt du public.
 
-![Windrose navigation](/images/windrose/screenshot-2.jpg)
+![Windrose navigation](/images/windrose/screenshot-2.webp)
 
 ## Ce qui inquiète
 

@@ -17,7 +17,7 @@ Windrose arrives with a simple and direct proposition: an open-world pirate game
 
 The question isn't whether the concept is good. It is. The question is whether Kraken Express can turn it into something lasting.
 
-![Windrose](/images/windrose/screenshot-1.jpg)
+![Windrose](/images/windrose/screenshot-1.webp)
 
 ## What we know
 
@@ -29,7 +29,7 @@ Studio Kraken Express came from a previous project called Crosswind, a free-to-p
 
 For an early access release, that's a serious foundation. Around 500,000 copies sold in 48 hours and a peak of 113,000 concurrent players at launch leave little doubt about player interest.
 
-![Windrose navigation](/images/windrose/screenshot-2.jpg)
+![Windrose navigation](/images/windrose/screenshot-2.webp)
 
 ## What concerns us
 

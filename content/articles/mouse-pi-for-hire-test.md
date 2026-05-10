@@ -9,7 +9,7 @@ readTime: "9 min"
 score: 6
 image_color: "from-zinc-950 via-neutral-900 to-stone-950"
 gameName: "Mouse: P.I. For Hire"
-coverImage: "/images/mouse/screenshot-3.jpg"
+coverImage: "/images/mouse/screenshot-3.webp"
 featured: false
 ---
 
@@ -21,7 +21,7 @@ Pendant quelques heures, ça fonctionne à merveille.
 
 Puis, doucement, les limites apparaissent.
 
-![Mouse: P.I. For Hire](/images/mouse/screenshot-1.jpg)
+![Mouse: P.I. For Hire](/images/mouse/screenshot-1.webp)
 
 ## Une direction artistique exceptionnelle
 
@@ -35,7 +35,7 @@ Sur ce point précis, le jeu est irréprochable.
 
 ## Un FPS old-school efficace... mais classique
 
-![Mouse: P.I. For Hire, gameplay](/images/mouse/screenshot-2.jpg)
+![Mouse: P.I. For Hire, gameplay](/images/mouse/screenshot-2.webp)
 
 Sous cette direction artistique originale, on trouve un FPS assez traditionnel dans son fonctionnement. Tir rapide, arsenal varié, déplacements dynamiques, inspiration très "boomer shooter" assumée. Les combats sont nerveux, parfois grisants, et le jeu complète ça avec des armes originales, des gadgets absurdes et quelques interactions avec l'environnement qui donnent une saveur particulière aux affrontements.
 
@@ -51,7 +51,7 @@ Et effectivement, l'ambiance fonctionne très bien. Le ton est cohérent, le cad
 
 Mais côté écriture, le bât blesse. Le scénario reste assez prévisible dans ses grandes lignes. Les dialogues manquent parfois d'impact au moment où ils devraient marquer. Les thèmes abordés ne sont jamais vraiment approfondis. Comme trop souvent, le jeu est meilleur dans son atmosphère que dans ce qu'il décide d'en faire narrativement.
 
-![Mouse: P.I. For Hire, enquête](/images/mouse/screenshot-3.jpg)
+![Mouse: P.I. For Hire, enquête](/images/mouse/screenshot-3.webp)
 
 ## Une variété bienvenue mais inégale
 
@@ -69,7 +69,7 @@ Mouse alterne entre phases très dynamiques, moments plus posés et séquences d
 
 Le résultat est une expérience en dents de scie qui empêche l'immersion de s'installer durablement. On n'est jamais tout à fait ancré dans ce que le jeu veut nous faire vivre, parce que le jeu lui-même n'est pas toujours sûr de ce qu'il veut.
 
-![Mouse: P.I. For Hire, ville](/images/mouse/screenshot-4.jpg)
+![Mouse: P.I. For Hire, ville](/images/mouse/screenshot-4.webp)
 
 ## Une technique solide, pas parfaite
 
@@ -85,7 +85,7 @@ Mouse: P.I. For Hire est typiquement le genre de jeu qui marque sans forcément 
 
 C'est le portrait d'un jeu qui réussit brillamment la partie la plus difficile, celle qui consiste à créer quelque chose de reconnaissable et d'unique, mais qui ne transforme pas cette réussite en expérience complète et durable.
 
-![Mouse: P.I. For Hire, combat](/images/mouse/screenshot-5.jpg)
+![Mouse: P.I. For Hire, combat](/images/mouse/screenshot-5.webp)
 
 ## Verdict
 

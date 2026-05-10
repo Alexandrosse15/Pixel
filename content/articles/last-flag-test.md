@@ -16,7 +16,7 @@ Il y a des jeux qui veulent tout faire. Qui multiplient les modes, les variantes
 
 Avec Last Flag, le pari est simple : un mode, une idée, une exécution. Capture the flag. Rien de plus. Et contre toute attente, ça suffit. Parfois même largement.
 
-![Last Flag](/images/lastflag/screenshot-1.jpg)
+![Last Flag](/images/lastflag/screenshot-1.webp)
 
 ## Un mode unique, assumé jusqu'au bout
 
@@ -30,7 +30,7 @@ Last Flag n'est pas un FPS relax. Chaque seconde compte. Chaque erreur se paie. 
 
 C'est cette qualité, cette capacité à maintenir une pression psychologique au-delà des seuls affrontements, qui distingue Last Flag de la concurrence. Beaucoup de FPS créent de la tension dans le combat. Peu en créent autant en dehors.
 
-![Last Flag, gameplay](/images/lastflag/screenshot-2.jpg)
+![Last Flag, gameplay](/images/lastflag/screenshot-2.webp)
 
 ## Une vraie profondeur stratégique
 
@@ -44,7 +44,7 @@ Le jeu adopte une direction artistique rétro très lisible : couleurs franches,
 
 Ce n'est pas spectaculaire. Ce n'est pas le genre de jeu dont on garde les screenshots pour les montrer à des amis. Mais c'est parfaitement adapté à ce que Last Flag cherche à être. Le style sert la lisibilité, et la lisibilité sert le gameplay. C'est une cohérence qu'on apprécie.
 
-![Last Flag, carte](/images/lastflag/screenshot-3.jpg)
+![Last Flag, carte](/images/lastflag/screenshot-3.webp)
 
 ## Une bande-son qui porte l'action
 
@@ -58,7 +58,7 @@ C'est sans doute le point le plus important à comprendre avant d'acheter. Last 
 
 Un seul mode, une exigence élevée, une dépendance totale au jeu en équipe : si vous accrochez, vous allez adorer. Si vous n'êtes pas dedans, si vous jouez seul sans communication, si vous cherchez de la variété ou une progression solo, vous allez vite décrocher. Le jeu ne fait aucun effort pour vous rattraper. C'est un choix assumé, et on peut le respecter, mais c'est un choix qui limite structurellement le public concerné.
 
-![Last Flag, action](/images/lastflag/screenshot-4.jpg)
+![Last Flag, action](/images/lastflag/screenshot-4.webp)
 
 ## Le vrai problème : la version console
 

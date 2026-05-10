@@ -11,7 +11,7 @@ gameName: "Metro 2039"
 featured: false
 ---
 
-![Metro 2039](/images/metro2039/screenshot-1.png)
+![Metro 2039](/images/metro2039/screenshot-1.webp)
 
 We've read every book. We've played every game. We know the Moscow Metro better than some of its fictional inhabitants. So when 4A Games dropped the Metro 2039 trailer, we didn't watch as spectators. We watched as people who know exactly what they're seeing.
 
@@ -25,7 +25,7 @@ The setting: six years after the events of Metro Exodus, in 2039. The Novoreich 
 
 Hunter has become Führer.
 
-![Metro 2039](/images/metro2039/screenshot-2.png)
+![Metro 2039](/images/metro2039/screenshot-2.webp)
 
 ## Hunter, and why that suits us
 
@@ -35,7 +35,7 @@ Seeing him return as the main antagonist of an authoritarian regime that unified
 
 A Führer who may have been broken by the Dark Ones before making them an existential enemy. In the Metro universe, that's precisely the kind of tragedy that works.
 
-![Metro 2039](/images/metro2039/screenshot-3.png)
+![Metro 2039](/images/metro2039/screenshot-3.webp)
 
 ## The Stranger and the question tearing Reddit apart
 
@@ -49,7 +49,7 @@ The game's website confirms a new protagonist. The mystery is intentional. And h
 
 That's not a detail. It's a statement.
 
-![Metro 2039](/images/metro2039/screenshot-4.png)
+![Metro 2039](/images/metro2039/screenshot-4.webp)
 
 ## What worries us
 
@@ -57,7 +57,7 @@ The Novoreich conquered the entire metro in three years. For fans of the faction
 
 We hope Metro 2039 doesn't simplify the universe by reducing it to a single monolithic antagonist. The best moments in the series have always been those where the threat was multiple and the alliances impure.
 
-![Metro 2039](/images/metro2039/screenshot-5.png)
+![Metro 2039](/images/metro2039/screenshot-5.webp)
 
 ## We're in
 

@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "5 min"
 score: 7
 image_color: "from-slate-950 via-gray-900 to-zinc-950"
-coverImage: "/images/thirdshift/screenshot-1.jpg"
+coverImage: "/images/thirdshift/screenshot-1.webp"
 gameName: "The Third Shift"
 featured: false
 ---
 
-![The Third Shift](/images/thirdshift/screenshot-2.jpg)
+![The Third Shift](/images/thirdshift/screenshot-2.webp)
 
 La bande annonce a ce look VHS qui accroche l'oeil. On note, on passe, on lance le jeu.
 
@@ -23,7 +23,7 @@ Vous êtes gardien de nuit au Roanoke Museum of History and Wonder. En théorie 
 
 Le gameplay mélange survie, exploration et puzzles dans une boucle propre. La gestion des ressources est présente sans écraser le reste, et l'espace lui-même finit par peser. Chaque salle que vous avez déjà traversée, chaque couloir que vous pensiez connaître. C'est du survival horror économe : pas de jump scares toutes les trente secondes, juste une tension qui monte parce que vous ne savez jamais ce qui a changé depuis votre dernière ronde.
 
-![The Third Shift](/images/thirdshift/screenshot-3.jpg)
+![The Third Shift](/images/thirdshift/screenshot-3.webp)
 
 ## Le truc des perspectives
 
@@ -31,13 +31,13 @@ Ce qui distingue vraiment The Third Shift, c'est son système de changement de p
 
 Pour un petit studio, c'est une prise de risque technique qui aurait facilement pu dérégler l'ensemble. Elle ne le fait pas.
 
-![The Third Shift](/images/thirdshift/screenshot-4.jpg)
+![The Third Shift](/images/thirdshift/screenshot-4.webp)
 
 ## Ce qu'on retient
 
 Court, dense, sans remplissage. The Third Shift sait ce qu'il est et ne cherche pas à être autre chose. Un espace bien construit, une mécanique qui tient, une tension honnête. Dans la catégorie des petits indépendants qui font ce qu'ils annoncent, c'est exactement ce qu'on demande.
 
-![The Third Shift](/images/thirdshift/screenshot-5.jpg)
+![The Third Shift](/images/thirdshift/screenshot-5.webp)
 
 ## Verdict
 

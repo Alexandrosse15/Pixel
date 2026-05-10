@@ -18,7 +18,7 @@ Under Par Golf Architect fait clairement partie de la deuxième catégorie.
 
 Sur le papier, c'est séduisant : construire son parcours de golf, gérer un complexe sportif, façonner un espace de A à Z. Il y a une vraie promesse de créativité là-dedans, l'idée de laisser libre cours à son sens artistique tout en gérant un projet ambitieux. Dans les faits, c'est une toute autre histoire. Et il faut être honnête : ce jeu ne s'adresse pas au plus grand nombre.
 
-![Under Par Golf Architect](/images/underpar/screenshot-1.jpg)
+![Under Par Golf Architect](/images/underpar/screenshot-1.webp)
 
 ## Construire... puis optimiser jusqu'à l'ennui
 
@@ -36,7 +36,7 @@ Et à ce moment précis, une évidence s'impose : ce jeu est fait pour les amate
 
 Chez InsertCoins, on en a aussi des comme ça. On ne va pas mentir. Des profils capables de s'enfermer dans ce genre de logique pendant des heures sans jamais regarder l'heure. On les sort bien attachés. Parce que sinon, ils ne lâchent jamais.
 
-![Under Par Golf Architect, gestion](/images/underpar/screenshot-2.jpg)
+![Under Par Golf Architect, gestion](/images/underpar/screenshot-2.webp)
 
 ## Un gameplay rigide, sans surprise
 
@@ -52,7 +52,7 @@ Visuellement, Under Par Golf Architect est propre. Fonctionnel. Lisible. L'inter
 
 Mais aussi : sans âme, sans personnalité, sans identité. On comprend tout ce qui se passe à l'écran, mais on ne ressent rien de ce qu'on regarde. Il n'y a pas de petite touche visuelle qui donne envie de s'arrêter pour regarder. Pas d'animation qui fait sourire. Pas de détail qui raconte quelque chose. C'est un jeu qui a fait de la fonctionnalité sa religion, et qui a sacrifié tout le reste sur cet autel.
 
-![Under Par Golf Architect, parcours](/images/underpar/screenshot-3.jpg)
+![Under Par Golf Architect, parcours](/images/underpar/screenshot-3.webp)
 
 ## Un rythme qui endort
 

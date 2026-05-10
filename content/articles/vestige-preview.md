@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-teal-950 via-slate-950 to-zinc-950"
-coverImage: "/images/vestige/banniére.png"
+coverImage: "/images/vestige/banniére.webp"
 gameName: "Vestige"
 featured: false
 ---
@@ -18,7 +18,7 @@ Imaginez une île. Pas celle des cartes postales, celle des questions qui resten
 
 Vestige est un jeu narratif. Vous explorez une île guidé par une mécanique de pulsions qui évolue en fonction des zones traversées. Le récit se déroule naturellement, sans jamais demander au joueur de relier les points lui-même : la narration fait ce travail, à son rythme, portée par les émotions du personnage.
 
-![Vestige](/images/vestige/screenshot-2.png)
+![Vestige](/images/vestige/screenshot-2.webp)
 
 Le parti pris artistique est double : un style réaliste pour les séquences de souvenirs, et une direction plus stylisée, presque onirique, pour l'île elle-même. La référence graphique assumée est Kena : Bridge of Spirits.
 
@@ -28,7 +28,7 @@ Sept zones du deuil structurent l'expérience, chacune avec sa propre identité 
 
 Vestige est un projet qui a grandi autour d'une vision personnelle. À l'origine, une idée de Valentin – Game Director du jeu – dont la thématique du deuil s'est intégrée progressivement au développement, transformant un projet intime en quelque chose de plus grand. C'est Rémy BAL qui dirige Pyramide Games, le studio qui porte aujourd'hui le projet.
 
-![Vestige](/images/vestige/screenshot-3.png)
+![Vestige](/images/vestige/screenshot-3.webp)
 
 Pyramide Games compte trois personnes en son sein. Autour d'eux, une équipe d'une vingtaine de contributeurs – stagiaires, freelances et bénévoles – dont une quinzaine encore actifs. Le recrutement passe par les forums Discord, les réseaux d'écoles de jeu vidéo et la communauté indie.
 
@@ -50,7 +50,7 @@ Vestige est aussi inéligible aux aides du CNC en raison de la proportion de bé
 
 ## À suivre
 
-![Vestige](/images/vestige/screenshot-4.png)
+![Vestige](/images/vestige/screenshot-4.webp)
 
 Vestige a une identité claire, une structure narrative ambitieuse et une équipe qui apprend vite de ses erreurs. Les sept zones du deuil, la mécanique de pulsions qui évolue au fil du jeu, le mélange de réalisme et de stylisation – tout cela dessine un jeu qui sait où il veut aller.
 

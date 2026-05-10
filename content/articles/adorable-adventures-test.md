@@ -7,13 +7,13 @@ date: "2026-04-30"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-green-950 via-emerald-950 to-zinc-950"
-coverImage: "/images/adorableadventure/screenshot-1.png"
+coverImage: "/images/adorableadventure/screenshot-1.webp"
 gameName: "Adorable Adventures"
 score: 8
 featured: false
 ---
 
-![Adorable Adventures](/images/adorableadventure/screenshot-2.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-2.webp)
 
 Il faut être honnête sur ce que c'est de lancer Adorable Adventures après une semaine à enchaîner des shooters et des open worlds qui mesurent leur ambition en kilomètres carrés de carte. C'est un choc. Un choc doux, mais un choc quand même.
 
@@ -23,7 +23,7 @@ Boris est un marcassin. Il est petit, il est curieux, il fonce dans les herbes h
 
 Le jeu se déroule dans des environnements inspirés du Parc national des Cévennes, dans le sud de la France. Ce n'est pas un détail cosmétique : c'est un choix qui définit tout le projet. Les Cévennes ont une lumière particulière, une végétation dense et sèche, des plateaux rocheux qui tombent sur des vallées boisées. Adorable Adventures capture quelque chose de vrai dans cet espace.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-3.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-3.webp)
 
 Les prairies vallonnées, les sentiers forestiers qui filtrent le soleil à travers les feuillages, les grottes et les rivières : chaque zone a été fabriquée à la main, avec un soin qui se sent immédiatement. On n'est pas dans un environnement généré pour remplir de l'espace. On est dans un lieu qui a été pensé, dessiné, voulu. Une petite équipe indie qui connaît son terrain, et ça se voit.
 
@@ -31,7 +31,7 @@ Les prairies vallonnées, les sentiers forestiers qui filtrent le soleil à trav
 
 La mécanique centrale du jeu est l'odorat. Boris suit des pistes olfactives pour progresser, identifier l'origine des odeurs, filtrer celles qu'il connaît déjà pour se repérer. Ce n'est pas une idée de skin sur un système de marqueurs classiques. C'est une vraie réinterprétation de la navigation dans un jeu d'exploration.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-4.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-4.webp)
 
 Suivre une odeur demande d'observer l'environnement différemment. On lit le vent, on cherche les indices visuels que le jeu associe aux pistes, on apprend progressivement à distinguer ce qui est pertinent de ce qui ne l'est pas. L'herbier interactif qui se complète au fil des découvertes est une excellente idée : il transforme l'exploration en collection organique, sans la transformer en liste de cases à cocher.
 
@@ -41,7 +41,7 @@ Ce qui est remarquable, c'est que la mécanique olfactive oblige à ralentir. On
 
 L'objectif principal est de retrouver les membres de la famille de Boris, chacun avec sa propre personnalité et ses propres énigmes adaptées. Ce n'est pas de la progression déguisée : les interactions sont écrites avec suffisamment de caractère pour que chaque retrouvaille soit un moment à part entière.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-5.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-5.webp)
 
 Maxime le garde forestier accompagne Boris tout au long de l'aventure avec une narration adaptative entièrement doublée. L'histoire s'ajuste à ce qu'on fait, à ce qu'on découvre, à l'ordre dans lequel on explore. Ce n'est pas de la ramification narrative complexe, mais c'est assez pour que chaque joueur ait l'impression que le jeu lui raconte son histoire à lui, pas une version standardisée du même récit.
 
@@ -51,7 +51,7 @@ Les activités annexes, courses contre-la-montre, défis photo, collecte de déc
 
 On a beaucoup de jeux qui se disent "cozy". La plupart utilisent ce mot pour décrire un rythme lent et des visuels pastel. Adorable Adventures est cozy dans un sens plus profond : il est bienveillant. Pas condescendant, pas infantilisant, mais constamment bienveillant envers le joueur, envers Boris, envers le monde qu'il a construit.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-6.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-6.webp)
 
 Il y a une scène en particulier, qu'on ne détaillera pas, où le jeu dit quelque chose de simple sur la famille et la perte sans jamais l'articuler explicitement. Boris n'a pas de dialogues. Maxime raconte. Et pourtant l'émotion arrive, proprement, sans forcer.
 
@@ -65,7 +65,7 @@ On parle beaucoup de l'innovation mécanique comme critère de qualité. Adorabl
 
 Ce qu'il fait à la place, c'est capturer. On lance une session pour vingt minutes et on se retrouve une heure plus tard à chercher la dernière odeur manquante dans une grotte parce qu'on est incapable de s'arrêter au milieu d'une piste. Ce n'est pas de l'addiction par design, ce n'est pas une mécanique de récompense calculée pour retenir le joueur. C'est juste que l'univers est suffisamment riche et suffisamment vivant pour qu'on n'ait pas envie d'en sortir.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-7.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-7.webp)
 
 Ce qu'il fait aussi, c'est exister complètement dans ce qu'il est. Un jeu sur un marcassin dans un parc naturel français, fait avec soin par une petite équipe passionnée. Pas plus. Pas moins.
 

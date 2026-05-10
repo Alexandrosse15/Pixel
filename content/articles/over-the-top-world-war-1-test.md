@@ -9,12 +9,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 8.5
 image_color: "from-stone-950 via-amber-950 to-zinc-950"
-coverImage: "/images/overthetop/screenshot-1.png"
+coverImage: "/images/overthetop/screenshot-1.webp"
 gameName: "Over the Top: World War 1"
 featured: false
 ---
 
-![Over the Top: World War 1](/images/overthetop/screenshot-2.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-2.webp)
 
 Il y a un moment, dans les premières minutes d'Over the Top : World War 1, où quelqu'un dans le channel de proximité pousse un cri en chargeant sur une tranchée adverse. Pas un message écrit. Un vrai cri vocal, instinctif, mi-tactique mi-théâtral. Et autour de lui, des inconnus qui répondent, qui suivent, qui se mettent à courir dans la même direction sans se concerter.
 
@@ -22,7 +22,7 @@ C'est là qu'on a su qu'on allait passer beaucoup de temps sur ce jeu.
 
 Over the Top sort de nulle part, développé par une équipe minuscule, et fait quelque chose que des studios avec dix fois les ressources n'arrivent pas toujours à réussir : il crée une atmosphère. Dense, immersive, bruyante, sale. La Première Guerre mondiale dans toute son absurdité glorieuse.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-3.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-3.webp)
 
 ## Le souvenir Battlefield 1
 
@@ -32,7 +32,7 @@ Over the Top ne cherche pas à faire la même chose avec le même budget. Mais i
 
 Ce n'est pas Battlefield 1. Mais ça réveille les mêmes zones.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-4.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-4.webp)
 
 ## Ce que le jeu fait bien, vraiment bien
 
@@ -42,7 +42,7 @@ Les véhicules ensuite. Chars d'assaut lourds et lents, camions de ravitaillemen
 
 Les uniformes méritent une mention particulière. Chaque faction est reconnaissable immédiatement, les tenues sont détaillées, historiquement crédibles. Ce n'est pas un détail anodin dans un jeu de rôle tactique : l'uniforme, c'est l'identité sur le champ de bataille. Et quand les uniformes sont bien faits, le roleplay qui s'installe autour d'eux l'est aussi.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-5.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-5.webp)
 
 ## L'âme du jeu : la proximité
 
@@ -52,7 +52,7 @@ On a entendu des joueurs se mettre en character, parler comme leurs personnages,
 
 C'est l'indicateur le plus honnête qu'un jeu multijoueur fonctionne : quand les joueurs commencent à inventer des histoires à l'intérieur.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-6.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-6.webp)
 
 ## Ce qui peut encore progresser
 
@@ -62,7 +62,7 @@ L'équilibrage entre factions est encore en rodage. Certaines configurations ava
 
 Ce qu'on espère surtout, c'est que la communauté tient. Parce que Over the Top est un de ces jeux dont la qualité dépend directement de ses joueurs. Sans la masse humaine pour alimenter les batailles, sans les voix dans le channel de proximité, sans les inconnus qui hurlent en chargeant, c'est un bon FPS historique. Avec tout ça, c'est autre chose.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-7.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-7.webp)
 
 ## Ce qu'on retient
 
@@ -72,7 +72,7 @@ Il réveille quelque chose que Battlefield 1 avait planté il y a dix ans : cett
 
 On va y passer du temps. Beaucoup de temps. Et quelque part, on espère que les développeurs se souviennent que ce qu'ils ont construit vaut la peine d'être poussé encore plus loin.
 
-![Over the Top: World War 1](/images/overthetop/screenshot-8.png)
+![Over the Top: World War 1](/images/overthetop/screenshot-8.webp)
 
 ## Verdict
 

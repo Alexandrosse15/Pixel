@@ -8,12 +8,12 @@ date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "14 min"
 image_color: "from-amber-950 via-stone-950 to-zinc-950"
-coverImage: "/images/aoe2/screenshot-3.png"
+coverImage: "/images/aoe2/screenshot-3.webp"
 gameName: "Age of Empires II"
 featured: false
 ---
 
-![Age of Empires 2](/images/aoe2/screenshot-1.png)
+![Age of Empires 2](/images/aoe2/screenshot-1.webp)
 
 On avait peut-être huit ou neuf ans. La salle informatique de l'école sentait le plastique chaud et la poussière accumulée derrière des tours beige. Sur l'écran à côté du nôtre, un gamin construisait des casernes pendant qu'un autre essayait de hacker une ville gauloise avec trois paysans et un prêtre. Les profs n'auraient probablement pas dû nous laisser jouer à Age of Empires en LAN un mercredi après-midi. Ils l'ont fait quand même. On ne s'en est jamais remis.
 
@@ -23,7 +23,7 @@ Age of Empires 1 était notre jeu. Age of Empires 2 est sorti quand on était d�
 
 Vingt-cinq ans plus tard, des gens gagnent des tournois sur ce jeu. Des streamer en vivent. Il existe une scène professionnelle, des Titans League, des Hidden Cup, des Red Bull Wololo. Et si on vous demande comment c'est possible, la réponse honnête est : on ne sait pas encore vraiment comment, mais c'est fascinant à observer.
 
-![Age of Empires 2](/images/aoe2/screenshot-2.png)
+![Age of Empires 2](/images/aoe2/screenshot-2.webp)
 
 ## La mort annoncée, et le retour que personne n'avait prévu
 
@@ -35,7 +35,7 @@ Puis en 2019, Microsoft a sorti Age of Empires 2 : Definitive Edition. Remaster 
 
 Les raisons tiennent à une conjonction de facteurs que personne n'aurait pu totalement prévoir. D'abord, la nostalgie : des joueurs ayant grandi avec le jeu dans les années 2000 avaient entre 25 et 35 ans, des revenus, du temps libre et l'envie de retrouver quelque chose. Ensuite, le contenu : T90Official, un créateur YouTube américain avec un sens de la narration et une maîtrise du jeu à haut niveau, a transformé des parties de pros en spectacle accessible pour les non-initiés. Et enfin, le jeu lui-même : AoE2 tient la route. Vingt ans de polissage par la communauté ont produit un équilibrage qui supporte l'analyse compétitive mieux que la plupart des jeux sortis la même année que la Definitive Edition.
 
-![Age of Empires 2](/images/aoe2/screenshot-3.png)
+![Age of Empires 2](/images/aoe2/screenshot-3.webp)
 
 ## Le plafond de verre : pourquoi les mêmes gagnent depuis dix ans
 
@@ -65,7 +65,7 @@ De leur côté, les pros eux-mêmes jonglent souvent entre la performance en tou
 
 Le problème : une communauté qui suit ses créateurs préférés depuis des années ne cherche pas un "nouveau Hera" tous les six mois. T90 ne vend pas des joueurs, il vend des personnages. Et un public qui s'est attaché à des personnages sur une décennie n'est pas favorable à la rotation rapide que les gros esports connaissent.
 
-![Age of Empires 2](/images/aoe2/screenshot-4.png)
+![Age of Empires 2](/images/aoe2/screenshot-4.webp)
 
 ## Le jeu change, la communauté se divise
 
@@ -93,7 +93,7 @@ Ce qui pourrait faire bouger les choses : un jeu F2P (envisageable mais risqué 
 
 Ou rien. Age of Empires 2 pourrait rester exactement ce qu'il est : le jeu de stratégie qui a réussi l'impossible, survivre à sa propre mort et construire une scène compétitive dans des conditions que personne ne recommanderait. Avec les mêmes dix noms qui se battent pour les mêmes dix places, regardés par une communauté qui ne change pas non plus, et qui s'en fiche un peu parce qu'elle est venue pour les histoires, pas pour les statistiques.
 
-![Age of Empires 2](/images/aoe2/screenshot-5.png)
+![Age of Empires 2](/images/aoe2/screenshot-5.webp)
 
 ## Ce qu'on retient
 

@@ -8,7 +8,7 @@ author: "Alexandrosse"
 readTime: "9 min"
 score: 7
 image_color: "from-zinc-950 via-stone-950 to-red-950"
-coverImage: "/images/carnedge/screenshot-1.jpg"
+coverImage: "/images/carnedge/screenshot-1.webp"
 featured: false
 ---
 
@@ -24,7 +24,7 @@ The core mechanic is a marriage of deckbuilding and auto-battle RPG. You build y
 
 That's an important distinction. CARNEDGE demands thinking before combat, not during it. If your deck is poorly built, you die. If your synergy holds, you watch your cards dismantle bosses with the satisfaction that belongs only to good deckbuilders.
 
-![CARNEDGE](/images/carnedge/screenshot-2.jpg)
+![CARNEDGE](/images/carnedge/screenshot-2.webp)
 
 ## What works
 
@@ -34,7 +34,7 @@ The pilgrimage structure — each run as a progression through a corrupted world
 
 Card synergies are the heart of the game, and that's clearly where OneShark put their ten years. There's depth here. Combinations that surprise, builds that seem impossible until they work, a variety that makes you want to start again differently. A good deckbuilder makes you want to explore every possibility. CARNEDGE does that.
 
-![CARNEDGE](/images/carnedge/screenshot-3.jpg)
+![CARNEDGE](/images/carnedge/screenshot-3.webp)
 
 ## What resists
 
@@ -44,7 +44,7 @@ The interface bugs reported at launch are real. Nothing game-breaking in our tes
 
 The narrative is sketched more than developed. The world is there, the atmosphere is there, but the story doesn't dig as deep as it could. For a game whose premise — carrying an eternal flame through a dying world — has everything it needs to carry a strong narrative, it's a partially missed opportunity.
 
-![CARNEDGE](/images/carnedge/screenshot-4.jpg)
+![CARNEDGE](/images/carnedge/screenshot-4.webp)
 
 ## Ten years, three people
 
@@ -62,7 +62,7 @@ At 67% positive on Steam today, it's undervalued. Not because you should support
 
 The game underneath deserves better.
 
-![CARNEDGE](/images/carnedge/screenshot-5.jpg)
+![CARNEDGE](/images/carnedge/screenshot-5.webp)
 
 **Strengths:**
 

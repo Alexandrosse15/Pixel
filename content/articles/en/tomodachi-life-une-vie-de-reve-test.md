@@ -20,7 +20,7 @@ After years of absence, Nintendo relaunches a cult licence, strange, sometimes m
 
 So: does it hold up?
 
-![Tomodachi Life](/images/tomodachi/screenshot-1.jpg)
+![Tomodachi Life](/images/tomodachi/screenshot-1.webp)
 
 ##  An Unchanged Formula... For Better and Worse
 
@@ -36,7 +36,7 @@ Some players will instantly rediscover that singular charm that nothing else qui
 
 ##  Absurdity as the Main Engine
 
-![Tomodachi Life, situations](/images/tomodachi/screenshot-2.jpg)
+![Tomodachi Life, situations](/images/tomodachi/screenshot-2.webp)
 
 Tomodachi Life doesn't work like a conventional simulation. It doesn't try to be realistic. It doesn't try to be coherent. It tries, above all else, to be unpredictable.
 
@@ -62,7 +62,7 @@ For some players, this is a genuine strength: the game creates the illusion of a
 
 For others, and it's an equally legitimate criticism, this passivity eventually frustrates. You'd like more grip on events, more ability to steer relationships, more control over the direction the island takes. You watch, you smile, and then you close the console with that small, persistent feeling that something is missing. Something more substantial.
 
-![Tomodachi Life, island](/images/tomodachi/screenshot-3.jpg)
+![Tomodachi Life, island](/images/tomodachi/screenshot-3.webp)
 
 ##  A Very Particular Rhythm That Doesn't Suit Everyone
 
@@ -80,7 +80,7 @@ And yet, when it works, when the game decides to produce something unexpected at
 
 ##  A Timid Modernisation
 
-![Tomodachi Life, interface](/images/tomodachi/screenshot-4.jpg)
+![Tomodachi Life, interface](/images/tomodachi/screenshot-4.webp)
 
 This new version brings a few concrete improvements. The interface is cleaner, more readable, more pleasant to navigate. Certain animations have been slightly reworked. The overall presentation obviously benefits from the move to a more recent platform, and it shows.
 
@@ -102,7 +102,7 @@ Without that personal investment, the game can seem empty. Hollow, even. A colle
 
 With that investment, it becomes endearing in a way that's hard to explain to someone who's never played it. Because every island is unique. Every Mii carries a story the game doesn't know but the player knows perfectly. And it's that friction between the player's reality and the game's absurdity that creates something genuinely singular.
 
-![Tomodachi Life, characters](/images/tomodachi/screenshot-5.jpg)
+![Tomodachi Life, characters](/images/tomodachi/screenshot-5.webp)
 
 ##  A Faithful Return... Perhaps Too Faithful
 

@@ -22,7 +22,7 @@ So yes, it deserves to be talked about. But not the same way everyone else is ta
 
 ##  An Art Direction That Immediately Commands Respect
 
-![Clair Obscur Expedition 33](/images/clairobscur/screenshot-1.jpg)
+![Clair Obscur Expedition 33](/images/clairobscur/screenshot-1.webp)
 
 From the very first minutes, Expedition 33 catches your eye.
 
@@ -36,7 +36,7 @@ But this visual success also conceals a more subtle inconsistency.
 
 ##  The Problem With the Eyes: a Detail That Isn't One
 
-![Clair Obscur, characters](/images/clairobscur/screenshot-2.jpg)
+![Clair Obscur, characters](/images/clairobscur/screenshot-2.webp)
 
 This is arguably the most striking, and most unsettling, flaw.
 
@@ -50,7 +50,7 @@ Other studios have faced this problem in their first projects. Some survived it 
 
 ##  An Engaging Combat System... That Becomes Mechanical
 
-![Clair Obscur, combat](/images/clairobscur/screenshot-3.jpg)
+![Clair Obscur, combat](/images/clairobscur/screenshot-3.webp)
 
 The combat system is clearly one of the game's strongest points, and the thing that most distinguishes Expedition 33 from its competition.
 
@@ -68,7 +68,7 @@ This is exactly the kind of system that would have benefited from one more itera
 
 ##  A Narrative That Intrigues... Without Always Convincing
 
-![Clair Obscur, cutscene](/images/clairobscur/screenshot-4.jpg)
+![Clair Obscur, cutscene](/images/clairobscur/screenshot-4.webp)
 
 The game sets up a strong, almost poetic concept.
 
@@ -84,7 +84,7 @@ There are moments where it works. Instants that deliver on their promise. But th
 
 ##  Visible Ambition... Incomplete Execution
 
-![Clair Obscur, exploration](/images/clairobscur/screenshot-5.jpg)
+![Clair Obscur, exploration](/images/clairobscur/screenshot-5.webp)
 
 After several hours of play, a fairly clear impression emerges.
 
@@ -100,7 +100,7 @@ Many studios have been there. Some got the chance at a second game, and that's w
 
 ##  An Experience That Constantly Oscillates
 
-![Clair Obscur, boss](/images/clairobscur/screenshot-6.jpg)
+![Clair Obscur, boss](/images/clairobscur/screenshot-6.webp)
 
 What makes Expedition 33 hard to score cleanly is its deeply uneven nature.
 

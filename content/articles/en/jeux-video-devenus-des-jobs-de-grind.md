@@ -19,7 +19,7 @@ Something broke in video games. Not suddenly. Gradually, insidiously, one mechan
 
 This feature is not going to speak to you gently.
 
-![video games grind](/images/grind/screenshot-1.jpg)
+![video games grind](/images/grind/screenshot-1.webp)
 
 ## The birth of the game-job
 

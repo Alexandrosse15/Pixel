@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "5 min"
 score: 7
 image_color: "from-zinc-950 via-slate-950 to-zinc-950"
-coverImage: "/images/NOM-DU-DOSSIER/screenshot-1.jpg"
+coverImage: "/images/NOM-DU-DOSSIER/screenshot-1.webp"
 gameName: "Game name"
 featured: false
 ---
 
-![Game name](/images/NOM-DU-DOSSIER/screenshot-2.jpg)
+![Game name](/images/NOM-DU-DOSSIER/screenshot-2.webp)
 
 Opening paragraph. No section heading here, go straight into the subject.
 
@@ -21,13 +21,13 @@ Opening paragraph. No section heading here, go straight into the subject.
 
 Section content.
 
-![Game name](/images/NOM-DU-DOSSIER/screenshot-3.jpg)
+![Game name](/images/NOM-DU-DOSSIER/screenshot-3.webp)
 
 ## Second section
 
 Content.
 
-![Game name](/images/NOM-DU-DOSSIER/screenshot-4.jpg)
+![Game name](/images/NOM-DU-DOSSIER/screenshot-4.webp)
 
 ## What we take away
 

@@ -20,7 +20,7 @@ Dans les faits, c'est autre chose. Et il faut être direct : Pokopia n'est pas l
 
 Au moins, on n'est pas sur l'affreux Pokémon Z-A.
 
-![Pokopia](/images/pokopia/screenshot-1.jpg)
+![Pokopia](/images/pokopia/screenshot-1.webp)
 
 ## Un concept séduisant... mais trompeur
 
@@ -38,7 +38,7 @@ Le constat est sans appel : Pokopia joue comme un MMO de farm. Accumulation cons
 
 Ce n'est pas ce qui avait été vendu.
 
-![Pokopia, construction](/images/pokopia/screenshot-2.jpg)
+![Pokopia, construction](/images/pokopia/screenshot-2.webp)
 
 ## Le problème n'est pas le grind, c'est la promesse
 
@@ -58,7 +58,7 @@ Ils perdent leur rôle émotionnel. Ce lien particulier que la licence a toujour
 
 Un Ronflex qui optimise votre production de baies, c'est triste. C'est aussi symptomatique de ce que Pokopia fait à son propre univers.
 
-![Pokopia, Pokémon](/images/pokopia/screenshot-3.jpg)
+![Pokopia, Pokémon](/images/pokopia/screenshot-3.webp)
 
 ## La comparaison avec Animal Crossing est inévitable, et brutale
 
@@ -80,7 +80,7 @@ Mais cette accroche repose sur la répétition, la progression artificielle, la 
 
 Et il y a une différence énorme entre les deux.
 
-![Pokopia, environnement](/images/pokopia/screenshot-4.jpg)
+![Pokopia, environnement](/images/pokopia/screenshot-4.webp)
 
 ## Verdict
 

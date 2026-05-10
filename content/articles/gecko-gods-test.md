@@ -16,7 +16,7 @@ On a tous un ami qui dit "les jeux de plateformes, c'est toujours pareil". Envoy
 
 Gecko Gods, c'est un jeu indépendant développé par Luke Traynor, sorti sur PC, qui part d'un postulat aussi simple qu'il est bien exploité : tu es un gecko sacré, tu peux grimper partout, et devant toi s'étend un monde de ruines à explorer. C'est tout. Et c'est largement suffisant.
 
-![Gecko Gods](/images/gecko-gods/screenshot-1.jpg)
+![Gecko Gods](/images/gecko-gods/screenshot-1.webp)
 
 ## Un concept qui tient en une phrase et qui aurait pu mal tourner
 
@@ -36,7 +36,7 @@ Ce que le jeu te donne à la place, c'est un environnement qui raconte. Les ruin
 
 C'est un jeu qui demande d'être regardé, pas seulement traversé. Et dans un genre où l'habitude est souvent de foncer, ralentir pour observer a quelque chose de presque contre-culturel.
 
-![Gecko Gods, temples](/images/gecko-gods/screenshot-2.jpg)
+![Gecko Gods, temples](/images/gecko-gods/screenshot-2.webp)
 
 ## La direction artistique : sobre et efficace
 
@@ -56,7 +56,7 @@ Certaines sections souffrent aussi d'un manque de clarté dans la lecture de l'e
 
 La progression narrative est également très ténue. Il y a une histoire en filigrane, suggérée par des inscriptions et des bas-reliefs, mais elle ne se déploie jamais vraiment. Si tu joues Gecko Gods en espérant une aventure narrative, tu vas repartir sur ta faim.
 
-![Gecko Gods, exploration](/images/gecko-gods/screenshot-3.jpg)
+![Gecko Gods, exploration](/images/gecko-gods/screenshot-3.webp)
 
 ## Un jeu pour qui ?
 

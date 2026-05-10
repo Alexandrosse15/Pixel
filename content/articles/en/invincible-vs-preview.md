@@ -7,12 +7,12 @@ date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-yellow-950 via-zinc-950 to-neutral-950"
-coverImage: "/images/invincibleVS/screenshot-1.png"
+coverImage: "/images/invincibleVS/screenshot-1.webp"
 gameName: "Invincible VS"
 featured: false
 ---
 
-![Invincible VS](/images/invincibleVS/screenshot-2.png)
+![Invincible VS](/images/invincibleVS/screenshot-2.webp)
 
 There are universes you protect.
 
@@ -26,7 +26,7 @@ This universe deserved a game worthy of it. It seems it finally has one.
 
 Invincible VS is a fighting game that takes seriously what kind of universe it draws from. Not a skin delivery mechanism. Not a generic brawler with recognisable costumes slapped onto it. A game that appears to understand that violence in Invincible isn't spectacular: it's brutal, consequential, and never gratuitous.
 
-![Invincible VS](/images/invincibleVS/screenshot-3.png)
+![Invincible VS](/images/invincibleVS/screenshot-3.webp)
 
 That distinction matters in designing a game of this type. A fighter built on Marvel or DC can afford to be flashy without depth because the source material normalised that. Invincible, on the other hand, was a landmark comic precisely because it showed the real consequences of hits. Every fight had weight. Every loss left marks. When Mark got beaten down, you saw it for issues afterwards. Early impressions suggest the game has integrated this logic into its art direction and game feel.
 
@@ -36,7 +36,7 @@ The announced roster is a statement of intent.
 
 Mark Grayson, obviously. Invincible himself, with all the duality the character carries: raw Viltrumite power and the human vulnerability that constantly counterbalances it. Playing him, according to those who've had early access, feels exactly like that tension between what he can do and what he chooses to do.
 
-![Invincible VS](/images/invincibleVS/screenshot-4.png)
+![Invincible VS](/images/invincibleVS/screenshot-4.webp)
 
 Nolan Grayson, Omni-Man. The father. And if you've read the comics or watched the animated series, you know what this character represents: the same power as Mark, but without the same moral restraint. Playing him should be a different experience. More direct. Colder. Several early testers noted that both Graysons share base mechanics but diverge in their situational reads, a way of translating ludically what the universe tells narratively.
 
@@ -48,7 +48,7 @@ Early test sessions produced consistent feedback across several points.
 
 Speed first. Invincible VS is fast. Not the kind of speed that masks a lack of depth, but speed that matches what these characters are in the fiction. Beings capable of crossing the atmosphere in seconds cannot fight like they have lead in their boots.
 
-![Invincible VS](/images/invincibleVS/screenshot-5.png)
+![Invincible VS](/images/invincibleVS/screenshot-5.webp)
 
 Readability next. The challenge of a fighter with characters of this power level is making exchanges readable without making them slow. Screenshots and gameplay footage show a strong visual direction: impacts with weight, effects that back up the power without drowning the information. It's a difficult balance. It seems to be held.
 
@@ -60,7 +60,7 @@ We won't pretend to be neutral.
 
 At InsertCoins, Invincible is something personal. We've had the comics in hand for years. We've spent time with these characters, we know their contradictions, their strengths, their weaknesses. Seeing that translated into a fighting game, well translated, with the apparent respect the team brings to the universe, is a particular kind of satisfaction.
 
-![Invincible VS](/images/invincibleVS/screenshot-6.png)
+![Invincible VS](/images/invincibleVS/screenshot-6.webp)
 
 And there's something moving about the fact that this universe keeps living after the comics ended. The Amazon animated series first, now this game. Invincible is finished as a comic but it keeps existing, expanding, finding new audiences. It's a way of giving it a second life without betraying the first. That's well done.
 

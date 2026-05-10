@@ -20,7 +20,7 @@ Le principe est d'une limpidité totale : nettoyer. Des tâches au sol, des obje
 
 Mais ici, la magie n'opère pas vraiment. Et la raison est simple : Cleaning Up! n'a jamais cherché à comprendre pourquoi ces jeux fonctionnaient.
 
-![Cleaning Up!](/images/cleaningup/screenshot-1.jpg)
+![Cleaning Up!](/images/cleaningup/screenshot-1.webp)
 
 ##  Un concept minimaliste... sans profondeur derrière
 
@@ -38,7 +38,7 @@ Ce qui rend certains simulateurs de tâches efficaces, c'est cette sensation de 
 
 Ici, cette satisfaction n'arrive pas. On fait la même chose de la même façon du début à la fin. Le jeu ne demande rien de plus, et en retour il ne donne rien de plus.
 
-![Cleaning Up!, environnement](/images/cleaningup/screenshot-2.jpg)
+![Cleaning Up!, environnement](/images/cleaningup/screenshot-2.webp)
 
 ##  Une répétitivité qui s'installe immédiatement
 
@@ -54,7 +54,7 @@ Un problème peut-être encore plus fondamental : le jeu ne crée aucune raison 
 
 On peut s'arrêter à tout moment sans ressentir de frustration. Mais surtout sans ressentir d'attachement. Ce détachement tranquille est peut-être la pire chose qu'un jeu puisse provoquer : l'indifférence. Pas la colère, pas la déception, juste l'indifférence.
 
-![Cleaning Up!, gameplay](/images/cleaningup/screenshot-3.jpg)
+![Cleaning Up!, gameplay](/images/cleaningup/screenshot-3.webp)
 
 ##  Une réalisation fonctionnelle, sans personnalité
 
@@ -68,7 +68,7 @@ Cleaning Up! donne une impression très particulière : celle d'un jeu qui pourr
 
 Il ne s'agit pas de condamner la simplicité. Certains jeux très simples dans leur concept sont parmi les plus mémorables qui soient. Mais la simplicité doit servir quelque chose. Elle doit cacher une profondeur, ou amplifier une émotion, ou proposer une expérience qui ne serait pas possible autrement. Ici, la simplicité ne cache rien. Elle est la finalité.
 
-![Cleaning Up!, résultat](/images/cleaningup/screenshot-4.jpg)
+![Cleaning Up!, résultat](/images/cleaningup/screenshot-4.webp)
 
 ##  Verdict
 

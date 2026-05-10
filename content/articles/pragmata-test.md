@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "6 min"
 score: 6.5
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/pragmatatest/screenshot-1.png"
+coverImage: "/images/pragmatatest/screenshot-1.webp"
 gameName: "Pragmata"
 featured: false
 ---
 
-![Pragmata](/images/pragmatatest/screenshot-2.png)
+![Pragmata](/images/pragmatatest/screenshot-2.webp)
 
 Lancer une nouvelle licence chez Capcom, ça ne s'improvise pas. La maison a ses habitudes, ses franchises rodées, ses recettes qui fonctionnent. Alors quand elle annonce Pragmata, un jeu de science-fiction avec un androïde, une petite fille et une Lune en ruines, on attend de voir si c'est un vrai pari ou juste une coquille bien emballée.
 
@@ -31,7 +31,7 @@ Ce n'est pas un système révolutionnaire, mais il est bien construit. Chaque af
 
 La structure Metroidvania 3D fonctionne bien avec cette approche. L'exploration des couloirs de la Lune est gratifiante, les zones déblocables avec de nouvelles capacités justifient l'aller-retour, et la carte se lit assez clairement pour qu'on ne se perde pas sans raison.
 
-![Pragmata](/images/pragmatatest/screenshot-3.png)
+![Pragmata](/images/pragmatatest/screenshot-3.webp)
 
 ## Ce qu'on retient du duo
 
@@ -39,7 +39,7 @@ L'autre point fort du jeu, c'est son duo. L'androïde et la petite fille qu'il p
 
 Parce que la narration principale est classique. Le mystère de la Lune, la nature de l'androïde, les révélations à retardement : on a vu le schéma ailleurs, souvent mieux exécuté. Ce n'est pas mauvais, c'est fonctionnel. Il pose les jalons sans prendre de risques.
 
-![Pragmata](/images/pragmatatest/screenshot-4.png)
+![Pragmata](/images/pragmatatest/screenshot-4.webp)
 
 ## Les limites
 
@@ -51,7 +51,7 @@ Le bestiaire est trop homogène sur la durée. Les quinze heures de jeu auraient
 
 La direction sonore, enfin, ne suit pas le niveau de la direction artistique. Les visuels sont remarquables, la Lune est un décor qui sait s'imposer, et la musique est correcte sans jamais vraiment coller à l'image. C'est le type de dissonance qu'on remarque sans savoir exactement pourquoi au début, et qui finit par peser.
 
-![Pragmata](/images/pragmatatest/screenshot-5.png)
+![Pragmata](/images/pragmatatest/screenshot-5.webp)
 
 ## Ce que Pragmata installe
 
@@ -59,7 +59,7 @@ Sur quinze heures, Capcom pose les bases d'une franchise. Pragmata n'est pas le 
 
 La prochaine fois, avec plus de friction, un bestiaire plus ambitieux et une narration qui prend davantage de risques, ça pourrait être quelque chose. Pour l'instant, c'est une promesse tenue à moitié, exécutée avec soin.
 
-![Pragmata](/images/pragmatatest/screenshot-6.png)
+![Pragmata](/images/pragmatatest/screenshot-6.webp)
 
 ## Verdict
 

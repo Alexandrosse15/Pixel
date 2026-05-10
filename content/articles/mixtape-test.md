@@ -12,13 +12,13 @@ score: 9
 featured: false
 ---
 
-![Mixtape](/images/mixtape/screenshot-1.png)
+![Mixtape](/images/mixtape/screenshot-1.webp)
 
 Il y a des jeux qu'on n'attendait pas vraiment. Pas parce qu'on s'en méfiait, mais parce qu'on n'avait pas conscience d'en avoir besoin. Mixtape est ce genre de jeu. Beethoven & Dinosaur, le studio australien qui avait déjà signé The Artful Escape en 2021, revient avec quelque chose de plus personnel, de plus abouti, et de plus difficile à secouer une fois terminé.
 
 96 sur OpenCritic au moment où on écrit ces lignes. 10/10 chez IGN. On a joué. On comprend.
 
-![Mixtape](/images/mixtape/screenshot-2.png)
+![Mixtape](/images/mixtape/screenshot-2.webp)
 
 ## Ce que c'est
 
@@ -26,7 +26,7 @@ Mixtape est un jeu narratif sur la fin du lycée. Trois amis, une nuit, des souv
 
 Ce n'est pas le genre de jeu qui déguise ses intentions. Mixtape veut provoquer de la nostalgie, et il le fait ouvertement. Pas la nostalgie opportuniste du "vous vous souvenez de Blockbuster" qui brandit des références comme des produits. La nostalgie de ce que c'est que d'avoir 17 ans et de sentir que quelque chose se termine avant même d'avoir commencé.
 
-![Mixtape](/images/mixtape/screenshot-3.png)
+![Mixtape](/images/mixtape/screenshot-3.webp)
 
 ## La musique, et pourquoi elle compte vraiment
 
@@ -36,7 +36,7 @@ Mais ce qui distingue Mixtape d'un film avec une bonne playlist, c'est l'interac
 
 La question "pourquoi jouer plutôt que regarder un let's play" est pertinente pour les jeux narratifs. Mixtape y répond : il y a deux ou trois séquences où l'implication physique dans la musique crée quelque chose qu'aucun spectateur ne ressentira de la même façon.
 
-![Mixtape](/images/mixtape/screenshot-4.png)
+![Mixtape](/images/mixtape/screenshot-4.webp)
 
 ## L'animation
 
@@ -44,7 +44,7 @@ Le style visuel fait le choix du low framerate, dans la lignée de Spider-Man: I
 
 On est dans le deuxième camp. Le rendu a quelque chose de particulier qui colle à l'ambiance. Ce n'est pas un défaut d'optimisation, c'est un choix artistique cohérent avec ce que le jeu veut être.
 
-![Mixtape](/images/mixtape/screenshot-5.png)
+![Mixtape](/images/mixtape/screenshot-5.webp)
 
 ## Pour qui
 
@@ -54,7 +54,7 @@ Pour les autres, pour ceux qui ont un endroit dans leur bibliothèque pour les c
 
 On a la musique dans la tête. L'histoire aussi. C'est le genre de jeu qu'on ne range pas tout de suite après le générique de fin.
 
-![Mixtape](/images/mixtape/screenshot-6.png)
+![Mixtape](/images/mixtape/screenshot-6.webp)
 
 ## Pourquoi le 9
 
@@ -64,6 +64,6 @@ Ce qui l'empêche du 10 : son ancrage culturel très américain créera une dist
 
 ---
 
-![Mixtape](/images/mixtape/screenshot-7.png)
+![Mixtape](/images/mixtape/screenshot-7.webp)
 
 *Test réalisé sur PC. Mixtape est disponible sur PC, Switch 2 et Steam Deck.*

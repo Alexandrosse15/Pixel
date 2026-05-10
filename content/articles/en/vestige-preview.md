@@ -7,7 +7,7 @@ date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-teal-950 via-slate-950 to-zinc-950"
-coverImage: "/images/vestige/banniére.png"
+coverImage: "/images/vestige/banniére.webp"
 gameName: "Vestige"
 featured: false
 ---
@@ -18,7 +18,7 @@ Imagine an island. Not the postcard kind, the kind full of questions that stay w
 
 Vestige is a narrative game. You explore an island guided by an impulse mechanic that evolves depending on the zones you travel through. The story unfolds naturally, never asking the player to connect the dots themselves: the narration does that work, at its own pace, carried by the character's emotions.
 
-![Vestige](/images/vestige/screenshot-2.png)
+![Vestige](/images/vestige/screenshot-2.webp)
 
 The artistic approach is dual: a realistic style for memory sequences, and a more stylised, almost oneiric direction for the island itself. The acknowledged visual reference is Kena: Bridge of Spirits.
 
@@ -28,7 +28,7 @@ Seven zones of grief structure the experience, each with its own visual and emot
 
 Vestige is a project that grew around a personal vision. Originally an idea from Valentin, the game's Director, whose theme of grief gradually became woven into development, transforming an intimate project into something larger. It's Rémy BAL who leads Pyramide Games, the studio now carrying the project forward.
 
-![Vestige](/images/vestige/screenshot-3.png)
+![Vestige](/images/vestige/screenshot-3.webp)
 
 Pyramide Games has three people at its core. Around them, a team of around twenty contributors, including interns, freelancers, and volunteers, around fifteen of whom are still active. Recruitment goes through Discord forums, video game school networks, and the indie community.
 
@@ -50,7 +50,7 @@ Vestige is also ineligible for CNC funding due to the proportion of volunteers o
 
 ## To follow
 
-![Vestige](/images/vestige/screenshot-4.png)
+![Vestige](/images/vestige/screenshot-4.webp)
 
 Vestige has a clear identity, an ambitious narrative structure, and a team that learns quickly from its mistakes. The seven zones of grief, the impulse mechanic that evolves throughout the game, the blend of realism and stylisation — all of it sketches a game that knows where it wants to go.
 

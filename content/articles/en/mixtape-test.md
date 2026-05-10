@@ -12,13 +12,13 @@ score: 9
 featured: false
 ---
 
-![Mixtape](/images/mixtape/screenshot-1.png)
+![Mixtape](/images/mixtape/screenshot-1.webp)
 
 Some games you don't really see coming. Not because you were wary of them, but because you didn't realize you needed them. Mixtape is that kind of game. Beethoven & Dinosaur, the Australian studio that already delivered The Artful Escape in 2021, returns with something more personal, more accomplished, and harder to shake once finished.
 
 96 on OpenCritic at the time of writing. 10/10 at IGN. We played it. We understand.
 
-![Mixtape](/images/mixtape/screenshot-2.png)
+![Mixtape](/images/mixtape/screenshot-2.webp)
 
 ## What it is
 
@@ -26,7 +26,7 @@ Mixtape is a narrative game about the end of high school. Three friends, one nig
 
 This is not a game that disguises its intentions. Mixtape wants to provoke nostalgia, and it does so openly. Not the opportunistic nostalgia that waves references like products. The nostalgia of what it feels like to be 17 and sense that something is ending before it's even begun.
 
-![Mixtape](/images/mixtape/screenshot-3.png)
+![Mixtape](/images/mixtape/screenshot-3.webp)
 
 ## The music, and why it really matters
 
@@ -36,7 +36,7 @@ But what sets Mixtape apart from a film with a good playlist is the interactivit
 
 The question of "why play rather than watch a let's play" is relevant for narrative games. Mixtape answers it: there are two or three sequences where physical involvement in the music creates something no spectator will feel in the same way.
 
-![Mixtape](/images/mixtape/screenshot-4.png)
+![Mixtape](/images/mixtape/screenshot-4.webp)
 
 ## The animation
 
@@ -44,7 +44,7 @@ The visual style makes the low-framerate choice, in the vein of Spider-Man: Into
 
 We're in the second camp. The rendering has something particular to it that suits the atmosphere. This isn't an optimization flaw, it's an artistic choice consistent with what the game wants to be.
 
-![Mixtape](/images/mixtape/screenshot-5.png)
+![Mixtape](/images/mixtape/screenshot-5.webp)
 
 ## Who it's for
 
@@ -54,7 +54,7 @@ For everyone else, for those who have a place in their library for coming-of-age
 
 We have the music in our heads. The story too. It's the kind of game you don't put away immediately after the final credits.
 
-![Mixtape](/images/mixtape/screenshot-6.png)
+![Mixtape](/images/mixtape/screenshot-6.webp)
 
 ## Why the 9
 
@@ -64,6 +64,6 @@ What keeps it from a 10: its very American cultural anchoring will create distan
 
 ---
 
-![Mixtape](/images/mixtape/screenshot-7.png)
+![Mixtape](/images/mixtape/screenshot-7.webp)
 
 *Review based on PC version. Mixtape is available on PC, Switch 2 and Steam Deck.*

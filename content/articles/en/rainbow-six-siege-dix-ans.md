@@ -13,7 +13,7 @@ featured: false
 
 It took ten years. Ten years, thousands of patches, a rebrand and a massive update for Rainbow Six Siege to finally become the game Ubisoft promised us in 2015. That's a long time. It's also, somehow, a little beautiful.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-1.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-1.webp)
 
 ## The past we'd rather forget
 
@@ -23,7 +23,7 @@ And Siege wasn't alone in this mess. Its younger sibling For Honor, released two
 
 It wasn't until Operation Health in 2017 that Ubisoft began gradually migrating Siege to dedicated servers, starting with ranked and custom matches. Terrorist Hunt mode waited a little longer. Because why rush.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-2.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-2.webp)
 
 ## Siege X: the overhaul nobody dared hope for
 
@@ -37,7 +37,7 @@ On the gameplay side, it's now possible to run along walls or move around corner
 
 And crossplay? Ubisoft has finally implemented crossplay between console and PC, letting players team up regardless of platform. Only ten years after launch. We applaud the courage, truly.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-3.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-3.webp)
 
 ## The esport scene: finally a real structure
 
@@ -49,7 +49,7 @@ The 2026 Challenger Series finally creates a real stepping stone between ranked 
 
 On the transfer side, the market has moved. Shaiiko leaves Team Falcons to join G2 Esports. Team BDS renames to Shifters. The next major appointment is the Salt Lake City Major, scheduled May 7-17, with four European slots on the line.
 
-![Rainbow Six Siege](/images/r6siege/screenshot-4.jpg)
+![Rainbow Six Siege](/images/r6siege/screenshot-4.webp)
 
 ## What this says about Ubisoft
 

@@ -7,7 +7,7 @@ date: "2026-05-04"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-violet-950 via-indigo-950 to-zinc-950"
-coverImage: "/images/sineusarena/screenshot-1.png"
+coverImage: "/images/sineusarena/screenshot-1.webp"
 gameName: "Sineus Arena Survivors"
 featured: false
 ---
@@ -16,17 +16,17 @@ Some games are born from a desire. Others are born from a decision. Sineus Arena
 
 That's the kind of context that changes how you look at a game.
 
-![Sineus Arena Survivors](/images/sineusarena/screenshot-2.png)
+![Sineus Arena Survivors](/images/sineusarena/screenshot-2.webp)
 
 ## What it is
 
 Sineus Arena Survivors is a third-person bullet heaven, playable solo or in co-op with up to four players. The premise is direct: enemy waves keep coming, you grow stronger, you collect weapons and artifacts, you build structures and towers in real time during combat, and you defend your stronghold, the Beacon, for as long as possible.
 
-![Sineus Arena Survivors](/images/sineusarena/screenshot-3.png)
+![Sineus Arena Survivors](/images/sineusarena/screenshot-3.webp)
 
 It's not a new formula. Vampire Survivors blew open the genre, and since then it's been crowded. What sets Sineus Arena Survivors apart on paper is the shift to 3D and the structured co-op dimension: four players splitting roles, managing resources together, building and defending in coordination. That's a different bet from the solo hypnotic experience the genre usually runs on.
 
-![Sineus Arena Survivors](/images/sineusarena/screenshot-4.png)
+![Sineus Arena Survivors](/images/sineusarena/screenshot-4.webp)
 
 ## What we're waiting for
 
@@ -34,7 +34,7 @@ The real-time construction mechanic during waves is the idea that deserves atten
 
 The fact that four-player co-op was designed in from the start, not retrofitted on top of a solo experience, is also a positive signal. The best co-op games are the ones that would have been worse without the others.
 
-![Sineus Arena Survivors](/images/sineusarena/screenshot-5.png)
+![Sineus Arena Survivors](/images/sineusarena/screenshot-5.webp)
 
 ## What worries us
 
@@ -42,7 +42,7 @@ The genre is saturated. Really saturated. For a bullet heaven to exist in the co
 
 The other unknown is content balance. A survivor that runs dry on artifact variety and synergies becomes a chore after a few runs. The richness of available builds will be the deciding factor.
 
-![Sineus Arena Survivors](/images/sineusarena/screenshot-6.png)
+![Sineus Arena Survivors](/images/sineusarena/screenshot-6.webp)
 
 ## Are we in?
 

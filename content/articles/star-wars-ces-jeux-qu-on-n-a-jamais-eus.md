@@ -19,7 +19,7 @@ Star Wars est l'une des licences les plus puissantes de l'histoire du jeu vidéo
 
 Ce dossier ne parle pas uniquement des jeux annulés. Il parle de ce que ces annulations révèlent. Du symptôme que représente chaque projet abandonné. Et de ce que ça dit de l'état actuel d'une franchise qui n'a jamais manqué de matière, mais qui semble de plus en plus incapable de la transformer en quelque chose de vraiment fort.
 
-![Star Wars Eclipse](/images/star-wars/screenshot-1.jpg)
+![Star Wars Eclipse](/images/star-wars/screenshot-1.webp)
 
 ## Star Wars 1313 : le fantasme qui ne mourra pas
 
@@ -51,7 +51,7 @@ Amy Hennig a elle-même évoqué les difficultés rencontrées, les tensions ent
 
 Ce qui reste de Ragtag, c'est une frustration particulière. Pas la frustration de ne pas avoir eu un bon jeu. La frustration de ne pas avoir su si c'en aurait été un. Et d'avoir perdu, au passage, une opportunité de voir ce qu'Amy Hennig aurait fait avec Star Wars.
 
-![Star Wars Outlaws](/images/star-wars/screenshot-2.jpg)
+![Star Wars Outlaws](/images/star-wars/screenshot-2.webp)
 
 ## La vraie question : pourquoi ces projets meurent-ils ?
 
@@ -79,7 +79,7 @@ Et le marché, visiblement, commence à en avoir assez de la solidité sans surp
 
 L'échec relatif d'Outlaws pose une question difficile pour la licence : si le format sécurisé ne garantit plus le succès commercial, que reste-t-il comme argument pour continuer à éviter les projets risqués ?
 
-![Star Wars Jedi: Survivor](/images/star-wars/screenshot-3.jpg)
+![Star Wars Jedi: Survivor](/images/star-wars/screenshot-3.webp)
 
 ## Jedi : Survivor, ou l'exception qui confirme la règle
 
@@ -107,7 +107,7 @@ Quantic Dream n'a pas le track record parfait. Detroit et Heavy Rain ont leurs d
 
 Ce n'est pas une raison de condamner le projet avant qu'il ne sorte. Mais c'est une raison de garder les attentes calibrées avec soin.
 
-![Star Wars Eclipse](/images/star-wars/screenshot-4.jpg)
+![Star Wars Eclipse](/images/star-wars/screenshot-4.webp)
 
 ## Le paradoxe de la licence la mieux placée pour échouer
 

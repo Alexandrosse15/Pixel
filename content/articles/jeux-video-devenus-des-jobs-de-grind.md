@@ -20,7 +20,7 @@ Quelque chose s'est cassé dans le jeu vidéo. Pas d'un coup. Progressivement, i
 
 Ce dossier ne va pas te parler doucement.
 
-![jeux video grind](/images/grind/screenshot-1.jpg)
+![jeux video grind](/images/grind/screenshot-1.webp)
 
 ## La naissance du jeu-boulot
 

@@ -11,7 +11,7 @@ gameName: "Star Wars: Fate of the Old Republic"
 featured: false
 ---
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-1.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-1.webp)
 
 On va être honnêtes : depuis la fin de l'ancien BioWare, on avait rangé cet espoir dans le tiroir du fond. Celui où on met les choses auxquelles on ne croit plus vraiment mais qu'on ne jette pas non plus. Un successeur digne de Knights of the Old Republic. Un RPG Star Wars qui traite le joueur comme un adulte. Une histoire dans une galaxie lointaine qui n'a pas besoin de Skywalker pour exister (non Rey, tu n'es pas une Skywalker).
 
@@ -19,7 +19,7 @@ Et puis Casey Hudson a fondé Arcanaut Studios. Et puis il a recruté. Et puis o
 
 Le tiroir est ouvert.
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-2.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-2.webp)
 
 ## Arcanaut Studios, ou la réunion de famille
 
@@ -31,7 +31,7 @@ Pour l'identité visuelle, Pascal Blanché arrive d'Ubisoft : Assassin's Creed p
 
 Ce n'est pas "plein d'anciens BioWare" comme certains titres l'ont formulé de façon un peu généreuse : on parle de quatre ou cinq personnes sur une équipe de trente. Mais ce sont les bonnes personnes. Celles qui ont construit ce que la communauté regrette encore.
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-3.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-3.webp)
 
 ## Ce que le projet dit (et ne dit pas encore)
 
@@ -41,7 +41,7 @@ La comparaison à KOTOR est à double tranchant. D'un côté, elle positionne cl
 
 Côté calendrier : Casey Hudson a écarté la rumeur d'une sortie en 2030, sans pour autant avancer de date. Un studio jeune, une équipe modeste, un projet de cette envergure : il faudra plusieurs années. On ne sait pas combien. On attend.
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-4.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-4.webp)
 
 ## L'argument BioWare en 2026
 
@@ -53,7 +53,7 @@ Mais Hudson et ses recrues ne sortent pas du BioWare de ces dernières années. 
 
 Est-ce une garantie ? Non. Est-ce un signal sérieux ? Oui.
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-5.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-5.webp)
 
 ## L'espoir a quel âge ?
 
@@ -63,7 +63,7 @@ Notre espoir, lui, il a vingt-trois ans. Il date de 2003, du premier KOTOR, de l
 
 Fate of the Old Republic n'est pas Un Nouvel Espoir. C'est un vieil espoir qui se rallume. Et pour l'instant, les signaux vont dans le bon sens.
 
-![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-6.png)
+![Star Wars: Fate of the Old Republic](/images/fateoftheoldrepublic/screenshot-6.webp)
 
 On garde le tiroir ouvert.
 

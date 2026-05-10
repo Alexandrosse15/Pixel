@@ -17,7 +17,7 @@ Il y a des jeux qu'on teste en se demandant pourquoi ils ont autant de joueurs. 
 
 Windrose appartient à la deuxième catégorie. Développé par Kraken Express, sorti en accès anticipé sur PC le 14 avril 2026 à 26,99 euros, le jeu est arrivé avec un pic à 113 930 joueurs simultanés et 89% d'avis positifs sur Steam. Ce n'est pas un phénomène de hype. C'est un jeu qui tient ce qu'il promet.
 
-![Windrose](/images/windrose/screenshot-6.jpg)
+![Windrose](/images/windrose/screenshot-6.webp)
 
 ## Gameplay : le bateau d'abord, tout le reste ensuite
 
@@ -31,7 +31,7 @@ Le combat naval est à l'avenant. Positionner ses canons, gérer l'angle de tir,
 
 La personnalisation du navire est profonde. Coque, voiles, canons, équipement de bord : le bateau évolue avec toi, visuellement et mécaniquement. Après dix heures, ton navire n'a plus rien à voir avec celui de départ, et cette progression organique est l'une des meilleures choses que le jeu ait à offrir.
 
-![Windrose combat naval](/images/windrose/screenshot-7.jpg)
+![Windrose combat naval](/images/windrose/screenshot-7.webp)
 
 ## Le monde : 90 points d'intérêt à explorer sans te prendre par la main
 
@@ -55,7 +55,7 @@ Ce n'est pas anodin. Des studios qui restent silencieux face aux problèmes de l
 
 La roadmap complète n'a pas encore été publiée, mais le studio a confirmé vouloir d'abord consolider les retours des premières semaines avant de communiquer sur la suite. Nouveaux biomes, navires supplémentaires, boss, contenu narratif : les grandes lignes sont connues, les détails arrivent.
 
-![Windrose exploration](/images/windrose/screenshot-8.jpg)
+![Windrose exploration](/images/windrose/screenshot-8.webp)
 
 ## Ce qui reste à corriger
 
@@ -77,7 +77,7 @@ La bande-son est dans le même registre : thèmes d'aventure qui s'effacent quan
 
 Le coop jusqu'à 4 joueurs, une fois les problèmes de connectivité du lancement résolus, est une excellente façon de jouer. Répartir les rôles sur le navire, coordonner l'abordage, gérer ensemble la navigation dans une tempête : l'expérience multiplayer est clairement une des forces du jeu, et Kraken Express a eu raison d'en faire une priorité.
 
-![Windrose coop](/images/windrose/screenshot-9.jpg)
+![Windrose coop](/images/windrose/screenshot-9.webp)
 
 ## Verdict
 

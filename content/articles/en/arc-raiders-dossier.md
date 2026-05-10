@@ -7,12 +7,12 @@ date: "2026-04-26"
 author: "Alexandrosse"
 readTime: "10 min"
 image_color: "from-slate-950 via-zinc-950 to-neutral-950"
-coverImage: "/images/arcraiders/screenshot-1.png"
+coverImage: "/images/arcraiders/screenshot-1.webp"
 gameName: "ARC Raiders"
 featured: false
 ---
 
-![ARC Raiders](/images/arcraiders/screenshot-2.png)
+![ARC Raiders](/images/arcraiders/screenshot-2.webp)
 
 We've seen this kind of game fail before.
 
@@ -28,7 +28,7 @@ That background is immediately visible in ARC Raiders. Not in the progression sy
 
 That expertise can't be improvised. And in a genre that has often stumbled at the technical foundation level, having a team for whom this is their core craft changes everything.
 
-![ARC Raiders](/images/arcraiders/screenshot-3.png)
+![ARC Raiders](/images/arcraiders/screenshot-3.webp)
 
 ## What makes ARC Raiders work
 
@@ -40,7 +40,7 @@ ARC Raiders resists that temptation. The core loop is clear: enter, explore, ext
 
 That clarity isn't simplicity. It's discipline. And in a genre where overdesign is the norm, discipline is a form of courage.
 
-![ARC Raiders](/images/arcraiders/screenshot-4.png)
+![ARC Raiders](/images/arcraiders/screenshot-4.webp)
 
 ### Controlled tension
 
@@ -58,31 +58,31 @@ Just a game. A good game, well made, that knows what it is.
 
 In an industry where marketing bullshit has often preceded launch disasters, that restraint is almost disarming. And it works precisely because it doesn't create expectations it can't meet.
 
-![ARC Raiders](/images/arcraiders/screenshot-5.png)
+![ARC Raiders](/images/arcraiders/screenshot-5.webp)
 
 ## The ghost of DayZ
 
 You can't talk about ARC Raiders without talking about DayZ. Not because the two games are identical, but because DayZ traced the path ARC Raiders is walking.
 
-![DayZ](/images/dayz/screenshot-1.png)
+![DayZ](/images/dayz/screenshot-1.webp)
 
 DayZ brought something irreplaceable to multiplayer gaming: proof that an open environment with scarce resources and other human players could generate stories no screenwriter could have written. The permanent tension of never knowing whether the player you encounter will help you or shoot you. The emergence of absurd and memorable situations born from simple systems colliding with unpredictable human decisions. The way scarcity creates value and turns a tin of food into a narrative stake.
 
-![DayZ](/images/dayz/screenshot-2.png)
+![DayZ](/images/dayz/screenshot-2.webp)
 
 DayZ created that kind of experience almost by accident, and nobody has reliably reproduced it since. Because DayZ had a fundamental problem: fragile execution. An eternal beta that lasted years, unstable tech, an experience frustrating for anyone without the patience to treat the bugs as part of the gameplay. The concept was brilliant. The delivery was a permanent construction on unstable foundations.
 
-![DayZ](/images/dayz/screenshot-3.png)
+![DayZ](/images/dayz/screenshot-3.webp)
 
 What DayZ proved by intention, ARC Raiders achieves by method. The tension is there. Human unpredictability is there. Emergent stories are there. But they rest this time on a clear structure, clean technology, a defined vision of what the experience should be.
 
 Where DayZ improvised, ARC Raiders structures.
 
-![DayZ](/images/dayz/screenshot-4.png)
+![DayZ](/images/dayz/screenshot-4.webp)
 
 That's not a criticism of DayZ — it's a recognition of what it opened. The survival extraction genre wouldn't exist without it. But opening the road and knowing how to walk it correctly are two different skills.
 
-![DayZ](/images/dayz/screenshot-5.png)
+![DayZ](/images/dayz/screenshot-5.webp)
 
 ## Why the community stays
 
@@ -96,7 +96,7 @@ Progression next. The game found a delicate balance: enough pressure that losing
 
 Word of mouth, finally. In the extraction shooter, the community builds around anecdotes. The betrayals. The improbable alliances. The extractions pulled off two seconds before being caught. Those stories spread, attract curious newcomers, and turn a game into a social phenomenon. ARC Raiders generates those stories with a consistency its predecessors couldn't sustain.
 
-![ARC Raiders](/images/arcraiders/screenshot-6.png)
+![ARC Raiders](/images/arcraiders/screenshot-6.webp)
 
 ## What's ahead for ARC Raiders
 
@@ -108,7 +108,7 @@ The second is gradual exhaustion. If the content doesn't keep pace, if the organ
 
 The third is the most dangerous: bad live service management. The moment where monetisation decisions override creative ones. Where battle passes take priority over balance, where cosmetic content replaces gameplay content, where communication becomes marketing rather than dialogue. It's the classic failure mode. And even the best studios have fallen into it.
 
-![ARC Raiders](/images/arcraiders/screenshot-7.png)
+![ARC Raiders](/images/arcraiders/screenshot-7.webp)
 
 ## Why ARC Raiders matters
 
@@ -118,7 +118,7 @@ That demonstration was missing. Since DayZ, the promise of the extraction shoote
 
 ARC Raiders doesn't reinvent anything. It just finally gets things right. And in a genre that has suffered so much from its creators' hubris, that might be the most precious form of achievement.
 
-![ARC Raiders](/images/arcraiders/screenshot-8.png)
+![ARC Raiders](/images/arcraiders/screenshot-8.webp)
 
 ---
 

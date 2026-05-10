@@ -7,11 +7,11 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-emerald-950 via-teal-950 to-slate-950"
-coverImage: "/images/hexharmony/screenshot-1.jpg"
+coverImage: "/images/hexharmony/screenshot-1.webp"
 featured: false
 ---
 
-![Hex Harmony](/images/hexharmony/screenshot-2.jpg)
+![Hex Harmony](/images/hexharmony/screenshot-2.webp)
 
 Il y a des jeux qu'on repère non pas parce qu'ils font du bruit, mais parce qu'ils font exactement ce qu'on voudrait voir plus souvent. Pas de battle pass, pas de mode multijoueur forcé, pas de trailer avec des explosions. Juste une idée simple, bien exécutée, et un art style qui donne envie d'y passer sa soirée.
 
@@ -25,7 +25,7 @@ Ce qui distingue Hex Harmony de la masse des jeux de gestion, c'est ce qu'il ref
 
 L'idée centrale, comprendre comment les éléments interagissent et trouver l'équilibre, est celle d'un bon puzzle : simple à formuler, riche à explorer.
 
-![Hex Harmony](/images/hexharmony/screenshot-3.jpg)
+![Hex Harmony](/images/hexharmony/screenshot-3.webp)
 
 ## L'art style
 
@@ -33,7 +33,7 @@ On ne va pas faire semblant : le low-poly coloré avec cette atmosphère cosy do
 
 Il y a quelque chose de soigné dans la direction artistique de Hex Harmony. Rien d'ostentatoire, tout au service de la lisibilité et de l'atmosphère. Le genre d'indie qu'on met en fond un dimanche après-midi et qu'on oublie pas.
 
-![Hex Harmony](/images/hexharmony/screenshot-4.jpg)
+![Hex Harmony](/images/hexharmony/screenshot-4.webp)
 
 ## Une démo disponible
 
@@ -51,7 +51,7 @@ On ne sait pas encore si l'exécution sera à la hauteur de la promesse. Les puz
 
 Mais l'intention est juste, l'art style est attachant, et Pixel Builder Studio semble savoir ce qu'ils veulent faire.
 
-![Hex Harmony](/images/hexharmony/screenshot-5.jpg)
+![Hex Harmony](/images/hexharmony/screenshot-5.webp)
 
 ## On suit
 
@@ -59,7 +59,7 @@ Chez InsertCoins, on a un faible pour ce genre d'indie tranquille qui n'essaie p
 
 On sera là pour le test.
 
-![Hex Harmony](/images/hexharmony/screenshot-6.jpg)
+![Hex Harmony](/images/hexharmony/screenshot-6.webp)
 
 ---
 

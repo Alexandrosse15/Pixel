@@ -35,11 +35,11 @@ And it becomes a product.
 
 Meanwhile, look at what happened over the past two years in the independent space.
 
-![Balatro](/images/placeholder-balatro-1.jpg)
+![Balatro](/images/placeholder-balatro-1.webp)
 
 Balatro. A roguelite card game that should have interested nobody, made by a single person, released without fanfare, and which ended up in everyone's conversations for months. Not because it was visually ambitious. Because it had an idea. A real one. Sustained from start to finish with surgical precision.
 
-![Balatro, gameplay](/images/placeholder-balatro-2.jpg)
+![Balatro, gameplay](/images/placeholder-balatro-2.webp)
 
 Hades II. The sequel to a game that had already pushed the boundaries of its genre, continuing to do so, treating its players as adults capable of appreciating dense storytelling and a combat system that takes time to master.
 
@@ -49,7 +49,7 @@ These games don't have the same budgets. They don't have the same teams. But the
 
 ## When art direction becomes a weapon
 
-![Hades II](/images/placeholder-hades-1.jpg)
+![Hades II](/images/placeholder-hades-1.webp)
 
 Take REPLACED. A game that immediately establishes a visual identity that belongs only to itself: ultra-detailed pixel art, a mastered cyberpunk atmosphere, animations of rare fluidity. Within the first seconds, you know you're somewhere specific. No AAA takes this kind of risk today. Not because they couldn't, but because they won't. An art direction this sharp is polarising. And polarising is dangerous when the budget is on the line.
 
@@ -59,7 +59,7 @@ Independent games don't have the luxury of being "safe". They have to try. They 
 
 ## The fatigue of déjà vu
 
-![Hades II, combat](/images/placeholder-hades-2.jpg)
+![Hades II, combat](/images/placeholder-hades-2.webp)
 
 Players are starting to feel it. Open worlds that go on too long, mechanics recycled from one entry to the next, progression systems artificially stretched to justify the price. Enjoyment gradually gives way to a strange sensation: the feeling of having done this before. Several times.
 
@@ -73,7 +73,7 @@ To be honest: indie games are not perfect. The lack of resources shows sometimes
 
 But imperfection is not the same as lifelessness. A game can be technically lacking and intellectually ahead. A game can be missing polish and have a strong idea. A game can seem limited on paper and leave a lasting mark in practice.
 
-![REPLACED, art direction](/images/placeholder-replaced.jpg)
+![REPLACED, art direction](/images/placeholder-replaced.webp)
 
 What many AAA games have lost, and indie games still hold, is the sense that there's someone behind the game. A point of view. An obsession. A reason to exist that goes beyond ticking a box on a roadmap.
 
@@ -87,7 +87,7 @@ The most discussed games, the most recommended, the most cited when people talk 
 
 ## A question of expectations
 
-![Mouse: P.I. For Hire](/images/placeholder-mouse.jpg)
+![Mouse: P.I. For Hire](/images/placeholder-mouse.webp)
 
 Video games have never been richer. More titles than ever, more diversity, more different spaces for different experiences. That's genuinely good news.
 

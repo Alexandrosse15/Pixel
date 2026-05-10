@@ -18,7 +18,7 @@ Verne: The Shape of Fantasy is exactly that kind of game. Developed by Gametopia
 
 A narrative point-and-click in which you play as Jules Verne himself, lost in Hemera, a fantasy world built from his own imagination. The concept is as seductive as it is well executed.
 
-![Verne: The Shape of Fantasy](/images/verne-the-shape-of-fantasy/screenshot-1.jpg)
+![Verne: The Shape of Fantasy](/images/verne-the-shape-of-fantasy/screenshot-1.webp)
 
 ## Gameplay: the mechanic that changes things
 
@@ -34,7 +34,7 @@ The puzzles are accessible. Perhaps too accessible for players used to Monkey Is
 
 The variety of situations fortunately compensates for the lack of difficulty. The game doesn't repeat itself, regularly refreshes its contexts, and the five to six hours the adventure lasts never really feel like they're going in circles.
 
-![Verne: The Shape of Fantasy, Nautilus](/images/verne-the-shape-of-fantasy/screenshot-2.jpg)
+![Verne: The Shape of Fantasy, Nautilus](/images/verne-the-shape-of-fantasy/screenshot-2.webp)
 
 ## Story: Jules Verne as you've never met him
 
@@ -58,7 +58,7 @@ The soundtrack by composer Eloi Caballé is a very pleasant surprise. It blends 
 
 One minor technical note: the absence of manual saving. The game saves automatically, which is generally sufficient, but remains a minor irritant for players who like to control that parameter.
 
-![Verne: The Shape of Fantasy, Atlantis](/images/verne-the-shape-of-fantasy/screenshot-3.jpg)
+![Verne: The Shape of Fantasy, Atlantis](/images/verne-the-shape-of-fantasy/screenshot-3.webp)
 
 ## Verdict
 

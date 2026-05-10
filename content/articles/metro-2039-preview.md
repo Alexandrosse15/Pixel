@@ -11,7 +11,7 @@ gameName: "Metro 2039"
 featured: false
 ---
 
-![Metro 2039](/images/metro2039/screenshot-1.png)
+![Metro 2039](/images/metro2039/screenshot-1.webp)
 
 On a lu tous les livres. On a fait tous les jeux. On connaît le métro de Moscou mieux que certains de ses habitants fictifs. Alors quand 4A Games a lâché la bande-annonce de Metro 2039, on n'a pas regardé en spectateurs. On a regardé en gens qui savent exactement ce qu'ils voient.
 
@@ -25,7 +25,7 @@ Le cadre : six ans après les événements de Metro Exodus, en 2039. Le Novoreic
 
 Hunter est devenu Führer.
 
-![Metro 2039](/images/metro2039/screenshot-2.png)
+![Metro 2039](/images/metro2039/screenshot-2.webp)
 
 ## Hunter, et pourquoi ça nous convient
 
@@ -35,7 +35,7 @@ Le voir revenir comme antagoniste principal d'un régime autoritaire qui a unifi
 
 Un Führer qui a peut-être été brisé par les Sombres avant d'en faire un ennemi existentiel. Dans l'univers de Metro, c'est précisément le genre de tragédie qui fonctionne.
 
-![Metro 2039](/images/metro2039/screenshot-3.png)
+![Metro 2039](/images/metro2039/screenshot-3.webp)
 
 ## Le Stranger et la question qui agite Reddit
 
@@ -49,7 +49,7 @@ Le site du jeu confirme un nouveau protagoniste. Le mystère est intentionnel. E
 
 Ce n'est pas un détail. C'est une déclaration.
 
-![Metro 2039](/images/metro2039/screenshot-4.png)
+![Metro 2039](/images/metro2039/screenshot-4.webp)
 
 ## Ce qui inquiète
 
@@ -57,7 +57,7 @@ Le Novoreich a conquis tout le métro en trois ans. Pour les fans des factions, 
 
 On espère que Metro 2039 ne simplifie pas l'univers en le réduisant à un seul antagoniste monolithique. Les meilleurs moments de la série ont toujours été ceux où la menace était multiple et les alliances impures.
 
-![Metro 2039](/images/metro2039/screenshot-5.png)
+![Metro 2039](/images/metro2039/screenshot-5.webp)
 
 ## On y va
 

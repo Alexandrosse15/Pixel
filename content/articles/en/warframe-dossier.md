@@ -7,7 +7,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "11 min"
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/warframe/screenshot-1.jpg"
+coverImage: "/images/warframe/screenshot-1.webp"
 featured: false
 ---
 
@@ -39,7 +39,7 @@ That's not a detail. It's the backbone of the entire relationship between Digita
 
 Result: in 13 years, Warframe has never introduced a pay-to-win mechanic. Never sold a direct advantage for real money. That consistency, in this industry, is almost without equivalent.
 
-![Warframe](/images/warframe/screenshot-3.jpg)
+![Warframe](/images/warframe/screenshot-3.webp)
 
 ## While Destiny burned
 
@@ -57,7 +57,7 @@ Every major update was free. Every new world, every new warframe, every story ex
 
 That's not abstract generosity. It's a model that proved it worked while better-funded models exhausted themselves.
 
-![Warframe](/images/warframe/screenshot-4.jpg)
+![Warframe](/images/warframe/screenshot-4.webp)
 
 ## The Second Dream and the narrative question
 
@@ -79,7 +79,7 @@ We don't know the details of those discussions, the names of the prospective buy
 
 That continuity isn't common. It partly explains the coherence of a game that went through 13 years of patches, expansions, meta changes and evolutions without losing its fundamental identity.
 
-![Warframe](/images/warframe/screenshot-6.jpg)
+![Warframe](/images/warframe/screenshot-6.webp)
 
 ## Why it's not in the mainstream conversation
 

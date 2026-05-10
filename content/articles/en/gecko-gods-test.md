@@ -16,7 +16,7 @@ We all have that friend who says "platformers are always the same". Send them Ge
 
 Gecko Gods is an indie game developed by Luke Traynor, released on PC, built on a premise as simple as it is well executed: you're a sacred gecko, you can climb anything, and ahead of you stretches a world of ruins to explore. That's it. And it's more than enough.
 
-![Gecko Gods](/images/gecko-gods/screenshot-1.jpg)
+![Gecko Gods](/images/gecko-gods/screenshot-1.webp)
 
 ## A concept that fits in one sentence and could have gone badly
 
@@ -36,7 +36,7 @@ What the game gives you instead is an environment that tells its own story. The 
 
 This is a game that demands to be looked at, not just run through. And in a genre where the habit is usually to charge forward, slowing down to observe feels almost counter-cultural.
 
-![Gecko Gods, temples](/images/gecko-gods/screenshot-2.jpg)
+![Gecko Gods, temples](/images/gecko-gods/screenshot-2.webp)
 
 ## Art direction: restrained and effective
 
@@ -56,7 +56,7 @@ Some sections also suffer from a lack of clarity in reading the space. Not often
 
 The narrative thread is also very thin. There's a story in the background, suggested through inscriptions and bas-reliefs, but it never really unfolds. If you play Gecko Gods hoping for a narrative adventure, you'll leave unsatisfied.
 
-![Gecko Gods, exploration](/images/gecko-gods/screenshot-3.jpg)
+![Gecko Gods, exploration](/images/gecko-gods/screenshot-3.webp)
 
 ## Who is this for?
 

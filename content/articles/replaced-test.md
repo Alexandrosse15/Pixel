@@ -20,7 +20,7 @@ Mais une fois la claque visuelle passée, une question reste. Et c'est souvent l
 
 *Sorti sur PC et Xbox Series X|S date de sortie : 2026*
 
-![REPLACED](/images/replaced/screenshot-1.jpg)
+![REPLACED](/images/replaced/screenshot-1.webp)
 
 ## Une direction artistique au-dessus du lot
 
@@ -30,7 +30,7 @@ Le pixel art ultra détaillé, les animations d'une fluidité rare, l'ambiance c
 
 Il y a une ambition esthétique ici qui force le respect. Et qui met d'autant plus en lumière ce qui manque à côté.
 
-![REPLACED, gameplay](/images/replaced/screenshot-2.jpg)
+![REPLACED, gameplay](/images/replaced/screenshot-2.webp)
 
 ## Un gameplay solide… mais sans surprise
 
@@ -48,7 +48,7 @@ Mais rapidement, les combats deviennent répétitifs. Les situations se ressembl
 
 C'est propre. C'est trop propre.
 
-![REPLACED, combat](/images/replaced/screenshot-3.jpg)
+![REPLACED, combat](/images/replaced/screenshot-3.webp)
 
 ## Une narration en retrait
 
@@ -66,7 +66,7 @@ Le jeu donne parfois l'impression d'être une démo technique brillante plus qu'
 
 Ce n'est pas sans précédent. Certains jeux assument pleinement cette proposition et la font tenir sur la durée. REPLACED n'y parvient pas complètement.
 
-![REPLACED, ambiance](/images/replaced/screenshot-4.jpg)
+![REPLACED, ambiance](/images/replaced/screenshot-4.webp)
 
 ## Un jeu ou une expérience artistique ?
 

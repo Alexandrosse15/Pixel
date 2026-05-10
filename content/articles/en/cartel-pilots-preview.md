@@ -7,7 +7,7 @@ date: "2026-04-19"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-emerald-950 via-teal-900 to-amber-950"
-coverImage: "/images/cartelpiloits/screenshot-1.jpg"
+coverImage: "/images/cartelpiloits/screenshot-1.webp"
 featured: false
 ---
 
@@ -15,7 +15,7 @@ We'll be upfront from the start: we haven't played Cartel Pilots Wanted. No demo
 
 That reaction is nostalgia. A precise, dated, perfectly identifiable nostalgia.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-2.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-2.webp)
 
 ## What the trailer wakes up
 
@@ -29,7 +29,7 @@ Cartel Pilots Wanted isn't Far Cry. It's not an FPS — it's an accessible fligh
 
 We're trying anyway.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-3.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-3.webp)
 
 ## What we know objectively
 
@@ -39,7 +39,7 @@ The flight physics are advertised as accessible, not hardcore simulation. That's
 
 Dynamic weather, hidden islands, hangar management: the game seems to want to build a progression loop that mixes free exploration and resource management. That's ambitious for an indie studio, and exactly the kind of ambition we watch closely — because it can produce something exceptional or exhaust itself before release.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.webp)
 
 ## What holds us back
 
@@ -49,7 +49,7 @@ A polished trailer and a well-written Steam page don't make a good game. "Access
 
 Those are questions only the complete game can answer. OldYacht hasn't announced a release date yet. The game is in active development, with a playtest app on Steam suggesting testing has taken place, but no public session open to our knowledge.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-5.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-5.webp)
 
 ## We'll be there
 
@@ -57,11 +57,11 @@ What's certain is that Cartel Pilots Wanted achieved something rare: making us w
 
 That's not a quality guarantee. It's a promise, and promises get tested.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-6.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-6.webp)
 
 We'll be there when it's playable.
 
-![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-7.jpg)
+![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-7.webp)
 
 ---
 

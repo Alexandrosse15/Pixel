@@ -7,12 +7,12 @@ date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-slate-950 via-indigo-950 to-zinc-950"
-coverImage: "/images/stellfortressawakening/screenshot-1.jpg"
+coverImage: "/images/stellfortressawakening/screenshot-1.webp"
 gameName: "Steel Fortress Awakening"
 featured: false
 ---
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-2.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-2.webp)
 
 Some projects are born from frustration. Others from obsession. Steel Fortress Awakening is clearly the second kind.
 
@@ -28,7 +28,7 @@ There's another layer, more poetic: recovering the memories of a vanished civili
 
 It's a simple, elegant idea, the kind that says a lot about a creator's intentions.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-3.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-3.webp)
 
 ## Art direction first
 
@@ -38,7 +38,7 @@ The target visual style is a flat Japanese-animation render with strong shadows,
 
 In terms of format, the ambition is clear and stated: around 8 hours of gameplay, linear adventure, no replayability planned for now, no narrative choice system. A concentrated experience, not an open world that gradually falls apart.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-4.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-4.webp)
 
 ## AI in the workflow: yes, but honestly
 
@@ -52,7 +52,7 @@ Steel Fortress Awakening isn't a game yet. It's a vision, a pre-production in pr
 
 It's the risky, exciting bet of indie development in its purest form: someone with an idea that won't let them go, deciding to put everything on it.
 
-![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-5.jpg)
+![Steel Fortress Awakening](/images/stellfortressawakening/screenshot-5.webp)
 
 We'll be watching.
 

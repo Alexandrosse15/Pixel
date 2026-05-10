@@ -22,7 +22,7 @@ But coming back to Outlaws today means rediscovering a transformed game. Not a m
 
 ## A Premature Launch... and an Obvious Potential
 
-![Star Wars Outlaws](/images/outlaws/screenshot-1.jpg)
+![Star Wars Outlaws](/images/outlaws/screenshot-1.webp)
 
 From the very first hours, Outlaws showed something rare: a genuine desire to offer a different kind of Star Wars experience.
 
@@ -44,7 +44,7 @@ The result: an immersion constantly broken.
 
 ## The Work Done in the Shadows: Fixing Without Reinventing
 
-![Star Wars Outlaws, open world](/images/outlaws/screenshot-2.jpg)
+![Star Wars Outlaws, open world](/images/outlaws/screenshot-2.webp)
 
 Unlike some games that rely on spectacular overhauls, Outlaws evolved in a quieter way.
 
@@ -61,7 +61,7 @@ These aren't "marketing" changes. They're foundational improvements, the kind th
 
 ## Stealth: From Constraint to Playstyle Choice
 
-![Star Wars Outlaws, stealth](/images/outlaws/screenshot-3.jpg)
+![Star Wars Outlaws, stealth](/images/outlaws/screenshot-3.webp)
 
 This was one of the most criticised points at launch. The stealth often felt punishing, rigid, almost forced.
 
@@ -81,7 +81,7 @@ And that's where the experience finally becomes consistent with its theme: being
 
 ## A World That Finally Takes Time to Exist
 
-![Star Wars Outlaws, city](/images/outlaws/screenshot-4.jpg)
+![Star Wars Outlaws, city](/images/outlaws/screenshot-4.webp)
 
 The real change, however, can't be measured in technical fixes alone.
 
@@ -99,7 +99,7 @@ Because it's no longer trying to impress at every second: it simply lets its uni
 
 ## The Outer Rim as a Credible Playground
 
-![Star Wars Outlaws, factions](/images/outlaws/screenshot-5.jpg)
+![Star Wars Outlaws, factions](/images/outlaws/screenshot-5.webp)
 
 One of the game's greatest merits, now far more visible, is its ability to capture a rarely explored side of Star Wars.
 
@@ -117,7 +117,7 @@ It's not revolutionary. But it's enough to give the impression of a world that r
 
 ## The Rediscovered Joy of Wandering
 
-![Star Wars Outlaws, speeder](/images/outlaws/screenshot-6.jpg)
+![Star Wars Outlaws, speeder](/images/outlaws/screenshot-6.webp)
 
 This may be the most important point.
 

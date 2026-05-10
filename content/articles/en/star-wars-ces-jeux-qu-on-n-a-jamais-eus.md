@@ -19,7 +19,7 @@ Star Wars is one of the most powerful licences in the history of video games. Do
 
 This feature isn't just about cancelled games. It's about what those cancellations reveal. About the symptom that every abandoned project represents. And about what it says regarding the current state of a franchise that has never lacked for material, but that seems increasingly unable to turn it into something genuinely powerful.
 
-![Star Wars Eclipse](/images/star-wars/screenshot-1.jpg)
+![Star Wars Eclipse](/images/star-wars/screenshot-1.webp)
 
 ## Star Wars 1313: the fantasy that will not die
 
@@ -51,7 +51,7 @@ Amy Hennig herself has spoken about the difficulties encountered, the tensions b
 
 What remains of Ragtag is a particular frustration. Not the frustration of not having a good game. The frustration of not knowing whether it would have been one. And of losing, in the process, the chance to see what Amy Hennig would have done with Star Wars.
 
-![Star Wars Outlaws](/images/star-wars/screenshot-2.jpg)
+![Star Wars Outlaws](/images/star-wars/screenshot-2.webp)
 
 ## The real question: why do these projects die?
 
@@ -79,7 +79,7 @@ And the market, evidently, is starting to tire of solidity without surprise.
 
 The relative failure of Outlaws poses a difficult question for the franchise: if the secured format no longer guarantees commercial success, what argument remains for continuing to avoid risky projects?
 
-![Star Wars Jedi: Survivor](/images/star-wars/screenshot-3.jpg)
+![Star Wars Jedi: Survivor](/images/star-wars/screenshot-3.webp)
 
 ## Jedi: Survivor, or the exception that proves the rule
 
@@ -107,7 +107,7 @@ Quantic Dream's track record isn't perfect. Detroit and Heavy Rain have their fl
 
 That's not a reason to condemn the project before it releases. But it's a reason to keep expectations carefully calibrated.
 
-![Star Wars Eclipse](/images/star-wars/screenshot-4.jpg)
+![Star Wars Eclipse](/images/star-wars/screenshot-4.webp)
 
 ## The paradox of the licence best placed to fail itself
 

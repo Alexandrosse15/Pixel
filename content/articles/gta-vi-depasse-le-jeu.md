@@ -17,7 +17,7 @@ Avec GTA VI, Rockstar Games ne promet pas seulement un jeu. Le studio orchestre 
 
 ## Une attente construite sur le vide
 
-![GTA VI](/images/gta-vi/screenshot-1.jpg)
+![GTA VI](/images/gta-vi/screenshot-1.webp)
 
 Depuis la sortie de Grand Theft Auto V, l'industrie a changé. Les modèles économiques ont évolué, les technologies ont progressé, mais Rockstar, lui, a pris son temps.
 
@@ -31,7 +31,7 @@ Chaque fuite, chaque image, chaque seconde de trailer est disséquée, analysée
 
 ## Vice City, ou le retour du mythe
 
-![GTA VI Vice City](/images/gta-vi/screenshot-2.jpg)
+![GTA VI Vice City](/images/gta-vi/screenshot-2.webp)
 
 Le choix de revisiter Vice City n'est pas anodin. Cette ville fictive, inspirée de Miami, est déjà chargée d'un imaginaire puissant : néons, excès, soleil et violence.
 
@@ -45,7 +45,7 @@ Ce n'est plus seulement un monde ouvert. C'est un monde observé.
 
 ## Un duo pour raconter l'Amérique
 
-![Lucia et Jason](/images/gta-vi/screenshot-3.jpg)
+![Lucia et Jason](/images/gta-vi/screenshot-3.webp)
 
 L'une des ruptures majeures vient de ses protagonistes, Lucia et Jason. Là où la série a souvent mis en avant des figures masculines solitaires, GTA VI introduit une dynamique de duo.
 
@@ -59,7 +59,7 @@ Rockstar semble vouloir raconter autre chose que l'ascension classique d'un anti
 
 ## Le poids d'un héritage écrasant
 
-![GTA VI monde ouvert](/images/gta-vi/screenshot-4.jpg)
+![GTA VI monde ouvert](/images/gta-vi/screenshot-4.webp)
 
 Mais derrière l'excitation, il y a une réalité plus fragile.
 
@@ -76,7 +76,7 @@ C'est là tout le paradoxe : répondre à des attentes devenues presque impossib
 
 ## Une industrie suspendue à sa sortie
 
-![GTA VI trailer](/images/gta-vi/screenshot-5.jpg)
+![GTA VI trailer](/images/gta-vi/screenshot-5.webp)
 
 Peu de jeux ont ce pouvoir, mais GTA VI influence déjà toute l'industrie :
 

@@ -7,7 +7,7 @@ date: "2026-05-01"
 author: "Alexandrosse"
 readTime: "5 min"
 image_color: "from-yellow-950 via-violet-950 to-zinc-950"
-coverImage: "/images/deadasdisco/screenshot-1.png"
+coverImage: "/images/deadasdisco/screenshot-1.webp"
 gameName: "Dead as Disco"
 featured: false
 ---
@@ -18,7 +18,7 @@ We almost want to lace up some rollerblades and go tag some walls. You'll unders
 
 Before talking about the game, let's talk about who made it. Brain Jar Games is a studio founded by veterans who worked on the tight gunplay systems of Call of Duty, refined the epic narrative of Mass Effect, and managed the massive infrastructure of RIFT. This isn't a first game made in a garage on three cans of Red Bull. This is the debut indie title of a team that knows exactly what it's doing.
 
-![Dead as Disco](/images/deadasdisco/screenshot-2.png)
+![Dead as Disco](/images/deadasdisco/screenshot-2.webp)
 
 And it shows from the very first seconds: impeccable polish, rock-solid optimisation, uncompromising artistic vision. Dead as Disco looks like a game that knows where it's going.
 
@@ -26,7 +26,7 @@ And it shows from the very first seconds: impeccable polish, rock-solid optimisa
 
 Dead as Disco is an ultra-neon Beat 'Em Up. You play as Charlie Disco, a fighter in a yellow vest whose mission is to take down the Idols, his former bandmates turned corrupt figures in a world where music is a weapon. All of this wrapped in a visual universe that looks like an 80s music video run through a particle accelerator.
 
-![Dead as Disco](/images/deadasdisco/screenshot-3.png)
+![Dead as Disco](/images/deadasdisco/screenshot-3.webp)
 
 The demo is out. We played it. Here's what we think.
 
@@ -40,7 +40,7 @@ The music is good. Not "good for an indie game" good, just good. It has body, im
 
 Charlie Disco has something. The yellow vest, the fluid movement, a way of chaining strikes that just lands right: we thought of Bruce Lee, we thought of Enter the Dragon, and we're fine owning that. This is clearly not an accident of game design.
 
-![Dead as Disco](/images/deadasdisco/screenshot-4.png)
+![Dead as Disco](/images/deadasdisco/screenshot-4.webp)
 
 On the combat side, the combos occasionally remind you of the early Batman Arkham games. Not their weight or their depth, to be fair, we're exaggerating slightly. But there's something of that pleasure of reading enemies, waiting for the right window, and chaining cleanly. The system isn't as sophisticated, but the fluidity is there, and in a Beat 'Em Up, fluidity is 80% of the job.
 
@@ -50,7 +50,7 @@ The combos have impact. This isn't a game where you mash a button and enemies fa
 
 The demo is short. By definition. What we don't know yet is whether the combat system's depth holds up over a full campaign, or whether the musical synchronisation becomes a constraint after a few hours.
 
-![Dead as Disco](/images/deadasdisco/screenshot-5.png)
+![Dead as Disco](/images/deadasdisco/screenshot-5.webp)
 
 The story, for now, is an invitation more than a narrative. Charlie Disco, the Idols, reuniting the band. It's a narrative promise that makes you want to go further, but hasn't proven anything yet. Given the team's Mass Effect background, there are reasons to believe. But we don't have reasons to be certain.
 
@@ -60,7 +60,7 @@ The other question is variety. The levels we played are beautiful and coherent, 
 
 Yes. The answer is yes.
 
-![Dead as Disco](/images/deadasdisco/screenshot-6.png)
+![Dead as Disco](/images/deadasdisco/screenshot-6.webp)
 
 Dead as Disco has something many games don't: an immediately readable visual identity, music that's part of the gameplay rather than just the backdrop, and a lead character we want to follow even without having seen where his story goes yet.
 

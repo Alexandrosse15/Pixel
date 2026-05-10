@@ -7,13 +7,13 @@ date: "2026-04-30"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-green-950 via-emerald-950 to-zinc-950"
-coverImage: "/images/adorableadventure/screenshot-1.png"
+coverImage: "/images/adorableadventure/screenshot-1.webp"
 gameName: "Adorable Adventures"
 score: 8
 featured: false
 ---
 
-![Adorable Adventures](/images/adorableadventure/screenshot-2.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-2.webp)
 
 You have to be honest about what it's like to launch Adorable Adventures after a week of chaining shooters and open worlds that measure their ambition in square kilometres of map. It's a shock. A gentle shock, but a shock nonetheless.
 
@@ -23,7 +23,7 @@ Boris is a baby boar. He's small, he's curious, he charges through tall grass li
 
 The game takes place in environments inspired by the Cévennes National Park in the south of France. That's not a cosmetic detail: it's a choice that defines the entire project. The Cévennes have a particular quality of light, dense dry vegetation, rocky plateaus that drop down into forested valleys. Adorable Adventures captures something real in that space.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-3.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-3.webp)
 
 Rolling meadows, forest paths filtering sunlight through foliage, caves and rivers: each zone was built by hand, with a care you sense immediately. You're not in an environment generated to fill space. You're in a place that was designed, drawn, intended. A small indie team that knows its terrain, and it shows.
 
@@ -31,7 +31,7 @@ Rolling meadows, forest paths filtering sunlight through foliage, caves and rive
 
 The central mechanic is scent. Boris follows olfactory trails to progress, identify the origin of smells, filter those he already knows to navigate. This isn't a skin over a classic marker system. It's a genuine reinterpretation of navigation in an exploration game.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-4.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-4.webp)
 
 Following a scent requires observing the environment differently. You read the wind, you look for the visual cues the game associates with trails, you gradually learn to distinguish what's relevant from what isn't. The interactive herbarium that fills in as you discover things is an excellent idea: it turns exploration into an organic collection without reducing it to a checklist.
 
@@ -41,7 +41,7 @@ What's remarkable is that the scent mechanic forces you to slow down. You can't 
 
 The main objective is finding Boris's family members, each with their own personality and puzzle adapted to it. This isn't disguised progression: the interactions are written with enough character that each reunion is a moment in its own right.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-5.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-5.webp)
 
 Maxime the forest ranger accompanies Boris throughout with a fully voiced adaptive narration. The story adjusts to what you do, what you discover, the order you explore in. It's not complex branching narrative, but it's enough that each player feels the game is telling their story, not a standardised version of the same one.
 
@@ -51,7 +51,7 @@ Side activities, timed races, photo challenges, picking up litter in the park, r
 
 A lot of games call themselves "cozy." Most use the word to describe a slow pace and pastel visuals. Adorable Adventures is cozy in a deeper sense: it's kind. Not condescending, not infantilising, but consistently kind toward the player, toward Boris, toward the world it built.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-6.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-6.webp)
 
 There's one scene in particular, which we won't detail, where the game says something simple about family and loss without ever articulating it explicitly. Boris has no dialogue. Maxime narrates. And yet the emotion arrives, cleanly, without forcing.
 
@@ -65,7 +65,7 @@ Mechanical innovation is often treated as a quality criterion. Adorable Adventur
 
 What it does instead is pull you in. You launch a session for twenty minutes and find yourself an hour later still searching for the last missing scent in a cave because you can't stop mid-trail. It's not addiction by design, not a reward mechanic calculated to retain the player. It's simply that the world is rich enough and alive enough that you don't want to leave.
 
-![Adorable Adventures](/images/adorableadventure/screenshot-7.png)
+![Adorable Adventures](/images/adorableadventure/screenshot-7.webp)
 
 What it also does is exist completely in what it is. A game about a baby boar in a French national park, made with care by a small passionate team. No more. No less.
 

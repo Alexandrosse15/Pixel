@@ -8,7 +8,7 @@ date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "11 min"
 image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/warframe/screenshot-1.jpg"
+coverImage: "/images/warframe/screenshot-1.webp"
 featured: false
 ---
 
@@ -40,7 +40,7 @@ Ce n'est pas un détail. C'est la colonne vertébrale de toute la relation entre
 
 Résultat : en 13 ans, Warframe n'a jamais introduit de mécanique pay-to-win. Jamais vendu un avantage direct contre de l'argent réel. Cette constance, dans ce secteur, est presque sans équivalent.
 
-![Warframe](/images/warframe/screenshot-3.jpg)
+![Warframe](/images/warframe/screenshot-3.webp)
 
 ## Pendant que Destiny brûlait
 
@@ -58,7 +58,7 @@ Chaque mise à jour majeure a été gratuite. Chaque nouveau monde, chaque nouve
 
 Ce n'est pas de la générosité abstraite. C'est un modèle qui a prouvé qu'il fonctionnait pendant que d'autres modèles, mieux financés, s'épuisaient.
 
-![Warframe](/images/warframe/screenshot-4.jpg)
+![Warframe](/images/warframe/screenshot-4.webp)
 
 ## The Second Dream et la question narrative
 
@@ -80,7 +80,7 @@ On ne connaît pas les détails des discussions, les noms des acheteurs potentie
 
 Cette continuité n'est pas courante. Elle explique en partie la cohérence d'un jeu qui a traversé 13 ans de patches, d'extensions, de changements de méta et d'évolutions sans perdre son identité fondamentale.
 
-![Warframe](/images/warframe/screenshot-6.jpg)
+![Warframe](/images/warframe/screenshot-6.webp)
 
 ## Pourquoi il n'est pas dans la conversation générale
 

@@ -8,12 +8,12 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 6,5
 image_color: "from-indigo-950 via-slate-950 to-zinc-950"
-coverImage: "/images/spacedrillingstation/screenshot-1.png"
+coverImage: "/images/spacedrillingstation/screenshot-1.webp"
 gameName: "Space Drilling Station"
 featured: false
 ---
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-2.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-2.webp)
 
 Sur le papier, Space Drilling Station n'a rien de révolutionnaire. On gère une station de forage spatiale, on extrait des ressources, on améliore ses équipements, on repousse ses limites un peu plus loin à chaque session. Le genre de pitch qu'on a lu cent fois dans le catalogue Steam des cinq dernières années. Et pourtant, passé la première heure, quelque chose accroche. Cette satisfaction discrète de voir les chiffres monter, les galeries s'étendre, les profondeurs inconnues céder un peu plus à chaque descente.
 
@@ -25,7 +25,7 @@ Tout repose sur un cycle simple et bien calibré. On descend, on fore, on remont
 
 Ce qui distingue Space Drilling Station d'un simple idle game, c'est la présence d'une gestion active pendant les descentes. On ne regarde pas juste une barre de progression remplir. On prend des décisions en temps réel : quelle veine de minerai prioritiser, comment gérer la chaleur des foreuses, où installer les relais d'énergie pour maintenir la connexion avec la surface. Ces décisions ne sont pas complexes, mais elles sont présentes, et elles donnent à chaque session un sentiment d'engagement qu'un simple clicker n'aurait pas.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-3.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-3.webp)
 
 ## Ce que le jeu fait vraiment bien
 
@@ -35,7 +35,7 @@ Cette progression par strates est racontée visuellement avec soin. L'esthétiqu
 
 Le système de modules de station est également bien pensé. On ne débloque pas juste des améliorations de stats, on débloque des fonctions nouvelles : un analyseur de sol qui anticipe les formations dangereuses, un recycleur thermique qui récupère la chaleur des foreuses pour alimenter les systèmes secondaires, un laboratoire de minerais rares qui ouvre une branche de crafting plus avancée. Chaque module change légèrement la façon de jouer, et la progression se lit comme une succession de petites révolutions dans le quotidien de la station.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-4.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-4.webp)
 
 ## Ce qui freine
 
@@ -47,7 +47,7 @@ L'interface est aussi un point de friction régulier. Les menus de gestion de la
 
 La direction sonore, enfin, est le parent pauvre de la production. Les sons de forage sont corrects, l'ambiance spatiale de la surface aussi. Mais les boucles musicales sont courtes et se répètent rapidement, au point qu'on finit souvent par couper le son au bout d'une heure pour mettre autre chose. Pour un jeu conçu pour des sessions longues et répétitives, c'est un manque qui pèse plus qu'il ne devrait.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-5.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-5.webp)
 
 ## Le mode survie
 
@@ -55,7 +55,7 @@ Space Drilling Station propose un mode survie en parallèle de la campagne princ
 
 La contrainte change tout. Quand une foreuse tombe en panne à 800 mètres de profondeur et qu'on n'a pas les matériaux pour la réparer sur place, les décisions deviennent soudainement importantes. Remonter en perdant la progression de la session ou improviser avec ce qu'on a ? Le mode survie pose des questions que la campagne principale évite soigneusement, et il est difficile de ne pas se demander pourquoi cette tension n'a pas été intégrée à l'expérience de base dès le départ.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-6.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-6.webp)
 
 ## Bilan
 
@@ -65,7 +65,7 @@ Les fondations sont là : une boucle de progression satisfaisante, une verticali
 
 Ce sont des problèmes corrigeables. Et ce sont des problèmes qui n'effacent pas ce qui fonctionne. Space Drilling Station mérite son public, et ce public va probablement y passer bien plus d'heures qu'il n'en avait prévu. Mais il mérite aussi des mises à jour qui prennent au sérieux ce que le mode survie démontre : ce jeu a la capacité d'être exigeant. Il devrait s'en souvenir plus souvent.
 
-![Space Drilling Station](/images/spacedrillingstation/screenshot-7.png)
+![Space Drilling Station](/images/spacedrillingstation/screenshot-7.webp)
 
 ## Verdict
 

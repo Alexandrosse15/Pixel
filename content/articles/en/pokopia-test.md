@@ -20,7 +20,7 @@ In practice, it's something else. And let's be direct about it: Pokopia is not t
 
 At least we're not playing the dreadful Pokémon Z-A.
 
-![Pokopia](/images/pokopia/screenshot-1.jpg)
+![Pokopia](/images/pokopia/screenshot-1.webp)
 
 ## A Seductive Concept... But a Misleading One
 
@@ -38,7 +38,7 @@ The verdict is unambiguous: Pokopia plays like a farming MMO. Constant accumulat
 
 That's not what was advertised.
 
-![Pokopia, construction](/images/pokopia/screenshot-2.jpg)
+![Pokopia, construction](/images/pokopia/screenshot-2.webp)
 
 ## The Problem Isn't the Grind, It's the Promise
 
@@ -58,7 +58,7 @@ They lose their emotional role. That particular bond the franchise has always ma
 
 A Snorlax optimising your berry production is sad. It's also symptomatic of what Pokopia does to its own universe.
 
-![Pokopia, Pokémon](/images/pokopia/screenshot-3.jpg)
+![Pokopia, Pokémon](/images/pokopia/screenshot-3.webp)
 
 ## The Comparison With Animal Crossing Is Inevitable, and Brutal
 
@@ -80,7 +80,7 @@ But this hook rests on repetition, artificial progression, constant and calculat
 
 And there's an enormous difference between the two.
 
-![Pokopia, environment](/images/pokopia/screenshot-4.jpg)
+![Pokopia, environment](/images/pokopia/screenshot-4.webp)
 
 ## Verdict
 

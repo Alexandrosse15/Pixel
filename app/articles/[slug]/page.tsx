@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { headers } from 'next/headers'
-import { getAllSlugs, getArticleBySlug, getRelatedArticles, formatDate, categoryConfig } from '@/lib/articles'
+import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig } from '@/lib/articles'
 import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
@@ -79,12 +79,14 @@ export default async function ArticlePage({ params }: Props) {
     : Promise.resolve([])
 
   const rawRelated = getRelatedArticles(params.slug, raw.category, locale)
+  const rawSameGame = raw.gameName ? getArticlesByGame(raw.gameName, params.slug, locale) : []
 
-  const [article, screenshots, communityRating, related] = await Promise.all([
+  const [article, screenshots, communityRating, related, sameGame] = await Promise.all([
     enrichArticleWithCover(raw),
     screenshotsPromise,
     getRating(params.slug),
     enrichArticlesWithCovers(rawRelated),
+    enrichArticlesWithCovers(rawSameGame),
   ])
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
@@ -301,14 +303,13 @@ export default async function ArticlePage({ params }: Props) {
                     }
                     return (
                       <span className="my-8 block overflow-hidden rounded-sm" style={{ aspectRatio: '16/9' }}>
-                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img
+                        <Image
                           src={finalSrc}
                           alt={alt || ''}
                           className="w-full h-full object-cover"
-                          loading="lazy"
                           width={1200}
                           height={675}
+                          sizes="(max-width: 768px) 100vw, (max-width: 1024px) 70vw, 800px"
                         />
                       </span>
                     )
@@ -394,6 +395,29 @@ export default async function ArticlePage({ params }: Props) {
 
               {/* Note communauté */}
               <CommunityRating slug={article.slug} variant="sidebar" />
+
+              {/* Autres articles sur le même jeu */}
+              {sameGame.length > 0 && (
+                <div className="rounded-sm border border-line bg-bg-card p-5">
+                  <p className="mb-3 font-display text-xs uppercase tracking-widest text-brand">
+                    Sur {article.gameName}
+                  </p>
+                  <div className="flex flex-col gap-2">
+                    {sameGame.map((a2) => (
+                      <Link
+                        key={a2.slug}
+                        href={locale === 'en' ? `/en/articles/${a2.slug}` : `/articles/${a2.slug}`}
+                        className="group flex items-start gap-2 no-underline"
+                      >
+                        <CategoryBadge category={a2.category} size="sm" />
+                        <span className="text-xs leading-tight text-ink-secondary transition-colors group-hover:text-brand line-clamp-2">
+                          {a2.seoTitle ?? a2.title}
+                        </span>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           </aside>
 

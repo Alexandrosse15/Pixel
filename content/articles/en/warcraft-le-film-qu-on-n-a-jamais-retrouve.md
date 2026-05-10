@@ -8,7 +8,7 @@ author: "Alexandrosse"
 readTime: "8 min"
 score: 7
 image_color: "from-orange-950 via-stone-900 to-zinc-950"
-coverImage: "/images/warcraft/screenshot-1.jpg"
+coverImage: "/images/warcraft/screenshot-1.webp"
 featured: false
 ---
 
@@ -18,7 +18,7 @@ Warcraft falls squarely into the second category.
 
 When it came out in 2016, Duncan Jones's film didn't win everyone over. Divided critics, mixed reception in the West, underwhelming performance in the American market. And yet, at InsertCoins, our verdict is simple and unashamed: we loved it. And ten years later, we still talk about it with genuine affection and a faint bitterness that never quite goes away.
 
-![Warcraft, the film](/images/warcraft/screenshot-1.jpg)
+![Warcraft, the film](/images/warcraft/screenshot-1.webp)
 
 ## A real vision of Azeroth
 
@@ -38,7 +38,7 @@ Durotan carries much of the film's emotional weight. You understand his choices.
 
 The orcs steal the show. And that's not a complaint.
 
-![Warcraft, Durotan](/images/warcraft/screenshot-2.jpg)
+![Warcraft, Durotan](/images/warcraft/screenshot-2.webp)
 
 ## A generous spectacle
 
@@ -54,7 +54,7 @@ When the images place Westfall on screen those golden plains, the grass stretchi
 
 That's the film's real power for those who grew up with this universe. It doesn't reproduce Azeroth. It summons it. And for a few seconds, you're not in a cinema anymore. You're somewhere else, inside something that has belonged to you for a long time.
 
-![Warcraft, Azeroth](/images/warcraft/screenshot-3.jpg)
+![Warcraft, Azeroth](/images/warcraft/screenshot-3.webp)
 
 ## And then… nothing
 
@@ -82,9 +82,9 @@ Travis Fimmel. Ragnar Lothbrok. The man who had spent years sailing the seas wit
 
 The lesson: remove the beard, remove the braids, remove the longships and the ravens, and apparently we're starting from scratch. Ragnar would probably have found that hilarious. Lothar, probably less so.
 
-![Warcraft, Lothar](/images/warcraft/screenshot-4.jpg)
+![Warcraft, Lothar](/images/warcraft/screenshot-4.webp)
 
-![Warcraft, battle](/images/warcraft/screenshot-5.jpg)
+![Warcraft, battle](/images/warcraft/screenshot-5.webp)
 
 ## A misunderstood film?
 
@@ -96,7 +96,7 @@ Maybe Warcraft, released today, would land differently. Maybe it would find its 
 
 We'll never know.
 
-![Warcraft, magic](/images/warcraft/screenshot-6.jpg)
+![Warcraft, magic](/images/warcraft/screenshot-6.webp)
 
 ## Verdict
 
@@ -118,7 +118,7 @@ Warcraft is not a perfect film. But it's an ambitious, sincere film that respect
 
 A film we may have judged too quickly. And one we were never really allowed to see through.
 
-![Warcraft](/images/warcraft/screenshot-7.jpg)
+![Warcraft](/images/warcraft/screenshot-7.webp)
 
 ---
 

@@ -23,7 +23,7 @@ Mais aujourd'hui, revenir sur Outlaws, c'est redécouvrir un jeu transformé. Pa
 
 ## Une sortie prématurée... et un potentiel évident
 
-![Star Wars Outlaws](/images/outlaws/screenshot-1.jpg)
+![Star Wars Outlaws](/images/outlaws/screenshot-1.webp)
 
 Dès les premières heures, Outlaws montrait quelque chose de rare : une vraie volonté de proposer une expérience Star Wars différente.
 
@@ -45,7 +45,7 @@ Résultat : une immersion constamment brisée.
 
 ## Le travail de l'ombre : corriger sans tout révolutionner
 
-![Star Wars Outlaws, monde ouvert](/images/outlaws/screenshot-2.jpg)
+![Star Wars Outlaws, monde ouvert](/images/outlaws/screenshot-2.webp)
 
 Contrairement à certains jeux qui misent sur des refontes spectaculaires, Outlaws a évolué de manière plus discrète.
 
@@ -62,7 +62,7 @@ Ce ne sont pas des changements "marketing". Ce sont des améliorations de fond, 
 
 ## L'infiltration : de contrainte à choix de jeu
 
-![Star Wars Outlaws, infiltration](/images/outlaws/screenshot-3.jpg)
+![Star Wars Outlaws, infiltration](/images/outlaws/screenshot-3.webp)
 
 C'était l'un des points les plus critiqués à la sortie. L'infiltration donnait souvent l'impression d'être punitive, rigide, presque imposée.
 
@@ -82,7 +82,7 @@ Et c'est là que l'expérience devient enfin cohérente avec son thème : être 
 
 ## Un monde qui prend enfin le temps d'exister
 
-![Star Wars Outlaws, ville](/images/outlaws/screenshot-4.jpg)
+![Star Wars Outlaws, ville](/images/outlaws/screenshot-4.webp)
 
 Le vrai changement, pourtant, ne se mesure pas uniquement en correctifs techniques.
 
@@ -100,7 +100,7 @@ Parce qu'il ne cherche plus à impressionner à chaque seconde : il laisse simpl
 
 ## La Bordure extérieure comme terrain de jeu crédible
 
-![Star Wars Outlaws, factions](/images/outlaws/screenshot-5.jpg)
+![Star Wars Outlaws, factions](/images/outlaws/screenshot-5.webp)
 
 L'un des plus grands mérites du jeu, désormais plus visible, est sa capacité à capturer une facette rarement explorée de Star Wars.
 
@@ -118,7 +118,7 @@ Ce n'est pas révolutionnaire. Mais c'est suffisant pour donner l'impression d'u
 
 ## Le plaisir retrouvé de l'errance
 
-![Star Wars Outlaws, speeder](/images/outlaws/screenshot-6.jpg)
+![Star Wars Outlaws, speeder](/images/outlaws/screenshot-6.webp)
 
 C'est peut-être le point le plus important.
 

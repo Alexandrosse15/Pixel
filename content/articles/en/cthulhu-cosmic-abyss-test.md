@@ -22,7 +22,7 @@ There are horror games that rely on jump scares. Others on tension. And then the
 
 The question, as always, is whether intention alone is enough.
 
-![Cthulhu: The Cosmic Abyss](/images/cthulhu/screenshot-1.jpg)
+![Cthulhu: The Cosmic Abyss](/images/cthulhu/screenshot-1.webp)
 
 ##  An Atmosphere That Crushes More Than It Frightens
 
@@ -36,7 +36,7 @@ But this approach has real limitations too. The pace is extremely slow. Delibera
 
 ##  A Narrative Faithful to Lovecraft... But Demanding
 
-![Cthulhu: The Cosmic Abyss, exploration](/images/cthulhu/screenshot-2.jpg)
+![Cthulhu: The Cosmic Abyss, exploration](/images/cthulhu/screenshot-2.webp)
 
 The game offers an investigation, but not in the traditional sense. You're not guided. You explore, you read, you observe, you piece together fragments. You need to pay attention to details, understand without being taken by the hand, and accept not grasping everything immediately. Sometimes never.
 
@@ -50,7 +50,7 @@ The game's structure rests on simple foundations: exploration, environmental int
 
 The problem is that these mechanics stay limited and struggle to evolve. The interactions are often repetitive. The puzzles lack variety. And when the game has no new atmospheric card to play, that mechanical emptiness becomes palpable. The atmosphere carries the experience on its shoulders, and it manages most of the time. But it's not infallible. And when it weakens, the gameplay doesn't step in to compensate.
 
-![Cthulhu: The Cosmic Abyss, environment](/images/cthulhu/screenshot-3.jpg)
+![Cthulhu: The Cosmic Abyss, environment](/images/cthulhu/screenshot-3.webp)
 
 ##  The Horror of the Invisible
 
@@ -62,7 +62,7 @@ But the balance is fragile here too. Too much restraint eventually frustrates. S
 
 ##  Solid But Uneven Production
 
-![Cthulhu: The Cosmic Abyss, atmosphere](/images/cthulhu/screenshot-4.jpg)
+![Cthulhu: The Cosmic Abyss, atmosphere](/images/cthulhu/screenshot-4.webp)
 
 Technically, the game holds up well. The art direction is coherent, built around a dark palette and oppressive aquatic environments that serve the subject perfectly. The sound design is remarkable: the ambient soundscapes are probably the most consistently successful element of the title, and they contribute enormously to the overall effectiveness.
 
@@ -76,7 +76,7 @@ This isn't a game you consume. It's a game you endure or savour, depending on yo
 
 For others, for those willing to let themselves be swallowed without any guarantee of return, it can become something memorable. Not spectacular. Not memorable in the traditional sense. But persistent, like a dream you can't quite recall but whose impression lingers long after waking.
 
-![Cthulhu: The Cosmic Abyss, creature](/images/cthulhu/screenshot-5.jpg)
+![Cthulhu: The Cosmic Abyss, creature](/images/cthulhu/screenshot-5.webp)
 
 ##  Verdict
 
