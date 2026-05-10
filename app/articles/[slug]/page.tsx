@@ -9,6 +9,7 @@ import JsonLd from '@/components/JsonLd'
 import Comments from '@/components/Comments'
 import CommunityRating from '@/components/CommunityRating'
 import Link from 'next/link'
+import Image from 'next/image'
 import ArticleCard from '@/components/ArticleCard'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -156,6 +157,15 @@ export default async function ArticlePage({ params }: Props) {
       <JsonLd data={breadcrumbSchema} />
       {/* Hero */}
       <div className={`relative bg-gradient-to-br ${article.imageColor} overflow-hidden`}>
+        {article.coverImage && (
+          <Image
+            src={article.coverImage}
+            alt={article.title}
+            fill
+            className="object-cover opacity-30"
+            priority
+          />
+        )}
         <div className="absolute inset-0 bg-gradient-to-t from-bg-base via-bg-base/70 to-transparent" />
         <div className="absolute left-0 top-0 h-1 w-full bg-brand" />
 
