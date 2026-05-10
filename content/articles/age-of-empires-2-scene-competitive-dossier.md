@@ -1,5 +1,6 @@
 ---
 title: "Age of Empires 2 a une scène compétitive en 2026. C'est un miracle que personne n'a vraiment payé."
+seoTitle: "Age of Empires 2 : la scène compétitive en 2026"
 slug: "age-of-empires-2-scene-competitive-dossier"
 category: "dossiers"
 excerpt: "Un jeu de 1999, 40 000 joueurs actifs, les mêmes dix noms au sommet depuis dix ans. Comment AoE2 a ressuscité une scène esport que personne ne finançait."

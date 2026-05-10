@@ -19,6 +19,7 @@ export interface Article {
   score?: number
   imageColor: string
   coverImage?: string
+  seoTitle?: string
   gameName?: string
   gameNames?: string[]
   content: string
@@ -53,6 +54,7 @@ function parseFile(slug: string, locale = 'fr'): Article | null {
       score: data.score as number | undefined,
       imageColor: (data.image_color as string) || 'from-zinc-900 to-zinc-800',
       coverImage: data.coverImage as string | undefined,
+      seoTitle: data.seoTitle as string | undefined,
       gameName: data.gameName as string | undefined,
       gameNames: data.gameNames as string[] | undefined,
       content,

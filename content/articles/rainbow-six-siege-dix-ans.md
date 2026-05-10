@@ -1,5 +1,6 @@
 ---
 title: "Rainbow Six Siege en 2026 : dix ans pour devenir le jeu qu'il aurait dû être dès le départ"
+seoTitle: "Rainbow Six Siege : dix ans pour enfin y arriver"
 slug: "rainbow-six-siege-dix-ans"
 category: "dossiers"
 excerpt: "Dix ans, des milliers de patches, un rebranding. Siege est enfin le jeu promis en 2015. C'est long. C'est aussi, quelque part, un peu beau."

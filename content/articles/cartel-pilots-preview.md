@@ -1,5 +1,6 @@
 ---
 title: "Cartel Pilots Wanted : des îles tropicales, un avion de contrebande et quelque chose qui nous rappelle pourquoi on joue"
+seoTitle: "Cartel Pilots Wanted : simulation de contrebande aérienne"
 slug: "cartel-pilots-preview"
 category: "previews"
 excerpt: "Un simulateur de contrebande aérienne en co-op sur un archipel tropical. Pas de démo, juste un trailer et une envie réelle d'y être."

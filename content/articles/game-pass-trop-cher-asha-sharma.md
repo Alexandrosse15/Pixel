@@ -1,5 +1,6 @@
 ---
 title: "La PDG du Game Pass dit que le Game Pass est trop cher. Merci, on avait remarqué."
+seoTitle: "Game Pass trop cher : la PDG de Xbox le reconnait"
 slug: "game-pass-trop-cher-asha-sharma"
 category: "industrie"
 excerpt: "La patronne de Xbox a avoué que le Game Pass est trop cher. Une déclaration courageuse, arrivée environ six mois trop tard."

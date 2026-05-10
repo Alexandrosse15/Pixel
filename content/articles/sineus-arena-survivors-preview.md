@@ -1,5 +1,6 @@
 ---
 title: "Sineus Arena Survivors : quand un dev met tout sur la table et que ça ressemble à quelque chose"
+seoTitle: "Sineus Arena Survivors : preview bullet heaven co-op"
 slug: "sineus-arena-survivors-preview"
 category: "previews"
 excerpt: "Un bullet heaven co-op jusqu'à 4 joueurs, un développeur solo qui a tout misé sur ce jeu. On a voulu savoir pourquoi, et on ne regrette pas."

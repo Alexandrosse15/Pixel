@@ -1,5 +1,6 @@
 ---
 title: "Les Murmures du Soleil est le meilleur jeu mobile de 2025 et vous n'en avez probablement jamais entendu parler"
+seoTitle: "Les Murmures du Soleil : meilleur jeu mobile 2025"
 slug: "les-murmures-du-soleil-test"
 category: "tests"
 excerpt: "Un jeu entièrement audio conçu pour les non-voyants. Pégase 2026 du Meilleur Jeu Mobile. On l'a joué les yeux fermés. Littéralement."

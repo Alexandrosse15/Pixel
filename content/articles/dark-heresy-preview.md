@@ -1,5 +1,6 @@
 ---
 title: "Dark Heresy : Owlcat s'attaque à l'Inquisition et on est déjà perdus dans le Calixis"
+seoTitle: "Dark Heresy : preview du CRPG 40K d'Owlcat"
 slug: "dark-heresy-preview"
 category: "previews"
 excerpt: "Owlcat Games s'attaque à l'Inquisition impériale dans 40K. CRPG isométrique, Night Lords, Ogryn jouable. On veut y croire très fort."

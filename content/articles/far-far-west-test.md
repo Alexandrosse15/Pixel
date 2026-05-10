@@ -1,5 +1,6 @@
 ---
 title: "Far Far West : le jeu qui a lu tous les autres et a décidé de faire le contraire"
+seoTitle: "Far Far West : test du co-op western fantasy"
 slug: "far-far-west-test"
 category: "tests"
 excerpt: "Pas de microtransactions. Co-op 4 joueurs, démons du Far West, magie et pistolets. Far Far West fait tourner la roue avec un plaisir communicatif."

@@ -1,5 +1,6 @@
 ---
 title: "Revenir dans la Bordure extérieure : pourquoi Star Wars Outlaws mérite vraiment une seconde vie"
+seoTitle: "Star Wars Outlaws mérite vraiment une seconde vie"
 slug: "star-wars-outlaws-seconde-vie"
 category: "dossiers"
 excerpt: "À sa sortie : inabouti. Revenir sur Star Wars Outlaws aujourd'hui, c'est redécouvrir un jeu transformé. Il mérite vraiment une seconde vie."

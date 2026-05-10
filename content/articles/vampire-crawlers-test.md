@@ -1,5 +1,6 @@
 ---
 title: "Vampire Crawlers : encore un deck builder, et pourtant celui-là change vraiment quelque chose"
+seoTitle: "Vampire Crawlers : test du deck builder roguelite"
 slug: "vampire-crawlers-test"
 category: "tests"
 excerpt: "Vampire Survivors traduit en dungeon crawling. Dans un genre saturé, Vampire Crawlers trouve sa place grâce à une idée forte et un rythme qui accroche."

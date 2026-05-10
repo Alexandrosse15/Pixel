@@ -1,5 +1,6 @@
 ---
 title: "Dawn of War 4 annoncé : on espère, on doute, et on a toutes les raisons de faire les deux"
+seoTitle: "Dawn of War 4 : preview Gamescom 2025"
 slug: "dawn-of-war-4-preview"
 category: "previews"
 excerpt: "4 factions, 150 unités, Last Stand de retour. Dawn of War 4 a tout pour plaire sur le papier. La communauté a juste une question : c'est qui qui le fait ?"

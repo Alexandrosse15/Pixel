@@ -1,5 +1,6 @@
 ---
 title: "Jay and Silent Bob: Chronic Blunt Punch, la plus belle lettre d'amour qui ne sait pas se battre"
+seoTitle: "Jay and Silent Bob: Chronic Blunt Punch : test"
 slug: "jay-and-silent-bob-chronic-blunt-punch-test"
 category: "tests"
 excerpt: "La direction artistique est magnifique, les références au View Askewniverse irréprochables. Dommage que le beat 'em up en dessous soit aussi mou."

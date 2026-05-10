@@ -1,5 +1,6 @@
 ---
 title: "Mario au cinéma : trois films, une légende, et un amour intact pour le plus vieux"
+seoTitle: "Mario au cinéma : trois films, une légende"
 slug: "mario-trois-films-une-legende"
 category: "cinema"
 excerpt: "Du nanar culte de 1993 au blockbuster de 2023. Mario a eu une vie cinématographique chaotique, sincère et finalement assez belle."

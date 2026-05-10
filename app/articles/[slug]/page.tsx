@@ -34,15 +34,17 @@ export async function generateMetadata({ params }: Props) {
       : `${SITE_URL}${article.coverImage}`
     : `${SITE_URL}/opengraph-image`
 
+  const metaTitle = article.seoTitle ?? article.title
+
   return {
-    title: article.title,
+    title: metaTitle,
     description: article.excerpt,
     alternates: {
       canonical: canonicalUrl,
       languages: { fr: frUrl, en: enUrl, 'x-default': frUrl },
     },
     openGraph: {
-      title: article.title,
+      title: metaTitle,
       description: article.excerpt,
       url: canonicalUrl,
       type: 'article',
@@ -55,7 +57,7 @@ export async function generateMetadata({ params }: Props) {
     twitter: {
       card: 'summary_large_image',
       site: '@insertcoinspress',
-      title: article.title,
+      title: metaTitle,
       description: article.excerpt,
       images: [ogImage],
     },

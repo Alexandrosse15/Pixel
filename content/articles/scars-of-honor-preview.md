@@ -1,5 +1,6 @@
 ---
 title: "Scars of Honor : le MMO qui veut remplacer WoW… mais en a-t-il vraiment les épaules ?"
+seoTitle: "Scars of Honor : le MMO qui veut remplacer WoW"
 slug: "scars-of-honor-preview"
 category: "previews"
 excerpt: "Scars of Honor ne cache pas son ambition : remplacer World of Warcraft. Et étonnamment, ce n'est pas complètement absurde."

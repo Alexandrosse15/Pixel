@@ -1,5 +1,6 @@
 ---
 title: "Les jeux vidéo sont devenus des jobs de grind. Personne ne te paie, mais tu bosses quand même."
+seoTitle: "Les jeux vidéo sont devenus des jobs de grind"
 slug: "jeux-video-devenus-des-jobs-de-grind"
 category: "dossiers"
 excerpt: "Tu joues pour cocher des cases, finir le pass de combat, ne pas perdre ta streak. C'est quand la dernière fois que tu as joué juste pour le fun ?"

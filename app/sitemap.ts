@@ -25,31 +25,49 @@ function paginatedRoutes(
   return routes
 }
 
+function latestDate(articles: { date: string }[]): Date {
+  if (!articles.length) return new Date()
+  return new Date(articles.reduce((a, b) => (a.date > b.date ? a : b)).date)
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles('fr')
 
-  const testsCount = getArticlesByCategory('tests', 'fr').length
-  const previewsCount = getArticlesByCategory('previews', 'fr').length
-  const dossiersCount = getArticlesByCategory('dossiers', 'fr').length
-  const industrieCount = getArticlesByCategory('industrie', 'fr').length
-  const cinemaCount = getArticlesByCategory('cinema', 'fr').length
+  const tests = getArticlesByCategory('tests', 'fr')
+  const previews = getArticlesByCategory('previews', 'fr')
+  const dossiers = getArticlesByCategory('dossiers', 'fr')
+  const industrie = getArticlesByCategory('industrie', 'fr')
+  const cinema = getArticlesByCategory('cinema', 'fr')
+
+  const testsCount = tests.length
+  const previewsCount = previews.length
+  const dossiersCount = dossiers.length
+  const industrieCount = industrie.length
+  const cinemaCount = cinema.length
+
+  const testsDate = latestDate(tests)
+  const previewsDate = latestDate(previews)
+  const dossiersDate = latestDate(dossiers)
+  const industrieDate = latestDate(industrie)
+  const cinemaDate = latestDate(cinema)
+  const homeDate = latestDate(articles)
 
   const staticRoutes: MetadataRoute.Sitemap = [
-    { url: SITE_URL, lastModified: new Date(), changeFrequency: 'daily', priority: 1, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },
-    { url: `${SITE_URL}/tests`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: `${SITE_URL}/tests`, en: `${SITE_URL}/en/tests` } } },
-    { url: `${SITE_URL}/previews`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: `${SITE_URL}/previews`, en: `${SITE_URL}/en/previews` } } },
-    { url: `${SITE_URL}/dossiers`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
-    { url: `${SITE_URL}/industrie`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
-    { url: `${SITE_URL}/cinema`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
-    { url: `${SITE_URL}/a-propos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
+    { url: SITE_URL, lastModified: homeDate, changeFrequency: 'daily', priority: 1, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },
+    { url: `${SITE_URL}/tests`, lastModified: testsDate, changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: `${SITE_URL}/tests`, en: `${SITE_URL}/en/tests` } } },
+    { url: `${SITE_URL}/previews`, lastModified: previewsDate, changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: `${SITE_URL}/previews`, en: `${SITE_URL}/en/previews` } } },
+    { url: `${SITE_URL}/dossiers`, lastModified: dossiersDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
+    { url: `${SITE_URL}/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
+    { url: `${SITE_URL}/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
+    { url: `${SITE_URL}/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
     // EN versions
-    { url: `${SITE_URL}/en`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },
-    { url: `${SITE_URL}/en/tests`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/tests`, en: `${SITE_URL}/en/tests` } } },
-    { url: `${SITE_URL}/en/previews`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/previews`, en: `${SITE_URL}/en/previews` } } },
-    { url: `${SITE_URL}/en/dossiers`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
-    { url: `${SITE_URL}/en/industrie`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
-    { url: `${SITE_URL}/en/cinema`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
-    { url: `${SITE_URL}/en/a-propos`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.4, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
+    { url: `${SITE_URL}/en`, lastModified: homeDate, changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },
+    { url: `${SITE_URL}/en/tests`, lastModified: testsDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/tests`, en: `${SITE_URL}/en/tests` } } },
+    { url: `${SITE_URL}/en/previews`, lastModified: previewsDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/previews`, en: `${SITE_URL}/en/previews` } } },
+    { url: `${SITE_URL}/en/dossiers`, lastModified: dossiersDate, changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
+    { url: `${SITE_URL}/en/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
+    { url: `${SITE_URL}/en/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
+    { url: `${SITE_URL}/en/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.4, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
   ]
 
   const paginationRoutes: MetadataRoute.Sitemap = [

@@ -1,5 +1,6 @@
 ---
 title: "Windrose est le jeu de pirates qu'on attendait depuis Black Flag. Et c'est pas du flan."
+seoTitle: "Windrose : le jeu de pirates qu'on attendait depuis 2013"
 slug: "windrose-test"
 category: "tests"
 excerpt: "500 000 copies en 48 heures, 89% de positifs. Après plusieurs jours à sillonner les mers de Windrose, on comprend pourquoi, et on identifie ce qui reste."

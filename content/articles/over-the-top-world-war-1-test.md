@@ -1,5 +1,6 @@
 ---
 title: "Over the Top : World War 1 : le FPS de la Grande Guerre qui n'avait pas le droit d'être aussi bon"
+seoTitle: "Over the Top WW1 : test du FPS de la Grande Guerre"
 slug: "over-the-top-world-war-1-test"
 category: "tests"
 excerpt: "Une toute petite équipe, une immersion dans la Première Guerre mondiale qui réveille des souvenirs de Battlefield 1. Ça n'avait pas le droit d'être aussi bien."

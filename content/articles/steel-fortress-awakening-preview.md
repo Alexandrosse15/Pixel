@@ -1,5 +1,6 @@
 ---
 title: "Steel Fortress Awakening : un androïde, une civilisation perdue et un solo dev qui n'a pas froid aux yeux"
+seoTitle: "Steel Fortress Awakening : preview SF solo dev"
 slug: "steel-fortress-awakening-preview"
 category: "previews"
 excerpt: "Un dev solo, une mécanique sur la mémoire, une obsession SF née d'une game jam. Steel Fortress Awakening n'est pas encore sorti. On le surveille déjà."

@@ -1,5 +1,6 @@
 ---
 title: "Masters of Albion : le retour du god game, ou la dernière promesse de Peter Molyneux ?"
+seoTitle: "Masters of Albion : Peter Molyneux revient au god game"
 slug: "masters-of-albion-preview"
 category: "previews"
 excerpt: "Peter Molyneux revient au god game avec Masters of Albion. Fascinant, vertigineux d'ambition. A-t-il enfin les moyens de ses rêves ?"

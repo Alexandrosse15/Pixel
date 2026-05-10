@@ -1,5 +1,6 @@
 ---
 title: "Heroes of Might and Magic Olden Era : le III est de retour, et ça fait quelque chose"
+seoTitle: "Heroes of Might and Magic Olden Era : test"
 slug: "heroes-of-might-and-magic-olden-era-test"
 category: "tests"
 excerpt: "Unfrozen a fait ce qu'Ubisoft n'a pas réussi en dix ans : remettre Heroes sur les rails. Est-ce vraiment aussi bien qu'on l'espérait ?"

@@ -1,5 +1,6 @@
 ---
 title: "LEGO Batman : L'Héritage du Chevalier Noir ressemble à ce qu'on attendait depuis LEGO Star Wars"
+seoTitle: "LEGO Batman : L'Héritage du Chevalier Noir : preview"
 slug: "lego-batman-heritage-chevalier-noir-preview"
 category: "previews"
 excerpt: "Gotham en open world, combats inspirés d'Arkham, une Batcave. TT Games a l'air d'avoir remis les mains dans le cambouis pour de bonnes raisons."

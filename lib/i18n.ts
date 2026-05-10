@@ -21,31 +21,31 @@ const translations = {
       tests: {
         title: 'Tests',
         description:
-          "Des critiques approfondies, honnêtes et sans compromis. On joue jusqu'au bout, on vous dit tout.",
+          "Tests jeux vidéo PC, PS5 et Xbox en 2025-2026 : critiques complètes et honnêtes, sans scores gonflés. On joue jusqu'au bout, on vous dit tout.",
         empty: 'Aucun test pour le moment.',
       },
       previews: {
         title: 'Previews',
         description:
-          "On a mis les mains dessus avant vous. Découvrez nos premières impressions sur les jeux qui arrivent.",
+          "Previews et premières impressions sur les jeux à venir en 2025-2026. On a mis les mains dessus avant vous : découvrez ce qui nous a convaincus, et ce qui ne l'a pas fait.",
         empty: 'Aucune preview pour le moment.',
       },
       dossiers: {
         title: 'Dossiers',
         description:
-          "Quand on creuse plus loin. Analyses, enquêtes et rétrospectives sur le jeu vidéo et sa culture.",
+          "Dossiers jeux vidéo : analyses de fond, rétrospectives et enquêtes sur l'industrie du gaming et sa culture. Quand on creuse plus loin que le test.",
         empty: 'Aucun dossier pour le moment.',
       },
       industrie: {
         title: 'Industrie',
         description:
-          "Acquisitions, licenciements, tendances de marché. L'industrie du jeu vidéo vue de l'intérieur.",
+          "Actualité de l'industrie du jeu vidéo : licenciements, acquisitions, Game Pass, tendances de marché. Un regard indépendant sur les coulisses du gaming.",
         empty: 'Aucun article industrie pour le moment.',
       },
       cinema: {
         title: 'Cinéma',
         description:
-          "Critiques, analyses et coups de coeur cinéma. Le regard d'une rédaction de joueurs sur le 7e art.",
+          "Critiques cinéma par une rédaction de joueurs : films, adaptations de jeux vidéo, analyses de la culture pop gaming. Le 7e art vu depuis un fauteuil de gamer.",
         empty: 'Aucun article cinéma pour le moment.',
       },
       gratuit: {
@@ -137,31 +137,31 @@ const translations = {
       tests: {
         title: 'Reviews',
         description:
-          "In-depth, honest and uncompromising reviews. We play to the end and tell you everything.",
+          "PC, PS5 and Xbox game reviews in 2025-2026: complete and honest critiques, no inflated scores. We play to the end and tell you everything.",
         empty: 'No reviews yet.',
       },
       previews: {
         title: 'Previews',
         description:
-          "We got our hands on it before you. Discover our first impressions on upcoming games.",
+          "Previews and first impressions on upcoming games in 2025-2026. We got our hands on it before you: find out what convinced us, and what didn't.",
         empty: 'No previews yet.',
       },
       dossiers: {
         title: 'Features',
         description:
-          "When we dig deeper. Analysis, investigations and retrospectives on video games and their culture.",
+          "Video game features: in-depth analysis, retrospectives and investigations on the gaming industry and its culture. When we dig deeper than the review.",
         empty: 'No features yet.',
       },
       industrie: {
         title: 'Industry',
         description:
-          "Acquisitions, layoffs, market trends. The video game industry from the inside.",
+          "Video game industry news: layoffs, acquisitions, Game Pass, market trends. An independent look behind the scenes of gaming.",
         empty: 'No industry articles yet.',
       },
       cinema: {
         title: 'Cinema',
         description:
-          "Reviews, analysis and recommendations. A gaming team's take on cinema.",
+          "Cinema reviews by a team of gamers: films, video game adaptations, pop culture analysis. The 7th art seen from a gamer's perspective.",
         empty: 'No cinema articles yet.',
       },
       gratuit: {

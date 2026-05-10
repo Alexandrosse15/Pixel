@@ -1,5 +1,6 @@
 ---
 title: "Sword Art Online: Echoes of Aincrad, l'Aincrad qu'on attend depuis Hollow Realization"
+seoTitle: "SAO Echoes of Aincrad : preview du retour à Aincrad"
 slug: "sao-echoes-of-aincrad-preview"
 category: "previews"
 excerpt: "Un retour à Aincrad avec héros personnalisable et mode Death Game en permadeath. On est fans de SAO chez InsertCoins. On surveille ça de très près."

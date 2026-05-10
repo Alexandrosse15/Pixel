@@ -1,5 +1,6 @@
 ---
 title: "Warframe, 13 ans sans chercher à plaire. Et c'est pour ça qu'il est encore là."
+seoTitle: "Warframe : 13 ans sans chercher à plaire"
 slug: "warframe-dossier"
 category: "dossiers"
 excerpt: "Lancé en 2013 dans l'indifférence, Warframe tourne toujours. Pas parce qu'il a fait du bruit. Parce qu'il a construit quelque chose de solide."

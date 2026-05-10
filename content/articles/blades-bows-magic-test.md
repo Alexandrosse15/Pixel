@@ -1,5 +1,6 @@
 ---
 title: "Blades, Bows and Magic : du pixel art, du deck building et une bonne humeur communicative"
+seoTitle: "Blades, Bows and Magic : test roguelite deck builder"
 slug: "blades-bows-magic-test"
 category: "tests"
 excerpt: "Un roguelite deck builder fantasy qui sent le bon boulot. Direction artistique pixel perfect, gameplay solide, et une coop qu'on réclame déjà."

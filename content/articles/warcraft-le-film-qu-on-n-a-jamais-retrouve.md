@@ -1,5 +1,6 @@
 ---
 title: "Warcraft le film qu'on n'attendait pas… et qu'on n'a jamais vraiment retrouvé"
+seoTitle: "Warcraft : le film qu'on a adoré et jamais retrouvé"
 slug: "warcraft-le-film-qu-on-n-a-jamais-retrouve"
 category: "cinema"
 excerpt: "On a adoré le film Warcraft. Et ça nous a brisé le coeur qu'il n'y ait jamais eu de suite. Un amour qu'on n'a jamais vraiment caché."

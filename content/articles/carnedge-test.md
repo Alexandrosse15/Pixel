@@ -1,5 +1,6 @@
 ---
 title: "CARNEDGE : dix ans de travail, trois personnes, un jeu qui mérite votre attention"
+seoTitle: "CARNEDGE : test roguelite deckbuilder dark fantasy"
 slug: "carnedge-test"
 category: "tests"
 excerpt: "Trois personnes. Dix ans de boulot. Un roguelite deckbuilder dark fantasy plus intéressant que la moitié des sorties de la semaine."

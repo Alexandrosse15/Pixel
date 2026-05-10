@@ -1,5 +1,6 @@
 ---
 title: "Verne: The Shape of Fantasy, le point-and-click qui prouve que l'imagination n'a pas besoin de 60 images par seconde"
+seoTitle: "Verne: The Shape of Fantasy : le point-and-click pixel art"
 slug: "verne-the-shape-of-fantasy-test"
 category: "tests"
 excerpt: "Jules Verne, le Nautilus, l'Atlantide, en point-and-click pixel art. Gametopia a transformé tout ça. C'est exactement aussi bien que ça en a l'air."
