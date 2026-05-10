@@ -8,7 +8,7 @@ date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-slate-950 via-red-950 to-zinc-950"
-coverImage: "/images/dow4/screenshot-1.png"
+coverImage: "/images/dow4/screenshot-1.webp"
 gameName: "Dawn of War 4"
 featured: false
 ---
@@ -35,7 +35,7 @@ Sur le gameplay, rien de concret. Le débat dans la communauté tourne déjà au
 
 Ce qui est frappant dans le consensus communautaire, c'est sa précision. Les joueurs ne demandent pas une révolution. Ils demandent une évolution propre d'une formule qui fonctionnait. "All they have to do is modernize DoW 1" apparaît dans les commentaires sous des dizaines de formes différentes. C'est à la fois la marque d'une communauté qui sait ce qu'elle veut et un avertissement clair pour les développeurs.
 
-![Dawn of War 4](/images/dow4/screenshot-2.png)
+![Dawn of War 4](/images/dow4/screenshot-2.webp)
 
 ## Ce qui inquiète
 
@@ -47,7 +47,9 @@ Le deuxième point, c'est la gestion des factions. Quatre factions au lancement,
 
 Le troisième point, c'est le contexte dans lequel sort ce jeu. Space Marine 2 a démontré que la licence 40k peut générer des ventes massives sur un title de qualité. C'est une bonne nouvelle pour l'ambition de Dawn of War 4. C'est aussi une pression supplémentaire : la communauté qui a joué à Space Marine 2 attend un standard élevé. Un lancement raté dans ce contexte ferait plus de dégâts que DoW 3, sorti dans un paysage 40k moins saturé.
 
-![Dawn of War 4](/images/dow4/screenshot-3.png)
+![Dawn of War 4](/images/dow4/screenshot-3.webp)
+
+![Dawn of War 4](/images/dow4/screenshot-4.webp)
 
 ## On attend ou pas ?
 
@@ -60,6 +62,8 @@ Ce qui manque pour être franchement enthousiaste : voir du gameplay. Pas un tra
 DoW 3 avait un trailer spectaculaire. On s'en souvient.
 
 La communauté sait exactement ce qu'elle veut depuis vingt ans. La question est uniquement de savoir si les gens qui font ce jeu le savent aussi.
+
+![Dawn of War 4](/images/dow4/screenshot-5.webp)
 
 ---
 
