@@ -2,7 +2,7 @@
 title: "Dead as Disco : quand les poings cognent en rythme et que c'est trop bon"
 slug: "dead-as-disco-preview"
 category: "previews"
-excerpt: "Un Beat 'Em Up fluo où chaque combo se synchronise avec la musique, un héros en veste jaune qui rappelle vaguement quelqu'un, et une démo qui nous donne envie de voir la suite. On a les mains qui tremblent encore."
+excerpt: "Un Beat 'Em Up fluo où les combos se synchronisent avec la musique. La démo nous a laissés les mains qui tremblent. On veut la suite."
 date: "2026-05-01"
 author: "Alexandrosse"
 readTime: "5 min"

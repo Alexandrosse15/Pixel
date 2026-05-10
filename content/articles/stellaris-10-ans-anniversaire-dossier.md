@@ -2,7 +2,7 @@
 title: "Stellaris a 10 ans et son cadeau d'anniversaire est aussi une admission de culpabilité"
 slug: "stellaris-10-ans-anniversaire-dossier"
 category: "dossiers"
-excerpt: "Paradox intègre trois DLC majeurs au jeu de base pour les 10 ans de Stellaris. C'est généreux. C'est mérité. Et c'est aussi, entre les lignes, la reconnaissance que le modèle économique avait fini par coincer à l'entrée ceux que le jeu aurait dû attirer."
+excerpt: "Paradox intègre trois DLC majeurs au jeu de base pour les 10 ans de Stellaris. C'est généreux. C'est aussi, entre les lignes, une admission de culpabilité."
 date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "12 min"

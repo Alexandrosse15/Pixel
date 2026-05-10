@@ -2,7 +2,7 @@
 title: "Metro 2039 : Artyom peut se reposer, Hunter a pris le contrôle"
 slug: "metro-2039-preview"
 category: "previews"
-excerpt: "4A Games annonce Metro 2039 pour cet hiver. Nouveau protagoniste, Hunter devenu Führer d'un Novoreich qui a conquis tout le métro, et les Sombres plus menaçants que jamais. On a dévoré les livres et les jeux. On est là."
+excerpt: "Nouveau protagoniste, Hunter devenu Führer d'un Novoreich qui a conquis tout le métro. Les Sombres plus menaçants que jamais. On est là."
 date: "2026-05-06"
 author: "Alexandrosse"
 readTime: "6 min"

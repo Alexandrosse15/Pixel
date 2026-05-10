@@ -2,7 +2,7 @@
 title: "Nebulae : gouverner une galaxie ensemble, ou la regarder mourir"
 slug: "nebulae-preview"
 category: "previews"
-excerpt: "Une nébuleuse qui avance, une majorité de joueurs à convaincre, et un système politique modulable qui peut engendrer des régimes que personne n'a planifiés. Nebulae veut simuler une société, pas juste une galaxie."
+excerpt: "Gouverner une galaxie en convaincant une majorité de joueurs. Nebulae veut simuler une société, pas juste une galaxie. L'idée est différente de tout."
 date: "2026-04-25"
 author: "Alexandrosse"
 readTime: "7 min"

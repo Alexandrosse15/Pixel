@@ -2,7 +2,7 @@
 title: "Clair Obscur Expedition 33 : entre éclat artistique et limites bien visibles"
 slug: "clair-obscur-expedition-33-test"
 category: "tests"
-excerpt: "Rarement un RPG aura autant donné l'impression d'être à la fois très maîtrisé dans ses intentions et encore fragile dans son exécution. C'est précisément cette tension qui rend le jeu fascinant, et frustrant."
+excerpt: "Rarement un RPG aura été aussi maîtrisé dans ses intentions et aussi fragile dans son exécution. C'est précisément cette tension qui le rend fascinant."
 date: "2026-04-16"
 author: "Alexandrosse"
 readTime: "10 min"

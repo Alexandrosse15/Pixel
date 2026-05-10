@@ -2,7 +2,7 @@
 title: "Star Wars : ces jeux qu'on n'a jamais eus (et ceux qui inquiètent déjà)"
 slug: "star-wars-ces-jeux-qu-on-n-a-jamais-eus"
 category: "dossiers"
-excerpt: "Il y a les jeux Star Wars auxquels on a joué. Et puis il y a ceux qu'on ne jouera jamais. Parfois, ce sont justement ces jeux-là qui marquent le plus. Parce qu'ils promettaient autre chose."
+excerpt: "Il y a les jeux Star Wars auxquels on a joué. Et ceux qu'on ne jouera jamais. Parfois, ce sont justement ces jeux-là qui marquent le plus."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "13 min"

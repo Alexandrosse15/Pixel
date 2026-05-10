@@ -2,7 +2,7 @@
 title: "Tides of Tomorrow : et si le futur des autres devenait votre présent ?"
 slug: "tides-of-tomorrow-dossier"
 category: "previews"
-excerpt: "Tides of Tomorrow propose une idée que peu de jeux osent explorer : voir les actions d'un autre joueur non pas comme un replay, mais comme une vision du futur. Une mécanique bouleversante, portée par un studio qui sait exactement ce qu'il fait."
+excerpt: "Voir les actions des autres joueurs comme une vision du futur. Une mécanique bouleversante portée par un studio qui sait exactement ce qu'il fait."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"

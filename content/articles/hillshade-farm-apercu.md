@@ -2,7 +2,7 @@
 title: "Hillshade Farm : la ferme vue de l'intérieur"
 slug: "hillshade-farm-apercu"
 category: "previews"
-excerpt: "Un simulateur de ferme à la première personne développé par un seul développeur. Hillshade Farm arrive en Early Access le 21 mai et promet une liberté de plantation radicale dans un monde qui vit vraiment."
+excerpt: "Un simulateur de ferme à la première personne développé en solo. Hillshade Farm arrive en Early Access le 21 mai avec une liberté de plantation radicale."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "4 min"

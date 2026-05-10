@@ -2,7 +2,7 @@
 title: "Pragmata : et si Capcom nous surprenait vraiment ?"
 slug: "pragmata-preview"
 category: "previews"
-excerpt: "Diana, une petite fille mystérieuse, et un astronaute perdu dans un univers spatial hostile et déformé. Pragmata est peut-être l'une des créations les plus audacieuses de Capcom depuis des années."
+excerpt: "Une petite fille mystérieuse et un astronaute perdu dans un univers hostile. Pragmata est peut-être la création la plus audacieuse de Capcom depuis des années."
 date: "2026-04-15"
 author: "Alexandrosse"
 readTime: "5 min"

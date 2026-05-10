@@ -2,7 +2,7 @@
 title: "Warcraft le film qu'on n'attendait pas… et qu'on n'a jamais vraiment retrouvé"
 slug: "warcraft-le-film-qu-on-n-a-jamais-retrouve"
 category: "cinema"
-excerpt: "À sa sortie, Warcraft a divisé la critique. Chez InsertCoins, le constat est sans appel : on a adoré. Et ça nous a brisé le cœur qu'il n'y ait jamais eu de suite."
+excerpt: "On a adoré le film Warcraft. Et ça nous a brisé le coeur qu'il n'y ait jamais eu de suite. Un amour qu'on n'a jamais vraiment caché."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "8 min"

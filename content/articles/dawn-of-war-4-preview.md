@@ -2,7 +2,7 @@
 title: "Dawn of War 4 annoncé : on espère, on doute, et on a toutes les raisons de faire les deux"
 slug: "dawn-of-war-4-preview"
 category: "previews"
-excerpt: "La série revient de Gamescom 2025 avec un trailer, quatre factions confirmées et une communauté qui essaie activement de ne pas se faire avoir une deuxième fois. AdMech en faction de départ, Blood Ravens, Necrons, Orks, et le fantôme de DoW 3 qui plane sur tout ça."
+excerpt: "4 factions, 150 unités, Last Stand de retour. Dawn of War 4 a tout pour plaire sur le papier. La communauté a juste une question : c'est qui qui le fait ?"
 date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "7 min"

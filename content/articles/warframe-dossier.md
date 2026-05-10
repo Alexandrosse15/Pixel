@@ -2,7 +2,7 @@
 title: "Warframe, 13 ans sans chercher à plaire. Et c'est pour ça qu'il est encore là."
 slug: "warframe-dossier"
 category: "dossiers"
-excerpt: "Lancé en 2013 dans l'indifférence quasi générale, Warframe tourne toujours. Pas parce qu'il a fait du bruit. Parce qu'il a construit quelque chose de solide sans jamais avoir besoin que vous en parliez."
+excerpt: "Lancé en 2013 dans l'indifférence, Warframe tourne toujours. Pas parce qu'il a fait du bruit. Parce qu'il a construit quelque chose de solide."
 date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "11 min"

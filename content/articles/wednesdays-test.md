@@ -2,7 +2,7 @@
 title: "Wednesdays : éclairer ce qu'on préférerait voir ne pas exister"
 slug: "wednesdays-test"
 category: "tests"
-excerpt: "Wednesdays arrive avec un style BD qui rappelle les meilleures heures de Ghost World, et un sujet que peu d'œuvres ont le courage d'aborder frontalement. C'est inconfortable, nécessaire, et lumineux."
+excerpt: "Style BD qui rappelle Ghost World, sujet que peu d'oeuvres ont le courage d'aborder frontalement. Inconfortable, nécessaire, et lumineux."
 date: "2026-04-20"
 author: "Alexandrosse"
 readTime: "7 min"

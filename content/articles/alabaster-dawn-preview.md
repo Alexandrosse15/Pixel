@@ -2,7 +2,7 @@
 title: "Alabaster Dawn : Radical Fish Games remet ça, et c'est encore meilleur qu'on espérait"
 slug: "alabaster-dawn-preview"
 category: "tests"
-excerpt: "Les créateurs de CrossCode sont de retour avec Juno, une élue qui doit briser la malédiction de Nyx dans un monde abandonné des dieux. La démo nous a pris deux heures et demi. On en voulait encore."
+excerpt: "Les créateurs de CrossCode ont mis deux heures et demie dans notre journée. La démo tient ses promesses. On en voulait encore."
 date: "2026-05-06"
 author: "Alexandrosse"
 readTime: "6 min"

@@ -2,7 +2,7 @@
 title: "Vestige : une île qui est en réalité le subconscient d'un personnage"
 slug: "vestige-preview"
 category: "previews"
-excerpt: "Une île découpée en sept zones du deuil, une mécanique de pulsions, et une petite équipe qui construit quelque chose d'intime avec ses propres deniers. Vestige mérite qu'on y prête attention."
+excerpt: "Une île divisée en sept zones du deuil, une mécanique de pulsions, une petite équipe qui construit quelque chose d'intime avec ses propres deniers."
 date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "5 min"

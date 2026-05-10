@@ -2,7 +2,7 @@
 title: "Over the Top : World War 1 : le FPS de la Grande Guerre qui n'avait pas le droit d'être aussi bon"
 slug: "over-the-top-world-war-1-test"
 category: "tests"
-excerpt: "Une toute petite équipe, 200 joueurs en simultané, et une immersion dans la Première Guerre mondiale qui réveille des souvenirs de Battlefield 1. Over the Top n'avait pas le droit d'être aussi bien fait."
+excerpt: "Une toute petite équipe, une immersion dans la Première Guerre mondiale qui réveille des souvenirs de Battlefield 1. Ça n'avait pas le droit d'être aussi bien."
 date: "2026-04-25"
 author: "Alexandrosse"
 readTime: "7 min"

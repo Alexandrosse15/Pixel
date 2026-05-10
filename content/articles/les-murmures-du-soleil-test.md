@@ -2,7 +2,7 @@
 title: "Les Murmures du Soleil est le meilleur jeu mobile de 2025 et vous n'en avez probablement jamais entendu parler"
 slug: "les-murmures-du-soleil-test"
 category: "tests"
-excerpt: "Un jeu d'action narratif entièrement audio, conçu pour les non-voyants, développé en solo, sorti le 30 décembre 2025. Pégase 2026 du Meilleur Jeu Mobile. InsertCoin.press l'a joué les yeux fermés. Littéralement."
+excerpt: "Un jeu entièrement audio conçu pour les non-voyants. Pégase 2026 du Meilleur Jeu Mobile. On l'a joué les yeux fermés. Littéralement."
 date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "10 min"

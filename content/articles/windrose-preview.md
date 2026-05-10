@@ -2,7 +2,7 @@
 title: "Windrose veut être le Black Flag qu'on attend depuis 2013. Ça commence bien."
 slug: "windrose-preview"
 category: "previews"
-excerpt: "Kraken Express débarque avec un jeu de pirate en monde ouvert en accès anticipé. Exploration libre, combat naval, coop jusqu'à 4. Le rêve pirate version 2026 est peut-être là. Ou pas. C'est tout l'enjeu."
+excerpt: "Exploration libre, combat naval, co-op jusqu'à 4. Le rêve pirate version 2026 est peut-être là. Ou pas. C'est tout l'enjeu."
 date: "2026-04-16"
 author: "Alexandrosse"
 readTime: "6 min"

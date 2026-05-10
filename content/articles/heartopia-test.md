@@ -2,7 +2,7 @@
 title: "Heartopia : le jeu cozy qui veut ton bonheur... et ta carte bancaire"
 slug: "heartopia-test"
 category: "tests"
-excerpt: "Heartopia promet un paradis sans stress, sans compétition, sans mauvaises ondes. Ce qu'il ne précise pas dans le trailer, c'est que la paix intérieure a un prix. Et que ce prix s'achète en monnaie premium."
+excerpt: "Heartopia promet un paradis sans stress. Ce qu'il ne précise pas dans le trailer : la paix intérieure a un prix, et ce prix s'achète en monnaie premium."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"

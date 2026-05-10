@@ -2,7 +2,7 @@
 title: "REPLACED : une claque visuelle… mais un jeu à la hauteur ?"
 slug: "replaced-test"
 category: "tests"
-excerpt: "REPLACED impressionne dès la première image. Le pixel art est somptueux, l'ambiance cyberpunk parfaitement maîtrisée. Mais une fois la claque visuelle absorbée, une question reste entière : est-ce que le jeu tient sur autre chose que son apparence ?"
+excerpt: "REPLACED a un pixel art somptueux et une ambiance cyberpunk parfaite. Une fois la claque absorbée : est-ce que ça tient sur autre chose ?"
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"

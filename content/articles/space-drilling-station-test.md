@@ -2,7 +2,7 @@
 title: "Space Drilling Station : creuser l'espace, une boucle à la fois"
 slug: "space-drilling-station-test"
 category: "tests"
-excerpt: "Space Drilling Station n'a pas l'ambition de redéfinir un genre. Il a l'ambition plus modeste et plus difficile de proposer une boucle de jeu qui donne envie de rester. Il y parvient, presque."
+excerpt: "Space Drilling Station a l'ambition difficile de proposer une boucle de jeu qui donne envie de rester. Il y parvient, presque."
 date: "2026-04-24"
 author: "Alexandrosse"
 readTime: "7 min"

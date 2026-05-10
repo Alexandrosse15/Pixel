@@ -2,7 +2,7 @@
 title: "ARC Raiders : il ne réinvente rien, il fait juste enfin les choses correctement"
 slug: "arc-raiders-dossier"
 category: "dossiers"
-excerpt: "On a déjà vu ce genre de jeu échouer. Des promesses plein les bandes-annonces, un concept fort, et une sortie qui s'effondre sous le poids de ses propres ambitions. ARC Raiders fonctionne. Et comprendre pourquoi, c'est comprendre ce que le genre a mis des années à apprendre."
+excerpt: "ARC Raiders ne réinvente rien. Il fait juste enfin les choses correctement. Dans un genre qui empile les cadavres, c'est presque révolutionnaire."
 date: "2026-04-26"
 author: "Alexandrosse"
 readTime: "10 min"

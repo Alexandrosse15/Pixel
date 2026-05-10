@@ -2,7 +2,7 @@
 title: "Hex Harmony : le petit jeu indie qu'on a envie de voir réussir"
 slug: "hex-harmony-preview"
 category: "previews"
-excerpt: "Un puzzle de gestion sur grille hexagonale, sans stress, avec des écosystèmes fragiles et un art style qui fait chaud au coeur. Pixel Builder Studio construit quelque chose de bien. On l'a dans l'oeil."
+excerpt: "Un puzzle de gestion sur hexagones, sans stress, avec des écosystèmes fragiles et un art style qui fait chaud au coeur. On l'a dans l'oeil."
 date: "2026-04-18"
 author: "Alexandrosse"
 readTime: "5 min"

@@ -2,7 +2,7 @@
 title: "Gecko Gods : le lézard sacré qui grimpe où les autres n'osent pas aller"
 slug: "gecko-gods-test"
 category: "tests"
-excerpt: "Gecko Gods te colle aux murs, aux plafonds, aux ruines d'une civilisation oubliée. Et quelque part entre le troisième temple et la dixième chute dans le vide, tu réalises que tu n'as pas lâché la manette depuis deux heures."
+excerpt: "Gecko Gods te colle aux murs, aux plafonds, aux ruines d'une civilisation oubliée. Et tu réalises que tu n'as pas lâché la manette depuis deux heures."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "9 min"

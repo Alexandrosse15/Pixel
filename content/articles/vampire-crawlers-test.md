@@ -2,7 +2,7 @@
 title: "Vampire Crawlers : encore un deck builder, et pourtant celui-là change vraiment quelque chose"
 slug: "vampire-crawlers-test"
 category: "tests"
-excerpt: "Un spin-off de Vampire Survivors qui traduit le chaos de l'original en dungeon crawling tour par tour. Le genre deck builder a beau être saturé, Vampire Crawlers trouve sa place avec une idée forte et un rythme qui accroche."
+excerpt: "Vampire Survivors traduit en dungeon crawling. Dans un genre saturé, Vampire Crawlers trouve sa place grâce à une idée forte et un rythme qui accroche."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "6 min"

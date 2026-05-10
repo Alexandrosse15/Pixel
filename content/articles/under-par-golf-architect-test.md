@@ -2,7 +2,7 @@
 title: "Under Par Golf Architect : le simulateur de tableur déguisé"
 slug: "under-par-golf-architect-test"
 category: "tests"
-excerpt: "Il y a des jeux qui font rêver. Et puis il y a ceux qui te donnent envie d'ouvrir Excel. Under Par Golf Architect fait clairement partie de la deuxième catégorie."
+excerpt: "Il y a des jeux qui font rêver. Et ceux qui donnent envie d'ouvrir Excel. Under Par Golf Architect est clairement dans la deuxième catégorie."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "8 min"

@@ -2,7 +2,7 @@
 title: "Cash Cleaner Simulator : on voulait être Marty Byrde, on est devenus pressing"
 slug: "cash-cleaner-simulator-test"
 category: "tests"
-excerpt: "On avait regardé Ozark un peu trop attentivement. On espérait blanchir des millions comme un banquier sans scrupules. Cash Cleaner Simulator nous a appris que blanchir de l'argent, c'est surtout beaucoup de lessive."
+excerpt: "On voulait être Marty Byrde. On est devenus pressing. Cash Cleaner Simulator nous a appris que blanchir de l'argent, c'est surtout de la lessive."
 date: "2026-05-06"
 author: "Alexandrosse"
 readTime: "5 min"

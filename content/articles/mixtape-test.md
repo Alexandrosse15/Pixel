@@ -2,7 +2,7 @@
 title: "Mixtape : la plus belle compile de 2026"
 slug: "mixtape-test"
 category: "tests"
-excerpt: "Beethoven & Dinosaur revient avec un jeu sur la fin du lycée, la musique comme langage universel, et des souvenirs qu'on croyait avoir rangés. La bande originale est magnifique. L'histoire est prenante. On a retourné la cassette."
+excerpt: "Beethoven & Dinosaur revient avec la fin du lycée et des souvenirs qu'on croyait avoir rangés. La bande originale est magnifique. On a retourné la cassette."
 date: "2026-05-08"
 author: "Alexandrosse"
 readTime: "6 min"

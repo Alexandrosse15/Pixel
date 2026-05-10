@@ -2,7 +2,7 @@
 title: "Star Wars: Fate of the Old Republic : pas un nouvel espoir, un vieil espoir"
 slug: "star-wars-fate-of-the-old-republic-preview"
 category: "previews"
-excerpt: "Arcanaut Studios réunit les anciens de BioWare autour de Casey Hudson pour un successeur spirituel à KOTOR. Pas Un Nouvel Espoir. L'autre. Celui qu'on porte depuis 2003."
+excerpt: "Les anciens de BioWare avec Casey Hudson, un successeur spirituel à KOTOR. Pas Un Nouvel Espoir. L'autre. Celui qu'on porte depuis 2003."
 date: "2026-05-07"
 author: "Alexandrosse"
 readTime: "5 min"

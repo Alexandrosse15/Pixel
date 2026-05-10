@@ -2,7 +2,7 @@
 title: "Cartel Pilots Wanted : des îles tropicales, un avion de contrebande et quelque chose qui nous rappelle pourquoi on joue"
 slug: "cartel-pilots-preview"
 category: "previews"
-excerpt: "Un simulateur de contrebande aérienne en co-op sur un archipel tropical. Pas de démo, pas d'accès presse. Juste un trailer, une vibe Far Cry premier du nom, et une envie réelle d'y être."
+excerpt: "Un simulateur de contrebande aérienne en co-op sur un archipel tropical. Pas de démo, juste un trailer et une envie réelle d'y être."
 date: "2026-04-19"
 author: "Alexandrosse"
 readTime: "5 min"

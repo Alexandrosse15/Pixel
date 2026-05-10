@@ -2,7 +2,7 @@
 title: "Tomodachi Life, Une vie de rêve : le retour inattendu d'un phénomène à part"
 slug: "tomodachi-life-une-vie-de-reve-test"
 category: "tests"
-excerpt: "Après des années d'absence, Nintendo relance une licence culte, étrange, parfois incomprise, mais profondément unique dans le paysage vidéoludique. Un retour attendu, mais aussi redouté. Parce que raviver un souvenir, ce n'est jamais anodin."
+excerpt: "Nintendo relance une licence culte, étrange, souvent incomprise, mais profondément unique. Raviver un souvenir, ce n'est jamais anodin."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "11 min"

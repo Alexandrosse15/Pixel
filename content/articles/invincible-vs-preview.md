@@ -2,7 +2,7 @@
 title: "Invincible VS : le jeu de combat qu'on mérite enfin"
 slug: "invincible-vs-preview"
 category: "previews"
-excerpt: "Un univers né de la plume de Robert Kirkman, le même homme qui a créé Walking Dead. Des personnages qu'on connaît depuis des années. Un jeu de combat qui semble comprendre pourquoi cet univers est aussi précieux. On a attendu longtemps. L'attente était justifiée."
+excerpt: "L'univers de Robert Kirkman mérite un jeu de combat depuis des années. Invincible VS semble l'avoir compris. L'attente était justifiée."
 date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "8 min"

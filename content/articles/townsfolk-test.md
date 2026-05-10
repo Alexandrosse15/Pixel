@@ -2,7 +2,7 @@
 title: "TownsFolk : encore un jeu à hexagones, et pourtant on ne s'en lasse pas"
 slug: "townsfolk-test"
 category: "tests"
-excerpt: "Les hexagones ont le vent en poupe. TownsFolk ne réinvente pas la formule, mais il l'habite avec une chaleur et une générosité qui font toute la différence."
+excerpt: "Encore un jeu à hexagones. TownsFolk ne réinvente pas la formule, mais il l'habite avec une chaleur et une générosité qui font toute la différence."
 date: "2026-04-20"
 author: "Alexandrosse"
 readTime: "6 min"

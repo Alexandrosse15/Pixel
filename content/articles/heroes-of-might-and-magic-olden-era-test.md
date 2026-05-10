@@ -2,7 +2,7 @@
 title: "Heroes of Might and Magic Olden Era : le III est de retour, et ça fait quelque chose"
 slug: "heroes-of-might-and-magic-olden-era-test"
 category: "tests"
-excerpt: "Unfrozen a fait ce qu'Ubisoft n'a pas réussi en dix ans : remettre Heroes sur les rails. Retour en enfance, bilan honnête, et la question qu'on se pose tous : est-ce que c'est vraiment aussi bien qu'on l'espérait ?"
+excerpt: "Unfrozen a fait ce qu'Ubisoft n'a pas réussi en dix ans : remettre Heroes sur les rails. Est-ce vraiment aussi bien qu'on l'espérait ?"
 date: "2026-05-04"
 author: "Alexandrosse"
 readTime: "8 min"

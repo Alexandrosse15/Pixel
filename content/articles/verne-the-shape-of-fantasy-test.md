@@ -2,7 +2,7 @@
 title: "Verne: The Shape of Fantasy, le point-and-click qui prouve que l'imagination n'a pas besoin de 60 images par seconde"
 slug: "verne-the-shape-of-fantasy-test"
 category: "tests"
-excerpt: "Jules Verne, le Nautilus, l'Atlantide, un monde fantastique né de l'imagination d'un auteur mort en 1905. Gametopia a transformé tout ça en point-and-click pixel art. Et c'est exactement aussi bien que ça en a l'air."
+excerpt: "Jules Verne, le Nautilus, l'Atlantide, en point-and-click pixel art. Gametopia a transformé tout ça. C'est exactement aussi bien que ça en a l'air."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "8 min"

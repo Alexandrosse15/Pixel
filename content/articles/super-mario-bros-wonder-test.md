@@ -2,7 +2,7 @@
 title: "Super Mario Bros. Wonder : le Mario 2D le plus créatif depuis des années"
 slug: "super-mario-bros-wonder-test"
 category: "tests"
-excerpt: "Avec Super Mario Bros. Wonder, Nintendo réussit quelque chose qu'on n'attendait plus vraiment : redonner un vrai sentiment de surprise à une formule 2D vieille de plusieurs décennies. Et le plus impressionnant, c'est que ça fonctionne presque du début à la fin."
+excerpt: "Nintendo réussit à redonner un vrai sentiment de surprise à une formule 2D vieille de plusieurs décennies. Presque du début à la fin."
 date: "2026-04-14"
 author: "Alexandrosse"
 readTime: "8 min"

@@ -2,7 +2,7 @@
 title: "Steel Fortress Awakening : un androïde, une civilisation perdue et un solo dev qui n'a pas froid aux yeux"
 slug: "steel-fortress-awakening-preview"
 category: "previews"
-excerpt: "Un solo dev, une obsession SF née d'une game jam, et une idée de mécanique sur la mémoire qui en dit long sur ses intentions. Steel Fortress Awakening n'est pas encore sorti. On le surveille déjà."
+excerpt: "Un dev solo, une mécanique sur la mémoire, une obsession SF née d'une game jam. Steel Fortress Awakening n'est pas encore sorti. On le surveille déjà."
 date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "6 min"

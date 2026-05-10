@@ -2,7 +2,7 @@
 title: "GTA VI : le jeu qui dépasse déjà le jeu"
 slug: "gta-vi-depasse-le-jeu"
 category: "dossiers"
-excerpt: "Quand un nouveau Grand Theft Auto est annoncé, ce n'est pas simplement une sortie de plus dans le calendrier. C'est un événement culturel, un moment de bascule où le jeu vidéo cesse d'être seulement un loisir pour redevenir un phénomène de société."
+excerpt: "Quand GTA VI arrive, ce n'est pas juste une sortie. C'est un moment culturel. Le jeu qui redevient un phénomène de société."
 date: "2026-04-16"
 author: "Alexandrosse"
 readTime: "6 min"

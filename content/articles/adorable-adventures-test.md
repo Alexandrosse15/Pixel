@@ -2,7 +2,7 @@
 title: "Adorable Adventures : Boris le marcassin et l'art de ne rien précipiter"
 slug: "adorable-adventures-test"
 category: "tests"
-excerpt: "Un marcassin, un incendie de forêt, une famille à retrouver. Adorable Adventures est un jeu qui ose être doux dans un paysage qui ne l'est plus. C'est rafraîchissant à un niveau qu'on n'avait pas anticipé."
+excerpt: "Boris est un marcassin orphelin dans un monde qui brûle. Adorable Adventures ose être doux dans un paysage qui ne l'est plus. C'est courageux."
 date: "2026-04-30"
 author: "Alexandrosse"
 readTime: "7 min"

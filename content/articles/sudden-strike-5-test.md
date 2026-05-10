@@ -2,7 +2,7 @@
 title: "Sudden Strike 5 : vingt ans plus tard, on est toujours là"
 slug: "sudden-strike-5-test"
 category: "tests"
-excerpt: "On a joué aux premiers Sudden Strike au lycée. Vingt ans ont passé. Le cinquième opus est là, et quelque chose dans le ventre dit qu'on va passer beaucoup de temps dessus."
+excerpt: "On a joué aux premiers Sudden Strike au lycée. Vingt ans ont passé. Le cinquième opus est là, et on a l'impression de ne jamais être vraiment partis."
 date: "2026-04-23"
 author: "Alexandrosse"
 readTime: "8 min"

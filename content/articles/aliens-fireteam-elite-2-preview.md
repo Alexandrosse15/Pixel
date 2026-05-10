@@ -2,7 +2,7 @@
 title: "Aliens: Fireteam Elite 2 : cette fois on sera quatre"
 slug: "aliens-fireteam-elite-2-preview"
 category: "previews"
-excerpt: "Cold Iron Studios et Daybreak Game Company annoncent Aliens: Fireteam Elite 2 pour cet été. Quatre marines au lieu de trois, crossplay day one, nouveaux types de Xenomorphs et un mode Horde. Le premier était solide. Le deuxième a les arguments pour aller plus loin."
+excerpt: "Cette fois on sera quatre. Cold Iron Studios revient avec crossplay day one, nouveaux Xenomorphs et un mode Horde. Le premier était solide."
 date: "2026-05-09"
 author: "Alexandrosse"
 readTime: "5 min"

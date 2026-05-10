@@ -2,7 +2,7 @@
 title: "Cthulhu: The Cosmic Abyss : plonger dans l'inconnu, au risque de s'y perdre"
 slug: "cthulhu-cosmic-abyss-test"
 category: "tests"
-excerpt: "Cthulhu: The Cosmic Abyss ne cherche pas à faire peur. Il cherche à provoquer quelque chose de plus rare : le malaise. Une descente lente vers ce qui nous dépasse, fidèle à l'esprit lovecraftien, mais pas sans concessions."
+excerpt: "Cthulhu: The Cosmic Abyss ne cherche pas à faire peur. Il cherche quelque chose de plus rare : le malaise. Fidèle à Lovecraft, mais pas sans concessions."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "10 min"

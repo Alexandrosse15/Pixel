@@ -2,7 +2,7 @@
 title: "Opération nettoyage (Cleaning Up!) : nettoyer... puis oublier"
 slug: "cleaning-up-test"
 category: "tests"
-excerpt: "Cleaning Up! appartient à cette catégorie de jeux qui misent tout sur un concept simple. Presque trop. Une idée sans développement, une boucle sans âme, et une impression de démo qui ne mène nulle part."
+excerpt: "Cleaning Up! mise tout sur un concept simple. Presque trop. Une boucle sans âme et une impression de démo qui ne mène nulle part."
 date: "2026-04-17"
 author: "Alexandrosse"
 readTime: "7 min"

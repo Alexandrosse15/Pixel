@@ -2,7 +2,7 @@
 title: "Tides of Tomorrow : le monde se noie, et pourtant on y croit"
 slug: "tides-of-tomorrow-test"
 category: "tests"
-excerpt: "Tides of Tomorrow porte une idée brillante : voir les choix des autres joueurs comme des visions d'un futur possible. Le monde est en train de mourir, les décisions sont impossibles, et malgré tout on avance. Comme dans Waterworld. Comme dans Fury Road."
+excerpt: "Voir les choix des autres comme des visions d'un futur possible. Le monde se noie, les décisions sont impossibles, et malgré tout on avance."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "7 min"

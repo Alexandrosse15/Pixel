@@ -2,7 +2,7 @@
 title: "Dark Heresy : Owlcat s'attaque à l'Inquisition et on est déjà perdus dans le Calixis"
 slug: "dark-heresy-preview"
 category: "previews"
-excerpt: "Un CRPG isométrique sur fond d'Inquisition impériale, des Night Lords, un Ogryn, un psyker Eldar et même un Kroot jouable. Owlcat Games fait du Owlcat Games dans l'univers 40K. On a envie d'y croire très fort."
+excerpt: "Owlcat Games s'attaque à l'Inquisition impériale dans 40K. CRPG isométrique, Night Lords, Ogryn jouable. On veut y croire très fort."
 date: "2026-05-05"
 author: "Alexandrosse"
 readTime: "6 min"

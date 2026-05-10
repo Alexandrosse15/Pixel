@@ -2,7 +2,7 @@
 title: "Pragmata : Capcom pose les bases d'une nouvelle licence, et ça tient"
 slug: "pragmata-test"
 category: "tests"
-excerpt: "Capcom mise sur une nouvelle licence avec une mécanique hybride tir et hacking, une direction artistique soignée et un duo attachant. Pas une révolution, mais une base solide."
+excerpt: "Capcom mise sur une nouvelle licence : mécaniques hybrides, direction artistique soignée, duo attachant. Pas une révolution, mais une base solide."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "6 min"

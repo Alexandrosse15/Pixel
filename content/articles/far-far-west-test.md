@@ -2,7 +2,7 @@
 title: "Far Far West : le jeu qui a lu tous les autres et a décidé de faire le contraire"
 slug: "far-far-west-test"
 category: "tests"
-excerpt: "Pas de microtransactions. Du co-op 4 joueurs, des démons du Far West, de la magie et des pistolets. Far Far West ne réinvente pas la roue mais il la fait tourner avec un plaisir communicatif."
+excerpt: "Pas de microtransactions. Co-op 4 joueurs, démons du Far West, magie et pistolets. Far Far West fait tourner la roue avec un plaisir communicatif."
 date: "2026-04-29"
 author: "Alexandrosse"
 readTime: "7 min"

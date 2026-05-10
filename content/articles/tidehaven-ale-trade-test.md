@@ -2,7 +2,7 @@
 title: "Tidehaven Ale and Trade : une taverne médiévale qui tourne toute seule, et c'est le problème"
 slug: "tidehaven-ale-trade-test"
 category: "tests"
-excerpt: "Un jeu de gestion de taverne médiévale qui mélange l'idle et le management actif avec une générosité bienvenue. En Early Access, il pose déjà des bases solides, même si le pilote automatique finit par prendre trop de place."
+excerpt: "Un jeu de gestion de taverne médiévale en Early Access, généreux dans ses bases. Le pilote automatique finit juste par prendre trop de place."
 date: "2026-04-21"
 author: "Alexandrosse"
 readTime: "5 min"

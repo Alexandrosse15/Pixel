@@ -2,7 +2,7 @@
 title: "CARNEDGE : dix ans de travail, trois personnes, un jeu qui mérite votre attention"
 slug: "carnedge-test"
 category: "tests"
-excerpt: "Un roguelite deckbuilder dark fantasy développé par trois personnes pendant dix ans. CARNEDGE est rugueux, ambitieux, et franchement plus intéressant que la moitié des sorties de la semaine."
+excerpt: "Trois personnes. Dix ans de boulot. Un roguelite deckbuilder dark fantasy plus intéressant que la moitié des sorties de la semaine."
 date: "2026-04-19"
 author: "Alexandrosse"
 readTime: "9 min"

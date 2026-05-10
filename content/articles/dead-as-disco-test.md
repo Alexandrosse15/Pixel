@@ -2,7 +2,7 @@
 title: "Dead as Disco : on avait dit que la baston était bonne. On avait raison."
 slug: "dead-as-disco-test"
 category: "tests"
-excerpt: "La démo nous avait donné envie. L'Early Access confirme : Brain Jar Games a construit un beat'em up rythmique qui frappe fort, qui sonne bien, et qui a suffisamment de personnalité pour qu'on en parle encore longtemps."
+excerpt: "La démo nous avait donné envie. L'Early Access confirme : Brain Jar Games a construit un beat'em up rythmique qui frappe fort et sonne encore mieux."
 date: "2026-05-05"
 author: "Alexandrosse"
 readTime: "7 min"

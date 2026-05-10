@@ -2,7 +2,7 @@
 title: "Gambonanza : Balatro avait un génie, celui-là a un formulaire"
 slug: "gambonanza-test"
 category: "tests"
-excerpt: "Roguelite d'échecs avec des synergies, des gambits et des mini-jeux pachinko. L'idée est excellente. L'exécution nous a laissés froids. Peut-être qu'on n'a pas saisi l'essence. Peut-être que l'essence n'est pas là."
+excerpt: "Roguelite d'échecs avec synergies et pachinko. L'idée est excellente. L'exécution nous a laissés froids. Peut-être que l'essence n'est pas là."
 date: "2026-05-02"
 author: "Alexandrosse"
 readTime: "6 min"

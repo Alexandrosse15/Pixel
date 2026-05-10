@@ -2,7 +2,7 @@
 title: "Diablo IV, nouvelle extension : et si c'était enfin le moment de revenir ?"
 slug: "diablo-iv-nouvelle-extension-preview"
 category: "previews"
-excerpt: "Carte superposée, filtre de butin, nouvelles classes, refonte des arbres de compétences. La nouvelle extension de Diablo IV coche toutes les cases que la communauté réclamait depuis le lancement. La vraie question n'est pas ce qu'elle ajoute. C'est si elle répare."
+excerpt: "La nouvelle extension de Diablo IV coche tout ce que la communauté réclamait depuis le lancement. La vraie question : est-ce que ça répare le jeu ?"
 date: "2026-04-28"
 author: "Alexandrosse"
 readTime: "9 min"

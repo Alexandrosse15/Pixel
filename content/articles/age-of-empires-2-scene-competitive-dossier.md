@@ -2,7 +2,7 @@
 title: "Age of Empires 2 a une scène compétitive en 2026. C'est un miracle que personne n'a vraiment payé."
 slug: "age-of-empires-2-scene-competitive-dossier"
 category: "dossiers"
-excerpt: "Un jeu de 1999, 40 000 joueurs sur le ladder, les mêmes dix noms au sommet depuis une décennie, et une scène esport qui tient debout grâce à des créateurs de contenu plutôt qu'à des sponsors. Comment Age of Empires 2 a ressuscité quelque chose qu'on croyait enterré, et pourquoi c'est aussi fragile que magnifique."
+excerpt: "Un jeu de 1999, 40 000 joueurs actifs, les mêmes dix noms au sommet depuis dix ans. Comment AoE2 a ressuscité une scène esport que personne ne finançait."
 date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "14 min"
