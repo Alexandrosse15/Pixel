@@ -7,7 +7,7 @@ date: "2026-05-10"
 author: "Alexandrosse"
 readTime: "14 min"
 image_color: "from-amber-950 via-stone-950 to-zinc-950"
-coverImage: "/images/aoe2/cover.jpg"
+coverImage: "/images/aoe2/screenshot-3.png"
 gameName: "Age of Empires II"
 featured: false
 ---
