@@ -7,7 +7,7 @@ excerpt: "Cinq ans de Dark Pictures pour ça : un alien qui imite ses proies, de
 date: "2026-05-12"
 author: "Alexandrosse"
 readTime: "11 min"
-score: 7
+score: 8
 image_color: "from-slate-950 via-indigo-950 to-zinc-950"
 coverImage: "/images/directive8020/screenshot-1.webp"
 gameName: "The Dark Pictures Anthology: Directive 8020"
