@@ -1,9 +1,9 @@
 ---
 title: "Void Reaver : six personnes, zéro IA artistique, et un roguelike d'inventaire qui veut vous faire jouer au Tetris entre deux vagues de démons"
-seoTitle: "Void Reaver : interview Studio Banane Blitz"
+seoTitle: "Void Reaver : interview Banana Blitz Studio"
 slug: "void-reaver-interview"
 category: "previews"
-excerpt: "Rencontre avec Banane Blitz, le studio derrière Void Reaver : six personnes réparties dans toute la France, formées sur WoW, et convaincues que le coeur du roguelike se joue dans l'inventaire."
+excerpt: "Rencontre avec Banana Blitz Studio, le studio derrière Void Reaver : six personnes réparties dans toute la France, formées sur WoW, et convaincues que le coeur du roguelike se joue dans l'inventaire."
 date: "2026-05-17"
 author: "Alexandrosse"
 readTime: "8 min"
@@ -13,17 +13,17 @@ gameName: "Void Reaver"
 featured: false
 ---
 
-Studio Banane Blitz n'est pas un studio comme les autres. Pas parce qu'il fait quelque chose de révolutionnaire, mais parce que son histoire ressemble à zéro des trajectoires habituelles du jeu indépendant. Pas d'école de jeu vidéo, pas d'anciens employés d'un grand studio qui se lancent, pas de Kickstarter en fanfare. Juste une équipe de six personnes dispersées en France, réunie par des rencontres sur World of Warcraft, Twitch et Discord, qui travaille sur son premier jeu sans que personne autour de la table n'ait jamais ouvert Unity avant de commencer.
+Banana Blitz Studio n'est pas un studio comme les autres. Pas parce qu'il fait quelque chose de révolutionnaire, mais parce que son histoire ressemble à zéro des trajectoires habituelles du jeu indépendant. Pas d'école de jeu vidéo, pas d'anciens employés d'un grand studio qui se lancent, pas de Kickstarter en fanfare. Juste une équipe de six personnes dispersées en France, réunie par des rencontres sur World of Warcraft, Twitch et Discord, qui travaille sur son premier jeu sans que personne autour de la table n'ait jamais ouvert Unity avant de commencer.
 
 Voici ce qu'ils ont à dire sur Void Reaver.
 
 ## L'équipe
 
-Nibana, directeur artistique et compositeur, a répondu aux questions par écrit. L'équipe complète de Banane Blitz compte six personnes : Aurélie (game design et gestion du studio), Eonir et Omox (développement), Agathe (3D, art et VFX), Nibana (DA, musique et tout ce qui déborde), et Baptiste (intégration sonore sur Wwise et sound design).
+Nibana, directeur artistique et compositeur, a répondu aux questions par écrit. L'équipe complète de Banana Blitz compte six personnes : Aurélie (game design et gestion du studio), Eonir et Omox (développement), Agathe (3D, art et VFX), Nibana (DA, musique et tout ce qui déborde), et Baptiste (intégration sonore sur Wwise et sound design).
 
 La formation du studio vaut qu'on s'y attarde. Nibana a rencontré le compagnon d'Aurélie sur World of Warcraft. Ni Aurélie ni Nibana n'avaient touché à un game engine de leur vie à ce moment-là. Eonir, leur premier employé, est arrivé via des contacts en commun : développeur Unity depuis plusieurs années, il représente le socle technique sur lequel tout le reste repose. Agathe a été repérée lors d'une intervention dans une école de jeu vidéo à Montpellier. Omox a rejoint l'équipe après avoir été aperçu en train de streamer Void Reaver sur Twitch pendant le développement. Baptiste, rencontre fortuite sur Discord.
 
-"Uniquement des rencontres très organiques", résume Nibana. Pas le genre de phrase qu'on attend d'un studio qui prépare son premier jeu commercial, et pourtant c'est précisément ce qui donne à Banane Blitz une identité lisible : personne ici n'a suivi le chemin balisé.
+"Uniquement des rencontres très organiques", résume Nibana. Pas le genre de phrase qu'on attend d'un studio qui prépare son premier jeu commercial, et pourtant c'est précisément ce qui donne à Banana Blitz une identité lisible : personne ici n'a suivi le chemin balisé.
 
 ![Void Reaver, gameplay roguelike](/images/voidreaver/screenshot-2.webp)
 
@@ -55,7 +55,7 @@ La première est une phase de survie : des vagues d'ennemis à repousser, les ar
 
 La deuxième phase, et c'est là que Void Reaver prend sa propre direction, c'est la gestion d'inventaire. La monnaie gagnée en combat permet d'acheter des armes et des objets qui s'organisent dans un espace limité. Chaque objet a une forme dédiée et doit être placé physiquement dans l'inventaire, comme un Tetris. Mais surtout : certains objets n'activent leurs effets qu'en adjacence avec d'autres objets du bon type. L'inventaire n'est pas juste un réceptacle, c'est le puzzle que vous devez résoudre pour construire un build fonctionnel.
 
-"On mise tout sur la gestion de l'inventaire, qu'on essaie de faire de la meilleure manière possible, de sorte à ce qu'il soit fluide, facile à gérer mais difficile à optimiser." Facile à comprendre, difficile à maîtriser : c'est le standard du bon design roguelike, et Banane Blitz semble conscient de l'ambition que ça représente.
+"On mise tout sur la gestion de l'inventaire, qu'on essaie de faire de la meilleure manière possible, de sorte à ce qu'il soit fluide, facile à gérer mais difficile à optimiser." Facile à comprendre, difficile à maîtriser : c'est le standard du bon design roguelike, et Banana Blitz semble conscient de l'ambition que ça représente.
 
 La méta-progression fonctionne via un skill tree par personnage, chaque partie débloquant des améliorations permanentes. Le jeu vise une centaine d'armes, deux cents items et une dizaine de personnages avec leurs propres arbres. Les millions de builds possibles ne sont pas une promesse marketing vide si le système d'adjacence est bien calibré : la combinatoire fait réellement exploser les possibilités.
 
@@ -73,7 +73,7 @@ Position sans ambiguïté : aucune IA générative artistique sur Void Reaver. L
 
 La réponse de Nibana sur le sujet ne laisse pas de place à l'interprétation : "Le studio tient une position très ferme contre l'utilisation de l'IA générative pour remplacer des artistes, peu importe l'industrie dans laquelle elle est utilisée." Il identifie l'explosion récente de jeux générés par IA sur Steam comme symptomatique d'un problème structurel : des projets sans âme qui capitalisent sur la facilité au détriment d'un écosystème indépendant déjà fragile. "Nous préférons un jeu potentiellement moins beau et moins complet, mais plus humain."
 
-C'est une position qui a un coût réel dans un contexte où l'IA permettrait de compenser exactement les lacunes d'une petite équipe. Banane Blitz a choisi de ne pas l'utiliser en connaissance de cause.
+C'est une position qui a un coût réel dans un contexte où l'IA permettrait de compenser exactement les lacunes d'une petite équipe. Banana Blitz a choisi de ne pas l'utiliser en connaissance de cause.
 
 ## Le financement
 
@@ -81,7 +81,7 @@ Void Reaver a été financé en trois temps. D'abord sur les économies personne
 
 Le CNC a été sollicité pour l'aide à la pré-production, sans succès. Une demande pour l'aide à la production est en cours.
 
-Le contrat avec l'éditeur a été signé avec une clause ferme : Banane Blitz garde le contrôle créatif et la direction artistique, sans exception. "Aucunement [de contrainte]. Nous avons fait en sorte de ne signer des contrats qu'avec la certitude que nous garderions la main mise sur le projet."
+Le contrat avec l'éditeur a été signé avec une clause ferme : Banana Blitz garde le contrôle créatif et la direction artistique, sans exception. "Aucunement [de contrainte]. Nous avons fait en sorte de ne signer des contrats qu'avec la certitude que nous garderions la main mise sur le projet."
 
 ## Ce qui attend Void Reaver
 
