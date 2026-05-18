@@ -42,8 +42,8 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
       let endDate: string | null = null
       let startDate: string | null = null
 
-      // Check active free offers (price = 0, original > 0)
-      if (originalPrice > 0 && discountPrice === 0) {
+      // Check active free offers (discountPrice = 0, with active promotional offer in date range)
+      if (discountPrice === 0) {
         for (const promo of activeOffers) {
           for (const offer of promo?.promotionalOffers ?? []) {
             const start = new Date(offer.startDate)
@@ -79,8 +79,8 @@ async function fetchEpicFreeGames(): Promise<FreeGame[]> {
         if (!startDate) continue
       }
 
-      // Skip permanently free games (no upcoming offers)
-      if (originalPrice === 0 && !startDate) continue
+      // Skip permanently free games (no active promo, no upcoming offers)
+      if (!isCurrent && !startDate) continue
 
       // Pick best image
       const images: { type: string; url: string }[] = el?.keyImages ?? []
