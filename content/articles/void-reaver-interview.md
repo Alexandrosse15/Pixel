@@ -8,7 +8,7 @@ date: "2026-05-17"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-violet-950 via-indigo-950 to-zinc-950"
-coverImage: "/images/voidreaver/screenshot-1.webp"
+coverImage: "/images/voidreaver/screenshot-5.webp"
 gameName: "Void Reaver"
 featured: false
 ---
@@ -25,7 +25,7 @@ La formation du studio vaut qu'on s'y attarde. Nibana a rencontré le compagnon 
 
 "Uniquement des rencontres très organiques", résume Nibana. Pas le genre de phrase qu'on attend d'un studio qui prépare son premier jeu commercial, et pourtant c'est précisément ce qui donne à Banana Blitz une identité lisible : personne ici n'a suivi le chemin balisé.
 
-![Void Reaver, gameplay roguelike](/images/voidreaver/screenshot-2.webp)
+![Void Reaver, gameplay roguelike](/images/voidreaver/screenshot-6.webp)
 
 L'équipe travaille entièrement en remote, répartie un peu partout en France. La coordination passe par Discord, avec une approche qui "ressemble plus à un projet passion" selon Nibana : des réunions quand c'est nécessaire, des deadlines, mais pas de hiérarchie rigide. "On n'a pas vraiment une relation classique de patron / employé."
 
@@ -39,7 +39,7 @@ Le low-poly n'est pas un choix purement esthétique. Nibana l'identifie claireme
 
 L'UI est l'exception : "La seule chose qui aura beaucoup changé parce qu'aucun d'entre nous n'avaient de notions d'UI." Beaucoup d'itérations pour atteindre un rendu qui convient sans dépasser les capacités de l'équipe.
 
-![Void Reaver, direction artistique](/images/voidreaver/screenshot-3.webp)
+![Void Reaver, direction artistique](/images/voidreaver/screenshot-7.webp)
 
 ## La technologie
 
@@ -59,7 +59,7 @@ La deuxième phase, et c'est là que Void Reaver prend sa propre direction, c'es
 
 La méta-progression fonctionne via un skill tree par personnage, chaque partie débloquant des améliorations permanentes. Le jeu vise une centaine d'armes, deux cents items et une dizaine de personnages avec leurs propres arbres. Les millions de builds possibles ne sont pas une promesse marketing vide si le système d'adjacence est bien calibré : la combinatoire fait réellement exploser les possibilités.
 
-![Void Reaver, système d'inventaire](/images/voidreaver/screenshot-4.webp)
+![Void Reaver, système d'inventaire](/images/voidreaver/screenshot-8.webp)
 
 ## La difficulté
 
