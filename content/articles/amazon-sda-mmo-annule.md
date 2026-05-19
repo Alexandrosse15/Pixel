@@ -8,7 +8,7 @@ date: "2026-05-19"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-stone-950 via-amber-950 to-zinc-950"
-coverImage: ""
+coverImage: "/images/sdaonline/screenshot-1.webp"
 gameName: "Lord of the Rings MMO"
 featured: false
 ---
@@ -16,6 +16,8 @@ featured: false
 Amazon Games vient de confirmer l'annulation de son MMO Seigneur des Anneaux. Pas de date de sortie repoussée, pas de mise en veille temporaire, pas de "nous réévaluons la direction du projet". Annulé. Terminé. Rangé dans un tiroir qui ne rouvrira pas.
 
 Pour ceux qui suivaient ça de près : vous le saviez. La question n'était plus "si" mais "quand". Pour les autres : voici l'histoire d'un studio qui a dépensé des millions sur une IP parmi les plus précieuses du divertissement, et qui n'a jamais réussi à livrer quoi que ce soit qui en soit digne.
+
+![Lord of the Rings Online, Terre du Milieu](/images/sdaonline/screenshot-2.webp)
 
 ## Le cimetière Amazon Games
 
@@ -39,6 +41,8 @@ Le résultat est le même. L'annulation est intervenue dans le sillage des licen
 
 Il faut ici nommer ce qui s'est passé clairement : Amazon a obtenu la licence d'une des franchises les plus aimées au monde, a lancé deux tentatives de MMO sur une décennie, et n'a rien produit. Pas de bêta. Pas d'accès anticipé. Pas même un trailer de gameplay convaincant qui aurait donné envie d'y croire jusqu'au bout.
 
+![Lord of the Rings Online, environnement](/images/sdaonline/screenshot-3.webp)
+
 ## Pourquoi on y croyait quand même
 
 C'est ça, la partie difficile à expliquer. Objectivement, rien dans le bilan d'Amazon Games ne justifiait une quelconque confiance. Breakaway, Crucible, New World : chaque projet avait ses propres raisons d'échouer, mais le pattern était lisible dès la deuxième tentative.
@@ -46,6 +50,8 @@ C'est ça, la partie difficile à expliquer. Objectivement, rien dans le bilan d
 Et pourtant. L'idée d'un grand MMO Seigneur des Anneaux persistait, résistait à la raison, parce que la demande est réelle. Il y a un jeu qui n'a jamais été fait : un MMO moderne, à la hauteur de l'univers de Tolkien, avec les moyens techniques d'aujourd'hui et le respect du lore que la licence mérite. L'espoir que ce soit Amazon qui le fasse était irrationnel. Mais l'espoir que ce jeu existe un jour ne l'est pas.
 
 Amazon n'était pas la bonne entreprise pour le faire. Ce n'était pas évident en 2019, c'était évident en 2021, c'était une certitude en 2023. En 2026, c'est simplement confirmé.
+
+![Lord of the Rings Online, exploration](/images/sdaonline/screenshot-4.webp)
 
 ## Ce qui reste
 
@@ -56,6 +62,8 @@ Lord of the Rings Online vient de célébrer ses 19 ans. Le jeu est passé en fr
 LOTRO n'est pas parfait. Ses graphismes ont vieilli. Sa courbe d'apprentissage peut désorienter les nouveaux joueurs habitués aux interfaces modernes. Son modèle économique avec des zones et des packs de quêtes à acheter séparément peut frustrer. Et sa population est moins dense qu'à son apogée.
 
 Mais LOTRO est là. Il a survécu à Crucible. Il survivra à la fermeture de New World. Il vient de survivre à la deuxième annulation d'un projet censé le remplacer. Il sera probablement encore là quand Amazon tentera, peut-être, une troisième approche de la licence dans dix ans.
+
+![Lord of the Rings Online, paysage](/images/sdaonline/screenshot-5.webp)
 
 ## L'IP de Tolkien mérite mieux
 
