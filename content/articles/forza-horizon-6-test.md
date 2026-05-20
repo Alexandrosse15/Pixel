@@ -9,7 +9,7 @@ author: "Alexandrosse"
 readTime: "10 min"
 score: 8
 image_color: "from-red-950 via-zinc-900 to-stone-950"
-coverImage: ""
+coverImage: "/images/forzahorizon6/screenshot-1.webp"
 gameName: "Forza Horizon 6"
 featured: false
 ---
@@ -17,6 +17,8 @@ featured: false
 Forza Horizon 6 est sorti le 19 mai 2026 sur Xbox Series X/S, PC et Steam. La version PS5 est prévue plus tard dans l'année. Le jeu est inclus dans le Game Pass ; la Premium Edition est vendue aux alentours de 130 euros et inclut un accès anticipé de quatre jours ainsi qu'un paquet de voitures qui brise immédiatement la progression dont le studio vante les améliorations dans chaque communiqué.
 
 La carte c'est le Japon. C'était la bonne décision.
+
+![Forza Horizon 6, Japon](/images/forzahorizon6/screenshot-2.webp)
 
 ## Ce qui change vraiment
 
@@ -30,6 +32,8 @@ La fast travel a aussi changé : vous pouvez désormais vous téléporter gratui
 
 L'interface mérite d'être mentionnée séparément. Elle est clairement meilleure : navigation plus rapide, meilleure lisibilité, et une cohérence visuelle que FH5 n'avait pas. Ça semble anecdotique mais dans un jeu où on passe beaucoup de temps dans les menus entre deux courses, c'est sensible.
 
+![Forza Horizon 6, progression](/images/forzahorizon6/screenshot-3.webp)
+
 ## La carte
 
 Le Japon est la meilleure carte que la série ait produite, aux côtés de FH3 (Australie) et FH4 (Écosse). Après la carte mexicaine de FH5, qui proposait des panoramas corrects mais une identité culturelle peu exploitée et une monotonie de terrain rapidement apparente, le changement est radical.
@@ -38,6 +42,8 @@ La diversité est immédiate : zones urbaines denses à la circulation lente et 
 
 Ce n'est pas un monde ouvert cherchant à être grand pour être grand. C'est une carte construite pour que chaque zone ait une identité de conduite distincte. Les routes de montagne ne se conduisent pas comme les boulevards de la ville, qui ne se conduisent pas comme les côtes. C'est exactement ce que FH5 n'arrivait pas à faire avec ses biomes trop larges et trop plats.
 
+![Forza Horizon 6, carte japonaise](/images/forzahorizon6/screenshot-4.webp)
+
 ## Le modèle de conduite
 
 Des changements sont là, subtils mais réels. Plusieurs joueurs notent que les pneus réagissent différemment, avec une gestion du grip plus mécanique et moins "hovercraft". La voiture se comporte davantage comme une masse avec de l'inertie que comme un objet glissant sur des rails. Ce n'est pas une refonte complète du moteur physique, mais c'est perceptible, notamment dans les changements de direction rapides et dans la façon dont l'avant de la voiture charge sous la décélération.
@@ -45,6 +51,8 @@ Des changements sont là, subtils mais réels. Plusieurs joueurs notent que les 
 C'est toujours un simcade orienté accessibilité. Ce n'est pas une simulation. Mais le fossé qui séparait FH5 d'un Gran Turismo ou d'un Assetto Corsa sur le ressenti des pneus est légèrement réduit. Pas comblé. Légèrement réduit.
 
 Ce qui n'a pas changé : le comportement à la limite de l'adhérence reste peu informatif. Le jeu tend à tout gérer pour vous, ce qui empêche d'apprendre à lire la voiture et rend les moments de perte de contrôle surprenants plutôt qu'anticipables.
+
+![Forza Horizon 6, conduite](/images/forzahorizon6/screenshot-5.webp)
 
 ## L'IA : le problème permanent
 
@@ -55,6 +63,8 @@ Le schéma est identique à FH5 : sur difficulté normale, les adversaires sont 
 Le cas concret qui revient systématiquement dans les retours de lancement : un Bronco de série qui dépasse une WRX modifiée à 100 km/h dans la boue, exécute un virage à 90 degrés à pleine vitesse, et disparaît dans la distance. Ce n'est pas de la difficulté. C'est de la triche codifiée en tant que difficulté.
 
 Les courses cross-country sont le pire terrain : là où vous perdez du temps sur les obstacles et le terrain variable, l'IA continue à une vitesse constante indépendante de la réalité physique du parcours. FH6 ne résout pas ce problème. Il le reproduit.
+
+![Forza Horizon 6, course](/images/forzahorizon6/screenshot-6.webp)
 
 ## Le reste
 
@@ -71,6 +81,8 @@ Forza Horizon est une série en pilotage automatique. Pas parce qu'elle fait mal
 Le résultat est un jeu qui évite tous les défauts rédhibitoires et ne résout aucun de ses défauts structurels connus. L'IA est mauvaise depuis FH3 : elle est toujours mauvaise en FH6. La progression est incohérente depuis qu'ils ont introduit les wheelspins : elle l'est encore en FH6 si vous achetez la Premium Edition. L'écriture et les personnages sont faibles depuis FH4 : ils le sont encore en FH6.
 
 Ce sont des problèmes connus, documentés, discutés dans chaque cycle de sortie. Ils survivent à chaque itération parce qu'ils ne font pas baisser les ventes, pas parce que le studio ne les voit pas.
+
+![Forza Horizon 6, paysage](/images/forzahorizon6/screenshot-7.webp)
 
 ## Verdict
 
