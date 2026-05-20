@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /_next/static/
+Disallow: /_next/image/
+Disallow: /api/
 
 Sitemap: https://insertcoins.press/sitemap.xml
