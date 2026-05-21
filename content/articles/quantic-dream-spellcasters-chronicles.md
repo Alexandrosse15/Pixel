@@ -8,7 +8,7 @@ date: "2026-05-20"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-purple-950 via-zinc-950 to-slate-950"
-coverImage: ""
+coverImage: "/images/spellcasterchronicle/screenshot-1.webp"
 gameName: "Spellcasters Chronicles"
 featured: false
 ---
@@ -16,6 +16,8 @@ featured: false
 Quantic Dream vient d'annoncer l'arrêt du développement de Spellcasters Chronicles. Les serveurs ferment le 19 juin 2026. Les achats effectués pendant l'Early Access seront intégralement remboursés sur demande. Le studio "procède à une réorganisation interne" avec des réaffectations prioritaires sur ses autres productions.
 
 Star Wars Eclipse continue. C'est la seule bonne nouvelle du communiqué.
+
+![Spellcasters Chronicles, gameplay](/images/spellcasterchronicle/screenshot-2.webp)
 
 ## Ce qu'était Spellcasters Chronicles
 
@@ -27,6 +29,8 @@ Le jeu est entré en Early Access sur Steam et a atteint un pic de 800 joueurs s
 
 Il est tombé à 54 joueurs actifs avant la fermeture. 83 jours après le lancement.
 
+![Spellcasters Chronicles, arène](/images/spellcasterchronicle/screenshot-3.webp)
+
 ## Pourquoi personne ne savait que ce jeu existait
 
 Le problème n'était pas uniquement le genre. C'était l'absence totale de communication.
@@ -37,6 +41,8 @@ Pour un jeu multijoueur compétitif free-to-play, l'absence de masse critique au
 
 Les avis Steam parlent de mauvaise optimisation, de mécaniques peu intuitives et d'un manque de fonctionnalités de base. Mais "pas terrible au lancement" ne tue pas un jeu multijoueur. "Personne n'est là pour jouer avec" le tue.
 
+![Spellcasters Chronicles, personnages](/images/spellcasterchronicle/screenshot-4.webp)
+
 ## Qui a décidé que c'était une bonne idée
 
 Quantic Dream a été racheté par NetEase, le conglomérat chinois de jeux vidéo, il y a quelques années. La question naturelle est de savoir si la commande venait de l'acquéreur : un studio de narration solo reconverti dans le live service multijoueur pour maximiser les revenus récurrents, c'est le type de décision qu'on associe à une direction financière qui ne comprend pas son actif.
@@ -46,6 +52,8 @@ Sauf que selon des sources proches du studio, l'idée venait de David Cage lui-m
 Ce n'est pas la première fois qu'un studio tente de sortir de sa zone de confort vers le live service. La liste est longue et le bilan est mauvais. Redfall : Arkane Austin, studio de jeux immersifs en solo, forcé sur un looter shooter co-op. Concord : Sony, hero shooter qui a fermé en deux semaines. Suicide Squad : Rocksteady, créateurs de la trilogie Batman Arkham, sur un live service qui n'a jamais trouvé son public. FBC Firebreak : Remedy, connus pour Max Payne et Alan Wake, tentant un shooter co-op sans fil narratif.
 
 Le pattern est identique dans chaque cas : un studio avec une identité forte et un public fidèle décide de pivoter vers un genre structurellement différent, sans expérience dans ce genre, sans comprendre ce que demande son public cible, et sans plan pour construire une communauté de zéro dans un marché saturé. L'échec n'est pas une surprise. C'est une conséquence.
+
+![Spellcasters Chronicles, interface](/images/spellcasterchronicle/screenshot-5.webp)
 
 ## Ce que ça dit du marché
 
