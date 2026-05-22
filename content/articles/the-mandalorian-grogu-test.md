@@ -58,7 +58,7 @@ Les confrontations physiques restent efficaces quand le scénario leur en donne 
 
 ## La question Grogu
 
-Il y a une séquence où Grogu interagit avec de petits mécaniciens extraterrestres. L'intention est de produire un moment de comédie légère. Le résultat ressemble à un segment des Minions. Ce n'est pas un compliment.
+Il y a une séquence où Grogu interagit avec de petits mécaniciens extraterrestres. L'intention est de produire un moment de comédie légère. Le résultat ressemble à un segment des Minikums. Ce n'est pas un compliment.
 
 Grogu fonctionne parce qu'il donne un contexte émotionnel à Din Djarin. Cette relation est l'âme de la série depuis la saison 1. Seul, sans elle pour lui donner du poids, il opère comme une mascotte. Le film le sait et n'a pas trouvé comment le résoudre.
 
