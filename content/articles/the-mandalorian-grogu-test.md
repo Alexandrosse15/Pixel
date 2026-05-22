@@ -2,7 +2,7 @@
 title: "The Mandalorian & Grogu : un bon épisode de Disney+, en IMAX"
 seoTitle: "The Mandalorian & Grogu test : notre avis sur le film"
 slug: "the-mandalorian-grogu-test"
-category: "tests"
+category: "cinema"
 excerpt: "Jon Favreau livre des visuels propres, un Rotta attachant et deux heures d'aventures épisodiques sans conséquences. Mandalore est ignorée, deux méchants sont gâchés, la politique galactique ne tient pas. Le retour de Mando au cinéma valait mieux que ça."
 date: "2026-05-22"
 author: "Alexandrosse"
