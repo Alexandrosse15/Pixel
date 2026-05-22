@@ -51,7 +51,7 @@ L'interface de carte téléphonique pour naviguer dans Paris pendant la phase du
 
 ## Un projet financé sans compromis
 
-Sunny Lab a financé le jeu en trois phases : famille et amis pour les débuts, Kickstarter pour valider la demande, puis un accord avec Silver Lightning comme éditeur. Le projet a obtenu le score maximal au CIGIV (le label d'aide à la création de jeux vidéo). Aucune IA générative n'a été utilisée dans la production.
+Sunny Lab a financé le jeu en trois phases : famille et amis pour les débuts, Kickstarter pour valider la demande, puis un accord avec Silver Lining Interactive comme éditeur. Le projet a obtenu le score maximal au CIGIV (le label d'aide à la création de jeux vidéo). Aucune IA générative n'a été utilisée dans la production.
 
 Les chiffres de la demande sont réels : 150 000 wishlists sur Steam, 30 000 abonnés Twitter en deux semaines lors de l'annonce. Pour un studio de onze personnes à leur premier jeu, c'est une traction qui ne s'improvise pas. Le jeu a touché quelque chose.
 
