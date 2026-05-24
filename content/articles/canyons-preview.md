@@ -51,7 +51,7 @@ C'est le type de système qui peut être profond ou superficiel selon l'impléme
 
 ## Le monde procédural
 
-Les canyons sont générés procéduralement avec une couche de contenu artisanal pour éviter la monotonie des mondes entièrement aléatoires. Tempêtes de sable, ruines brûlées, camps hérétiques, événements uniques à chaque expédition. La promesse est celle de runs qui ne se ressemblent pas sans perdre la cohérence de l'univers.
+Les canyons sont générés procéduralement avec une couche de contenu artisanal pour éviter la monotonie des mondes entièrement aléatoires. Tempêtes de sable, ruines brûlées, camps hérétiques, événements uniques à chaque expédition. Visuellement, ça a un petit air de Mad Max : le même désert hostile traversé par des machines improbables, la même esthétique de civilisation qui s'est effondrée et a bricolé sa survie avec les restes. La promesse est celle de runs qui ne se ressemblent pas sans perdre la cohérence de l'univers.
 
 C'est l'équilibre le plus difficile à trouver dans ce type de jeu. Hades le fait bien parce que la procéduralité est au service d'une structure narrative fixe. Remnant: From the Ashes le fait correctement parce que les biomes ont une identité visuelle forte. Canyons mise sur la densité événementielle plutôt que sur la variété biome, ce qui peut fonctionner si les événements eux-mêmes sont suffisamment écrits.
 
