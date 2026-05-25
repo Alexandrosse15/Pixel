@@ -63,7 +63,7 @@ On espère que c'est là que le jeu prend ses meilleurs risques. Parce que c'est
 
 ![The Expanse: Osiris Reborn, personnages](/images/osirisreborn/screenshot-6.webp)
 
-## Owlcat au troisième personne
+## Owlcat hors de sa zone de confort
 
 Owlcat change de registre avec Osiris Reborn. Leurs jeux précédents sont isométriques, tour par tour ou en temps réel avec pause. Passer au troisième personne en temps réel avec une beta fermée en 2026 pour une sortie en 2027, c'est un vrai pari sur leur capacité à maîtriser un nouveau type de gameplay.
 
