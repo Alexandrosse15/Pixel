@@ -3,7 +3,7 @@ title: "The Expanse : Osiris Reborn est peut-être le RPG de SF qu'on attendait 
 seoTitle: "The Expanse Osiris Reborn preview : RPG SF Owlcat Games, notre avis"
 slug: "the-expanse-osiris-reborn-preview"
 category: "previews"
-excerpt: "Owlcat Games (Rogue Trader, Pathfinder) s'attaque à The Expanse. Eros, la protomolécule, les Ceinturiers, Protogen, un système de compagnons à la Mass Effect et des mécaniques RPG plus profondes. La beta fermée est prometteuse."
+excerpt: "Owlcat Games (Rogue Trader, Pathfinder) s'attaque à The Expanse. Eros, la protomolécule, les Ceinturiens, Protogen, un système de compagnons à la Mass Effect et des mécaniques RPG plus profondes. La beta fermée est prometteuse."
 date: "2026-05-25"
 author: "Alexandrosse"
 readTime: "8 min"
@@ -45,7 +45,7 @@ Deux compagnons vous accompagnent sur le terrain. Les autres restent sur le vais
 
 ## La fidélité à l'univers
 
-Les Ceinturiers sont grands et filiformes, conséquence physiologique de leur vie en apesanteur. C'est un détail que la série prenait au sérieux et que le jeu reproduit. La protomolécule est là, Protogen est là, Eros est là. Les lieux traversés incluent Ganymède, Ceres, Mars et Luna.
+Les Ceinturiens sont grands et filiformes, conséquence physiologique de leur vie en apesanteur. C'est un détail que la série prenait au sérieux et que le jeu reproduit. La protomolécule est là, Protogen est là, Eros est là. Les lieux traversés incluent Ganymède, Ceres, Mars et Luna.
 
 Ce ne sont pas juste des noms posés sur une carte pour faire authentique : chaque station, chaque planète dans The Expanse a une identité économique et politique précise. Ganymède est le grenier du système solaire. Ceres est le carrefour commercial de la Ceinture. Mars est une puissance militaire dont la raison d'être s'effondre avec l'arrivée de la protomolécule. Ce que le jeu fera de ces identités dans sa narration, on ne sait pas encore.
 
@@ -55,7 +55,7 @@ Les séquences de combat dans le vide sont particulièrement bien traitées selo
 
 ## La question géopolitique
 
-The Expanse doit une bonne partie de sa puissance à la politique. La tension entre la Terre, Mars et la Ceinture n'est pas une toile de fond : c'est le sujet central de la série. Le fait que les Ceinturiers soient exploités, que leur vie vaille moins que celle d'un Terrien aux yeux des gouvernements, que Mars sacrifie des générations entières pour terraformer une planète qui ne sera habitable que pour leurs arrière-petits-enfants : ce sont des enjeux qui donnent aux événements leur poids réel.
+The Expanse doit une bonne partie de sa puissance à la politique. La tension entre la Terre, Mars et la Ceinture n'est pas une toile de fond : c'est le sujet central de la série. Le fait que les Ceinturiens soient exploités, que leur vie vaille moins que celle d'un Terrien aux yeux des gouvernements, que Mars sacrifie des générations entières pour terraformer une planète qui ne sera habitable que pour leurs arrière-petits-enfants : ce sont des enjeux qui donnent aux événements leur poids réel.
 
 Un RPG dans cet univers qui traite cette géopolitique comme un décor raté sa cible. La beta était trop limitée pour savoir si Osiris Reborn s'y engage vraiment. Les dialogues liés à l'origine (Terrien, Martien, Ceinturier) peuvent rester superficiels, ou ils peuvent structurer toute la lecture que votre personnage fait des événements. C'est la question la plus importante qu'on se pose, et la réponse n'arrivera qu'avec le jeu complet.
 
@@ -79,4 +79,4 @@ Owlcat ne fait pas de jeux superficiels. Leurs RPG ont des défauts d'exécution
 
 ![The Expanse: Osiris Reborn, exploration](/images/osirisreborn/screenshot-8.webp)
 
-Que les Ceinturiers aient une vraie place dans ce récit, et le reste suivra.
+Que les Ceinturiens aient une vraie place dans ce récit, et le reste suivra.
