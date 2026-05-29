@@ -4,27 +4,6 @@ import { SITE_URL } from '@/lib/config'
 
 export const revalidate = 3600
 
-const ARTICLES_PER_PAGE = 9
-
-function paginatedRoutes(
-  basePath: string,
-  count: number,
-  changeFrequency: 'daily' | 'weekly' | 'monthly',
-  priority: number
-): MetadataRoute.Sitemap {
-  const totalPages = Math.ceil(count / ARTICLES_PER_PAGE)
-  const routes: MetadataRoute.Sitemap = []
-  for (let page = 2; page <= totalPages; page++) {
-    routes.push({
-      url: `${SITE_URL}${basePath}?page=${page}`,
-      lastModified: new Date(),
-      changeFrequency,
-      priority: priority - 0.1,
-    })
-  }
-  return routes
-}
-
 function latestDate(articles: { date: string }[]): Date {
   if (!articles.length) return new Date()
   return new Date(articles.reduce((a, b) => (a.date > b.date ? a : b)).date)
@@ -38,12 +17,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const dossiers = getArticlesByCategory('dossiers', 'fr')
   const industrie = getArticlesByCategory('industrie', 'fr')
   const cinema = getArticlesByCategory('cinema', 'fr')
-
-  const testsCount = tests.length
-  const previewsCount = previews.length
-  const dossiersCount = dossiers.length
-  const industrieCount = industrie.length
-  const cinemaCount = cinema.length
 
   const testsDate = latestDate(tests)
   const previewsDate = latestDate(previews)
@@ -68,19 +41,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/en/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/en/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
     { url: `${SITE_URL}/en/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.4, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
-  ]
-
-  const paginationRoutes: MetadataRoute.Sitemap = [
-    ...paginatedRoutes('/tests', testsCount, 'daily', 0.9),
-    ...paginatedRoutes('/previews', previewsCount, 'daily', 0.9),
-    ...paginatedRoutes('/dossiers', dossiersCount, 'weekly', 0.8),
-    ...paginatedRoutes('/industrie', industrieCount, 'daily', 0.8),
-    ...paginatedRoutes('/cinema', cinemaCount, 'weekly', 0.8),
-    ...paginatedRoutes('/en/tests', testsCount, 'daily', 0.8),
-    ...paginatedRoutes('/en/previews', previewsCount, 'daily', 0.8),
-    ...paginatedRoutes('/en/dossiers', dossiersCount, 'weekly', 0.7),
-    ...paginatedRoutes('/en/industrie', industrieCount, 'daily', 0.7),
-    ...paginatedRoutes('/en/cinema', cinemaCount, 'weekly', 0.7),
   ]
 
   // FR article entries with alternates for hreflang
@@ -111,5 +71,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   }))
 
-  return [...staticRoutes, ...paginationRoutes, ...frArticleRoutes, ...enArticleRoutes]
+  return [...staticRoutes, ...frArticleRoutes, ...enArticleRoutes]
 }

@@ -93,7 +93,9 @@ export default async function ArticlePage({ params }: Props) {
   let screenshotIdx = 0
 
   const catConfig = categoryConfig[article.category]
-  const articleUrl = `${SITE_URL}/articles/${article.slug}`
+  const articleUrl = locale === 'en'
+    ? `${SITE_URL}/en/articles/${article.slug}`
+    : `${SITE_URL}/articles/${article.slug}`
   const categoryHref = locale === 'en' ? `/en/${article.category}` : `/${article.category}`
 
   const articleSchema = article.score
@@ -107,7 +109,7 @@ export default async function ArticlePage({ params }: Props) {
         dateModified: article.date,
         author: { '@type': 'Person', name: article.author },
         publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
-        inLanguage: 'fr-FR',
+        inLanguage: locale === 'en' ? 'en-US' : 'fr-FR',
         reviewRating: {
           '@type': 'Rating',
           ratingValue: article.score,
@@ -138,7 +140,7 @@ export default async function ArticlePage({ params }: Props) {
         dateModified: article.date,
         author: { '@type': 'Person', name: article.author },
         publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
-        inLanguage: 'fr-FR',
+        inLanguage: locale === 'en' ? 'en-US' : 'fr-FR',
         articleSection: article.category,
       }
 
@@ -146,12 +148,19 @@ export default async function ArticlePage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE_URL },
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: locale === 'en' ? 'Home' : 'Accueil',
+        item: locale === 'en' ? `${SITE_URL}/en` : SITE_URL,
+      },
       {
         '@type': 'ListItem',
         position: 2,
         name: catConfig.label + 's',
-        item: `${SITE_URL}/${article.category}`,
+        item: locale === 'en'
+          ? `${SITE_URL}/en/${article.category}`
+          : `${SITE_URL}/${article.category}`,
       },
       { '@type': 'ListItem', position: 3, name: article.title, item: articleUrl },
     ],
