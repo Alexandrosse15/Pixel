@@ -10,7 +10,7 @@ readTime: "12 min"
 image_color: "from-indigo-950 via-violet-950 to-slate-950"
 coverImage: "/images/stellaris/screenshot-1.webp"
 gameName: "Stellaris"
-featured: true
+featured: false
 ---
 
 ![Stellaris](/images/stellaris/screenshot-1.webp)

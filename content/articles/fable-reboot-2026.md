@@ -10,7 +10,7 @@ readTime: "8 min"
 image_color: "from-emerald-950 via-stone-950 to-zinc-950"
 coverImage: "/images/fable2026/screenshot-1.webp"
 gameName: "Fable"
-featured: false
+featured: true
 ---
 
 En juin 2020, lors du Xbox Games Showcase, Playground Games montrait un trailer d'annonce pour Fable. Pas de gameplay, juste une forêt, un lutin, une ambiance. Suffisant pour déclencher une réaction de joie collective parmi ceux qui avaient grandi avec la série de Peter Molyneux. Six ans plus tard, le jeu sort en automne 2026. Et cette semaine, il était confirmé en day one sur PS5.
