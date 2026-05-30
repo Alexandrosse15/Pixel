@@ -3,7 +3,7 @@ title: "Tape to Tape : le roguelite qui rend au hockey d'arcade ses lettres de n
 seoTitle: "Tape to Tape test : roguelite hockey arcade, notre avis"
 slug: "tape-to-tape-test"
 category: "tests"
-excerpt: "EA Sports a tué le hockey d'arcade il y a vingt ans. Excellent Rectangle, studio montréalais, arrive avec les synergies de build, les bagarres au timing, les mises en échec BD, et la patte québécoise. C'était le jeu qui manquait."
+excerpt: "EA Sports a tué le hockey d'arcade il y a vingt ans. Excellent Rectangle, studio montréalais, arrive avec les synergies de build, les mises en échec BD, les power-ups absurdes et la patte québécoise. C'était le jeu qui manquait."
 date: "2026-05-29"
 author: "Alexandrosse"
 readTime: "8 min"
@@ -24,7 +24,7 @@ Voici ce que ça fait d'enfin rejouer à du hockey qui ne vous demande pas de m�
 
 Tape to Tape est un roguelite hockey arcade développé par Excellent Rectangle, studio canadien basé à Montréal. Vous constituez une équipe de bagarreurs de troisième ligne, de snipeurs douteux et de gardiens à l'historique questionnable, vous les faites progresser run après run, et vous tentez de remporter un tournoi dont personne ne sort vraiment indemne.
 
-Ce n'est pas une simulation. Il n'y a pas de gestion de contrats, pas de salary cap, pas d'effectif sur vingt-trois joueurs à équilibrer. Il y a de la glace, des crosses, des poings, et la satisfaction primaire d'un jeu qui sait que son public veut casser des bouches, pas gérer un tableur.
+Ce n'est pas une simulation. Il n'y a pas de gestion de contrats, pas de salary cap, pas d'effectif sur vingt-trois joueurs à équilibrer. Il y a de la glace, des crosses, des power-ups absurdes, et la satisfaction primaire d'un jeu qui sait que son public veut casser des bouches, pas gérer un tableur.
 
 ## Sur la glace
 
@@ -36,17 +36,19 @@ Chaque joueur dispose de capacités actives utilisables en match, avec des coold
 
 ![Tape to Tape, mises en échec](/images/tapetotape/screenshot-3.webp)
 
-## Les bagarres
+## Les power-ups et l'arbitre
 
-Les bagarres se déclenchent naturellement quand deux joueurs se chauffent assez longtemps. Le jeu passe en mini-jeu de timing : échanges de coups en rythme, fenêtres d'attaque à lire, possibilité de bloquer. Ce n'est pas du button mashing. Gagner ou perdre a des conséquences concrètes sur le moral de l'équipe pour le reste du match.
+C'est là que Tape to Tape s'éloigne franchement de tout ce qui ressemble à du hockey sérieux. Le jeu propose des power-ups à activer en cours de match : lancer son bâton comme un tomahawk sur un adversaire, déclencher des mises en échec qui brisent les vitres, des capacités qui n'ont rien à voir avec le règlement de la LNH et tout à voir avec le plaisir immédiat.
 
-Le moral est un système qui tourne en permanence derrière chaque match. Une équipe à haut moral joue mieux, réagit plus vite, et ses capacités spéciales se rechargent plus vite. Un moral bas érode les stats progressivement. Remporter une bagarre au bon moment, sortir un beau but après une période difficile, ou simplement dominer physiquement un tiers peuvent retourner un momentum. C'est subtil et présent à chaque minute de jeu.
+Il y a aussi la possibilité de graisser la patte à l'arbitre. C'est un système stratégique à part entière : dépenser des ressources pour obtenir la complaisance du juge de ligne au bon moment peut changer l'issue d'un match serré. C'est le genre de décision qui rend chaque run légèrement différent de la précédente, et qui dit tout sur le ton du jeu.
+
+Des événements aléatoires et des boss battles ponctuent la progression. Le jeu traite la saison comme une structure roguelite à part entière, pas comme une succession de matchs identiques.
 
 ## Le système roguelite
 
 Entre les matchs, vous accédez à un hub de recrutement et de préparation. C'est là que Tape to Tape construit sa profondeur.
 
-Les joueurs ont des classes (attaquant, défenseur, gardien, enforcer) avec leurs propres arbres de compétences. Chaque run, vous constituez votre équipe depuis le hub : certains joueurs sont disponibles à la boutique, d'autres se débloquent selon vos performances sur la glace. Un gardien difficile à battre pendant un match peut rejoindre votre effectif. Un bagarreur ennemi peut être recruté après l'avoir sorti d'un combat.
+Les joueurs ont des classes (attaquant, défenseur, gardien, enforcer) avec leurs propres arbres de compétences. Chaque run, vous constituez votre équipe depuis le hub : certains joueurs sont disponibles à la boutique, d'autres se débloquent selon vos performances sur la glace. Un gardien difficile à battre pendant un match peut rejoindre votre effectif.
 
 L'équipement joue un rôle central dans la construction des builds : crosses, patins, casques, protections. Chaque pièce a des propriétés qui interagissent avec les compétences des joueurs. La même crosse de snipper équipée sur un enforcer produit un résultat différent que sur un playmaker. Le système de synergies est là-dedans : certaines combinaisons joueur et équipement déclenchent des effets passifs qui n'existent dans aucune pièce prise séparément. Une synergie feu sur un joueur rapide avec des patins de sprint peut créer un enforcer qui laisse une traînée de glace brûlante derrière lui au démarrage. Rien de tout ça n'est dans la description des items individuels. Ça se découvre, ça se théorie-craf, ça crée des discussions de communauté.
 
@@ -57,8 +59,6 @@ La méta-progression entre runs débloque des joueurs de départ supplémentaire
 ## La direction artistique
 
 Le style BD est la décision qui rend Tape to Tape immédiatement reconnaissable. Les personnages sont dessinés à la main avec des proportions volontairement exagérées qui amplifient chaque animation. Un slapshot ne ressemble pas à un tir de simulation : le joueur se ramasse, la crosse se distord, le palet part dans un flash d'énergie. Le tout ressemble à une case de comics sportifs canadiens des années 80, et c'est un compliment.
-
-L'animation des bagarres est particulièrement efficace. Les échanges de coups ont le rythme et l'exagération des scènes de bagarre de comics, avec des effets visuels qui font comprendre la puissance sans cutscene de trente secondes. Une bagarre dans Tape to Tape dure ce qu'elle doit durer, pas plus.
 
 Ce style a tenu trois ans d'Early Access sans vieillir, ce qui prouve que la cohérence de la direction artistique comptait plus que la course au réalisme.
 
@@ -88,7 +88,7 @@ Le Steam Deck tourne à 60 FPS stables, ce qui en fait un des meilleurs jeux por
 
 ## Verdict
 
-Tape to Tape sait ce qu'il est et ne prétend être rien d'autre : du hockey d'arcade avec une profondeur roguelite qui justifie les heures passées à optimiser des lineups de bagarreurs à synergies explosives. La direction artistique BD tient la distance, le gameplay sur la glace est immédiatement satisfaisant, et la patte québécoise donne au jeu une identité que les grandes productions de hockey n'ont jamais eu.
+Tape to Tape sait ce qu'il est et ne prétend être rien d'autre : du hockey d'arcade avec une profondeur roguelite qui justifie les heures passées à optimiser des lineups à synergies explosives. La direction artistique BD tient la distance, le gameplay sur la glace est immédiatement satisfaisant, et la patte québécoise donne au jeu une identité que les grandes productions de hockey n'ont jamais eu.
 
 Le seul angle de friction : le système de synergies peut être abrupt pour un joueur qui vient uniquement pour casser des bouches sans se préoccuper des builds. La profondeur roguelite peut désarçonner un public qui cherchait NHL Hitz pur et dur. Ce n'est pas rédhibitoire, c'est juste à savoir avant de lancer sa première run.
 

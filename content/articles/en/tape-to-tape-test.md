@@ -3,7 +3,7 @@ title: "Tape to Tape: the roguelite that gives arcade hockey its dignity back"
 seoTitle: "Tape to Tape review: arcade hockey roguelite, our verdict"
 slug: "tape-to-tape-test"
 category: "tests"
-excerpt: "EA Sports killed arcade hockey twenty years ago. Excellent Rectangle, a Montreal studio, arrives with build synergies, timing-based fights, comic book body checks, and genuine Canadian hockey culture baked in. This was the game that was missing."
+excerpt: "EA Sports killed arcade hockey twenty years ago. Excellent Rectangle, a Montreal studio, arrives with build synergies, absurd power-ups, comic book body checks, and genuine Canadian hockey culture baked in. This was the game that was missing."
 date: "2026-05-29"
 author: "Alexandrosse"
 readTime: "8 min"
@@ -24,7 +24,7 @@ Here's what it feels like to finally play hockey that doesn't ask you to memoriz
 
 Tape to Tape is an arcade hockey roguelite developed by Excellent Rectangle, a Canadian studio based in Montreal. You build a team of third-line fighters, questionable snipers, and goalies with shady track records, develop them run by run, and try to win a tournament nobody gets out of completely unscathed.
 
-It's not a simulation. There are no contracts, no salary cap, no twenty-three-man roster to balance. There's ice, sticks, fists, and the primal satisfaction of a game that knows its audience wants to wreck people, not manage a spreadsheet.
+It's not a simulation. There are no contracts, no salary cap, no twenty-three-man roster to balance. There's ice, sticks, absurd power-ups, and the primal satisfaction of a game that knows its audience wants to wreck people, not manage a spreadsheet.
 
 ## On the ice
 
@@ -36,17 +36,19 @@ Each player has active abilities usable in-game, with cooldowns. A fighter can t
 
 ![Tape to Tape, body checks](/images/tapetotape/screenshot-3.webp)
 
-## The fights
+## The power-ups and the referee
 
-Fights trigger naturally when two players have been going at each other long enough. The game switches to a timing mini-game: rhythm-based punch exchanges, attack windows to read, blocking options. It's not button mashing. Winning or losing has concrete consequences on team morale for the rest of the match.
+This is where Tape to Tape stops pretending to care about the rulebook. The game offers power-ups to activate mid-match: throw your stick like a tomahawk at an opponent, trigger glass-shattering hits, deploy abilities that have nothing to do with the NHL rulebook and everything to do with immediate fun.
 
-Morale runs constantly in the background of every game. A high-morale team performs better, reacts faster, and special abilities recharge quicker. Low morale erodes stats progressively. Winning a fight at the right moment, scoring a great goal after a rough period, or simply dominating physically through a shift can flip momentum. It's subtle and present every minute.
+There's also the option to bribe the referee. It's a full strategic system: spending resources to get the linesman's cooperation at the right moment can change the outcome of a tight game. It's the kind of decision that makes each run slightly different from the last, and it says everything about the game's tone.
+
+Random events and boss battles punctuate progression. The game treats the season as a proper roguelite structure, not a sequence of identical matches.
 
 ## The roguelite system
 
 Between matches, you access a recruitment and preparation hub. This is where Tape to Tape builds its depth.
 
-Players have classes (forward, defenseman, goalie, enforcer) with their own skill trees. Each run, you build your team from the hub: some players are available in the shop, others unlock based on your on-ice performances. A goalie who was tough to beat during a match might join your roster. An opposing fighter can be recruited after you've beaten him in a fight.
+Players have classes (forward, defenseman, goalie, enforcer) with their own skill trees. Each run, you build your team from the hub: some players are available in the shop, others unlock based on your on-ice performances. A goalie who was tough to beat during a match might join your roster.
 
 Equipment plays a central role in build construction: sticks, skates, helmets, pads. Each piece has properties that interact with player skills. The same sniper stick on an enforcer produces a different result than on a playmaker. The synergy system lives here: certain player-plus-equipment combinations trigger passive effects that don't exist in either piece separately. A fire synergy on a fast player with sprint skates can create an enforcer who leaves a burning ice trail behind him on acceleration. None of that is in the individual item descriptions. It gets discovered, theorycrafted, and generates community discussion.
 
@@ -57,8 +59,6 @@ Meta-progression between runs unlocks additional starting players, initial bonus
 ## The art direction
 
 The comic book style is the decision that makes Tape to Tape immediately recognizable. Characters are hand-drawn with deliberately exaggerated proportions that amplify every animation. A slapshot doesn't look like a simulation shot: the player winds up, the stick bends, the puck launches in a burst of energy. The whole thing looks like a panel from a Canadian sports comic from the 1980s, and that's a compliment.
-
-Fight animations are particularly effective. The punch exchanges have the rhythm and exaggeration of comic book fight scenes, with visual effects that communicate hit power without thirty-second cutscenes. A fight in Tape to Tape lasts exactly as long as it needs to, no more.
 
 This style held up through three years of Early Access without aging, which proves that a coherent art direction mattered more here than chasing realism.
 
@@ -88,7 +88,7 @@ The Steam Deck runs at a locked 60 FPS, making it one of the best portable games
 
 ## Verdict
 
-Tape to Tape knows what it is and doesn't pretend to be anything else: arcade hockey with roguelite depth that justifies the hours spent optimizing fighter lineups with explosive synergies. The comic book art direction holds up, the on-ice gameplay delivers immediate satisfaction, and the Montreal studio's DNA gives the game an identity major hockey productions have never had.
+Tape to Tape knows what it is and doesn't pretend to be anything else: arcade hockey with roguelite depth that justifies the hours spent optimizing lineups with explosive synergies. The comic book art direction holds up, the on-ice gameplay delivers immediate satisfaction, and the Montreal studio's DNA gives the game an identity major hockey productions have never had.
 
 The one friction point: the synergy system can be steep for a player who comes purely to wreck people without thinking about builds. The roguelite depth might put off an audience who wanted pure NHL Hitz. That's not a dealbreaker, it's just something to know before starting your first run.
 
