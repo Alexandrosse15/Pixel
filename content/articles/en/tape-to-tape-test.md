@@ -50,7 +50,7 @@ Between matches, you access a recruitment and preparation hub. This is where Tap
 
 Players have classes (forward, defenseman, goalie, enforcer) with their own skill trees. Each run, you build your team from the hub: some players are available in the shop, others unlock based on your on-ice performances. A goalie who was tough to beat during a match might join your roster.
 
-Equipment plays a central role in build construction: sticks, skates, helmets, pads. Each piece has properties that interact with player skills. The same sniper stick on an enforcer produces a different result than on a playmaker. The synergy system lives here: certain player-plus-equipment combinations trigger passive effects that don't exist in either piece separately. A fire synergy on a fast player with sprint skates can create an enforcer who leaves a burning ice trail behind him on acceleration. None of that is in the individual item descriptions. It gets discovered, theorycrafted, and generates community discussion.
+Equipment plays a central role in build construction: sticks, skates, helmets, pads. Each piece has properties that interact with player skills. The same sniper stick on an enforcer produces a different result than on a playmaker. The synergy system lives here: certain player-plus-equipment combinations trigger effects that don't exist in either piece separately. It's the kind of mechanic that gets discovered through play, theorycrafted, and generates community discussion around optimal builds.
 
 Meta-progression between runs unlocks additional starting players, initial bonuses, and new equipment types. Failed runs still advance things: you come back with more options, not nothing.
 
