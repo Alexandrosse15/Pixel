@@ -43,10 +43,10 @@ const translations = {
         empty: 'Aucun article industrie pour le moment.',
       },
       cinema: {
-        title: 'Cinéma',
+        title: 'Séries & Cinéma',
         description:
-          "Critiques cinéma par une rédaction de joueurs : films, adaptations de jeux vidéo, analyses de la culture pop gaming. Le 7e art vu depuis un fauteuil de gamer.",
-        empty: 'Aucun article cinéma pour le moment.',
+          "Critiques de séries et de films par une rédaction de joueurs : adaptations de jeux vidéo, pop culture gaming, analyses. Le 7e art et les séries vus depuis un fauteuil de gamer.",
+        empty: 'Aucun article pour le moment.',
       },
       gratuit: {
         title: 'Gratuit',
@@ -88,7 +88,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Dossier',
       industrie: 'Industrie',
-      cinema: 'Cinéma',
+      cinema: 'Séries & Cinéma',
     },
     search: {
       placeholder: 'Rechercher un article...',
@@ -159,10 +159,10 @@ const translations = {
         empty: 'No industry articles yet.',
       },
       cinema: {
-        title: 'Cinema',
+        title: 'Series & Cinema',
         description:
-          "Cinema reviews by a team of gamers: films, video game adaptations, pop culture analysis. The 7th art seen from a gamer's perspective.",
-        empty: 'No cinema articles yet.',
+          "Series and film reviews by a team of gamers: video game adaptations, gaming pop culture, analysis. The 7th art and streaming series seen from a gamer's perspective.",
+        empty: 'No articles yet.',
       },
       gratuit: {
         title: 'Free Games',
@@ -204,7 +204,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Feature',
       industrie: 'Industry',
-      cinema: 'Cinema',
+      cinema: 'Series & Cinema',
     },
     search: {
       placeholder: 'Search an article...',

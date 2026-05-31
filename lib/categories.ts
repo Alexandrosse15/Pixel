@@ -5,5 +5,5 @@ export const categoryConfig: Record<Category, { label: string; color: string; te
   previews: { label: 'Preview', color: 'bg-amber-500', textColor: 'text-black' },
   dossiers: { label: 'Dossier', color: 'bg-violet-600', textColor: 'text-white' },
   industrie: { label: 'Industrie', color: 'bg-emerald-600', textColor: 'text-white' },
-  cinema: { label: 'Cinéma', color: 'bg-rose-700', textColor: 'text-white' },
+  cinema: { label: 'Séries & Cinéma', color: 'bg-rose-700', textColor: 'text-white' },
 }
