@@ -20,9 +20,9 @@ Ben Reilly a cinquante ans, une fiancée morte, un bureau miteux dans le New Yor
 
 ## Ce que la série ose faire
 
-La plupart des productions Marvel télévisées depuis 2021 partagent un problème structurel : elles ressemblent à des annexes de film, des histoires secondaires qui existent pour compléter un arc narratif plus grand. Spider-Noir n'a aucune obligation de ce type. Ben Reilly n'existe pas dans le MCU principal. Il n'y a pas de Infinity Stone à localiser, pas de post-credits à déchiffrer, pas d'Avenger qui passe saluer.
+Spider-Noir n'est pas une production Marvel Studios. C'est une production Sony Pictures Television, diffusée sur Prime Video, avec Phil Lord, Christopher Miller et Amy Pascal à la production executive : exactement l'équipe derrière Spider-Man : Into the Spider-Verse. Sony détient les droits live-action de Spider-Man, ce qui explique pourquoi cette série n'est pas sur Disney+ et n'a aucune obligation envers le MCU.
 
-Libérés de cette contrainte, les showrunners Oren Uziel et Steve Lightfoot ont construit une série de genre pur : un détective noir des années 30 qui se trouve être un ancien super-héros. L'enquête prime. Le passé traumatique prime. Le costume est une complication, pas un uniforme. Cette décision narrative donne à Spider-Noir un rythme que les séries Marvel oublient souvent d'avoir : celui d'une histoire qui sait où elle va et qui n'a pas besoin de trois saisons pour y arriver.
+C'est précisément cette liberté qui rend la série possible. Pas de Infinity Stone à localiser, pas de post-credits à déchiffrer, pas d'Avenger qui passe saluer. Les showrunners Oren Uziel et Steve Lightfoot ont construit une série de genre pur : un détective noir des années 30 qui se trouve être un ancien super-héros. L'enquête prime. Le passé traumatique prime. Le costume est une complication, pas un uniforme. Cette décision narrative donne à Spider-Noir un rythme que les séries Marvel oublient souvent d'avoir : celui d'une histoire qui sait où elle va et qui n'a pas besoin de trois saisons pour y arriver.
 
 La comparaison la plus précise venue de la communauté est Werewolf by Night, le spécial Halloween de 2022 de Michael Giacchino. Même logique : une vision esthétique forte, un hommage à un genre spécifique traité avec respect et non pas comme décor, et une ambition de faire quelque chose de complet plutôt que de lancer une franchise.
 
@@ -90,9 +90,9 @@ Un bémol exprimé par une partie du public : les chansons interprétées par le
 
 ## Verdict
 
-Spider-Noir est la meilleure série Marvel depuis la première saison de Daredevil. Ce n'est pas un compliment relatif : c'est une reconnaissance que la série a une vision, que cette vision est exécutée avec des moyens à sa hauteur, et que Nicolas Cage dans ce rôle, dans ce format, est exactement l'acteur que ce personnage méritait.
+Spider-Noir est la meilleure série de super-héros depuis la première saison de Daredevil. Ce n'est pas un compliment relatif : c'est une reconnaissance que la série a une vision, que cette vision est exécutée avec des moyens à sa hauteur, et que Nicolas Cage dans ce rôle, dans ce format, est exactement l'acteur que ce personnage méritait.
 
-Elle n'est pas sans défauts. Le rythme vacille, le costume est rare, et la performance de Cage peut déborder sur l'histoire. Mais dans un genre qui produit depuis dix ans des séries conçues pour ne déplaire à personne, Spider-Noir a choisi un angle et l'a tenu du début à la fin. Pour les amateurs de film noir, c'est une lettre d'amour compétente. Pour les fans de Spider-Man qui cherchent quelque chose en dehors des films principaux, c'est exactement le type d'œuvre que le multivers permet de faire. Pour ceux qui pensaient que Nicolas Cage était fini, c'est un rappel.
+Elle n'est pas sans défauts. Le rythme vacille, le costume est rare, et la performance de Cage peut déborder sur l'histoire. Mais dans un genre qui produit depuis dix ans des séries conçues pour ne déplaire à personne, Spider-Noir a choisi un angle et l'a tenu du début à la fin. Pour les amateurs de film noir, c'est une lettre d'amour compétente. Pour les fans de Spider-Man, c'est la preuve que Sony peut faire avec ses droits quelque chose d'aussi intéressant qu'Into the Spider-Verse, mais en live-action. Pour ceux qui pensaient que Nicolas Cage était fini, c'est un rappel.
 
 La version noir et blanc. Toujours.
 

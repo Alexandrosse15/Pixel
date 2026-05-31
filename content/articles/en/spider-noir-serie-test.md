@@ -20,9 +20,9 @@ It looks like nothing else. That's both its main strength and, at times, its lim
 
 ## What the series dares to do
 
-Most Marvel TV productions since 2021 share a structural problem: they resemble film annexes, side stories that exist to complete a larger narrative arc. Spider-Noir has no such obligation. Ben Reilly doesn't exist in the main MCU. There's no Infinity Stone to locate, no post-credits to decode, no Avenger dropping by.
+Spider-Noir is not a Marvel Studios production. It's a Sony Pictures Television production, streaming on Prime Video, with Phil Lord, Christopher Miller, and Amy Pascal as executive producers: the exact team behind Spider-Man: Into the Spider-Verse. Sony holds the live-action Spider-Man rights, which is why this series isn't on Disney+ and has no obligation to the MCU.
 
-Freed from that constraint, showrunners Oren Uziel and Steve Lightfoot built a pure genre series: a 1930s noir detective who happens to be a retired superhero. The investigation comes first. The traumatic past comes first. The costume is a complication, not a uniform. This narrative decision gives Spider-Noir a rhythm that Marvel series often forget to have: that of a story that knows where it's going and doesn't need three seasons to get there.
+That freedom is precisely what makes the series possible. No Infinity Stone to locate, no post-credits to decode, no Avenger dropping by. Showrunners Oren Uziel and Steve Lightfoot built a pure genre series: a 1930s noir detective who happens to be a retired superhero. The investigation comes first. The traumatic past comes first. The costume is a complication, not a uniform. This narrative decision gives Spider-Noir a rhythm that Marvel series often forget to have: that of a story that knows where it's going and doesn't need three seasons to get there.
 
 The most precise comparison to emerge from the community is Werewolf by Night, Michael Giacchino's 2022 Halloween special. Same logic: a strong aesthetic vision, a homage to a specific genre treated with respect rather than used as wallpaper, and an ambition to make something complete rather than launch a franchise.
 
@@ -90,9 +90,9 @@ One caveat raised by part of the audience: the songs performed by the character 
 
 ## Verdict
 
-Spider-Noir is the best Marvel series since the first season of Daredevil. That's not a relative compliment: it's a recognition that the series has a vision, that this vision is executed with resources to match it, and that Nicolas Cage in this role, in this format, is exactly the actor this character deserved.
+Spider-Noir is the best superhero series since the first season of Daredevil. That's not a relative compliment: it's a recognition that the series has a vision, that this vision is executed with resources to match it, and that Nicolas Cage in this role, in this format, is exactly the actor this character deserved.
 
-It's not without flaws. The pacing falters, the costume is rare, and Cage's performance can overflow onto the story. But in a genre that has spent ten years producing series designed to displease no one, Spider-Noir chose an angle and held it from start to finish. For noir film fans, it's a competent love letter. For Spider-Man fans looking for something outside the main films, it's exactly the kind of work the multiverse makes possible. For those who thought Nicolas Cage was done, it's a reminder.
+It's not without flaws. The pacing falters, the costume is rare, and Cage's performance can overflow onto the story. But in a genre that has spent ten years producing series designed to displease no one, Spider-Noir chose an angle and held it from start to finish. For noir film fans, it's a competent love letter. For Spider-Man fans, it's proof that Sony can do with its rights something as interesting as Into the Spider-Verse, but in live-action. For those who thought Nicolas Cage was done, it's a reminder.
 
 Black and white version. Always.
 
