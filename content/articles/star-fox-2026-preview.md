@@ -17,7 +17,7 @@ Star Fox Zero est sorti sur Wii U en 2016. C'était il y a dix ans. C'était aus
 
 C'est un remake de Star Fox 64. C'est aussi plus que ça.
 
-![Star Fox 2026, Corneria](/images/starfox2026/screenshot-1.webp)
+![Star Fox 2026, l'Arwing sur l'eau](/images/starfox2026/screenshot-1.webp)
 
 ## Ce que c'est
 
@@ -39,7 +39,7 @@ Le troisième est le Battle Mode : des dogfights 4v4 en ligne, Team Star Fox con
 
 Le quatrième est les cinématiques. Le Star Fox original avait des échanges de dialogues pendant les missions, quelques lignes par personnage, sans contexte ni développement. La version 2026 a des séquences narratives complètes entre les missions. Pour ceux qui ont toujours voulu savoir ce qui se passe entre les moments de gameplay, c'est précisément ce qu'ils attendaient.
 
-![Star Fox 2026, Arwing en action](/images/starfox2026/screenshot-2.webp)
+![Star Fox 2026, combat aérien](/images/starfox2026/screenshot-2.webp)
 
 ## Les contrôles
 
@@ -57,7 +57,7 @@ Ce qui se dessine après le temps passé : les designs référencent les artwork
 
 Fox et Falco restent les plus clivants. Slippy et Peppy sont généralement mieux reçus. Le Général Pepper semble faire l'unanimité dans les retours positifs.
 
-![Star Fox 2026, Team Star Fox](/images/starfox2026/screenshot-3.webp)
+![Star Fox 2026, Slippy et les dialogues en jeu](/images/starfox2026/screenshot-3.webp)
 
 ## Le son
 
@@ -73,9 +73,11 @@ La logique derrière le choix du remake est lisible : Star Fox 64 est le jeu le 
 
 Les précommandes physiques sur Amazon US commençaient à manquer de stock avant la sortie. C'est un signal positif, pas une garantie.
 
-![Star Fox 2026, dogfight](/images/starfox2026/screenshot-4.webp)
+![Star Fox 2026, Land Master](/images/starfox2026/screenshot-4.webp)
 
 ## Ce qu'on attend du 25 juin
+
+![Star Fox 2026, bataille](/images/starfox2026/screenshot-5.webp)
 
 Star Fox 64 est l'un des meilleurs jeux de son époque, un rail shooter serré, rythmé, avec une rejouabilité construite sur ses embranchements et ses routes alternatives. La version 2026 part de cette fondation et ajoute suffisamment pour ne pas être un simple remaster vendu au prix fort.
 

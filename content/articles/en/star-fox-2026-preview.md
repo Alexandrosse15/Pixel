@@ -17,7 +17,7 @@ Star Fox Zero launched on Wii U in 2016. That was ten years ago. It was also on 
 
 It's a remake of Star Fox 64. It's also more than that.
 
-![Star Fox 2026, Corneria](/images/starfox2026/screenshot-1.webp)
+![Star Fox 2026, Arwing over water](/images/starfox2026/screenshot-1.webp)
 
 ## What it is
 
@@ -39,7 +39,7 @@ The third is Battle Mode: 4v4 online dogfights, Team Star Fox versus Team Star W
 
 The fourth is the cinematics. The original had dialogue exchanges during missions, a few lines per character, without context or development. The 2026 version has complete narrative sequences between missions. For those who always wanted to know what happens between the gameplay moments, this is exactly what they were waiting for.
 
-![Star Fox 2026, Arwing in action](/images/starfox2026/screenshot-2.webp)
+![Star Fox 2026, aerial combat](/images/starfox2026/screenshot-2.webp)
 
 ## The controls
 
@@ -57,7 +57,7 @@ What's become clear after some time: the designs reference the original artwork 
 
 Fox and Falco remain the most divisive. Slippy and Peppy are generally better received. General Pepper seems to generate unanimous positive reactions.
 
-![Star Fox 2026, Team Star Fox](/images/starfox2026/screenshot-3.webp)
+![Star Fox 2026, Slippy in-game dialogue](/images/starfox2026/screenshot-3.webp)
 
 ## The sound
 
@@ -73,9 +73,11 @@ The logic behind the remake choice is readable: Star Fox 64 is the best-selling 
 
 Physical preorders on Amazon US were running low before launch. That's a positive signal, not a guarantee.
 
-![Star Fox 2026, dogfight](/images/starfox2026/screenshot-4.webp)
+![Star Fox 2026, Land Master](/images/starfox2026/screenshot-4.webp)
 
 ## What we're waiting for on June 25
+
+![Star Fox 2026, battle](/images/starfox2026/screenshot-5.webp)
 
 Star Fox 64 is one of the best games of its era: a tight, rhythmic rail shooter with replayability built into its branching paths and alternative routes. The 2026 version starts from that foundation and adds enough to avoid being a simple remaster at full price.
 
