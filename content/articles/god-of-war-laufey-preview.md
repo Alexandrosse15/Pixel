@@ -8,6 +8,7 @@ date: "2026-06-03"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-sky-950 via-slate-900 to-zinc-950"
+coverImage: "/images/god-of-war-laufey/screenshot-2.jpg"
 gameName: "God of War: Laufey"
 featured: false
 ---
@@ -20,15 +21,23 @@ Annoncé le 2 juin lors du State of Play de PlayStation, God of War: Laufey nous
 
 Commençons par le coup de génie, parce qu'il y en a un. L'aventure ne se déroule pas avant la saga nordique, comme le craignaient les rumeurs de préquelle, mais après le bûcher funéraire de Faye, celui qui ouvrait God of War en 2018. On incarne un personnage que la série a toujours présenté comme déjà mort, dans l'au-delà des dieux : cet Everywhen qui était précisément l'obsession d'Odin dans Ragnarök. Ce qui n'était qu'un fil narratif laissé en suspens devient le terrain de jeu entier. Difficile de faire plus malin pour justifier une suite.
 
+![God of War: Laufey, Faye face à une divinité déchue dans l'au-delà](/images/god-of-war-laufey/screenshot-1.jpg)
+
 Et ce terrain est énorme. L'au-delà est l'endroit où échouent les divinités de toutes les mythologies à leur mort. Les deux antagonistes montrés dans la bande-annonce le confirment : Sekhmet, déesse guerrière égyptienne, et Begtse, divinité bouddhiste de la guerre. Autrement dit, Santa Monica se donne enfin le prétexte parfait pour faire cohabiter les panthéons, et potentiellement remettre Faye face à des têtes connues, à commencer par tous les dieux grecs que Kratos a méthodiquement vidés de leur sang.
 
+![Sekhmet et Begtse, deux divinités guerrières venues d'autres panthéons](/images/god-of-war-laufey/screenshot-3.jpg)
+
 Faye, elle, n'a rien d'un personnage en retrait. Le jeu la présente comme une redoutable géante Jötunn, et son modèle reprend les traits de Deborah Ann Woll, qui la doublait déjà dans les deux épisodes nordiques. Côté combat, Santa Monica promet de mélanger les styles des ères nordique et grecque dans un système fluide, et les premières images donnent envie : c'est nerveux, lisible, et ça a déjà ce poids caractéristique des coups de la saga.
+
+![Le combat promet de mêler les styles des ères nordique et grecque](/images/god-of-war-laufey/screenshot-6.jpg)
 
 ## Ce qui inquiète
 
 Maintenant, parlons du cube. Faye n'est pas seule : elle traîne un compagnon gélatineux et bavard, surnommé Frank (orthographié Pharanque dans les sous-titres, joli clin d'oeil). Sur le principe, un acolyte qui commente l'action, c'est la tradition de la saga : Mimir, la tête coupée de Ragnarök, jouait déjà ce rôle. Le problème, c'est le ton. Les premières répliques sentent l'humour de sidekick à la mode, le bavardage qui désamorce chaque tension, et la communauté a tout de suite tiqué en évoquant Cuff de Forspoken, ce compagnon qu'on aurait payé pour faire taire. Si le cube backseat le joueur à chaque énigme et balance une vanne toutes les trente secondes, l'ambiance God of War risque d'en prendre un coup. C'est, pour l'instant, notre plus grosse réserve.
 
 La deuxième tient au coeur émotionnel de la saga. Toute la force de God of War 2018, c'était l'absence : un père et un fils qui portent les cendres d'une morte et apprennent à vivre avec ce vide. Transformer ce fantôme en héroïne qui castagne du dieu dans l'au-delà, c'est passionnant, mais ça rabote forcément la portée de ce deuil. On peut adorer l'idée et reconnaître qu'elle fragilise, un peu, ce qui rendait le reboot si poignant.
+
+![Le bûcher funéraire de Faye, la scène qui ouvrait God of War en 2018](/images/god-of-war-laufey/screenshot-4.jpg)
 
 Reste un détail qui fait déjà tousser les puristes : la hache Léviathan. Le brief de présentation lie Faye à sa forge, alors que le canon établi par God of War 2018 l'attribue aux frères Huldra, Brok et Sindri, qui l'avaient façonnée pour elle. Réécriture assumée ou raccourci marketing, Santa Monica devra clarifier, parce qu'on ne touche pas à un pilier du lore sans s'attendre à un retour de bâton.
 

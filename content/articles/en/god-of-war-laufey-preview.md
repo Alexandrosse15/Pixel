@@ -8,6 +8,7 @@ date: "2026-06-03"
 author: "Alexandrosse"
 readTime: "6 min"
 image_color: "from-sky-950 via-slate-900 to-zinc-950"
+coverImage: "/images/god-of-war-laufey/screenshot-2.jpg"
 gameName: "God of War: Laufey"
 featured: false
 ---
@@ -20,15 +21,23 @@ Announced on June 2 during PlayStation's State of Play, God of War: Laufey puts 
 
 Let's start with the stroke of genius, because there is one. The adventure doesn't take place before the Norse saga, as the prequel rumors feared, but after Faye's funeral pyre, the one that opened God of War in 2018. We play a character the series has always presented as already dead, in the afterlife of the gods: the very Everywhen that was Odin's obsession in Ragnarok. What was just a dangling narrative thread becomes the entire playground. It's hard to think of a smarter way to justify a sequel.
 
+![God of War: Laufey, Faye facing a fallen deity in the afterlife](/images/god-of-war-laufey/screenshot-1.jpg)
+
 And that playground is huge. The afterlife is where the deities of every mythology end up when they die. The two antagonists shown in the trailer confirm it: Sekhmet, the Egyptian warrior goddess, and Begtse, the Buddhist god of war. In other words, Santa Monica finally gives itself the perfect excuse to let pantheons collide, and potentially to put Faye face to face with familiar faces, starting with all the Greek gods Kratos methodically drained of blood.
 
+![Sekhmet and Begtse, two warrior deities from other pantheons](/images/god-of-war-laufey/screenshot-3.jpg)
+
 Faye herself is no background figure. The game presents her as a formidable Jötunn giant, and her model takes after Deborah Ann Woll, who already voiced her in both Norse entries. On the combat side, Santa Monica promises to blend the Norse and Greek eras into a fluid system, and the first footage is enticing: it's snappy, readable, and already has that characteristic weight the saga's hits are known for.
+
+![Combat promises to blend the Norse and Greek eras](/images/god-of-war-laufey/screenshot-6.jpg)
 
 ## What worries us
 
 Now, let's talk about the cube. Faye isn't alone: she drags along a gelatinous, chatty companion nicknamed Frank (spelled Pharanque in the subtitles, a nice touch). In principle, a sidekick that comments on the action is series tradition: Mimir, the severed head from Ragnarok, already played that part. The problem is the tone. The first lines reek of fashionable sidekick humor, the kind of banter that defuses every bit of tension, and the community immediately bristled, bringing up Forspoken's Cuff, that companion you'd have paid to mute. If the cube backseats the player at every puzzle and fires off a quip every thirty seconds, the God of War mood is going to take a hit. That's, for now, our biggest reservation.
 
 The second concern strikes at the saga's emotional core. The whole strength of God of War 2018 was absence: a father and son carrying a dead woman's ashes and learning to live with that void. Turning that ghost into a heroine bashing gods in the afterlife is fascinating, but it inevitably shaves down the weight of that grief. You can love the idea and still admit it slightly undermines what made the reboot so moving.
+
+![Faye's funeral pyre, the scene that opened God of War in 2018](/images/god-of-war-laufey/screenshot-4.jpg)
 
 There's also a detail already making purists cough: the Leviathan Axe. The reveal ties Faye to its forging, while the canon set by God of War 2018 credits the Huldra brothers, Brok and Sindri, who crafted it for her. Deliberate retcon or marketing shortcut, Santa Monica will have to clarify, because you don't touch a pillar of the lore without expecting blowback.
 
