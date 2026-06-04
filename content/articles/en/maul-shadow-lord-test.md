@@ -7,7 +7,7 @@ excerpt: "A hand-painted art direction, an Inquisitor on steroids, a Vader who w
 date: "2026-06-04"
 author: "Alexandrosse"
 readTime: "9 min"
-score: 8
+score: 9
 image_color: "from-red-950 via-zinc-950 to-neutral-950"
 coverImage: "/images/maul/screenshot-3.webp"
 gameName: "Maul: Shadow Lord"
