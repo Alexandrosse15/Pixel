@@ -56,7 +56,7 @@ Where Shadow Lord is a bit shakier is on plot itself. Between two set pieces, th
 
 ## The choreography, and there is no arguing
 
-When the sabers ignite, Shadow Lord stops talking and delivers. The final two episodes contain some of the most beautiful clashes in the entire saga, all viewpoints considered. The toxic lake sequence is a feast: sabers, blasters, showers of sparks against a red sky, all choreographed to the millimeter and readable from start to finish, which is anything but a given in a five-fighter scene.
+When the sabers ignite, Shadow Lord stops talking and delivers. The final two episodes contain some of the most beautiful clashes in the entire saga, all viewpoints considered. The toxic lake sequence is a feast: sabers, blasters, showers of sparks against a red sky, all choreographed to the millimeter and readable from start to finish, which is anything but a given in a five-fighter scene. And listen closely: at the peak of one clash, the score slips in a quick nod to Duel of the Fates, just enough to reawaken the 1999 chills without ever tipping into heavy-handed quotation.
 
 Body language does half the work. You see the rage rise, you see a character adopt a more aggressive stance and land a hit, you see said opponent adapt in a fraction of a second and close the exchange. These are details you can miss if you blink, and that is precisely why they are precious.
 

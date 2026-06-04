@@ -56,7 +56,7 @@ Là où Shadow Lord est un peu plus fragile, c'est sur l'intrigue pure. Entre de
 
 ## La chorégraphie, là on ne discute plus
 
-Quand les sabres s'allument, Shadow Lord arrête de discuter et envoie. Les deux derniers épisodes contiennent des affrontements parmi les plus beaux de toute la saga, points de vue confondus. La séquence du lac toxique est un festin: sabres, blasters, gerbes d'étincelles sur fond de ciel rouge, le tout chorégraphié au cordeau et lisible de bout en bout, ce qui est tout sauf évident dans une scène à cinq combattants.
+Quand les sabres s'allument, Shadow Lord arrête de discuter et envoie. Les deux derniers épisodes contiennent des affrontements parmi les plus beaux de toute la saga, points de vue confondus. La séquence du lac toxique est un festin: sabres, blasters, gerbes d'étincelles sur fond de ciel rouge, le tout chorégraphié au cordeau et lisible de bout en bout, ce qui est tout sauf évident dans une scène à cinq combattants. Et tendez l'oreille: au sommet d'un affrontement, la bande-son glisse un clin d'oeil rapide à Duel of the Fates, juste assez pour réveiller le frisson de 1999 sans jamais tomber dans la citation appuyée.
 
 Le langage corporel fait la moitié du travail. On voit la rage monter, on voit un personnage adopter une garde plus agressive et toucher l'adversaire, on voit ledit adversaire s'adapter en une fraction de seconde et clore l'échange. Ce sont des détails qu'on peut rater en clignant des yeux, et c'est précisément pour ça qu'ils sont précieux.
 
