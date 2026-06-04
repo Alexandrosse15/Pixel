@@ -56,7 +56,7 @@ Là où Shadow Lord est un peu plus fragile, c'est sur l'intrigue pure. Entre de
 
 ## La chorégraphie, là on ne discute plus
 
-Quand les sabres s'allument, Shadow Lord arrête de discuter et envoie. Les deux derniers épisodes contiennent des affrontements parmi les plus beaux de toute la saga, points de vue confondus. La séquence du lac toxique est un festin: sabres, blasters, gerbes d'étincelles sur fond de ciel rouge, le tout chorégraphié au cordeau et lisible de bout en bout, ce qui est tout sauf évident dans une scène à cinq combattants. Et tendez l'oreille: au sommet d'un affrontement, la bande-son glisse un clin d'oeil rapide à Duel of the Fates, juste assez pour réveiller le frisson de 1999 sans jamais tomber dans la citation appuyée.
+Quand les sabres s'allument, Shadow Lord arrête de discuter et envoie. Les deux derniers épisodes contiennent des affrontements parmi les plus beaux de toute la saga, points de vue confondus. La séquence du lac toxique est un festin: sabres, blasters, gerbes d'étincelles sur fond de ciel rouge, le tout chorégraphié au cordeau et lisible de bout en bout, ce qui est tout sauf évident dans une scène à cinq combattants.
 
 Le langage corporel fait la moitié du travail. On voit la rage monter, on voit un personnage adopter une garde plus agressive et toucher l'adversaire, on voit ledit adversaire s'adapter en une fraction de seconde et clore l'échange. Ce sont des détails qu'on peut rater en clignant des yeux, et c'est précisément pour ça qu'ils sont précieux.
 
@@ -69,6 +69,8 @@ Et on ne l'avait pas vu venir une seule seconde. Toute la saison nous conditionn
 Il faut en parler sans trop en dire. La dernière ligne droite fait débarquer une présence qui n'a rien d'un Inquisiteur de plus, et la série a le bon goût de la rendre quasi muette. Pas de monologue, pas de pose: juste une force écrasante qui traverse littéralement un mur comme Michael Myers et qui se met à chasser. Là où Maul et les siens tenaient à peu près tête aux Inquisiteurs, l'arrivée de ce mastodonte transforme le combat en pure survie, et tout le monde ne survit pas.
 
 Le détail qui tue, c'est la vulnérabilité de Maul. Ses prothèses cybernétiques en font une cible: on le voit prendre coup sur coup à la jambe, ralentir, accumuler les dégâts, là où Vader encaisse sans même y penser. La série insiste lourdement sur cette jambe abîmée, et difficile de ne pas y lire l'annonce d'un futur règlement de comptes. C'est aussi, soudain, la meilleure explication qu'on ait jamais eue de la peur panique que Maul affichera face à Vader dans Rebels. Il a compris, ce soir-là, qu'il n'est pas à la hauteur, même accompagné.
+
+Et tendez l'oreille pendant ce duel: la bande-son laisse remonter un clin d'oeil rapide à Duel of the Fates, le thème de Maul depuis La Menace fantôme. Juste assez pour réveiller le frisson de 1999, sans jamais tomber dans la citation appuyée. Boucler la boucle musicale de Maul précisément face à l'homme qui le dépasse, c'est cruel, et c'est parfait.
 
 ## Verdict
 

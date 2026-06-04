@@ -56,7 +56,7 @@ Where Shadow Lord is a bit shakier is on plot itself. Between two set pieces, th
 
 ## The choreography, and there is no arguing
 
-When the sabers ignite, Shadow Lord stops talking and delivers. The final two episodes contain some of the most beautiful clashes in the entire saga, all viewpoints considered. The toxic lake sequence is a feast: sabers, blasters, showers of sparks against a red sky, all choreographed to the millimeter and readable from start to finish, which is anything but a given in a five-fighter scene. And listen closely: at the peak of one clash, the score slips in a quick nod to Duel of the Fates, just enough to reawaken the 1999 chills without ever tipping into heavy-handed quotation.
+When the sabers ignite, Shadow Lord stops talking and delivers. The final two episodes contain some of the most beautiful clashes in the entire saga, all viewpoints considered. The toxic lake sequence is a feast: sabers, blasters, showers of sparks against a red sky, all choreographed to the millimeter and readable from start to finish, which is anything but a given in a five-fighter scene.
 
 Body language does half the work. You see the rage rise, you see a character adopt a more aggressive stance and land a hit, you see said opponent adapt in a fraction of a second and close the exchange. These are details you can miss if you blink, and that is precisely why they are precious.
 
@@ -69,6 +69,8 @@ And we did not see it coming for a single second. The whole season conditions yo
 We have to talk about it without saying too much. The home stretch brings in a presence that is nothing like another Inquisitor, and the series has the good taste to make it nearly silent. No monologue, no posing: just an overwhelming force that literally walks through a wall like Michael Myers and starts hunting. Where Maul and his people roughly held their own against the Inquisitors, the arrival of this juggernaut turns the fight into pure survival, and not everyone survives.
 
 The killer detail is Maul's vulnerability. His cybernetic prosthetics make him a target: you watch him take hit after hit to the leg, slow down, accumulate damage, where Vader absorbs blows without a second thought. The series leans hard on that damaged leg, and it is hard not to read it as the announcement of a future reckoning. It is also, suddenly, the best explanation we have ever gotten for the sheer panic Maul will show facing Vader in Rebels. He understood, that night, that he is not a match, even with backup.
+
+And listen closely during that duel: the score lets a quick nod to Duel of the Fates resurface, Maul's theme since The Phantom Menace. Just enough to reawaken the 1999 chills, without ever tipping into heavy-handed quotation. Closing Maul's musical loop precisely against the man who outmatches him is cruel, and it is perfect.
 
 ## Verdict
 
