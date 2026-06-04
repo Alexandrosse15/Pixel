@@ -64,6 +64,8 @@ Body language does half the work. You see the rage rise, you see a character ado
 
 ## And then Vader walks through the wall
 
+And we did not see it coming for a single second. The whole season conditions you to an escalation of Inquisitors, each one bigger and meaner than the last, so you logically expect the final boss to be just the most massive of the bunch. Instead, the home stretch drops the antagonist nobody anticipated, and the reveal literally made us sit up on the couch. What an idea. Pulling out that figure, precisely at that point in the timeline, is the kind of writing gamble that could have reeked of lazy fan service and instead turns out to be the best move of the entire season.
+
 We have to talk about it without saying too much. The home stretch brings in a presence that is nothing like another Inquisitor, and the series has the good taste to make it nearly silent. No monologue, no posing: just an overwhelming force that literally walks through a wall like Michael Myers and starts hunting. Where Maul and his people roughly held their own against the Inquisitors, the arrival of this juggernaut turns the fight into pure survival, and not everyone survives.
 
 The killer detail is Maul's vulnerability. His cybernetic prosthetics make him a target: you watch him take hit after hit to the leg, slow down, accumulate damage, where Vader absorbs blows without a second thought. The series leans hard on that damaged leg, and it is hard not to read it as the announcement of a future reckoning. It is also, suddenly, the best explanation we have ever gotten for the sheer panic Maul will show facing Vader in Rebels. He understood, that night, that he is not a match, even with backup.
