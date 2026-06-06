@@ -17,7 +17,7 @@ Three people. Two years of development. A seabed populated by things that should
 
 ## The studio
 
-Théo and his partner met at school in 2001. Twenty years later, after five or six years at Novaquark (the creators of Dual Universe), they founded Drop Rate Studio and released Wantless, their first game. Dive or Die is their second title. Three people in-house, two developers and an artist, plus an external musician for the score and sound design. The team is spread between the Paris region and the south of France, fully remote. No office, no in-person meetings, just people working and a game shipping in a few weeks, published by Dear Villagers.
+Théo and his partner Achille met at school in 2014. Seven years later, after five or six years at Novaquark (the creators of Dual Universe), they founded Drop Rate Studio and released Wantless, their first game. Dive or Die is their second title. Three people in-house, two developers and an artist, plus an external musician for the score and sound design. The team is spread between the Paris region and the south of France, fully remote. No office, no in-person meetings, just people working and a game shipping in a few weeks, published by Dear Villagers.
 
 ## What we know
 
@@ -33,7 +33,7 @@ The surface base management is not a transition menu between two dives, it is wh
 
 ## The art direction
 
-Cédric works in heavy black outlines, a direct influence from illustrator Arcason John. The style was already there in Wantless, but it is clearly more controlled here: cleaner contours, denser atmospheres, a visual coherence that holds over time and does not fall apart after three screens. In a Lovecraftian genre where atmosphere does 80% of the work, that is precisely what separates the chill from indifference.
+Achille works in heavy black outlines, somewhere between the look of Darkest Dungeon and the line of Mike Mignola. The style was already there in Wantless, but it is clearly more controlled here: cleaner contours, denser atmospheres, a visual coherence that holds over time and does not fall apart after three screens. In a Lovecraftian genre where atmosphere does 80% of the work, that is precisely what separates the chill from indifference.
 
 And everything is hand-made, from the first frame to the last. Not a single automatically generated pixel, no asset pulled from a grinder. When horror rests entirely on what you see and on what you think you can make out in the dark, that stance is not a marketing detail, it is a guarantee of tone.
 

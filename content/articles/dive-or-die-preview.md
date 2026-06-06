@@ -17,7 +17,7 @@ Trois personnes. Deux ans de développement. Un fond marin peuplé de choses qui
 
 ## Le studio
 
-Théo et son associé se sont rencontrés à l'école en 2001. Vingt ans plus tard, après cinq à six ans passés chez Novaquark (les créateurs de Dual Universe), ils ont fondé Drop Rate Studio et sorti Wantless, leur premier jeu. Dive or Die est leur deuxième titre. Trois personnes en interne, deux développeurs et un artiste, plus un musicien externe pour la bande-son et le sound design. L'équipe est dispersée entre la région parisienne et le sud de la France, en remote intégral. Pas de bureau, pas de réunion en présentiel, juste des gens qui bossent et un jeu qui sort dans quelques semaines, édité par Dear Villagers.
+Théo et son associé Achille se sont rencontrés à l'école en 2014. Sept ans plus tard, après cinq à six ans passés chez Novaquark (les créateurs de Dual Universe), ils ont fondé Drop Rate Studio et sorti Wantless, leur premier jeu. Dive or Die est leur deuxième titre. Trois personnes en interne, deux développeurs et un artiste, plus un musicien externe pour la bande-son et le sound design. L'équipe est dispersée entre la région parisienne et le sud de la France, en remote intégral. Pas de bureau, pas de réunion en présentiel, juste des gens qui bossent et un jeu qui sort dans quelques semaines, édité par Dear Villagers.
 
 ## Ce qu'on sait
 
@@ -33,7 +33,7 @@ La gestion de base en surface n'est pas un menu de transition entre deux plongé
 
 ## La direction artistique
 
-Cédric travaille dans les gros outlines noirs, influence directe de l'illustrateur Arcason John. Le style était déjà là dans Wantless, mais il est nettement mieux maîtrisé ici: des contours plus propres, des atmosphères plus denses, une cohérence visuelle qui tient sur la durée et ne s'effrite pas au bout de trois écrans. Dans un genre lovecraftien où l'ambiance fait 80% du travail, c'est précisément ce qui sépare le frisson de l'indifférence.
+Achille travaille dans les gros outlines noirs, quelque part entre l'esthétique de Darkest Dungeon et le trait de Mike Mignola. Le style était déjà là dans Wantless, mais il est nettement mieux maîtrisé ici: des contours plus propres, des atmosphères plus denses, une cohérence visuelle qui tient sur la durée et ne s'effrite pas au bout de trois écrans. Dans un genre lovecraftien où l'ambiance fait 80% du travail, c'est précisément ce qui sépare le frisson de l'indifférence.
 
 Et tout est fait main, du premier au dernier plan. Pas un pixel généré automatiquement, pas d'asset sorti d'une moulinette. Quand l'horreur repose entièrement sur ce que vous voyez et sur ce que vous croyez deviner dans le noir, ce parti pris n'est pas un détail de communication, c'est une garantie de ton.
 
