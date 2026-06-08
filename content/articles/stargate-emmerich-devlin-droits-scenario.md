@@ -8,7 +8,7 @@ date: "2026-06-08"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-slate-950 via-cyan-950 to-zinc-950"
-coverImage: "/images/stargate/screenshot-5.png"
+coverImage: "/images/stargate/screenshot-4.png"
 gameName: "Stargate"
 featured: false
 ---
@@ -33,7 +33,7 @@ Et c'est là que l'affaire devient piquante. Car si la notice ne porte que sur u
 
 Il faut toutefois remettre cette annonce à sa juste place, et nos lecteurs réguliers savent pourquoi. Il y a quelques jours à peine, nous évoquions l'annulation par Amazon MGM de la série Stargate développée par Martin Gero, sur laquelle Emmerich et Devlin étaient justement attachés comme producteurs après avoir trouvé un accord avec le studio. Le retour tant espéré de la franchise à l'écran venait de s'effondrer une fois de plus. La notice de révocation arrive donc dans un paysage déjà chaotique, où le studio détient tout mais ne produit rien.
 
-![Les séries comme SG-1 ne sont pas touchées par la notice et restent chez Amazon MGM](/images/stargate/screenshot-4.png)
+![Les séries comme SG-1 ne sont pas touchées par la notice et restent chez Amazon MGM](/images/stargate/screenshot-2.png)
 
 ## Notre avis
 

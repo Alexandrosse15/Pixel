@@ -8,7 +8,7 @@ date: "2026-06-08"
 author: "Alexandrosse"
 readTime: "8 min"
 image_color: "from-slate-950 via-cyan-950 to-zinc-950"
-coverImage: "/images/stargate/screenshot-5.png"
+coverImage: "/images/stargate/screenshot-4.png"
 gameName: "Stargate"
 featured: false
 ---
@@ -33,7 +33,7 @@ And this is where it gets juicy. Because if the notice only covers a screenplay,
 
 That said, the announcement has to be put in its proper place, and our regular readers know why. Just a few days ago, we covered Amazon MGM's cancellation of the Stargate series developed by Martin Gero, on which Emmerich and Devlin were precisely attached as producers after reaching an agreement with the studio. The long-hoped-for return of the franchise to the screen had just collapsed once more. The termination notice therefore lands in an already chaotic landscape, where the studio owns everything but produces nothing.
 
-![Series like SG-1 are not touched by the notice and stay with Amazon MGM](/images/stargate/screenshot-4.png)
+![Series like SG-1 are not touched by the notice and stay with Amazon MGM](/images/stargate/screenshot-2.png)
 
 ## Our take
 
