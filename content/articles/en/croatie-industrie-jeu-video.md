@@ -59,9 +59,9 @@ What remains is the Achilles heel, that dependence on outsourcing that keeps par
 
 ## Sources
 
-- [Connecting Region — Croatia's gaming industry defies the global slowdown](https://connectingregion.com/news/croatias-gaming-industry-defies-global-slowdown/)
-- [CGDA — Croatian Game Development Alliance](https://cgda.eu/en/about-us/)
-- [CGDA — all Croatian PC games in one place](https://cgda.eu/all-croatian-pc-games-in-one-place/)
-- [Total Croatia News — Gamepires acquired by Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
-- [A1 Adria League — Croatian gaming industry analysis](https://a1adrialeague.com/gaming-croatia-a1sec/)
-- [Overseer Games — Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
+- [Connecting Region : Croatia's gaming industry defies the global slowdown](https://connectingregion.com/news/croatias-gaming-industry-defies-global-slowdown/)
+- [CGDA : Croatian Game Development Alliance](https://cgda.eu/en/about-us/)
+- [CGDA : all Croatian PC games in one place](https://cgda.eu/all-croatian-pc-games-in-one-place/)
+- [Total Croatia News : Gamepires acquired by Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
+- [A1 Adria League : Croatian gaming industry analysis](https://a1adrialeague.com/gaming-croatia-a1sec/)
+- [Overseer Games : Kaiserpunk](https://www.overseer-games.com/kaiserpunk)

@@ -59,9 +59,9 @@ Reste le talon d'Achille, cette dépendance à la sous-traitance qui maintient u
 
 ## Sources
 
-- [Connecting Region — l'industrie croate face au ralentissement mondial](https://connectingregion.com/news/croatias-gaming-industry-defies-global-slowdown/)
-- [CGDA — Croatian Game Development Alliance](https://cgda.eu/en/about-us/)
-- [CGDA — tous les jeux PC croates au même endroit](https://cgda.eu/all-croatian-pc-games-in-one-place/)
-- [Total Croatia News — Gamepires racheté par Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
-- [A1 Adria League — analyse de l'industrie du jeu croate](https://a1adrialeague.com/gaming-croatia-a1sec/)
-- [Overseer Games — Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
+- [Connecting Region : l'industrie croate face au ralentissement mondial](https://connectingregion.com/news/croatias-gaming-industry-defies-global-slowdown/)
+- [CGDA : Croatian Game Development Alliance](https://cgda.eu/en/about-us/)
+- [CGDA : tous les jeux PC croates au même endroit](https://cgda.eu/all-croatian-pc-games-in-one-place/)
+- [Total Croatia News : Gamepires racheté par Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
+- [A1 Adria League : analyse de l'industrie du jeu croate](https://a1adrialeague.com/gaming-croatia-a1sec/)
+- [Overseer Games : Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
