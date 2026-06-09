@@ -56,3 +56,12 @@ C'est le paradoxe de cette scène. Elle produit énormément, elle est jouée tr
 La Croatie est l'un des plus beaux récits de l'industrie vidéoludique européenne, et le plus sous-estimé. En une décennie, un pays minuscule a accouché de deux franchises mondiales, d'un carton survie racheté par un mage anglais, d'une scène city-builder de référence et d'une relève qui déborde de Steam. Tout cela sans géant national, sans studio de mille personnes, juste avec des équipes nerveuses, des idées et une communauté soudée. C'est exactement le genre de modèle qu'on aimerait voir cité plus souvent quand on parle de l'avenir du jeu vidéo.
 
 Reste le talon d'Achille, cette dépendance à la sous-traitance qui maintient une partie du secteur sous perfusion. Le campus de Novska, l'association des développeurs et la nouvelle vague de studios peuvent inverser la tendance, à condition que les prochains succès maison se multiplient au lieu de rester des exceptions. Si la Croatie y parvient, elle ne sera plus une curiosité de carte Steam, mais une vraie puissance. Et au rythme où elle avance, on ne parierait pas contre elle.
+
+## Sources
+
+- [Connecting Region — l'industrie croate face au ralentissement mondial](https://connectingregion.com/news/croatias-gaming-industry-defies-global-slowdown/)
+- [CGDA — Croatian Game Development Alliance](https://cgda.eu/en/about-us/)
+- [CGDA — tous les jeux PC croates au même endroit](https://cgda.eu/all-croatian-pc-games-in-one-place/)
+- [Total Croatia News — Gamepires racheté par Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
+- [A1 Adria League — analyse de l'industrie du jeu croate](https://a1adrialeague.com/gaming-croatia-a1sec/)
+- [Overseer Games — Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
