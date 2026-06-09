@@ -17,7 +17,7 @@ A few days ago, Steam ran a rather particular event: a showcase called Upcoming 
 
 ## The numbers of a small miracle
 
-The most striking thing is the speed. In 2019, the Croatian video game industry employed around 230 people. Two years later, in 2021, that number had already passed 500. The sector now counts roughly 70 studios, for an estimated total revenue of nearly 60 million euros. These are not figures that make Electronic Arts tremble, but measured against the size of the country, they tell of growth few nations can claim.
+The most striking thing is the speed. In 2019, the Croatian video game industry employed around 230 people. Two years later, in 2021, that number had already passed 500. The sector now counts over 180 officially registered studios, for an estimated total revenue of nearly 60 million euros. These are not figures that make Electronic Arts tremble, but measured against the size of the country, they tell of growth few nations can claim.
 
 More telling still: according to analyses from the Croatian developers' association, Croatian games are three times more likely to be played on Steam than the average from other countries. In other words, Croatia does not just produce a lot, it produces things people actually launch. And the state has caught the scent: since 2022, a campus dedicated to gaming has been under construction in Novska, a 50-million-euro investment designed to train and retain the region's talent.
 

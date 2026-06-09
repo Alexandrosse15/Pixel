@@ -17,7 +17,7 @@ Il y a quelques jours, Steam a mis en avant une opération un peu particulière:
 
 ## Les chiffres d'un petit miracle
 
-Le plus frappant, c'est la vitesse. En 2019, l'industrie vidéoludique croate employait environ 230 personnes. Deux ans plus tard, en 2021, ce nombre avait déjà dépassé les 500. Le secteur compte aujourd'hui autour de 70 studios, pour un chiffre d'affaires global estimé à près de 60 millions d'euros. Ce ne sont pas des sommes qui font trembler Electronic Arts, mais rapportées à la taille du pays, elles racontent une croissance que peu de nations peuvent revendiquer.
+Le plus frappant, c'est la vitesse. En 2019, l'industrie vidéoludique croate employait environ 230 personnes. Deux ans plus tard, en 2021, ce nombre avait déjà dépassé les 500. Le secteur compte aujourd'hui plus de 180 studios officiellement recensés, pour un chiffre d'affaires global estimé à près de 60 millions d'euros. Ce ne sont pas des sommes qui font trembler Electronic Arts, mais rapportées à la taille du pays, elles racontent une croissance que peu de nations peuvent revendiquer.
 
 Plus parlant encore: selon les analyses de l'association croate des développeurs, les jeux croates sont trois fois plus susceptibles d'être joués sur Steam que la moyenne des autres pays. Autrement dit, la Croatie ne se contente pas de produire beaucoup, elle produit des choses que les gens lancent vraiment. Et l'État a flairé le filon: depuis 2022, un campus dédié au jeu vidéo se construit à Novska, un investissement de 50 millions d'euros pensé pour former et fixer les talents de toute la région.
 
