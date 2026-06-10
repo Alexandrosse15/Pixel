@@ -7,13 +7,15 @@ excerpt: "35 millions d'euros d'amende pour le Joy-Con drift: la DGCCRF sanction
 date: "2026-06-10"
 author: "Alexandrosse"
 readTime: "7 min"
-image_color:
+image_color: "from-red-700 via-red-900 to-red-950"
 coverImage: "/images/switch/switch.webp"
 gameName: "Nintendo Switch"
 featured: false
 ---
 
 Tous les joueurs qui ont possédé une Nintendo Switch de première génération connaissent ce moment de rage: Link qui avance tout seul, un curseur qui dérive, un personnage qui tourne en rond sans qu'on touche à rien. Le Joy-Con drift, ce fléau des premières manettes de la console, vient de coûter très cher à Nintendo. Et au-delà du géant japonais, c'est toute une industrie qui devrait se sentir visée.
+
+![Nintendo Switch et ses Joy-Con](/images/switch/switch.webp)
 
 ## Le fait
 

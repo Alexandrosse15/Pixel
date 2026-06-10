@@ -8,11 +8,14 @@ date: "2026-06-10"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-red-700 via-red-900 to-red-950"
+coverImage: "/images/switch/switch.webp"
 gameName: "Nintendo Switch"
 featured: false
 ---
 
 Every player who owned a first-generation Nintendo Switch knows that moment of rage: Link walking off on his own, a cursor drifting, a character spinning in circles without you touching a thing. Joy-Con drift, that scourge of the console's early controllers, has just cost Nintendo dearly. And beyond the Japanese giant, it is a whole industry that should feel targeted.
+
+![Nintendo Switch and its Joy-Con](/images/switch/switch.webp)
 
 ## The fact
 
