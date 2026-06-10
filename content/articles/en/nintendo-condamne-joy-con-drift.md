@@ -7,7 +7,7 @@ excerpt: "A 35-million-euro fine over Joy-Con drift: France's DGCCRF sanctions N
 date: "2026-06-10"
 author: "Alexandrosse"
 readTime: "7 min"
-image_color: "from-red-950 via-stone-950 to-zinc-950"
+image_color: "from-red-700 via-red-900 to-red-950"
 gameName: "Nintendo Switch"
 featured: false
 ---

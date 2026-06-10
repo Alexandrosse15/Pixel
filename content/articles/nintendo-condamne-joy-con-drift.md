@@ -7,7 +7,7 @@ excerpt: "35 millions d'euros d'amende pour le Joy-Con drift: la DGCCRF sanction
 date: "2026-06-10"
 author: "Alexandrosse"
 readTime: "7 min"
-image_color: "from-red-950 via-stone-950 to-zinc-950"
+image_color: "from-red-700 via-red-900 to-red-950"
 gameName: "Nintendo Switch"
 featured: false
 ---
