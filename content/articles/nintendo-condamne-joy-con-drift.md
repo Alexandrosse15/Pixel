@@ -8,7 +8,7 @@ date: "2026-06-10"
 author: "Alexandrosse"
 readTime: "7 min"
 image_color: "from-emerald-950 via-amber-950 to-stone-950"
-coverImage: "/images/oot/screenshot-1.webp"
+coverImage: coverImage: "/images/switch/switch.webp"
 gameName: "Nintendo Switch"
 featured: false
 ---
