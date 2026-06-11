@@ -50,7 +50,7 @@ Entre deux batailles, on gère son roster, on fait ses emplettes chez un marchan
 
 Soyons lucides, car cette accessibilité a un revers. La profondeur tactique montre vite ses limites, et certains systèmes, comme l'armure, restent assez sommaires, au point que l'on peut ressentir le plaisir s'émousser passé les premières heures si l'on cherche un vrai jeu de stratégie au long cours. C'est un amusement immédiat et délicieux, mais pas forcément un gouffre stratégique dans lequel s'investir des centaines d'heures.
 
-Deuxième bémol, l'intelligence artificielle. Comme souvent dans ce type de jeu, un joueur à l'aise avec le micro-management peut remporter des batailles sans la moindre perte face à une armée théoriquement supérieure, simplement en manoeuvrant mieux que l'ordinateur. Tout dépendra de la capacité de l'adversaire à ne pas se faire manipuler, et c'est un chantier classique du genre qu'il faudra surveiller.
+Deuxième bémol, l'adversaire informatique. Comme souvent dans ce type de jeu, un joueur à l'aise avec le micro-management peut remporter des batailles sans la moindre perte face à une armée théoriquement supérieure, simplement en manoeuvrant mieux que l'ordinateur. Tout dépendra de la capacité de cet adversaire à ne pas se faire manipuler, et c'est un chantier classique du genre qu'il faudra surveiller.
 
 ![La pègre monstrueuse à l'assaut: ça reste du plaisir immédiat](/images/tabletoptavern/screenshot-5.webp)
 
@@ -60,6 +60,6 @@ Il faut enfin garder en tête que le jeu vient tout juste de sortir, après une 
 
 ## Verdict
 
-Tabletop Tavern réussit son pari avec un charme désarmant: prendre la grammaire intimidante d'un Total War et la rendre légère, rapide et accessible, le tout emballé dans une présentation de wargame de comptoir qu'on a adorée. C'est un excellent jeu pour les soirées courtes, pour les amateurs de roguelite qui veulent du fracas d'armées sans la lourdeur d'une campagne de cinquante heures, et le suivi exemplaire du développeur laisse augurer d'un titre qui ne fera que grossir. Il lui manque de la profondeur sur le long terme, une IA plus retorse, et la couche roguelite divisera. Mais pour le plaisir simple d'aligner ses régiments et de regarder la mêlée s'embraser, on en redemande.
+Tabletop Tavern réussit son pari avec un charme désarmant: prendre la grammaire intimidante d'un Total War et la rendre légère, rapide et accessible, le tout emballé dans une présentation de wargame de comptoir qu'on a adorée. C'est un excellent jeu pour les soirées courtes, pour les amateurs de roguelite qui veulent du fracas d'armées sans la lourdeur d'une campagne de cinquante heures, et le suivi exemplaire du développeur laisse augurer d'un titre qui ne fera que grossir. Il lui manque de la profondeur sur le long terme, un adversaire plus retors, et la couche roguelite divisera. Mais pour le plaisir simple d'aligner ses régiments et de regarder la mêlée s'embraser, on en redemande.
 
 Le wargame de figurines réduit à l'essentiel et servi sur un plateau: léger, malin, et terriblement addictif par petites sessions.

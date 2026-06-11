@@ -50,7 +50,7 @@ Between battles, you manage your roster, you shop at a merchant met on the tree,
 
 Let us be clear-eyed, because this accessibility has a flip side. Tactical depth quickly shows its limits, and some systems, like armor, stay fairly basic, to the point that you can feel the fun dull after the first few hours if you are after a real long-haul strategy game. It is an immediate, delicious amusement, but not necessarily a strategic abyss to sink hundreds of hours into.
 
-Second gripe, the AI. As often in this kind of game, a player comfortable with micro-management can win battles without a single loss against a theoretically superior army, simply by maneuvering better than the computer. It all hinges on the opponent's ability not to be manipulated, and it is a classic work site of the genre to keep an eye on.
+Second gripe, the computer opponent. As often in this kind of game, a player comfortable with micro-management can win battles without a single loss against a theoretically superior army, simply by maneuvering better than the machine. It all hinges on that opponent's ability not to be manipulated, and it is a classic work site of the genre to keep an eye on.
 
 ![The monstrous horde on the assault: it stays immediate fun](/images/tabletoptavern/screenshot-5.webp)
 
@@ -60,6 +60,6 @@ Finally, keep in mind that the game has only just launched, after a long public 
 
 ## Verdict
 
-Tabletop Tavern pulls off its bet with disarming charm: taking the intimidating grammar of a Total War and making it light, fast and accessible, all wrapped in a bar-counter wargame presentation we loved. It is a great game for short evenings, for roguelite fans who want the clash of armies without the weight of a fifty-hour campaign, and the developer's exemplary support bodes well for a title that will only grow. It lacks long-term depth, a craftier AI, and the roguelite layer will divide. But for the simple pleasure of lining up your regiments and watching the melee ignite, we keep coming back for more.
+Tabletop Tavern pulls off its bet with disarming charm: taking the intimidating grammar of a Total War and making it light, fast and accessible, all wrapped in a bar-counter wargame presentation we loved. It is a great game for short evenings, for roguelite fans who want the clash of armies without the weight of a fifty-hour campaign, and the developer's exemplary support bodes well for a title that will only grow. It lacks long-term depth, a craftier opponent, and the roguelite layer will divide. But for the simple pleasure of lining up your regiments and watching the melee ignite, we keep coming back for more.
 
 The miniature wargame stripped to its essence and served on a platter: light, clever, and terribly addictive in small sessions.
