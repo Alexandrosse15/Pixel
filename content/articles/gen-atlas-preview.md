@@ -1,5 +1,5 @@
 ---
-title: "gen ATLAS: après Ico et Shadow of the Colossus, Fumito Ueda n'a plus le droit à l'erreur"
+title: "gen ATLAS: après Ico et Shadow of the Colossus, on espère que Fumito Ueda égalera ces précédentes oeuvres"
 seoTitle: "gen ATLAS : preview du nouveau jeu de Fumito Ueda"
 slug: "gen-atlas-preview"
 category: "previews"
