@@ -10,7 +10,7 @@ readTime: "7 min"
 image_color: "from-red-950 via-amber-950 to-zinc-950"
 coverImage: "/images/magicians-devils-deal/screenshot-1.jpg"
 gameName: "Magicians: The Devil's Deal"
-featured: false
+featured: true
 ---
 
 Il y a des bandes-annonces qu'on regarde une fois, et d'autres qu'on relance immédiatement en se demandant pourquoi personne n'avait fait ça avant. Magicians: The Devil's Deal appartient à la seconde catégorie. Un FPS narratif où la magie de scène devient mortelle, où l'on jette des cartes comme des lames de rasoir et où l'on vole les pouvoirs de magiciens rivaux dans un Londres infernal. On a un goût de neuf dans la bouche, une direction artistique qui respire le BioShock, et ça fait un bien fou.
