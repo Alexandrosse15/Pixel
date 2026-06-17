@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next'
-import { getAllArticles, getArticlesByCategory } from '@/lib/articles'
+import { getAllArticles, getArticlesByCategory, getAllGames } from '@/lib/articles'
 import { SITE_URL } from '@/lib/config'
 
 export const revalidate = 3600
@@ -71,5 +71,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   }))
 
-  return [...staticRoutes, ...frArticleRoutes, ...enArticleRoutes]
+  // Pages par jeu (hubs SEO ciblant le nom nu du jeu)
+  const games = getAllGames('fr')
+  const gameRoutes: MetadataRoute.Sitemap = games.flatMap((game) => {
+    const lastModified = latestDate(game.articles)
+    const frUrl = `${SITE_URL}/jeu/${game.slug}`
+    const enUrl = `${SITE_URL}/en/jeu/${game.slug}`
+    const languages = { fr: frUrl, en: enUrl }
+    return [
+      { url: frUrl, lastModified, changeFrequency: 'weekly' as const, priority: 0.8, alternates: { languages } },
+      { url: enUrl, lastModified, changeFrequency: 'weekly' as const, priority: 0.6, alternates: { languages } },
+    ]
+  })
+
+  return [...staticRoutes, ...frArticleRoutes, ...enArticleRoutes, ...gameRoutes]
 }

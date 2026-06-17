@@ -140,3 +140,55 @@ export function formatDate(dateStr: string): string {
     year: 'numeric',
   })
 }
+
+// --- Pages par jeu (hub SEO ciblant le nom nu du jeu) ---
+
+export interface GameGroup {
+  name: string
+  slug: string
+  articles: Article[]
+}
+
+export function slugifyGame(name: string): string {
+  return name
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+function collectGameNames(a: Article): string[] {
+  const names = new Set<string>()
+  if (a.gameName) names.add(a.gameName)
+  a.gameNames?.forEach((n) => names.add(n))
+  return Array.from(names)
+}
+
+// Regroupe les articles par jeu. On ne crée un hub que pour les jeux ayant
+// au moins un test ou une preview (les rubriques réellement centrées sur un jeu).
+export function getAllGames(locale = 'fr'): GameGroup[] {
+  const articles = getAllArticles(locale) // déjà triés par date décroissante
+  const map = new Map<string, GameGroup>()
+
+  for (const a of articles) {
+    for (const name of collectGameNames(a)) {
+      const slug = slugifyGame(name)
+      if (!slug) continue
+      const existing = map.get(slug)
+      if (existing) {
+        existing.articles.push(a)
+      } else {
+        map.set(slug, { name, slug, articles: [a] })
+      }
+    }
+  }
+
+  return Array.from(map.values()).filter((g) =>
+    g.articles.some((a) => a.category === 'tests' || a.category === 'previews')
+  )
+}
+
+export function getGameBySlug(slug: string, locale = 'fr'): GameGroup | null {
+  return getAllGames(locale).find((g) => g.slug === slug) ?? null
+}

@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { headers } from 'next/headers'
-import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig } from '@/lib/articles'
+import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig, slugifyGame } from '@/lib/articles'
 import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
@@ -98,6 +98,20 @@ export default async function ArticlePage({ params }: Props) {
     : `${SITE_URL}/articles/${article.slug}`
   const categoryHref = locale === 'en' ? `/en/${article.category}` : `/${article.category}`
 
+  // Hub par jeu (page SEO ciblant le nom nu du jeu)
+  const gameSlug = article.gameName ? slugifyGame(article.gameName) : null
+  const gameHubHref = gameSlug
+    ? locale === 'en'
+      ? `/en/jeu/${gameSlug}`
+      : `/jeu/${gameSlug}`
+    : null
+  const gameHubUrl = gameSlug ? `${SITE_URL}${locale === 'en' ? '/en' : ''}/jeu/${gameSlug}` : null
+  const coverAbsolute = article.coverImage
+    ? article.coverImage.startsWith('http')
+      ? article.coverImage
+      : `${SITE_URL}${article.coverImage}`
+    : undefined
+
   const articleSchema = article.score
     ? {
         '@context': 'https://schema.org',
@@ -119,6 +133,8 @@ export default async function ArticlePage({ params }: Props) {
         itemReviewed: {
           '@type': 'VideoGame',
           name: article.gameName ?? article.title,
+          ...(gameHubUrl && { url: gameHubUrl }),
+          ...(coverAbsolute && { image: coverAbsolute }),
           ...(communityRating.count > 0 && {
             aggregateRating: {
               '@type': 'AggregateRating',
@@ -405,26 +421,37 @@ export default async function ArticlePage({ params }: Props) {
               {/* Note communauté */}
               <CommunityRating slug={article.slug} variant="sidebar" />
 
-              {/* Autres articles sur le même jeu */}
-              {sameGame.length > 0 && (
+              {/* Autres articles sur le même jeu + lien vers le hub jeu */}
+              {gameHubHref && article.gameName && (
                 <div className="rounded-sm border border-line bg-bg-card p-5">
                   <p className="mb-3 font-display text-xs uppercase tracking-widest text-brand">
                     Sur {article.gameName}
                   </p>
-                  <div className="flex flex-col gap-2">
-                    {sameGame.map((a2) => (
-                      <Link
-                        key={a2.slug}
-                        href={locale === 'en' ? `/en/articles/${a2.slug}` : `/articles/${a2.slug}`}
-                        className="group flex items-start gap-2 no-underline"
-                      >
-                        <CategoryBadge category={a2.category} size="sm" />
-                        <span className="text-xs leading-tight text-ink-secondary transition-colors group-hover:text-brand line-clamp-2">
-                          {a2.seoTitle ?? a2.title}
-                        </span>
-                      </Link>
-                    ))}
-                  </div>
+                  {sameGame.length > 0 && (
+                    <div className="mb-3 flex flex-col gap-2">
+                      {sameGame.map((a2) => (
+                        <Link
+                          key={a2.slug}
+                          href={locale === 'en' ? `/en/articles/${a2.slug}` : `/articles/${a2.slug}`}
+                          className="group flex items-start gap-2 no-underline"
+                        >
+                          <CategoryBadge category={a2.category} size="sm" />
+                          <span className="text-xs leading-tight text-ink-secondary transition-colors group-hover:text-brand line-clamp-2">
+                            {a2.seoTitle ?? a2.title}
+                          </span>
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                  <Link
+                    href={gameHubHref}
+                    className="inline-flex items-center gap-1 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
+                  >
+                    {locale === 'en'
+                      ? `All about ${article.gameName}`
+                      : `Tout sur ${article.gameName}`}
+                    <span aria-hidden>→</span>
+                  </Link>
                 </div>
               )}
             </div>
