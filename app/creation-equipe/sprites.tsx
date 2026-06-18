@@ -388,6 +388,25 @@ function Vendeur() {
   )
 }
 
+function Maire() {
+  return (
+    <g>
+      <ellipse cx="100" cy="215" rx="58" ry="12" fill="#000" opacity="0.25" />
+      <path d="M52 220 Q52 150 100 148 Q148 150 148 220 Z" fill="#1B2733" />
+      <path d="M70 152 L100 210 L130 152 Z" fill="#2C3340" />
+      <path d="M72 150 L116 196 L120 150Z" fill="#56A8FF" />
+      <path d="M76 150 L118 190 L122 168Z" fill="#fff" />
+      <path d="M80 150 L120 184 L124 176Z" fill="#C0392B" />
+      <rect x="90" y="118" width="20" height="22" rx="8" fill={SKIN_DARK} />
+      <circle cx="100" cy="92" r="40" fill={SKIN} />
+      <path d="M60 88 Q62 52 100 52 Q138 52 140 88 Q120 72 100 74 Q80 72 60 88Z" fill="#5A5A5A" />
+      <circle cx="86" cy="92" r="4" fill="#2A2A2A" />
+      <circle cx="114" cy="92" r="4" fill="#2A2A2A" />
+      <path d="M86 112 Q100 122 114 112" stroke="#7A4B2E" strokeWidth="3" fill="none" strokeLinecap="round" />
+    </g>
+  )
+}
+
 const SPRITES: Record<SpriteKey, () => JSX.Element> = {
   papa: Papa,
   femme: Femme,
@@ -410,6 +429,7 @@ const SPRITES: Record<SpriteKey, () => JSX.Element> = {
   maitresse: Maitresse,
   patron: Patron,
   vendeur: Vendeur,
+  maire: Maire,
 }
 
 export function Sprite({ name, className }: { name: SpriteKey; className?: string }) {
@@ -755,6 +775,37 @@ const DECORS: Record<DecorKey, DecorDef> = {
             <rect x={x} y="124" width="34" height="34" rx="4" fill={['#E74C6C', '#9B59B6', '#F2C94C'][i % 3]} opacity="0.45" />
           </g>
         ))}
+      </g>
+    ),
+  },
+  fleuriste: {
+    from: '#2E5038',
+    to: '#13261A',
+    shapes: (
+      <g>
+        <rect x="0" y="166" width="400" height="84" fill="#1A3322" />
+        <rect x="0" y="38" width="400" height="18" fill="#E74C6C" opacity="0.5" />
+        {[24, 96, 168, 240, 312].map((x, i) => (
+          <g key={x}>
+            <rect x={x} y="120" width="44" height="46" fill="#33270F" />
+            <circle cx={x + 12} cy="116" r="9" fill={['#E74C6C', '#F2C94C', '#FF6A33', '#E74C6C', '#F2C94C'][i]} opacity="0.7" />
+            <circle cx={x + 30} cy="116" r="9" fill={['#FF6A33', '#E74C6C', '#F2C94C', '#FF6A33', '#E74C6C'][i]} opacity="0.7" />
+          </g>
+        ))}
+      </g>
+    ),
+  },
+  boutique: {
+    from: '#3A2E48',
+    to: '#191222',
+    shapes: (
+      <g>
+        <rect x="0" y="164" width="400" height="86" fill="#241A30" />
+        <rect x="0" y="38" width="400" height="18" fill="#F2C94C" opacity="0.5" />
+        <rect x="40" y="70" width="130" height="94" fill="#2E2240" />
+        <rect x="230" y="70" width="130" height="94" fill="#2E2240" />
+        <rect x="60" y="86" width="90" height="60" fill="#56A8FF" opacity="0.25" />
+        <rect x="250" y="86" width="90" height="60" fill="#E74C6C" opacity="0.25" />
       </g>
     ),
   },
@@ -1188,6 +1239,30 @@ const PROPS: Record<PropKey, () => JSX.Element> = {
       <rect x="46" y="48" width="8" height="34" fill="#F2C94C" />
       <rect x="28" y="60" width="44" height="8" fill="#F2C94C" />
       <path d="M50 48 Q40 32 32 40 Q40 44 50 48 Q60 32 68 40 Q60 44 50 48Z" fill="#F2C94C" />
+    </g>
+  ),
+  roses: () => (
+    <g>
+      <path d="M40 78 Q40 56 34 46" stroke="#2E8B57" strokeWidth="3" fill="none" />
+      <path d="M50 80 Q50 54 50 44" stroke="#2E8B57" strokeWidth="3" fill="none" />
+      <path d="M60 78 Q60 56 66 46" stroke="#2E8B57" strokeWidth="3" fill="none" />
+      <circle cx="34" cy="40" r="10" fill="#E74C6C" />
+      <circle cx="50" cy="36" r="11" fill="#C0392B" />
+      <circle cx="66" cy="40" r="10" fill="#E74C6C" />
+      <circle cx="34" cy="40" r="4" fill="#922B21" />
+      <circle cx="50" cy="36" r="4" fill="#7A1E16" />
+      <circle cx="66" cy="40" r="4" fill="#922B21" />
+      <path d="M42 60 l-10 4" stroke="#2E8B57" strokeWidth="3" />
+      <path d="M58 60 l10 4" stroke="#2E8B57" strokeWidth="3" />
+      <path d="M40 78 L60 78 L56 86 L44 86 Z" fill="#F4F4F4" opacity="0.5" />
+    </g>
+  ),
+  cadeau: () => (
+    <g>
+      <rect x="28" y="46" width="44" height="36" rx="2" fill="#9B59B6" />
+      <rect x="46" y="46" width="8" height="36" fill="#F2C94C" />
+      <rect x="28" y="58" width="44" height="8" fill="#F2C94C" />
+      <path d="M50 46 Q38 28 30 38 Q40 42 50 46 Q60 28 70 38 Q60 42 50 46Z" fill="#F2C94C" />
     </g>
   ),
 }

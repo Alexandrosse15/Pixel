@@ -1,10 +1,10 @@
 /* Simulation d'équilibrage multi-chapitres. Lancer : npx tsx scripts/sim.ts */
 import {
   buildDeck,
+  chapterSteps,
   applyChoice,
   applyEffect,
   isDead,
-  hasAll,
   gotCount,
   choiceLockReason,
   bonusUsable,
@@ -20,7 +20,7 @@ import { CHAPTERS } from '../app/creation-equipe/chapters'
 const N = 30000
 
 function smart(state: GameState, ev: GameEvent, ch: Chapter): Choice {
-  const usable = ev.choices.filter((c) => !choiceLockReason(state, c, ch.steps))
+  const usable = ev.choices.filter((c) => !choiceLockReason(state, c))
   if (!usable.length) return ev.choices[0]
   const items = usable.filter((c) => c.effect.give?.some((id) => !state.items[id]))
   if (items.length) {
@@ -63,7 +63,6 @@ function play(ch: Chapter, smartPlay: boolean) {
     const c = smartPlay ? smart(s, deck[i], ch) : deck[i].choices[Math.floor(Math.random() * deck[i].choices.length)]
     s = applyChoice(s, c, ch.drain)
     if (isDead(s)) return { result: 'dead', s }
-    if (hasAll(s, ch)) return { result: 'win', s }
   }
   const got = gotCount(s, ch)
   return { result: got === ch.items.length ? 'win' : got > 0 ? 'partial' : 'empty', s }
@@ -89,7 +88,7 @@ function run(ch: Chapter, smartPlay: boolean) {
 }
 
 for (const ch of CHAPTERS) {
-  console.log(`\n=== ${ch.kicker} : ${ch.title} (steps ${ch.steps}, start ${JSON.stringify(ch.start)}) ===`)
+  console.log(`\n=== ${ch.kicker} : ${ch.title} (steps ${chapterSteps(ch)}, start ${JSON.stringify(ch.start)}) ===`)
   run(ch, true)
   run(ch, false)
 }

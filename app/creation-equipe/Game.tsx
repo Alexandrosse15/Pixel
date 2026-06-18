@@ -9,12 +9,13 @@ import {
   applyEffect,
   bonusUsable,
   buildDeck,
+  chapterSteps,
   choiceLockReason,
   computeEnding,
   computeRank,
-  hasAll,
   initialState,
   isDead,
+  zoneLabelAt,
   type Bonus,
   type Chapter,
   type Choice,
@@ -190,7 +191,7 @@ export default function Game() {
         gained: (choice.effect.give ?? []).filter((id) => !before.items[id]),
       })
 
-      if (isDead(upd) || hasAll(upd, chapter) || upd.step >= chapter.steps) {
+      if (isDead(upd) || upd.step >= chapterSteps(chapter)) {
         setEnding(computeEnding(upd, chapter))
         setScreen('ending')
       } else {
@@ -375,8 +376,9 @@ export default function Game() {
                     <ItemBadge key={it.id} label={it.label} got={!!state.items[it.id]} />
                   ))}
                 </div>
-                <span className="shrink-0 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                  {state.step}/{chapter.steps}
+                <span className="shrink-0 text-right font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                  <span className="text-ink-secondary">{zoneLabelAt(chapter, state.step)}</span> ·{' '}
+                  {state.step}/{chapterSteps(chapter)}
                 </span>
               </div>
 
@@ -444,7 +446,7 @@ export default function Game() {
               {screen === 'playing' && (
                 <>
                   <p className="mb-6 leading-relaxed text-ink-secondary">{event.text}</p>
-                  {event.choices.every((c) => choiceLockReason(state, c, chapter.steps)) ? (
+                  {event.choices.every((c) => choiceLockReason(state, c)) ? (
                     <div
                       className="rounded-sm border border-brand/40 bg-brand/10 p-5 text-center"
                       style={{ animation: 'ic-fade 0.35s ease-out' }}
@@ -466,7 +468,7 @@ export default function Game() {
                   ) : (
                     <div className="flex flex-col gap-2.5">
                       {event.choices.map((c, i) => {
-                        const reason = choiceLockReason(state, c, chapter.steps)
+                        const reason = choiceLockReason(state, c)
                         return (
                           <button
                             key={i}

@@ -1,7 +1,8 @@
 import type { Chapter, GameEvent } from '../engine'
 import { STREET, STORE, DISTRIBUTEUR } from './shared'
 
-const SPECIFIC: GameEvent[] = [
+// Zone rayon jouets.
+const JOUETS: GameEvent[] = [
   {
     id: 'vendeur_conseil',
     sprite: 'vendeur',
@@ -10,7 +11,7 @@ const SPECIFIC: GameEvent[] = [
     title: 'Le vendeur trop zélé',
     text: 'Un vendeur surexcité veut absolument te vendre le méga-coffret à piles, lumières et sons inclus.',
     choices: [
-      { label: 'Écouter son boniment', effect: { temps: -10, moral: -3 }, result: 'Démonstration complète, sons stridents compris. Tu ressors les oreilles qui sifflent.' },
+      { label: 'Écouter son boniment', effect: { temps: -10, moral: -3 }, result: 'Démonstration complète, sons stridents compris. Oreilles qui sifflent.' },
       { label: 'Couper court poliment', effect: { temps: -3, moral: 2 }, result: '"Je regarde, merci." Tu t’éclipses avant le deuxième argument.' },
     ],
   },
@@ -20,22 +21,10 @@ const SPECIFIC: GameEvent[] = [
     decor: 'rayon_jouets',
     prop: 'croix',
     title: 'Le jouet à la mode',
-    text: 'Le rayon de la peluche que tout le monde s’arrache est vide. Un carton traîne, peut-être un dernier au fond.',
+    text: 'Le rayon de la peluche que tout le monde s’arrache est vide. Un carton traîne au fond.',
     choices: [
-      { label: 'Demander en réserve', effect: { temps: -10, energie: -4, moral: 4 }, result: 'Le vendeur fouille et déniche un exemplaire planqué. Tu respires.' },
-      { label: 'Changer de rayon', effect: { temps: -4, moral: -3 }, result: 'Tu abandonnes cette idée. Il faudra trouver autre chose.' },
-    ],
-  },
-  {
-    id: 'emballage',
-    sprite: 'caissier',
-    decor: 'magasin_jouets',
-    prop: 'sac',
-    title: "Le stand d'emballage",
-    text: 'Une file s’étire devant le comptoir cadeau. Papier brillant, ruban frisé, et une seule employée débordée.',
-    choices: [
-      { label: 'Faire emballer', effect: { temps: -11, argent: -3, moral: 5 }, result: 'Paquet impeccable avec un noeud parfait. Mais quelle attente.' },
-      { label: 'Emballer toi-même en route', effect: { temps: -3, energie: -4, moral: -4 }, result: 'Papier froissé, scotch de travers. Ça passera dans la précipitation.' },
+      { label: 'Demander en réserve', effect: { temps: -10, energie: -4, moral: 4 }, result: 'Le vendeur déniche un exemplaire planqué. Tu respires.' },
+      { label: 'Changer d’idée', effect: { temps: -4, moral: -3 }, result: 'Tu abandonnes cette piste. Il faudra trouver autre chose.' },
     ],
   },
   {
@@ -44,10 +33,74 @@ const SPECIFIC: GameEvent[] = [
     decor: 'allee',
     prop: 'ballon',
     title: 'Le caprice du rayon',
-    text: 'Un enfant en pleine crise se roule par terre au milieu de l’allée, jouets éparpillés tout autour.',
+    text: 'Un enfant en pleine crise se roule par terre au milieu de l’allée, jouets éparpillés.',
     choices: [
-      { label: 'Enjamber prudemment', effect: { temps: -3, energie: -3 }, result: 'Tu franchis le champ de mines en évitant les Lego au sol.' },
+      { label: 'Enjamber prudemment', effect: { temps: -3, energie: -3 }, result: 'Tu franchis le champ de mines en évitant les Lego.' },
       { label: 'Aider le parent dépassé', effect: { temps: -9, moral: 8 }, result: 'Tu ramasses, tu calmes le jeu. Karma positif, temps négatif.' },
+    ],
+  },
+  {
+    id: 'vitrine_jouets',
+    sprite: 'papa',
+    decor: 'rayon_jouets',
+    prop: 'robot',
+    title: 'La vitrine hypnotique',
+    text: 'Un circuit de petites voitures tourne dans la vitrine. Tu te surprends à le fixer comme un gamin.',
+    choices: [
+      { label: 'Te ressaisir vite', effect: { temps: -2, moral: 2 }, result: 'Tu secoues la tête et reprends la mission. Joli, cela dit.' },
+      { label: 'Rester admirer', effect: { temps: -8, moral: 6 }, result: 'Deux minutes de pure nostalgie. Coûteux, mais ça fait du bien.' },
+    ],
+  },
+  {
+    id: 'demo_jeu',
+    sprite: 'vendeur',
+    decor: 'rayon_jouets',
+    prop: 'ballon',
+    title: 'La borne de démo',
+    text: 'Une borne propose d’essayer le jeu phare de Noël. Une grappe d’enfants s’impatiente.',
+    choices: [
+      { label: 'Tester deux minutes', effect: { temps: -7, energie: 4, moral: 5 }, result: 'Tu bats le high-score d’un gamin de huit ans. Petite fierté coupable.' },
+      { label: 'Laisser la place', effect: { temps: -2 }, result: 'Tu cèdes la borne et poursuis ta quête.' },
+    ],
+  },
+]
+
+// Zone caisse / emballage.
+const CAISSE: GameEvent[] = [
+  {
+    id: 'emballage',
+    sprite: 'caissier',
+    decor: 'magasin_jouets',
+    prop: 'sac',
+    title: "Le stand d'emballage",
+    text: 'Une file s’étire devant le comptoir cadeau. Papier brillant, ruban frisé, employée débordée.',
+    choices: [
+      { label: 'Faire emballer', effect: { temps: -11, argent: -3, moral: 5 }, result: 'Paquet impeccable avec un noeud parfait. Mais quelle attente.' },
+      { label: 'Emballer toi-même', effect: { temps: -3, energie: -4, moral: -4 }, result: 'Papier froissé, scotch de travers. Ça passera dans la précipitation.' },
+    ],
+  },
+  {
+    id: 'file_cadeau',
+    sprite: 'mamie',
+    decor: 'caisse',
+    prop: 'ticket',
+    title: 'La caisse engorgée',
+    text: 'Une seule caisse, et devant toi une grand-mère qui paie trois jouets en chèque.',
+    choices: [
+      { label: 'Patienter sagement', effect: { temps: -12, moral: 2 }, result: 'Tu attends, le pied qui tape. Interminable.' },
+      { label: 'Tenter la borne', effect: { temps: -7, energie: -3, moral: -3 }, result: 'La borne refuse les cartes cadeaux, évidemment. Tu reviens en caisse.' },
+    ],
+  },
+  {
+    id: 'carte_fidelite',
+    sprite: 'caissier',
+    decor: 'caisse',
+    prop: 'carte',
+    title: 'La carte de fidélité',
+    text: 'Le caissier déroule le speech : "Vous avez la carte ? Sinon, dix pour cent aujourd’hui..."',
+    choices: [
+      { label: 'Souscrire vite', effect: { temps: -7, argent: 4, moral: -2 }, result: 'Formulaire rempli en vitesse, mais dix pour cent de remise empochés.' },
+      { label: 'Refuser net', effect: { temps: -2 }, result: '"Non merci." Tu coupes court et tu passes.' },
     ],
   },
 ]
@@ -71,17 +124,21 @@ export const CHAPTER_3: Chapter = {
   kicker: 'Chapitre 3',
   title: "Le cadeau d'anniversaire",
   intro:
-    "15h30. L'anniversaire du meilleur copain de ton fils est à 16h, et tu n'as toujours pas le cadeau. Le jouet précis qu'il réclame, le robot dernier cri, t'attend quelque part dans la galerie marchande bondée. Trente minutes, montre en main.",
-  goal: "rapporter le cadeau à temps",
+    "15h30. L'anniversaire du meilleur copain de ton fils est à 16h, et tu n'as toujours pas le cadeau. Direction la galerie marchande bondée : il te faut traverser la foule, écumer le rayon jouets et passer en caisse avant le top départ.",
+  goal: 'rapporter le cadeau à temps',
   items: [{ id: 'jouet', label: 'Le cadeau', prop: 'jouet' }],
-  events: [...STREET, ...STORE, ...SPECIFIC, DISTRIBUTEUR, GOAL],
+  zones: [
+    { label: 'En ville', steps: 4, fillers: [...STREET, DISTRIBUTEUR] },
+    { label: 'La galerie marchande', steps: 4, fillers: STORE },
+    { label: 'Au rayon jouets', steps: 4, fillers: JOUETS },
+    { label: 'Le bon cadeau', steps: 4, fillers: CAISSE, goals: [GOAL] },
+  ],
   bonuses: [
     { key: 'skateboard', label: 'Skateboard', effect: { temps: 12, energie: -10 }, charges: 2, desc: '+12 temps, -10 énergie' },
     { key: 'canette', label: 'Canette', effect: { energie: 15, temps: -5 }, charges: 2, desc: '+15 énergie, -5 temps' },
   ],
-  start: { temps: 87, energie: 74, argent: 44, moral: 66 },
+  start: { temps: 110, energie: 76, argent: 44, moral: 66 },
   drain: { temps: -3, energie: -2 },
-  steps: 16,
   theme: {
     accent: '#9B59B6',
     winGradient: 'linear-gradient(135deg,#6C3A8E,#221433)',

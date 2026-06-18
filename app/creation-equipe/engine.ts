@@ -22,6 +22,7 @@ export type SpriteKey =
   | 'maitresse'
   | 'patron'
   | 'vendeur'
+  | 'maire'
 
 export type DecorKey =
   | 'maison'
@@ -45,6 +46,8 @@ export type DecorKey =
   | 'bureau'
   | 'magasin_jouets'
   | 'rayon_jouets'
+  | 'fleuriste'
+  | 'boutique'
 
 export type PropKey =
   | 'couches'
@@ -96,6 +99,8 @@ export type PropKey =
   | 'sandwich'
   | 'enfants'
   | 'jouet'
+  | 'roses'
+  | 'cadeau'
 
 export type StatKey = 'temps' | 'energie' | 'argent' | 'moral'
 
@@ -160,20 +165,39 @@ export interface ChapterTheme {
   introSprite: SpriteKey
 }
 
+// Un lieu traversé dans l'ordre : pioche ses fillers, puis (si présent) son objectif en fin de zone.
+export interface Zone {
+  label: string
+  steps: number
+  fillers: GameEvent[]
+  // Candidats objectif : un est tiré au sort et placé à la fin de la zone.
+  goals?: GameEvent[]
+}
+
 export interface Chapter {
   id: number
   kicker: string
   title: string
   intro: string
   goal: string
-  // Objectifs ordonnés : tous sauf le dernier sont "du milieu", le dernier est à la mission finale.
   items: ItemDef[]
-  events: GameEvent[]
+  zones: Zone[]
   bonuses: Bonus[]
   start: { temps: number; energie: number; argent: number; moral: number }
   drain: Effect
-  steps: number
   theme: ChapterTheme
+}
+
+export const chapterSteps = (c: Chapter): number => c.zones.reduce((n, z) => n + z.steps, 0)
+
+// Libellé du lieu courant pour une étape donnée.
+export function zoneLabelAt(c: Chapter, step: number): string {
+  let acc = 0
+  for (const z of c.zones) {
+    acc += z.steps
+    if (step < acc) return z.label
+  }
+  return c.zones[c.zones.length - 1]?.label ?? ''
 }
 
 export interface Ending {
@@ -232,11 +256,11 @@ export function gotCount(state: GameState, chapter: Chapter): number {
   return chapter.items.filter((it) => state.items[it.id]).length
 }
 
-// Raison de verrouillage d'un choix, ou null si jouable.
-export function choiceLockReason(state: GameState, choice: Choice, steps: number): string | null {
+// Raison de verrouillage d'un choix, ou null si jouable. Le timing des objectifs
+// est désormais géré par les zones, donc seul le coût en argent verrouille.
+export function choiceLockReason(state: GameState, choice: Choice): string | null {
   const cost = choice.effect.argent ?? 0
   if (cost < 0 && state.argent + cost < 0) return 'Trop cher'
-  if (choice.effect.give?.length && state.step < half(steps)) return 'Trop tôt'
   return null
 }
 
@@ -263,51 +287,42 @@ export function eventGrants(e: GameEvent): Set<string> {
 
 export const isItemEvent = (e: GameEvent): boolean => eventGrants(e).size > 0
 
-const range = (a: number, b: number) => Array.from({ length: b - a }, (_, i) => a + i)
-
-// Construit la partie. Objectifs "du milieu" entre la mi-parcours et l'avant-dernière
-// mission, objectif FINAL uniquement à la toute dernière. Source d'argent garantie tôt.
+// Construit la partie zone par zone, dans l'ordre. Chaque zone tire ses fillers
+// (l'argent est garanti dans la première zone) et place son objectif à la fin.
 export function buildDeck(chapter: Chapter): GameEvent[] {
-  const { events, steps } = chapter
-  const H = half(steps)
-  const ids = chapter.items.map((i) => i.id)
-  const finalId = ids[ids.length - 1]
-  const midIds = ids.slice(0, -1)
+  const deck: GameEvent[] = []
+  const used = new Set<string>() // dédup sur toute la partie (pools partagés réutilisables)
 
-  const money = events.find((e) => e.money)
-  const fillers = events.filter((e) => !isItemEvent(e) && !e.money)
+  chapter.zones.forEach((zone, zi) => {
+    const goal = zone.goals?.length
+      ? shuffle(zone.goals.filter((g) => !used.has(g.id)))[0]
+      : undefined
+    const fillerTarget = goal ? zone.steps - 1 : zone.steps
 
-  const deck: (GameEvent | null)[] = new Array(steps).fill(null)
-  const used = new Set<string>()
-  const place = (i: number, e?: GameEvent) => {
-    if (e && i !== undefined && !used.has(e.id)) {
-      deck[i] = e
-      used.add(e.id)
+    const chosen: GameEvent[] = []
+    const take = (e?: GameEvent) => {
+      if (e && !used.has(e.id)) {
+        chosen.push(e)
+        used.add(e.id)
+      }
     }
-  }
 
-  // Objectif final, dernière mission.
-  place(steps - 1, shuffle(events.filter((e) => eventGrants(e).has(finalId)))[0])
+    // Argent garanti dans la première zone.
+    if (zi === 0) take(zone.fillers.find((e) => e.money))
+    for (const e of shuffle(zone.fillers)) {
+      if (chosen.length >= fillerTarget) break
+      take(e)
+    }
 
-  // Objectifs intermédiaires, une occasion chacun.
-  const midSlots = shuffle(range(H, steps - 1))
-  midIds.forEach((id, k) => {
-    const src = shuffle(events.filter((e) => eventGrants(e).has(id) && !used.has(e.id)))[0]
-    if (midSlots[k] !== undefined) place(midSlots[k], src)
+    const ordered = shuffle(chosen)
+    if (goal) {
+      ordered.push(goal)
+      used.add(goal.id)
+    }
+    deck.push(...ordered)
   })
 
-  // Argent garanti en première moitié.
-  if (money) {
-    const slot = shuffle(range(0, H)).filter((i) => !deck[i])[0]
-    if (slot !== undefined) place(slot, money)
-  }
-
-  // Le reste : fillers, sans doublon.
-  const fill = shuffle(fillers).filter((e) => !used.has(e.id))
-  let fi = 0
-  for (let i = 0; i < steps; i++) if (!deck[i]) deck[i] = fill[fi++] ?? null
-
-  return deck.filter(Boolean) as GameEvent[]
+  return deck
 }
 
 export function isDead(state: GameState): StatKey | null {

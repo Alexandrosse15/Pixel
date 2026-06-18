@@ -293,7 +293,83 @@ export const STORE: GameEvent[] = [
   },
 ]
 
-// Source d'argent : garantie en première moitié par le moteur.
+// ── Transports en commun. ──
+export const TRANSPORT: GameEvent[] = [
+  {
+    id: 'metro_panne',
+    sprite: 'mamie',
+    decor: 'arret_bus',
+    prop: 'horloge',
+    title: 'Le métro à quai',
+    text: 'Annonce grésillante : "Trafic interrompu sur la ligne." La foule hésite sur le quai.',
+    choices: [
+      { label: 'Attendre la reprise', effect: { temps: -12, energie: 5 }, result: 'Le trafic reprend, mais tu as perdu un temps fou.' },
+      { label: 'Remonter et courir', effect: { temps: -6, energie: -9 }, result: 'Tu remontes à la surface au pas de course. Les mollets chauffent.' },
+    ],
+  },
+  {
+    id: 'bus_bonde',
+    sprite: 'collegue',
+    decor: 'arret_bus',
+    prop: 'sac',
+    title: 'Le bus bondé',
+    text: 'Le bus arrive plein à craquer. Le chauffeur hésite à ouvrir les portes.',
+    choices: [
+      { label: 'Te tasser à l’intérieur', effect: { temps: -5, energie: -7, moral: -3 }, result: 'Sardine humaine, coude dans les côtes. Mais tu avances.' },
+      { label: 'Attendre le suivant', effect: { temps: -11, energie: 3 }, result: 'Tu laisses passer. Le prochain est dans dix longues minutes.' },
+    ],
+  },
+  {
+    id: 'controleur',
+    sprite: 'vigile',
+    decor: 'arret_bus',
+    prop: 'ticket',
+    title: 'Le contrôle surprise',
+    text: 'Contrôleurs à la sortie. Tu fouilles tes poches à la recherche de ton titre de transport.',
+    choices: [
+      { label: 'Montrer ton ticket', effect: { temps: -5 }, result: 'Tout est en règle. Tu passes, soulagé.' },
+      { label: 'Le chercher partout', effect: { temps: -9, moral: -5 }, result: 'Tu le retrouves froissé au fond. Sueurs froides pour rien.' },
+    ],
+  },
+  {
+    id: 'correspondance',
+    sprite: 'papa',
+    decor: 'arret_bus',
+    prop: 'horloge',
+    title: 'La correspondance ratée',
+    text: 'Tu sprintes dans le couloir pour ta correspondance. Les portes commencent à sonner.',
+    choices: [
+      { label: 'Sauter dans la rame', effect: { temps: 6, energie: -8 }, result: 'Tu te glisses entre les portes au dernier centième. Gagné !' },
+      { label: 'Laisser passer, prudent', effect: { temps: -8, energie: 2 }, result: 'Trop risqué. Tu attends la suivante, frustré.' },
+    ],
+  },
+  {
+    id: 'musicien_metro',
+    sprite: 'barman',
+    decor: 'arret_bus',
+    prop: 'piece',
+    title: 'Le musicien du wagon',
+    text: 'Un accordéoniste s’installe et entame le même air que d’habitude, juste devant toi.',
+    choices: [
+      { label: 'Donner une pièce', effect: { temps: -2, argent: -1, moral: 6 }, result: 'Un sourire d’artiste. Le voyage est moins gris.' },
+      { label: 'Fixer le vide', effect: { temps: -2, moral: -3 }, result: 'Tu fais celui qui n’entend rien. L’air te trotte dans la tête tout le trajet.' },
+    ],
+  },
+  {
+    id: 'greve',
+    sprite: 'collegue',
+    decor: 'arret_bus',
+    prop: 'journal',
+    title: 'Le préavis de grève',
+    text: 'Un panneau annonce un service réduit. Un seul train sur trois, et tous bondés.',
+    choices: [
+      { label: 'Tenter le coup quand même', effect: { temps: -7, energie: -5 }, result: 'Tu finis par en attraper un. Compressé, mais en mouvement.' },
+      { label: 'Commander un VTC', effect: { temps: -4, argent: -12 }, result: 'Une voiture en cinq minutes. Le portefeuille trinque, le temps est sauvé.' },
+    ],
+  },
+]
+
+// Source d'argent : garantie dans la première zone par le moteur.
 export const DISTRIBUTEUR: GameEvent = {
   id: 'distributeur',
   sprite: 'papa',
