@@ -46,6 +46,20 @@ L'autre limite tient à sa fraîcheur. Le contenu, encore en cours d'enrichissem
 
 ![The Gate Must Stand, l'intensité d'une vague](/images/gatemuststand/screenshot-4.webp)
 
+## Choisir son héros, bâtir son armée
+
+La rejouabilité repose sur deux piliers. D'abord le choix du guerrier que l'on incarne : chacun impose un style, entre encaissement, dégâts bruts et soutien, et oriente toute la partie dès les premières secondes. Ensuite le recrutement de compagnons, que l'on rallie et fait monter en compétences au fil de la défense. C'est l'imbrication des deux qui crée la matière stratégique : un héros fragile mais offensif demande des alliés tankés pour tenir la porte, un colosse défensif libère au contraire les compagnons pour le dégât.
+
+Les reliques arrachées aux boss viennent couronner l'édifice en faisant évoluer les suivants vers leurs formes ultimes, et c'est là que les meilleures parties décollent. Découvrir qu'une relique transforme un archer lambda en machine à éliminer les vagues, ou qu'une combinaison de deux suivants déclenche une synergie dévastatrice, procure ce petit frisson d'optimisation qui fait revenir. Le jeu récompense l'expérimentation, et chaque run devient une occasion de tester une nouvelle architecture défensive.
+
+![The Gate Must Stand, le choix du héros et des compagnons](/images/gatemuststand/screenshot-5.webp)
+
+## Dans une vague de survivor-likes
+
+Impossible de juger The Gate Must Stand sans le replacer dans son époque. Depuis le raz-de-marée des survivor-likes, ces jeux où l'on survit à des hordes en accumulant des améliorations automatiques, le genre est devenu l'un des plus encombrés du marché indépendant. The Gate Must Stand y apporte sa touche, l'angle première ligne et la défense d'un point unique, mais il reste fondamentalement bâti sur des fondations que des dizaines d'autres jeux ont déjà posées.
+
+C'est tout l'enjeu pour un titre comme celui-ci : exister par sa personnalité plutôt que par sa simple compétence. Sa boucle est solide, son rythme bien réglé, mais il lui manque ce détail de génie qui transformerait un bon défouloir en obsession. Édité par Yogscast Games et encore en cours d'enrichissement, il a le temps de trouver cette étincelle. En l'état, c'est une valeur sûre du genre, pas un bouleversement.
+
 ## Ce qu'on retient
 
 The Gate Must Stand est un roguelite honnête et fun, qui a la bonne idée de vous mettre en première ligne et de rythmer ses parties par des boss réguliers et des reliques qui font évoluer vos troupes. Pour une session courte et nerveuse, il remplit son contrat sans broncher, et la chasse aux synergies accroche comme il faut.

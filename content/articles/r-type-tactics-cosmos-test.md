@@ -54,6 +54,14 @@ Ce sont des frictions réelles, et la presse les a pointées à juste titre. Ell
 
 ![R-Type Tactics I•II Cosmos, un champ de bataille spatial](/images/rtypetacticscosmos/screenshot-4.webp)
 
+## Deux campagnes, et de quoi y revenir
+
+L'autre force de la compilation, c'est qu'elle ne se contente pas d'empiler deux jeux : elle leur donne des raisons de coexister. Le premier opus pose les fondations du tactical R-Type, plus rigide, plus défensif, fidèle à l'esprit d'origine. Le second, Operation Bitter Chocolate, pousse la formule plus loin et ajoute cette dimension narrative à embranchements qui change la nature de l'expérience. Passer de l'un à l'autre, c'est mesurer le chemin parcouru par la série entre ses deux itérations, et c'est passionnant pour qui s'intéresse au game design.
+
+Les choix de dialogue et les missions alternatives nourrissent une vraie rejouabilité : une campagne ne montre pas tout, et reprendre en infléchissant ses décisions ouvre d'autres trajectoires. Le jeu en ligne, ajouté pour l'occasion, prolonge encore la durée de vie en confrontant les flottes des joueurs, là où les versions PSP restaient cantonnées au solo. Avec les douze missions inédites et les scénarios promis en DLC, il y a ici de quoi engloutir des dizaines d'heures sans jamais retomber deux fois sur la même configuration. Pour une compilation rétro, cette générosité force le respect.
+
+![R-Type Tactics I•II Cosmos, la Force satellite en action](/images/rtypetacticscosmos/screenshot-5.webp)
+
 ## Ce qu'on retient
 
 R-Type Tactics I•II Cosmos est une édition de rêve pour l'amateur de tactical : deux jeux cultes, dont un enfin traduit après seize ans, refaits avec un soin visuel remarquable, enrichis de missions inédites, de narration à embranchements et de jeu en ligne. La profondeur stratégique est intacte, la générosité de contenu indéniable, et le simple fait de pouvoir enfin jouer Operation Bitter Chocolate justifie presque l'achat à lui seul.

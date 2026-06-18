@@ -36,6 +36,20 @@ Ce qui sauve Glimvale de la masse des petits builders, c'est son angle. Détourn
 
 ![Glimvale, les aventuriers qui peuplent le monde](/images/glimvale/screenshot-3.webp)
 
+## Les mécaniques idle, le moteur tranquille
+
+Ce qui distingue Glimvale du pur city-builder, c'est sa dimension idle. Le village ne s'arrête pas de vivre quand vous lâchez la souris : il continue de produire, d'accueillir, de tourner en arrière-plan. Revenir après une pause pour constater les progrès, réinvestir, réaménager, fait partie du plaisir, et colle parfaitement à un jeu pensé pour se jouer par petites touches plutôt qu'en sessions marathon. C'est la mécanique idéale pour un jeu doudou : il respecte votre temps et ne vous punit jamais de partir.
+
+La décoration occupe une place centrale, et elle est traitée avec soin. Agencer son village, choisir l'emplacement de chaque bâtiment, soigner l'esthétique d'ensemble : Glimvale comprend que dans le cosy, la beauté de ce qu'on bâtit est une récompense en soi. On ne joue pas pour gagner, on joue pour contempler ce petit monde qu'on a façonné, et le voir grouiller d'aventuriers qui vaquent à leurs activités. Cette satisfaction esthétique est le vrai carburant du jeu.
+
+![Glimvale, la décoration et l'agencement du village](/images/glimvale/screenshot-5.webp)
+
+## Deux Français et une vague cosy
+
+Il faut remettre Glimvale dans son contexte pour l'apprécier à sa juste valeur. C'est l'oeuvre de Milkshake Games, un studio de deux personnes basé en France. À cette échelle, le niveau de finition, la cohérence visuelle et la solidité de la boucle de jeu sont remarquables. On est loin du projet bâclé : c'est une petite production soignée, qui sait exactement ce qu'elle veut être et l'exécute proprement.
+
+Le jeu s'inscrit dans la grande vague des jeux cosy, ces titres qui privilégient le réconfort et la détente à la difficulté et à la compétition. C'est un créneau porteur mais exigeant, où la concurrence est rude et où la moindre faiblesse de charme se paie cash. Glimvale s'en sort par son identité, ce détournement malin de l'imagerie MMO, qui lui donne un angle que beaucoup de ses concurrents n'ont pas. Pour un duo, se faire une place dans ce paysage encombré avec une proposition aussi nette est déjà une réussite en soi.
+
 ## Ce qui le limite
 
 Soyons honnêtes sur ce qu'on tient. Glimvale est, par nature et par moyens, un jeu léger. La boucle cosy-idle est plaisante, mais elle montre assez vite ses limites de profondeur : une fois le rythme de construction et de production assimilé, les décisions se raréfient, et la progression peut glisser vers la routine. On l'apprécie par sessions tranquilles davantage que sur de longues plages, et l'absence de vrai défi, si elle est assumée, finira par lasser ceux qui cherchent de la matière à mâcher.

@@ -9,6 +9,7 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7
 image_color: "from-green-950 via-emerald-950 to-zinc-950"
+coverImage: "/images/cricketcaptain2026/screenshot-1.webp"
 gameName: "Cricket Captain 2026"
 featured: false
 ---
@@ -25,11 +26,15 @@ La nouveauté phare, c'est l'explosion du nombre d'équipes jouables. Quarante-c
 
 Concrètement, ça change tout pour qui aime la gestion : il n'y a jamais eu autant de manières de démarrer une carrière. Bâtir une dynastie au Sri Lanka, dominer les classements au Zimbabwe ou monter une équipe en Irlande sont désormais des trajectoires viables, et chacune a sa propre saveur. La base de données grimpe à 197 équipes domestiques jouables et plus de 8 000 joueurs, avec 23 nouveaux stades et leurs statistiques. Pour un jeu de gestion, cette profondeur de données, c'est le nerf de la guerre.
 
+![Cricket Captain 2026, le choix des nations et équipes](/images/cricketcaptain2026/screenshot-2.webp)
+
 ## Un moteur affûté et une saison anglaise chargée
 
 Côté terrain, le moteur de match a été amélioré sur tous les formats, et le rendu 3D gagne en fluidité, avec des animations plus douces et de meilleures transitions entre les actions à l'écran. On ne parle pas d'un bond générationnel, mais d'un raffinement qui rend les temps forts plus lisibles et plus agréables à suivre, ce qui compte quand on enchaîne les rencontres.
 
 Le millésime colle aussi à l'actualité avec un été international anglais bien rempli : séries de Test à domicile contre la Nouvelle-Zélande et le Pakistan, et séries en format court contre l'Inde et le Sri Lanka. De quoi donner un cadre concret et reconnaissable à ceux qui suivent le calendrier réel, et un terrain de jeu structuré aux néophytes.
+
+![Cricket Captain 2026, un temps fort en 3D](/images/cricketcaptain2026/screenshot-3.webp)
 
 ## Les outils qui font la différence
 
@@ -37,11 +42,21 @@ C'est souvent dans les petits ajouts qu'une édition annuelle se justifie, et Cr
 
 L'éditeur de joueurs, lui, a été étoffé sur la base des retours de la communauté, avec un contrôle des départs à la retraite par type de match. Et surtout, on peut désormais choisir de gérer au niveau international, domestique, ou les deux, format par format. Cette souplesse est exactement ce qu'on attend d'une simu mûre : elle s'adapte au temps et à l'envie de chacun, du gestionnaire obsessionnel au joueur du dimanche.
 
+![Cricket Captain 2026, les éditeurs de personnalisation](/images/cricketcaptain2026/screenshot-4.webp)
+
 ## Le confort, ce progrès qu'on oublie de saluer
 
 Un point qu'on ne remarque que quand il manque : la fluidité. Cricket Captain 2026 accélère les contrats, les temps de sauvegarde et le prédicteur de score, et redessine l'écran de match pour une lecture plus claire et plus rapide. Résultat, on progresse dans les saisons sans s'enliser dans les menus, et on passe plus de temps sur les décisions qui comptent. Le jeu en réseau a aussi été amélioré, et la commande s'enrichit de nouveaux commentaires signés Daniel Norcross.
 
 À cela s'ajoutent des classements internationaux recalculés sur les quatre dernières années, des classements de joueurs mis à jour avec des données historiques, et une pelletée de modes : tournois autonomes en One Day, Asia Trophy, Coupes du monde en 20 overs, World XI, équipes de légende et séries personnalisées. Le Test Championship est à jour pour 2026. Bref, du contenu pour des centaines d'heures.
+
+![Cricket Captain 2026, les modes et tournois](/images/cricketcaptain2026/screenshot-5.webp)
+
+## La rejouabilité, le vrai juge
+
+Ce qui fait la longévité d'une simu de gestion, ce n'est pas une saison, c'est la dixième. Et sur ce terrain, Cricket Captain 2026 a de quoi tenir. La possibilité de choisir, format par format, entre carrière internationale, domestique ou les deux, multiplie les manières de rejouer : on peut se concentrer sur le redressement d'une petite nation, viser le sommet du Test Championship, ou tout mener de front. Chaque nouvelle nation jouable est, de fait, une nouvelle campagne avec ses propres contraintes économiques et son vivier de joueurs.
+
+Les modes annexes prolongent encore le plaisir pour qui veut souffler entre deux carrières : monter une équipe de légende, organiser une Coupe du monde en format court, ou s'inventer des World XI. C'est cette densité d'options, plus que n'importe quel ajout cosmétique, qui justifie qu'on garde le jeu installé sur des années. Pour le mordu de gestion, c'est un puits sans fond.
 
 ## Ce qui le limite
 
