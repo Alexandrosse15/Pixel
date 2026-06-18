@@ -277,32 +277,54 @@ export default function Game() {
               {phase === 'playing' && (
                 <>
                   <p className="mb-6 leading-relaxed text-ink-secondary">{event.text}</p>
-                  <div className="flex flex-col gap-2.5">
-                    {event.choices.map((c, i) => {
-                      const reason = choiceLockReason(state, c)
-                      return (
-                        <button
-                          key={i}
-                          disabled={!!reason}
-                          onClick={() => choose(c)}
-                          className="group flex items-center justify-between gap-3 rounded-sm border border-line bg-bg-elevated px-4 py-3 text-left transition-all hover:border-brand hover:bg-bg-base disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:border-line"
-                        >
-                          <span className="font-body text-sm text-ink-primary group-hover:text-white">
-                            {c.label}
-                          </span>
-                          {reason ? (
-                            <span className="shrink-0 font-mono text-[10px] uppercase text-ink-muted">
-                              {reason}
+                  {event.choices.every((c) => choiceLockReason(state, c)) ? (
+                    // Aucun choix jouable (plus assez d'argent) : défaite, pas de blocage.
+                    <div
+                      className="rounded-sm border border-brand/40 bg-brand/10 p-5 text-center"
+                      style={{ animation: 'ic-fade 0.35s ease-out' }}
+                    >
+                      <p className="mb-1 font-display text-xs uppercase tracking-widest text-brand">
+                        Défaite
+                      </p>
+                      <p className="mb-5 leading-relaxed text-ink-secondary">
+                        Le portefeuille vide. Plus un sou pour payer quoi que ce soit, et le panier
+                        à moitié plein. La mission s&apos;arrête ici : tu rentres bredouille.
+                      </p>
+                      <button
+                        onClick={start}
+                        className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
+                      >
+                        Recommencer
+                      </button>
+                    </div>
+                  ) : (
+                    <div className="flex flex-col gap-2.5">
+                      {event.choices.map((c, i) => {
+                        const reason = choiceLockReason(state, c)
+                        return (
+                          <button
+                            key={i}
+                            disabled={!!reason}
+                            onClick={() => choose(c)}
+                            className="group flex items-center justify-between gap-3 rounded-sm border border-line bg-bg-elevated px-4 py-3 text-left transition-all hover:border-brand hover:bg-bg-base disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:border-line"
+                          >
+                            <span className="font-body text-sm text-ink-primary group-hover:text-white">
+                              {c.label}
                             </span>
-                          ) : (
-                            <span className="font-display text-brand opacity-0 transition-opacity group-hover:opacity-100">
-                              &rarr;
-                            </span>
-                          )}
-                        </button>
-                      )
-                    })}
-                  </div>
+                            {reason ? (
+                              <span className="shrink-0 font-mono text-[10px] uppercase text-ink-muted">
+                                {reason}
+                              </span>
+                            ) : (
+                              <span className="font-display text-brand opacity-0 transition-opacity group-hover:opacity-100">
+                                &rarr;
+                              </span>
+                            )}
+                          </button>
+                        )
+                      })}
+                    </div>
+                  )}
                 </>
               )}
 

@@ -134,7 +134,7 @@ export const MAX_STEPS = 16
 export const HALF = Math.ceil(MAX_STEPS / 2)
 
 export const INITIAL_STATE: GameState = {
-  temps: 108,
+  temps: 100,
   energie: 78,
   argent: 42,
   moral: 70,
@@ -237,30 +237,30 @@ export function eventGrants(e: GameEvent): Set<'couches' | 'lait'> {
 
 export const isItemEvent = (e: GameEvent): boolean => eventGrants(e).size > 0
 
-// Construit la partie. Rythme voulu : aucun item avant la mi-parcours, un
-// premier item récupérable au milieu (2 occasions), et le SECOND item
-// uniquement à la toute dernière mission. Toujours gagnable, mais tendu.
+// Construit la partie. Rythme voulu : aucun item avant la mi-parcours, les
+// COUCHES récupérables au milieu (missions HALF+1 à l'avant-dernière), et le
+// LAIT uniquement à la toute dernière mission. Un distributeur est garanti en
+// première moitié pour qu'on ait toujours de quoi payer : pas de softlock argent.
 export function buildDeck(pool: GameEvent[]): GameEvent[] {
-  const fillers = pool.filter((e) => !isItemEvent(e))
-  const couchesSrc = pool.filter((e) => eventGrants(e).has('couches'))
-  const laitSrc = pool.filter((e) => eventGrants(e).has('lait'))
-
-  // Tirage : l'un des deux items sera "du milieu", l'autre "final".
-  const couchesFirst = Math.random() < 0.5
-  const midSrc = shuffle(couchesFirst ? couchesSrc : laitSrc)
-  const lastSrc = shuffle(couchesFirst ? laitSrc : couchesSrc)
+  const atm = pool.find((e) => e.id === 'distributeur')
+  const fillers = pool.filter((e) => !isItemEvent(e) && e.id !== 'distributeur')
+  const couchesSrc = shuffle(pool.filter((e) => eventGrants(e).has('couches')))
+  const laitSrc = shuffle(pool.filter((e) => eventGrants(e).has('lait')))
 
   const deck: (GameEvent | null)[] = new Array(MAX_STEPS).fill(null)
 
-  // Item final garanti à la dernière mission.
-  deck[MAX_STEPS - 1] = lastSrc[0]
+  // Lait : second objet, uniquement à la dernière mission.
+  deck[MAX_STEPS - 1] = laitSrc[0]
 
-  // Deux occasions pour l'item du milieu, entre la mission HALF+1 et l'avant-avant-dernière.
-  const midSlots = shuffle(
-    Array.from({ length: MAX_STEPS - 2 - HALF }, (_, i) => HALF + i)
-  )
-  if (midSrc[0] && midSlots[0] !== undefined) deck[midSlots[0]] = midSrc[0]
-  if (midSrc[1] && midSlots[1] !== undefined) deck[midSlots[1]] = midSrc[1]
+  // Couches : premier objet, une occasion entre HALF et l'avant-dernière mission.
+  const midSlots = shuffle(Array.from({ length: MAX_STEPS - 1 - HALF }, (_, i) => HALF + i))
+  deck[midSlots[0]] = couchesSrc[0]
+
+  // Distributeur garanti dans la première moitié (argent dispo avant tout achat).
+  if (atm) {
+    const earlySlots = shuffle(Array.from({ length: HALF }, (_, i) => i)).filter((i) => !deck[i])
+    if (earlySlots[0] !== undefined) deck[earlySlots[0]] = atm
+  }
 
   // Le reste : des fillers, sans doublon.
   const used = new Set(deck.filter(Boolean).map((e) => (e as GameEvent).id))
