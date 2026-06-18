@@ -510,9 +510,35 @@ export default function Game() {
                   Rang {rank.grade} · {rank.label}
                 </p>
               )}
-              <p className="mx-auto mb-6 max-w-md leading-relaxed text-ink-secondary">
+              <p className="mx-auto mb-5 max-w-md leading-relaxed text-ink-secondary">
                 {ending.text}
               </p>
+              {ending.cause && (
+                <p className="mx-auto mb-5 max-w-md rounded-sm border border-brand/40 bg-brand/10 px-4 py-2 text-sm font-medium text-brand">
+                  Pourquoi : {ending.cause}
+                </p>
+              )}
+              {/* Récap des jauges au moment de la fin */}
+              <div className="mx-auto mb-6 grid max-w-sm grid-cols-4 gap-2">
+                {STAT_ORDER.map((s) => {
+                  const v = Math.round(state[s])
+                  const empty = s !== 'argent' && v <= 0
+                  return (
+                    <div key={s} className="rounded-sm border border-line bg-bg-base px-1 py-2 text-center">
+                      <div
+                        className="font-mono text-base font-bold tabular-nums"
+                        style={{ color: empty ? '#FF4500' : STAT_META[s].color }}
+                      >
+                        {v}
+                        {STAT_META[s].unit}
+                      </div>
+                      <div className="font-display text-[9px] uppercase tracking-widest text-ink-muted">
+                        {STAT_META[s].label}
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
               <div className="mb-6 flex flex-wrap justify-center gap-2">
                 <ItemBadge label="Couches" got={state.couches} />
                 <ItemBadge label="Lait en poudre" got={state.lait} />

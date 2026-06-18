@@ -127,6 +127,8 @@ export interface Ending {
   tone: 'win' | 'partial' | 'lose'
   title: string
   text: string
+  // Sur une défaite : pourquoi, en une phrase (temps, énergie, moral ou argent).
+  cause?: string
 }
 
 export const MAX_STEPS = 16
@@ -289,6 +291,7 @@ export function computeEnding(state: GameState): Ending {
     return {
       key: 'timeout',
       tone: 'lose',
+      cause: 'Jauge de temps à zéro : tu as traîné en route et le délai a explosé.',
       title: 'Le coup de fil',
       text: pick([
         "Ton téléphone vibre. C'est elle. Quatorze appels manqués. Tu rentres les mains à moitié vides et l'oreille déjà rouge.",
@@ -300,6 +303,7 @@ export function computeEnding(state: GameState): Ending {
     return {
       key: 'collapse',
       tone: 'lose',
+      cause: 'Jauge d’énergie à zéro : ton corps a lâché avant la ligne d’arrivée.',
       title: 'Panne sèche',
       text: pick([
         "Tu t'assois sur un plot en béton du parking. Juste cinq minutes. Tu te réveilles, le supermarché a fermé.",
@@ -311,6 +315,7 @@ export function computeEnding(state: GameState): Ending {
     return {
       key: 'giveup',
       tone: 'lose',
+      cause: 'Jauge de moral à zéro : tu as craqué et tout abandonné.',
       title: 'Abandon en rase campagne',
       text: pick([
         "Tu poses ton panier au milieu du rayon. Tant pis. Le bébé portera une serviette pliée, ce sera très bien.",
@@ -345,11 +350,17 @@ export function computeEnding(state: GameState): Ending {
       ]),
     }
   }
+  const moneyCause =
+    state.argent < 15
+      ? "Plus assez d'argent : tu as trop dépensé en route pour payer ce qu'il restait à acheter."
+      : 'Occasion manquée : tu n’as pas saisi le bon moment pour remplir le panier.'
+
   if (got === 1) {
     const manque = state.couches ? 'le lait en poudre' : 'les couches'
     return {
       key: 'partial',
       tone: 'partial',
+      cause: moneyCause,
       title: 'Le demi-sel',
       text: pick([
         `Tu rapportes la moitié de la mission. Il manque ${manque}. Le regard qu'elle te lance pèse plus lourd que le sac que tu n'as pas rempli.`,
@@ -360,6 +371,7 @@ export function computeEnding(state: GameState): Ending {
   return {
     key: 'empty',
     tone: 'lose',
+    cause: moneyCause,
     title: 'Retour bredouille',
     text: pick([
       "Trois heures dehors. Aucune couche. Aucun lait. Tu rentres avec un paquet de chips et beaucoup d'explications à donner.",
