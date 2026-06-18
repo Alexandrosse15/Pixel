@@ -110,7 +110,7 @@ export const CHAPTER_4: Chapter = {
   kicker: 'Chapitre 4',
   title: 'La fête des mères',
   intro:
-    "C'est la fête des mères et tu n'as rien prévu. Ta femme lave les enfants et te laisse trente minutes, montre en main, pour filer chercher des roses au marché. Encore faut-il traverser la ville, survivre aux transports, fendre le marché, dénicher le bon bouquet et rentrer avant qu'elle ne remarque ton absence.",
+    "C'est la fête des mères et tu n'as rien prévu. Pendant que ta femme est occupée à laver les enfants dans la salle de bain, tu saisis ta fenêtre : t'éclipser en douce pour filer chercher des roses au marché et lui faire croire que tu y pensais depuis des jours. Traverser la ville, survivre aux transports, fendre le marché, dénicher le bon bouquet et être rentré avant qu'elle ne remarque ton absence.",
   goal: 'rapporter les roses à temps',
   items: [{ id: 'roses', label: 'Les roses', prop: 'roses' }],
   zones: [
