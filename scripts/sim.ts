@@ -1,103 +1,95 @@
-/* Simulation d'équilibrage (hors build Next). Lancer : npx tsx scripts/sim.ts */
+/* Simulation d'équilibrage multi-chapitres. Lancer : npx tsx scripts/sim.ts */
 import {
   buildDeck,
   applyChoice,
   applyEffect,
   isDead,
+  hasAll,
+  gotCount,
   choiceLockReason,
   bonusUsable,
-  BONUSES,
-  INITIAL_STATE,
+  computeRank,
+  initialState,
+  type Chapter,
   type GameState,
   type GameEvent,
   type Choice,
 } from '../app/creation-equipe/engine'
-import { EVENTS } from '../app/creation-equipe/events'
+import { CHAPTERS } from '../app/creation-equipe/chapters'
 
 const N = 30000
 
-function smartChoose(state: GameState, ev: GameEvent): Choice {
-  const usable = ev.choices.filter((c) => !choiceLockReason(state, c))
-  if (usable.length === 0) return ev.choices[0]
-  const items = usable.filter(
-    (c) => (!state.couches && c.effect.couches) || (!state.lait && c.effect.lait)
-  )
+function smart(state: GameState, ev: GameEvent, ch: Chapter): Choice {
+  const usable = ev.choices.filter((c) => !choiceLockReason(state, c, ch.steps))
+  if (!usable.length) return ev.choices[0]
+  const items = usable.filter((c) => c.effect.give?.some((id) => !state.items[id]))
   if (items.length) {
-    // item le moins cher
     items.sort((a, b) => (b.effect.argent ?? 0) - (a.effect.argent ?? 0))
     return items[0]
   }
   let best = usable[0]
-  let bestScore = -Infinity
+  let bs = -1e9
   for (const c of usable) {
-    const a = applyEffect(state, c.effect)
+    const a = applyEffect(applyEffect(state, c.effect), ch.drain)
     const dead = a.temps <= 0 || a.energie <= 0 || a.moral <= 0
-    const score = a.temps + a.energie + 0.6 * a.moral + 0.45 * a.argent + (dead ? -1000 : 0)
-    if (score > bestScore) {
-      bestScore = score
+    const s = a.temps + a.energie + 0.6 * a.moral + 0.45 * a.argent + (dead ? -1000 : 0)
+    if (s > bs) {
+      bs = s
       best = c
     }
   }
   return best
 }
 
-function maybeBonus(state: GameState, ch: Record<string, number>): GameState {
-  let s = state
-  const canette = BONUSES.find((b) => b.key === 'canette')!
-  const skate = BONUSES.find((b) => b.key === 'skateboard')!
-  if (s.energie < 24 && ch.canette > 0 && bonusUsable(s, canette, ch.canette)) {
-    s = applyEffect(s, canette.effect)
-    ch.canette--
-  }
-  if (s.temps < 18 && ch.skateboard > 0 && bonusUsable(s, skate, ch.skateboard)) {
-    s = applyEffect(s, skate.effect)
-    ch.skateboard--
+function maybeBonus(s: GameState, ch: Chapter, charges: Record<string, number>): GameState {
+  for (const b of ch.bonuses) {
+    const boostsEnergy = (b.effect.energie ?? 0) > 0
+    const boostsTime = (b.effect.temps ?? 0) > 0
+    const need = (boostsEnergy && s.energie < 24) || (boostsTime && s.temps < 18)
+    if (need && (charges[b.key] ?? 0) > 0 && bonusUsable(s, b, charges[b.key])) {
+      s = applyEffect(s, b.effect)
+      charges[b.key]--
+    }
   }
   return s
 }
 
-function play(smart: boolean) {
-  const deck = buildDeck(EVENTS)
-  let state: GameState = { ...INITIAL_STATE }
-  const ch: Record<string, number> = { skateboard: 2, canette: 2 }
+function play(ch: Chapter, smartPlay: boolean) {
+  const deck = buildDeck(ch)
+  let s = initialState(ch)
+  const charges: Record<string, number> = Object.fromEntries(ch.bonuses.map((b) => [b.key, b.charges]))
   for (let i = 0; i < deck.length; i++) {
-    if (smart) state = maybeBonus(state, ch)
-    const ev = deck[i]
-    const choice = smart
-      ? smartChoose(state, ev)
-      : ev.choices[Math.floor(Math.random() * ev.choices.length)]
-    state = applyChoice(state, choice)
-    if (isDead(state)) return { result: 'dead', state }
-    if (state.couches && state.lait) return { result: 'win', state }
+    if (smartPlay) s = maybeBonus(s, ch, charges)
+    const c = smartPlay ? smart(s, deck[i], ch) : deck[i].choices[Math.floor(Math.random() * deck[i].choices.length)]
+    s = applyChoice(s, c, ch.drain)
+    if (isDead(s)) return { result: 'dead', s }
+    if (hasAll(s, ch)) return { result: 'win', s }
   }
-  const got = (state.couches ? 1 : 0) + (state.lait ? 1 : 0)
-  return { result: got === 2 ? 'win' : got === 1 ? 'partial' : 'empty', state }
+  const got = gotCount(s, ch)
+  return { result: got === ch.items.length ? 'win' : got > 0 ? 'partial' : 'empty', s }
 }
 
-function run(smart: boolean) {
+function run(ch: Chapter, smartPlay: boolean) {
   const tally: Record<string, number> = { win: 0, partial: 0, dead: 0, empty: 0 }
-  const sums = { temps: 0, energie: 0, argent: 0, moral: 0 }
   let wins = 0
+  let tTemps = 0
   for (let i = 0; i < N; i++) {
-    const r = play(smart)
+    const r = play(ch, smartPlay)
     tally[r.result]++
     if (r.result === 'win') {
       wins++
-      sums.temps += r.state.temps
-      sums.energie += r.state.energie
-      sums.argent += r.state.argent
-      sums.moral += r.state.moral
+      tTemps += r.s.temps
     }
   }
   const pct = (n: number) => ((n / N) * 100).toFixed(1) + '%'
-  const avg = (s: number) => (wins ? (s / wins).toFixed(1) : '-')
-  console.log(`\n=== ${smart ? 'JOUEUR MALIN (avec bonus)' : 'JOUEUR ALEATOIRE'} (n=${N}) ===`)
-  console.log(`  win ${pct(tally.win)} | partial ${pct(tally.partial)} | dead ${pct(tally.dead)} | bredouille ${pct(tally.empty)}`)
+  const tag = smartPlay ? 'malin ' : 'random'
   console.log(
-    `  jauges fin de victoire -> temps ${avg(sums.temps)}  energie ${avg(sums.energie)}  argent ${avg(sums.argent)}  moral ${avg(sums.moral)}`
+    `  [${tag}] win ${pct(tally.win)} | partial ${pct(tally.partial)} | dead ${pct(tally.dead)} | bredouille ${pct(tally.empty)} | temps fin ~${wins ? (tTemps / wins).toFixed(0) : '-'}`
   )
 }
 
-console.log(`start: temps ${INITIAL_STATE.temps} energie ${INITIAL_STATE.energie} argent ${INITIAL_STATE.argent} moral ${INITIAL_STATE.moral}`)
-run(true)
-run(false)
+for (const ch of CHAPTERS) {
+  console.log(`\n=== ${ch.kicker} : ${ch.title} (steps ${ch.steps}, start ${JSON.stringify(ch.start)}) ===`)
+  run(ch, true)
+  run(ch, false)
+}

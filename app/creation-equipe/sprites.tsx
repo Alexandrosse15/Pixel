@@ -332,6 +332,62 @@ function Chien() {
   )
 }
 
+function Maitresse() {
+  return (
+    <g>
+      <ellipse cx="100" cy="215" rx="58" ry="12" fill="#000" opacity="0.25" />
+      <path d="M54 220 Q54 152 100 150 Q146 152 146 220 Z" fill="#C0577A" />
+      <path d="M84 152 L116 152 L114 220 L86 220 Z" fill="#A8456A" />
+      <rect x="90" y="120" width="20" height="22" rx="8" fill={SKIN_DARK} />
+      <circle cx="100" cy="94" r="38" fill={SKIN} />
+      <path d="M62 92 Q62 50 100 50 Q138 50 138 92 Q138 70 100 70 Q62 70 62 92Z" fill="#7A4A2A" />
+      <circle cx="100" cy="58" r="11" fill="#7A4A2A" />
+      <circle cx="86" cy="94" r="8" fill="none" stroke="#3A3A3A" strokeWidth="2.5" />
+      <circle cx="114" cy="94" r="8" fill="none" stroke="#3A3A3A" strokeWidth="2.5" />
+      <line x1="94" y1="94" x2="106" y2="94" stroke="#3A3A3A" strokeWidth="2.5" />
+      <circle cx="86" cy="94" r="3" fill="#2A2A2A" />
+      <circle cx="114" cy="94" r="3" fill="#2A2A2A" />
+      <path d="M90 116 L110 116" stroke="#B5524C" strokeWidth="3" strokeLinecap="round" />
+    </g>
+  )
+}
+
+function Patron() {
+  return (
+    <g>
+      <ellipse cx="100" cy="215" rx="58" ry="12" fill="#000" opacity="0.25" />
+      <path d="M52 220 Q52 150 100 148 Q148 150 148 220 Z" fill="#2C3340" />
+      <path d="M92 150 L108 150 L108 220 L92 220 Z" fill="#F4F4F4" />
+      <path d="M100 150 L94 176 L100 186 L106 176 Z" fill="#C0392B" />
+      <rect x="90" y="118" width="20" height="22" rx="8" fill={SKIN_DARK} />
+      <circle cx="100" cy="92" r="40" fill={SKIN} />
+      <path d="M60 88 Q62 52 100 52 Q138 52 140 88 Q120 72 100 74 Q80 72 60 88Z" fill="#43403B" />
+      <path d="M62 84 Q70 70 84 76" stroke="#9A9A9A" strokeWidth="2" fill="none" />
+      <circle cx="86" cy="92" r="4" fill="#2A2A2A" />
+      <circle cx="114" cy="92" r="4" fill="#2A2A2A" />
+      <path d="M106 82 Q114 79 122 83" stroke="#3A3A3A" strokeWidth="2.5" fill="none" />
+      <path d="M88 112 Q100 108 112 112" stroke="#7A4B2E" strokeWidth="3" fill="none" strokeLinecap="round" />
+    </g>
+  )
+}
+
+function Vendeur() {
+  return (
+    <g>
+      <ellipse cx="100" cy="215" rx="58" ry="12" fill="#000" opacity="0.25" />
+      <path d="M54 220 Q54 152 100 150 Q146 152 146 220 Z" fill="#9B59B6" />
+      <path d="M70 158 L130 158 L128 178 L72 178 Z" fill="#F2C94C" opacity="0.5" />
+      <rect x="92" y="150" width="16" height="14" rx="2" fill="#fff" />
+      <rect x="90" y="120" width="20" height="22" rx="8" fill={SKIN_DARK} />
+      <circle cx="100" cy="94" r="38" fill={SKIN} />
+      <path d="M62 90 Q62 52 100 52 Q138 52 138 90 Q120 74 100 76 Q80 74 62 90Z" fill="#2B2B2B" />
+      <circle cx="87" cy="94" r="4" fill="#2A2A2A" />
+      <circle cx="113" cy="94" r="4" fill="#2A2A2A" />
+      <path d="M86 114 Q100 124 114 114" stroke="#7A4B2E" strokeWidth="3" fill="none" strokeLinecap="round" />
+    </g>
+  )
+}
+
 const SPRITES: Record<SpriteKey, () => JSX.Element> = {
   papa: Papa,
   femme: Femme,
@@ -351,6 +407,9 @@ const SPRITES: Record<SpriteKey, () => JSX.Element> = {
   cycliste: Cycliste,
   collegue: Collegue,
   skateur: Skateur,
+  maitresse: Maitresse,
+  patron: Patron,
+  vendeur: Vendeur,
 }
 
 export function Sprite({ name, className }: { name: SpriteKey; className?: string }) {
@@ -624,6 +683,78 @@ const DECORS: Record<DecorKey, DecorDef> = {
         <rect x="90" y="140" width="120" height="14" rx="6" fill="#56A8FF" opacity="0.4" />
         <rect x="300" y="60" width="60" height="120" fill="#2A3340" />
         <circle cx="40" cy="60" r="12" fill="#F2C94C" opacity="0.5" />
+      </g>
+    ),
+  },
+  ecole: {
+    from: '#2C3E55',
+    to: '#141E2C',
+    shapes: (
+      <g>
+        <rect x="0" y="175" width="400" height="75" fill="#1E2A1A" />
+        <rect x="60" y="50" width="280" height="125" fill="#33465E" />
+        <rect x="170" y="110" width="60" height="65" fill="#1E2A38" />
+        <path d="M50 50 L200 18 L350 50 Z" fill="#56A8FF" opacity="0.5" />
+        {[90, 140, 250, 300].map((x) => (
+          <rect key={x} x={x} y="80" width="30" height="26" fill="#F2C94C" opacity="0.5" />
+        ))}
+        <rect x="20" y="120" width="6" height="55" fill="#4A5566" />
+        <rect x="374" y="120" width="6" height="55" fill="#4A5566" />
+        <path d="M26 130 L374 130" stroke="#4A5566" strokeWidth="3" />
+      </g>
+    ),
+  },
+  bureau: {
+    from: '#2E333C',
+    to: '#15181E',
+    shapes: (
+      <g>
+        <rect x="0" y="168" width="400" height="82" fill="#20242B" />
+        <rect x="40" y="56" width="120" height="80" fill="#1B2733" />
+        <rect x="52" y="68" width="96" height="56" fill="#56A8FF" opacity="0.3" />
+        <rect x="240" y="56" width="120" height="80" fill="#1B2733" />
+        <rect x="252" y="68" width="96" height="56" fill="#3DDC97" opacity="0.25" />
+        <rect x="60" y="150" width="90" height="20" rx="2" fill="#34343F" />
+        <rect x="250" y="150" width="90" height="20" rx="2" fill="#34343F" />
+      </g>
+    ),
+  },
+  magasin_jouets: {
+    from: '#4A2C58',
+    to: '#1F1228',
+    shapes: (
+      <g>
+        <rect x="0" y="162" width="400" height="88" fill="#2A1838" />
+        <rect x="0" y="36" width="400" height="20" fill="#9B59B6" opacity="0.6" />
+        {[30, 110, 190, 270, 350].map((x, i) => (
+          <rect
+            key={x}
+            x={x}
+            y="70"
+            width="50"
+            height="92"
+            rx="4"
+            fill={['#FF6A33', '#56A8FF', '#3DDC97', '#F2C94C', '#E74C6C'][i]}
+            opacity="0.35"
+          />
+        ))}
+      </g>
+    ),
+  },
+  rayon_jouets: {
+    from: '#3A2348',
+    to: '#180E20',
+    shapes: (
+      <g>
+        <rect x="0" y="44" width="400" height="12" fill="#5A4070" />
+        <rect x="0" y="104" width="400" height="12" fill="#5A4070" />
+        <rect x="0" y="164" width="400" height="12" fill="#5A4070" />
+        {[20, 70, 120, 170, 220, 270, 320].map((x, i) => (
+          <g key={x}>
+            <circle cx={x + 17} cy="76" r="13" fill={['#FF6A33', '#56A8FF', '#3DDC97', '#F2C94C'][i % 4]} opacity="0.5" />
+            <rect x={x} y="124" width="34" height="34" rx="4" fill={['#E74C6C', '#9B59B6', '#F2C94C'][i % 3]} opacity="0.45" />
+          </g>
+        ))}
       </g>
     ),
   },
@@ -1002,6 +1133,61 @@ const PROPS: Record<PropKey, () => JSX.Element> = {
       <rect x="38" y="70" width="24" height="8" rx="4" fill="#C0392B" />
       <path d="M46 44 L54 44 L50 56 L56 56 L44 70 L48 58 L42 58 Z" fill="#F2C94C" />
       <rect x="42" y="38" width="4" height="34" fill="#fff" opacity="0.25" />
+    </g>
+  ),
+  cartable: () => (
+    <g>
+      <rect x="28" y="40" width="44" height="42" rx="8" fill="#56A8FF" />
+      <rect x="28" y="52" width="44" height="20" fill="#3D86D6" />
+      <rect x="40" y="56" width="20" height="14" rx="3" fill="#1E4E7A" />
+      <path d="M36 40 Q36 26 50 26 Q64 26 64 40" fill="none" stroke="#3D86D6" strokeWidth="4" />
+    </g>
+  ),
+  cloche: () => (
+    <g>
+      <path d="M34 66 Q34 36 50 32 Q66 36 66 66 Z" fill="#F2C94C" />
+      <rect x="30" y="66" width="40" height="6" rx="3" fill="#D9A92E" />
+      <circle cx="50" cy="74" r="5" fill="#D9A92E" />
+      <rect x="47" y="24" width="6" height="10" rx="3" fill="#8A6A14" />
+    </g>
+  ),
+  robot: () => (
+    <g>
+      <rect x="36" y="40" width="28" height="26" rx="4" fill="#B0B8C4" />
+      <rect x="40" y="46" width="20" height="10" rx="2" fill="#3DDC97" />
+      <rect x="42" y="66" width="16" height="14" fill="#8A93A0" />
+      <rect x="28" y="48" width="8" height="18" rx="3" fill="#8A93A0" />
+      <rect x="64" y="48" width="8" height="18" rx="3" fill="#8A93A0" />
+      <line x1="50" y1="40" x2="50" y2="30" stroke="#8A93A0" strokeWidth="3" />
+      <circle cx="50" cy="28" r="4" fill="#FF4500" />
+    </g>
+  ),
+  sandwich: () => (
+    <g>
+      <path d="M26 50 Q50 38 74 50 L74 56 L26 56 Z" fill="#E0B36A" />
+      <rect x="26" y="56" width="48" height="6" fill="#7AB648" />
+      <rect x="26" y="60" width="48" height="6" fill="#C0392B" />
+      <path d="M26 66 L74 66 L74 70 Q50 80 26 70 Z" fill="#E0B36A" />
+    </g>
+  ),
+  enfants: () => (
+    <g>
+      <circle cx="38" cy="42" r="12" fill={SKIN} />
+      <path d="M26 80 Q26 58 38 58 Q50 58 50 80 Z" fill="#FF6A33" />
+      <circle cx="34" cy="42" r="2.5" fill="#2A2A2A" />
+      <circle cx="42" cy="42" r="2.5" fill="#2A2A2A" />
+      <circle cx="64" cy="46" r="11" fill={SKIN} />
+      <path d="M53 80 Q53 60 64 60 Q75 60 75 80 Z" fill="#56A8FF" />
+      <circle cx="60" cy="46" r="2.5" fill="#2A2A2A" />
+      <circle cx="68" cy="46" r="2.5" fill="#2A2A2A" />
+    </g>
+  ),
+  jouet: () => (
+    <g>
+      <rect x="28" y="48" width="44" height="34" rx="3" fill="#E74C6C" />
+      <rect x="46" y="48" width="8" height="34" fill="#F2C94C" />
+      <rect x="28" y="60" width="44" height="8" fill="#F2C94C" />
+      <path d="M50 48 Q40 32 32 40 Q40 44 50 48 Q60 32 68 40 Q60 44 50 48Z" fill="#F2C94C" />
     </g>
   ),
 }

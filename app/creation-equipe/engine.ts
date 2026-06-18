@@ -1,4 +1,4 @@
-// Moteur procédural de "Mission Couches" : pioche d'événements, jauges, fins.
+// Moteur procédural multi-chapitres : jauges, pioche d'événements, objectifs, fins.
 
 export type SpriteKey =
   | 'papa'
@@ -19,6 +19,9 @@ export type SpriteKey =
   | 'collegue'
   | 'skateur'
   | 'caissier'
+  | 'maitresse'
+  | 'patron'
+  | 'vendeur'
 
 export type DecorKey =
   | 'maison'
@@ -38,6 +41,10 @@ export type DecorKey =
   | 'epicerie'
   | 'arret_bus'
   | 'allee'
+  | 'ecole'
+  | 'bureau'
+  | 'magasin_jouets'
+  | 'rayon_jouets'
 
 export type PropKey =
   | 'couches'
@@ -83,6 +90,12 @@ export type PropKey =
   | 'liste'
   | 'doudou'
   | 'canette'
+  | 'cartable'
+  | 'cloche'
+  | 'robot'
+  | 'sandwich'
+  | 'enfants'
+  | 'jouet'
 
 export type StatKey = 'temps' | 'energie' | 'argent' | 'moral'
 
@@ -91,10 +104,8 @@ export interface GameState {
   energie: number
   argent: number
   moral: number
-  couches: boolean
-  lait: boolean
+  items: Record<string, boolean>
   step: number
-  seen: string[]
 }
 
 export interface Effect {
@@ -102,8 +113,8 @@ export interface Effect {
   energie?: number
   argent?: number
   moral?: number
-  couches?: boolean
-  lait?: boolean
+  // Objectifs débloqués par ce choix (ids d'items du chapitre).
+  give?: string[]
 }
 
 export interface Choice {
@@ -120,60 +131,14 @@ export interface GameEvent {
   title: string
   text: string
   choices: Choice[]
+  // true = source d'argent garantie en première moitié (anti-softlock).
+  money?: boolean
 }
 
-export interface Ending {
-  key: string
-  tone: 'win' | 'partial' | 'lose'
-  title: string
-  text: string
-  // Sur une défaite : pourquoi, en une phrase (temps, énergie, moral ou argent).
-  cause?: string
-}
-
-export const MAX_STEPS = 16
-// Aucun item (couches/lait) ne peut être obtenu avant cet événement.
-export const HALF = Math.ceil(MAX_STEPS / 2)
-
-export const INITIAL_STATE: GameState = {
-  temps: 98,
-  energie: 78,
-  argent: 42,
-  moral: 70,
-  couches: false,
-  lait: false,
-  step: 0,
-  seen: [],
-}
-
-export const STAT_META: Record<StatKey, { label: string; unit: string; color: string }> = {
-  temps: { label: 'Temps', unit: '%', color: '#FF4500' },
-  energie: { label: 'Énergie', unit: '%', color: '#3DDC97' },
-  argent: { label: 'Argent', unit: '€', color: '#F2C94C' },
-  moral: { label: 'Moral', unit: '%', color: '#56A8FF' },
-}
-
-const clamp = (n: number, min = 0, max = 100) => Math.max(min, Math.min(max, n))
-
-// Applique un effet sans consommer d'événement (utilisé par les bonus).
-export function applyEffect(state: GameState, e: Effect): GameState {
-  return {
-    ...state,
-    temps: clamp(state.temps + (e.temps ?? 0)),
-    energie: clamp(state.energie + (e.energie ?? 0)),
-    moral: clamp(state.moral + (e.moral ?? 0)),
-    argent: Math.max(0, state.argent + (e.argent ?? 0)),
-    couches: state.couches || !!e.couches,
-    lait: state.lait || !!e.lait,
-  }
-}
-
-// Usure inévitable à chaque mission : le dimanche fatigue, le temps file.
-export const STEP_DRAIN: Effect = { temps: -3, energie: -2 }
-
-export function applyChoice(state: GameState, choice: Choice): GameState {
-  const withChoice = applyEffect(state, choice.effect)
-  return { ...applyEffect(withChoice, STEP_DRAIN), step: state.step + 1 }
+export interface ItemDef {
+  id: string
+  label: string
+  prop: PropKey
 }
 
 export interface Bonus {
@@ -184,38 +149,101 @@ export interface Bonus {
   desc: string
 }
 
-// Bonus cliquables : compromis pour augmenter ses chances, en charges limitées.
-export const BONUSES: Bonus[] = [
-  {
-    key: 'skateboard',
-    label: 'Skateboard',
-    effect: { temps: 12, energie: -10 },
-    charges: 2,
-    desc: '+12 temps, -10 énergie',
-  },
-  {
-    key: 'canette',
-    label: 'Canette',
-    effect: { energie: 16, temps: -4 },
-    charges: 2,
-    desc: '+16 énergie, -4 temps',
-  },
-]
+export interface ChapterTheme {
+  accent: string
+  winGradient: string
+  partialGradient: string
+  loseGradient: string
+  heroSprite: SpriteKey
+  loseSprite: SpriteKey
+  introDecor: DecorKey
+  introSprite: SpriteKey
+}
 
-// Un bonus est jouable s'il reste des charges et qu'il ne tue aucune jauge.
+export interface Chapter {
+  id: number
+  kicker: string
+  title: string
+  intro: string
+  goal: string
+  // Objectifs ordonnés : tous sauf le dernier sont "du milieu", le dernier est à la mission finale.
+  items: ItemDef[]
+  events: GameEvent[]
+  bonuses: Bonus[]
+  start: { temps: number; energie: number; argent: number; moral: number }
+  drain: Effect
+  steps: number
+  theme: ChapterTheme
+}
+
+export interface Ending {
+  key: string
+  tone: 'win' | 'partial' | 'lose'
+  title: string
+  text: string
+  cause?: string
+}
+
+export interface Rank {
+  grade: 'S' | 'A' | 'B' | 'C' | 'D'
+  label: string
+}
+
+export const STAT_META: Record<StatKey, { label: string; unit: string; color: string }> = {
+  temps: { label: 'Temps', unit: '%', color: '#FF4500' },
+  energie: { label: 'Énergie', unit: '%', color: '#3DDC97' },
+  argent: { label: 'Argent', unit: '€', color: '#F2C94C' },
+  moral: { label: 'Moral', unit: '%', color: '#56A8FF' },
+}
+
+export const half = (steps: number) => Math.ceil(steps / 2)
+
+export function initialState(chapter: Chapter): GameState {
+  const items: Record<string, boolean> = {}
+  for (const it of chapter.items) items[it.id] = false
+  return { ...chapter.start, items, step: 0 }
+}
+
+const clamp = (n: number, min = 0, max = 100) => Math.max(min, Math.min(max, n))
+
+export function applyEffect(state: GameState, e: Effect): GameState {
+  const items = e.give?.length ? { ...state.items } : state.items
+  if (e.give) for (const id of e.give) items[id] = true
+  return {
+    ...state,
+    temps: clamp(state.temps + (e.temps ?? 0)),
+    energie: clamp(state.energie + (e.energie ?? 0)),
+    moral: clamp(state.moral + (e.moral ?? 0)),
+    argent: Math.max(0, state.argent + (e.argent ?? 0)),
+    items,
+  }
+}
+
+export function applyChoice(state: GameState, choice: Choice, drain: Effect): GameState {
+  const withChoice = applyEffect(state, choice.effect)
+  return { ...applyEffect(withChoice, drain), step: state.step + 1 }
+}
+
+export function hasAll(state: GameState, chapter: Chapter): boolean {
+  return chapter.items.every((it) => state.items[it.id])
+}
+
+export function gotCount(state: GameState, chapter: Chapter): number {
+  return chapter.items.filter((it) => state.items[it.id]).length
+}
+
+// Raison de verrouillage d'un choix, ou null si jouable.
+export function choiceLockReason(state: GameState, choice: Choice, steps: number): string | null {
+  const cost = choice.effect.argent ?? 0
+  if (cost < 0 && state.argent + cost < 0) return 'Trop cher'
+  if (choice.effect.give?.length && state.step < half(steps)) return 'Trop tôt'
+  return null
+}
+
 export function bonusUsable(state: GameState, b: Bonus, charges: number): boolean {
   if (charges <= 0) return false
   const after = applyEffect(state, b.effect)
   return after.temps > 0 && after.energie > 0 && after.moral > 0
-}
-
-// Raison de verrouillage d'un choix, ou null si jouable.
-export function choiceLockReason(state: GameState, choice: Choice): string | null {
-  const cost = choice.effect.argent ?? 0
-  if (cost < 0 && state.argent + cost < 0) return 'Trop cher'
-  const grantsItem = !!choice.effect.couches || !!choice.effect.lait
-  if (grantsItem && state.step < HALF) return 'Trop tôt'
-  return null
 }
 
 const shuffle = <T,>(arr: T[]): T[] => {
@@ -227,50 +255,57 @@ const shuffle = <T,>(arr: T[]): T[] => {
   return r
 }
 
-// Items qu'un événement peut octroyer, déduits de ses choix.
-export function eventGrants(e: GameEvent): Set<'couches' | 'lait'> {
-  const s = new Set<'couches' | 'lait'>()
-  for (const c of e.choices) {
-    if (c.effect.couches) s.add('couches')
-    if (c.effect.lait) s.add('lait')
-  }
+export function eventGrants(e: GameEvent): Set<string> {
+  const s = new Set<string>()
+  for (const c of e.choices) if (c.effect.give) c.effect.give.forEach((id) => s.add(id))
   return s
 }
 
 export const isItemEvent = (e: GameEvent): boolean => eventGrants(e).size > 0
 
-// Construit la partie. Rythme voulu : aucun item avant la mi-parcours, les
-// COUCHES récupérables au milieu (missions HALF+1 à l'avant-dernière), et le
-// LAIT uniquement à la toute dernière mission. Un distributeur est garanti en
-// première moitié pour qu'on ait toujours de quoi payer : pas de softlock argent.
-export function buildDeck(pool: GameEvent[]): GameEvent[] {
-  const atm = pool.find((e) => e.id === 'distributeur')
-  const fillers = pool.filter((e) => !isItemEvent(e) && e.id !== 'distributeur')
-  const couchesSrc = shuffle(pool.filter((e) => eventGrants(e).has('couches')))
-  const laitSrc = shuffle(pool.filter((e) => eventGrants(e).has('lait')))
+const range = (a: number, b: number) => Array.from({ length: b - a }, (_, i) => a + i)
 
-  const deck: (GameEvent | null)[] = new Array(MAX_STEPS).fill(null)
+// Construit la partie. Objectifs "du milieu" entre la mi-parcours et l'avant-dernière
+// mission, objectif FINAL uniquement à la toute dernière. Source d'argent garantie tôt.
+export function buildDeck(chapter: Chapter): GameEvent[] {
+  const { events, steps } = chapter
+  const H = half(steps)
+  const ids = chapter.items.map((i) => i.id)
+  const finalId = ids[ids.length - 1]
+  const midIds = ids.slice(0, -1)
 
-  // Lait : second objet, uniquement à la dernière mission.
-  deck[MAX_STEPS - 1] = laitSrc[0]
+  const money = events.find((e) => e.money)
+  const fillers = events.filter((e) => !isItemEvent(e) && !e.money)
 
-  // Couches : premier objet, une occasion entre HALF et l'avant-dernière mission.
-  const midSlots = shuffle(Array.from({ length: MAX_STEPS - 1 - HALF }, (_, i) => HALF + i))
-  deck[midSlots[0]] = couchesSrc[0]
-
-  // Distributeur garanti dans la première moitié (argent dispo avant tout achat).
-  if (atm) {
-    const earlySlots = shuffle(Array.from({ length: HALF }, (_, i) => i)).filter((i) => !deck[i])
-    if (earlySlots[0] !== undefined) deck[earlySlots[0]] = atm
+  const deck: (GameEvent | null)[] = new Array(steps).fill(null)
+  const used = new Set<string>()
+  const place = (i: number, e?: GameEvent) => {
+    if (e && i !== undefined && !used.has(e.id)) {
+      deck[i] = e
+      used.add(e.id)
+    }
   }
 
-  // Le reste : des fillers, sans doublon.
-  const used = new Set(deck.filter(Boolean).map((e) => (e as GameEvent).id))
+  // Objectif final, dernière mission.
+  place(steps - 1, shuffle(events.filter((e) => eventGrants(e).has(finalId)))[0])
+
+  // Objectifs intermédiaires, une occasion chacun.
+  const midSlots = shuffle(range(H, steps - 1))
+  midIds.forEach((id, k) => {
+    const src = shuffle(events.filter((e) => eventGrants(e).has(id) && !used.has(e.id)))[0]
+    if (midSlots[k] !== undefined) place(midSlots[k], src)
+  })
+
+  // Argent garanti en première moitié.
+  if (money) {
+    const slot = shuffle(range(0, H)).filter((i) => !deck[i])[0]
+    if (slot !== undefined) place(slot, money)
+  }
+
+  // Le reste : fillers, sans doublon.
   const fill = shuffle(fillers).filter((e) => !used.has(e.id))
   let fi = 0
-  for (let i = 0; i < MAX_STEPS; i++) {
-    if (!deck[i]) deck[i] = fill[fi++] ?? null
-  }
+  for (let i = 0; i < steps; i++) if (!deck[i]) deck[i] = fill[fi++] ?? null
 
   return deck.filter(Boolean) as GameEvent[]
 }
@@ -284,7 +319,19 @@ export function isDead(state: GameState): StatKey | null {
 
 const pick = <T,>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)]
 
-export function computeEnding(state: GameState): Ending {
+export function computeRank(state: GameState): Rank {
+  const score = state.temps + state.energie + 0.5 * state.moral + 0.4 * state.argent
+  if (score >= 150) return { grade: 'S', label: 'Sans-faute légendaire' }
+  if (score >= 122) return { grade: 'A', label: 'Maîtrise totale' }
+  if (score >= 98) return { grade: 'B', label: 'Mission bien menée' }
+  if (score >= 76) return { grade: 'C', label: 'Juste à temps' }
+  return { grade: 'D', label: 'Sur le fil du rasoir' }
+}
+
+// Points pour le score cumulé inter-chapitres.
+export const RANK_POINTS: Record<Rank['grade'], number> = { S: 100, A: 80, B: 60, C: 40, D: 25 }
+
+export function computeEnding(state: GameState, chapter: Chapter): Ending {
   const dead = isDead(state)
 
   if (dead === 'temps') {
@@ -292,10 +339,10 @@ export function computeEnding(state: GameState): Ending {
       key: 'timeout',
       tone: 'lose',
       cause: 'Jauge de temps à zéro : tu as traîné en route et le délai a explosé.',
-      title: 'Le coup de fil',
+      title: 'Hors délai',
       text: pick([
-        "Ton téléphone vibre. C'est elle. Quatorze appels manqués. Tu rentres les mains à moitié vides et l'oreille déjà rouge.",
-        "Il est midi passé. La sieste du petit est foutue, et toi avec. Retour à la maison sous escorte vocale.",
+        'Trop tard. Le temps imparti est écoulé et tu n’y es pas. Personne ne te félicitera pour la tentative.',
+        'Le compte à rebours t’a rattrapé. Mission échouée pour quelques minutes de trop.',
       ]),
     }
   }
@@ -306,8 +353,8 @@ export function computeEnding(state: GameState): Ending {
       cause: 'Jauge d’énergie à zéro : ton corps a lâché avant la ligne d’arrivée.',
       title: 'Panne sèche',
       text: pick([
-        "Tu t'assois sur un plot en béton du parking. Juste cinq minutes. Tu te réveilles, le supermarché a fermé.",
-        "Plus une goutte de carburant. Tu rentres en traînant les pieds, vaincu par un dimanche.",
+        'Plus une goutte de carburant. Tu t’écroules sur un banc, vaincu, la mission inachevée.',
+        'Le corps dit stop. Impossible d’avancer plus loin aujourd’hui.',
       ]),
     }
   }
@@ -316,26 +363,28 @@ export function computeEnding(state: GameState): Ending {
       key: 'giveup',
       tone: 'lose',
       cause: 'Jauge de moral à zéro : tu as craqué et tout abandonné.',
-      title: 'Abandon en rase campagne',
+      title: 'Abandon',
       text: pick([
-        "Tu poses ton panier au milieu du rayon. Tant pis. Le bébé portera une serviette pliée, ce sera très bien.",
-        "Tu n'en peux plus. Tu rentres bredouille et tu assumeras. Enfin, tu essaieras.",
+        'Tu n’en peux plus. Tu laisses tomber au milieu de la rue et tu rentres les mains vides.',
+        'Le moral à plat, tu jettes l’éponge. Ce sera pour une autre fois.',
       ]),
     }
   }
 
-  const got = (state.couches ? 1 : 0) + (state.lait ? 1 : 0)
+  const total = chapter.items.length
+  const got = gotCount(state, chapter)
+  const missing = chapter.items.filter((it) => !state.items[it.id]).map((it) => it.label.toLowerCase())
 
-  if (got === 2) {
+  if (got === total) {
     const grade = computeRank(state).grade
     if (grade === 'S' || grade === 'A') {
       return {
         key: 'hero',
         tone: 'win',
-        title: 'Héros du dimanche',
+        title: 'Sans-faute',
         text: pick([
-          "Couches sous le bras, lait en poudre dans la poche. Tu pousses la porte, frais comme un gardon. Elle lève un sourcil, impressionnée. Tu ne diras jamais ce qu'il t'a fallu traverser.",
-          'Mission bouclée sans une égratignure, ou presque. Tu poses les courses sur le plan de travail comme un magicien sort un lapin. Le petit dort déjà. Légende vivante du foyer.',
+          `Tout y est, et de la marge en plus. ${chapter.goal} : plié comme un chef, sans transpirer. Légende vivante.`,
+          'Mission bouclée haut la main, frais comme un gardon. Tu rends ça facile, alors que ça ne l’était pas du tout.',
         ]),
       }
     }
@@ -344,53 +393,34 @@ export function computeEnding(state: GameState): Ending {
       tone: 'win',
       title: 'Mission accomplie',
       text: pick([
-        "Tu as les deux. Tu rentres cabossé, en sueur, mais victorieux. Le petit est sauvé, et ton couple aussi.",
-        "Couches et lait sont là. Personne ne saura le prix réel de cette expédition. C'est ça, l'héroïsme discret.",
-        "Tu franchis la porte sur les rotules, le sac qui pèse une tonne. Mais tout y est. Le reste, c'est du bonus.",
+        `Tu y es. Cabossé, en sueur, mais ${chapter.goal} : c’est fait. Le reste, c’est du bonus.`,
+        'Tout est rentré dans l’ordre, in extremis. Personne ne saura ce qu’il t’a fallu traverser.',
       ]),
     }
   }
+
   const moneyCause =
     state.argent < 15
-      ? "Plus assez d'argent : tu as trop dépensé en route pour payer ce qu'il restait à acheter."
-      : 'Occasion manquée : tu n’as pas saisi le bon moment pour remplir le panier.'
+      ? "Plus assez d'argent : tu as trop dépensé en route pour finir ce qu'il restait."
+      : 'Occasion manquée : tu n’as pas saisi le bon moment pour boucler la mission.'
 
-  if (got === 1) {
-    const manque = state.couches ? 'le lait en poudre' : 'les couches'
+  if (got > 0) {
     return {
       key: 'partial',
       tone: 'partial',
       cause: moneyCause,
-      title: 'Le demi-sel',
-      text: pick([
-        `Tu rapportes la moitié de la mission. Il manque ${manque}. Le regard qu'elle te lance pèse plus lourd que le sac que tu n'as pas rempli.`,
-        `Tu poses fièrement tes courses, puis le silence tombe : il manque ${manque}. La fierté retombe aussi sec.`,
-      ]),
+      title: 'À moitié',
+      text: `Tu rapportes une partie seulement. Il manque ${missing.join(' et ')}. Ça ne suffira pas.`,
     }
   }
   return {
     key: 'empty',
     tone: 'lose',
     cause: moneyCause,
-    title: 'Retour bredouille',
+    title: 'Échec total',
     text: pick([
-      "Trois heures dehors. Aucune couche. Aucun lait. Tu rentres avec un paquet de chips et beaucoup d'explications à donner.",
-      "Mission ratée sur toute la ligne. Tu n'as rien. Tu prépares déjà ton discours dans l'ascenseur.",
+      'Rien. Absolument rien. Tu rentres bredouille, avec un long discours à préparer.',
+      'Mission ratée sur toute la ligne. Tu n’as rien à montrer pour tout ce temps passé.',
     ]),
   }
-}
-
-export interface Rank {
-  grade: 'S' | 'A' | 'B' | 'C' | 'D'
-  label: string
-}
-
-// Note de fin sur une victoire, selon les jauges qu'il te reste au retour.
-export function computeRank(state: GameState): Rank {
-  const score = state.temps + state.energie + 0.5 * state.moral + 0.4 * state.argent
-  if (score >= 150) return { grade: 'S', label: 'Légende du dimanche' }
-  if (score >= 122) return { grade: 'A', label: 'Père au sommet' }
-  if (score >= 98) return { grade: 'B', label: 'Mission bien menée' }
-  if (score >= 76) return { grade: 'C', label: 'Juste à temps' }
-  return { grade: 'D', label: 'Sur le fil du rasoir' }
 }

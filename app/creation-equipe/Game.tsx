@@ -3,9 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { SITE_URL } from '@/lib/config'
 import {
-  BONUSES,
-  INITIAL_STATE,
-  MAX_STEPS,
+  RANK_POINTS,
   STAT_META,
   applyChoice,
   applyEffect,
@@ -14,40 +12,36 @@ import {
   choiceLockReason,
   computeEnding,
   computeRank,
+  hasAll,
+  initialState,
   isDead,
   type Bonus,
+  type Chapter,
   type Choice,
   type Ending,
   type GameEvent,
   type GameState,
   type StatKey,
 } from './engine'
-import { EVENTS } from './events'
+import { CHAPTERS } from './chapters'
 import { Decor, Prop, Sprite } from './sprites'
 
-interface Stats {
-  played: number
-  wins: number
-  best: string
-}
-
-const STATS_KEY = 'cdle-stats'
-const GRADE_ORDER = ['D', 'C', 'B', 'A', 'S']
-const bestGrade = (a: string, b: string | null) => {
-  if (!b) return a
-  return GRADE_ORDER.indexOf(b) > GRADE_ORDER.indexOf(a) ? b : a
-}
-
-type Phase = 'intro' | 'playing' | 'result' | 'ending'
+type Screen = 'select' | 'intro' | 'playing' | 'result' | 'ending'
 
 interface LastResult {
   text: string
   deltas: Partial<Record<StatKey, number>>
-  gotCouches: boolean
-  gotLait: boolean
+  gained: string[]
 }
 
+interface Progress {
+  unlocked: number
+  ranks: Record<string, string>
+}
+
+const PROGRESS_KEY = 'cdle-progress-v2'
 const STAT_ORDER: StatKey[] = ['temps', 'energie', 'argent', 'moral']
+const GRADE_RANK = ['D', 'C', 'B', 'A', 'S']
 
 function StatBar({ stat, value }: { stat: StatKey; value: number }) {
   const meta = STAT_META[stat]
@@ -92,16 +86,15 @@ function ItemBadge({ label, got }: { label: string; got: boolean }) {
 }
 
 export default function Game() {
-  const [phase, setPhase] = useState<Phase>('intro')
-  const [state, setState] = useState<GameState>(INITIAL_STATE)
+  const [screen, setScreen] = useState<Screen>('select')
+  const [chapter, setChapter] = useState<Chapter | null>(null)
+  const [state, setState] = useState<GameState>(() => initialState(CHAPTERS[0]))
   const [event, setEvent] = useState<GameEvent | null>(null)
   const [last, setLast] = useState<LastResult | null>(null)
   const [ending, setEnding] = useState<Ending | null>(null)
   const [runs, setRuns] = useState(0)
-  const [charges, setCharges] = useState<Record<string, number>>(() =>
-    Object.fromEntries(BONUSES.map((b) => [b.key, b.charges]))
-  )
-  const [stats, setStats] = useState<Stats>({ played: 0, wins: 0, best: '-' })
+  const [charges, setCharges] = useState<Record<string, number>>({})
+  const [progress, setProgress] = useState<Progress>({ unlocked: 1, ranks: {} })
   const [copied, setCopied] = useState(false)
   const deck = useRef<GameEvent[]>([])
   const recorded = useRef(0)
@@ -110,67 +103,65 @@ export default function Game() {
     () => (ending?.tone === 'win' ? computeRank(state) : null),
     [ending, state]
   )
+  const totalScore = useMemo(
+    () =>
+      Object.values(progress.ranks).reduce(
+        (sum, g) => sum + (RANK_POINTS[g as keyof typeof RANK_POINTS] ?? 0),
+        0
+      ),
+    [progress]
+  )
 
-  // Charge les stats persistées au montage.
   useEffect(() => {
     try {
-      const raw = localStorage.getItem(STATS_KEY)
-      if (raw) setStats(JSON.parse(raw))
+      const raw = localStorage.getItem(PROGRESS_KEY)
+      if (raw) setProgress(JSON.parse(raw))
     } catch {
-      /* localStorage indisponible : on garde les stats par défaut */
+      /* localStorage indisponible */
     }
   }, [])
 
-  // Enregistre le résultat une seule fois par partie.
+  // Enregistre le résultat une seule fois par partie : débloque la suite et garde le meilleur rang.
   useEffect(() => {
-    if (phase !== 'ending' || !ending || recorded.current === runs) return
+    if (screen !== 'ending' || !ending || !chapter || recorded.current === runs) return
     recorded.current = runs
-    setStats((prev) => {
-      const won = ending.tone === 'win'
-      const next: Stats = {
-        played: prev.played + 1,
-        wins: prev.wins + (won ? 1 : 0),
-        best: won ? bestGrade(prev.best === '-' ? 'D' : prev.best, computeRank(state).grade) : prev.best,
-      }
+    if (ending.tone !== 'win') return
+    const g = computeRank(state).grade
+    setProgress((prev) => {
+      const ranks = { ...prev.ranks }
+      const prevG = ranks[chapter.id]
+      if (!prevG || GRADE_RANK.indexOf(g) > GRADE_RANK.indexOf(prevG)) ranks[chapter.id] = g
+      const unlocked =
+        chapter.id === prev.unlocked && prev.unlocked < CHAPTERS.length
+          ? prev.unlocked + 1
+          : prev.unlocked
+      const next = { unlocked, ranks }
       try {
-        localStorage.setItem(STATS_KEY, JSON.stringify(next))
+        localStorage.setItem(PROGRESS_KEY, JSON.stringify(next))
       } catch {
         /* ignore */
       }
       return next
     })
-  }, [phase, ending, runs, state])
+  }, [screen, ending, chapter, runs, state])
 
-  const share = useCallback(async () => {
-    const url = `${SITE_URL}/creation-equipe`
-    const text = rank
-      ? `J'ai bouclé Mission Couches avec le rang ${rank.grade} (${rank.label}) sur InsertCoins.press. Tu fais mieux ?`
-      : "J'ai tenté Mission Couches sur InsertCoins.press. À toi de jouer."
-    try {
-      if (typeof navigator !== 'undefined' && navigator.share) {
-        await navigator.share({ title: 'Mission Couches', text, url })
-      } else if (typeof navigator !== 'undefined' && navigator.clipboard) {
-        await navigator.clipboard.writeText(`${text} ${url}`)
-        setCopied(true)
-        setTimeout(() => setCopied(false), 2000)
-      }
-    } catch {
-      /* partage annulé */
-    }
-  }, [rank])
+  const openChapter = useCallback((c: Chapter) => {
+    setChapter(c)
+    setScreen('intro')
+  }, [])
 
-  // Construit un nouveau deck à chaque partie : 1re moitié sans items, 2e garantie.
   const start = useCallback(() => {
-    const d = buildDeck(EVENTS)
+    if (!chapter) return
+    const d = buildDeck(chapter)
     deck.current = d
-    setState({ ...INITIAL_STATE, seen: [] })
-    setCharges(Object.fromEntries(BONUSES.map((b) => [b.key, b.charges])))
+    setState(initialState(chapter))
+    setCharges(Object.fromEntries(chapter.bonuses.map((b) => [b.key, b.charges])))
     setEvent(d[0] ?? null)
     setLast(null)
     setEnding(null)
-    setPhase('playing')
+    setScreen('playing')
     setRuns((r) => r + 1)
-  }, [])
+  }, [chapter])
 
   const playBonus = useCallback(
     (b: Bonus) => {
@@ -184,9 +175,9 @@ export default function Game() {
 
   const choose = useCallback(
     (choice: Choice) => {
-      if (!event) return
-      const upd = applyChoice(state, choice)
-
+      if (!event || !chapter) return
+      const before = state
+      const upd = applyChoice(state, choice, chapter.drain)
       setState(upd)
       setLast({
         text: choice.result,
@@ -196,80 +187,182 @@ export default function Game() {
           argent: choice.effect.argent,
           moral: choice.effect.moral,
         },
-        gotCouches: !state.couches && upd.couches,
-        gotLait: !state.lait && upd.lait,
+        gained: (choice.effect.give ?? []).filter((id) => !before.items[id]),
       })
 
-      const dead = isDead(upd)
-      const won = upd.couches && upd.lait
-      const over = upd.step >= MAX_STEPS
-
-      if (dead || won || over) {
-        setEnding(computeEnding(upd))
-        setPhase('ending')
+      if (isDead(upd) || hasAll(upd, chapter) || upd.step >= chapter.steps) {
+        setEnding(computeEnding(upd, chapter))
+        setScreen('ending')
       } else {
-        setPhase('result')
+        setScreen('result')
       }
     },
-    [event, state]
+    [event, state, chapter]
   )
 
   const next = useCallback(() => {
+    if (!chapter) return
     const d = deck.current
     if (state.step >= d.length) {
-      setEnding(computeEnding(state))
-      setPhase('ending')
+      setEnding(computeEnding(state, chapter))
+      setScreen('ending')
       return
     }
     setEvent(d[state.step])
-    setPhase('playing')
-  }, [state])
+    setScreen('playing')
+  }, [state, chapter])
 
-  const progress = useMemo(() => Math.min(100, (state.step / MAX_STEPS) * 100), [state.step])
+  const share = useCallback(
+    async (mode: 'chapter' | 'total') => {
+      const url = `${SITE_URL}/creation-equipe`
+      const text =
+        mode === 'chapter' && rank && chapter
+          ? `J'ai bouclé "${chapter.title}" (${chapter.kicker}) avec le rang ${rank.grade} sur InsertCoins.press. Tu fais mieux ?`
+          : `Score total ${totalScore} pts sur les chapitres de Mission Courses (InsertCoins.press). À toi de jouer.`
+      try {
+        if (typeof navigator !== 'undefined' && navigator.share) {
+          await navigator.share({ title: 'Mission Courses', text, url })
+        } else if (typeof navigator !== 'undefined' && navigator.clipboard) {
+          await navigator.clipboard.writeText(`${text} ${url}`)
+          setCopied(true)
+          setTimeout(() => setCopied(false), 2000)
+        }
+      } catch {
+        /* partage annulé */
+      }
+    },
+    [rank, chapter, totalScore]
+  )
+
+  const accent = chapter?.theme.accent ?? '#FF4500'
 
   return (
     <div className="mx-auto max-w-2xl px-4 md:px-0">
       <div className="overflow-hidden rounded-lg border border-line bg-bg-card shadow-2xl">
-        {phase === 'intro' && (
-          <div className="relative">
-            <div className="relative h-48 w-full overflow-hidden md:h-56">
-              <Decor name="maison" className="absolute inset-0 h-full w-full" />
-              <div className="absolute inset-0 bg-gradient-to-t from-bg-card via-bg-card/40 to-transparent" />
-              <div className="absolute bottom-0 right-6 h-44 w-44 md:h-52 md:w-52">
-                <Sprite name="femme" className="h-full w-full drop-shadow-2xl" />
+        {/* ── Sélection des chapitres ── */}
+        {screen === 'select' && (
+          <div className="p-6 md:p-8">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="font-display text-[11px] uppercase tracking-ultra text-brand">
+                  Mission Courses
+                </p>
+                <h2 className="font-display text-2xl font-black uppercase leading-none text-white md:text-3xl">
+                  Choisis ton chapitre
+                </h2>
+              </div>
+              <div className="text-right">
+                <div className="font-display text-3xl font-black leading-none text-brand">
+                  {totalScore}
+                </div>
+                <div className="font-display text-[9px] uppercase tracking-widest text-ink-muted">
+                  Score total
+                </div>
               </div>
             </div>
-            <div className="p-6 md:p-8">
-              <p className="mb-2 font-display text-[11px] uppercase tracking-ultra text-brand">
-                La création de l&apos;équipe
+
+            <div className="flex flex-col gap-2.5">
+              {CHAPTERS.map((c) => {
+                const locked = c.id > progress.unlocked
+                const best = progress.ranks[c.id]
+                return (
+                  <button
+                    key={c.id}
+                    disabled={locked}
+                    onClick={() => openChapter(c)}
+                    className="group flex items-center gap-4 rounded-sm border border-line bg-bg-elevated p-4 text-left transition-all hover:border-brand disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:border-line"
+                  >
+                    <div
+                      className="flex h-12 w-12 shrink-0 items-center justify-center rounded-sm font-display text-lg font-black text-white"
+                      style={{ backgroundColor: locked ? '#242424' : c.theme.accent }}
+                    >
+                      {locked ? '?' : c.id}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
+                        {c.kicker}
+                      </p>
+                      <p className="truncate font-display text-base font-bold uppercase text-white">
+                        {locked ? 'Verrouillé' : c.title}
+                      </p>
+                      <p className="truncate text-xs text-ink-secondary">
+                        {locked ? 'Termine le chapitre précédent' : c.goal}
+                      </p>
+                    </div>
+                    {best && (
+                      <div className="shrink-0 text-center">
+                        <div className="font-display text-xl font-black text-brand">{best}</div>
+                        <div className="font-display text-[8px] uppercase tracking-widest text-ink-muted">
+                          Rang
+                        </div>
+                      </div>
+                    )}
+                  </button>
+                )
+              })}
+            </div>
+
+            <div className="mt-6 flex items-center justify-between gap-3 border-t border-line pt-5">
+              <p className="font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                {Object.keys(progress.ranks).length}/{CHAPTERS.length} chapitres réussis
               </p>
-              <h2 className="mb-4 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
-                Mission Couches
-              </h2>
-              <p className="mb-6 leading-relaxed text-ink-secondary">
-                Dimanche, 10h. Plus de couches, plus de lait en poudre. Ta femme te confie une
-                mission sacrée : rapporter les deux avant la sieste du petit. Seize étapes te
-                séparent du Graal, et le dernier ingrédient ne se trouve qu'au bout du chemin.
-                Surveille tes jauges, dépense tes bonus au bon moment. Chaque partie est
-                différente. Bonne chance.
-              </p>
-              <div className="mb-6 flex flex-wrap gap-2">
-                <ItemBadge label="Couches" got={false} />
-                <ItemBadge label="Lait en poudre" got={false} />
-              </div>
               <button
-                onClick={start}
-                className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
+                onClick={() => share('total')}
+                className="rounded-sm border border-line bg-bg-elevated px-4 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
               >
-                Partir en courses
+                {copied ? 'Lien copié' : 'Partager mon score'}
               </button>
             </div>
           </div>
         )}
 
-        {(phase === 'playing' || phase === 'result') && event && (
+        {/* ── Intro d'un chapitre ── */}
+        {screen === 'intro' && chapter && (
+          <div className="relative">
+            <div className="relative h-48 w-full overflow-hidden md:h-56">
+              <Decor name={chapter.theme.introDecor} className="absolute inset-0 h-full w-full" />
+              <div className="absolute inset-0 bg-gradient-to-t from-bg-card via-bg-card/40 to-transparent" />
+              <div className="absolute bottom-0 right-6 h-44 w-44 md:h-52 md:w-52">
+                <Sprite name={chapter.theme.introSprite} className="h-full w-full drop-shadow-2xl" />
+              </div>
+            </div>
+            <div className="p-6 md:p-8">
+              <p
+                className="mb-2 font-display text-[11px] uppercase tracking-ultra"
+                style={{ color: accent }}
+              >
+                {chapter.kicker}
+              </p>
+              <h2 className="mb-4 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
+                {chapter.title}
+              </h2>
+              <p className="mb-6 leading-relaxed text-ink-secondary">{chapter.intro}</p>
+              <div className="mb-6 flex flex-wrap gap-2">
+                {chapter.items.map((it) => (
+                  <ItemBadge key={it.id} label={it.label} got={false} />
+                ))}
+              </div>
+              <div className="flex flex-col gap-2.5 sm:flex-row">
+                <button
+                  onClick={start}
+                  className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
+                >
+                  Commencer
+                </button>
+                <button
+                  onClick={() => setScreen('select')}
+                  className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white sm:w-auto"
+                >
+                  Chapitres
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* ── Jeu ── */}
+        {(screen === 'playing' || screen === 'result') && event && chapter && (
           <div>
-            {/* HUD */}
             <div className="border-b border-line bg-bg-surface p-4">
               <div className="mb-3 grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-4">
                 {STAT_ORDER.map((s) => (
@@ -277,21 +370,21 @@ export default function Game() {
                 ))}
               </div>
               <div className="flex items-center justify-between gap-3">
-                <div className="flex gap-2">
-                  <ItemBadge label="Couches" got={state.couches} />
-                  <ItemBadge label="Lait" got={state.lait} />
+                <div className="flex flex-wrap gap-2">
+                  {chapter.items.map((it) => (
+                    <ItemBadge key={it.id} label={it.label} got={!!state.items[it.id]} />
+                  ))}
                 </div>
-                <span className="font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                  {state.step}/{MAX_STEPS}
+                <span className="shrink-0 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                  {state.step}/{chapter.steps}
                 </span>
               </div>
 
-              {/* Bonus cliquables */}
               <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-3">
                 <span className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
                   Bonus
                 </span>
-                {BONUSES.map((b) => {
+                {chapter.bonuses.map((b) => {
                   const left = charges[b.key] ?? 0
                   const ok = left > 0 && bonusUsable(state, b, left)
                   return (
@@ -317,7 +410,6 @@ export default function Game() {
               </div>
             </div>
 
-            {/* Scène */}
             <div className="relative h-52 w-full overflow-hidden md:h-60">
               <Decor name={event.decor} className="absolute inset-0 h-full w-full" />
               <div className="absolute inset-0 bg-gradient-to-t from-bg-card via-transparent to-transparent" />
@@ -344,17 +436,15 @@ export default function Game() {
               )}
             </div>
 
-            {/* Contenu */}
             <div className="p-6 md:p-8">
               <h3 className="mb-3 font-display text-xl font-black uppercase leading-tight text-white md:text-2xl">
                 {event.title}
               </h3>
 
-              {phase === 'playing' && (
+              {screen === 'playing' && (
                 <>
                   <p className="mb-6 leading-relaxed text-ink-secondary">{event.text}</p>
-                  {event.choices.every((c) => choiceLockReason(state, c)) ? (
-                    // Aucun choix jouable (plus assez d'argent) : défaite, pas de blocage.
+                  {event.choices.every((c) => choiceLockReason(state, c, chapter.steps)) ? (
                     <div
                       className="rounded-sm border border-brand/40 bg-brand/10 p-5 text-center"
                       style={{ animation: 'ic-fade 0.35s ease-out' }}
@@ -363,11 +453,11 @@ export default function Game() {
                         Défaite
                       </p>
                       <p className="mb-5 leading-relaxed text-ink-secondary">
-                        Le portefeuille vide. Plus un sou pour payer quoi que ce soit, et le panier
-                        à moitié plein. La mission s&apos;arrête ici : tu rentres bredouille.
+                        Le portefeuille vide. Plus un sou pour payer quoi que ce soit, et la mission
+                        inachevée. Elle s&apos;arrête ici.
                       </p>
                       <button
-                        onClick={start}
+                        onClick={() => setScreen('select')}
                         className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
                       >
                         Recommencer
@@ -376,7 +466,7 @@ export default function Game() {
                   ) : (
                     <div className="flex flex-col gap-2.5">
                       {event.choices.map((c, i) => {
-                        const reason = choiceLockReason(state, c)
+                        const reason = choiceLockReason(state, c, chapter.steps)
                         return (
                           <button
                             key={i}
@@ -404,7 +494,7 @@ export default function Game() {
                 </>
               )}
 
-              {phase === 'result' && last && (
+              {screen === 'result' && last && (
                 <div style={{ animation: 'ic-fade 0.35s ease-out' }}>
                   <p className="mb-5 leading-relaxed text-ink-secondary">{last.text}</p>
                   <div className="mb-5 flex flex-wrap gap-2">
@@ -426,16 +516,17 @@ export default function Game() {
                         </span>
                       )
                     })}
-                    {last.gotCouches && (
-                      <span className="rounded-sm border border-brand bg-brand/15 px-2 py-1 font-display text-[10px] uppercase tracking-widest text-brand">
-                        + Couches
-                      </span>
-                    )}
-                    {last.gotLait && (
-                      <span className="rounded-sm border border-brand bg-brand/15 px-2 py-1 font-display text-[10px] uppercase tracking-widest text-brand">
-                        + Lait
-                      </span>
-                    )}
+                    {last.gained.map((id) => {
+                      const it = chapter.items.find((x) => x.id === id)
+                      return (
+                        <span
+                          key={id}
+                          className="rounded-sm border border-brand bg-brand/15 px-2 py-1 font-display text-[10px] uppercase tracking-widest text-brand"
+                        >
+                          + {it?.label ?? id}
+                        </span>
+                      )
+                    })}
                   </div>
                   <button
                     onClick={next}
@@ -449,23 +540,24 @@ export default function Game() {
           </div>
         )}
 
-        {phase === 'ending' && ending && (
+        {/* ── Fin ── */}
+        {screen === 'ending' && ending && chapter && (
           <div style={{ animation: 'ic-fade 0.4s ease-out' }}>
             <div
               className="relative h-48 w-full overflow-hidden md:h-56"
               style={{
                 background:
                   ending.tone === 'win'
-                    ? 'linear-gradient(135deg,#2E8B57,#15302a)'
+                    ? chapter.theme.winGradient
                     : ending.tone === 'partial'
-                    ? 'linear-gradient(135deg,#C98D2E,#2a2010)'
-                    : 'linear-gradient(135deg,#7a2018,#1f0d0a)',
+                    ? chapter.theme.partialGradient
+                    : chapter.theme.loseGradient,
                 animation: ending.tone === 'lose' ? 'ic-shake 0.5s ease-in-out 0.1s' : undefined,
               }}
             >
               <div className="absolute bottom-0 left-1/2 h-44 w-44 -translate-x-1/2 md:h-52 md:w-52">
                 <Sprite
-                  name={ending.tone === 'win' ? 'papa' : 'femme'}
+                  name={ending.tone === 'win' ? chapter.theme.heroSprite : chapter.theme.loseSprite}
                   className="h-full w-full drop-shadow-2xl"
                 />
               </div>
@@ -489,25 +581,18 @@ export default function Game() {
                 className="mb-2 font-display text-[11px] uppercase tracking-ultra"
                 style={{
                   color:
-                    ending.tone === 'win'
-                      ? '#3DDC97'
-                      : ending.tone === 'partial'
-                      ? '#F2C94C'
-                      : '#FF4500',
+                    ending.tone === 'win' ? '#3DDC97' : ending.tone === 'partial' ? '#F2C94C' : '#FF4500',
                 }}
               >
-                {ending.tone === 'win'
-                  ? 'Victoire'
-                  : ending.tone === 'partial'
-                  ? 'À moitié'
-                  : 'Échec'}
+                {ending.tone === 'win' ? 'Victoire' : ending.tone === 'partial' ? 'À moitié' : 'Échec'}
+                <span className="text-ink-muted"> · {chapter.kicker}</span>
               </p>
               <h2 className="mb-2 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
                 {ending.title}
               </h2>
               {rank && (
                 <p className="mb-4 font-display text-xs uppercase tracking-widest text-brand">
-                  Rang {rank.grade} · {rank.label}
+                  Rang {rank.grade} · {rank.label} · +{RANK_POINTS[rank.grade]} pts
                 </p>
               )}
               <p className="mx-auto mb-5 max-w-md leading-relaxed text-ink-secondary">
@@ -518,7 +603,6 @@ export default function Game() {
                   Pourquoi : {ending.cause}
                 </p>
               )}
-              {/* Récap des jauges au moment de la fin */}
               <div className="mx-auto mb-6 grid max-w-sm grid-cols-4 gap-2">
                 {STAT_ORDER.map((s) => {
                   const v = Math.round(state[s])
@@ -540,9 +624,19 @@ export default function Game() {
                 })}
               </div>
               <div className="mb-6 flex flex-wrap justify-center gap-2">
-                <ItemBadge label="Couches" got={state.couches} />
-                <ItemBadge label="Lait en poudre" got={state.lait} />
+                {chapter.items.map((it) => (
+                  <ItemBadge key={it.id} label={it.label} got={!!state.items[it.id]} />
+                ))}
               </div>
+
+              {ending.tone === 'win' && chapter.id === progress.unlocked - 1 && progress.unlocked <= CHAPTERS.length && (
+                <p className="mb-5 font-display text-xs uppercase tracking-widest text-brand">
+                  {progress.unlocked > CHAPTERS.length
+                    ? 'Tous les chapitres terminés !'
+                    : `Chapitre ${progress.unlocked} débloqué`}
+                </p>
+              )}
+
               <div className="flex flex-col gap-2.5 sm:flex-row">
                 <button
                   onClick={start}
@@ -551,16 +645,20 @@ export default function Game() {
                   Rejouer
                 </button>
                 <button
-                  onClick={share}
+                  onClick={() => setScreen('select')}
+                  className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
+                >
+                  Chapitres
+                </button>
+                <button
+                  onClick={() => share('chapter')}
                   className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
                 >
                   {copied ? 'Lien copié' : 'Partager'}
                 </button>
               </div>
               <p className="mt-5 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                {stats.played} partie{stats.played > 1 ? 's' : ''} · {stats.wins} victoire
-                {stats.wins > 1 ? 's' : ''}
-                {stats.best !== '-' ? ` · meilleur rang ${stats.best}` : ''}
+                Score total {totalScore} pts
               </p>
             </div>
           </div>
