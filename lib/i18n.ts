@@ -53,6 +53,12 @@ const translations = {
         description: 'Les jeux gratuits de la semaine sur Epic Games Store et GOG.',
         empty: 'Aucun jeu gratuit en ce moment.',
       },
+      creation: {
+        title: "La création de l'équipe",
+        description:
+          "Le jeu maison fait par l'équipe. Un petit jeu de choix procédural à jouer directement dans le navigateur, gratuit et sans installation.",
+        empty: 'Aucun jeu pour le moment.',
+      },
     },
     gratuit: {
       epic_section: 'Epic Games Store',
@@ -168,6 +174,12 @@ const translations = {
         title: 'Free Games',
         description: 'This week\'s free games on Epic Games Store and GOG.',
         empty: 'No free games right now.',
+      },
+      creation: {
+        title: "The Team's Creation",
+        description:
+          'The homemade game built by the team. A small procedural choice game you can play right in your browser, free and with no install.',
+        empty: 'No game yet.',
       },
     },
     gratuit: {

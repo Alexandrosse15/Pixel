@@ -32,6 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/dossiers`, lastModified: dossiersDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
     { url: `${SITE_URL}/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
+    { url: `${SITE_URL}/creation-equipe`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/creation-equipe`, en: `${SITE_URL}/en/creation-equipe` } } },
     { url: `${SITE_URL}/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
     // EN versions
     { url: `${SITE_URL}/en`, lastModified: homeDate, changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },
@@ -40,6 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/en/dossiers`, lastModified: dossiersDate, changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/dossiers`, en: `${SITE_URL}/en/dossiers` } } },
     { url: `${SITE_URL}/en/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/en/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
+    { url: `${SITE_URL}/en/creation-equipe`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/creation-equipe`, en: `${SITE_URL}/en/creation-equipe` } } },
     { url: `${SITE_URL}/en/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.4, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
   ]
 

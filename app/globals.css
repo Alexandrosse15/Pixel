@@ -131,3 +131,15 @@
   content: '';
 }
 
+
+/* Animations du jeu "L'indé du mois" */
+@keyframes ic-pop {
+  0% { transform: translate(-50%, 24px); opacity: 0; }
+  60% { transform: translate(-50%, -4px); opacity: 1; }
+  100% { transform: translate(-50%, 0); opacity: 1; }
+}
+
+@keyframes ic-fade {
+  0% { transform: translateY(8px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}

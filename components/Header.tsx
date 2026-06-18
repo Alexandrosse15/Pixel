@@ -13,6 +13,7 @@ const NAV_PATHS = [
   { path: '/industrie', key: 'industrie' },
   { path: '/cinema', key: 'cinema' },
   { path: '/gratuit', key: 'gratuit' },
+  { path: '/creation-equipe', key: 'creation' },
 ] as const
 
 export default function Header() {
