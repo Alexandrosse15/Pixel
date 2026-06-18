@@ -48,6 +48,13 @@ export type DecorKey =
   | 'rayon_jouets'
   | 'fleuriste'
   | 'boutique'
+  | 'bijouterie'
+  | 'mairie'
+  | 'photomaton'
+  | 'prefecture'
+  | 'patisserie'
+  | 'pressing'
+  | 'aeroport'
 
 export type PropKey =
   | 'couches'
@@ -101,6 +108,13 @@ export type PropKey =
   | 'jouet'
   | 'roses'
   | 'cadeau'
+  | 'alliances'
+  | 'passeport'
+  | 'photo'
+  | 'gateau'
+  | 'costume'
+  | 'valise'
+  | 'avion'
 
 export type StatKey = 'temps' | 'energie' | 'argent' | 'moral'
 

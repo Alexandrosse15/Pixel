@@ -809,6 +809,114 @@ const DECORS: Record<DecorKey, DecorDef> = {
       </g>
     ),
   },
+  bijouterie: {
+    from: '#3A3220',
+    to: '#171206',
+    shapes: (
+      <g>
+        <rect x="0" y="164" width="400" height="86" fill="#241D10" />
+        <rect x="0" y="36" width="400" height="18" fill="#F2C94C" opacity="0.6" />
+        <rect x="50" y="86" width="120" height="78" fill="#2E2614" />
+        <rect x="230" y="86" width="120" height="78" fill="#2E2614" />
+        {[70, 110, 150, 250, 290, 330].map((x) => (
+          <circle key={x} cx={x} cy="120" r="7" fill="#F2C94C" opacity="0.7" />
+        ))}
+      </g>
+    ),
+  },
+  mairie: {
+    from: '#2C3550',
+    to: '#141828',
+    shapes: (
+      <g>
+        <rect x="0" y="172" width="400" height="78" fill="#1C2030" />
+        <rect x="70" y="70" width="260" height="102" fill="#33405E" />
+        <path d="M60 70 L200 28 L340 70 Z" fill="#3E4D70" />
+        {[100, 140, 180, 220, 260, 300].map((x) => (
+          <rect key={x} x={x} y="86" width="10" height="86" fill="#212B40" />
+        ))}
+        <rect x="186" y="120" width="28" height="52" fill="#212B40" />
+        <path d="M150 60 L250 60 L210 44 L190 44 Z" fill="#56A8FF" opacity="0.4" />
+      </g>
+    ),
+  },
+  photomaton: {
+    from: '#2A2C36',
+    to: '#121319',
+    shapes: (
+      <g>
+        <rect x="0" y="170" width="400" height="80" fill="#1A1C24" />
+        <rect x="150" y="56" width="100" height="116" rx="4" fill="#2A2D3A" />
+        <rect x="166" y="72" width="68" height="44" fill="#3DDC97" opacity="0.3" />
+        <rect x="170" y="124" width="60" height="34" fill="#1B2733" />
+        <circle cx="200" cy="141" r="9" fill="#FF4500" opacity="0.7" />
+        <rect x="40" y="90" width="80" height="82" fill="#222531" />
+        <rect x="280" y="90" width="80" height="82" fill="#222531" />
+      </g>
+    ),
+  },
+  prefecture: {
+    from: '#33343C',
+    to: '#16171C',
+    shapes: (
+      <g>
+        <rect x="0" y="170" width="400" height="80" fill="#202128" />
+        <rect x="40" y="58" width="320" height="114" fill="#2C2E38" />
+        {[60, 110, 160, 210, 260, 310].map((x) => (
+          <rect key={x} x={x} y="74" width="30" height="46" fill="#3DDC97" opacity="0.2" />
+        ))}
+        <rect x="0" y="150" width="400" height="6" fill="#3A3C46" />
+        <rect x="180" y="120" width="40" height="52" fill="#1A1B22" />
+      </g>
+    ),
+  },
+  patisserie: {
+    from: '#4A3322',
+    to: '#221710',
+    shapes: (
+      <g>
+        <rect x="0" y="166" width="400" height="84" fill="#2A1D12" />
+        <rect x="0" y="36" width="400" height="18" fill="#E0A0B0" opacity="0.5" />
+        <rect x="40" y="84" width="130" height="82" fill="#33240F" />
+        <rect x="230" y="84" width="130" height="82" fill="#33240F" />
+        {[60, 100, 140, 250, 290, 330].map((x, i) => (
+          <circle key={x} cx={x} cy="116" r="9" fill={['#E74C6C', '#F2C94C', '#C68A4E'][i % 3]} opacity="0.7" />
+        ))}
+      </g>
+    ),
+  },
+  pressing: {
+    from: '#243A40',
+    to: '#0F1C20',
+    shapes: (
+      <g>
+        <rect x="0" y="168" width="400" height="82" fill="#142A2E" />
+        <rect x="0" y="36" width="400" height="16" fill="#3DDC97" opacity="0.5" />
+        <rect x="40" y="64" width="320" height="104" fill="#16302E" />
+        {[70, 120, 170, 220, 270, 320].map((x) => (
+          <g key={x}>
+            <line x1={x} y1="74" x2={x} y2="150" stroke="#2A4A48" strokeWidth="2" />
+            <path d={`M${x - 10} 96 L${x} 84 L${x + 10} 96 L${x + 7} 140 L${x - 7} 140 Z`} fill="#F4F4F4" opacity="0.25" />
+          </g>
+        ))}
+      </g>
+    ),
+  },
+  aeroport: {
+    from: '#23344A',
+    to: '#0F1722',
+    shapes: (
+      <g>
+        <rect x="0" y="176" width="400" height="74" fill="#16202E" />
+        <path d="M0 90 Q200 60 400 90 L400 130 Q200 104 0 130 Z" fill="#1E2C3E" />
+        {[30, 90, 150, 210, 270, 330].map((x) => (
+          <rect key={x} x={x} y="96" width="40" height="20" rx="3" fill="#56A8FF" opacity="0.25" />
+        ))}
+        <path d="M250 150 L360 120 L366 128 L300 150 Z" fill="#B0B8C4" opacity="0.6" />
+        <path d="M300 150 L320 134 L330 136 L320 150 Z" fill="#9AA3AF" opacity="0.6" />
+      </g>
+    ),
+  },
 }
 
 export function Decor({ name, className }: { name: DecorKey; className?: string }) {
@@ -1263,6 +1371,65 @@ const PROPS: Record<PropKey, () => JSX.Element> = {
       <rect x="46" y="46" width="8" height="36" fill="#F2C94C" />
       <rect x="28" y="58" width="44" height="8" fill="#F2C94C" />
       <path d="M50 46 Q38 28 30 38 Q40 42 50 46 Q60 28 70 38 Q60 42 50 46Z" fill="#F2C94C" />
+    </g>
+  ),
+  alliances: () => (
+    <g>
+      <circle cx="40" cy="56" r="15" fill="none" stroke="#F2C94C" strokeWidth="5" />
+      <circle cx="62" cy="56" r="15" fill="none" stroke="#F2C94C" strokeWidth="5" />
+      <path d="M40 41 l-4 -8 l8 0 Z" fill="#56D0FF" />
+      <circle cx="40" cy="30" r="3.5" fill="#9FE4FF" />
+    </g>
+  ),
+  passeport: () => (
+    <g>
+      <rect x="32" y="26" width="36" height="50" rx="3" fill="#7A1E16" />
+      <rect x="36" y="30" width="28" height="42" rx="2" fill="#922B21" />
+      <circle cx="50" cy="46" r="9" fill="none" stroke="#F2C94C" strokeWidth="2" />
+      <path d="M50 37 v18 M41 46 h18" stroke="#F2C94C" strokeWidth="1.5" />
+      <rect x="42" y="62" width="16" height="4" fill="#F2C94C" />
+    </g>
+  ),
+  photo: () => (
+    <g>
+      <rect x="30" y="28" width="40" height="48" rx="2" fill="#F4F4F4" />
+      <circle cx="50" cy="48" r="12" fill="#C98D63" />
+      <path d="M38 70 Q50 56 62 70 Z" fill="#56A8FF" />
+      <rect x="34" y="32" width="32" height="4" fill="#B0B0B0" />
+    </g>
+  ),
+  gateau: () => (
+    <g>
+      <path d="M26 54 L74 54 L70 78 L30 78 Z" fill="#E0B36A" />
+      <rect x="26" y="50" width="48" height="8" fill="#E7748A" />
+      <path d="M26 54 Q34 62 42 54 Q50 62 58 54 Q66 62 74 54" fill="none" stroke="#fff" strokeWidth="2" opacity="0.6" />
+      <rect x="48" y="30" width="4" height="16" fill="#56A8FF" />
+      <path d="M50 26 q-4 4 0 6 q4 -2 0 -6" fill="#F2C94C" />
+    </g>
+  ),
+  costume: () => (
+    <g>
+      <path d="M34 30 L50 40 L66 30 L72 78 L28 78 Z" fill="#2C3340" />
+      <path d="M50 40 L44 78 L56 78 L50 40Z" fill="#1B2027" />
+      <path d="M34 30 L50 52 L40 40Z" fill="#3A4452" />
+      <path d="M66 30 L50 52 L60 40Z" fill="#3A4452" />
+      <path d="M48 44 L52 44 L51 56 L49 56Z" fill="#C0392B" />
+    </g>
+  ),
+  valise: () => (
+    <g>
+      <rect x="30" y="40" width="40" height="40" rx="5" fill="#2E6FB0" />
+      <rect x="42" y="30" width="16" height="12" rx="3" fill="none" stroke="#2E6FB0" strokeWidth="4" />
+      <rect x="30" y="52" width="40" height="6" fill="#1E4E7A" />
+      <circle cx="38" cy="78" r="3" fill="#2A2A2A" />
+      <circle cx="62" cy="78" r="3" fill="#2A2A2A" />
+    </g>
+  ),
+  avion: () => (
+    <g>
+      <path d="M22 54 L70 46 L82 50 L70 54 L46 56 L40 68 L34 68 L38 55 L26 56 Z" fill="#E6ECF2" />
+      <path d="M48 50 L60 36 L66 37 L58 51 Z" fill="#B0B8C4" />
+      <circle cx="74" cy="50" r="3" fill="#56A8FF" />
     </g>
   ),
 }
