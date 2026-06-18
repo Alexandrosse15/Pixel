@@ -1,6 +1,7 @@
 'use client'
 
-import { useCallback, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { SITE_URL } from '@/lib/config'
 import {
   BONUSES,
   INITIAL_STATE,
@@ -12,6 +13,7 @@ import {
   buildDeck,
   choiceLockReason,
   computeEnding,
+  computeRank,
   isDead,
   type Bonus,
   type Choice,
@@ -22,6 +24,19 @@ import {
 } from './engine'
 import { EVENTS } from './events'
 import { Decor, Prop, Sprite } from './sprites'
+
+interface Stats {
+  played: number
+  wins: number
+  best: string
+}
+
+const STATS_KEY = 'cdle-stats'
+const GRADE_ORDER = ['D', 'C', 'B', 'A', 'S']
+const bestGrade = (a: string, b: string | null) => {
+  if (!b) return a
+  return GRADE_ORDER.indexOf(b) > GRADE_ORDER.indexOf(a) ? b : a
+}
 
 type Phase = 'intro' | 'playing' | 'result' | 'ending'
 
@@ -54,7 +69,7 @@ function StatBar({ stat, value }: { stat: StatKey; value: number }) {
       </div>
       <div className="h-1.5 w-full overflow-hidden rounded-full bg-bg-base">
         <div
-          className="h-full rounded-full transition-all duration-500"
+          className={`h-full rounded-full transition-all duration-500 ${low ? 'animate-pulse' : ''}`}
           style={{ width: `${pct}%`, backgroundColor: low ? '#FF4500' : meta.color }}
         />
       </div>
@@ -86,7 +101,63 @@ export default function Game() {
   const [charges, setCharges] = useState<Record<string, number>>(() =>
     Object.fromEntries(BONUSES.map((b) => [b.key, b.charges]))
   )
+  const [stats, setStats] = useState<Stats>({ played: 0, wins: 0, best: '-' })
+  const [copied, setCopied] = useState(false)
   const deck = useRef<GameEvent[]>([])
+  const recorded = useRef(0)
+
+  const rank = useMemo(
+    () => (ending?.tone === 'win' ? computeRank(state) : null),
+    [ending, state]
+  )
+
+  // Charge les stats persistées au montage.
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(STATS_KEY)
+      if (raw) setStats(JSON.parse(raw))
+    } catch {
+      /* localStorage indisponible : on garde les stats par défaut */
+    }
+  }, [])
+
+  // Enregistre le résultat une seule fois par partie.
+  useEffect(() => {
+    if (phase !== 'ending' || !ending || recorded.current === runs) return
+    recorded.current = runs
+    setStats((prev) => {
+      const won = ending.tone === 'win'
+      const next: Stats = {
+        played: prev.played + 1,
+        wins: prev.wins + (won ? 1 : 0),
+        best: won ? bestGrade(prev.best === '-' ? 'D' : prev.best, computeRank(state).grade) : prev.best,
+      }
+      try {
+        localStorage.setItem(STATS_KEY, JSON.stringify(next))
+      } catch {
+        /* ignore */
+      }
+      return next
+    })
+  }, [phase, ending, runs, state])
+
+  const share = useCallback(async () => {
+    const url = `${SITE_URL}/creation-equipe`
+    const text = rank
+      ? `J'ai bouclé Mission Couches avec le rang ${rank.grade} (${rank.label}) sur InsertCoins.press. Tu fais mieux ?`
+      : "J'ai tenté Mission Couches sur InsertCoins.press. À toi de jouer."
+    try {
+      if (typeof navigator !== 'undefined' && navigator.share) {
+        await navigator.share({ title: 'Mission Couches', text, url })
+      } else if (typeof navigator !== 'undefined' && navigator.clipboard) {
+        await navigator.clipboard.writeText(`${text} ${url}`)
+        setCopied(true)
+        setTimeout(() => setCopied(false), 2000)
+      }
+    } catch {
+      /* partage annulé */
+    }
+  }, [rank])
 
   // Construit un nouveau deck à chaque partie : 1re moitié sans items, 2e garantie.
   const start = useCallback(() => {
@@ -255,7 +326,12 @@ export default function Game() {
                 className="absolute bottom-0 left-1/2 h-48 w-48 -translate-x-1/2 md:h-56 md:w-56"
                 style={{ animation: 'ic-pop 0.4s ease-out' }}
               >
-                <Sprite name={event.sprite} className="h-full w-full drop-shadow-2xl" />
+                <div
+                  className="h-full w-full"
+                  style={{ animation: 'ic-bob 3.2s ease-in-out 0.4s infinite' }}
+                >
+                  <Sprite name={event.sprite} className="h-full w-full drop-shadow-2xl" />
+                </div>
               </div>
               {event.prop && (
                 <div
@@ -384,6 +460,7 @@ export default function Game() {
                     : ending.tone === 'partial'
                     ? 'linear-gradient(135deg,#C98D2E,#2a2010)'
                     : 'linear-gradient(135deg,#7a2018,#1f0d0a)',
+                animation: ending.tone === 'lose' ? 'ic-shake 0.5s ease-in-out 0.1s' : undefined,
               }}
             >
               <div className="absolute bottom-0 left-1/2 h-44 w-44 -translate-x-1/2 md:h-52 md:w-52">
@@ -392,6 +469,19 @@ export default function Game() {
                   className="h-full w-full drop-shadow-2xl"
                 />
               </div>
+              {rank && (
+                <div
+                  className="absolute right-5 top-4 flex h-20 w-20 flex-col items-center justify-center rounded-lg border-2 border-white/80 bg-bg-base/70 backdrop-blur-sm md:right-8 md:h-24 md:w-24"
+                  style={{ animation: 'ic-stamp 0.5s cubic-bezier(0.2,0.9,0.3,1.4) 0.2s both' }}
+                >
+                  <span className="font-display text-[9px] uppercase tracking-widest text-white/70">
+                    Rang
+                  </span>
+                  <span className="font-display text-4xl font-black leading-none text-white md:text-5xl">
+                    {rank.grade}
+                  </span>
+                </div>
+              )}
               <div className="absolute inset-0 bg-gradient-to-t from-bg-card via-transparent to-transparent" />
             </div>
             <div className="p-6 text-center md:p-8">
@@ -412,9 +502,14 @@ export default function Game() {
                   ? 'À moitié'
                   : 'Échec'}
               </p>
-              <h2 className="mb-4 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
+              <h2 className="mb-2 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
                 {ending.title}
               </h2>
+              {rank && (
+                <p className="mb-4 font-display text-xs uppercase tracking-widest text-brand">
+                  Rang {rank.grade} · {rank.label}
+                </p>
+              )}
               <p className="mx-auto mb-6 max-w-md leading-relaxed text-ink-secondary">
                 {ending.text}
               </p>
@@ -422,12 +517,25 @@ export default function Game() {
                 <ItemBadge label="Couches" got={state.couches} />
                 <ItemBadge label="Lait en poudre" got={state.lait} />
               </div>
-              <button
-                onClick={start}
-                className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
-              >
-                Rejouer
-              </button>
+              <div className="flex flex-col gap-2.5 sm:flex-row">
+                <button
+                  onClick={start}
+                  className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
+                >
+                  Rejouer
+                </button>
+                <button
+                  onClick={share}
+                  className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
+                >
+                  {copied ? 'Lien copié' : 'Partager'}
+                </button>
+              </div>
+              <p className="mt-5 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                {stats.played} partie{stats.played > 1 ? 's' : ''} · {stats.wins} victoire
+                {stats.wins > 1 ? 's' : ''}
+                {stats.best !== '-' ? ` · meilleur rang ${stats.best}` : ''}
+              </p>
             </div>
           </div>
         )}

@@ -499,6 +499,171 @@ export const EVENTS: GameEvent[] = [
       },
     ],
   },
+  {
+    id: 'belle_mere',
+    sprite: 'mamie',
+    decor: 'rue',
+    prop: 'telephone',
+    title: "L'appel de la belle-mère",
+    text: "Numéro masqué. C'est ta belle-mère. Elle a appris pour les courses et veut te dicter la bonne marque de lait.",
+    choices: [
+      {
+        label: 'Acquiescer poliment',
+        effect: { temps: -9, moral: -3 },
+        result: 'Tu dis oui à tout pendant cinq minutes. Le cerveau en veille, mais la paix sociale préservée.',
+      },
+      {
+        label: 'Écourter fermement',
+        effect: { temps: -3, moral: -6 },
+        result: '"Je gère, merci." Silence pincé au bout du fil. Tu paieras ça au prochain repas de famille.',
+      },
+    ],
+  },
+  {
+    id: 'degustation',
+    sprite: 'caissiere',
+    decor: 'supermarche',
+    prop: 'chips',
+    title: 'Le stand dégustation',
+    text: 'Une hôtesse propose des petits cubes de fromage gratuits sur des piques. Ton estomac répond avant toi.',
+    choices: [
+      {
+        label: 'Goûter discrètement',
+        effect: { temps: -4, energie: 7, moral: 4 },
+        result: 'Trois cubes, mine de rien. Petit plaisir gratuit, énergie regonflée.',
+      },
+      {
+        label: 'Repasser trois fois',
+        effect: { temps: -9, energie: 10, moral: -3 },
+        result: "Tu y retournes une fois de trop. L'hôtesse te fusille du regard. Mais tu as bien mangé.",
+      },
+      {
+        label: 'Décliner dignement',
+        effect: { temps: -1, moral: 2 },
+        result: 'Tu remercies et tu passes ton chemin, la tête haute et le ventre vide.',
+      },
+    ],
+  },
+  {
+    id: 'caddie_fou',
+    sprite: 'papa',
+    decor: 'parking',
+    prop: 'caddie',
+    title: 'Le caddie fou',
+    text: 'Un caddie abandonné dévale la pente du parking, droit vers une berline rutilante.',
+    choices: [
+      {
+        label: 'Le rattraper au sprint',
+        effect: { temps: -3, energie: -9, moral: 9 },
+        result: 'Plongeon héroïque, caddie stoppé à dix centimètres. Un inconnu t’applaudit.',
+      },
+      {
+        label: 'Détourner le regard',
+        effect: { temps: -1, moral: -7 },
+        result: 'Craquement métallique dans ton dos. Tu accélères le pas, l’air de rien.',
+      },
+    ],
+  },
+  {
+    id: 'flaque',
+    sprite: 'cycliste',
+    decor: 'rue',
+    prop: 'nuage',
+    title: "L'arroseur arrosé",
+    text: 'Une voiture file dans une flaque énorme juste à côté de toi. Tu vois le mur d’eau arriver au ralenti.',
+    choices: [
+      {
+        label: 'Bondir en arrière',
+        effect: { temps: -4, energie: -6 },
+        result: 'Réflexe de félin. Tu sauves ton pantalon, au prix d’un effort brusque.',
+      },
+      {
+        label: 'Encaisser, fataliste',
+        effect: { temps: -1, moral: -8 },
+        result: 'Douche froide intégrale. Tu dégoulines. Le dimanche se moque de toi.',
+      },
+    ],
+  },
+  {
+    id: 'sondage',
+    sprite: 'collegue',
+    decor: 'allee',
+    prop: 'liste',
+    title: 'Le sondeur du rayon',
+    text: 'Un jeune homme avec une tablette te bloque : "Deux minutes pour un questionnaire satisfaction ?"',
+    choices: [
+      {
+        label: 'Répondre vite fait',
+        effect: { temps: -8, moral: 2 },
+        result: 'Quinze questions sur ta lessive idéale. Tu mens à toutes, ça va plus vite.',
+      },
+      {
+        label: 'Esquiver poliment',
+        effect: { temps: -2 },
+        result: '"Désolé, urgence bébé." Argument imparable, il te laisse filer.',
+      },
+    ],
+  },
+  {
+    id: 'escalator',
+    sprite: 'papa',
+    decor: 'supermarche',
+    prop: 'horloge',
+    title: "L'escalator en panne",
+    text: "L'escalator est à l'arrêt, transformé en simple escalier. Le rayon bébé est à l'étage.",
+    choices: [
+      {
+        label: 'Monter les marches',
+        effect: { temps: -4, energie: -7 },
+        result: 'Trois étages à pied, les mollets en feu. Mais tu y es.',
+      },
+      {
+        label: 'Chercher l’ascenseur',
+        effect: { temps: -10, energie: -1 },
+        result: "Tu fais le tour du magasin pour trouver l'ascenseur. Reposant, mais lent.",
+      },
+    ],
+  },
+  {
+    id: 'monnaie',
+    sprite: 'caissier',
+    decor: 'caisse',
+    prop: 'piece',
+    title: "L'appoint exact",
+    text: 'Le terminal de carte est en rade. "Espèces uniquement", annonce le caissier, désolé. Tu comptes tes pièces.',
+    choices: [
+      {
+        label: 'Faire l’appoint à la pièce',
+        effect: { temps: -7, moral: -2 },
+        result: 'Tu vides ta poche centime par centime. La file derrière soupire en choeur.',
+      },
+      {
+        label: 'Arrondir au-dessus',
+        effect: { temps: -3, argent: -3 },
+        result: 'Tu donnes plus pour aller vite, tu laisses la monnaie. Le temps vaut bien trois euros.',
+      },
+    ],
+  },
+  {
+    id: 'chat_perdu',
+    sprite: 'papa',
+    decor: 'ruelle',
+    prop: 'coeur',
+    title: 'Le chat de la ruelle',
+    text: 'Un chat tigré te suit en miaulant dans une ruelle. Il a l’air de te connaître. Toi, pas du tout.',
+    choices: [
+      {
+        label: 'Le caresser un instant',
+        effect: { temps: -5, moral: 11 },
+        result: 'Ronronnement immédiat. Petite parenthèse de douceur avant de repartir au combat.',
+      },
+      {
+        label: 'Continuer, indifférent',
+        effect: { temps: -1, energie: 2 },
+        result: 'Tu poursuis ta route. Le chat te juge, puis se désintéresse de ton existence.',
+      },
+    ],
+  },
 
   // ── Sources d'items (2e moitié uniquement) ──────────────────────────────────
   {

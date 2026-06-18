@@ -134,7 +134,7 @@ export const MAX_STEPS = 16
 export const HALF = Math.ceil(MAX_STEPS / 2)
 
 export const INITIAL_STATE: GameState = {
-  temps: 100,
+  temps: 98,
   energie: 78,
   argent: 42,
   moral: 70,
@@ -321,15 +321,19 @@ export function computeEnding(state: GameState): Ending {
 
   const got = (state.couches ? 1 : 0) + (state.lait ? 1 : 0)
 
-  if (got === 2 && state.moral >= 55 && state.temps >= 40) {
-    return {
-      key: 'hero',
-      tone: 'win',
-      title: 'Héros du dimanche',
-      text: "Couches sous le bras, lait en poudre dans la poche. Tu pousses la porte, frais comme un gardon. Elle lève un sourcil, impressionnée. Tu ne diras jamais ce qu'il t'a fallu traverser.",
-    }
-  }
   if (got === 2) {
+    const grade = computeRank(state).grade
+    if (grade === 'S' || grade === 'A') {
+      return {
+        key: 'hero',
+        tone: 'win',
+        title: 'Héros du dimanche',
+        text: pick([
+          "Couches sous le bras, lait en poudre dans la poche. Tu pousses la porte, frais comme un gardon. Elle lève un sourcil, impressionnée. Tu ne diras jamais ce qu'il t'a fallu traverser.",
+          'Mission bouclée sans une égratignure, ou presque. Tu poses les courses sur le plan de travail comme un magicien sort un lapin. Le petit dort déjà. Légende vivante du foyer.',
+        ]),
+      }
+    }
     return {
       key: 'win',
       tone: 'win',
@@ -337,6 +341,7 @@ export function computeEnding(state: GameState): Ending {
       text: pick([
         "Tu as les deux. Tu rentres cabossé, en sueur, mais victorieux. Le petit est sauvé, et ton couple aussi.",
         "Couches et lait sont là. Personne ne saura le prix réel de cette expédition. C'est ça, l'héroïsme discret.",
+        "Tu franchis la porte sur les rotules, le sac qui pèse une tonne. Mais tout y est. Le reste, c'est du bonus.",
       ]),
     }
   }
@@ -346,7 +351,10 @@ export function computeEnding(state: GameState): Ending {
       key: 'partial',
       tone: 'partial',
       title: 'Le demi-sel',
-      text: `Tu rapportes la moitié de la mission. Il manque ${manque}. Le regard qu'elle te lance pèse plus lourd que le sac que tu n'as pas rempli.`,
+      text: pick([
+        `Tu rapportes la moitié de la mission. Il manque ${manque}. Le regard qu'elle te lance pèse plus lourd que le sac que tu n'as pas rempli.`,
+        `Tu poses fièrement tes courses, puis le silence tombe : il manque ${manque}. La fierté retombe aussi sec.`,
+      ]),
     }
   }
   return {
@@ -358,4 +366,19 @@ export function computeEnding(state: GameState): Ending {
       "Mission ratée sur toute la ligne. Tu n'as rien. Tu prépares déjà ton discours dans l'ascenseur.",
     ]),
   }
+}
+
+export interface Rank {
+  grade: 'S' | 'A' | 'B' | 'C' | 'D'
+  label: string
+}
+
+// Note de fin sur une victoire, selon les jauges qu'il te reste au retour.
+export function computeRank(state: GameState): Rank {
+  const score = state.temps + state.energie + 0.5 * state.moral + 0.4 * state.argent
+  if (score >= 150) return { grade: 'S', label: 'Légende du dimanche' }
+  if (score >= 122) return { grade: 'A', label: 'Père au sommet' }
+  if (score >= 98) return { grade: 'B', label: 'Mission bien menée' }
+  if (score >= 76) return { grade: 'C', label: 'Juste à temps' }
+  return { grade: 'D', label: 'Sur le fil du rasoir' }
 }
