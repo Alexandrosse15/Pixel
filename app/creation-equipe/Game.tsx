@@ -77,6 +77,10 @@ const UI = {
     allDone: 'Tous les chapitres terminés !',
     replay: 'Rejouer',
     share: 'Partager',
+    shareTitle: 'Partager ton score',
+    copy: 'Copier',
+    copied: 'Copié !',
+    instaCopied: 'Texte copié, colle-le sur Instagram',
     totalPts: (n: number) => `Score total ${n} pts`,
     procedural: 'Jeu procédural : chaque partie tire ses événements au hasard',
     shareChapter: (title: string, kicker: string, grade: string) =>
@@ -111,6 +115,10 @@ const UI = {
     allDone: 'All chapters completed!',
     replay: 'Replay',
     share: 'Share',
+    shareTitle: 'Share your score',
+    copy: 'Copy',
+    copied: 'Copied!',
+    instaCopied: 'Text copied, paste it on Instagram',
     totalPts: (n: number) => `Total score ${n} pts`,
     procedural: 'Procedural game: every run draws its events at random',
     shareChapter: (title: string, kicker: string, grade: string) =>
@@ -172,7 +180,7 @@ export default function Game() {
   const [runs, setRuns] = useState(0)
   const [charges, setCharges] = useState<Record<string, number>>({})
   const [progress, setProgress] = useState<Progress>({ unlocked: 1, ranks: {} })
-  const [copied, setCopied] = useState(false)
+  const [shareNote, setShareNote] = useState('')
   const deck = useRef<GameEvent[]>([])
   const recorded = useRef(0)
 
@@ -295,28 +303,109 @@ export default function Game() {
   }, [state, chapter, lang])
 
   const share = useCallback(
-    async (mode: 'chapter' | 'total') => {
+    async (mode: 'chapter' | 'total', platform: 'facebook' | 'instagram' | 'copy' | 'native') => {
       const url = `${SITE_URL}/creation-equipe`
       const text =
         mode === 'chapter' && rank && chapter
           ? ui.shareChapter(tr(chapter.title), tr(chapter.kicker), rank.grade)
           : ui.shareTotal(totalScore)
-      try {
-        if (typeof navigator !== 'undefined' && navigator.share) {
-          await navigator.share({ title: ui.eyebrow, text, url })
-        } else if (typeof navigator !== 'undefined' && navigator.clipboard) {
-          await navigator.clipboard.writeText(`${text} ${url}`)
-          setCopied(true)
-          setTimeout(() => setCopied(false), 2000)
-        }
-      } catch {
-        /* partage annulé */
+      const toast = (m: string) => {
+        setShareNote(m)
+        setTimeout(() => setShareNote(''), 2400)
       }
+      const copy = async () => {
+        try {
+          await navigator.clipboard.writeText(`${text} ${url}`)
+          return true
+        } catch {
+          return false
+        }
+      }
+      const canNativeShare = typeof navigator !== 'undefined' && !!navigator.share
+
+      if (platform === 'facebook') {
+        window.open(
+          `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}&quote=${encodeURIComponent(text)}`,
+          '_blank',
+          'noopener,noreferrer,width=620,height=540'
+        )
+        return
+      }
+      if (platform === 'instagram') {
+        // Instagram n'a pas de partage web : on passe par le partage natif (mobile),
+        // sinon on copie le texte pour le coller dans une story.
+        if (canNativeShare) {
+          try {
+            await navigator.share({ title: ui.eyebrow, text, url })
+          } catch {
+            /* annulé */
+          }
+        } else if (await copy()) {
+          toast(ui.instaCopied)
+        }
+        return
+      }
+      if (platform === 'native' && canNativeShare) {
+        try {
+          await navigator.share({ title: ui.eyebrow, text, url })
+        } catch {
+          /* annulé */
+        }
+        return
+      }
+      if (await copy()) toast(ui.copied)
     },
     [rank, chapter, totalScore, ui, tr]
   )
 
   const accent = chapter?.theme.accent ?? '#FF4500'
+
+  // Barre de partage réutilisable (sélection + écran de fin).
+  const shareBar = (mode: 'chapter' | 'total') => (
+    <div className="flex flex-col items-center gap-2">
+      <div className="flex flex-wrap items-center justify-center gap-2">
+        <button
+          onClick={() => share(mode, 'facebook')}
+          aria-label="Facebook"
+          className="flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-3 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
+          style={{ borderColor: '#1877F2aa' }}
+        >
+          <svg viewBox="0 0 24 24" className="h-4 w-4" fill="#1877F2" aria-hidden="true">
+            <path d="M22 12a10 10 0 1 0-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.2c-1.2 0-1.6.8-1.6 1.5V12h2.7l-.4 2.9h-2.3v7A10 10 0 0 0 22 12Z" />
+          </svg>
+          Facebook
+        </button>
+        <button
+          onClick={() => share(mode, 'instagram')}
+          aria-label="Instagram"
+          className="flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-3 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
+          style={{ borderColor: '#E1306Caa' }}
+        >
+          <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="#E1306C" strokeWidth="2" aria-hidden="true">
+            <rect x="3" y="3" width="18" height="18" rx="5" />
+            <circle cx="12" cy="12" r="4" />
+            <circle cx="17.5" cy="6.5" r="1.2" fill="#E1306C" stroke="none" />
+          </svg>
+          Instagram
+        </button>
+        <button
+          onClick={() => share(mode, 'copy')}
+          className="flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-3 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
+        >
+          <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+            <rect x="9" y="9" width="11" height="11" rx="2" />
+            <path d="M5 15V5a2 2 0 0 1 2-2h8" />
+          </svg>
+          {ui.copy}
+        </button>
+      </div>
+      {shareNote && (
+        <p className="font-mono text-[10px] uppercase tracking-widest text-brand" aria-live="polite">
+          {shareNote}
+        </p>
+      )}
+    </div>
+  )
 
   return (
     <div className="mx-auto max-w-2xl px-4 md:px-0">
@@ -384,16 +473,16 @@ export default function Game() {
               })}
             </div>
 
-            <div className="mt-6 flex items-center justify-between gap-3 border-t border-line pt-5">
-              <p className="font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                {ui.cleared(Object.keys(progress.ranks).length, CHAPTERS.length)}
-              </p>
-              <button
-                onClick={() => share('total')}
-                className="rounded-sm border border-line bg-bg-elevated px-4 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
-              >
-                {copied ? ui.linkCopied : ui.shareScore}
-              </button>
+            <div className="mt-6 border-t border-line pt-5">
+              <div className="mb-3 flex items-center justify-between gap-3">
+                <p className="font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                  {ui.cleared(Object.keys(progress.ranks).length, CHAPTERS.length)}
+                </p>
+                <p className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
+                  {ui.shareTitle}
+                </p>
+              </div>
+              {shareBar('total')}
             </div>
           </div>
         )}
@@ -728,13 +817,11 @@ export default function Game() {
                 >
                   {ui.chapters}
                 </button>
-                <button
-                  onClick={() => share('chapter')}
-                  className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
-                >
-                  {copied ? ui.linkCopied : ui.share}
-                </button>
               </div>
+              <p className="mt-6 mb-2 font-display text-[10px] uppercase tracking-widest text-ink-muted">
+                {ui.shareTitle}
+              </p>
+              {shareBar('chapter')}
               <p className="mt-5 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
                 {ui.totalPts(totalScore)}
               </p>
