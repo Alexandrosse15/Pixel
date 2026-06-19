@@ -140,7 +140,7 @@ const GOAL: GameEvent = {
     en: "There it is, the robot your son's friend has been begging for for weeks. Last one, under glass. The party starts in a few minutes.",
   },
   choices: [
-    { label: { fr: 'Acheter le robot', en: 'Buy the robot' }, effect: { temps: -7, argent: -18, give: ['jouet'] }, result: { fr: 'Tu rafles le dernier. Mission quasi bouclée.', en: 'You snag the last one. Mission nearly done.' } },
+    { label: { fr: 'Prendre le robot', en: 'Grab the robot' }, effect: { temps: -7, argent: -18, give: ['jouet'] }, result: { fr: 'Tu rafles le dernier. Reste la caisse.', en: 'You snag the last one. Now the checkout.' } },
     { label: { fr: 'Le modèle collector', en: 'The collector model' }, effect: { temps: -9, argent: -26, moral: 3, give: ['jouet'] }, result: { fr: 'La version de luxe. Le gamin sera le roi de la fête.', en: 'The deluxe version. The kid will be king of the party.' } },
     { label: { fr: 'Un jouet au rabais', en: 'A cut-price toy' }, effect: { temps: -4, argent: -7, moral: -5, give: ['jouet'] }, result: { fr: 'Tu prends un truc de seconde zone. Ça fera l’affaire, sans gloire.', en: 'You grab some second-rate thing. It will do, without glory.' } },
   ],
@@ -160,13 +160,13 @@ export const CHAPTER_3: Chapter = {
     { label: { fr: 'En ville', en: 'In town' }, steps: 4, fillers: [...STREET, DISTRIBUTEUR] },
     { label: { fr: 'La galerie marchande', en: 'The shopping mall' }, steps: 4, fillers: STORE },
     { label: { fr: 'Au rayon jouets', en: 'In the toy aisle' }, steps: 4, fillers: JOUETS },
-    { label: { fr: 'Le bon cadeau', en: 'The right gift' }, steps: 4, fillers: CAISSE, goals: [GOAL] },
+    { label: { fr: 'Le bon cadeau', en: 'The right gift' }, steps: 4, fillers: [], goals: [GOAL], tail: CAISSE, tailSteps: 3 },
   ],
   bonuses: [
     { key: 'skateboard', label: { fr: 'Skateboard', en: 'Skateboard' }, effect: { temps: 12, energie: -10 }, charges: 2, desc: { fr: '+12 temps, -10 énergie', en: '+12 time, -10 energy' } },
     { key: 'canette', label: { fr: 'Canette', en: 'Energy can' }, effect: { energie: 15, temps: -5 }, charges: 2, desc: { fr: '+15 énergie, -5 temps', en: '+15 energy, -5 time' } },
   ],
-  start: { temps: 110, energie: 76, argent: 44, moral: 66 },
+  start: { temps: 105, energie: 76, argent: 44, moral: 66 },
   drain: { temps: -3, energie: -2 },
   theme: {
     accent: '#9B59B6',
