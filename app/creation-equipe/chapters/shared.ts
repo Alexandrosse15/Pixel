@@ -574,7 +574,7 @@ export const TRANSPORT: GameEvent[] = [
     },
     choices: [
       { label: { fr: 'Tenter le coup quand même', en: 'Try it anyway' }, effect: { temps: -7, energie: -5 }, result: { fr: 'Tu finis par en attraper un. Compressé, mais en mouvement.', en: 'You eventually catch one. Squished, but moving.' } },
-      { label: { fr: 'Commander un VTC', en: 'Order a rideshare' }, effect: { temps: -4, argent: -12 }, result: { fr: 'Une voiture en cinq minutes. Le portefeuille trinque, le temps est sauvé.', en: 'A car in five minutes. The wallet suffers, the time is saved.' } },
+      { label: { fr: 'Prendre la navette de remplacement', en: 'Take the replacement shuttle' }, effect: { temps: -11, energie: 3 }, result: { fr: 'Une navette bondée finit par t’embarquer. Lent, mais assis.', en: 'A packed shuttle eventually takes you aboard. Slow, but seated.' } },
     ],
   },
   {
@@ -590,21 +590,6 @@ export const TRANSPORT: GameEvent[] = [
     choices: [
       { label: { fr: 'Repasser ton ticket', en: 'Tap your ticket again' }, effect: { temps: -5 }, result: { fr: 'Au deuxième passage, le portillon consent à s’ouvrir.', en: 'On the second tap, the gate consents to open.' } },
       { label: { fr: 'Appeler un agent', en: 'Call an attendant' }, effect: { temps: -9, moral: 2 }, result: { fr: 'Un agent débloque le tout et t’ouvre un accès. Lent mais sûr.', en: 'An attendant unjams it and opens a way through. Slow but sure.' } },
-    ],
-  },
-  {
-    id: 'vtc_annule',
-    sprite: 'vigile',
-    decor: 'arret_bus',
-    prop: 'carte',
-    title: { fr: 'Le VTC qui annule', en: 'The cancelled ride' },
-    text: {
-      fr: 'Ton chauffeur annule à la dernière seconde. L’appli en propose un autre... à quelques rues de là.',
-      en: 'Your driver cancels at the last second. The app offers another... a few streets away.',
-    },
-    choices: [
-      { label: { fr: 'Marcher à sa rencontre', en: 'Walk to meet it' }, effect: { temps: -6, energie: -4 }, result: { fr: 'Tu coupes au plus court vers le nouveau point de prise en charge.', en: 'You cut the shortest path to the new pickup point.' } },
-      { label: { fr: 'Recommander, plus cher', en: 'Rebook, pricier' }, effect: { temps: -3, argent: -8 }, result: { fr: 'Tu paies le tarif de pointe pour une voiture immédiate.', en: 'You pay surge pricing for an immediate car.' } },
     ],
   },
   {

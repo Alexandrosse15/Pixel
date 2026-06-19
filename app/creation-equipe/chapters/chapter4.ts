@@ -150,7 +150,7 @@ export const CHAPTER_4: Chapter = {
     { key: 'trottinette', label: { fr: 'Trottinette', en: 'Scooter' }, effect: { temps: 13, energie: -11 }, charges: 3, desc: { fr: '+13 temps, -11 énergie', en: '+13 time, -11 energy' } },
     { key: 'canette', label: { fr: 'Canette', en: 'Energy can' }, effect: { energie: 15, temps: -5 }, charges: 3, desc: { fr: '+15 énergie, -5 temps', en: '+15 energy, -5 time' } },
   ],
-  start: { temps: 88, energie: 80, argent: 46, moral: 70 },
+  start: { temps: 91, energie: 80, argent: 46, moral: 70 },
   drain: { temps: -2, energie: -2 },
   theme: {
     accent: '#E74C6C',

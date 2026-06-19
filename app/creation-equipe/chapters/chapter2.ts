@@ -113,18 +113,18 @@ const ECOLE: GameEvent[] = [
     ],
   },
   {
-    id: 'maitresse_pressee',
-    sprite: 'maitresse',
+    id: 'directeur_ecole',
+    sprite: 'patron',
     decor: 'ecole',
-    prop: 'horloge',
-    title: { fr: 'La maîtresse pressée', en: 'The teacher in a hurry' },
+    prop: 'journal',
+    title: { fr: 'Le directeur dans la cour', en: 'The principal in the yard' },
     text: {
-      fr: 'La maîtresse tapote sa montre depuis le préau. Elle a un train à prendre, elle aussi.',
-      en: 'The teacher taps her watch from the covered yard. She has a train to catch too.',
+      fr: 'Le directeur t’intercepte : il manque ta signature sur l’autorisation de sortie scolaire, et il veut la régler maintenant.',
+      en: 'The principal intercepts you: your signature is missing on the school trip form, and he wants it sorted now.',
     },
     choices: [
-      { label: { fr: "T'excuser platement", en: 'Grovel an apology' }, effect: { temps: -4, moral: -3 }, result: { fr: 'Tu enchaînes les excuses. Elle soupire mais patiente encore un peu.', en: 'You string together apologies. She sighs but waits a bit longer.' } },
-      { label: { fr: 'Promettre des chocolats', en: 'Promise chocolates' }, effect: { temps: -5, argent: -4, moral: 4 }, result: { fr: 'La promesse d’une boîte de chocolats détend l’ambiance.', en: 'The promise of a box of chocolates eases the mood.' } },
+      { label: { fr: 'Signer la paperasse', en: 'Sign the paperwork' }, effect: { temps: -4, moral: -3 }, result: { fr: 'Trois croix, une signature, deux soupirs. Réglé, mais ça grignote.', en: 'Three boxes, a signature, two sighs. Sorted, but it nibbles at the clock.' } },
+      { label: { fr: 'Promettre des chocolats', en: 'Promise chocolates' }, effect: { temps: -5, argent: -4, moral: 4 }, result: { fr: 'La promesse d’une boîte de chocolats détend le directeur.', en: 'The promise of a box of chocolates softens the principal.' } },
     ],
   },
 ]
@@ -166,7 +166,7 @@ export const CHAPTER_2: Chapter = {
     { key: 'trottinette', label: { fr: 'Trottinette', en: 'Scooter' }, effect: { temps: 13, energie: -11 }, charges: 2, desc: { fr: '+13 temps, -11 énergie', en: '+13 time, -11 energy' } },
     { key: 'sandwich', label: { fr: 'Sandwich', en: 'Sandwich' }, effect: { energie: 15, temps: -5 }, charges: 2, desc: { fr: '+15 énergie, -5 temps', en: '+15 energy, -5 time' } },
   ],
-  start: { temps: 101, energie: 78, argent: 36, moral: 68 },
+  start: { temps: 106, energie: 78, argent: 36, moral: 68 },
   drain: { temps: -3, energie: -2 },
   theme: {
     accent: '#56A8FF',
