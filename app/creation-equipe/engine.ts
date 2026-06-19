@@ -184,13 +184,18 @@ export interface ChapterTheme {
   introSprite: SpriteKey
 }
 
-// Un lieu traversé dans l'ordre : pioche ses fillers, puis (si présent) son objectif en fin de zone.
+// Un lieu traversé dans l'ordre : pioche ses fillers, puis (si présent) son objectif,
+// puis (en magasin) la phase caisse, toujours APRÈS l'objectif. Garde la logique des lieux.
 export interface Zone {
   label: Loc
   steps: number
   fillers: GameEvent[]
-  // Candidats objectif : un est tiré au sort et placé à la fin de la zone.
+  // Candidats objectif : un est tiré au sort et placé après les fillers.
   goals?: GameEvent[]
+  // Événements de fin de zone (caisse, paiement) placés APRÈS l'objectif.
+  tail?: GameEvent[]
+  // Combien d'événements de tail piocher (défaut : tous).
+  tailSteps?: number
 }
 
 export interface Chapter {
@@ -316,28 +321,43 @@ export function buildDeck(chapter: Chapter): GameEvent[] {
     const goal = zone.goals?.length
       ? shuffle(zone.goals.filter((g) => !used.has(g.id)))[0]
       : undefined
-    const fillerTarget = goal ? zone.steps - 1 : zone.steps
+    // Phase caisse (tail) : seulement s'il y a un objectif, placée après lui.
+    const tailPool = zone.tail ?? []
+    const tailN = goal && tailPool.length ? Math.min(zone.tailSteps ?? tailPool.length, tailPool.length) : 0
+    const fillerTarget = zone.steps - (goal ? 1 : 0) - tailN
 
     const chosen: GameEvent[] = []
-    const take = (e?: GameEvent) => {
-      if (e && !used.has(e.id)) {
-        chosen.push(e)
+    const take = (list: GameEvent[], pool: GameEvent[], limit: number, e?: GameEvent) => {
+      if (e && !used.has(e.id) && list.length < limit) {
+        list.push(e)
         used.add(e.id)
       }
     }
 
-    // Argent garanti dans la première zone.
-    if (zi === 0) take(zone.fillers.find((e) => e.money))
+    // Parcours (rayons / rue), dans un ordre procédural.
+    if (zi === 0) take(chosen, zone.fillers, fillerTarget, zone.fillers.find((e) => e.money))
     for (const e of shuffle(zone.fillers)) {
       if (chosen.length >= fillerTarget) break
-      take(e)
+      take(chosen, zone.fillers, fillerTarget, e)
     }
 
     const ordered = shuffle(chosen)
+
     if (goal) {
       ordered.push(goal)
       used.add(goal.id)
     }
+
+    // Caisse / paiement : toujours en dernier, après avoir l'objet.
+    if (tailN) {
+      const tailChosen: GameEvent[] = []
+      for (const e of shuffle(tailPool)) {
+        if (tailChosen.length >= tailN) break
+        take(tailChosen, tailPool, tailN, e)
+      }
+      ordered.push(...tailChosen)
+    }
+
     deck.push(...ordered)
   })
 

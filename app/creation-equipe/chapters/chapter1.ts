@@ -1,5 +1,5 @@
 import type { Chapter, GameEvent } from '../engine'
-import { STREET, STORE, DISTRIBUTEUR } from './shared'
+import { STREET, STORE, CHECKOUT, DISTRIBUTEUR } from './shared'
 
 // Objectif intermédiaire : les couches (zone supermarché).
 const COUCHES: GameEvent[] = [
@@ -119,7 +119,7 @@ export const CHAPTER_1: Chapter = {
   ],
   zones: [
     { label: { fr: 'En chemin', en: 'On the way' }, steps: 5, fillers: [...STREET, DISTRIBUTEUR] },
-    { label: { fr: 'Au supermarché', en: 'At the supermarket' }, steps: 6, fillers: STORE, goals: COUCHES },
+    { label: { fr: 'Au supermarché', en: 'At the supermarket' }, steps: 6, fillers: STORE, goals: COUCHES, tail: CHECKOUT, tailSteps: 2 },
     { label: { fr: 'La pharmacie de garde', en: 'The on-call pharmacy' }, steps: 5, fillers: STREET, goals: LAIT },
   ],
   bonuses: [

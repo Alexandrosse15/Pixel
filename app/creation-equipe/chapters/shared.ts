@@ -341,8 +341,8 @@ export const STREET: GameEvent[] = [
   },
 ]
 
-// ── Spécifique magasins. ──
-export const STORE: GameEvent[] = [
+// ── Caisse / paiement : phase de fin de magasin, placée APRÈS l'objet. ──
+export const CHECKOUT: GameEvent[] = [
   {
     id: 'monnaie',
     sprite: 'caissier',
@@ -374,21 +374,6 @@ export const STORE: GameEvent[] = [
     ],
   },
   {
-    id: 'rayon_deplace',
-    sprite: 'vigile',
-    decor: 'supermarche',
-    prop: 'panier',
-    title: { fr: 'Le magasin réagencé', en: 'The rearranged store' },
-    text: {
-      fr: 'Tout a été déplacé depuis la dernière fois. Ce que tu cherches a migré dans une allée inconnue.',
-      en: 'Everything has been moved since last time. What you need has migrated to some unknown aisle.',
-    },
-    choices: [
-      { label: { fr: 'Demander à un employé', en: 'Ask a staff member' }, effect: { temps: -4, moral: 2 }, result: { fr: 'Il te pointe la bonne allée du doigt. Gain de temps net.', en: 'He points you to the right aisle. A clear time gain.' } },
-      { label: { fr: 'Chercher seul, têtu', en: 'Search alone, stubborn' }, effect: { temps: -11, energie: -4, moral: -3 }, result: { fr: 'Tu écumes six allées avant de tomber dessus. Fierté coûteuse.', en: 'You comb six aisles before stumbling on it. Costly pride.' } },
-    ],
-  },
-  {
     id: 'caisse_queue',
     sprite: 'mamie',
     decor: 'caisse',
@@ -402,6 +387,25 @@ export const STORE: GameEvent[] = [
       { label: { fr: 'Patienter en zen', en: 'Wait, zen' }, effect: { temps: -15, moral: 3 }, result: { fr: 'Tu respires. Étrangement apaisant.', en: 'You breathe. Strangely soothing.' } },
       { label: { fr: 'Caisse automatique', en: 'Self-checkout' }, effect: { temps: -9, energie: -5, moral: -6 }, result: { fr: 'Article non reconnu. Veuillez attendre un agent. Classique.', en: 'Unexpected item. Please wait for an attendant. Classic.' } },
       { label: { fr: 'Lâcher la file', en: 'Abandon the line' }, effect: { temps: -2, moral: -7 }, result: { fr: 'Tu abandonnes la queue, frustré.', en: 'You quit the queue, frustrated.' } },
+    ],
+  },
+]
+
+// ── Rayons : parcours du magasin (avant la caisse), ordre procédural. ──
+export const STORE: GameEvent[] = [
+  {
+    id: 'rayon_deplace',
+    sprite: 'vigile',
+    decor: 'supermarche',
+    prop: 'panier',
+    title: { fr: 'Le magasin réagencé', en: 'The rearranged store' },
+    text: {
+      fr: 'Tout a été déplacé depuis la dernière fois. Ce que tu cherches a migré dans une allée inconnue.',
+      en: 'Everything has been moved since last time. What you need has migrated to some unknown aisle.',
+    },
+    choices: [
+      { label: { fr: 'Demander à un employé', en: 'Ask a staff member' }, effect: { temps: -4, moral: 2 }, result: { fr: 'Il te pointe la bonne allée du doigt. Gain de temps net.', en: 'He points you to the right aisle. A clear time gain.' } },
+      { label: { fr: 'Chercher seul, têtu', en: 'Search alone, stubborn' }, effect: { temps: -11, energie: -4, moral: -3 }, result: { fr: 'Tu écumes six allées avant de tomber dessus. Fierté coûteuse.', en: 'You comb six aisles before stumbling on it. Costly pride.' } },
     ],
   },
   {
