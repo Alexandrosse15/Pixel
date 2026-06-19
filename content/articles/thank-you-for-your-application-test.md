@@ -9,7 +9,6 @@ author: "Alexandrosse"
 readTime: "8 min"
 score: 7
 image_color: "from-slate-950 via-zinc-950 to-neutral-950"
-coverImage: "/images/thank-you-for-your-application/screenshot-1.webp"
 gameName: "Thank You For Your Application"
 featured: false
 ---

@@ -9,7 +9,6 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 8
 image_color: "from-emerald-950 via-red-950 to-zinc-950"
-coverImage: "/images/bingle-bingle/screenshot-1.webp"
 gameName: "Bingle Bingle"
 featured: false
 ---
