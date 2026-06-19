@@ -49,7 +49,7 @@ export default function IndeDuMoisPage() {
             <p className="font-display text-xs uppercase tracking-ultra text-brand">{s.title}</p>
           </div>
           <h1 className="mt-4 font-display text-4xl font-black uppercase leading-none text-white md:text-6xl">
-            Mission Courses
+            {locale === 'en' ? 'Errand Run' : 'Mission Courses'}
           </h1>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink-secondary">{s.description}</p>
         </div>

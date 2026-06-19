@@ -2,7 +2,9 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { SITE_URL } from '@/lib/config'
+import { useLocale } from '@/components/LocaleProvider'
 import {
+  L,
   RANK_POINTS,
   STAT_META,
   applyChoice,
@@ -22,6 +24,8 @@ import {
   type Ending,
   type GameEvent,
   type GameState,
+  type Lang,
+  type Loc,
   type StatKey,
 } from './engine'
 import { CHAPTERS } from './chapters'
@@ -30,7 +34,7 @@ import { Decor, Prop, Sprite } from './sprites'
 type Screen = 'select' | 'intro' | 'playing' | 'result' | 'ending'
 
 interface LastResult {
-  text: string
+  text: Loc
   deltas: Partial<Record<StatKey, number>>
   gained: string[]
 }
@@ -44,7 +48,79 @@ const PROGRESS_KEY = 'cdle-progress-v2'
 const STAT_ORDER: StatKey[] = ['temps', 'energie', 'argent', 'moral']
 const GRADE_RANK = ['D', 'C', 'B', 'A', 'S']
 
-function StatBar({ stat, value }: { stat: StatKey; value: number }) {
+// Chaînes d'interface fixes, par langue.
+const UI = {
+  fr: {
+    eyebrow: 'Mission Courses',
+    chooseChapter: 'Choisis ton chapitre',
+    totalScore: 'Score total',
+    locked: 'Verrouillé',
+    finishPrev: 'Termine le chapitre précédent',
+    rank: 'Rang',
+    cleared: (n: number, t: number) => `${n}/${t} chapitres réussis`,
+    shareScore: 'Partager mon score',
+    linkCopied: 'Lien copié',
+    start: 'Commencer',
+    chapters: 'Chapitres',
+    bonus: 'Bonus',
+    defeat: 'Défaite',
+    softlock:
+      "Le portefeuille vide. Plus un sou pour payer quoi que ce soit, et la mission inachevée. Elle s'arrête ici.",
+    restart: 'Recommencer',
+    cont: 'Continuer',
+    victory: 'Victoire',
+    halfway: 'À moitié',
+    fail: 'Échec',
+    why: 'Pourquoi',
+    pts: (n: number) => `+${n} pts`,
+    unlocked: (n: number) => `Chapitre ${n} débloqué`,
+    allDone: 'Tous les chapitres terminés !',
+    replay: 'Rejouer',
+    share: 'Partager',
+    totalPts: (n: number) => `Score total ${n} pts`,
+    procedural: 'Jeu procédural : chaque partie tire ses événements au hasard',
+    shareChapter: (title: string, kicker: string, grade: string) =>
+      `J'ai bouclé "${title}" (${kicker}) avec le rang ${grade} sur InsertCoins.press. Tu fais mieux ?`,
+    shareTotal: (score: number) =>
+      `Score total ${score} pts sur les chapitres de Mission Courses (InsertCoins.press). À toi de jouer.`,
+  },
+  en: {
+    eyebrow: 'Errand Run',
+    chooseChapter: 'Choose your chapter',
+    totalScore: 'Total score',
+    locked: 'Locked',
+    finishPrev: 'Finish the previous chapter',
+    rank: 'Rank',
+    cleared: (n: number, t: number) => `${n}/${t} chapters cleared`,
+    shareScore: 'Share my score',
+    linkCopied: 'Link copied',
+    start: 'Start',
+    chapters: 'Chapters',
+    bonus: 'Bonus',
+    defeat: 'Defeat',
+    softlock:
+      'Wallet empty. Not a penny left to pay for anything, and the mission unfinished. It ends right here.',
+    restart: 'Restart',
+    cont: 'Continue',
+    victory: 'Victory',
+    halfway: 'Halfway',
+    fail: 'Failure',
+    why: 'Why',
+    pts: (n: number) => `+${n} pts`,
+    unlocked: (n: number) => `Chapter ${n} unlocked`,
+    allDone: 'All chapters completed!',
+    replay: 'Replay',
+    share: 'Share',
+    totalPts: (n: number) => `Total score ${n} pts`,
+    procedural: 'Procedural game: every run draws its events at random',
+    shareChapter: (title: string, kicker: string, grade: string) =>
+      `I cleared "${title}" (${kicker}) with rank ${grade} on InsertCoins.press. Beat that.`,
+    shareTotal: (score: number) =>
+      `Total score ${score} pts on the Errand Run chapters (InsertCoins.press). Your turn.`,
+  },
+} as const
+
+function StatBar({ stat, value, lang }: { stat: StatKey; value: number; lang: Lang }) {
   const meta = STAT_META[stat]
   const pct = stat === 'argent' ? Math.min(100, (value / 60) * 100) : value
   const low = stat !== 'argent' && value <= 25
@@ -52,7 +128,7 @@ function StatBar({ stat, value }: { stat: StatKey; value: number }) {
     <div>
       <div className="mb-1 flex items-baseline justify-between">
         <span className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
-          {meta.label}
+          {L(lang, meta.label)}
         </span>
         <span
           className="font-mono text-xs font-bold tabular-nums"
@@ -100,9 +176,14 @@ export default function Game() {
   const deck = useRef<GameEvent[]>([])
   const recorded = useRef(0)
 
+  const { locale } = useLocale()
+  const lang: Lang = locale === 'en' ? 'en' : 'fr'
+  const tr = useCallback((v: Loc) => L(lang, v), [lang])
+  const ui = UI[lang]
+
   const rank = useMemo(
-    () => (ending?.tone === 'win' ? computeRank(state) : null),
-    [ending, state]
+    () => (ending?.tone === 'win' ? computeRank(state, lang) : null),
+    [ending, state, lang]
   )
   const totalScore = useMemo(
     () =>
@@ -192,37 +273,37 @@ export default function Game() {
       })
 
       if (isDead(upd) || upd.step >= chapterSteps(chapter)) {
-        setEnding(computeEnding(upd, chapter))
+        setEnding(computeEnding(upd, chapter, lang))
         setScreen('ending')
       } else {
         setScreen('result')
       }
     },
-    [event, state, chapter]
+    [event, state, chapter, lang]
   )
 
   const next = useCallback(() => {
     if (!chapter) return
     const d = deck.current
     if (state.step >= d.length) {
-      setEnding(computeEnding(state, chapter))
+      setEnding(computeEnding(state, chapter, lang))
       setScreen('ending')
       return
     }
     setEvent(d[state.step])
     setScreen('playing')
-  }, [state, chapter])
+  }, [state, chapter, lang])
 
   const share = useCallback(
     async (mode: 'chapter' | 'total') => {
       const url = `${SITE_URL}/creation-equipe`
       const text =
         mode === 'chapter' && rank && chapter
-          ? `J'ai bouclé "${chapter.title}" (${chapter.kicker}) avec le rang ${rank.grade} sur InsertCoins.press. Tu fais mieux ?`
-          : `Score total ${totalScore} pts sur les chapitres de Mission Courses (InsertCoins.press). À toi de jouer.`
+          ? ui.shareChapter(tr(chapter.title), tr(chapter.kicker), rank.grade)
+          : ui.shareTotal(totalScore)
       try {
         if (typeof navigator !== 'undefined' && navigator.share) {
-          await navigator.share({ title: 'Mission Courses', text, url })
+          await navigator.share({ title: ui.eyebrow, text, url })
         } else if (typeof navigator !== 'undefined' && navigator.clipboard) {
           await navigator.clipboard.writeText(`${text} ${url}`)
           setCopied(true)
@@ -232,7 +313,7 @@ export default function Game() {
         /* partage annulé */
       }
     },
-    [rank, chapter, totalScore]
+    [rank, chapter, totalScore, ui, tr]
   )
 
   const accent = chapter?.theme.accent ?? '#FF4500'
@@ -246,10 +327,10 @@ export default function Game() {
             <div className="mb-6 flex items-end justify-between gap-4">
               <div>
                 <p className="font-display text-[11px] uppercase tracking-ultra text-brand">
-                  Mission Courses
+                  {ui.eyebrow}
                 </p>
                 <h2 className="font-display text-2xl font-black uppercase leading-none text-white md:text-3xl">
-                  Choisis ton chapitre
+                  {ui.chooseChapter}
                 </h2>
               </div>
               <div className="text-right">
@@ -257,7 +338,7 @@ export default function Game() {
                   {totalScore}
                 </div>
                 <div className="font-display text-[9px] uppercase tracking-widest text-ink-muted">
-                  Score total
+                  {ui.totalScore}
                 </div>
               </div>
             </div>
@@ -281,20 +362,20 @@ export default function Game() {
                     </div>
                     <div className="min-w-0 flex-1">
                       <p className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
-                        {c.kicker}
+                        {tr(c.kicker)}
                       </p>
                       <p className="truncate font-display text-base font-bold uppercase text-white">
-                        {locked ? 'Verrouillé' : c.title}
+                        {locked ? ui.locked : tr(c.title)}
                       </p>
                       <p className="truncate text-xs text-ink-secondary">
-                        {locked ? 'Termine le chapitre précédent' : c.goal}
+                        {locked ? ui.finishPrev : tr(c.goal)}
                       </p>
                     </div>
                     {best && (
                       <div className="shrink-0 text-center">
                         <div className="font-display text-xl font-black text-brand">{best}</div>
                         <div className="font-display text-[8px] uppercase tracking-widest text-ink-muted">
-                          Rang
+                          {ui.rank}
                         </div>
                       </div>
                     )}
@@ -305,13 +386,13 @@ export default function Game() {
 
             <div className="mt-6 flex items-center justify-between gap-3 border-t border-line pt-5">
               <p className="font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                {Object.keys(progress.ranks).length}/{CHAPTERS.length} chapitres réussis
+                {ui.cleared(Object.keys(progress.ranks).length, CHAPTERS.length)}
               </p>
               <button
                 onClick={() => share('total')}
                 className="rounded-sm border border-line bg-bg-elevated px-4 py-2 font-display text-[11px] font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
               >
-                {copied ? 'Lien copié' : 'Partager mon score'}
+                {copied ? ui.linkCopied : ui.shareScore}
               </button>
             </div>
           </div>
@@ -332,15 +413,15 @@ export default function Game() {
                 className="mb-2 font-display text-[11px] uppercase tracking-ultra"
                 style={{ color: accent }}
               >
-                {chapter.kicker}
+                {tr(chapter.kicker)}
               </p>
               <h2 className="mb-4 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
-                {chapter.title}
+                {tr(chapter.title)}
               </h2>
-              <p className="mb-6 leading-relaxed text-ink-secondary">{chapter.intro}</p>
+              <p className="mb-6 leading-relaxed text-ink-secondary">{tr(chapter.intro)}</p>
               <div className="mb-6 flex flex-wrap gap-2">
                 {chapter.items.map((it) => (
-                  <ItemBadge key={it.id} label={it.label} got={false} />
+                  <ItemBadge key={it.id} label={tr(it.label)} got={false} />
                 ))}
               </div>
               <div className="flex flex-col gap-2.5 sm:flex-row">
@@ -348,13 +429,13 @@ export default function Game() {
                   onClick={start}
                   className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
                 >
-                  Commencer
+                  {ui.start}
                 </button>
                 <button
                   onClick={() => setScreen('select')}
                   className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white sm:w-auto"
                 >
-                  Chapitres
+                  {ui.chapters}
                 </button>
               </div>
             </div>
@@ -367,24 +448,24 @@ export default function Game() {
             <div className="border-b border-line bg-bg-surface p-4">
               <div className="mb-3 grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-4">
                 {STAT_ORDER.map((s) => (
-                  <StatBar key={s} stat={s} value={state[s]} />
+                  <StatBar key={s} stat={s} value={state[s]} lang={lang} />
                 ))}
               </div>
               <div className="flex items-center justify-between gap-3">
                 <div className="flex flex-wrap gap-2">
                   {chapter.items.map((it) => (
-                    <ItemBadge key={it.id} label={it.label} got={!!state.items[it.id]} />
+                    <ItemBadge key={it.id} label={tr(it.label)} got={!!state.items[it.id]} />
                   ))}
                 </div>
                 <span className="shrink-0 text-right font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                  <span className="text-ink-secondary">{zoneLabelAt(chapter, state.step)}</span> ·{' '}
+                  <span className="text-ink-secondary">{tr(zoneLabelAt(chapter, state.step))}</span> ·{' '}
                   {state.step}/{chapterSteps(chapter)}
                 </span>
               </div>
 
               <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-3">
                 <span className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
-                  Bonus
+                  {ui.bonus}
                 </span>
                 {chapter.bonuses.map((b) => {
                   const left = charges[b.key] ?? 0
@@ -394,7 +475,7 @@ export default function Game() {
                       key={b.key}
                       disabled={!ok}
                       onClick={() => playBonus(b)}
-                      title={b.desc}
+                      title={tr(b.desc)}
                       className="group flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-2 py-1 transition-all hover:border-brand disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-line"
                     >
                       <span className="h-7 w-7 shrink-0">
@@ -402,9 +483,9 @@ export default function Game() {
                       </span>
                       <span className="text-left leading-tight">
                         <span className="block font-body text-xs text-ink-primary group-hover:text-white">
-                          {b.label} <span className="font-mono text-ink-muted">x{left}</span>
+                          {tr(b.label)} <span className="font-mono text-ink-muted">x{left}</span>
                         </span>
-                        <span className="block font-mono text-[9px] text-ink-muted">{b.desc}</span>
+                        <span className="block font-mono text-[9px] text-ink-muted">{tr(b.desc)}</span>
                       </span>
                     </button>
                   )
@@ -440,29 +521,26 @@ export default function Game() {
 
             <div className="p-6 md:p-8">
               <h3 className="mb-3 font-display text-xl font-black uppercase leading-tight text-white md:text-2xl">
-                {event.title}
+                {tr(event.title)}
               </h3>
 
               {screen === 'playing' && (
                 <>
-                  <p className="mb-6 leading-relaxed text-ink-secondary">{event.text}</p>
+                  <p className="mb-6 leading-relaxed text-ink-secondary">{tr(event.text)}</p>
                   {event.choices.every((c) => choiceLockReason(state, c)) ? (
                     <div
                       className="rounded-sm border border-brand/40 bg-brand/10 p-5 text-center"
                       style={{ animation: 'ic-fade 0.35s ease-out' }}
                     >
                       <p className="mb-1 font-display text-xs uppercase tracking-widest text-brand">
-                        Défaite
+                        {ui.defeat}
                       </p>
-                      <p className="mb-5 leading-relaxed text-ink-secondary">
-                        Le portefeuille vide. Plus un sou pour payer quoi que ce soit, et la mission
-                        inachevée. Elle s&apos;arrête ici.
-                      </p>
+                      <p className="mb-5 leading-relaxed text-ink-secondary">{ui.softlock}</p>
                       <button
                         onClick={() => setScreen('select')}
                         className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
                       >
-                        Recommencer
+                        {ui.restart}
                       </button>
                     </div>
                   ) : (
@@ -477,11 +555,11 @@ export default function Game() {
                             className="group flex items-center justify-between gap-3 rounded-sm border border-line bg-bg-elevated px-4 py-3 text-left transition-all hover:border-brand hover:bg-bg-base disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:border-line"
                           >
                             <span className="font-body text-sm text-ink-primary group-hover:text-white">
-                              {c.label}
+                              {tr(c.label)}
                             </span>
                             {reason ? (
                               <span className="shrink-0 font-mono text-[10px] uppercase text-ink-muted">
-                                {reason}
+                                {tr(reason)}
                               </span>
                             ) : (
                               <span className="font-display text-brand opacity-0 transition-opacity group-hover:opacity-100">
@@ -498,7 +576,7 @@ export default function Game() {
 
               {screen === 'result' && last && (
                 <div style={{ animation: 'ic-fade 0.35s ease-out' }}>
-                  <p className="mb-5 leading-relaxed text-ink-secondary">{last.text}</p>
+                  <p className="mb-5 leading-relaxed text-ink-secondary">{tr(last.text)}</p>
                   <div className="mb-5 flex flex-wrap gap-2">
                     {STAT_ORDER.map((s) => {
                       const d = last.deltas[s]
@@ -513,7 +591,7 @@ export default function Game() {
                             color: good ? '#3DDC97' : '#FF6A33',
                           }}
                         >
-                          {STAT_META[s].label} {good ? '+' : ''}
+                          {L(lang, STAT_META[s].label)} {good ? '+' : ''}
                           {d}
                         </span>
                       )
@@ -525,7 +603,7 @@ export default function Game() {
                           key={id}
                           className="rounded-sm border border-brand bg-brand/15 px-2 py-1 font-display text-[10px] uppercase tracking-widest text-brand"
                         >
-                          + {it?.label ?? id}
+                          + {it ? tr(it.label) : id}
                         </span>
                       )
                     })}
@@ -534,7 +612,7 @@ export default function Game() {
                     onClick={next}
                     className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
                   >
-                    Continuer
+                    {ui.cont}
                   </button>
                 </div>
               )}
@@ -569,7 +647,7 @@ export default function Game() {
                   style={{ animation: 'ic-stamp 0.5s cubic-bezier(0.2,0.9,0.3,1.4) 0.2s both' }}
                 >
                   <span className="font-display text-[9px] uppercase tracking-widest text-white/70">
-                    Rang
+                    {ui.rank}
                   </span>
                   <span className="font-display text-4xl font-black leading-none text-white md:text-5xl">
                     {rank.grade}
@@ -586,15 +664,15 @@ export default function Game() {
                     ending.tone === 'win' ? '#3DDC97' : ending.tone === 'partial' ? '#F2C94C' : '#FF4500',
                 }}
               >
-                {ending.tone === 'win' ? 'Victoire' : ending.tone === 'partial' ? 'À moitié' : 'Échec'}
-                <span className="text-ink-muted"> · {chapter.kicker}</span>
+                {ending.tone === 'win' ? ui.victory : ending.tone === 'partial' ? ui.halfway : ui.fail}
+                <span className="text-ink-muted"> · {tr(chapter.kicker)}</span>
               </p>
               <h2 className="mb-2 font-display text-3xl font-black uppercase leading-none text-white md:text-4xl">
                 {ending.title}
               </h2>
               {rank && (
                 <p className="mb-4 font-display text-xs uppercase tracking-widest text-brand">
-                  Rang {rank.grade} · {rank.label} · +{RANK_POINTS[rank.grade]} pts
+                  {ui.rank} {rank.grade} · {rank.label} · {ui.pts(RANK_POINTS[rank.grade])}
                 </p>
               )}
               <p className="mx-auto mb-5 max-w-md leading-relaxed text-ink-secondary">
@@ -602,7 +680,7 @@ export default function Game() {
               </p>
               {ending.cause && (
                 <p className="mx-auto mb-5 max-w-md rounded-sm border border-brand/40 bg-brand/10 px-4 py-2 text-sm font-medium text-brand">
-                  Pourquoi : {ending.cause}
+                  {ui.why} : {ending.cause}
                 </p>
               )}
               <div className="mx-auto mb-6 grid max-w-sm grid-cols-4 gap-2">
@@ -619,7 +697,7 @@ export default function Game() {
                         {STAT_META[s].unit}
                       </div>
                       <div className="font-display text-[9px] uppercase tracking-widest text-ink-muted">
-                        {STAT_META[s].label}
+                        {L(lang, STAT_META[s].label)}
                       </div>
                     </div>
                   )
@@ -627,15 +705,13 @@ export default function Game() {
               </div>
               <div className="mb-6 flex flex-wrap justify-center gap-2">
                 {chapter.items.map((it) => (
-                  <ItemBadge key={it.id} label={it.label} got={!!state.items[it.id]} />
+                  <ItemBadge key={it.id} label={tr(it.label)} got={!!state.items[it.id]} />
                 ))}
               </div>
 
               {ending.tone === 'win' && chapter.id === progress.unlocked - 1 && progress.unlocked <= CHAPTERS.length && (
                 <p className="mb-5 font-display text-xs uppercase tracking-widest text-brand">
-                  {progress.unlocked > CHAPTERS.length
-                    ? 'Tous les chapitres terminés !'
-                    : `Chapitre ${progress.unlocked} débloqué`}
+                  {progress.unlocked > CHAPTERS.length ? ui.allDone : ui.unlocked(progress.unlocked)}
                 </p>
               )}
 
@@ -644,23 +720,23 @@ export default function Game() {
                   onClick={start}
                   className="w-full rounded-sm bg-brand px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-white transition-colors hover:bg-brand-light"
                 >
-                  Rejouer
+                  {ui.replay}
                 </button>
                 <button
                   onClick={() => setScreen('select')}
                   className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
                 >
-                  Chapitres
+                  {ui.chapters}
                 </button>
                 <button
                   onClick={() => share('chapter')}
                   className="w-full rounded-sm border border-line bg-bg-elevated px-6 py-4 font-display text-sm font-bold uppercase tracking-widest text-ink-primary transition-colors hover:border-brand hover:text-white"
                 >
-                  {copied ? 'Lien copié' : 'Partager'}
+                  {copied ? ui.linkCopied : ui.share}
                 </button>
               </div>
               <p className="mt-5 font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                Score total {totalScore} pts
+                {ui.totalPts(totalScore)}
               </p>
             </div>
           </div>
@@ -668,7 +744,7 @@ export default function Game() {
       </div>
 
       <p className="mt-4 text-center font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-        Jeu procédural : chaque partie tire ses événements au hasard
+        {ui.procedural}
       </p>
     </div>
   )

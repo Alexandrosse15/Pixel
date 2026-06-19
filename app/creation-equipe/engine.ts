@@ -118,6 +118,11 @@ export type PropKey =
 
 export type StatKey = 'temps' | 'energie' | 'argent' | 'moral'
 
+// Texte localisé : soit une chaîne unique, soit une paire fr/en.
+export type Lang = 'fr' | 'en'
+export type Loc = string | { fr: string; en: string }
+export const L = (lang: Lang, v: Loc): string => (typeof v === 'string' ? v : v[lang] ?? v.fr)
+
 export interface GameState {
   temps: number
   energie: number
@@ -137,9 +142,9 @@ export interface Effect {
 }
 
 export interface Choice {
-  label: string
+  label: Loc
   effect: Effect
-  result: string
+  result: Loc
 }
 
 export interface GameEvent {
@@ -147,8 +152,8 @@ export interface GameEvent {
   sprite: SpriteKey
   decor: DecorKey
   prop?: PropKey
-  title: string
-  text: string
+  title: Loc
+  text: Loc
   choices: Choice[]
   // true = source d'argent garantie en première moitié (anti-softlock).
   money?: boolean
@@ -156,16 +161,16 @@ export interface GameEvent {
 
 export interface ItemDef {
   id: string
-  label: string
+  label: Loc
   prop: PropKey
 }
 
 export interface Bonus {
   key: PropKey
-  label: string
+  label: Loc
   effect: Effect
   charges: number
-  desc: string
+  desc: Loc
 }
 
 export interface ChapterTheme {
@@ -181,7 +186,7 @@ export interface ChapterTheme {
 
 // Un lieu traversé dans l'ordre : pioche ses fillers, puis (si présent) son objectif en fin de zone.
 export interface Zone {
-  label: string
+  label: Loc
   steps: number
   fillers: GameEvent[]
   // Candidats objectif : un est tiré au sort et placé à la fin de la zone.
@@ -190,10 +195,10 @@ export interface Zone {
 
 export interface Chapter {
   id: number
-  kicker: string
-  title: string
-  intro: string
-  goal: string
+  kicker: Loc
+  title: Loc
+  intro: Loc
+  goal: Loc
   items: ItemDef[]
   zones: Zone[]
   bonuses: Bonus[]
@@ -205,7 +210,7 @@ export interface Chapter {
 export const chapterSteps = (c: Chapter): number => c.zones.reduce((n, z) => n + z.steps, 0)
 
 // Libellé du lieu courant pour une étape donnée.
-export function zoneLabelAt(c: Chapter, step: number): string {
+export function zoneLabelAt(c: Chapter, step: number): Loc {
   let acc = 0
   for (const z of c.zones) {
     acc += z.steps
@@ -227,11 +232,11 @@ export interface Rank {
   label: string
 }
 
-export const STAT_META: Record<StatKey, { label: string; unit: string; color: string }> = {
-  temps: { label: 'Temps', unit: '%', color: '#FF4500' },
-  energie: { label: 'Énergie', unit: '%', color: '#3DDC97' },
-  argent: { label: 'Argent', unit: '€', color: '#F2C94C' },
-  moral: { label: 'Moral', unit: '%', color: '#56A8FF' },
+export const STAT_META: Record<StatKey, { label: Loc; unit: string; color: string }> = {
+  temps: { label: { fr: 'Temps', en: 'Time' }, unit: '%', color: '#FF4500' },
+  energie: { label: { fr: 'Énergie', en: 'Energy' }, unit: '%', color: '#3DDC97' },
+  argent: { label: { fr: 'Argent', en: 'Money' }, unit: '€', color: '#F2C94C' },
+  moral: { label: { fr: 'Moral', en: 'Morale' }, unit: '%', color: '#56A8FF' },
 }
 
 export const half = (steps: number) => Math.ceil(steps / 2)
@@ -272,9 +277,9 @@ export function gotCount(state: GameState, chapter: Chapter): number {
 
 // Raison de verrouillage d'un choix, ou null si jouable. Le timing des objectifs
 // est désormais géré par les zones, donc seul le coût en argent verrouille.
-export function choiceLockReason(state: GameState, choice: Choice): string | null {
+export function choiceLockReason(state: GameState, choice: Choice): Loc | null {
   const cost = choice.effect.argent ?? 0
-  if (cost < 0 && state.argent + cost < 0) return 'Trop cher'
+  if (cost < 0 && state.argent + cost < 0) return { fr: 'Trop cher', en: 'Too pricey' }
   return null
 }
 
@@ -348,30 +353,33 @@ export function isDead(state: GameState): StatKey | null {
 
 const pick = <T,>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)]
 
-export function computeRank(state: GameState): Rank {
+export function computeRank(state: GameState, lang: Lang = 'fr'): Rank {
   const score = state.temps + state.energie + 0.5 * state.moral + 0.4 * state.argent
-  if (score >= 150) return { grade: 'S', label: 'Sans-faute légendaire' }
-  if (score >= 122) return { grade: 'A', label: 'Maîtrise totale' }
-  if (score >= 98) return { grade: 'B', label: 'Mission bien menée' }
-  if (score >= 76) return { grade: 'C', label: 'Juste à temps' }
-  return { grade: 'D', label: 'Sur le fil du rasoir' }
+  const r = (grade: Rank['grade'], label: { fr: string; en: string }): Rank => ({ grade, label: L(lang, label) })
+  if (score >= 150) return r('S', { fr: 'Sans-faute légendaire', en: 'Legendary clean run' })
+  if (score >= 122) return r('A', { fr: 'Maîtrise totale', en: 'Total mastery' })
+  if (score >= 98) return r('B', { fr: 'Mission bien menée', en: 'Mission well handled' })
+  if (score >= 76) return r('C', { fr: 'Juste à temps', en: 'Just in time' })
+  return r('D', { fr: 'Sur le fil du rasoir', en: 'By the skin of your teeth' })
 }
 
 // Points pour le score cumulé inter-chapitres.
 export const RANK_POINTS: Record<Rank['grade'], number> = { S: 100, A: 80, B: 60, C: 40, D: 25 }
 
-export function computeEnding(state: GameState, chapter: Chapter): Ending {
+export function computeEnding(state: GameState, chapter: Chapter, lang: Lang = 'fr'): Ending {
+  const T = (v: { fr: string; en: string }) => L(lang, v)
+  const pickT = (arr: { fr: string; en: string }[]) => T(pick(arr))
   const dead = isDead(state)
 
   if (dead === 'temps') {
     return {
       key: 'timeout',
       tone: 'lose',
-      cause: 'Jauge de temps à zéro : tu as traîné en route et le délai a explosé.',
-      title: 'Hors délai',
-      text: pick([
-        'Trop tard. Le temps imparti est écoulé et tu n’y es pas. Personne ne te félicitera pour la tentative.',
-        'Le compte à rebours t’a rattrapé. Mission échouée pour quelques minutes de trop.',
+      cause: T({ fr: 'Jauge de temps à zéro : tu as traîné en route et le délai a explosé.', en: 'Time gauge at zero: you dawdled and blew past the deadline.' }),
+      title: T({ fr: 'Hors délai', en: 'Out of time' }),
+      text: pickT([
+        { fr: 'Trop tard. Le temps imparti est écoulé et tu n’y es pas. Personne ne te félicitera pour la tentative.', en: 'Too late. The clock ran out and you did not make it. Nobody hands out medals for trying.' },
+        { fr: 'Le compte à rebours t’a rattrapé. Mission échouée pour quelques minutes de trop.', en: 'The countdown caught up with you. Mission failed by a handful of minutes.' },
       ]),
     }
   }
@@ -379,11 +387,11 @@ export function computeEnding(state: GameState, chapter: Chapter): Ending {
     return {
       key: 'collapse',
       tone: 'lose',
-      cause: 'Jauge d’énergie à zéro : ton corps a lâché avant la ligne d’arrivée.',
-      title: 'Panne sèche',
-      text: pick([
-        'Plus une goutte de carburant. Tu t’écroules sur un banc, vaincu, la mission inachevée.',
-        'Le corps dit stop. Impossible d’avancer plus loin aujourd’hui.',
+      cause: T({ fr: 'Jauge d’énergie à zéro : ton corps a lâché avant la ligne d’arrivée.', en: 'Energy gauge at zero: your body gave out before the finish line.' }),
+      title: T({ fr: 'Panne sèche', en: 'Running on empty' }),
+      text: pickT([
+        { fr: 'Plus une goutte de carburant. Tu t’écroules sur un banc, vaincu, la mission inachevée.', en: 'Not a drop of fuel left. You collapse on a bench, beaten, the mission unfinished.' },
+        { fr: 'Le corps dit stop. Impossible d’avancer plus loin aujourd’hui.', en: 'Your body says stop. No way to push any further today.' },
       ]),
     }
   }
@@ -391,18 +399,22 @@ export function computeEnding(state: GameState, chapter: Chapter): Ending {
     return {
       key: 'giveup',
       tone: 'lose',
-      cause: 'Jauge de moral à zéro : tu as craqué et tout abandonné.',
-      title: 'Abandon',
-      text: pick([
-        'Tu n’en peux plus. Tu laisses tomber au milieu de la rue et tu rentres les mains vides.',
-        'Le moral à plat, tu jettes l’éponge. Ce sera pour une autre fois.',
+      cause: T({ fr: 'Jauge de moral à zéro : tu as craqué et tout abandonné.', en: 'Morale gauge at zero: you cracked and gave up on everything.' }),
+      title: T({ fr: 'Abandon', en: 'Giving up' }),
+      text: pickT([
+        { fr: 'Tu n’en peux plus. Tu laisses tomber au milieu de la rue et tu rentres les mains vides.', en: 'You have had enough. You quit in the middle of the street and head home empty-handed.' },
+        { fr: 'Le moral à plat, tu jettes l’éponge. Ce sera pour une autre fois.', en: 'Morale flat on the floor, you throw in the towel. Another day, maybe.' },
       ]),
     }
   }
 
   const total = chapter.items.length
   const got = gotCount(state, chapter)
-  const missing = chapter.items.filter((it) => !state.items[it.id]).map((it) => it.label.toLowerCase())
+  const goal = L(lang, chapter.goal)
+  const missing = chapter.items
+    .filter((it) => !state.items[it.id])
+    .map((it) => L(lang, it.label).toLowerCase())
+  const andSep = lang === 'en' ? ' and ' : ' et '
 
   if (got === total) {
     const grade = computeRank(state).grade
@@ -410,46 +422,49 @@ export function computeEnding(state: GameState, chapter: Chapter): Ending {
       return {
         key: 'hero',
         tone: 'win',
-        title: 'Sans-faute',
-        text: pick([
-          `Tout y est, et de la marge en plus. ${chapter.goal} : plié comme un chef, sans transpirer. Légende vivante.`,
-          'Mission bouclée haut la main, frais comme un gardon. Tu rends ça facile, alors que ça ne l’était pas du tout.',
+        title: T({ fr: 'Sans-faute', en: 'Flawless' }),
+        text: pickT([
+          { fr: `Tout y est, et de la marge en plus. ${goal} : plié comme un chef, sans transpirer. Légende vivante.`, en: `Everything is here, and time to spare. ${goal}: nailed it like a pro, without breaking a sweat. A living legend.` },
+          { fr: 'Mission bouclée haut la main, frais comme un gardon. Tu rends ça facile, alors que ça ne l’était pas du tout.', en: 'Mission wrapped up with ease, fresh as a daisy. You make it look easy, when it was anything but.' },
         ]),
       }
     }
     return {
       key: 'win',
       tone: 'win',
-      title: 'Mission accomplie',
-      text: pick([
-        `Tu y es. Cabossé, en sueur, mais ${chapter.goal} : c’est fait. Le reste, c’est du bonus.`,
-        'Tout est rentré dans l’ordre, in extremis. Personne ne saura ce qu’il t’a fallu traverser.',
+      title: T({ fr: 'Mission accomplie', en: 'Mission accomplished' }),
+      text: pickT([
+        { fr: `Tu y es. Cabossé, en sueur, mais ${goal} : c’est fait. Le reste, c’est du bonus.`, en: `You made it. Battered, sweaty, but ${goal}: done. The rest is a bonus.` },
+        { fr: 'Tout est rentré dans l’ordre, in extremis. Personne ne saura ce qu’il t’a fallu traverser.', en: 'Everything fell into place, at the last second. Nobody will ever know what you had to go through.' },
       ]),
     }
   }
 
   const moneyCause =
     state.argent < 15
-      ? "Plus assez d'argent : tu as trop dépensé en route pour finir ce qu'il restait."
-      : 'Occasion manquée : tu n’as pas saisi le bon moment pour boucler la mission.'
+      ? T({ fr: "Plus assez d'argent : tu as trop dépensé en route pour finir ce qu'il restait.", en: 'Out of money: you spent too much along the way to finish what was left.' })
+      : T({ fr: 'Occasion manquée : tu n’as pas saisi le bon moment pour boucler la mission.', en: 'Missed your chance: you never grabbed the right moment to seal the deal.' })
 
   if (got > 0) {
     return {
       key: 'partial',
       tone: 'partial',
       cause: moneyCause,
-      title: 'À moitié',
-      text: `Tu rapportes une partie seulement. Il manque ${missing.join(' et ')}. Ça ne suffira pas.`,
+      title: T({ fr: 'À moitié', en: 'Halfway there' }),
+      text:
+        lang === 'en'
+          ? `You only bring back part of it. Still missing ${missing.join(andSep)}. That will not cut it.`
+          : `Tu rapportes une partie seulement. Il manque ${missing.join(andSep)}. Ça ne suffira pas.`,
     }
   }
   return {
     key: 'empty',
     tone: 'lose',
     cause: moneyCause,
-    title: 'Échec total',
-    text: pick([
-      'Rien. Absolument rien. Tu rentres bredouille, avec un long discours à préparer.',
-      'Mission ratée sur toute la ligne. Tu n’as rien à montrer pour tout ce temps passé.',
+    title: T({ fr: 'Échec total', en: 'Total failure' }),
+    text: pickT([
+      { fr: 'Rien. Absolument rien. Tu rentres bredouille, avec un long discours à préparer.', en: 'Nothing. Absolutely nothing. You head home empty-handed, with a long speech to prepare.' },
+      { fr: 'Mission ratée sur toute la ligne. Tu n’as rien à montrer pour tout ce temps passé.', en: 'A complete failure across the board. You have nothing to show for all that time.' },
     ]),
   }
 }
