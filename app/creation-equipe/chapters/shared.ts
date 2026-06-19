@@ -203,21 +203,116 @@ export const STREET: GameEvent[] = [
     ],
   },
   {
-    id: 'monnaie',
-    sprite: 'caissier',
-    decor: 'caisse',
-    prop: 'piece',
-    title: "L'appoint exact",
-    text: 'Terminal de carte en rade. "Espèces uniquement", annonce le commerçant. Tu comptes tes pièces.',
+    id: 'travaux',
+    sprite: 'vigile',
+    decor: 'rue',
+    prop: 'feu',
+    title: 'Le trottoir éventré',
+    text: 'Des travaux barrent tout le trottoir. Un ouvrier te fait signe de contourner par on ne sait où.',
     choices: [
-      { label: 'Faire l’appoint à la pièce', effect: { temps: -7, moral: -2 }, result: 'Tu vides ta poche centime par centime. La file soupire.' },
-      { label: 'Arrondir au-dessus', effect: { temps: -3, argent: -3 }, result: 'Tu donnes plus pour aller vite. Le temps vaut bien trois euros.' },
+      { label: 'Contourner sagement', effect: { temps: -8, energie: -2 }, result: 'Détour balisé par des plots oranges. Plus long, mais sûr.' },
+      { label: 'Slalomer entre les engins', effect: { temps: -3, moral: -2 }, result: 'Tu te faufiles sous le regard noir du chef de chantier.' },
+    ],
+  },
+  {
+    id: 'livreur_colis',
+    sprite: 'collegue',
+    decor: 'rue',
+    prop: 'sac',
+    title: 'Le diable du livreur',
+    text: 'Un livreur empile dix cartons sur un diable en travers du passage, sans se presser le moins du monde.',
+    choices: [
+      { label: 'Attendre poliment', effect: { temps: -3 }, result: 'Tu patientes le temps qu’il dégage. Civisme récompensé par de la lenteur.' },
+      { label: 'L’aider à décharger', effect: { temps: -9, energie: -4, moral: 7 }, result: 'Un coup de main et la voie se libère. Bonne action, mauvais timing.' },
+    ],
+  },
+  {
+    id: 'vieux_copain',
+    sprite: 'voisin',
+    decor: 'rue',
+    prop: 'coeur',
+    title: "Le copain d'enfance",
+    text: 'Un visage du passé surgit : "Non mais je rêve, c’est toi ?!" Vingt ans qu’on ne s’est pas vus.',
+    choices: [
+      { label: 'Un vrai moment, vite fait', effect: { temps: -11, moral: 9 }, result: 'Souvenirs, éclats de rire, numéros échangés. Chaleureux mais coûteux.' },
+      { label: 'Promettre de se rappeler', effect: { temps: -3, moral: -2 }, result: '"Je t’appelle, on se fait ça !" Tu files, vaguement nostalgique.' },
+    ],
+  },
+  {
+    id: 'gravillon',
+    sprite: 'papa',
+    decor: 'rue',
+    title: 'Le caillou dans la chaussure',
+    text: 'Un gravillon traître s’est invité sous ton pied et te martyrise à chaque pas.',
+    choices: [
+      { label: 'S’arrêter pour l’enlever', effect: { temps: -4, energie: 3 }, result: 'Trente secondes assis, problème réglé. Soulagement immédiat.' },
+      { label: 'Serrer les dents et avancer', effect: { temps: -1, energie: -5, moral: -3 }, result: 'Tu boites stoïquement. Le caillou gagne du terrain dans ton moral.' },
+    ],
+  },
+  {
+    id: 'manif',
+    sprite: 'ado',
+    decor: 'rue',
+    prop: 'journal',
+    title: 'Le cortège imprévu',
+    text: 'Une manifestation bon enfant remonte l’avenue avec banderoles et tambours, et coupe ta route.',
+    choices: [
+      { label: 'Attendre qu’il passe', effect: { temps: -7, moral: 2 }, result: 'Tu patientes au son des slogans. Sympathique, mais immobile.' },
+      { label: 'Remonter à contre-courant', effect: { temps: -3, energie: -3 }, result: 'Tu fends la foule à l’envers, bousculé mais en mouvement.' },
+    ],
+  },
+  {
+    id: 'vendeur_rue',
+    sprite: 'barman',
+    decor: 'rue',
+    prop: 'journal',
+    title: 'Le vendeur à la sauvette',
+    text: 'Un vendeur déploie sa nappe de gadgets pile devant toi et entame son boniment irrésistible.',
+    choices: [
+      { label: 'Décliner et contourner', effect: { temps: -3 }, result: '"Non merci, vraiment." Tu l’esquives sans ralentir.' },
+      { label: 'Craquer pour un truc inutile', effect: { temps: -6, argent: -5, moral: 4 }, result: 'Te voilà avec un porte-clés lumineux dont tu n’avais aucun besoin.' },
     ],
   },
 ]
 
 // ── Spécifique magasins (chapitres en grande surface). ──
 export const STORE: GameEvent[] = [
+  {
+    id: 'monnaie',
+    sprite: 'caissier',
+    decor: 'caisse',
+    prop: 'carte',
+    title: 'Le terminal en rade',
+    text: 'À la caisse, le lecteur de carte refuse ton paiement : "Réseau indisponible, espèces uniquement."',
+    choices: [
+      { label: 'Payer en liquide', effect: { temps: -4, moral: -2 }, result: 'Tu comptes tes pièces centime par centime. La file soupire derrière toi.' },
+      { label: 'Réessayer la carte trois fois', effect: { temps: -9, moral: -4 }, result: 'Refus, refus, refus. Au quatrième essai, ça passe. Sueurs froides.' },
+    ],
+  },
+  {
+    id: 'prix_errone',
+    sprite: 'caissier',
+    decor: 'caisse',
+    prop: 'ticket',
+    title: 'Le prix qui ne colle pas',
+    text: 'En caisse, l’article sonne deux euros de plus que l’étiquette du rayon. Le caissier hausse les épaules.',
+    choices: [
+      { label: 'Réclamer le bon prix', effect: { temps: -9, argent: 2, moral: 3 }, result: 'Vérification au rayon, prix corrigé. Tu avais raison, et tu économises.' },
+      { label: 'Laisser couler', effect: { temps: -2, argent: -2 }, result: 'Pas le temps de chipoter pour deux euros. Tu paies et tu files.' },
+    ],
+  },
+  {
+    id: 'rayon_deplace',
+    sprite: 'vigile',
+    decor: 'supermarche',
+    prop: 'panier',
+    title: 'Le magasin réagencé',
+    text: 'Tout a été déplacé depuis la dernière fois. Ce que tu cherches a migré dans une allée inconnue.',
+    choices: [
+      { label: 'Demander à un employé', effect: { temps: -4, moral: 2 }, result: 'Il te pointe la bonne allée du doigt. Gain de temps net.' },
+      { label: 'Chercher seul, têtu', effect: { temps: -11, energie: -4, moral: -3 }, result: 'Tu écumes six allées avant de tomber dessus. Fierté coûteuse.' },
+    ],
+  },
   {
     id: 'caisse_queue',
     sprite: 'mamie',
@@ -365,6 +460,42 @@ export const TRANSPORT: GameEvent[] = [
     choices: [
       { label: 'Tenter le coup quand même', effect: { temps: -7, energie: -5 }, result: 'Tu finis par en attraper un. Compressé, mais en mouvement.' },
       { label: 'Commander un VTC', effect: { temps: -4, argent: -12 }, result: 'Une voiture en cinq minutes. Le portefeuille trinque, le temps est sauvé.' },
+    ],
+  },
+  {
+    id: 'portillon',
+    sprite: 'papa',
+    decor: 'arret_bus',
+    prop: 'ticket',
+    title: 'Le portillon bloqué',
+    text: 'Ton titre de transport est refusé par le portillon, qui se referme net sur ton sac.',
+    choices: [
+      { label: 'Repasser ton ticket', effect: { temps: -5 }, result: 'Au deuxième passage, le portillon consent à s’ouvrir.' },
+      { label: 'Appeler un agent', effect: { temps: -9, moral: 2 }, result: 'Un agent débloque le tout et t’ouvre un accès. Lent mais sûr.' },
+    ],
+  },
+  {
+    id: 'vtc_annule',
+    sprite: 'vigile',
+    decor: 'arret_bus',
+    prop: 'carte',
+    title: 'Le VTC qui annule',
+    text: 'Ton chauffeur annule à la dernière seconde. L’appli en propose un autre... à quelques rues de là.',
+    choices: [
+      { label: 'Marcher à sa rencontre', effect: { temps: -6, energie: -4 }, result: 'Tu coupes au plus court vers le nouveau point de prise en charge.' },
+      { label: 'Recommander, plus cher', effect: { temps: -3, argent: -8 }, result: 'Tu paies le tarif de pointe pour une voiture immédiate.' },
+    ],
+  },
+  {
+    id: 'escalator_metro',
+    sprite: 'mamie',
+    decor: 'arret_bus',
+    prop: 'horloge',
+    title: "L'escalator hors service",
+    text: 'L’escalator de la station est figé, transformé en raides escaliers, et la foule s’y agglutine.',
+    choices: [
+      { label: 'Grimper à pied', effect: { temps: -4, energie: -3 }, result: 'Tu montes deux à deux, essoufflé mais rapide.' },
+      { label: 'Chercher l’ascenseur', effect: { temps: -9, energie: -1 }, result: 'Tu fais le tour pour l’ascenseur. Reposant, mais à l’autre bout.' },
     ],
   },
 ]

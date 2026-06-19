@@ -177,7 +177,7 @@ export const CHAPTER_6: Chapter = {
     { key: 'skateboard', label: 'Skateboard', effect: { temps: 12, energie: -10 }, charges: 2, desc: '+12 temps, -10 énergie' },
     { key: 'canette', label: 'Canette', effect: { energie: 15, temps: -5 }, charges: 2, desc: '+15 énergie, -5 temps' },
   ],
-  start: { temps: 91, energie: 75, argent: 44, moral: 66 },
+  start: { temps: 92, energie: 76, argent: 44, moral: 66 },
   drain: { temps: -3, energie: -2 },
   theme: {
     accent: '#F2C94C',

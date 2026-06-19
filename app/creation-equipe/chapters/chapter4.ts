@@ -124,7 +124,7 @@ export const CHAPTER_4: Chapter = {
     { key: 'trottinette', label: 'Trottinette', effect: { temps: 13, energie: -11 }, charges: 3, desc: '+13 temps, -11 énergie' },
     { key: 'canette', label: 'Canette', effect: { energie: 15, temps: -5 }, charges: 3, desc: '+15 énergie, -5 temps' },
   ],
-  start: { temps: 86, energie: 78, argent: 46, moral: 70 },
+  start: { temps: 88, energie: 80, argent: 46, moral: 70 },
   drain: { temps: -2, energie: -2 },
   theme: {
     accent: '#E74C6C',

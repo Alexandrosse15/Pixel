@@ -226,7 +226,7 @@ export const CHAPTER_10: Chapter = {
     { key: 'trottinette', label: 'Trottinette', effect: { temps: 13, energie: -11 }, charges: 3, desc: '+13 temps, -11 énergie' },
     { key: 'canette', label: 'Canette', effect: { energie: 15, temps: -5 }, charges: 3, desc: '+15 énergie, -5 temps' },
   ],
-  start: { temps: 97, energie: 82, argent: 46, moral: 64 },
+  start: { temps: 99, energie: 83, argent: 46, moral: 64 },
   drain: { temps: -2, energie: -2 },
   theme: {
     accent: '#56A8FF',

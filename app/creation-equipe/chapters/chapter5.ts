@@ -124,7 +124,7 @@ export const CHAPTER_5: Chapter = {
     { key: 'skateboard', label: 'Skateboard', effect: { temps: 12, energie: -10 }, charges: 3, desc: '+12 temps, -10 énergie' },
     { key: 'sandwich', label: 'Sandwich', effect: { energie: 15, temps: -5 }, charges: 3, desc: '+15 énergie, -5 temps' },
   ],
-  start: { temps: 87, energie: 77, argent: 50, moral: 68 },
+  start: { temps: 89, energie: 79, argent: 50, moral: 68 },
   drain: { temps: -2, energie: -2 },
   theme: {
     accent: '#F2C94C',
