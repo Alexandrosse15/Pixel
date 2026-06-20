@@ -535,50 +535,55 @@ export default function Game() {
         {(screen === 'playing' || screen === 'result') && event && chapter && (
           <div>
             <div className="border-b border-line bg-bg-surface p-4">
-              <div className="mb-3 grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-4">
-                {STAT_ORDER.map((s) => (
-                  <StatBar key={s} stat={s} value={state[s]} lang={lang} />
-                ))}
-              </div>
-              <div className="flex items-center justify-between gap-3">
-                <div className="flex flex-wrap gap-2">
-                  {chapter.items.map((it) => (
-                    <ItemBadge key={it.id} label={tr(it.label)} got={!!state.items[it.id]} />
+              <div className="flex gap-4">
+                <div className="flex w-28 shrink-0 flex-col gap-2.5 sm:w-36">
+                  {STAT_ORDER.map((s) => (
+                    <StatBar key={s} stat={s} value={state[s]} lang={lang} />
                   ))}
                 </div>
-                <span className="shrink-0 text-right font-mono text-[10px] uppercase tracking-widest text-ink-muted">
-                  <span className="text-ink-secondary">{tr(zoneLabelAt(chapter, state.step))}</span> ·{' '}
-                  {state.step}/{chapterSteps(chapter)}
-                </span>
-              </div>
 
-              <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-3">
-                <span className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
-                  {ui.bonus}
-                </span>
-                {chapter.bonuses.map((b) => {
-                  const left = charges[b.key] ?? 0
-                  const ok = left > 0 && bonusUsable(state, b, left)
-                  return (
-                    <button
-                      key={b.key}
-                      disabled={!ok}
-                      onClick={() => playBonus(b)}
-                      title={tr(b.desc)}
-                      className="group flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-2 py-1 transition-all hover:border-brand disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-line"
-                    >
-                      <span className="h-7 w-7 shrink-0">
-                        <Prop name={b.key} className="h-full w-full" />
-                      </span>
-                      <span className="text-left leading-tight">
-                        <span className="block font-body text-xs text-ink-primary group-hover:text-white">
-                          {tr(b.label)} <span className="font-mono text-ink-muted">x{left}</span>
-                        </span>
-                        <span className="block font-mono text-[9px] text-ink-muted">{tr(b.desc)}</span>
-                      </span>
-                    </button>
-                  )
-                })}
+                <div className="flex min-w-0 flex-1 flex-col">
+                  <div className="flex items-start justify-between gap-3">
+                    <div className="flex flex-wrap gap-2">
+                      {chapter.items.map((it) => (
+                        <ItemBadge key={it.id} label={tr(it.label)} got={!!state.items[it.id]} />
+                      ))}
+                    </div>
+                    <span className="shrink-0 text-right font-mono text-[10px] uppercase tracking-widest text-ink-muted">
+                      <span className="text-ink-secondary">{tr(zoneLabelAt(chapter, state.step))}</span> ·{' '}
+                      {state.step}/{chapterSteps(chapter)}
+                    </span>
+                  </div>
+
+                  <div className="mt-3 flex flex-wrap items-center gap-2 border-t border-line pt-3">
+                    <span className="font-display text-[10px] uppercase tracking-widest text-ink-muted">
+                      {ui.bonus}
+                    </span>
+                    {chapter.bonuses.map((b) => {
+                      const left = charges[b.key] ?? 0
+                      const ok = left > 0 && bonusUsable(state, b, left)
+                      return (
+                        <button
+                          key={b.key}
+                          disabled={!ok}
+                          onClick={() => playBonus(b)}
+                          title={tr(b.desc)}
+                          className="group flex items-center gap-2 rounded-sm border border-line bg-bg-elevated px-2 py-1 transition-all hover:border-brand disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-line"
+                        >
+                          <span className="h-7 w-7 shrink-0">
+                            <Prop name={b.key} className="h-full w-full" />
+                          </span>
+                          <span className="text-left leading-tight">
+                            <span className="block font-body text-xs text-ink-primary group-hover:text-white">
+                              {tr(b.label)} <span className="font-mono text-ink-muted">x{left}</span>
+                            </span>
+                            <span className="block font-mono text-[9px] text-ink-muted">{tr(b.desc)}</span>
+                          </span>
+                        </button>
+                      )
+                    })}
+                  </div>
+                </div>
               </div>
             </div>
 
