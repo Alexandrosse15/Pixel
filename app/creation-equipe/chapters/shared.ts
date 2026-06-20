@@ -122,12 +122,12 @@ export const STREET: GameEvent[] = [
     prop: 'velo',
     title: { fr: 'Le vélo en libre service', en: 'The bike share' },
     text: {
-      fr: 'Une borne de vélos partagés. Tu pourrais gagner un temps fou, si l’appli daigne fonctionner.',
-      en: 'A bike-share dock. You could save loads of time, if the app deigns to work.',
+      fr: 'Une borne de vélos partagés, pile sur ton chemin. De quoi gagner un temps fou, si tu acceptes de transpirer.',
+      en: 'A bike-share dock, right on your path. A chance to save loads of time, if you do not mind sweating.',
     },
     choices: [
-      { label: { fr: 'Pédaler comme un fou', en: 'Pedal like mad' }, effect: { temps: 12, energie: -9, argent: -3 }, result: { fr: 'Cheveux au vent, jambes en feu. Gain de temps spectaculaire.', en: 'Wind in your hair, legs on fire. A spectacular time gain.' } },
-      { label: { fr: 'Renoncer, l’appli bug', en: 'Give up, app is buggy' }, effect: { temps: -4, moral: -3 }, result: { fr: 'Trois QR codes, zéro vélo. Tu repars à pied, agacé.', en: 'Three QR codes, zero bikes. You walk off, annoyed.' } },
+      { label: { fr: 'Débloquer un vélo et foncer', en: 'Grab a bike and go' }, effect: { temps: 12, energie: -9, argent: -3 }, result: { fr: 'Scan, déclic, c’est parti. Cheveux au vent, jambes en feu. Gain de temps spectaculaire.', en: 'Scan, click, off you go. Wind in your hair, legs on fire. A spectacular time gain.' } },
+      { label: { fr: 'Laisser tomber, rester à pied', en: 'Skip it, keep walking' }, effect: { temps: -4, moral: -3 }, result: { fr: 'Tu te méfies de ces engins capricieux. Tu repars à pied, un peu agacé.', en: 'You do not trust those cranky machines. You walk off, a bit annoyed.' } },
     ],
   },
   {
