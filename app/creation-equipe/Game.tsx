@@ -17,6 +17,9 @@ import {
   computeRank,
   initialState,
   isDead,
+  runScore,
+  scoreChoice,
+  starsForGrade,
   zoneLabelAt,
   type Bonus,
   type Chapter,
@@ -42,6 +45,14 @@ interface LastResult {
 interface Progress {
   unlocked: number
   ranks: Record<string, string>
+  scores?: Record<string, number>
+}
+
+interface Fx {
+  id: number
+  points: number
+  combo: number
+  good: boolean
 }
 
 const PROGRESS_KEY = 'cdle-progress-v2'
@@ -54,6 +65,10 @@ const UI = {
     eyebrow: 'Mission Courses',
     chooseChapter: 'Choisis ton chapitre',
     totalScore: 'Score total',
+    score: 'Score',
+    best: 'Record',
+    newRecord: 'Nouveau record !',
+    combo: 'Combo',
     locked: 'Verrouillé',
     finishPrev: 'Termine le chapitre précédent',
     rank: 'Rang',
@@ -92,6 +107,10 @@ const UI = {
     eyebrow: 'Errand Run',
     chooseChapter: 'Choose your chapter',
     totalScore: 'Total score',
+    score: 'Score',
+    best: 'Best',
+    newRecord: 'New record!',
+    combo: 'Combo',
     locked: 'Locked',
     finishPrev: 'Finish the previous chapter',
     rank: 'Rank',
@@ -170,6 +189,146 @@ function ItemBadge({ label, got }: { label: string; got: boolean }) {
   )
 }
 
+// Couleur de chauffe selon l'intensité du combo (bleu → vert → or → rouge).
+function comboColor(c: number): string {
+  if (c >= 5) return '#FF4500'
+  if (c >= 4) return '#F2C94C'
+  if (c >= 3) return '#3DDC97'
+  if (c >= 2) return '#56A8FF'
+  return '#ffffff'
+}
+
+function burstColors(c: number): string[] {
+  if (c >= 4) return ['#FF4500', '#F2C94C', '#3DDC97', '#56A8FF', '#E1306C', '#ffffff']
+  if (c >= 3) return ['#3DDC97', '#56A8FF', '#F2C94C', '#ffffff']
+  if (c >= 2) return ['#56A8FF', '#3DDC97', '#ffffff']
+  return ['#ffffff', '#F2C94C']
+}
+
+const CONFETTI_COLORS = ['#FF4500', '#F2C94C', '#3DDC97', '#56A8FF', '#E1306C', '#ffffff']
+
+// Explosion de particules colorées, régénérée à chaque burst (clé fxId).
+function Burst({ fxId, level, colors }: { fxId: number; level: number; colors: string[] }) {
+  const particles = useMemo(() => {
+    const n = 12 + level * 5
+    return Array.from({ length: n }, (_, i) => {
+      const ang = (i / n) * Math.PI * 2 + Math.random() * 0.6
+      const dist = 55 + Math.random() * 80 + level * 14
+      return {
+        dx: Math.cos(ang) * dist,
+        dy: Math.sin(ang) * dist,
+        size: 5 + Math.random() * 8,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        delay: Math.random() * 0.06,
+      }
+    })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [fxId, level])
+  return (
+    <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
+      {particles.map((p, i) => (
+        <span
+          key={i}
+          className="absolute rounded-full"
+          style={{
+            width: p.size,
+            height: p.size,
+            background: p.color,
+            boxShadow: `0 0 8px ${p.color}`,
+            ['--dx' as string]: `${p.dx}px`,
+            ['--dy' as string]: `${p.dy}px`,
+            animation: `ic-burst 0.7s ease-out ${p.delay}s forwards`,
+          }}
+        />
+      ))}
+    </div>
+  )
+}
+
+// Pluie de confettis (célébration de record).
+function Confetti() {
+  const bits = useMemo(
+    () =>
+      Array.from({ length: 70 }, (_, i) => ({
+        left: Math.random() * 100,
+        dx: (Math.random() - 0.5) * 140,
+        dy: 130 + Math.random() * 180,
+        rot: (Math.random() * 2 - 1) * 720,
+        color: CONFETTI_COLORS[i % CONFETTI_COLORS.length],
+        w: 5 + Math.random() * 5,
+        h: 8 + Math.random() * 9,
+        delay: Math.random() * 0.4,
+      })),
+    []
+  )
+  return (
+    <div className="pointer-events-none absolute inset-0 overflow-hidden">
+      {bits.map((b, i) => (
+        <span
+          key={i}
+          className="absolute -top-3"
+          style={{
+            left: `${b.left}%`,
+            width: b.w,
+            height: b.h,
+            background: b.color,
+            ['--dx' as string]: `${b.dx}px`,
+            ['--dy' as string]: `${b.dy}px`,
+            ['--rot' as string]: `${b.rot}deg`,
+            animation: `ic-confetti 1.7s ease-in ${b.delay}s forwards`,
+          }}
+        />
+      ))}
+    </div>
+  )
+}
+
+function Stars({ count, big }: { count: number; big?: boolean }) {
+  const sz = big ? 'h-7 w-7' : 'h-3.5 w-3.5'
+  return (
+    <div className="flex gap-1">
+      {[0, 1, 2].map((i) => {
+        const on = i < count
+        return (
+          <svg
+            key={i}
+            viewBox="0 0 24 24"
+            className={sz}
+            fill={on ? '#F2C94C' : 'none'}
+            stroke={on ? '#F2C94C' : '#3a3a3a'}
+            strokeWidth="2"
+            style={on ? { filter: 'drop-shadow(0 0 5px #F2C94C99)' } : undefined}
+            aria-hidden="true"
+          >
+            <path d="M12 2l2.9 6.3 6.8.7-5.1 4.6 1.4 6.7L12 18.6 6 21.3l1.4-6.7L2.3 10l6.8-.7z" />
+          </svg>
+        )
+      })}
+    </div>
+  )
+}
+
+// Compteur animé qui grimpe de 0 vers la cible (easing cubic-out).
+function useCountUp(target: number, run: boolean, ms = 1000): number {
+  const [n, setN] = useState(0)
+  useEffect(() => {
+    if (!run) {
+      setN(0)
+      return
+    }
+    let raf = 0
+    const t0 = performance.now()
+    const tick = (t: number) => {
+      const p = Math.min(1, (t - t0) / ms)
+      setN(Math.round(target * (1 - Math.pow(1 - p, 3))))
+      if (p < 1) raf = requestAnimationFrame(tick)
+    }
+    raf = requestAnimationFrame(tick)
+    return () => cancelAnimationFrame(raf)
+  }, [target, run, ms])
+  return n
+}
+
 export default function Game() {
   const [screen, setScreen] = useState<Screen>('select')
   const [chapter, setChapter] = useState<Chapter | null>(null)
@@ -181,8 +340,13 @@ export default function Game() {
   const [charges, setCharges] = useState<Record<string, number>>({})
   const [progress, setProgress] = useState<Progress>({ unlocked: 1, ranks: {} })
   const [shareNote, setShareNote] = useState('')
+  const [score, setScore] = useState(0)
+  const [combo, setCombo] = useState(0)
+  const [fx, setFx] = useState<Fx | null>(null)
+  const [newRecord, setNewRecord] = useState(false)
   const deck = useRef<GameEvent[]>([])
   const recorded = useRef(0)
+  const fxId = useRef(0)
 
   const { locale } = useLocale()
   const lang: Lang = locale === 'en' ? 'en' : 'fr'
@@ -201,6 +365,11 @@ export default function Game() {
       ),
     [progress]
   )
+  const finalScore = useMemo(
+    () => runScore(state, score, ending?.tone === 'win'),
+    [state, score, ending]
+  )
+  const shownScore = useCountUp(finalScore, screen === 'ending', 1100)
 
   useEffect(() => {
     try {
@@ -211,21 +380,28 @@ export default function Game() {
     }
   }, [])
 
-  // Enregistre le résultat une seule fois par partie : débloque la suite et garde le meilleur rang.
+  // Enregistre le résultat une seule fois par partie : débloque la suite, garde le
+  // meilleur rang et le meilleur score, et signale un éventuel nouveau record.
   useEffect(() => {
     if (screen !== 'ending' || !ending || !chapter || recorded.current === runs) return
     recorded.current = runs
-    if (ending.tone !== 'win') return
+    const win = ending.tone === 'win'
+    const final = runScore(state, score, win)
+    const prevBest = progress.scores?.[chapter.id] ?? 0
+    setNewRecord(win && final > prevBest)
+    if (!win) return
     const g = computeRank(state).grade
     setProgress((prev) => {
       const ranks = { ...prev.ranks }
+      const scores = { ...(prev.scores ?? {}) }
       const prevG = ranks[chapter.id]
       if (!prevG || GRADE_RANK.indexOf(g) > GRADE_RANK.indexOf(prevG)) ranks[chapter.id] = g
+      if (final > (scores[chapter.id] ?? 0)) scores[chapter.id] = final
       const unlocked =
         chapter.id === prev.unlocked && prev.unlocked < CHAPTERS.length
           ? prev.unlocked + 1
           : prev.unlocked
-      const next = { unlocked, ranks }
+      const next = { unlocked, ranks, scores }
       try {
         localStorage.setItem(PROGRESS_KEY, JSON.stringify(next))
       } catch {
@@ -233,7 +409,7 @@ export default function Game() {
       }
       return next
     })
-  }, [screen, ending, chapter, runs, state])
+  }, [screen, ending, chapter, runs, state, score, progress])
 
   const openChapter = useCallback((c: Chapter) => {
     setChapter(c)
@@ -249,6 +425,10 @@ export default function Game() {
     setEvent(d[0] ?? null)
     setLast(null)
     setEnding(null)
+    setScore(0)
+    setCombo(0)
+    setFx(null)
+    setNewRecord(false)
     setScreen('playing')
     setRuns((r) => r + 1)
   }, [chapter])
@@ -269,6 +449,13 @@ export default function Game() {
       const before = state
       const upd = applyChoice(state, choice, chapter.drain)
       setState(upd)
+
+      const sc = scoreChoice(before, upd, choice, combo)
+      setCombo(sc.combo)
+      setScore((s) => s + sc.points)
+      fxId.current += 1
+      setFx({ id: fxId.current, points: sc.points, combo: sc.combo, good: sc.good })
+
       setLast({
         text: choice.result,
         deltas: {
@@ -287,7 +474,7 @@ export default function Game() {
         setScreen('result')
       }
     },
-    [event, state, chapter, lang]
+    [event, state, chapter, lang, combo]
   )
 
   const next = useCallback(() => {
@@ -436,6 +623,7 @@ export default function Game() {
               {CHAPTERS.map((c) => {
                 const locked = c.id > progress.unlocked
                 const best = progress.ranks[c.id]
+                const bestScore = progress.scores?.[c.id]
                 return (
                   <button
                     key={c.id}
@@ -461,11 +649,15 @@ export default function Game() {
                       </p>
                     </div>
                     {best && (
-                      <div className="shrink-0 text-center">
-                        <div className="font-display text-xl font-black text-brand">{best}</div>
-                        <div className="font-display text-[8px] uppercase tracking-widest text-ink-muted">
-                          {ui.rank}
-                        </div>
+                      <div className="flex shrink-0 flex-col items-end gap-1">
+                        <Stars count={starsForGrade(best as 'S' | 'A' | 'B' | 'C' | 'D')} />
+                        {bestScore ? (
+                          <div className="font-mono text-[11px] font-bold tabular-nums text-brand">
+                            {bestScore.toLocaleString()}
+                          </div>
+                        ) : (
+                          <div className="font-display text-[10px] font-black text-brand">{best}</div>
+                        )}
                       </div>
                     )}
                   </button>
@@ -599,6 +791,78 @@ export default function Game() {
                   style={{ animation: 'ic-fade 0.5s ease-out 0.1s both' }}
                 >
                   <Prop name={event.prop} className="h-full w-full" />
+                </div>
+              )}
+
+              {/* Score courant */}
+              <div className="absolute right-3 top-3 z-10 text-right">
+                <div className="font-display text-lg font-black tabular-nums leading-none text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.7)] md:text-xl">
+                  {score.toLocaleString()}
+                </div>
+                <div className="font-display text-[8px] uppercase tracking-widest text-white/60">
+                  {ui.score}
+                </div>
+              </div>
+
+              {/* Compteur de combo persistant */}
+              {combo >= 2 && (
+                <div
+                  className="absolute left-3 top-3 z-10 rounded-sm border px-2 py-1 font-display text-xs font-black uppercase tracking-widest"
+                  style={{
+                    borderColor: comboColor(combo),
+                    color: comboColor(combo),
+                    background: 'rgba(0,0,0,0.45)',
+                    textShadow: `0 0 10px ${comboColor(combo)}`,
+                    animation: 'ic-bob 1.2s ease-in-out infinite',
+                  }}
+                >
+                  {ui.combo} x{combo}
+                </div>
+              )}
+
+              {/* Explosion + score flottant au moment du choix */}
+              {screen === 'result' && fx && (
+                <div key={fx.id} className="pointer-events-none absolute inset-0 z-20">
+                  {fx.combo >= 3 && (
+                    <div
+                      className="absolute inset-0"
+                      style={{
+                        background: `radial-gradient(circle at 50% 55%, ${comboColor(fx.combo)}, transparent 70%)`,
+                        animation: 'ic-flash 0.6s ease-out forwards',
+                      }}
+                    />
+                  )}
+                  {fx.good && (
+                    <Burst fxId={fx.id} level={Math.min(fx.combo, 5)} colors={burstColors(fx.combo)} />
+                  )}
+                  <div
+                    className="absolute left-1/2 top-7 -translate-x-1/2"
+                    style={{ animation: 'ic-score-pop 0.9s ease-out forwards' }}
+                  >
+                    <span
+                      className="font-display text-3xl font-black tabular-nums md:text-4xl"
+                      style={{ color: comboColor(fx.combo), textShadow: `0 0 18px ${comboColor(fx.combo)}, 0 2px 6px rgba(0,0,0,0.6)` }}
+                    >
+                      +{fx.points}
+                    </span>
+                  </div>
+                  {fx.combo >= 2 && (
+                    <div
+                      className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
+                      style={{ animation: 'ic-combo-pop 0.5s cubic-bezier(0.2,0.9,0.3,1.5) forwards' }}
+                    >
+                      <span
+                        className="font-display font-black uppercase tracking-widest"
+                        style={{
+                          fontSize: `${1.4 + Math.min(fx.combo, 6) * 0.22}rem`,
+                          color: comboColor(fx.combo),
+                          textShadow: `0 0 22px ${comboColor(fx.combo)}, 0 2px 4px rgba(0,0,0,0.5)`,
+                        }}
+                      >
+                        {ui.combo} x{fx.combo}
+                      </span>
+                    </div>
+                  )}
                 </div>
               )}
             </div>
@@ -747,6 +1011,7 @@ export default function Game() {
                 </div>
               )}
               <div className="absolute inset-0 bg-gradient-to-t from-bg-card via-transparent to-transparent" />
+              {newRecord && <Confetti />}
             </div>
             <div className="p-6 text-center md:p-8">
               <p
@@ -763,10 +1028,46 @@ export default function Game() {
                 {ending.title}
               </h2>
               {rank && (
-                <p className="mb-4 font-display text-xs uppercase tracking-widest text-brand">
+                <p className="mb-3 font-display text-xs uppercase tracking-widest text-brand">
                   {ui.rank} {rank.grade} · {rank.label} · {ui.pts(RANK_POINTS[rank.grade])}
                 </p>
               )}
+
+              {rank && (
+                <div className="mb-3 flex justify-center" style={{ animation: 'ic-combo-pop 0.5s ease-out 0.3s both' }}>
+                  <Stars count={starsForGrade(rank.grade)} big />
+                </div>
+              )}
+
+              <div
+                className="mb-4"
+                style={newRecord ? { animation: 'ic-record 0.6s ease-out 0.4s 2' } : undefined}
+              >
+                <div
+                  className="font-display text-5xl font-black tabular-nums leading-none md:text-6xl"
+                  style={{
+                    color: newRecord ? '#F2C94C' : '#ffffff',
+                    textShadow: newRecord ? '0 0 26px #F2C94Caa' : undefined,
+                  }}
+                >
+                  {shownScore.toLocaleString()}
+                </div>
+                <div className="mt-1 font-display text-[10px] uppercase tracking-widest text-ink-muted">
+                  {ui.score}
+                  {progress.scores?.[chapter.id]
+                    ? ` · ${ui.best} ${progress.scores[chapter.id].toLocaleString()}`
+                    : ''}
+                </div>
+                {newRecord && (
+                  <div
+                    className="mt-2 font-display text-sm font-black uppercase tracking-widest text-[#F2C94C]"
+                    style={{ animation: 'ic-combo-pop 0.5s cubic-bezier(0.2,0.9,0.3,1.5) 0.5s both', textShadow: '0 0 16px #F2C94C' }}
+                  >
+                    {ui.newRecord}
+                  </div>
+                )}
+              </div>
+
               <p className="mx-auto mb-5 max-w-md leading-relaxed text-ink-secondary">
                 {ending.text}
               </p>

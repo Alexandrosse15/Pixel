@@ -386,6 +386,50 @@ export function computeRank(state: GameState, lang: Lang = 'fr'): Rank {
 // Points pour le score cumulé inter-chapitres.
 export const RANK_POINTS: Record<Rank['grade'], number> = { S: 100, A: 80, B: 60, C: 40, D: 25 }
 
+// ── Score de partie, combos et étoiles ──────────────────────────────────────
+
+export interface StepScore {
+  points: number
+  good: boolean
+  combo: number
+  multiplier: number
+}
+
+// Score d'un choix : récompense les décisions efficaces et les objets, avec un
+// multiplicateur de combo qui grimpe tant qu'on enchaîne les bons choix.
+export function scoreChoice(
+  before: GameState,
+  after: GameState,
+  choice: Choice,
+  prevCombo: number
+): StepScore {
+  const e = choice.effect
+  const gainedItem = (e.give ?? []).some((id) => !before.items[id])
+  const statSum = (e.temps ?? 0) + (e.energie ?? 0) + (e.moral ?? 0)
+  const noCrit = after.temps > 25 && after.energie > 25 && after.moral > 25
+  const good = gainedItem || (statSum >= -2 && noCrit)
+  const combo = good ? prevCombo + 1 : 0
+  const multiplier = Math.min(1 + combo * 0.5, 5)
+  const positive = Math.max(0, statSum) + Math.max(0, e.argent ?? 0) * 0.3
+  const base = 60 + positive * 6 + (gainedItem ? 220 : 0)
+  const points = Math.round(good ? base * multiplier : base * 0.4)
+  return { points, good, combo, multiplier }
+}
+
+// Score final = points accumulés + bonus de ressources restantes (victoire seule).
+export function runScore(state: GameState, accumulated: number, win: boolean): number {
+  const finish = win
+    ? Math.round((state.temps + state.energie + 0.5 * state.moral + 0.4 * state.argent) * 12)
+    : 0
+  return accumulated + finish
+}
+
+export function starsForGrade(grade: Rank['grade']): number {
+  if (grade === 'S') return 3
+  if (grade === 'A' || grade === 'B') return 2
+  return 1
+}
+
 export function computeEnding(state: GameState, chapter: Chapter, lang: Lang = 'fr'): Ending {
   const T = (v: { fr: string; en: string }) => L(lang, v)
   const pickT = (arr: { fr: string; en: string }[]) => T(pick(arr))
