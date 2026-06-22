@@ -26,7 +26,7 @@ const config: Config = {
           subtle: '#333333',
         },
         line: '#242424',
-        // Palette boisée, utilisée par le jeu "Maître" (creation-equipe/maitre)
+        // Palette boisée, utilisée par le jeu "The Defense" (creation-equipe/the-defense)
         bois: {
           50: '#faf3e7',
           100: '#f0e0c4',

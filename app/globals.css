@@ -203,7 +203,7 @@
   60% { transform: scale(0.97); }
 }
 
-/* Grain de bois pour les panneaux du jeu "Maître" (creation-equipe/maitre). */
+/* Grain de bois pour les panneaux du jeu "The Defense" (creation-equipe/the-defense). */
 .veine-bois {
   background-image:
     linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.15)),

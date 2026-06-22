@@ -3,17 +3,17 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { getT, type Locale } from '@/lib/i18n'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
-import MaitreGame from './MaitreGame'
+import TheDefenseGame from './TheDefenseGame'
 
 export async function generateMetadata(): Promise<Metadata> {
   const locale = (headers().get('x-locale') ?? 'fr') as Locale
-  const title = 'Maître'
+  const title = 'The Defense'
   const description =
     locale === 'en'
       ? "A courtroom game where you play the defense lawyer. Question your client, dig through the case file, unlock clues and sway the jury. Free, in your browser, no install."
       : "Un jeu de prétoire où vous êtes l'avocat de la défense. Interrogez votre client, fouillez le dossier, débloquez des indices et retournez le jury. Gratuit, dans le navigateur, sans installation."
-  const frBase = `${SITE_URL}/creation-equipe/maitre`
-  const enBase = `${SITE_URL}/en/creation-equipe/maitre`
+  const frBase = `${SITE_URL}/creation-equipe/the-defense`
+  const enBase = `${SITE_URL}/en/creation-equipe/the-defense`
   const canonicalUrl = locale === 'en' ? enBase : frBase
   return {
     title,
@@ -39,7 +39,7 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-export default function MaitrePage() {
+export default function TheDefensePage() {
   const locale = (headers().get('x-locale') ?? 'fr') as Locale
   const t = getT(locale)
   const s = t.sections.creation
@@ -59,7 +59,7 @@ export default function MaitrePage() {
             </Link>
           </div>
           <h1 className="mt-4 font-display text-4xl font-black uppercase leading-none text-white md:text-6xl">
-            Maître
+            The Defense
           </h1>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink-secondary">
             {locale === 'en'
@@ -70,7 +70,7 @@ export default function MaitrePage() {
       </div>
 
       <div className="mx-auto max-w-5xl px-4 py-10 md:px-8 md:py-14">
-        <MaitreGame />
+        <TheDefenseGame />
       </div>
     </div>
   )

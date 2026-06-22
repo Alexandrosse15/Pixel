@@ -16,7 +16,7 @@ const PHASES: { id: Phase; label: string }[] = [
 ];
 
 /** Machine à états : cabinet -> dossier -> tribunal -> verdict. */
-export default function MaitreGame() {
+export default function TheDefenseGame() {
   const phase = useGame((s) => s.phase);
   const indexCourant = PHASES.findIndex((p) => p.id === phase);
 
@@ -65,7 +65,7 @@ export default function MaitreGame() {
         </AnimatePresence>
 
         <footer className="mx-auto mt-10 max-w-4xl text-center text-xs text-bois-500">
-          Maître — fiction judiciaire. Toute ressemblance avec un chat existant serait fortuite.
+          The Defense — fiction judiciaire. Toute ressemblance avec un chat existant serait fortuite.
         </footer>
       </div>
     </div>

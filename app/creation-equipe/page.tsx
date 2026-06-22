@@ -44,9 +44,9 @@ interface JeuVitrine {
 
 const JEUX: JeuVitrine[] = [
   {
-    slug: 'maitre',
+    slug: 'the-defense',
     genre: { fr: 'Jeu de prétoire', en: 'Courtroom game' },
-    titre: { fr: 'Maître', en: 'Maître' },
+    titre: { fr: 'The Defense', en: 'The Defense' },
     pitch: {
       fr: "Vous êtes l'avocat de la défense. Interrogez votre client, épluchez le dossier, débloquez des indices, puis affrontez le procureur manche par manche pour faire pencher le jury. Une affaire de gâteau disparu où tout accuse un innocent.",
       en: "You play the defense lawyer. Question your client, dig through the case file, unlock clues, then face the prosecutor round by round to sway the jury. A missing-cake case where everything points at an innocent man.",
