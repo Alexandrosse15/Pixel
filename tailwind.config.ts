@@ -26,11 +26,30 @@ const config: Config = {
           subtle: '#333333',
         },
         line: '#242424',
+        // Palette boisée, utilisée par le jeu "Maître" (creation-equipe/maitre)
+        bois: {
+          50: '#faf3e7',
+          100: '#f0e0c4',
+          200: '#e0c08a',
+          300: '#caa05a',
+          400: '#a87b35',
+          500: '#8a5e24',
+          600: '#6e481b',
+          700: '#553616',
+          800: '#3c2611',
+          900: '#2a1a0c',
+        },
+        laiton: '#c9a04a',
+        encre: '#1c150d',
       },
       fontFamily: {
         display: ['var(--font-display)', 'sans-serif'],
         body: ['var(--font-body)', 'sans-serif'],
         mono: ['var(--font-mono)', 'monospace'],
+        prose: ['Georgia', 'Cambria', 'serif'],
+      },
+      boxShadow: {
+        pretoire: '0 10px 40px -10px rgba(0,0,0,0.6)',
       },
       fontSize: {
         '7xl': ['4.5rem', { lineHeight: '1' }],

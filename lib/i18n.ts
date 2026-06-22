@@ -54,9 +54,9 @@ const translations = {
         empty: 'Aucun jeu gratuit en ce moment.',
       },
       creation: {
-        title: "La création de l'équipe",
+        title: "Les créations de l'équipe",
         description:
-          "Le jeu maison fait par l'équipe. Un petit jeu de choix procédural à jouer directement dans le navigateur, gratuit et sans installation.",
+          "Les jeux maison faits par l'équipe. Des petits jeux à jouer directement dans le navigateur, gratuits et sans installation.",
         empty: 'Aucun jeu pour le moment.',
       },
     },
@@ -176,9 +176,9 @@ const translations = {
         empty: 'No free games right now.',
       },
       creation: {
-        title: "The Team's Creation",
+        title: "The Team's Creations",
         description:
-          'The homemade game built by the team. A small procedural choice game you can play right in your browser, free and with no install.',
+          'The homemade games built by the team. Small games you can play right in your browser, free and with no install.',
         empty: 'No game yet.',
       },
     },

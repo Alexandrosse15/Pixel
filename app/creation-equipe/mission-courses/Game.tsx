@@ -491,7 +491,7 @@ export default function Game() {
 
   const share = useCallback(
     async (mode: 'chapter' | 'total', platform: 'facebook' | 'instagram' | 'copy' | 'native') => {
-      const url = `${SITE_URL}/creation-equipe`
+      const url = `${SITE_URL}/creation-equipe/mission-courses`
       const text =
         mode === 'chapter' && rank && chapter
           ? ui.shareChapter(tr(chapter.title), tr(chapter.kicker), rank.grade)
