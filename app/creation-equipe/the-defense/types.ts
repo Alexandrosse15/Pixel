@@ -50,6 +50,8 @@ export interface Replique {
   /** Indice nécessaire pour pouvoir choisir cette réplique. */
   indiceRequis: string | null;
   points: number;
+  /** Cette preuve répond bien à l'attaque en cours (sinon : hors sujet). */
+  pertinent?: boolean;
   /** Réplique étayée : alimente l'Effet de manche (combo). */
   combo?: boolean;
   /** Objection à tort : déclenche un avertissement du juge. */
@@ -85,6 +87,8 @@ export interface Affaire {
     /** Seuil de faveur pour un acquittement triomphal. */
     seuilTriomphe: number;
     strikesMax: number;
+    /** Réaction du juge quand on invoque une preuve absente du dossier. */
+    objectionRejetee: string;
     manches: Manche[];
   };
   accusation: {

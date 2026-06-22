@@ -92,8 +92,8 @@
     {
       "id": "s_voisin",
       "source": "scene",
-      "label": "Interroger le voisin, Aldo Tartine",
-      "cout": 1,
+      "label": "Interroger le voisin, Aldo Tartine (long)",
+      "cout": 2,
       "requiert": null,
       "reponse": "Le voisin transpire, évite votre regard. « Le gâteau ? Quel gâteau ? J'ai rien vu, rien mangé... enfin... » Vous remarquez de la nougatine séchée au coin de sa moustache.",
       "indice": { "id": "indice_voisin_nerveux", "resume": "Aldo, le voisin, très nerveux, nougatine sur la moustache", "effets": [ { "suspect": "aldo", "valeur": 3 }, { "suspect": "gerard", "valeur": -1 } ] }
@@ -123,15 +123,17 @@
   "proces": {
     "faveurInitiale": 45,
     "seuilAcquittement": 55,
-    "seuilTriomphe": 80,
+    "seuilTriomphe": 82,
     "strikesMax": 3,
+    "objectionRejetee": "« Objection ! La défense invoque une preuve qui n'est même pas au dossier. » Le juge vous foudroie du regard : « Ne fabriquez pas de preuves dans MON tribunal, Maître. » (Avertissement)",
     "manches": [
       {
         "id": "manche1",
         "procureur": "Mesdames et messieurs du jury, l'accusé était SUR LES LIEUX. La vidéo le prouve. Que faisait-il là, sinon préparer son méfait ?",
         "repliques": [
-          { "texte": "La vidéo coupe 4 minutes : on ne le voit JAMAIS entrer dans la boutique.", "indiceRequis": "indice_video_coupure", "points": 20, "combo": true, "reaction": "Murmures dans la salle. Le procureur transpire légèrement." },
-          { "texte": "Mon client achetait un éclair. Être gourmand n'est pas un crime !", "indiceRequis": "indice_eclair", "points": 12, "combo": true, "reaction": "Le jury sourit. Un juré hoche la tête, lui aussi aime les éclairs." },
+          { "texte": "La vidéo coupe 4 minutes : on ne le voit JAMAIS entrer dans la boutique.", "indiceRequis": "indice_video_coupure", "pertinent": true, "points": 20, "combo": true, "reaction": "Murmures dans la salle. Le procureur transpire légèrement." },
+          { "texte": "Mon client achetait un éclair. Être gourmand n'est pas un crime !", "indiceRequis": "indice_eclair", "pertinent": true, "points": 12, "combo": true, "reaction": "Le jury sourit. Un juré hoche la tête, lui aussi aime les éclairs." },
+          { "texte": "Et ces miettes ? Elles ne correspondent pas au gâteau volé !", "indiceRequis": "indice_miettes_incompatibles", "pertinent": false, "points": -7, "reaction": "Le juge vous coupe : « Les miettes ? Nous parlons de sa PRÉSENCE sur les lieux, Maître. Restez sur le sujet. »" },
           { "texte": "Mon client est un homme d'honneur, regardez son cardigan !", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Objection rejetée. Le cardigan n'est pas une preuve, Maître. » (Avertissement)" }
         ]
       },
@@ -139,8 +141,9 @@
         "id": "manche2",
         "procureur": "Et ces MIETTES sur sa veste ? La preuve irréfutable qu'il a dévoré la pièce montée !",
         "repliques": [
-          { "texte": "L'expertise est formelle : ces miettes sont du croissant, pas du gâteau volé.", "indiceRequis": "indice_miettes_incompatibles", "points": 24, "combo": true, "reaction": "Coup de théâtre ! Le procureur cherche ses notes, paniqué." },
-          { "texte": "Mon client dit avoir mangé un croissant l'après-midi.", "indiceRequis": "indice_croissant", "points": 5, "reaction": "Une parole contre des miettes : le jury reste dubitatif." },
+          { "texte": "L'expertise est formelle : ces miettes sont du croissant, pas du gâteau volé.", "indiceRequis": "indice_miettes_incompatibles", "pertinent": true, "points": 24, "combo": true, "reaction": "Coup de théâtre ! Le procureur cherche ses notes, paniqué." },
+          { "texte": "Mon client dit avoir mangé un croissant l'après-midi.", "indiceRequis": "indice_croissant", "pertinent": true, "points": 6, "reaction": "Une parole contre des miettes : le jury reste dubitatif." },
+          { "texte": "La vidéo le disculpe, on ne le voit pas entrer !", "indiceRequis": "indice_video_coupure", "pertinent": false, "points": -7, "reaction": "Le juge soupire : « La caméra ne filme pas les miettes, Maître. Vous noyez le poisson. »" },
           { "texte": "Tout le monde a des miettes, c'est la vie !", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Convaincant comme un sablé mou, Maître. » (Avertissement)" }
         ]
       },
@@ -148,8 +151,9 @@
         "id": "manche3",
         "procureur": "Soit ! Mais comment expliquer l'absence d'effraction ? Il connaissait les lieux, c'est un initié !",
         "repliques": [
-          { "texte": "Aucun humain n'est entré par la porte. Les griffes sur le présentoir le prouvent.", "indiceRequis": "indice_poils_griffes", "points": 20, "combo": true, "reaction": "Le jury se penche en avant. Où veut-il en venir ?" },
-          { "texte": "Mon client n'avait même pas de clé. Comment serait-il entré ?", "indiceRequis": "indice_pas_effraction", "points": 13, "combo": true, "reaction": "Bon point. Le procureur grimace." },
+          { "texte": "Aucun humain n'est entré par la porte. Les griffes sur le présentoir le prouvent.", "indiceRequis": "indice_poils_griffes", "pertinent": true, "points": 20, "combo": true, "reaction": "Le jury se penche en avant. Où veut-il en venir ?" },
+          { "texte": "Mon client n'avait même pas de clé. Comment serait-il entré ?", "indiceRequis": "indice_pas_effraction", "pertinent": true, "points": 13, "combo": true, "reaction": "Bon point. Le procureur grimace." },
+          { "texte": "De toute façon il était là pour un éclair, pas pour cambrioler !", "indiceRequis": "indice_eclair", "pertinent": false, "points": -7, "reaction": "Le juge : « L'éclair n'ouvre pas une porte verrouillée, Maître. Hors sujet. »" },
           { "texte": "Peut-être que la porte s'est ouverte toute seule, par magie ?", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Nous ne sommes pas chez Harry Potter, Maître. » (Avertissement)" }
         ]
       },
@@ -157,10 +161,10 @@
         "id": "manche4",
         "procureur": "Cette histoire est absurde ! Si ce n'est pas votre client, alors QUI ? Vous n'avez personne à offrir au jury !",
         "repliques": [
-          { "texte": "La coupable a quatre pattes et s'appelle Marquise. Les poils sont félins, c'est prouvé.", "indiceRequis": "indice_poils_felins", "points": 28, "combo": true, "reaction": "STUPEUR GÉNÉRALE. Un juré crie : « Le chat ! C'était le chat ! »" },
-          { "texte": "Le voisin, Aldo, était couvert de nougatine et tremblait comme une feuille.", "indiceRequis": "indice_voisin_nerveux", "points": 16, "combo": true, "reaction": "Le jury se tourne d'un bloc vers le banc du public." },
-          { "texte": "Un témoin a vu un chat tigré rôder autour de la pièce montée.", "indiceRequis": "indice_chat_temoin", "points": 11, "reaction": "Le jury chuchote avec animation, intrigué." },
-          { "texte": "Ce n'est pas à la défense de trouver le coupable, votre honneur.", "indiceRequis": null, "points": -4, "reaction": "Techniquement vrai, mais le jury reste sur sa faim." }
+          { "texte": "La coupable a quatre pattes et s'appelle Marquise. Les poils sont félins, c'est prouvé.", "indiceRequis": "indice_poils_felins", "pertinent": true, "points": 28, "combo": true, "reaction": "STUPEUR GÉNÉRALE. Un juré crie : « Le chat ! C'était le chat ! »" },
+          { "texte": "Le voisin, Aldo, était couvert de nougatine et tremblait comme une feuille.", "indiceRequis": "indice_voisin_nerveux", "pertinent": true, "points": 16, "combo": true, "reaction": "Le jury se tourne d'un bloc vers le banc du public." },
+          { "texte": "Un témoin a vu un chat tigré rôder autour de la pièce montée.", "indiceRequis": "indice_chat_temoin", "pertinent": true, "points": 11, "reaction": "Le jury chuchote avec animation, intrigué." },
+          { "texte": "Ce n'est pas à la défense de trouver le coupable, votre honneur.", "indiceRequis": null, "points": -6, "reaction": "Techniquement vrai, mais le jury reste sur sa faim, et le procureur reprend du poil de la bête." }
         ]
       }
     ]

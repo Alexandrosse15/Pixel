@@ -60,8 +60,13 @@ export function repliqueDebloquee(replique: Replique, indices: string[]): boolea
   return indices.includes(replique.indiceRequis);
 }
 
+/** Pénalité quand on invoque une preuve qu'on n'a jamais récoltée. */
+export const PENALITE_NON_ETAYEE = -14;
+
+export type TypeResultat = 'succes' | 'hors_sujet' | 'non_etayee' | 'bluff';
+
 export interface ResultatReplique {
-  pointsBruts: number;
+  type: TypeResultat;
   pointsEffectifs: number;
   faveurApres: number;
   comboApres: number;
@@ -72,30 +77,56 @@ export interface ResultatReplique {
 }
 
 /**
- * Résout une réplique : applique l'Effet de manche aux répliques étayées,
- * casse le combo et inflige un avertissement sur une objection à tort.
+ * Résout une réplique. Aucune réplique n'est verrouillée : c'est au joueur
+ * de juger ce qu'il peut étayer.
+ * - Preuve absente du dossier -> objection rejetée (grosse perte + avertissement).
+ * - Preuve hors sujet -> pénalité, combo cassé.
+ * - Preuve pertinente -> succès, Effet de manche (combo).
+ * - Ligne sans preuve -> selon ce qui est écrit (bluff sanctionné, etc.).
  */
 export function appliquerReplique(
   replique: Replique,
+  indices: string[],
   faveur: number,
   combo: number,
   strikes: number,
+  objectionRejetee: string,
 ): ResultatReplique {
+  const finir = (
+    type: TypeResultat,
+    points: number,
+    comboApres: number,
+    strike: boolean,
+    reaction: string,
+    mult = 1,
+  ): ResultatReplique => ({
+    type,
+    pointsEffectifs: points,
+    faveurApres: clampFaveur(faveur + points),
+    comboApres,
+    strikesApres: strike ? strikes + 1 : strikes,
+    multiplicateur: mult,
+    estStrike: strike,
+    reaction,
+  });
+
+  // Le joueur invoque une preuve qu'il n'a pas : sanction maximale.
+  if (replique.indiceRequis && !indices.includes(replique.indiceRequis)) {
+    return finir('non_etayee', PENALITE_NON_ETAYEE, 0, true, objectionRejetee);
+  }
+
+  // Preuve réelle mais qui ne répond pas à l'attaque : hors sujet.
+  if (replique.indiceRequis && replique.pertinent === false) {
+    return finir('hors_sujet', replique.points, 0, !!replique.strike, replique.reaction);
+  }
+
+  // Réplique réussie (preuve pertinente) ou ligne sans preuve assumée.
   const etayee = !!replique.combo && replique.points > 0;
   const comboApres = etayee ? combo + 1 : 0;
   const mult = etayee ? comboMultiplicateur(comboApres) : 1;
-  const pointsEffectifs = Math.round(replique.points * mult);
-  const estStrike = !!replique.strike;
-  return {
-    pointsBruts: replique.points,
-    pointsEffectifs,
-    faveurApres: clampFaveur(faveur + pointsEffectifs),
-    comboApres,
-    strikesApres: estStrike ? strikes + 1 : strikes,
-    multiplicateur: mult,
-    estStrike,
-    reaction: replique.reaction,
-  };
+  const points = Math.round(replique.points * mult);
+  const type: TypeResultat = replique.points > 0 ? 'succes' : 'bluff';
+  return finir(type, points, comboApres, !!replique.strike, replique.reaction, mult);
 }
 
 export interface EtatVerdict {

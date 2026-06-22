@@ -48,7 +48,7 @@ export function Enquete() {
 
       {/* Compteur d'actions */}
       <div className="mb-4 flex items-center justify-center gap-2">
-        <span className="text-xs uppercase tracking-widest text-bois-300">Pistes restantes</span>
+        <span className="text-xs uppercase tracking-widest text-bois-300">Temps d'enquête</span>
         <div className="flex gap-1.5">
           {Array.from({ length: actionsMax }).map((_, i) => (
             <span
@@ -175,7 +175,8 @@ export function Enquete() {
                 >
                   {derniereReponse.leurre ? (
                     <>
-                      <strong>Fausse piste.</strong> Une action de perdue, et un soupçon mal placé.
+                      <strong>Fausse piste.</strong> Du temps perdu, un soupçon mal placé, et le
+                      procureur en profite : −4 de faveur au procès.
                     </>
                   ) : (
                     <>
@@ -242,6 +243,16 @@ function PisteBouton({
           <span className="mt-0.5 block text-[11px] italic text-red-400/80">Fausse piste.</span>
         )}
       </span>
+      {!explore && (
+        <span
+          className={`ml-1 shrink-0 rounded px-1.5 py-0.5 text-[10px] font-bold uppercase ${
+            piste.cout > 1 ? 'bg-red-900/50 text-red-200' : 'bg-bois-900/60 text-bois-300'
+          }`}
+          title="Coût en temps d'enquête"
+        >
+          {piste.cout} action{piste.cout > 1 ? 's' : ''}
+        </span>
+      )}
     </button>
   );
 }

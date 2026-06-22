@@ -4,12 +4,13 @@ import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { affaire, useGame } from './store';
 import type { Replique } from './types';
-import { repliqueDebloquee } from './scoring';
+import { appliquerReplique } from './scoring';
 import { JaugeJury } from './JaugeJury';
 import {
   BadgeBalance,
+  BadgeCoche,
   BadgeEclair,
-  BadgeVerrou,
+  IconeDossier,
   PortraitProcureur,
   PortraitJuge,
   SalleAudience,
@@ -33,18 +34,27 @@ function Avertissements({ strikes, max }: { strikes: number; max: number }) {
   );
 }
 
-/** Phase 2 : le procès. Manche par manche, on répond au procureur. */
+interface EffetAffiche {
+  reaction: string;
+  mult: number;
+  strike: boolean;
+  rate: boolean;
+}
+
+/** Phase 2 : le procès. Aucune réplique n'est verrouillée : à vous de juger. */
 export function Tribunal() {
   const faveurJury = useGame((s) => s.faveurJury);
   const mancheIndex = useGame((s) => s.mancheIndex);
   const indices = useGame((s) => s.indices);
+  const carnet = useGame((s) => s.carnet);
   const strikes = useGame((s) => s.strikes);
   const combo = useGame((s) => s.combo);
   const choisirReplique = useGame((s) => s.choisirReplique);
 
   const [enTransition, setEnTransition] = useState(false);
   const [variation, setVariation] = useState<number | null>(null);
-  const [effet, setEffet] = useState<{ reaction: string; mult: number; strike: boolean } | null>(null);
+  const [effet, setEffet] = useState<EffetAffiche | null>(null);
+  const [carnetOuvert, setCarnetOuvert] = useState(false);
 
   const manche = affaire.proces.manches[mancheIndex];
   const totalManches = affaire.proces.manches.length;
@@ -52,16 +62,27 @@ export function Tribunal() {
 
   function jouer(replique: Replique) {
     if (enTransition) return;
-    const etayee = !!replique.combo && replique.points > 0;
-    const mult = etayee ? (combo + 1 >= 4 ? 2 : combo + 1 === 3 ? 1.6 : combo + 1 === 2 ? 1.3 : 1) : 1;
-    setVariation(Math.round(replique.points * mult));
-    setEffet({ reaction: replique.reaction, mult, strike: !!replique.strike });
+    const r = appliquerReplique(
+      replique,
+      indices,
+      faveurJury,
+      combo,
+      strikes,
+      affaire.proces.objectionRejetee,
+    );
+    setVariation(r.pointsEffectifs);
+    setEffet({
+      reaction: r.reaction,
+      mult: r.multiplicateur,
+      strike: r.estStrike,
+      rate: r.type !== 'succes',
+    });
     setEnTransition(true);
     window.setTimeout(() => {
       choisirReplique(replique);
       setEnTransition(false);
       setEffet(null);
-    }, 1900);
+    }, 2000);
   }
 
   if (!manche) return null;
@@ -107,6 +128,43 @@ export function Tribunal() {
         </div>
       </div>
 
+      {/* Carnet d'indices (aide à la décision) */}
+      <div className="mb-4 rounded-xl border border-laiton/40 bg-bois-900/50">
+        <button
+          onClick={() => setCarnetOuvert((v) => !v)}
+          className="flex w-full items-center gap-2 px-3 py-2 text-left text-sm text-laiton"
+        >
+          <IconeDossier className="h-4 w-4" />
+          Votre carnet ({carnet.length}) {carnetOuvert ? '−' : '+'}
+          <span className="ml-auto text-[11px] italic text-bois-400">
+            n'invoquez que ce que vous tenez
+          </span>
+        </button>
+        <AnimatePresence>
+          {carnetOuvert && (
+            <motion.ul
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: 'auto', opacity: 1 }}
+              exit={{ height: 0, opacity: 0 }}
+              className="overflow-hidden px-3 pb-3"
+            >
+              {carnet.length === 0 ? (
+                <li className="text-xs italic text-bois-400">
+                  Carnet vide : vous plaidez sans la moindre preuve. Bon courage.
+                </li>
+              ) : (
+                carnet.map((n) => (
+                  <li key={n.id} className="flex items-start gap-2 py-0.5 text-xs text-bois-100">
+                    <BadgeCoche className="mt-0.5 h-3.5 w-3.5 shrink-0" />
+                    <span>{n.resume}</span>
+                  </li>
+                ))
+              )}
+            </motion.ul>
+          )}
+        </AnimatePresence>
+      </div>
+
       {/* attaque du procureur */}
       <AnimatePresence mode="wait">
         <motion.div
@@ -123,44 +181,29 @@ export function Tribunal() {
         </motion.div>
       </AnimatePresence>
 
-      {/* répliques */}
+      {/* répliques : toutes choisissables, à vous de juger */}
       <div className="space-y-2">
         {manche.repliques.map((replique, i) => {
-          const debloquee = repliqueDebloquee(replique, indices);
           const sansPreuve = replique.indiceRequis === null;
-          const risque = sansPreuve && (replique.strike || replique.points < 0);
           return (
             <button
               key={i}
-              disabled={!debloquee || enTransition}
+              disabled={enTransition}
               onClick={() => jouer(replique)}
               className={`group flex w-full items-start gap-3 rounded-lg border px-4 py-3 text-left transition ${
-                !debloquee
-                  ? 'cursor-not-allowed border-bois-700 bg-bois-900/40 text-bois-400'
-                  : risque
-                    ? 'border-red-800/50 bg-bois-800/70 text-bois-100 hover:border-red-600 hover:bg-bois-700/70'
-                    : 'border-laiton/60 bg-bois-700/70 text-bois-50 hover:border-laiton hover:bg-bois-600/70'
+                sansPreuve
+                  ? 'border-red-800/50 bg-bois-800/70 text-bois-100 hover:border-red-600 hover:bg-bois-700/70'
+                  : 'border-laiton/60 bg-bois-700/70 text-bois-50 hover:border-laiton hover:bg-bois-600/70'
               } ${enTransition ? 'opacity-60' : ''}`}
             >
               <span className="mt-0.5 shrink-0">
-                {!debloquee ? (
-                  <BadgeVerrou className="h-5 w-5" />
-                ) : risque ? (
-                  <BadgeEclair className="h-5 w-5" />
-                ) : (
-                  <BadgeBalance className="h-5 w-5" />
-                )}
+                {sansPreuve ? <BadgeEclair className="h-5 w-5" /> : <BadgeBalance className="h-5 w-5" />}
               </span>
-              <span className="flex-1">
-                <span className="text-sm">{replique.texte}</span>
-                {!debloquee && (
-                  <span className="mt-1 block text-xs italic text-bois-400">
-                    Indice manquant : vous n'avez pas de quoi étayer cette objection.
-                  </span>
-                )}
-                {debloquee && risque && (
+              <span className="flex-1 text-sm">
+                {replique.texte}
+                {sansPreuve && (
                   <span className="mt-1 block text-xs italic text-red-400/80">
-                    Sans preuve : risque d'avertissement du juge.
+                    Sans preuve : risque d'avertissement.
                   </span>
                 )}
               </span>
@@ -177,10 +220,18 @@ export function Tribunal() {
             animate={{ opacity: 1, scale: 1 }}
             exit={{ opacity: 0 }}
             className={`mt-4 rounded-xl border-2 p-4 text-center ${
-              effet.strike ? 'border-red-600 bg-red-950/60' : 'border-laiton bg-bois-900/90'
+              effet.strike
+                ? 'border-red-600 bg-red-950/60'
+                : effet.rate
+                  ? 'border-orange-700/70 bg-bois-900/90'
+                  : 'border-laiton bg-bois-900/90'
             }`}
           >
-            <p className={`font-prose text-lg ${effet.strike ? 'text-red-300' : 'text-laiton'}`}>
+            <p
+              className={`font-prose text-lg ${
+                effet.strike ? 'text-red-300' : effet.rate ? 'text-orange-300' : 'text-laiton'
+              }`}
+            >
               {effet.reaction}
             </p>
             {effet.mult > 1 && (

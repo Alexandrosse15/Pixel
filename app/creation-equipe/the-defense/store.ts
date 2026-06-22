@@ -4,10 +4,14 @@ import type { Affaire, Piste, Replique } from './types';
 import {
   appliquerEffets,
   appliquerReplique,
+  clampFaveur,
   suspicionInitiale,
 } from './scoring';
 
 export const affaire = affaireData as Affaire;
+
+/** Faveur perdue d'avance pour chaque fausse piste suivie (le procureur l'apprend). */
+export const MALUS_LEURRE = 4;
 
 export type Phase = 'enquete' | 'proces' | 'accusation' | 'verdict';
 
@@ -113,6 +117,8 @@ export const useGame = create<GameState>((set) => ({
         indices,
         carnet,
         suspicion: appliquerEffets(state.suspicion, piste),
+        // Une fausse piste se paie aussi en faveur de départ au procès.
+        faveurJury: piste.leurre ? clampFaveur(state.faveurJury - MALUS_LEURRE) : state.faveurJury,
         derniereReponse: {
           pisteId: piste.id,
           texte: piste.reponse,
@@ -128,7 +134,14 @@ export const useGame = create<GameState>((set) => ({
       const manche = affaire.proces.manches[state.mancheIndex];
       if (!manche || state.manchesJouees.includes(manche.id)) return state;
 
-      const r = appliquerReplique(replique, state.faveurJury, state.combo, state.strikes);
+      const r = appliquerReplique(
+        replique,
+        state.indices,
+        state.faveurJury,
+        state.combo,
+        state.strikes,
+        affaire.proces.objectionRejetee,
+      );
       const disqualifie = r.strikesApres >= affaire.proces.strikesMax;
       const estDerniere = state.mancheIndex >= affaire.proces.manches.length - 1;
 
