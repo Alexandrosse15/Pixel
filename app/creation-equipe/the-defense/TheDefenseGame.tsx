@@ -3,19 +3,19 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { useGame } from './store';
 import type { Phase } from './store';
-import { Cabinet } from './Cabinet';
-import { Dossier } from './Dossier';
+import { Enquete } from './Enquete';
 import { Tribunal } from './Tribunal';
+import { Accusation } from './Accusation';
 import { Verdict } from './Verdict';
 
 const PHASES: { id: Phase; label: string }[] = [
-  { id: 'cabinet', label: 'Cabinet' },
-  { id: 'dossier', label: 'Dossier' },
-  { id: 'tribunal', label: 'Tribunal' },
+  { id: 'enquete', label: 'Enquête' },
+  { id: 'proces', label: 'Procès' },
+  { id: 'accusation', label: 'Coupable' },
   { id: 'verdict', label: 'Verdict' },
 ];
 
-/** Machine à états : cabinet -> dossier -> tribunal -> verdict. */
+/** Machine à états : enquête -> procès -> accusation -> verdict. */
 export default function TheDefenseGame() {
   const phase = useGame((s) => s.phase);
   const indexCourant = PHASES.findIndex((p) => p.id === phase);
@@ -24,8 +24,7 @@ export default function TheDefenseGame() {
     <div
       className="overflow-hidden rounded-sm border border-bois-700 font-prose text-bois-100 shadow-pretoire"
       style={{
-        background:
-          'radial-gradient(circle at 50% 0%, #3c2611, #2a1a0c 60%, #1c150d 100%)',
+        background: 'radial-gradient(circle at 50% 0%, #3c2611, #2a1a0c 60%, #1c150d 100%)',
       }}
     >
       <div className="min-h-[36rem] px-4 py-6">
@@ -57,9 +56,9 @@ export default function TheDefenseGame() {
             exit={{ opacity: 0, y: -14 }}
             transition={{ duration: 0.3 }}
           >
-            {phase === 'cabinet' && <Cabinet />}
-            {phase === 'dossier' && <Dossier />}
-            {phase === 'tribunal' && <Tribunal />}
+            {phase === 'enquete' && <Enquete />}
+            {phase === 'proces' && <Tribunal />}
+            {phase === 'accusation' && <Accusation />}
             {phase === 'verdict' && <Verdict />}
           </motion.main>
         </AnimatePresence>

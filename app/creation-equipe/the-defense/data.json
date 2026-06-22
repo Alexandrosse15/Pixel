@@ -1,214 +1,203 @@
 {
   "id": "affaire1",
   "titre": "L'Affaire du Gâteau Disparu",
-  "ton": "léger, décalé, humour de prétoire",
-  "resume": "Votre client, Gérard Pluvier, modeste comptable, est accusé d'avoir cambriolé la pâtisserie \"Au Bon Beurre\" et dérobé la pièce montée du concours régional, retrouvée à moitié mangée. Tout l'accuse. Le procureur jubile. À vous de jouer.",
+  "resume": "Gérard Pluvier, modeste comptable, est accusé d'avoir cambriolé la pâtisserie \"Au Bon Beurre\" et dérobé la pièce montée du concours régional, retrouvée à moitié mangée. Tout l'accuse. Le procureur jubile. Vous avez peu de temps avant l'audience : choisissez bien vos pistes.",
 
-  "verite_cachee": {
-    "client_coupable": false,
-    "vrai_coupable": "Le chat de la pâtissière, Marquise, qui a fait tomber la pièce montée. Le voisin l'a ensuite ramassée et partiellement mangée par gourmandise, puis a paniqué.",
-    "explication": "Gérard passait par là par hasard pour acheter un éclair. Sa présence sur la vidéo et ses miettes sur la veste (un croissant acheté plus tôt) ont suffi à l'accuser. Il est totalement innocent."
+  "instruction": {
+    "actionsMax": 5,
+    "intro": "L'audience est dans une heure. Vous n'avez le temps que de creuser CINQ pistes. Interrogez, fouillez, mais visez juste : une fausse piste, c'est une heure perdue et un soupçon mal placé."
   },
 
-  "client": {
-    "nom": "Gérard Pluvier",
-    "portrait_svg_hint": "homme rond, cardigan, lunettes, air anxieux et honnête",
-    "profil_cache": "Innocent mais terriblement maladroit. Cache des détails gênants SANS RAPPORT avec le crime (il était là pour un éclair en cachette de son régime, honteux). Ces aveux gênants créent de fausses pistes.",
-    "questions": [
-      {
-        "id": "q_client_alibi",
-        "texte": "Où étiez-vous le soir du vol ?",
-        "reponse": "J'étais... devant la pâtisserie, oui. Mais pas pour voler ! Je... bon, je suis au régime et je voulais juste un éclair au café. En cachette de ma femme. Voilà, vous savez tout, je suis un homme faible.",
-        "debloque_indice": "indice_eclair"
-      },
-      {
-        "id": "q_client_miettes",
-        "texte": "On a trouvé des miettes sur votre veste. Expliquez.",
-        "reponse": "Un croissant ! J'avais mangé un croissant l'après-midi. Pur beurre. Je n'ai pas touché à cette fichue pièce montée, je vous le jure sur mon tableur Excel.",
-        "debloque_indice": "indice_croissant"
-      },
-      {
-        "id": "q_client_chat",
-        "texte": "Avez-vous remarqué quelque chose d'inhabituel ?",
-        "reponse": "Maintenant que vous le dites... il y avait un chat. Un gros chat tigré qui rôdait près de la vitrine. La Marquise, je crois qu'on l'appelle. Il avait l'air... intéressé par le gâteau.",
-        "debloque_indice": "indice_chat_temoin"
-      }
-    ]
-  },
+  "suspects": [
+    { "id": "gerard", "nom": "Gérard Pluvier", "role": "Votre client", "portrait": "client", "coupable": false, "suspicionInitiale": 7 },
+    { "id": "aldo", "nom": "Aldo Tartine", "role": "Le voisin", "portrait": "voisin", "coupable": false, "complice": true, "suspicionInitiale": 1 },
+    { "id": "marquise", "nom": "Marquise", "role": "Le chat de la pâtissière", "portrait": "chat", "coupable": true, "suspicionInitiale": 0 },
+    { "id": "margot", "nom": "Margot Beurre", "role": "La pâtissière", "portrait": "patissiere", "coupable": false, "suspicionInitiale": 1 },
+    { "id": "cremant", "nom": "Hippolyte Crémant", "role": "Le pâtissier rival", "portrait": "rival", "coupable": false, "suspicionInitiale": 2 }
+  ],
 
-  "enqueteur": {
-    "nom": "Inspecteur Lebrun",
-    "portrait_svg_hint": "femme en imperméable, café à la main, regard fatigué mais malin",
-    "questions": [
-      {
-        "id": "q_enq_video",
-        "texte": "Que montre exactement la vidéosurveillance ?",
-        "reponse": "On voit votre client devant la vitrine à 19h02. Mais voilà le hic : la caméra coupe pendant 4 minutes pour une panne. Le vol a eu lieu PENDANT la coupure. On ne le voit jamais entrer.",
-        "debloque_indice": "indice_video_coupure"
-      },
-      {
-        "id": "q_enq_porte",
-        "texte": "Comment le voleur est-il entré ?",
-        "reponse": "Aucune trace d'effraction. La porte n'a pas été forcée. Soit le voleur avait une clé... soit la porte était déjà ouverte. Votre client n'a pas de clé.",
-        "debloque_indice": "indice_pas_effraction"
-      },
-      {
-        "id": "q_enq_griffes",
-        "texte": "Y a-t-il des éléments inexpliqués sur la scène ?",
-        "reponse": "Des marques de griffes sur le présentoir. Et des poils. On a supposé un manteau en fourrure... mais franchement, ça ressemble plus à un animal. On n'a pas creusé, le dossier semblait bouclé.",
-        "debloque_indice": "indice_poils_griffes"
-      }
-    ]
-  },
+  "pistes": [
+    {
+      "id": "p_alibi",
+      "source": "client",
+      "label": "Demander son alibi à Gérard",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "J'étais... devant la pâtisserie, oui. Mais pas pour voler ! Je suis au régime et je voulais juste un éclair au café. En cachette de ma femme. Voilà, vous savez tout, je suis un homme faible.",
+      "indice": { "id": "indice_eclair", "resume": "Gérard achetait un éclair (gourmandise honteuse, sans rapport avec le vol)", "effets": [ { "suspect": "gerard", "valeur": -2 } ] }
+    },
+    {
+      "id": "p_miettes",
+      "source": "client",
+      "label": "L'interroger sur les miettes de sa veste",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Un croissant ! J'avais mangé un croissant l'après-midi. Pur beurre. Je n'ai pas touché à cette fichue pièce montée, je vous le jure sur mon tableur Excel.",
+      "indice": { "id": "indice_croissant", "resume": "Les miettes viennent d'un croissant mangé l'après-midi", "effets": [ { "suspect": "gerard", "valeur": -1 } ] }
+    },
+    {
+      "id": "p_chat",
+      "source": "client",
+      "label": "Lui demander s'il a vu quelque chose d'inhabituel",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Maintenant que vous le dites... il y avait un chat. Un gros chat tigré qui rôdait près de la vitrine. La Marquise, je crois qu'on l'appelle. Il avait l'air intéressé par le gâteau.",
+      "indice": { "id": "indice_chat_temoin", "resume": "Un chat tigré, Marquise, rôdait autour de la vitrine", "effets": [ { "suspect": "marquise", "valeur": 2 } ] }
+    },
+    {
+      "id": "p_video",
+      "source": "police",
+      "label": "Lebrun : que montre la vidéosurveillance ?",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "On voit votre client devant la vitrine à 19h02. Mais la caméra coupe pendant 4 minutes pour une panne. Le vol a eu lieu PENDANT la coupure. On ne le voit jamais entrer.",
+      "indice": { "id": "indice_video_coupure", "resume": "La vidéo coupe 4 min : on ne voit jamais Gérard entrer", "effets": [ { "suspect": "gerard", "valeur": -2 } ] }
+    },
+    {
+      "id": "p_effraction",
+      "source": "police",
+      "label": "Lebrun : comment le voleur est-il entré ?",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Aucune trace d'effraction. La porte n'a pas été forcée. Soit le voleur avait une clé, soit la porte était déjà ouverte. Votre client n'a pas de clé.",
+      "indice": { "id": "indice_pas_effraction", "resume": "Aucune effraction, et Gérard n'a pas de clé", "effets": [ { "suspect": "gerard", "valeur": -1 }, { "suspect": "marquise", "valeur": 1 } ] }
+    },
+    {
+      "id": "p_griffes",
+      "source": "police",
+      "label": "Lebrun : des éléments inexpliqués sur la scène ?",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Des marques de griffes sur le présentoir. Et des poils. On a supposé un manteau en fourrure... mais franchement, ça ressemble plus à un animal. On n'a pas creusé, le dossier semblait bouclé.",
+      "indice": { "id": "indice_poils_griffes", "resume": "Griffes et poils sur le présentoir (piste animale)", "effets": [ { "suspect": "marquise", "valeur": 2 } ] }
+    },
+    {
+      "id": "d_expertise",
+      "source": "dossier",
+      "label": "Lire l'expertise des miettes",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Analyse : miettes de pâte feuilletée pur beurre (type croissant). La pièce montée volée était en pâte à choux et nougatine. Les miettes NE CORRESPONDENT PAS au gâteau volé.",
+      "indice": { "id": "indice_miettes_incompatibles", "resume": "Les miettes ne correspondent PAS au gâteau volé", "effets": [ { "suspect": "gerard", "valeur": -3 } ] }
+    },
+    {
+      "id": "d_poils",
+      "source": "dossier",
+      "label": "Lire l'analyse des poils (page oubliée du rapport)",
+      "cout": 1,
+      "requiert": "indice_poils_griffes",
+      "reponse": "Poils retrouvés sur le présentoir : félins. Compatibles avec un chat tigré. Note manuscrite en marge : « pas suivi, manque de temps ».",
+      "indice": { "id": "indice_poils_felins", "resume": "PREUVE DÉCISIVE : poils félins, compatibles chat tigré", "effets": [ { "suspect": "marquise", "valeur": 3 } ] }
+    },
+    {
+      "id": "s_voisin",
+      "source": "scene",
+      "label": "Interroger le voisin, Aldo Tartine",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Le voisin transpire, évite votre regard. « Le gâteau ? Quel gâteau ? J'ai rien vu, rien mangé... enfin... » Vous remarquez de la nougatine séchée au coin de sa moustache.",
+      "indice": { "id": "indice_voisin_nerveux", "resume": "Aldo, le voisin, très nerveux, nougatine sur la moustache", "effets": [ { "suspect": "aldo", "valeur": 3 }, { "suspect": "gerard", "valeur": -1 } ] }
+    },
+    {
+      "id": "d_assurance",
+      "source": "dossier",
+      "label": "Éplucher la police d'assurance de la pâtissière",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Margot avait assuré la pièce montée pour une somme rondelette. Tentant, sur le papier... mais elle était à la télévision régionale au moment des faits, en direct. Cul-de-sac.",
+      "indice": { "id": "indice_assurance", "resume": "Margot a une assurance juteuse... mais un alibi télévisé en direct", "effets": [ { "suspect": "margot", "valeur": 3 } ] },
+      "leurre": true
+    },
+    {
+      "id": "s_rival",
+      "source": "scene",
+      "label": "Aller cuisiner le pâtissier rival, Crémant",
+      "cout": 1,
+      "requiert": null,
+      "reponse": "Crémant jubile du malheur de Margot, la déteste ouvertement. Mais il était juré du concours toute la soirée, sous les projecteurs, devant cent personnes. Antipathique, mais hors de cause.",
+      "indice": { "id": "indice_rival_jaloux", "resume": "Crémant jaloux et odieux... mais alibi en béton (juré du concours)", "effets": [ { "suspect": "cremant", "valeur": 2 } ] },
+      "leurre": true
+    }
+  ],
 
-  "dossier": {
-    "pieces": [
-      {
-        "id": "piece_rapport",
-        "titre": "Rapport de police",
-        "contenu": "Suspect identifié via vidéosurveillance. Présent sur les lieux. Miettes compromettantes relevées sur ses vêtements. Affaire considérée comme résolue par le procureur.",
-        "debloque_indice": null
-      },
-      {
-        "id": "piece_expertise",
-        "titre": "Expertise des miettes",
-        "contenu": "Analyse : miettes de pâte feuilletée pur beurre (type croissant). La pièce montée volée était en pâte à choux et nougatine. Les miettes NE CORRESPONDENT PAS au gâteau volé.",
-        "debloque_indice": "indice_miettes_incompatibles"
-      },
-      {
-        "id": "piece_poils_labo",
-        "titre": "Analyse des poils (page oubliée)",
-        "contenu": "Poils retrouvés sur le présentoir : félins. Compatibles avec un chat tigré. Note manuscrite en marge : « pas suivi, manque de temps ».",
-        "debloque_indice": "indice_poils_felins"
-      }
-    ]
-  },
-
-  "tribunal": {
-    "faveur_initiale": 50,
+  "proces": {
+    "faveurInitiale": 45,
+    "seuilAcquittement": 55,
+    "seuilTriomphe": 80,
+    "strikesMax": 3,
     "manches": [
       {
         "id": "manche1",
         "procureur": "Mesdames et messieurs du jury, l'accusé était SUR LES LIEUX. La vidéo le prouve. Que faisait-il là, sinon préparer son méfait ?",
         "repliques": [
-          {
-            "texte": "Mon client achetait un éclair. Être gourmand n'est pas un crime !",
-            "indice_requis": "indice_eclair",
-            "points": 15,
-            "reaction": "Le jury sourit. Un juré hoche la tête, lui aussi aime les éclairs."
-          },
-          {
-            "texte": "La vidéo coupe 4 minutes : on ne le voit JAMAIS entrer dans la boutique.",
-            "indice_requis": "indice_video_coupure",
-            "points": 20,
-            "reaction": "Murmures dans la salle. Le procureur transpire légèrement."
-          },
-          {
-            "texte": "Mon client est un homme d'honneur, regardez son cardigan !",
-            "indice_requis": null,
-            "points": -10,
-            "reaction": "Le juge soupire : « Maître, le cardigan n'est pas une preuve. »"
-          }
+          { "texte": "La vidéo coupe 4 minutes : on ne le voit JAMAIS entrer dans la boutique.", "indiceRequis": "indice_video_coupure", "points": 20, "combo": true, "reaction": "Murmures dans la salle. Le procureur transpire légèrement." },
+          { "texte": "Mon client achetait un éclair. Être gourmand n'est pas un crime !", "indiceRequis": "indice_eclair", "points": 12, "combo": true, "reaction": "Le jury sourit. Un juré hoche la tête, lui aussi aime les éclairs." },
+          { "texte": "Mon client est un homme d'honneur, regardez son cardigan !", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Objection rejetée. Le cardigan n'est pas une preuve, Maître. » (Avertissement)" }
         ]
       },
       {
         "id": "manche2",
         "procureur": "Et ces MIETTES sur sa veste ? La preuve irréfutable qu'il a dévoré la pièce montée !",
         "repliques": [
-          {
-            "texte": "L'expertise est formelle : ces miettes sont du croissant, pas du gâteau volé.",
-            "indice_requis": "indice_miettes_incompatibles",
-            "points": 25,
-            "reaction": "Coup de théâtre ! Le procureur cherche ses notes, paniqué."
-          },
-          {
-            "texte": "Tout le monde a des miettes, c'est la vie !",
-            "indice_requis": null,
-            "points": -5,
-            "reaction": "Le juge : « Convaincant comme un sablé mou, Maître. »"
-          },
-          {
-            "texte": "Mon client a mangé un croissant l'après-midi, voilà l'explication.",
-            "indice_requis": "indice_croissant",
-            "points": 10,
-            "reaction": "Le jury semble dubitatif mais ouvert."
-          }
+          { "texte": "L'expertise est formelle : ces miettes sont du croissant, pas du gâteau volé.", "indiceRequis": "indice_miettes_incompatibles", "points": 24, "combo": true, "reaction": "Coup de théâtre ! Le procureur cherche ses notes, paniqué." },
+          { "texte": "Mon client dit avoir mangé un croissant l'après-midi.", "indiceRequis": "indice_croissant", "points": 5, "reaction": "Une parole contre des miettes : le jury reste dubitatif." },
+          { "texte": "Tout le monde a des miettes, c'est la vie !", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Convaincant comme un sablé mou, Maître. » (Avertissement)" }
         ]
       },
       {
         "id": "manche3",
         "procureur": "Soit ! Mais comment expliquer l'absence d'effraction ? Il connaissait les lieux, c'est un initié !",
         "repliques": [
-          {
-            "texte": "Aucune effraction car aucun humain n'est entré par la porte. Regardez les griffes.",
-            "indice_requis": "indice_poils_griffes",
-            "points": 20,
-            "reaction": "Le jury se penche en avant. Où veut-il en venir ?"
-          },
-          {
-            "texte": "Mon client n'avait même pas de clé. Comment serait-il entré ?",
-            "indice_requis": "indice_pas_effraction",
-            "points": 15,
-            "reaction": "Bon point. Le procureur grimace."
-          },
-          {
-            "texte": "Peut-être que la porte s'est ouverte toute seule, par magie ?",
-            "indice_requis": null,
-            "points": -10,
-            "reaction": "Rires dans la salle. Le juge : « Nous ne sommes pas chez Harry Potter. »"
-          }
+          { "texte": "Aucun humain n'est entré par la porte. Les griffes sur le présentoir le prouvent.", "indiceRequis": "indice_poils_griffes", "points": 20, "combo": true, "reaction": "Le jury se penche en avant. Où veut-il en venir ?" },
+          { "texte": "Mon client n'avait même pas de clé. Comment serait-il entré ?", "indiceRequis": "indice_pas_effraction", "points": 13, "combo": true, "reaction": "Bon point. Le procureur grimace." },
+          { "texte": "Peut-être que la porte s'est ouverte toute seule, par magie ?", "indiceRequis": null, "points": -10, "strike": true, "reaction": "Le juge : « Nous ne sommes pas chez Harry Potter, Maître. » (Avertissement)" }
         ]
       },
       {
         "id": "manche4",
-        "procureur": "Cette histoire est absurde ! Si ce n'est pas mon... euh, votre client, alors QUI ?",
+        "procureur": "Cette histoire est absurde ! Si ce n'est pas votre client, alors QUI ? Vous n'avez personne à offrir au jury !",
         "repliques": [
-          {
-            "texte": "La coupable a quatre pattes, des moustaches et s'appelle Marquise. Les poils sont félins.",
-            "indice_requis": "indice_poils_felins",
-            "points": 30,
-            "reaction": "STUPEUR GÉNÉRALE. Un juré crie : « Le chat ! C'était le chat ! »"
-          },
-          {
-            "texte": "Un témoin a vu un chat tigré rôder autour de la pièce montée.",
-            "indice_requis": "indice_chat_temoin",
-            "points": 20,
-            "reaction": "Le jury chuchote avec animation."
-          },
-          {
-            "texte": "Ce n'est pas à la défense de trouver le coupable, votre honneur.",
-            "indice_requis": null,
-            "points": 0,
-            "reaction": "Techniquement vrai, mais le jury reste sur sa faim."
-          }
+          { "texte": "La coupable a quatre pattes et s'appelle Marquise. Les poils sont félins, c'est prouvé.", "indiceRequis": "indice_poils_felins", "points": 28, "combo": true, "reaction": "STUPEUR GÉNÉRALE. Un juré crie : « Le chat ! C'était le chat ! »" },
+          { "texte": "Le voisin, Aldo, était couvert de nougatine et tremblait comme une feuille.", "indiceRequis": "indice_voisin_nerveux", "points": 16, "combo": true, "reaction": "Le jury se tourne d'un bloc vers le banc du public." },
+          { "texte": "Un témoin a vu un chat tigré rôder autour de la pièce montée.", "indiceRequis": "indice_chat_temoin", "points": 11, "reaction": "Le jury chuchote avec animation, intrigué." },
+          { "texte": "Ce n'est pas à la défense de trouver le coupable, votre honneur.", "indiceRequis": null, "points": -4, "reaction": "Techniquement vrai, mais le jury reste sur sa faim." }
         ]
       }
     ]
   },
 
+  "accusation": {
+    "question": "Le procès est plié. Mais pour gagner vraiment, désignez au jury le véritable responsable de la disparition de la pièce montée.",
+    "bonSuspect": "marquise",
+    "complice": "aldo",
+    "indiceDecisif": "indice_poils_felins"
+  },
+
   "verdict": {
-    "seuils": [
-      {
-        "min": 85,
-        "issue": "ACQUITTEMENT TRIOMPHAL",
-        "texte": "Le jury acquitte Gérard à l'unanimité. La police lance un avis de recherche contre le chat Marquise (toujours en fuite, considéré comme délicieusement dangereux). Gérard vous offre un éclair. Vous l'avez bien mérité, Maître."
-      },
-      {
-        "min": 60,
-        "issue": "ACQUITTEMENT",
-        "texte": "Gérard est acquitté, de justesse. Le doute a profité à l'accusé. Il rentre chez lui, libre, et reprend son régime dès demain. Probablement."
-      },
-      {
-        "min": 35,
-        "issue": "VERDICT INCERTAIN",
-        "texte": "Le jury hésite, puis acquitte sur un malentendu favorable. Vous avez gagné, mais vous ne savez pas vraiment comment. Le métier rentre."
-      },
-      {
-        "min": 0,
-        "issue": "CONDAMNATION INJUSTE",
-        "texte": "Gérard est condamné. Pour un gâteau qu'il n'a jamais mangé. Plus tard, on retrouvera Marquise le museau couvert de nougatine. Trop tard. Gérard vous regarde, déçu. C'est le pire moment de votre carrière."
-      }
-    ],
-    "revelation": "VÉRITÉ : Gérard Pluvier était parfaitement innocent. Le gâteau est tombé à cause du chat Marquise, et un voisin gourmand a fini le travail avant de paniquer. Votre client n'était là que pour un éclair clandestin. La justice tient parfois à quelques miettes."
+    "radiation": {
+      "issue": "RADIATION",
+      "texte": "Trois objections rejetées. Le juge en a assez : « Maître, vous nous faites perdre notre temps. » Décrédibilisé, vous regardez le jury condamner Gérard sans même délibérer. Votre robe sent le roussi. C'est le pire moment de votre carrière."
+    },
+    "condamnation": {
+      "issue": "CONDAMNATION INJUSTE",
+      "texte": "Gérard est condamné. Pour un gâteau qu'il n'a jamais mangé. Plus tard, on retrouvera Marquise le museau couvert de nougatine. Trop tard. Gérard vous regarde, déçu."
+    },
+    "acquittement_faux_coupable": {
+      "issue": "ACQUITTEMENT BANCAL",
+      "texte": "Gérard est acquitté : le doute a profité à l'accusé. Mais vous avez désigné le mauvais coupable, et le vrai court toujours. Le jury repart avec un goût de gâteau pas net dans la bouche. Vous avez gagné, sans savoir comment."
+    },
+    "demi": {
+      "issue": "DEMI-VÉRITÉ",
+      "texte": "Acquittement, et vous avez pointé Aldo le voisin, couvert de nougatine. Il a bien fini le gâteau... mais il ne l'a pas fait tomber. La vérité n'est qu'à moitié dévoilée. Honorable, mais incomplet, Maître."
+    },
+    "acquittement": {
+      "issue": "ACQUITTEMENT",
+      "texte": "Gérard est acquitté et vous avez nommé la vraie coupable : Marquise. Le jury applaudit. Gérard rentre chez lui, libre, et reprend son régime dès demain. Probablement."
+    },
+    "triomphe": {
+      "issue": "ACQUITTEMENT TRIOMPHAL",
+      "texte": "Le jury acquitte Gérard à l'unanimité et la police lance un avis de recherche contre le chat Marquise (toujours en fuite, considéré comme délicieusement dangereux). Gérard vous offre un éclair. Vous l'avez bien mérité, Maître."
+    },
+    "revelation": "VÉRITÉ : Marquise le chat a fait tomber la pièce montée du présentoir. Aldo, le voisin gourmand, l'a ramassée, en a mangé la moitié par faiblesse, puis a paniqué. Gérard, lui, n'était là que pour un éclair clandestin. La justice tient parfois à quelques miettes... et à quelques poils."
   }
 }

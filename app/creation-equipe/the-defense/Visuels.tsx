@@ -271,6 +271,115 @@ export function BadgeQuestion({ className }: SvgProps) {
   );
 }
 
+/** Le voisin gourmand, Aldo Tartine : moustachu, fuyant, miettes au coin de la bouche. */
+export function PortraitVoisin({ className }: SvgProps) {
+  return (
+    <svg viewBox="0 0 120 120" className={className} aria-hidden>
+      <circle cx="60" cy="60" r="58" fill="#f0e0c4" />
+      <circle cx="60" cy="60" r="58" fill="none" stroke="#8a5e24" strokeWidth="4" />
+      {/* maillot rayé */}
+      <path d="M18 120 Q22 80 60 80 Q98 80 102 120 Z" fill="#b85c46" />
+      <path d="M18 100 H102 M22 112 H98" stroke="#f0e0c4" strokeWidth="4" opacity="0.6" />
+      {/* tête */}
+      <circle cx="60" cy="52" r="30" fill="#f3cda3" />
+      {/* cheveux en bataille */}
+      <path d="M32 42 Q36 20 60 20 Q84 20 88 42 Q78 30 60 32 Q42 30 32 42 Z" fill="#3c2611" />
+      <path d="M34 40 l-4 -8 M48 30 l-2 -10 M72 30 l2 -10 M86 40 l4 -8" stroke="#3c2611" strokeWidth="2.4" strokeLinecap="round" />
+      {/* yeux fuyants (regardent de côté) */}
+      <circle cx="52" cy="52" r="3" fill="#2a1a0c" />
+      <circle cx="74" cy="52" r="3" fill="#2a1a0c" />
+      <path d="M45 47 q6 -2 11 0 M67 47 q6 -2 11 0" stroke="#3c2611" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* grosse moustache */}
+      <path d="M46 64 Q60 60 74 64 Q68 70 60 68 Q52 70 46 64 Z" fill="#3c2611" />
+      {/* bouche gênée */}
+      <path d="M54 73 q6 3 12 0" stroke="#9a4a2a" strokeWidth="2.2" fill="none" strokeLinecap="round" />
+      {/* miette de nougatine au coin */}
+      <circle cx="72" cy="72" r="2.2" fill="#f5e6b0" stroke="#caa05a" strokeWidth="0.8" />
+      {/* goutte de sueur */}
+      <path d="M40 50 q-4 6 0 9 q4 -3 0 -9 Z" fill="#9fd0e0" />
+    </svg>
+  );
+}
+
+/** La pâtissière, Margot Beurre : toque, tablier, air affairé. */
+export function PortraitPatissiere({ className }: SvgProps) {
+  return (
+    <svg viewBox="0 0 120 120" className={className} aria-hidden>
+      <circle cx="60" cy="60" r="58" fill="#f0e0c4" />
+      <circle cx="60" cy="60" r="58" fill="none" stroke="#8a5e24" strokeWidth="4" />
+      {/* tablier blanc */}
+      <path d="M18 120 Q22 82 60 82 Q98 82 102 120 Z" fill="#f5f0e6" />
+      <path d="M50 84 Q60 96 70 84" stroke="#caa05a" strokeWidth="2" fill="none" />
+      {/* tête */}
+      <circle cx="60" cy="54" r="28" fill="#f3cda3" />
+      {/* toque de pâtissier */}
+      <path d="M36 38 Q34 20 48 22 Q50 12 60 16 Q70 12 72 22 Q86 20 84 38 Z" fill="#fbf7ee" stroke="#d8cdb6" strokeWidth="1.5" />
+      <rect x="36" y="36" width="48" height="8" rx="3" fill="#efe6d2" />
+      {/* yeux vifs */}
+      <circle cx="51" cy="55" r="2.4" fill="#2a1a0c" />
+      <circle cx="69" cy="55" r="2.4" fill="#2a1a0c" />
+      <path d="M45 50 q6 -2 11 0 M64 50 q6 -2 11 0" stroke="#6e481b" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+      {/* joues roses */}
+      <circle cx="46" cy="62" r="4" fill="#e7a98a" opacity="0.5" />
+      <circle cx="74" cy="62" r="4" fill="#e7a98a" opacity="0.5" />
+      {/* sourire commerçant */}
+      <path d="M50 68 Q60 76 70 68" stroke="#9a4a2a" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+      {/* rouleau à pâtisserie */}
+      <g transform="translate(84 86) rotate(-30)">
+        <rect x="-14" y="-4" width="28" height="8" rx="4" fill="#caa05a" stroke="#6e481b" strokeWidth="1.2" />
+        <rect x="-20" y="-2" width="6" height="4" rx="2" fill="#8a5e24" />
+        <rect x="14" y="-2" width="6" height="4" rx="2" fill="#8a5e24" />
+      </g>
+    </svg>
+  );
+}
+
+/** Le pâtissier rival, Hippolyte Crémant : nez pointu, sourcil narquois. */
+export function PortraitRival({ className }: SvgProps) {
+  return (
+    <svg viewBox="0 0 120 120" className={className} aria-hidden>
+      <circle cx="60" cy="60" r="58" fill="#f0e0c4" />
+      <circle cx="60" cy="60" r="58" fill="none" stroke="#8a5e24" strokeWidth="4" />
+      {/* veste de chef noire */}
+      <path d="M18 120 Q22 80 60 80 Q98 80 102 120 Z" fill="#2a2622" />
+      <path d="M55 80 L60 120 L65 80 Z" fill="#3a3530" />
+      <circle cx="60" cy="92" r="1.8" fill="#caa05a" />
+      <circle cx="60" cy="100" r="1.8" fill="#caa05a" />
+      {/* tête */}
+      <circle cx="60" cy="52" r="28" fill="#f0c79c" />
+      {/* cheveux plaqués + raie */}
+      <path d="M32 46 Q38 22 60 22 Q82 22 88 46 Q74 30 60 30 Q46 30 32 46 Z" fill="#5a3a18" />
+      <path d="M60 30 Q66 38 66 46" stroke="#3c2611" strokeWidth="1.6" fill="none" />
+      {/* sourcil narquois (un haut, un bas) */}
+      <path d="M44 46 q6 -5 12 -2" stroke="#3c2611" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+      <path d="M66 45 q6 -1 12 1" stroke="#3c2611" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+      <circle cx="51" cy="52" r="2.3" fill="#2a1a0c" />
+      <circle cx="72" cy="52" r="2.3" fill="#2a1a0c" />
+      {/* nez pointu */}
+      <path d="M61 54 L66 62 L60 63 Z" fill="#e0b184" />
+      {/* rictus en coin */}
+      <path d="M50 70 Q60 73 72 66" stroke="#9a4a2a" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+      {/* fine moustache pointue */}
+      <path d="M52 66 q8 2 16 -1" stroke="#3c2611" strokeWidth="1.8" fill="none" />
+    </svg>
+  );
+}
+
+type PortraitId = 'client' | 'voisin' | 'patissiere' | 'rival' | 'chat';
+
+/** Renvoie le composant portrait correspondant à l'id d'un suspect. */
+export function PortraitSuspect({ id, className }: { id: string; className?: string }) {
+  const map: Record<PortraitId, (p: SvgProps) => JSX.Element> = {
+    client: PortraitClient,
+    voisin: PortraitVoisin,
+    patissiere: PortraitPatissiere,
+    rival: PortraitRival,
+    chat: ChatMarquise,
+  };
+  const Cmp = map[(id as PortraitId)] ?? PortraitClient;
+  return <Cmp className={className} />;
+}
+
 /** Petite cocarde / sceau de la justice (décor). */
 export function SceauJustice({ className }: SvgProps) {
   return (

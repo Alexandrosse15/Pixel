@@ -1,11 +1,20 @@
 import { create } from 'zustand';
 import affaireData from './data.json';
-import type { Affaire, PieceDossier, Question, Replique } from './types';
-import { appliquerReplique, clampFaveur } from './scoring';
+import type { Affaire, Piste, Replique } from './types';
+import {
+  appliquerEffets,
+  appliquerReplique,
+  suspicionInitiale,
+} from './scoring';
 
 export const affaire = affaireData as Affaire;
 
-export type Phase = 'cabinet' | 'dossier' | 'tribunal' | 'verdict';
+export type Phase = 'enquete' | 'proces' | 'accusation' | 'verdict';
+
+export interface NoteCarnet {
+  id: string;
+  resume: string;
+}
 
 export interface EntreeJournal {
   manche: string;
@@ -14,98 +23,145 @@ export interface EntreeJournal {
   reaction: string;
 }
 
+/** Effet visible de la dernière réplique, pour le retour à l'écran. */
+export interface DernierEffet {
+  points: number;
+  combo: number;
+  multiplicateur: number;
+  strike: boolean;
+  reaction: string;
+}
+
 interface GameState {
   phase: Phase;
+
+  // Enquête
+  actionsRestantes: number;
+  pistesExplorees: string[];
+  indices: string[];
+  suspicion: Record<string, number>;
+  carnet: NoteCarnet[];
+  derniereReponse: { pisteId: string; texte: string; leurre: boolean } | null;
+
+  // Procès
   faveurJury: number;
-  /** Ids des indices débloqués pendant l'enquête. */
-  indicesDebloques: string[];
-  /** Notes prises par le joueur (réponses lues, pièces consultées). */
-  notes: string[];
-  /** Ids des questions posées et pièces consultées (pour l'UI). */
-  elementsConsultes: string[];
+  strikes: number;
+  combo: number;
+  comboMax: number;
   mancheIndex: number;
-  /** Manches déjà jouées (par id) pour éviter de rejouer. */
   manchesJouees: string[];
   journal: EntreeJournal[];
-  derniereReaction: string | null;
+  dernierEffet: DernierEffet | null;
+
+  // Accusation
+  accuse: string | null;
 
   setPhase: (phase: Phase) => void;
-  poserQuestion: (q: Question, source: string) => void;
-  consulterPiece: (p: PieceDossier) => void;
+  explorerPiste: (piste: Piste) => void;
+  fermerReponse: () => void;
   choisirReplique: (replique: Replique) => void;
+  accuser: (suspectId: string) => void;
   reset: () => void;
 }
 
 function etatInitial() {
   return {
-    phase: 'cabinet' as Phase,
-    faveurJury: affaire.tribunal.faveur_initiale,
-    indicesDebloques: [] as string[],
-    notes: [] as string[],
-    elementsConsultes: [] as string[],
+    phase: 'enquete' as Phase,
+
+    actionsRestantes: affaire.instruction.actionsMax,
+    pistesExplorees: [] as string[],
+    indices: [] as string[],
+    suspicion: suspicionInitiale(affaire.suspects),
+    carnet: [] as NoteCarnet[],
+    derniereReponse: null as GameState['derniereReponse'],
+
+    faveurJury: affaire.proces.faveurInitiale,
+    strikes: 0,
+    combo: 0,
+    comboMax: 0,
     mancheIndex: 0,
     manchesJouees: [] as string[],
     journal: [] as EntreeJournal[],
-    derniereReaction: null as string | null,
+    dernierEffet: null as DernierEffet | null,
+
+    accuse: null as string | null,
   };
 }
 
 export const useGame = create<GameState>((set) => ({
   ...etatInitial(),
 
-  setPhase: (phase) => set({ phase, derniereReaction: null }),
+  setPhase: (phase) => set({ phase, dernierEffet: null, derniereReponse: null }),
 
-  poserQuestion: (q, source) =>
+  explorerPiste: (piste) =>
     set((state) => {
-      if (state.elementsConsultes.includes(q.id)) return state;
-      const indices = q.debloque_indice && !state.indicesDebloques.includes(q.debloque_indice)
-        ? [...state.indicesDebloques, q.debloque_indice]
-        : state.indicesDebloques;
+      if (state.pistesExplorees.includes(piste.id)) return state;
+      if (state.actionsRestantes < piste.cout) return state;
+      if (piste.requiert && !state.indices.includes(piste.requiert)) return state;
+
+      const indices =
+        piste.indice && !state.indices.includes(piste.indice.id)
+          ? [...state.indices, piste.indice.id]
+          : state.indices;
+      const carnet = piste.indice
+        ? [...state.carnet, { id: piste.indice.id, resume: piste.indice.resume }]
+        : state.carnet;
+
       return {
-        elementsConsultes: [...state.elementsConsultes, q.id],
-        indicesDebloques: indices,
-        notes: [...state.notes, `${source} - ${q.texte} : ${q.reponse}`],
+        actionsRestantes: state.actionsRestantes - piste.cout,
+        pistesExplorees: [...state.pistesExplorees, piste.id],
+        indices,
+        carnet,
+        suspicion: appliquerEffets(state.suspicion, piste),
+        derniereReponse: {
+          pisteId: piste.id,
+          texte: piste.reponse,
+          leurre: !!piste.leurre,
+        },
       };
     }),
 
-  consulterPiece: (p) =>
-    set((state) => {
-      if (state.elementsConsultes.includes(p.id)) return state;
-      const indices = p.debloque_indice && !state.indicesDebloques.includes(p.debloque_indice)
-        ? [...state.indicesDebloques, p.debloque_indice]
-        : state.indicesDebloques;
-      return {
-        elementsConsultes: [...state.elementsConsultes, p.id],
-        indicesDebloques: indices,
-        notes: [...state.notes, `Dossier - ${p.titre} : ${p.contenu}`],
-      };
-    }),
+  fermerReponse: () => set({ derniereReponse: null }),
 
   choisirReplique: (replique) =>
     set((state) => {
-      const manche = affaire.tribunal.manches[state.mancheIndex];
+      const manche = affaire.proces.manches[state.mancheIndex];
       if (!manche || state.manchesJouees.includes(manche.id)) return state;
 
-      const resultat = appliquerReplique(replique, state.faveurJury);
-      const estDerniere = state.mancheIndex >= affaire.tribunal.manches.length - 1;
+      const r = appliquerReplique(replique, state.faveurJury, state.combo, state.strikes);
+      const disqualifie = r.strikesApres >= affaire.proces.strikesMax;
+      const estDerniere = state.mancheIndex >= affaire.proces.manches.length - 1;
 
       return {
-        faveurJury: clampFaveur(resultat.faveurApres),
-        derniereReaction: resultat.reaction,
+        faveurJury: r.faveurApres,
+        strikes: r.strikesApres,
+        combo: r.comboApres,
+        comboMax: Math.max(state.comboMax, r.comboApres),
+        dernierEffet: {
+          points: r.pointsEffectifs,
+          combo: r.comboApres,
+          multiplicateur: r.multiplicateur,
+          strike: r.estStrike,
+          reaction: r.reaction,
+        },
         manchesJouees: [...state.manchesJouees, manche.id],
         journal: [
           ...state.journal,
           {
             manche: manche.id,
             replique: replique.texte,
-            points: replique.points,
-            reaction: replique.reaction,
+            points: r.pointsEffectifs,
+            reaction: r.reaction,
           },
         ],
+        // Trois avertissements : radiation immédiate -> verdict.
+        // Sinon on enchaîne, et après la dernière manche on passe à l'accusation.
         mancheIndex: estDerniere ? state.mancheIndex : state.mancheIndex + 1,
-        phase: estDerniere ? ('verdict' as Phase) : state.phase,
+        phase: disqualifie ? 'verdict' : estDerniere ? 'accusation' : state.phase,
       };
     }),
+
+  accuser: (suspectId) => set({ accuse: suspectId, phase: 'verdict', dernierEffet: null }),
 
   reset: () => set(etatInitial()),
 }));
