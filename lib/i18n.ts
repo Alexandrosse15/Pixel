@@ -42,6 +42,12 @@ const translations = {
           "Actualité de l'industrie du jeu vidéo : licenciements, acquisitions, Game Pass, tendances de marché. Un regard indépendant sur les coulisses du gaming.",
         empty: 'Aucun article industrie pour le moment.',
       },
+      guides: {
+        title: 'Guides',
+        description:
+          "Guides et astuces jeux vidéo : builds, armes, mécaniques et conseils pour progresser. On décortique les jeux pour vous faire gagner du temps et monter en niveau.",
+        empty: 'Aucun guide pour le moment.',
+      },
       cinema: {
         title: 'Séries & Cinéma',
         description:
@@ -94,6 +100,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Dossier',
       industrie: 'Industrie',
+      guides: 'Guide',
       cinema: 'Séries & Cinéma',
     },
     search: {
@@ -164,6 +171,12 @@ const translations = {
           "Video game industry news: layoffs, acquisitions, Game Pass, market trends. An independent look behind the scenes of gaming.",
         empty: 'No industry articles yet.',
       },
+      guides: {
+        title: 'Guides',
+        description:
+          "Video game guides and tips: builds, weapons, mechanics and advice to progress. We break games down to save you time and level you up.",
+        empty: 'No guides yet.',
+      },
       cinema: {
         title: 'Series & Cinema',
         description:
@@ -216,6 +229,7 @@ const translations = {
       previews: 'Preview',
       dossiers: 'Feature',
       industrie: 'Industry',
+      guides: 'Guide',
       cinema: 'Series & Cinema',
     },
     search: {

@@ -7,6 +7,7 @@ const NAV_LINKS = [
   { href: '/tests', label: 'Tests' },
   { href: '/previews', label: 'Previews' },
   { href: '/dossiers', label: 'Dossiers' },
+  { href: '/guides', label: 'Guides' },
   { href: '/industrie', label: 'Industrie' },
   { href: '/cinema', label: 'Cinéma' },
 ]
