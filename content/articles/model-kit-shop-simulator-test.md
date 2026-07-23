@@ -7,7 +7,7 @@ excerpt: "Encore un shop simulator dans la lignée du TCG, cette fois autour des
 date: "2026-07-24"
 author: "Alexandrosse"
 readTime: "6 min"
-score: 6
+score: 5
 image_color: "from-slate-950 via-zinc-950 to-neutral-950"
 coverImage: "/images/modelkitshop/screenshot-1.webp"
 gameName: "Model Kit Shop Simulator"
