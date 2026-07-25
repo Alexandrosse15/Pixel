@@ -1,6 +1,6 @@
 ---
 title: "Terrinoth: Heroes of Descent, le plateau de Descent prend vie sur PC, et ça sent bon la soirée jeux"
-seoTitle: "Terrinoth Heroes of Descent : test du tactical RPG"
+seoTitle: "Terrinoth Heroes of Descent : test et avis du tactical RPG coop"
 slug: "terrinoth-heroes-of-descent-test"
 category: "tests"
 excerpt: "Le légendaire jeu de plateau Descent devient un tactical RPG coop. Donjons, héros, attaques Synergie: Terrinoth mise sur la soirée jeux entre amis."

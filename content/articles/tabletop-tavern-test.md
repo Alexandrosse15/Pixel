@@ -1,6 +1,6 @@
 ---
 title: "Tabletop Tavern: du Total War light croisé Slay the Spire, comme sortir ses figurines au comptoir"
-seoTitle: "Tabletop Tavern : test du roguelite façon Total War"
+seoTitle: "Tabletop Tavern : test et avis du roguelite façon Total War"
 slug: "tabletop-tavern-test"
 category: "tests"
 excerpt: "Un moteur de bataille façon Total War, un arbre à la Slay the Spire, des armées en plastique sur une table de taverne. On a testé Tabletop Tavern."

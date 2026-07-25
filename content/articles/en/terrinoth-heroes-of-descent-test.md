@@ -1,6 +1,6 @@
 ---
 title: "Terrinoth: Heroes of Descent, the Descent board game comes alive on PC, and it smells like game night"
-seoTitle: "Terrinoth Heroes of Descent review: the tactical RPG"
+seoTitle: "Terrinoth Heroes of Descent: review of the co-op tactical RPG"
 slug: "terrinoth-heroes-of-descent-test"
 category: "tests"
 excerpt: "The legendary Descent board game becomes a co-op tactical RPG. Dungeons, heroes, Synergy attacks: Terrinoth bets on game night with friends."

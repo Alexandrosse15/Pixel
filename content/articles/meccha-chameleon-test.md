@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon: le cache-cache où l'on se peint en quartier de viande pour survivre"
-seoTitle: "Meccha Chameleon : test du cache-cache caméléon"
+seoTitle: "Meccha Chameleon : test du jeu de cache-cache peinture (caméléon)"
 slug: "meccha-chameleon-test"
 category: "tests"
 excerpt: "Un cache-cache où l'on peint son corps blanc pour se fondre dans le décor. Meccha Chameleon transforme le camouflage en art, et c'est génialement absurde."
@@ -44,7 +44,7 @@ Au-delà du simple camouflage, c'est tout un jeu psychologique qui se met en pla
 
 ## Les modes et le format
 
-Meccha Chameleon se joue entre amis ou avec de parfaits inconnus, via des serveurs publics que n'importe qui peut rejoindre, et il est pensé dès le départ pour le streaming, avec des parties à participation des spectateurs faciles à monter. Trois modes sont annoncés pour varier les règles: un mode Normal, un mode Infection et un mode Double. Le nombre de joueurs recommandé tourne autour de deux à dix, mais avec une nuance importante: le plafond dépend directement de la connexion de l'hôte, puisque c'est lui qui héberge la partie. Autrement dit, la qualité de votre expérience dépendra autant de votre groupe que de la machine qui fait tourner le serveur.
+Meccha Chameleon se joue entre amis ou avec de parfaits inconnus, via des serveurs publics que n'importe qui peut rejoindre, et il est pensé dès le départ pour le streaming, avec des parties à participation des spectateurs faciles à monter. Trois modes varient les règles: le mode Normal, cache-cache classique où le caché tagué est éliminé, idéal en petit comité; le mode Infection, où chaque caché repéré rejoint les chercheurs jusqu'au dernier survivant; et le mode Double, où tout le monde se cache puis tout le monde cherche. Le nombre de joueurs recommandé tourne autour de deux à dix, mais avec une nuance importante: le plafond dépend directement de la connexion de l'hôte, puisque c'est lui qui héberge la partie. Autrement dit, la qualité de votre expérience dépendra autant de votre groupe que de la machine qui fait tourner le serveur. Pour tout maîtriser, de l'outil de peinture aux meilleures cachettes en passant par les tactiques de chercheur, on a réuni l'essentiel dans notre [guide complet de Meccha Chameleon](/guides/meccha-chameleon-guide).
 
 C'est là que se niche la principale fragilité du jeu, et elle est structurelle. Comme tout party game multijoueur, Meccha Chameleon ne vaut que par les gens avec qui on le lance. Avec une bande d'amis motivés ou une communauté de stream, c'est une pépite à rires garantis. Tout seul face à des serveurs déserts, l'expérience s'effondre. Sa durée de vie dépendra donc entièrement de sa capacité à fédérer une communauté, un pari toujours risqué pour un jeu d'un seul développeur sans force de frappe marketing.
 

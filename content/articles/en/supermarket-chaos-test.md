@@ -1,6 +1,6 @@
 ---
 title: "Supermarket Chaos takes the one satisfying moment from store sims and sells it on its own"
-seoTitle: "Supermarket Chaos: review"
+seoTitle: "Supermarket Chaos: review, gameplay and verdict"
 slug: "supermarket-chaos-test"
 category: "tests"
 excerpt: "We've stocked a card shop, a kebab stand, a supermarket. Now here's a game that does NOTHING but stock shelves. 4,668 products, zero new idea, and we felt every one."

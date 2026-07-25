@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon: the hide-and-seek where you paint yourself as a slab of meat to survive"
-seoTitle: "Meccha Chameleon review: the chameleon hide-and-seek"
+seoTitle: "Meccha Chameleon review: the paint hide-and-seek game (chameleon)"
 slug: "meccha-chameleon-test"
 category: "tests"
 excerpt: "A hide-and-seek where you paint your white body to blend into the scenery. Meccha Chameleon turns camouflage into an art, and it is gloriously absurd."
@@ -44,7 +44,7 @@ Beyond mere camouflage, a whole psychological game sets in. Should you hide in t
 
 ## The modes and the format
 
-Meccha Chameleon is played with friends or total strangers, via public servers anyone can join, and it is designed from the start for streaming, with easy-to-set-up viewer-participation games. Three modes are announced to vary the rules: a Normal mode, an Infection mode and a Double mode. The recommended player count hovers around two to ten, but with an important nuance: the ceiling depends directly on the host's connection, since they host the match. In other words, the quality of your experience will depend as much on your group as on the machine running the server.
+Meccha Chameleon is played with friends or total strangers, via public servers anyone can join, and it is designed from the start for streaming, with easy-to-set-up viewer-participation games. Three modes vary the rules: Normal, classic hide-and-seek where a tagged hider is eliminated, best in small lobbies; Infection, where each spotted hider joins the seekers until the last survivor; and Double, where everyone hides then everyone seeks. The recommended player count hovers around two to ten, but with an important nuance: the ceiling depends directly on the host's connection, since they host the match. In other words, the quality of your experience will depend as much on your group as on the machine running the server. To master everything, from the painting tool to the best hiding spots and seeker tactics, we gathered the essentials in our [complete Meccha Chameleon guide](/guides/meccha-chameleon-guide).
 
 This is where the game's main fragility lies, and it is structural. Like any multiplayer party game, Meccha Chameleon is only worth as much as the people you play it with. With a crew of motivated friends or a stream community, it is a guaranteed-laughs gem. Alone against empty servers, the experience collapses. Its lifespan will therefore depend entirely on its ability to rally a community, an always-risky bet for a one-developer game with no marketing muscle.
 

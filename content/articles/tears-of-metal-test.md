@@ -1,6 +1,6 @@
 ---
 title: "Tears of Metal est un Dynasty Warriors écossais en coop, et on l'attendait de pied ferme sans être déçus"
-seoTitle: "Tears of Metal : test et avis"
+seoTitle: "Tears of Metal : test et avis du hack-and-slash coop"
 slug: "tears-of-metal-test"
 category: "tests"
 excerpt: "Faucher des hordes à quatre avec un bataillon écossais, dans un roguelike hack-and-slash nerveux et généreux. Tears of Metal tenait toutes ses promesses de démo, et il les tient encore."

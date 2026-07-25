@@ -1,6 +1,6 @@
 ---
 title: "Supermarket Chaos prend le seul moment satisfaisant des sims de magasin et le vend tout seul"
-seoTitle: "Supermarket Chaos : test et avis"
+seoTitle: "Supermarket Chaos : test, avis et gameplay du sim de magasin"
 slug: "supermarket-chaos-test"
 category: "tests"
 excerpt: "On a rangé un magasin de cartes, un kebab, un supermarché. Voilà maintenant un jeu qui ne fait QUE ranger. 4668 produits, zéro idée neuve, et on l'a senti passer."

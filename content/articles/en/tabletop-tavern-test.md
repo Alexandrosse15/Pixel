@@ -1,6 +1,6 @@
 ---
 title: "Tabletop Tavern: Total War light meets Slay the Spire, like setting out your minis at the bar"
-seoTitle: "Tabletop Tavern review: the Total War roguelite"
+seoTitle: "Tabletop Tavern: review of the Total War-style roguelite"
 slug: "tabletop-tavern-test"
 category: "tests"
 excerpt: "A Total War-style battle engine, a Slay the Spire branch tree, plastic armies on a tavern table. We reviewed Tabletop Tavern."
