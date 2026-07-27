@@ -124,6 +124,27 @@ export function getArticlesByGame(
     .slice(0, limit)
 }
 
+export function slugifyHeading(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+export function extractHeadings(content: string): { text: string; id: string }[] {
+  const headings: { text: string; id: string }[] = []
+  for (const line of content.split('\n')) {
+    const m = line.match(/^##\s+(.+?)\s*$/)
+    if (m) {
+      const text = m[1].replace(/\*\*/g, '').replace(/`/g, '').trim()
+      headings.push({ text, id: slugifyHeading(text) })
+    }
+  }
+  return headings
+}
+
 export function getAllSlugs(): string[] {
   if (!fs.existsSync(FR_DIR)) return []
   return fs
@@ -152,7 +173,7 @@ export interface GameGroup {
 export function slugifyGame(name: string): string {
   return name
     .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
+    .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')

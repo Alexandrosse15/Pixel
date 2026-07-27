@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { headers } from 'next/headers'
-import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig, slugifyGame } from '@/lib/articles'
+import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig, slugifyGame, slugifyHeading, extractHeadings } from '@/lib/articles'
 import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
@@ -79,7 +79,7 @@ export default async function ArticlePage({ params }: Props) {
     : Promise.resolve([])
 
   const rawRelated = getRelatedArticles(params.slug, raw.category, locale)
-  const rawSameGame = raw.gameName ? getArticlesByGame(raw.gameName, params.slug, locale) : []
+  const rawSameGame = raw.gameName ? getArticlesByGame(raw.gameName, params.slug, locale, 6) : []
 
   const [article, screenshots, communityRating, related, sameGame] = await Promise.all([
     enrichArticleWithCover(raw),
@@ -91,6 +91,19 @@ export default async function ArticlePage({ params }: Props) {
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
   let screenshotIdx = 0
+
+  // Sommaire (titres de niveau 2 de l'article)
+  const headings = extractHeadings(article.content)
+
+  // Recirculation bas d'article : prioriser le même jeu, puis la même catégorie (dédupliqué)
+  const recircSeen = new Set<string>([article.slug])
+  const recirc = [...sameGame, ...related]
+    .filter((a2) => {
+      if (recircSeen.has(a2.slug)) return false
+      recircSeen.add(a2.slug)
+      return true
+    })
+    .slice(0, 6)
 
   const catConfig = categoryConfig[article.category]
   const articleUrl = locale === 'en'
@@ -306,11 +319,42 @@ export default async function ArticlePage({ params }: Props) {
               </div>
             )}
 
+            {/* Sommaire cliquable (articles longs) */}
+            {headings.length >= 4 && (
+              <nav className="mb-8 rounded-sm border border-line bg-bg-card p-5">
+                <p className="mb-3 font-display text-xs uppercase tracking-widest text-brand">
+                  {locale === 'en' ? 'Contents' : 'Sommaire'}
+                </p>
+                <ul className="flex flex-col gap-1.5">
+                  {headings.map((h) => (
+                    <li key={h.id}>
+                      <a
+                        href={`#${h.id}`}
+                        className="text-sm leading-tight text-ink-secondary no-underline transition-colors hover:text-brand"
+                      >
+                        {h.text}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            )}
+
             {/* Markdown content */}
             <div className="prose prose-lg max-w-none">
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 components={{
+                  h2: ({ children }) => {
+                    const text = Array.isArray(children)
+                      ? children.map((c) => (typeof c === 'string' ? c : '')).join('')
+                      : String(children ?? '')
+                    return (
+                      <h2 id={slugifyHeading(text)} className="scroll-mt-28">
+                        {children}
+                      </h2>
+                    )
+                  },
                   img: ({ src, alt }) => {
                     let finalSrc = src || ''
                     if (finalSrc.startsWith('/images/') && !article.coverImage) {
@@ -345,6 +389,36 @@ export default async function ArticlePage({ params }: Props) {
               </ReactMarkdown>
             </div>
 
+            {/* Sur ce jeu (visible mobile et tablette, la sidebar prend le relais sur desktop) */}
+            {gameHubHref && article.gameName && sameGame.length > 0 && (
+              <div className="mt-10 rounded-sm border border-line bg-bg-card p-5 lg:hidden">
+                <p className="mb-3 font-display text-xs uppercase tracking-widest text-brand">
+                  {locale === 'en' ? `More on ${article.gameName}` : `Sur ${article.gameName}`}
+                </p>
+                <div className="mb-3 flex flex-col gap-2.5">
+                  {sameGame.slice(0, 4).map((a2) => (
+                    <Link
+                      key={a2.slug}
+                      href={locale === 'en' ? `/en/articles/${a2.slug}` : `/articles/${a2.slug}`}
+                      className="group flex items-start gap-2 no-underline"
+                    >
+                      <CategoryBadge category={a2.category} size="sm" />
+                      <span className="text-sm leading-tight text-ink-secondary transition-colors group-hover:text-brand line-clamp-2">
+                        {a2.seoTitle ?? a2.title}
+                      </span>
+                    </Link>
+                  ))}
+                </div>
+                <Link
+                  href={gameHubHref}
+                  className="inline-flex items-center gap-1 font-display text-xs uppercase tracking-widest text-ink-muted transition-colors hover:text-brand"
+                >
+                  {locale === 'en' ? `All about ${article.gameName}` : `Tout sur ${article.gameName}`}
+                  <span aria-hidden>→</span>
+                </Link>
+              </div>
+            )}
+
             {/* Note communauté (mobile uniquement) */}
             <div className="lg:hidden">
               <CommunityRating slug={article.slug} variant="inline" />
@@ -352,14 +426,14 @@ export default async function ArticlePage({ params }: Props) {
 
             <Comments slug={article.slug} title={article.title} url={articleUrl} />
 
-            {/* Related articles */}
-            {related.length > 0 && (
+            {/* Recirculation : même jeu prioritaire, puis même catégorie */}
+            {recirc.length > 0 && (
               <div className="mt-16 border-t border-line pt-10">
                 <p className="mb-6 font-display text-xs uppercase tracking-widest text-brand">
                   {a.related_title}
                 </p>
                 <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                  {related.map((rel) => (
+                  {recirc.map((rel) => (
                     <ArticleCard key={rel.slug} article={rel} locale={locale} />
                   ))}
                 </div>
@@ -429,7 +503,7 @@ export default async function ArticlePage({ params }: Props) {
                   </p>
                   {sameGame.length > 0 && (
                     <div className="mb-3 flex flex-col gap-2">
-                      {sameGame.map((a2) => (
+                      {sameGame.slice(0, 4).map((a2) => (
                         <Link
                           key={a2.slug}
                           href={locale === 'en' ? `/en/articles/${a2.slug}` : `/articles/${a2.slug}`}
