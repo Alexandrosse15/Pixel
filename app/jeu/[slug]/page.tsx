@@ -132,6 +132,12 @@ export default async function GamePage({ params }: Props) {
       ? `${articles.length} article${articles.length > 1 ? 's' : ''}`
       : `${articles.length} article${articles.length > 1 ? 's' : ''}`
 
+  // Regroupe le contenu du hub par type, pour une table des matières claire du jeu
+  const groupOrder = ['tests', 'previews', 'guides', 'dossiers', 'industrie', 'cinema'] as const
+  const groups = groupOrder
+    .map((cat) => ({ cat, items: articles.filter((a) => a.category === cat) }))
+    .filter((g) => g.items.length > 0)
+
   return (
     <div>
       <JsonLd data={gameSchema} />
@@ -186,11 +192,32 @@ export default async function GamePage({ params }: Props) {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {articles.map((article) => (
-            <ArticleCard key={article.slug} article={article} locale={locale} />
-          ))}
-        </div>
+        {groups.length > 1 ? (
+          <div className="flex flex-col gap-12">
+            {groups.map((g) => (
+              <section key={g.cat}>
+                <div className="mb-5 flex items-center gap-3">
+                  <span className="block h-5 w-1 bg-brand" />
+                  <h2 className="font-display text-lg font-black uppercase text-white">
+                    {t.sections[g.cat].title}
+                  </h2>
+                  <span className="font-display text-xs text-ink-muted">· {g.items.length}</span>
+                </div>
+                <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                  {g.items.map((article) => (
+                    <ArticleCard key={article.slug} article={article} locale={locale} />
+                  ))}
+                </div>
+              </section>
+            ))}
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {articles.map((article) => (
+              <ArticleCard key={article.slug} article={article} locale={locale} />
+            ))}
+          </div>
+        )}
 
         <div className="mt-12 border-t border-line pt-8">
           <Link
