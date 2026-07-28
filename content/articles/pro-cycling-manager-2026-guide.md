@@ -11,6 +11,7 @@ image_color: "from-sky-950 via-blue-950 to-stone-950"
 coverImage: "/images/pcm2026guide/screenshot-1.webp"
 gameName: "Pro Cycling Manager 2026"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/pro-cycling-manager-26-steam-key--8377-1?ref=insertcoins"
 ---
 
 Pro Cycling Manager 2026 est un jeu de gestion exigeant, où les victoires du dimanche se préparent des mois à l'avance dans les coulisses. Le mode Carrière en est le coeur, et c'est là que se joue la vraie partie : recrutement, développement, budget, calendrier. Un manager qui néglige son scouting ou qui claque son budget sur un sprinteur en fin de carrière court à la catastrophe, quand celui qui bâtit patiemment un vivier de jeunes talents domine la saison sans forcer. Ce guide rassemble l'essentiel pour bien débuter en carrière, maîtriser le recrutement et gérer son équipe sur le long terme. Pour notre avis complet sur le jeu, direction le [test de Pro Cycling Manager 2026](/tests/pro-cycling-manager-26-test).
