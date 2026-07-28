@@ -11,6 +11,7 @@ import CommunityRating from '@/components/CommunityRating'
 import Link from 'next/link'
 import Image from 'next/image'
 import ArticleCard from '@/components/ArticleCard'
+import BuyButton from '@/components/BuyButton'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
@@ -389,6 +390,18 @@ export default async function ArticlePage({ params }: Props) {
               </ReactMarkdown>
             </div>
 
+            {/* Bouton d'achat affilié (mobile et tablette, la sidebar prend le relais sur desktop) */}
+            {article.buyable !== false && (article.gameName || article.buyUrl) && (
+              <div className="lg:hidden">
+                <BuyButton
+                  gameName={article.gameName}
+                  buyUrl={article.buyUrl}
+                  locale={locale}
+                  variant="inline"
+                />
+              </div>
+            )}
+
             {/* Sur ce jeu (visible mobile et tablette, la sidebar prend le relais sur desktop) */}
             {gameHubHref && article.gameName && sameGame.length > 0 && (
               <div className="mt-10 rounded-sm border border-line bg-bg-card p-5 lg:hidden">
@@ -490,6 +503,16 @@ export default async function ArticlePage({ params }: Props) {
                     />
                   </div>
                 </div>
+              )}
+
+              {/* Bouton d'achat affilié Gamesplanet */}
+              {article.buyable !== false && (article.gameName || article.buyUrl) && (
+                <BuyButton
+                  gameName={article.gameName}
+                  buyUrl={article.buyUrl}
+                  locale={locale}
+                  variant="sidebar"
+                />
               )}
 
               {/* Note communauté */}

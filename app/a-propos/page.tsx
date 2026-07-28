@@ -214,11 +214,23 @@ export default async function AProposPage() {
       </section>
 
       {/* Independence note */}
-      <section className="rounded-sm border border-line bg-bg-elevated p-6">
+      <section className="mb-8 rounded-sm border border-line bg-bg-elevated p-6">
         <h2 className="mb-4 font-display text-xs uppercase tracking-widest text-ink-muted">
           {c.note_label}
         </h2>
         <p className="text-sm leading-relaxed text-ink-secondary">{c.note_body}</p>
+      </section>
+
+      {/* Affiliate disclosure */}
+      <section className="rounded-sm border border-line bg-bg-elevated p-6">
+        <h2 className="mb-4 font-display text-xs uppercase tracking-widest text-ink-muted">
+          {locale === 'en' ? 'Affiliate links' : 'Affiliation'}
+        </h2>
+        <p className="text-sm leading-relaxed text-ink-secondary">
+          {locale === 'en'
+            ? 'InsertCoins.press uses affiliate links to the official retailer Gamesplanet. If you buy a game through one of these links, we earn a small commission, at no extra cost to you. These links have no influence whatsoever on our scores or opinions: we are paid by no publisher, and a purchase link never changes our judgment. It is simply a way to support the site without intrusive ads.'
+            : "InsertCoins.press utilise des liens affiliés vers le revendeur officiel Gamesplanet. Si vous achetez un jeu via l'un de ces liens, nous percevons une petite commission, sans le moindre surcoût pour vous. Ces liens n'ont aucune influence sur nos notes ni sur nos avis : nous ne sommes payés par aucun éditeur, et un lien d'achat ne change jamais notre jugement. C'est simplement une façon de soutenir le site sans publicité intrusive."}
+        </p>
       </section>
 
     </div>

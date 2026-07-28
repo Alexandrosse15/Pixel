@@ -11,6 +11,7 @@ image_color: "from-green-950 via-emerald-900 to-lime-950"
 coverImage: "/images/strikersclub/screenshot-1.webp"
 gameName: "Strikers Club"
 featured: true
+buyable: false
 ---
 
 Let's not kid ourselves, we're a little tired of football in video games. Every autumn, the same cake comes back, the same updated roster sold full price, the same feeling of pressing buttons while the game plays in our place. So when a small Belgian studio shows up with a football game entirely controlled by hand, free, and one that has already won over sixty thousand players in a demo, of course we prick up our ears. Strikers Club arrives on 17 July, and it's exactly the kind of kick in the anthill we were hoping for.

@@ -12,6 +12,7 @@ image_color: "from-stone-950 via-orange-950 to-zinc-950"
 coverImage: "/images/warcommander/screenshot-1.webp"
 gameName: "War Commander"
 featured: false
+buyable: false
 ---
 
 There's a Proustian madeleine slumbering in everyone who grew up with a controller or mouse in hand in the 2000s: that of the RTS, of the base you build brick by brick, of the units you upgrade and throw into the assault. War Commander presses right on that nostalgic button, with its post-apocalyptic world to rebuild and its real-time battles. The problem is that it comes from a whole other universe than the one of our memories, and its free-to-play business model quickly reminds you it's no longer really 2004.

@@ -24,6 +24,8 @@ export interface Article {
   gameNames?: string[]
   content: string
   featured?: boolean
+  buyUrl?: string
+  buyable?: boolean
 }
 
 function contentDir(locale = 'fr') {
@@ -59,6 +61,8 @@ function parseFile(slug: string, locale = 'fr'): Article | null {
       gameNames: data.gameNames as string[] | undefined,
       content,
       featured: (data.featured as boolean) ?? false,
+      buyUrl: data.buyUrl as string | undefined,
+      buyable: data.buyable as boolean | undefined,
     }
   } catch {
     return null

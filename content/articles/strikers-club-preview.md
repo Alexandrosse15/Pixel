@@ -11,6 +11,7 @@ image_color: "from-green-950 via-emerald-900 to-lime-950"
 coverImage: "/images/strikersclub/screenshot-1.webp"
 gameName: "Strikers Club"
 featured: true
+buyable: false
 ---
 
 On ne va pas se mentir, on est un peu fatigués du foot en jeu vidéo. Chaque automne, la même galette revient, le même roster mis à jour vendu plein tarif, la même impression d'appuyer sur des boutons pendant que le jeu joue à notre place. Alors quand un petit studio belge débarque avec un jeu de foot entièrement contrôlé à la main, gratuit, et qui a déjà séduit soixante mille joueurs en démo, forcément, on tend l'oreille. Strikers Club arrive le 17 juillet, et c'est exactement le genre de coup de pied dans la fourmilière qu'on espérait.
