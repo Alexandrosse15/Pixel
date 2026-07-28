@@ -12,6 +12,7 @@ image_color: "from-emerald-950 via-teal-950 to-zinc-950"
 coverImage: "/images/halocampaignevolved/screenshot-1.webp"
 gameName: "Halo Campaign Evolved"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/halo-campaign-evolved-edition-premium-microsoft-store-download--8549-2"
 ---
 
 On l'attendait avec un mélange d'excitation et de crainte, et il est enfin là. Halo: Campaign Evolved, le remake du monument de 2001, refait Combat Evolved sous Unreal Engine 5 et y greffe trois missions inédites. Le résultat est somptueux, fidèle, ému par endroits jusqu'à la chair de poule. Et pourtant, une fois la manette reposée, un sentiment étrange s'installe, celui d'avoir retrouvé un vieil ami à qui il manque un bras. Car ce Halo, aussi beau soit-il, fait l'impasse sur ce qui remplissait nos soirées de collégiens : le multijoueur. Pour notre avis avant sortie, direction la [preview de Halo Campaign Evolved](/previews/halo-campaign-evolved-preview), et pour survivre à la campagne, le [guide Légendaire](/guides/halo-campaign-evolved-legendary-guide).

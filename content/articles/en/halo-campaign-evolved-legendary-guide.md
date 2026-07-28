@@ -11,6 +11,7 @@ image_color: "from-emerald-950 via-teal-950 to-zinc-950"
 coverImage: "/images/halocampaignevolved/screenshot-1.webp"
 gameName: "Halo Campaign Evolved"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/halo-campaign-evolved-edition-premium-microsoft-store-download--8549-2"
 ---
 
 Halo's Legendary mode is a legend in itself, a rite of passage as cruel as it is rewarding. In Halo: Campaign Evolved, you have to face thirteen missions, the ten classics of Combat Evolved plus the three new Operation Meteorite levels, with shields twice as fragile and enemies twice as tough. This guide breaks down each mission one by one, with its threats, its ideal arsenal and its precise tactics, so you never die stupidly again. It's not about brute force, but about playing smart. For our full opinion on the remake, head to the [Halo Campaign Evolved preview](/previews/halo-campaign-evolved-preview).
