@@ -7,10 +7,13 @@ interface Props {
   variant?: 'sidebar' | 'inline'
 }
 
-// Bouton d'affiliation Gamesplanet. La mention de lien affilié est obligatoire
-// (transparence), et le lien est marqué sponsored/nofollow pour le SEO.
+// Bouton d'affiliation Gamesplanet. On ne l'affiche que si une URL produit
+// confirmée est fournie (buyUrl) : Gamesplanet ne revend pas tous les jeux,
+// et un lien de recherche à l'aveugle tomberait souvent dans le vide.
+// La mention de lien affilié est obligatoire (transparence), et le lien
+// est marqué sponsored/nofollow pour le SEO.
 export default function BuyButton({ gameName, buyUrl, locale, variant = 'sidebar' }: Props) {
-  if (!gameName && !buyUrl) return null
+  if (!buyUrl) return null
 
   const href = gamesplanetLink(gameName, buyUrl)
   const label = locale === 'en' ? 'Buy on Gamesplanet' : 'Acheter sur Gamesplanet'

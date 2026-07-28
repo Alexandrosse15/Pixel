@@ -391,7 +391,7 @@ export default async function ArticlePage({ params }: Props) {
             </div>
 
             {/* Bouton d'achat affilié (mobile et tablette, la sidebar prend le relais sur desktop) */}
-            {article.buyable !== false && (article.gameName || article.buyUrl) && (
+            {article.buyable !== false && article.buyUrl && (
               <div className="lg:hidden">
                 <BuyButton
                   gameName={article.gameName}
@@ -506,7 +506,7 @@ export default async function ArticlePage({ params }: Props) {
               )}
 
               {/* Bouton d'achat affilié Gamesplanet */}
-              {article.buyable !== false && (article.gameName || article.buyUrl) && (
+              {article.buyable !== false && article.buyUrl && (
                 <BuyButton
                   gameName={article.gameName}
                   buyUrl={article.buyUrl}
