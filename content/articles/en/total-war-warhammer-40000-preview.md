@@ -11,6 +11,7 @@ image_color: "from-zinc-950 via-red-950 to-stone-950"
 coverImage: "/images/tw40k/screenshot-1.webp"
 gameName: "Total War: Warhammer 40,000"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/total-war-warhammer-40-000-steam-key--8107-1"
 ---
 
 We have dreamed of it ever since Total War planted its cannons in the Warhammer Fantasy universe: what if the same formula went grimdark, with bolters and titans ? Creative Assembly used the PC Gaming Show to answer, finally dropping real gameplay of Total War: Warhammer 40,000. And between the Imperial Guard, the Orks and an Armageddon battlefield, we found exactly the thrill we were hoping for.

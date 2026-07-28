@@ -11,6 +11,7 @@ image_color: "from-red-950 via-stone-950 to-neutral-950"
 coverImage: "/images/totalwar40k/screenshot-1.webp"
 gameName: "Total War Warhammer 40000"
 featured: true
+buyUrl: "https://fr.gamesplanet.com/game/total-war-warhammer-40-000-steam-key--8107-1"
 ---
 
 Some announcements we'd waited for so long we'd stopped believing in them. Total War: Warhammer 40,000 is one of those. After twenty-five years spent in History and then in the fantasy of the Old World, Creative Assembly's strategy saga finally tips into the darkness of the 41st Millennium. At InsertCoins, we're big readers and players of this universe, and the idea of leading entire armies across entire worlds, from Space Marine to Ork Boyz, literally makes us tremble. But enthusiasm doesn't rule out clear-headedness. So here's the full rundown, clearly splitting what's confirmed from what's still speculation, followed by our opinion as fans.
