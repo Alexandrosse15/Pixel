@@ -68,6 +68,9 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, 'max-image-preview': 'large' },
   },
+  other: {
+    'impact-site-verification': 'ec7acf73-ad8b-40d1-81ea-5d82da53852f',
+  },
 }
 
 const websiteSchema = {
