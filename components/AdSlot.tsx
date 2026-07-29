@@ -32,6 +32,12 @@ export default function AdSlot({ slot, locale, variant = 'inline', testHeight = 
 
   const label = locale === 'en' ? 'Advertisement' : 'Publicité'
 
+  // Emplacements validés. Tant qu'aucun ID AdSense n'est renseigné, on n'affiche la maquette
+  // qu'en développement local : en production, on ne montre rien aux visiteurs (pas de cadre
+  // "mode test"). Une fois l'ID posé, la vraie annonce s'affiche partout.
+  const showPlaceholder = !ADS_ENABLED && process.env.NODE_ENV !== 'production'
+  if (!ADS_ENABLED && !showPlaceholder) return null
+
   return (
     <div className={`${variant === 'inline' ? 'my-10' : ''} not-prose w-full`}>
       <p className="mb-1 text-center font-display text-[10px] uppercase tracking-widest text-ink-muted/60">
