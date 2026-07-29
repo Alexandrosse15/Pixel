@@ -71,6 +71,7 @@ export const metadata: Metadata = {
   },
   other: {
     'impact-site-verification': 'ec7acf73-ad8b-40d1-81ea-5d82da53852f',
+    'google-adsense-account': 'ca-pub-2773089210749579',
   },
 }
 
@@ -115,7 +116,7 @@ export default function RootLayout({
           <Script
             id="adsbygoogle-init"
             async
-            strategy="afterInteractive"
+            strategy="beforeInteractive"
             src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
             crossOrigin="anonymous"
           />
