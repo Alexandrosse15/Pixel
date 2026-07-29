@@ -46,11 +46,21 @@ Concretely, never dump all your resources at once. Always keep a Life Sigil avai
 
 ![DOOM The Dark Ages, melee and health recovery in the heart of the arena](/images/doomtdaultranightmare/screenshot-3.webp)
 
-## Which weapons should you favour and what is the enemy priority order?
+## The role of each weapon: which gun for which threat?
 
-There is no single weapon that wins the game, but a logic of roles. Keep a fast-firing weapon to handle swarms of weak enemies, a heavy high-impact weapon for priority targets, and exploit the Chainshot for its ability to open devastating breaches. The key is not finding the best weapon but instantly switching from one to another according to the threat of the moment: hesitation costs lives on Ultra-Nightmare.
+On Ultra-Nightmare, you do not play a favourite weapon, you play the right weapon at the right moment. The game gives you a dozen firearms, three melee weapons and the Shield Saw: here is how to sort them by role so you are never caught short.
 
-On enemy priority, survival depends on your ability to rank threats. Eliminate first the ranged shooters that harass you and stop you concentrating, then the enemies capable of pinning you in place or surrounding you. The big imposing demons are often less dangerous than they look because their attacks are telegraphed and parryable: do not panic in front of them, but never turn your back on the small harassers nibbling your health bar while you are busy elsewhere. On Ultra-Nightmare, it is rarely the boss that kills you, it is the accumulation of small mistakes under the pressure of a poorly managed swarm.
+For all-round basics, the starting Combat Shotgun and the Super Shotgun cover close range with a devastating burst that drops a mid-tier enemy in one or two triggers. Against swarms of weak enemies, the Shredder and the Skullcrusher, which flings crushed skulls, tear groups apart and free up the breathing room you need. The Pulverizer, a medieval cannon that ramps up with each kill, and the Ravager, more accurate and capable of sustained fire, are your rate-of-fire mincers to keep a continuous flow of damage.
+
+Some enemies demand a specific weapon, and that is where knowing the arsenal saves runs. Against energy shields, the Accelerator, which ramps up to unleash heat blasts, is built to break that protection where another weapon would run dry. The Impaler, with its slow, precise spike shots, pins targets at range and, a major asset on Ultra-Nightmare, recharges your melee, hence your main source of healing. For priority targets and heavy damage, the Rocket Launcher and its risk-reward healing mechanic hit the mark, as does the Grenade Launcher on compact groups.
+
+Finally, the heavy weapons open breaches when things get tense. The Chainshot, that ball on a chain you charge before hurling, deals colossal impact damage and is worth the detour on its own, while the Ballistic Force Crossbow can annihilate an entire group of demons in one shot, a wildcard to keep for desperate moments. On the melee side, the Power Gauntlet ramps up in damage with each hit of a combo on a single target, while heavy weapons like the flail and the mace strike in an area: alternate them depending on whether you are targeting one big isolated enemy or a tight cluster. The Shield Saw stays transversal, at once shield, parry tool and blade you throw to carve enemies in cover. The key is not finding the best weapon, but instantly switching from one to another according to the threat: hesitation costs lives.
+
+![DOOM The Dark Ages, the arsenal and the Chainshot in action](/images/doomtdaultranightmare/screenshot-4.webp)
+
+## How do you prioritise enemies?
+
+Survival depends on your ability to rank threats. Eliminate first the ranged shooters that harass you and stop you concentrating, then the enemies capable of pinning you in place or surrounding you. The big imposing demons are often less dangerous than they look because their attacks are telegraphed and parryable: do not panic in front of them, but never turn your back on the small harassers nibbling your health bar while you are busy elsewhere. On Ultra-Nightmare, it is rarely the boss that kills you, it is the accumulation of small mistakes under the pressure of a poorly managed swarm.
 
 ## What are the traps to avoid and the most dangerous sections?
 

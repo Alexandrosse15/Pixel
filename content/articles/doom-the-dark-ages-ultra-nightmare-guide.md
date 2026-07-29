@@ -46,11 +46,21 @@ Concrètement, ne videz jamais toutes vos ressources d'un coup. Gardez toujours 
 
 ![DOOM The Dark Ages, la mêlée et la récupération de santé au coeur de l'arène](/images/doomtdaultranightmare/screenshot-3.webp)
 
-## Quelles armes privilégier et quel est l'ordre de priorité des ennemis ?
+## Le rôle de chaque arme : quelle arme pour quelle menace ?
 
-Il n'y a pas d'arme unique qui gagne la partie, mais une logique de rôles. Gardez une arme à cadence rapide pour gérer les nuées d'ennemis faibles, une arme lourde à fort impact pour les cibles prioritaires, et exploitez le Chainshot pour sa capacité à ouvrir des brèches dévastatrices. La clé n'est pas de trouver la meilleure arme mais de passer instantanément de l'une à l'autre selon la menace du moment : l'hésitation coûte des vies en Ultra-Nightmare.
+En Ultra-Nightmare, on ne joue pas une arme préférée, on joue la bonne arme au bon moment. Le jeu met à votre disposition une douzaine d'armes à feu, trois armes de corps à corps et le Shield Saw : voici comment les répartir par rôle pour ne jamais rester démuni.
 
-Sur la priorité des ennemis, la survie dépend de votre capacité à hiérarchiser les menaces. Éliminez en premier les tireurs à distance qui vous harcèlent et vous empêchent de vous concentrer, puis les ennemis capables de vous fixer sur place ou de vous encercler. Les gros démons imposants sont souvent moins dangereux qu'ils n'en ont l'air car leurs attaques sont télégraphiées et parables : ne paniquez pas devant eux, mais ne tournez jamais le dos aux petits harceleurs qui grignotent votre barre de vie pendant que vous êtes occupé ailleurs. En Ultra-Nightmare, c'est rarement le boss qui vous tue, c'est l'accumulation de petites erreurs sous la pression d'une nuée mal gérée.
+Pour la polyvalence de base, le Combat Shotgun de départ et le Super Shotgun couvrent le rapproché avec un burst dévastateur qui liquide un ennemi moyen en une ou deux détentes. Contre les nuées d'ennemis faibles, le Shredder et le Skullcrusher, qui projette des crânes broyés, déchiquettent les groupes et libèrent l'espace vital dont vous avez besoin pour respirer. Le Pulverizer, canon médiéval qui monte en puissance à chaque kill, et le Ravager, plus précis et capable de tirs prolongés, sont vos hachoirs à cadence pour maintenir un flux continu de dégâts.
+
+Certains ennemis exigent une arme précise, et c'est là que la connaissance de l'arsenal sauve des runs. Face aux boucliers d'énergie, l'Accelerator, qui monte en charge pour libérer des salves de chaleur, est fait pour briser ces protections là où une autre arme s'épuiserait. L'Impaler, avec ses tirs de pieux lents et précis, fixe les cibles à distance et, atout majeur en Ultra-Nightmare, recharge votre corps à corps, donc votre principale source de soin. Pour les cibles prioritaires et les gros dégâts, le Rocket Launcher et sa mécanique de soin risque-récompense font mouche, tout comme le Grenade Launcher sur les groupes compacts.
+
+Enfin, les armes lourdes ouvrent les brèches quand la situation se tend. Le Chainshot, cette boule à chaîne que l'on charge avant de la projeter, inflige des dégâts d'impact colossaux et vaut à lui seul le détour, tandis que le Ballistic Force Crossbow peut annihiler un groupe entier de démons en un tir, un joker à garder pour les moments désespérés. Côté corps à corps, le Power Gauntlet monte en dégâts à chaque coup d'un combo sur une cible unique, tandis que les armes lourdes comme le fléau et la masse frappent en zone : alternez-les selon que vous visez un gros ennemi isolé ou un paquet serré. Le Shield Saw, lui, reste transversal, à la fois bouclier, outil de parry et lame que l'on lance pour découper les ennemis à couvert. La clé n'est pas de trouver la meilleure arme, mais de passer instantanément de l'une à l'autre selon la menace : l'hésitation coûte des vies.
+
+![DOOM The Dark Ages, l'arsenal et le Chainshot en action](/images/doomtdaultranightmare/screenshot-4.webp)
+
+## Comment hiérarchiser les ennemis ?
+
+La survie dépend de votre capacité à hiérarchiser les menaces. Éliminez en premier les tireurs à distance qui vous harcèlent et vous empêchent de vous concentrer, puis les ennemis capables de vous fixer sur place ou de vous encercler. Les gros démons imposants sont souvent moins dangereux qu'ils n'en ont l'air car leurs attaques sont télégraphiées et parables : ne paniquez pas devant eux, mais ne tournez jamais le dos aux petits harceleurs qui grignotent votre barre de vie pendant que vous êtes occupé ailleurs. En Ultra-Nightmare, c'est rarement le boss qui vous tue, c'est l'accumulation de petites erreurs sous la pression d'une nuée mal gérée.
 
 ## Quels sont les pièges à éviter et les passages les plus dangereux ?
 
