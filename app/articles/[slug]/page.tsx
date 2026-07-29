@@ -12,6 +12,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import ArticleCard from '@/components/ArticleCard'
 import BuyButton from '@/components/BuyButton'
+import AdSlot from '@/components/AdSlot'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
@@ -92,6 +93,11 @@ export default async function ArticlePage({ params }: Props) {
 
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
   let screenshotIdx = 0
+
+  // Publicité display : réservée aux guides (le gros du trafic de recherche).
+  // Compteur de titres H2 pour insérer une annonce discrète en milieu d'article.
+  const isGuide = article.category === 'guides'
+  let guideH2Index = 0
 
   // Sommaire (titres de niveau 2 de l'article)
   const headings = extractHeadings(article.content)
@@ -350,11 +356,24 @@ export default async function ArticlePage({ params }: Props) {
                     const text = Array.isArray(children)
                       ? children.map((c) => (typeof c === 'string' ? c : '')).join('')
                       : String(children ?? '')
-                    return (
+                    const heading = (
                       <h2 id={slugifyHeading(text)} className="scroll-mt-28">
                         {children}
                       </h2>
                     )
+                    // Proposition A : annonce discrète en milieu de guide (avant le 3e H2)
+                    if (isGuide) {
+                      guideH2Index++
+                      if (guideH2Index === 3) {
+                        return (
+                          <>
+                            <AdSlot locale={locale} variant="inline" />
+                            {heading}
+                          </>
+                        )
+                      }
+                    }
+                    return heading
                   },
                   img: ({ src, alt }) => {
                     let finalSrc = src || ''
@@ -437,6 +456,13 @@ export default async function ArticlePage({ params }: Props) {
               <CommunityRating slug={article.slug} variant="inline" />
             </div>
 
+            {/* Proposition C : annonce discrète en fin de guide, avant la recirculation */}
+            {isGuide && (
+              <div className="mt-12">
+                <AdSlot locale={locale} variant="inline" testHeight={200} />
+              </div>
+            )}
+
             <Comments slug={article.slug} title={article.title} url={articleUrl} />
 
             {/* Recirculation : même jeu prioritaire, puis même catégorie */}
@@ -517,6 +543,9 @@ export default async function ArticlePage({ params }: Props) {
 
               {/* Note communauté */}
               <CommunityRating slug={article.slug} variant="sidebar" />
+
+              {/* Proposition B : annonce discrète en colonne latérale (guides, desktop) */}
+              {isGuide && <AdSlot locale={locale} variant="sidebar" testHeight={300} />}
 
               {/* Autres articles sur le même jeu + lien vers le hub jeu */}
               {gameHubHref && article.gameName && (

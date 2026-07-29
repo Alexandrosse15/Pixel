@@ -3,6 +3,12 @@ export const SITE_NAME = 'InsertCoins.press'
 export const SITE_DESCRIPTION =
   "Le média indépendant du jeu vidéo. Tests, previews, dossiers de fond et actualité de l'industrie."
 
+// Publicité display (AdSense). Renseigner NEXT_PUBLIC_ADSENSE_CLIENT (ex. "ca-pub-XXXXXXXXXXXXXXXX")
+// pour activer les vraies annonces. Tant que c'est vide, les emplacements s'affichent en mode
+// maquette (placeholder "Publicité") pour tester le rendu sans compte actif.
+export const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || ''
+export const ADS_ENABLED = ADSENSE_CLIENT.length > 0
+
 // Affiliation Gamesplanet
 export const GAMESPLANET_REF = 'insertcoins'
 

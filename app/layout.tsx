@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import { Oswald, Inter } from 'next/font/google'
 import { headers } from 'next/headers'
 import './globals.css'
@@ -7,7 +8,7 @@ import Footer from '@/components/Footer'
 import JsonLd from '@/components/JsonLd'
 import SearchWrapper from '@/components/SearchWrapper'
 import { LocaleProvider } from '@/components/LocaleProvider'
-import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/config'
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION, ADS_ENABLED, ADSENSE_CLIENT } from '@/lib/config'
 import { Analytics } from '@vercel/analytics/next'
 import type { Locale } from '@/lib/i18n'
 
@@ -110,6 +111,15 @@ export default function RootLayout({
           <Footer />
         </LocaleProvider>
         <Analytics />
+        {ADS_ENABLED && (
+          <Script
+            id="adsbygoogle-init"
+            async
+            strategy="afterInteractive"
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+            crossOrigin="anonymous"
+          />
+        )}
       </body>
     </html>
   )
