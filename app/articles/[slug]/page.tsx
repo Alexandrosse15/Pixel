@@ -94,9 +94,10 @@ export default async function ArticlePage({ params }: Props) {
   // Compteur utilisé dans le renderer img — chaque image locale consomme le prochain screenshot
   let screenshotIdx = 0
 
-  // Publicité display : réservée aux guides (le gros du trafic de recherche).
-  // Compteur de titres H2 pour insérer une annonce discrète en milieu d'article.
+  // Publicité display. Guides : 3 emplacements (A milieu, B sidebar, C bas).
+  // Tests : un seul emplacement discret (C, bas d'article) qui fonctionne aussi sur mobile.
   const isGuide = article.category === 'guides'
+  const isTest = article.category === 'tests'
   let guideH2Index = 0
 
   // Sommaire (titres de niveau 2 de l'article)
@@ -456,8 +457,9 @@ export default async function ArticlePage({ params }: Props) {
               <CommunityRating slug={article.slug} variant="inline" />
             </div>
 
-            {/* Proposition C : annonce discrète en fin de guide, avant la recirculation */}
-            {isGuide && (
+            {/* Emplacement C : annonce discrète en bas d'article, avant la recirculation.
+                Présente sur les guides (A+B+C) et sur les tests (uniquement C). */}
+            {(isGuide || isTest) && (
               <div className="mt-12">
                 <AdSlot locale={locale} variant="inline" testHeight={200} />
               </div>
