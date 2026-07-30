@@ -6,9 +6,7 @@ export const SITE_DESCRIPTION =
 // Publicité display (AdSense). Renseigner NEXT_PUBLIC_ADSENSE_CLIENT (ex. "ca-pub-XXXXXXXXXXXXXXXX")
 // pour activer les vraies annonces. Tant que c'est vide, les emplacements s'affichent en mode
 // maquette (placeholder "Publicité") pour tester le rendu sans compte actif.
-// Régie désactivée : plus aucun encart pub ni script AdSense servi sur le site.
-// Pour réactiver plus tard, remettre l'ID (ex. 'ca-pub-2773089210749579') en valeur par défaut.
-export const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || ''
+export const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || 'ca-pub-2773089210749579'
 export const ADS_ENABLED = ADSENSE_CLIENT.length > 0
 
 // Affiliation Gamesplanet

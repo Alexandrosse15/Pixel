@@ -38,11 +38,11 @@ export default function AdSlot({ slot, locale, variant = 'inline', testHeight = 
   const showPlaceholder = !ADS_ENABLED && process.env.NODE_ENV !== 'production'
   if (!ADS_ENABLED && !showPlaceholder) return null
 
-  // Bornage de la taille : on empêche les annonces "auto" de s'afficher en format
-  // géant qui prend tout l'écran. Largeur et hauteur plafonnées, pleine largeur
-  // responsive désactivée pour forcer des formats raisonnables (bannière, pavé).
-  const maxW = variant === 'sidebar' ? 300 : 468
-  const maxH = variant === 'sidebar' ? 300 : 200
+  // Format bandeau uniquement : annonces horizontales et plates (type 728x90 / 320x100).
+  // On plafonne la hauteur pour interdire tout format carré ou pleine hauteur qui
+  // envahirait l'écran. Le paramètre testHeight n'est plus utilisé (conservé pour compat).
+  const maxW = variant === 'sidebar' ? 300 : 728
+  const bannerH = 110
 
   return (
     <div className={`${variant === 'inline' ? 'my-8' : ''} not-prose flex w-full flex-col items-center`}>
@@ -50,23 +50,23 @@ export default function AdSlot({ slot, locale, variant = 'inline', testHeight = 
         {label}
       </p>
       {ADS_ENABLED ? (
-        <div className="mx-auto w-full overflow-hidden" style={{ maxWidth: maxW, maxHeight: maxH }}>
+        <div className="mx-auto w-full overflow-hidden" style={{ maxWidth: maxW, maxHeight: bannerH }}>
           <ins
             ref={ref}
             className="adsbygoogle"
-            style={{ display: 'block', width: '100%', maxHeight: maxH }}
+            style={{ display: 'block', width: '100%', height: bannerH }}
             data-ad-client={ADSENSE_CLIENT}
             data-ad-slot={slot}
-            data-ad-format="auto"
-            data-full-width-responsive="false"
+            data-ad-format="horizontal"
+            data-full-width-responsive="true"
           />
         </div>
       ) : (
         <div
-          className="flex items-center justify-center rounded-sm border border-dashed border-line bg-bg-card/50 text-xs text-ink-muted/50"
-          style={{ width: '100%', maxWidth: maxW, minHeight: Math.min(testHeight, maxH) }}
+          className="flex w-full items-center justify-center rounded-sm border border-dashed border-line bg-bg-card/50 text-xs text-ink-muted/50"
+          style={{ maxWidth: maxW, height: bannerH }}
         >
-          {locale === 'en' ? 'Ad slot (test mode)' : 'Emplacement pub (mode test)'}
+          {locale === 'en' ? 'Ad banner (test mode)' : 'Bandeau pub (mode test)'}
         </div>
       )}
     </div>
