@@ -11,7 +11,6 @@ interface Comment {
   by_nickname: string
   content: string
   createdAt: string
-  approved: boolean
 }
 
 interface Props {
@@ -51,8 +50,11 @@ export default function Comments({ slug, title, url }: Props) {
     fetch(`${HOST}/api/open/comments?appId=${APP_ID}&pageId=${slug}`)
       .then(r => r.json())
       .then(json => {
+        // L'API open de Cusdis ne renvoie QUE les commentaires déjà approuvés,
+        // et n'inclut pas de champ "approved" dans chaque objet. Il ne faut donc
+        // surtout pas re-filtrer sur c.approved, sinon on les supprime tous.
         const all: Comment[] = json?.data?.data ?? []
-        setComments(all.filter((c: Comment) => c.approved))
+        setComments(all)
       })
       .catch(() => {})
   }, [slug])
