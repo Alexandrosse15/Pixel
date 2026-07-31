@@ -9,14 +9,14 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7
 image_color: "from-violet-950 via-fuchsia-950 to-stone-950"
-coverImage: "/images/hoteltales/screenshot-1.webp"
+coverImage: "/images/hoteltales/screenshot-2.webp"
 gameName: "Hotel Tales"
 featured: false
 ---
 
 If you were looking for a summer job unlike any other, here is one: receptionist in a hotel located at the crossroads of worlds, with strange creatures for guests and the mission of surviving your probationary period. Hotel Tales blends management, investigation and narrative into a cocktail as original as it is endearing, one that does not always keep all its promises but charms with its atmosphere and its generosity.
 
-![Hotel Tales, the mystery hotel at the crossroads of worlds and its strange guests](/images/hoteltales/screenshot-1.webp)
+![Hotel Tales, the mystery hotel at the crossroads of worlds and its strange guests](/images/hoteltales/screenshot-2.webp)
 
 ## The context
 
@@ -28,7 +28,7 @@ The heart of the game is the articulation between management and narrative. You 
 
 The narrative layer gives the game its personality and its depth. You develop relationships with your colleagues, from friendship to romance, each character having their own story that depends on your choices, and the game offers different endings depending on how you carry out your duties, your relationships and your key decisions at certain moments. That branching structure rewards investment and makes you want to discover the many facets of this unusual hotel. The crossroads-of-worlds atmosphere, both unsettling and warm, wraps the whole in a singular charm that gives the experience its zest.
 
-![Hotel Tales, managing requests and conflicts between guests and employees](/images/hoteltales/screenshot-2.webp)
+![Hotel Tales, managing requests and conflicts between guests and employees](/images/hoteltales/screenshot-4.webp)
 
 The game's limits flow directly from its hybridity. By blending so many genres, visual novel, management, investigation, hidden object, romance, Hotel Tales risks dispersion, and not all its components have the same depth or the same success. Some parts, like pure management or the hidden-object phases, stay in the background compared to the richness of the narrative, and the whole sometimes lacks sharpness in its identity. You sense a generous game that embraces a lot, at the risk of not mastering everything perfectly.
 
@@ -40,7 +40,7 @@ Technically, Hotel Tales cares for its atmosphere, which is the glue of its hybr
 
 The technical reservations join the hybridity question. The legibility between the different game phases would benefit from being clearer, and the interface, which has to juggle many systems, takes learning. But the whole runs correctly and serves its narrative ambition, without betraying immersion through major technical flaws. For an independent production this ambitious in its genre blend, the coherence of the atmosphere is a success that compensates for the imperfections.
 
-![Hotel Tales, the relationships with colleagues and the multiple possible endings](/images/hoteltales/screenshot-3.webp)
+![Hotel Tales, the relationships with colleagues and the multiple possible endings](/images/hoteltales/screenshot-5.webp)
 
 ## The verdict
 

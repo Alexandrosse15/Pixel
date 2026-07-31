@@ -9,14 +9,14 @@ author: "Alexandrosse"
 readTime: "7 min"
 score: 7
 image_color: "from-violet-950 via-fuchsia-950 to-stone-950"
-coverImage: "/images/hoteltales/screenshot-1.webp"
+coverImage: "/images/hoteltales/screenshot-2.webp"
 gameName: "Hotel Tales"
 featured: false
 ---
 
 Si vous cherchiez un job d'été pas comme les autres, en voici un : réceptionniste dans un hôtel situé au carrefour des mondes, avec pour clients des créatures étranges et pour mission de survivre à votre période d'essai. Hotel Tales mélange gestion, enquête et narration dans un cocktail aussi original qu'attachant, qui ne tient pas toujours toutes ses promesses mais séduit par son ambiance et sa générosité.
 
-![Hotel Tales, l'hôtel mystère au carrefour des mondes et ses clients étranges](/images/hoteltales/screenshot-1.webp)
+![Hotel Tales, l'hôtel mystère au carrefour des mondes et ses clients étranges](/images/hoteltales/screenshot-2.webp)
 
 ## Le contexte
 
@@ -28,7 +28,7 @@ Le coeur du jeu, c'est l'articulation entre gestion et narration. On gère le qu
 
 La couche narrative donne au jeu sa personnalité et sa profondeur. On développe des relations avec ses collègues, de l'amitié à la romance, chaque personnage ayant sa propre histoire qui dépend de vos choix, et le jeu propose différentes fins selon la manière dont vous accomplissez vos tâches, vos relations et vos décisions clés à certains moments. Cette structure à embranchements récompense l'investissement et donne envie de découvrir les multiples facettes de cet hôtel pas comme les autres. L'ambiance de carrefour des mondes, à la fois inquiétante et chaleureuse, enveloppe le tout d'un charme singulier qui fait le sel de l'expérience.
 
-![Hotel Tales, la gestion des demandes et des conflits entre clients et employés](/images/hoteltales/screenshot-2.webp)
+![Hotel Tales, la gestion des demandes et des conflits entre clients et employés](/images/hoteltales/screenshot-4.webp)
 
 Les limites du jeu découlent directement de son hybridité. En mélangeant autant de genres, roman visuel, gestion, enquête, objets cachés, romance, Hotel Tales prend le risque de la dispersion, et toutes ses composantes n'ont pas la même profondeur ni la même réussite. Certains pans, comme la gestion pure ou les phases d'objets cachés, restent en retrait par rapport à la richesse de la narration, et l'ensemble manque parfois de netteté dans son identité. On sent un jeu généreux qui embrasse beaucoup, au risque de ne pas tout maîtriser parfaitement.
 
@@ -40,7 +40,7 @@ Techniquement, Hotel Tales soigne son atmosphère, qui est le ciment de son iden
 
 Les réserves techniques rejoignent la question de l'hybridité. La lisibilité entre les différentes phases de jeu gagnerait à être plus claire, et l'interface, qui doit jongler avec de nombreux systèmes, demande de l'apprentissage. Mais l'ensemble tourne correctement et sert son ambition narrative, sans trahir l'immersion par des défauts techniques majeurs. Pour une production indépendante aussi ambitieuse dans son mélange de genres, la cohérence de l'ambiance est une réussite qui compense les imperfections.
 
-![Hotel Tales, les relations avec les collègues et les multiples fins possibles](/images/hoteltales/screenshot-3.webp)
+![Hotel Tales, les relations avec les collègues et les multiples fins possibles](/images/hoteltales/screenshot-5.webp)
 
 ## Le verdict
 
