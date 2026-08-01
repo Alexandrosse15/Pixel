@@ -12,6 +12,7 @@ image_color: "from-amber-950 via-teal-950 to-stone-950"
 coverImage: "/images/corsaircove/screenshot-1.webp"
 gameName: "Corsair Cove"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/corsair-cove-steam-key--8362-1?ref=insertcoins"
 ---
 
 Il y a des jeux de gestion qu'on lance pour optimiser, et d'autres qu'on lance pour contempler. Corsair Cove réussit le tour de force d'être les deux à la fois, avec une insistance particulière sur le second. Ce city-builder pirate est tout simplement l'un des plus beaux que le genre ait produits, et il double sa splendeur d'une idée maligne : construire non pas en s'étalant, mais en montant. Un régal, à condition de ne pas trop en attendre côté batailles.
