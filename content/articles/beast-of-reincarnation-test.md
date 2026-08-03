@@ -1,12 +1,12 @@
 ---
-title: "Beast of Reincarnation : Game Freak prouve enfin ce qu'il peut faire avec un vrai budget et une vraie ambition"
+title: "Beast of Reincarnation : j'attendais Game Freak au tournant, je me suis pris une claque (la bonne)"
 seoTitle: "Beast of Reincarnation : test et avis du RPG Game Freak"
 slug: "beast-of-reincarnation-test"
 category: "tests"
-excerpt: "Un action-RPG un humain un chien dans un Japon post-apocalyptique, entre temps réel et tour par tour. Game Freak signe enfin le jeu ambitieux qu'on attendait."
+excerpt: "Le studio de Pokémon qui se lance dans le souls-like, j'y croyais pas une seconde. Quatre heures plus tard, je n'avais pas lâché la manette."
 date: "2026-08-03"
 author: "Alexandrosse"
-readTime: "9 min"
+readTime: "8 min"
 score: 8
 image_color: "from-red-950 via-stone-950 to-neutral-950"
 coverImage: "/images/beastofreincarnation/screenshot-1.webp"
@@ -14,44 +14,40 @@ gameName: "Beast of Reincarnation"
 featured: false
 ---
 
-Disons-le franchement, avec le sourire : quand on a appris que Game Freak sortait un nouveau RPG, on a d'abord croisé les doigts en espérant qu'il y mette plus de budget et de soin que dans les derniers Pokémon. Ces jeux vendus des millions mais techniquement à la traîne nous ont laissés sur notre faim trop souvent. Alors quelle surprise, et quel plaisir, de découvrir que Beast of Reincarnation est exactement le jeu ambitieux qu'on n'osait plus attendre du studio. Game Freak avait donc ça sous le capot.
+Je vais commencer par une confession : quand Game Freak a annoncé un action-RPG qui n'était pas un Pokémon, j'ai ricané. Franchement. Le studio qu'on n'arrive plus à défendre depuis des années, celui dont chaque sortie s'accompagne d'un inventaire de bugs et d'arbres en carton, qui se lance dans le souls-like ? Avec 60 balles à la clé ? J'ai lancé Beast of Reincarnation les bras croisés, prêt à écrire un test au vitriol.
 
-![Beast of Reincarnation, l'action-RPG un humain un chien dans un Japon post-apocalyptique](/images/beastofreincarnation/screenshot-1.webp)
+Quatre heures plus tard, je n'avais toujours pas posé la manette. Et un chiot à moitié bouffé par la corruption m'avait déjà retourné le coeur.
 
-## Le contexte
+![Beast of Reincarnation, Emma et son chien Koo dans un Japon de l'an 4026](/images/beastofreincarnation/screenshot-1.webp)
 
-Beast of Reincarnation est une toute nouvelle création de Game Freak, disponible sur PC via Steam, Xbox Series et PS5, avec une présence dès le lancement dans le Xbox Game Pass, vendue soixante euros. C'est un action-RPG qui assume une fusion originale entre combat en temps réel et tour par tour, autour d'un concept de jeu à un humain et un chien. L'histoire se déroule dans un Japon de l'an 4026, dévasté par la corruption, et suit Emma la Scelleuse et son chien Koo dans un monde post-apocalyptique impitoyable. Pour un studio surtout connu pour sa poule aux oeufs d'or, c'est un pari créatif audacieux, et il est tenu.
+## Une gamine, un clébard, et un Japon qui a très mal tourné
 
-## Le gameplay
+On est en 4026. Le Japon n'existe plus vraiment : une plante a colonisé le monde, la nature a repris ses droits, et ce qu'on appelle la Corruption ronge tout ce qui bouge. Vous jouez Emma, une Scelleuse qui balance des attaques végétales grâce à des pouvoirs logés dans ses cheveux. Oui, ses cheveux. Imaginez un mélange de Bayonetta et d'Avatar avec un budget correct, vous n'êtes pas loin.
 
-Le coeur du jeu, c'est sa fusion maligne entre l'action en temps réel et le tour par tour, qui donne aux affrontements une saveur particulière. On ne se contente pas de marteler la touche d'attaque : le jeu emprunte aux codes du souls-like, avec des ennemis exigeants, de grands boss et des combats qui demandent de la réflexion, du placement et de la lecture des patterns. Cette exigence donne du poids à chaque affrontement et récompense la maîtrise plutôt que la précipitation, exactement ce qu'on attend d'un action-RPG qui se respecte. La couche de tour par tour ajoute une dimension tactique bienvenue qui distingue Beast of Reincarnation de la masse des jeux d'action.
+Mais le vrai personnage principal, c'est Koo. Ce chien mutant, moche et adorable à la fois, n'est pas un gadget qu'on oublie au bout de dix minutes. Il ouvre des passages, il déchire des ennemis pendant que vous encaissez, il vous prévient d'un danger d'un jappement. À un moment, coincé face à un boss qui me défonçait, je me suis surpris à hurler "Koo, chope-le !" comme un gamin devant son propre chien. C'est bête, mais ça marche. Game Freak a compris un truc que beaucoup de RPG oublient : un compagnon, ça se ressent, ça ne se coche pas dans un menu.
 
-Le duo formé par Emma et son chien Koo est la vraie signature du jeu, et il fonctionne au-delà du gadget. Le concept un humain un chien irrigue tout le gameplay : le compagnon canin n'est pas un simple faire-valoir mais un véritable pilier tactique, qui participe aux combats et à l'exploration, et dont la relation avec Emma nourrit l'aventure sur le plan émotionnel autant que ludique. Cette complicité entre les deux personnages est le liant qui donne à l'ensemble sa personnalité et son coeur, dans un monde par ailleurs sombre et hostile.
+## Le combat ne pardonne pas, et c'est tant mieux
 
-![Beast of Reincarnation, la fusion du temps réel et du tour par tour face aux grands boss](/images/beastofreincarnation/screenshot-2.webp)
+Là où j'attendais le studio le plus fort, c'était sur le nerf de la guerre : est-ce que ça se joue bien ? Réponse courte : oui, et ça pique.
 
-L'univers post-apocalyptique de ce Japon de l'an 4026 est l'autre grande réussite. Cette terre ruinée par la corruption offre un décor à la fois oppressant et fascinant, riche d'une identité visuelle et thématique forte qui tranche radicalement avec l'imagerie colorée à laquelle Game Freak nous avait habitués. On sent un studio qui s'est fait plaisir, qui a osé une direction mature et personnelle, et qui a manifestement disposé des moyens de ses ambitions. C'est précisément ce supplément de soin et de budget, qu'on redoutait de ne pas trouver, qui fait toute la différence.
+Le système mélange du temps réel et du tour par tour, avec une grosse dose de parade à la souls-like. On ne martèle pas la touche d'attaque, on lit l'adversaire, on attend la bonne fenêtre, on riposte. Rater une parade contre un gros boss, c'est la moitié de la barre qui s'envole. La première fois que j'ai enchaîné trois parades parfaites sur un mastodonte à tentacules avant de le finir, j'ai eu ce petit frisson qu'on ne trouve que dans les bons jeux exigeants. Famitsu a lâché un 35 sur 40, et pour une fois je comprends l'emballement.
 
-Le jeu n'est pas exempt de réserves, et l'honnêteté commande de les pointer. Certaines aspérités trahissent que Game Freak n'a pas encore la maîtrise absolue des grosses productions action, avec des irrégularités de rythme ou de finition çà et là, et l'exigence souls-like, si elle ravira les amateurs, pourra rebuter les joueurs venus chercher une aventure plus accessible. Mais ce sont des broutilles face à l'essentiel : le studio livre un vrai jeu ambitieux, abouti et personnel, ce qui était loin d'être garanti.
+C'est technique, c'est punitif, et ça ne conviendra pas à tout le monde. Si vous cherchez un RPG cool où on avance en pilote automatique, passez votre chemin, vous allez souffrir. Moi, ça m'a happé.
 
-## La technique
+![Beast of Reincarnation, un boss et le système de parade façon souls-like](/images/beastofreincarnation/screenshot-2.webp)
 
-Techniquement, Beast of Reincarnation marque une nette progression pour Game Freak, et c'est peut-être là que la surprise est la plus grande. La direction artistique de ce Japon post-apocalyptique est superbe et cohérente, l'univers est dense et soigné, et l'ensemble affiche un niveau de finition très supérieur à ce qu'on redoutait au vu des récentes productions du studio. C'est visiblement un jeu qui a bénéficié du budget et du temps nécessaires pour exister à la hauteur de son concept.
+## Là où ça coince (parce que ça coince quand même)
 
-Les réserves techniques existent mais restent secondaires. On note quelques irrégularités qui rappellent que le studio apprend encore les codes de la grosse production action, sans jamais tomber dans les travers techniques qui avaient plombé certains Pokémon. La présence dès le lancement dans le Game Pass est un atout majeur pour découvrir le jeu, et l'ensemble tourne suffisamment bien pour servir son ambition sans la trahir. Pour un premier grand écart de ce genre, c'est un travail sérieux et convaincant.
+Je ne vais pas vous mentir, et je sais que sur les forums certains crient déjà au scandale sur le début du jeu : ils n'ont pas complètement tort. La première heure est raide. La caméra se bat parfois contre vous dans les couloirs serrés, j'ai croisé deux ou trois murs invisibles qui n'avaient rien à faire là, et quelques animations ont ce petit côté pas fini qui rappelle que Game Freak apprend encore le métier de la grosse prod action.
 
-![Beast of Reincarnation, la direction artistique du Japon de l'an 4026 ruiné par la corruption](/images/beastofreincarnation/screenshot-3.webp)
+Ce ne sont pas des bugs qui cassent le jeu, mais ce sont des scories qui empêchent Beast of Reincarnation d'être le chef-d'oeuvre qu'il frôle. On sent le premier essai, l'ambition qui dépasse parfois la maîtrise. Ça se lisse en avançant, mais la vitrine des premières minutes dessert un jeu qui vaut infiniment mieux que sa première impression.
 
-## Le verdict
+## Alors, la fameuse question du budget
 
-Beast of Reincarnation est une excellente surprise, et une belle démonstration : oui, Game Freak sait faire autre chose que Pokémon, et il sait le faire bien quand on lui en donne les moyens. Sa fusion originale entre temps réel et tour par tour, son duo attachant entre Emma et son chien Koo, et son univers post-apocalyptique superbe en font un action-RPG ambitieux, personnel et abouti, servi par une finition qui balaie enfin nos craintes. Pour les amateurs de RPG exigeants, c'est une réussite qui mérite le détour, d'autant plus accessible via le Game Pass.
+Je l'ai gardée pour la fin, parce que c'est elle qui m'avait fait ricaner au départ : est-ce que Game Freak a enfin mis les moyens ? Oui. Et ça change tout. La direction artistique de ce Japon dévoré par la végétation est magnifique, sombre, cohérente, à des kilomètres de l'imagerie pastel qu'on leur connaît. Il y a un soin, une densité, une identité qu'on n'osait plus espérer d'eux.
 
-Ses limites, quelques aspérités de finition et une exigence souls-like qui ne conviendra pas à tous, sont le prix d'un studio qui s'aventure hors de sa zone de confort, et elles ne pèsent pas lourd face à ce que le jeu accomplit. On espérait un budget et une ambition à la hauteur, on a été entendus. Beast of Reincarnation prouve que Game Freak avait bien plus à offrir qu'on ne le croyait, et on ne demande qu'à voir la suite.
+C'est là que la blague se retourne : pendant des années, on s'est demandé si Game Freak se moquait de nous avec des Pokémon vendus par millions et bâclés. Beast of Reincarnation, c'est la preuve qu'ils savaient faire, et qu'il ne manquait que la volonté (et le budget) de le prouver ailleurs. Sur Game Pass dès le lancement en plus, autant dire qu'il n'y a aucune raison de ne pas y jeter au moins quelques heures.
 
-**Le jeu qui prouve que Game Freak peut viser haut quand on lui en donne les moyens : ambitieux, personnel et enfin soigné.**
+Un jeu imparfait, un peu bancal au démarrage, mais habité, ambitieux et sincère. De la part du studio que je me préparais à démonter, c'est une gifle. Une bonne.
 
-Note : 8/10
-
----
-
-*Test réalisé sur la version PC.*
+![Beast of Reincarnation, la direction artistique du Japon dévoré par la Corruption](/images/beastofreincarnation/screenshot-3.webp)
