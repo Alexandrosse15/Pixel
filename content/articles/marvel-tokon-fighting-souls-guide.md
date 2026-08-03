@@ -85,6 +85,28 @@ Le quatrième membre des Amazing Guardians sera ajouté à ce guide dès sa rév
 
 **Loki** est un zoneur-illusionniste : magie à distance, illusions et clones pour tromper l'adversaire. Jouez sur la misdirection, le zoning et les pièges pour contrôler le rythme. Un trickster qui récompense la ruse.
 
+## La liste des coups des personnages révélés
+
+Arc System Works a déjà dévoilé le moveset d'une partie du roster. Rappel utile : chaque spécial peut se lancer en Command Input classique (dégâts et jauge de skill supérieurs) ou en Quick Skill Input simplifié (bouton QS combiné à une attaque, mais qui consomme le double de jauge). Voici les coups des personnages révélés. Légende : **QCAV** = quart de cercle avant, **QCAR** = quart de cercle arrière, **Z** = motion dragon vers l'avant, **↓↓** = double bas, **L/M/H** = attaque légère, moyenne ou lourde.
+
+**Spider-Man** : Web Shot (QCAV + L/M/H), Spidey-Sense (←← + L/M/H), Arachnid Assault (QCAR + L/M/H, sol et air), Web Bomb (↓ + L/M/H). Super : Web Warrior (QCAV + M/H). Ultimate : Radioactive Spider (QCAR puis → + M/H). Uniques : Web Zip (R1 + direction), Web Hang (↑ + R1 en l'air), Spider Crawl (↘ maintenu).
+
+**Ms. Marvel** : Zoom Knuckle (QCAV + L/M/H), Rubber Bind (↓↓ + L/M/H), Karate Chop! (QCAR + L/M/H), Jersey Lariat (↓↓ + L/M/H, air OK). Super : Growing Pains (QCAV + M/H). Ultimate : EMBIGGEN! (QCAR + → + M/H). Uniques : Elasti-Grab (saisie commandée), Flex On 'Em (↓ + Unique, esquive).
+
+**Magik** : Demon Fire (QCAV + L/M/H), Rising Soul (QCAR + L/M/H), Soulsword Slice (motion arrière + L/M/H), Demon Flame (↓↓ + L/M/H). Super : Soulsword Sacrifice (QCAV + M/H, air OK). Ultimate : Darkchild puis Queen of Limbo en état Darkchild (QCAR + → + M/H). Uniques : Dark Portal (R1 + direction), Teleport et Teleport Slash près du portail.
+
+**Storm** : Lightning Strike (QCAV + L/M/H), Cold Embrace (Z + L/M/H), Whirlwind (QCAR + L/M/H, sol et air), Tornado et Hailstone (↓↓ + L/M/H, sol et air). Super : Hurricane (QCAV + M + H). Ultimate : Eye of the Storm (QCAR + → + M + H). Uniques : Tempest (R1 + direction), Free Flight (↑ maintenu).
+
+**Captain America** : Shield Strike (QCAV + L/M/H), Soaring Justice (Z + L/M/H), Freedom Charge (QCAR + L/M/H, sol et air), Shield Shock (↓↓ + L/M/H). Super : Living Legend (QCAV + M/H, jauge 50). Ultimate : Sentinel of Liberty (QCAR + → + M/H, jauge 100). Uniques : Trick Shield, Ricochet Volley, Shield Guard (← + Unique).
+
+**Iron Man** : Unibeam (QCAV + L), Iron Flash (Z + L), Iron Avenger (QCAR + L, sol et air), Smart Missiles (↓↓ + L). Super : Unibeam Max (QCAV + M). Ultimate : Champion Buster, avec le suivi Unibeam Overdrive (QCAR + → + M). Uniques : Repulsor Shot (R1), Multi-Dash, Free Flight (↑ maintenu).
+
+**Doctor Doom** : Auric Ray (QCAV + L/M/H), Mystic Cage (Z + L/M/H), Diplomacy (QCAR + L/M/H), Merciful Smite (↓↓ + L/M/H). Super : Antimatter Extrapolator (QCAV + M + H). Ultimate : Latverian Legion (QCAR + → + M + H). Uniques : Nullify Shield (défense anti-projectile), Free Flight (↑ maintenu).
+
+**Star-Lord** : Blaster Shot (QCAV + L/M/H), Gravity Mine (Z + L/M/H), Ravager Rush (QCAR + L/M/H, sol et air), Rocket Step (↓↓ + L/M/H). Super : Elemental Outlaw (QCAV + M/H, air OK). Ultimate : Dance Off (QCAR + → + M/H). Uniques : Element Blast qui change d'élément via le Groove Switch (Foudre en haut, Feu à droite, Glace à gauche, Terre en bas), Free Flight.
+
+Les douze autres personnages du roster verront leur liste de coups ajoutée à ce guide à mesure des révélations officielles et de la sortie. Ces inputs sont basés sur les movesets dévoilés avant le lancement et pourront être ajustés à la sortie.
+
 ## FAQ MARVEL Tokon Fighting Souls
 
 **Combien de personnages par équipe ?**

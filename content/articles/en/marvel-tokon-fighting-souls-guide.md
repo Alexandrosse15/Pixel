@@ -85,6 +85,28 @@ The fourth member of the Amazing Guardians will be added to this guide as soon a
 
 **Loki** is an illusionist zoner: ranged magic, illusions and clones to fool the opponent. Play on misdirection, zoning and traps to control the pace. A trickster that rewards cunning.
 
+## The move list of the revealed characters
+
+Arc System Works has already unveiled the moveset of part of the roster. Useful reminder: each special can be triggered with a traditional Command Input (higher damage and skill gauge) or a simplified Quick Skill Input (QS button combined with an attack, but consuming double the gauge). Here are the moves of the revealed characters. Legend: **QCF** = quarter-circle forward, **QCB** = quarter-circle back, **Z** = forward dragon motion, **↓↓** = double down, **L/M/H** = light, medium or heavy attack.
+
+**Spider-Man**: Web Shot (QCF + L/M/H), Spidey-Sense (←← + L/M/H), Arachnid Assault (QCB + L/M/H, ground and air), Web Bomb (↓ + L/M/H). Super: Web Warrior (QCF + M/H). Ultimate: Radioactive Spider (QCB then → + M/H). Uniques: Web Zip (R1 + direction), Web Hang (↑ + R1 in the air), Spider Crawl (↘ hold).
+
+**Ms. Marvel**: Zoom Knuckle (QCF + L/M/H), Rubber Bind (↓↓ + L/M/H), Karate Chop! (QCB + L/M/H), Jersey Lariat (↓↓ + L/M/H, air OK). Super: Growing Pains (QCF + M/H). Ultimate: EMBIGGEN! (QCB + → + M/H). Uniques: Elasti-Grab (command grab), Flex On 'Em (↓ + Unique, evasion).
+
+**Magik**: Demon Fire (QCF + L/M/H), Rising Soul (QCB + L/M/H), Soulsword Slice (back motion + L/M/H), Demon Flame (↓↓ + L/M/H). Super: Soulsword Sacrifice (QCF + M/H, air OK). Ultimate: Darkchild then Queen of Limbo in Darkchild state (QCB + → + M/H). Uniques: Dark Portal (R1 + direction), Teleport and Teleport Slash near the portal.
+
+**Storm**: Lightning Strike (QCF + L/M/H), Cold Embrace (Z + L/M/H), Whirlwind (QCB + L/M/H, ground and air), Tornado and Hailstone (↓↓ + L/M/H, ground and air). Super: Hurricane (QCF + M + H). Ultimate: Eye of the Storm (QCB + → + M + H). Uniques: Tempest (R1 + direction), Free Flight (↑ hold).
+
+**Captain America**: Shield Strike (QCF + L/M/H), Soaring Justice (Z + L/M/H), Freedom Charge (QCB + L/M/H, ground and air), Shield Shock (↓↓ + L/M/H). Super: Living Legend (QCF + M/H, gauge 50). Ultimate: Sentinel of Liberty (QCB + → + M/H, gauge 100). Uniques: Trick Shield, Ricochet Volley, Shield Guard (← + Unique).
+
+**Iron Man**: Unibeam (QCF + L), Iron Flash (Z + L), Iron Avenger (QCB + L, ground and air), Smart Missiles (↓↓ + L). Super: Unibeam Max (QCF + M). Ultimate: Champion Buster, with the Unibeam Overdrive follow-up (QCB + → + M). Uniques: Repulsor Shot (R1), Multi-Dash, Free Flight (↑ hold).
+
+**Doctor Doom**: Auric Ray (QCF + L/M/H), Mystic Cage (Z + L/M/H), Diplomacy (QCB + L/M/H), Merciful Smite (↓↓ + L/M/H). Super: Antimatter Extrapolator (QCF + M + H). Ultimate: Latverian Legion (QCB + → + M + H). Uniques: Nullify Shield (projectile defense), Free Flight (↑ hold).
+
+**Star-Lord**: Blaster Shot (QCF + L/M/H), Gravity Mine (Z + L/M/H), Ravager Rush (QCB + L/M/H, ground and air), Rocket Step (↓↓ + L/M/H). Super: Elemental Outlaw (QCF + M/H, air OK). Ultimate: Dance Off (QCB + → + M/H). Uniques: Element Blast that switches element via the Groove Switch (Lightning up, Fire right, Ice left, Earth down), Free Flight.
+
+The other twelve characters in the roster will have their move list added to this guide as official reveals and the launch come. These inputs are based on the movesets unveiled before launch and may be adjusted at release.
+
 ## MARVEL Tokon Fighting Souls FAQ
 
 **How many characters per team?**
