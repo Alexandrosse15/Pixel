@@ -24,6 +24,8 @@ So when I saw that Liquidation openly claimed the heritage of Warcraft III (and 
 
 Let us settle the comparison question right away, because I get it often: no, Liquidation is not a StarCraft, and that is not even the point. StarCraft is the school of macro, of a roaring economy and 300 actions per minute. Liquidation belongs to my family, that of Warcraft III and Dawn of War: you think positioning, terrain, unit synergy and commander abilities. You lead an army, you do not manage a spreadsheet.
 
+By the way, after Warcraft, the logical next step for me was Dawn of War. I must have sunk 2,000 hours into it, thank you THQ. So a game that claims that double lineage, Warcraft III and Dawn of War, lands squarely in my wheelhouse, and believe me, I am watching it closely.
+
 And the pedigree reassures. The publisher is MicroProse, the old house of strategy that raised generations. It smells of love for the genre, of an RTS designed by people who know where they come from. For a studio, Divio, making its very first game, having Warcraft III as a model and MicroProse behind it is a display of serious ambition. The computer-room kid I never stopped being wanted to believe in it.
 
 ## What sent me back to childhood
