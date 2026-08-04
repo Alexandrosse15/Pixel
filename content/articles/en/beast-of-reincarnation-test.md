@@ -11,6 +11,7 @@ score: 8
 image_color: "from-red-950 via-stone-950 to-neutral-950"
 coverImage: "/images/beastofreincarnation/screenshot-1.webp"
 gameName: "Beast of Reincarnation"
+buyUrl: "https://fr.gamesplanet.com/game/beast-of-reincarnation-steam-key--8200-1?ref=insertcoins"
 featured: false
 ---
 
