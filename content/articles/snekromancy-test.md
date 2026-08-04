@@ -1,12 +1,12 @@
 ---
-title: "SnekromancY : le jeu de Snake possédé par un mort-vivant, et c'est une excellente idée"
+title: "SnekromancY : le Snake de votre vieux Nokia relevé d'entre les morts"
 seoTitle: "SnekromancY : test et avis du roguelite snake"
 slug: "snekromancy-test"
+excerpt: "Le Snake du Nokia croisé avec un bullet heaven et une armée de squelettes. Absurde sur le papier, et pourtant je n'arrive plus à le lâcher."
 category: "tests"
-excerpt: "Croisez le Snake de votre vieux Nokia avec un bullet heaven et une armée de squelettes. Absurde sur le papier, redoutablement malin manette en main."
 date: "2026-07-29"
 author: "Alexandrosse"
-readTime: "7 min"
+readTime: "6 min"
 score: 7
 image_color: "from-lime-950 via-emerald-950 to-neutral-950"
 coverImage: "/images/snekromancy/screenshot-1.webp"
@@ -14,44 +14,30 @@ gameName: "SnekromancY"
 featured: false
 ---
 
-Il faut une certaine audace pour prendre le jeu le plus basique de l'histoire, le Snake de votre vieux téléphone, et lui greffer une horde de morts-vivants et une pluie de projectiles. SnekromancY le fait sans complexe, et le plus surprenant, c'est que le mariage tient debout. Derrière son concept qui sent la blague de game jam se cache un roguelite bien plus retors qu'il n'en a l'air.
+J'ai perdu ma meilleure run à cause d'une bouchée de trop. Mon serpent était devenu énorme, une dizaine de morts-vivants accrochés à sa queue en train de canarder dans tous les sens, et il me restait un dernier bout de bouffe à récupérer dans un coin de la salle. J'ai voulu le choper, j'ai coupé trop serré, je me suis mordu la queue. Écran de mort. Voilà SnekromancY résumé en un geste : un jeu qui vous punit d'avoir été trop gourmand, au sens strict.
 
 ![SnekromancY, le serpent de morts-vivants face aux hordes ennemies](/images/snekromancy/screenshot-1.webp)
 
-## Le contexte
+Le pitch tient sur un coin de table : le Snake de votre vieux téléphone, celui du Nokia 3310, croisé avec un bullet heaven et une pincée de nécromancie. C'est signé SlightlyMadman, édité par Final Screw, dispo sur PC via Steam, avec une démo si vous voulez tâter la bête avant de payer. Sur le papier, ça sent la blague de game jam. En main, ça mord bien plus fort que prévu.
 
-SnekromancY est développé par SlightlyMadman et édité par Final Screw, disponible sur PC via Steam avec une démo gratuite pour se faire une idée. C'est un roguelite dungeon crawler qui combine le déplacement du Snake classique avec du combat bullet heaven et de la progression. L'idée maîtresse, celle qui change tout : au lieu d'améliorer des armes, vous invoquez des serviteurs morts-vivants qui chevauchent votre dos et attaquent, en mode automatique ou manuel. Un concept absurde sur le papier, une vraie mécanique une fois en main.
+## Deux mécaniques, et surtout pas une seule
 
-## Le gameplay
+Il y a un point qu'il faut comprendre pour ne pas se planter, parce que le jeu ne l'explique pas franchement. Vous grandissez en mangeant. C'est le Snake de toujours : chaque bouffe rallonge votre queue, et si vous arrêtez de manger, votre corps se délite tout seul, rétrécit, et vous finissez par crever de faim. Il faut donc bouffer en permanence pour rester en vie.
 
-Le coeur du jeu tient dans une tension géniale héritée du Snake originel : votre serpent grandit, et sa longueur est à la fois votre force et votre danger. Chaque mort-vivant que vous ajoutez, zombie, squelette, fantôme, allonge votre corps, augmente votre puissance de feu, mais rend aussi vos déplacements plus périlleux dans des donjons où se mordre la queue reste fatal. Cette dualité, où monter en puissance vous encombre littéralement, est ce qui élève SnekromancY au-dessus du simple bullet heaven : ce n'est pas seulement esquiver, c'est piloter une armée serpentine de plus en plus longue au milieu du chaos.
+Invoquer des morts-vivants, c'est autre chose. Zombies, squelettes, fantômes : ils grimpent sur votre dos et tirent à votre place, en visée auto ou manuelle si vous avez les compétences pour. C'est votre artillerie, pas votre nourriture. On ne grandit pas en recrutant un sbire, on grandit en mangeant. Les deux systèmes cohabitent mais ne se confondent pas, et c'est justement leur friction qui rend le truc intéressant.
 
-L'aspect nécromancien ajoute la couche de personnalisation qui fait le sel du roguelite. Composer sa horde, choisir quels morts-vivants embarquer selon leurs attaques, basculer entre visée automatique et manuelle pour cibler les priorités, c'est un vrai terrain de jeu tactique. Au fil des runs, on débloque des améliorations et des reliques qui autorisent des builds de plus en plus délirants, cette escalade vers le grand n'importe quoi maîtrisé qui fait relancer le genre encore et encore. Survivre aux hordes, terrasser les boss et voir son serpent-armée devenir une machine à broyer, la boucle est satisfaisante et pousse à l'expérimentation.
+## La peur de sa propre queue
+
+Parce que manger, ici, n'est jamais neutre. Le Snake originel punissait déjà la gourmandise : plus vous grossissiez, plus le terrain se refermait sur vous. SnekromancY reprend ce vieux piège et le tend en plein chaos. Vous devez manger pour ne pas dépérir, mais chaque bouchée allonge un serpent déjà encombrant, à piloter au pixel près entre les projectiles, dans des donjons où se mordre la queue reste une sentence de mort. Coincé entre deux trouilles : lâcher la bouffe et s'éteindre, ou continuer et finir étranglé par sa propre longueur. C'est bête, c'est tendu, et ça n'appartient qu'à ce jeu.
 
 ![SnekromancY, la composition de la horde de serviteurs morts-vivants](/images/snekromancy/screenshot-2.webp)
 
-Le jeu n'échappe pas complètement aux limites de son ambition. Le concept, aussi malin soit-il, tourne autour d'une mécanique centrale unique, et sa profondeur, réelle, finit par montrer ses bords une fois qu'on a fait le tour des principaux builds. La lisibilité peut aussi souffrir quand l'écran se remplit à la fois de projectiles ennemis et d'un serpent devenu interminable, transformant certains pics de difficulté en chaos un peu injuste plutôt qu'en défi maîtrisable. Ce sont des scories inhérentes à un jeu qui mise tout sur une idée forte, pas des défauts rédhibitoires, mais elles bornent l'expérience.
+Là-dessus vient se greffer la couche roguelite. On compose sa horde selon les attaques de chaque mort-vivant, on ramasse des gemmes pour améliorer ses pouvoirs, on déniche des reliques qui autorisent des builds de plus en plus dingues. Rien de révolutionnaire dans le principe, mais l'escalade fonctionne : au bout de quelques runs, mon serpent-artillerie crachait tellement de projectiles que je ne voyais presque plus les ennemis dessous. Grotesque, jouissif, exactement ce qu'on demande au genre.
 
-L'esthétique rétro arcade, assumée et cohérente, participe au charme mais rappelle aussi la modestie du projet. SnekromancY ne cherche pas à être un mastodonte du roguelite, il cherche à exécuter une idée précise avec efficacité, et il y parvient largement. C'est un jeu qu'on relance par sessions courtes, pour le plaisir immédiat d'un build absurde, plus que pour des dizaines d'heures de méta-progression.
+## Ce que ça vaut, honnêtement
 
-## La technique
+Tout ne brille pas. Le jeu mise tout sur une idée, et cette idée montre ses bords une fois qu'on a fait le tour des principaux builds : la profondeur est là, mais elle a un fond. Et la lisibilité déraille dans les gros pics, quand l'écran se remplit à la fois de tirs ennemis et d'un serpent devenu interminable. Certaines morts m'ont paru plus injustes que méritées, noyées dans un bordel visuel où je ne distinguais plus le projectile dangereux du reste. Deux options de clarté ne feraient pas de mal.
 
-Techniquement, SnekromancY assume son habillage rétro arcade avec cohérence. Les donjons pixelisés, les morts-vivants expressifs et l'action nerveuse composent un ensemble lisible dans ses phases calmes et volontairement chaotique dans ses pics. La manette répond bien, ce qui est crucial pour un jeu où piloter la trajectoire de son serpent au pixel près fait la différence entre la survie et la queue mordue.
-
-Les réserves techniques rejoignent les réserves de game design. Quand le nombre d'ennemis et la longueur du serpent explosent simultanément, la lisibilité atteint ses limites, et quelques options de clarté visuelle seraient les bienvenues pour distinguer les projectiles dangereux dans la mêlée. Rien qui ne casse le plaisir sur une run normale, mais un point à surveiller dans les moments les plus intenses.
+Rien de tout ça ne m'a empêché d'y revenir. SnekromancY se joue par sessions courtes, pour le plaisir immédiat d'un build absurde monté en dix minutes, plus que pour des dizaines d'heures de méta-progression. C'est un petit jeu qui sait exactement ce qu'il est, qui exécute son idée saugrenue avec assez de mordant pour qu'on lui pardonne ses limites. Si le genre vous lasse à force de clones, ce serpent ressuscité a au moins le mérite de proposer un piège qu'on ne trouve nulle part ailleurs : sa propre queue.
 
 ![SnekromancY, un pic de chaos avec projectiles et serpent démesuré](/images/snekromancy/screenshot-3.webp)
-
-## Le verdict
-
-SnekromancY transforme une blague de concept, le Snake croisé avec un bullet heaven nécromancien, en un roguelite malin et attachant. La tension héritée du Snake, où grandir vous rend puissant et vulnérable à la fois, est une trouvaille qui donne une vraie identité au jeu, et la composition de sa horde de morts-vivants offre le terrain d'expérimentation qu'on attend du genre. C'est original, nerveux et bien plus profond que son pitch loufoque ne le laisse croire.
-
-Ses limites sont celles d'un jeu bâti sur une idée unique : la profondeur finit par montrer ses bords, et la lisibilité souffre dans les pics de chaos. Mais pour son prix et son ambition, SnekromancY livre exactement ce qu'il promet, un plaisir roguelite frais et malin, à savourer par sessions courtes. Si vous cherchez une idée neuve dans un genre saturé de clones, ce serpent mort-vivant mérite qu'on lui morde à l'hameçon.
-
-**Le Snake ressuscité en roguelite nécromancien, absurde sur le papier et étonnamment malin manette en main.**
-
-Note : 7/10
-
----
-
-*Test réalisé sur la version PC.*

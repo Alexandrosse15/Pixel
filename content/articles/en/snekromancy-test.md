@@ -1,12 +1,12 @@
 ---
-title: "SnekromancY: the game of Snake possessed by an undead, and it is a brilliant idea"
+title: "SnekromancY: the Snake from your old Nokia, raised from the dead"
 seoTitle: "SnekromancY: review of the roguelite snake"
 slug: "snekromancy-test"
+excerpt: "The Nokia Snake crossed with a bullet heaven and an army of skeletons. Absurd on paper, and yet I cannot put it down."
 category: "tests"
-excerpt: "Cross the Snake of your old Nokia with a bullet heaven and an army of skeletons. Absurd on paper, ruthlessly clever controller in hand."
 date: "2026-07-29"
 author: "Alexandrosse"
-readTime: "7 min"
+readTime: "6 min"
 score: 7
 image_color: "from-lime-950 via-emerald-950 to-neutral-950"
 coverImage: "/images/snekromancy/screenshot-1.webp"
@@ -14,44 +14,30 @@ gameName: "SnekromancY"
 featured: false
 ---
 
-It takes a certain nerve to take the most basic game in history, the Snake of your old phone, and graft on a horde of undead and a rain of projectiles. SnekromancY does it without shame, and the most surprising part is that the marriage stands up. Behind its concept that smells of a game jam joke hides a roguelite far craftier than it looks.
+I lost my best run over one bite too many. My snake had grown huge, a dozen undead clinging to its tail and blasting in every direction, and there was one last scrap of food left to grab in a corner of the room. I went for it, cut the turn too tight, bit my own tail. Death screen. That is SnekromancY in a single move: a game that punishes you for being too greedy, in the most literal sense.
 
 ![SnekromancY, the undead snake facing the enemy hordes](/images/snekromancy/screenshot-1.webp)
 
-## The context
+The pitch fits on a napkin: the Snake from your old phone, the Nokia 3310 one, crossed with a bullet heaven and a pinch of necromancy. It is made by SlightlyMadman, published by Final Screw, out on PC via Steam, with a demo if you want to feel it out before paying. On paper it smells like a game jam joke. In hand, it bites a lot harder than expected.
 
-SnekromancY is developed by SlightlyMadman and published by Final Screw, available on PC via Steam with a free demo to get a taste. It is a roguelite dungeon crawler that combines classic Snake movement with bullet heaven combat and progression. The master idea, the one that changes everything: instead of upgrading weapons, you summon undead minions who ride on your back and attack, in automatic or manual mode. An absurd concept on paper, a real mechanic once in hand.
+## Two mechanics, and definitely not just one
 
-## The gameplay
+There is one thing you need to grasp so you do not get it wrong, because the game barely explains it. You grow by eating. That is the Snake of old: every bite lengthens your tail, and if you stop eating, your body decays on its own, shrinks, and you eventually starve to death. So you have to keep feeding, constantly, to stay alive.
 
-The heart of the game lies in a brilliant tension inherited from the original Snake: your snake grows, and its length is both your strength and your danger. Every undead you add, zombie, skeleton, ghost, lengthens your body, increases your firepower, but also makes your movement more perilous in dungeons where biting your own tail remains fatal. This duality, where growing in power literally encumbers you, is what elevates SnekromancY above a simple bullet heaven: it is not just dodging, it is piloting an ever-longer serpentine army through the chaos.
+Summoning undead is a separate thing. Zombies, skeletons, ghosts: they climb onto your back and shoot in your place, auto-aimed or manually aimed if you have the skills for it. That is your artillery, not your food. You do not grow by recruiting a minion, you grow by eating. The two systems live side by side but never merge, and it is precisely their friction that makes this thing interesting.
 
-The necromancer angle adds the customisation layer that gives the roguelite its zest. Composing your horde, choosing which undead to bring along based on their attacks, switching between automatic and manual aim to hit priorities, it is a genuine tactical playground. Over the runs, you unlock upgrades and relics that allow increasingly deranged builds, that escalation toward controlled nonsense that keeps the genre restarting again and again. Surviving the hordes, felling the bosses and watching your snake-army become a grinding machine, the loop is satisfying and pushes experimentation.
+## The fear of your own tail
 
-![SnekromancY, composing the horde of undead minions](/images/snekromancy/screenshot-2.webp)
+Because eating, here, is never harmless. The original Snake already punished greed: the fatter you got, the more the board closed in on you. SnekromancY takes that old trap and sets it off in the middle of chaos. You must eat so you do not wither, but every bite lengthens an already unwieldy snake, one you steer pixel by pixel between the bullets, in dungeons where biting your own tail is still a death sentence. Caught between two fears: drop the food and fade out, or keep going and end up strangled by your own length. It is silly, it is tense, and it belongs to this game alone.
 
-The game does not entirely escape the limits of its ambition. The concept, clever as it is, revolves around a single core mechanic, and its real depth eventually shows its edges once you have gone through the main builds. Readability can also suffer when the screen fills with both enemy projectiles and a snake grown endless, turning some difficulty spikes into slightly unfair chaos rather than a manageable challenge. These are the rough edges inherent to a game betting everything on one strong idea, not fatal flaws, but they bound the experience.
+![SnekromancY, building the horde of undead servants](/images/snekromancy/screenshot-2.webp)
 
-The retro arcade aesthetic, owned and coherent, adds to the charm but also recalls the project's modesty. SnekromancY does not aim to be a roguelite behemoth, it aims to execute a precise idea efficiently, and it largely succeeds. It is a game you restart in short sessions, for the instant pleasure of an absurd build, more than for dozens of hours of meta-progression.
+On top of that sits the roguelite layer. You build your horde around each undead's attacks, collect gems to upgrade your powers, dig up relics that allow increasingly deranged builds. Nothing revolutionary in principle, but the escalation works: after a few runs my artillery-snake was spitting so many projectiles that I could barely see the enemies underneath. Grotesque, gleeful, exactly what you ask of the genre.
 
-## The tech
+## What it is actually worth
 
-Technically, SnekromancY owns its retro arcade dressing coherently. The pixelated dungeons, expressive undead and sharp action make up a whole that is legible in its calm phases and deliberately chaotic in its spikes. The controls respond well, which is crucial for a game where piloting your snake's path to the pixel makes the difference between survival and a bitten tail.
+Not everything shines. The game bets everything on one idea, and that idea shows its edges once you have gone through the main builds: the depth is there, but it has a bottom. And readability derails in the big spikes, when the screen fills with both enemy fire and a snake gone endless. Some deaths felt more unfair than earned, drowned in a visual mess where I could no longer tell the dangerous projectile from the rest. A couple of clarity options would not hurt.
 
-The technical reservations join the design ones. When the number of enemies and the length of the snake explode simultaneously, readability hits its limits, and a few visual clarity options would be welcome to distinguish dangerous projectiles in the melee. Nothing that breaks the pleasure on a normal run, but a point to watch in the most intense moments.
+None of that stopped me from coming back. SnekromancY plays in short sessions, for the immediate thrill of an absurd build thrown together in ten minutes, more than for dozens of hours of meta-progression. It is a small game that knows exactly what it is, that executes its ludicrous idea with enough bite to earn forgiveness for its limits. If the genre wears you out with its clones, this resurrected snake at least offers a trap you will not find anywhere else: its own tail.
 
 ![SnekromancY, a chaos spike with projectiles and an oversized snake](/images/snekromancy/screenshot-3.webp)
-
-## The verdict
-
-SnekromancY turns a concept joke, Snake crossed with a necromancer bullet heaven, into a clever and endearing roguelite. The tension inherited from Snake, where growing makes you powerful and vulnerable at once, is a find that gives the game a real identity, and composing your undead horde offers the experimentation ground the genre demands. It is original, sharp and far deeper than its zany pitch suggests.
-
-Its limits are those of a game built on a single idea: the depth eventually shows its edges, and readability suffers in the chaos spikes. But for its price and its ambition, SnekromancY delivers exactly what it promises, a fresh and clever roguelite pleasure, to savour in short sessions. If you are looking for a new idea in a genre saturated with clones, this undead snake is worth taking the bait for.
-
-**Snake resurrected as a necromancer roguelite, absurd on paper and surprisingly clever controller in hand.**
-
-Score: 7/10
-
----
-
-*Reviewed on the PC version.*
