@@ -103,6 +103,18 @@ export default async function GamePage({ params }: Props) {
           : `${SITE_URL}/articles/${a.slug}`,
     }))
 
+  // Note agrégée (obligatoire dès qu'on expose des review, sinon Google invalide le balisage)
+  const scores = articles.map((a) => a.score).filter((s): s is number => typeof s === 'number')
+  const aggregateRating = scores.length
+    ? {
+        '@type': 'AggregateRating',
+        ratingValue: Math.round((scores.reduce((sum, s) => sum + s, 0) / scores.length) * 10) / 10,
+        reviewCount: scores.length,
+        bestRating: 10,
+        worstRating: 0,
+      }
+    : null
+
   const gameSchema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'VideoGame',
@@ -110,6 +122,7 @@ export default async function GamePage({ params }: Props) {
     url: gameUrl,
     inLanguage: locale === 'en' ? 'en-US' : 'fr-FR',
     ...(absImg(hero?.coverImage) && { image: absImg(hero?.coverImage) }),
+    ...(aggregateRating && { aggregateRating }),
     ...(reviews.length && { review: reviews }),
   }
 
