@@ -11,6 +11,7 @@ score: 8
 image_color: "from-slate-950 via-red-950 to-neutral-950"
 coverImage: "/images/kill-the-shadow/screenshot-1.webp"
 gameName: "Kill The Shadow"
+buyUrl: "https://fr.gamesplanet.com/game/kill-the-shadow-steam-key--8619-1?ref=insertcoins"
 featured: false
 ---
 
