@@ -17,7 +17,7 @@ The firefighter, in France, is not just a job, it is almost a sacred figure. Bet
 
 ![Emergency Call - The Firefighting Simulation 3, a firefighting intervention in simulation](/images/emergency-call-3/screenshot-1.webp)
 
-First an important clarification, because it matters: this series is Notruf 112 at its root, a German simulation, this time developed in close collaboration with a real German fire station. In other words, the vehicles, procedures and intervention culture are German, not French. The subject touches us as French players, but do not expect the red truck from your local rescue center. That is a nuance to keep in mind before grabbing the hose.
+And that is exactly where the game hits home for us. In France, right now, we all feel a little like firefighters. We follow their interventions, we measure what we owe them, and the urge to understand the job from the inside, to put on the gear for a single shift, is nothing trivial. That is the chord the game strikes. The series was born from the German simulation Notruf 112, developed this time with a real fire station, but never mind the flag on the truck: what we want is to live the daily life of the fire crew.
 
 ## What this third entry wants to change
 

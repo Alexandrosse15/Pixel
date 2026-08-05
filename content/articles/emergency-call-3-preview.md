@@ -17,7 +17,7 @@ Le pompier, chez nous, ce n'est pas juste un métier, c'est presque une figure s
 
 ![Emergency Call - The Firefighting Simulation 3, l'intervention pompier en simulation](/images/emergency-call-3/screenshot-1.webp)
 
-Première mise au point importante, parce qu'elle compte : cette série, c'est du Notruf 112 à l'origine, une simulation allemande, développée cette fois en collaboration étroite avec une vraie caserne allemande. Autrement dit, les véhicules, les procédures et la culture d'intervention sont germaniques, pas tricolores. Le sujet nous touche en tant que Français, mais ne vous attendez pas à retrouver le camion rouge de votre centre de secours du coin. C'est une nuance à avoir en tête avant de dégainer la lance.
+Et c'est bien là que le jeu tombe juste pour nous. En France, en ce moment, on se sent tous un peu pompiers. On suit leurs interventions, on mesure ce qu'on leur doit, et l'envie de comprendre le métier de l'intérieur, d'enfiler la tenue le temps d'une garde, n'a rien d'anecdotique. C'est cette corde-là que le jeu vient toucher. La série est née de la simulation allemande Notruf 112, développée cette fois avec une vraie caserne, mais peu importe le drapeau sur le camion : ce qu'on veut, c'est vivre le quotidien du soldat du feu.
 
 ## Ce que ce troisième volet veut changer
 
