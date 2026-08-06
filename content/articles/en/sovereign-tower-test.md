@@ -16,6 +16,8 @@ featured: false
 
 There is a promise in Sovereign Tower that should speak to anyone who has ever led a team: you are the sovereign, you have the throne, the title and the last word, and despite all that your kingdom depends entirely on a band of unmanageable knights with questionable morals. The game makes no secret of it and calls them jesters you will have to rely on.
 
+I may as well confess right away: I am a devoted fan of Kaamelott, the French comedy series in which Alexandre Astier plays a King Arthur trying to find the Grail while surrounded by idiots. This game put me exactly where I wanted to be. I did not feel like a generic sovereign in a magic tower. I felt like Arthur. The man with a quest, a plan, a fairly clear idea of what his kingdom ought to be, who then has to get it carried out by knights incapable of following a simple instruction. You hand a mission to someone far too pleased with himself, you listen to absurd grievances all morning, you glue egos back together around a table, and the Grail moves one step further away. It is the series, transposed into a management game. All that is missing is Perceval turning up to explain the plan.
+
 Developed by WILD WITS GAMES and published by Curve Games, it is a narrative management RPG built around a Round Table. And it is, by some distance, the best received release of this 6 August.
 
 ![Sovereign Tower, the management RPG built around a Round Table](/images/sovereigntower/screenshot-1.webp)

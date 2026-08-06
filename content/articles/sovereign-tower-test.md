@@ -16,6 +16,8 @@ featured: false
 
 Il y a une promesse dans Sovereign Tower qui devrait parler à tous ceux qui ont déjà dirigé une équipe : vous êtes le souverain, vous avez le trône, le titre et le dernier mot, et malgré tout ça votre royaume dépend entièrement d'une bande de chevaliers ingérables aux morales douteuses. Le jeu ne s'en cache pas et parle lui-même de bouffons sur lesquels vous allez devoir compter.
 
+Autant l'avouer tout de suite : je suis un fan absolu de Kaamelott, et ce jeu m'a mis exactement là où je rêvais d'être. Je ne me suis pas senti comme un souverain générique dans une tour magique. Je me suis senti comme Arthur. Le type qui a une quête, un plan, une idée assez claire de ce que devrait être son royaume, et qui doit la faire exécuter par des chevaliers incapables de suivre une consigne simple. Vous confiez une mission à un type trop sûr de lui, vous écoutez des doléances absurdes toute la matinée, vous recollez des ego autour d'une table, et le Graal s'éloigne d'un cran. C'est la série, transposée en jeu de gestion. Il ne manque que Perceval pour venir vous expliquer le plan.
+
 Développé par WILD WITS GAMES et édité par Curve Games, c'est un RPG narratif de gestion articulé autour d'une Table Ronde. Et c'est, de loin, la sortie la mieux accueillie de cette journée du 6 août.
 
 ![Sovereign Tower, le RPG de gestion autour d une Table Ronde](/images/sovereigntower/screenshot-1.webp)
