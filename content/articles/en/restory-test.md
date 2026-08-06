@@ -1,12 +1,13 @@
 ---
 title: "ReStory: I was that guy everyone brings their broken things to, and this game just sent me twenty years back"
-seoTitle: "ReStory Chill Electronics Repairs: preview of the repair simulator"
-slug: "restory-preview"
-category: "previews"
+seoTitle: "ReStory Chill Electronics Repairs: review of the repair simulator"
+slug: "restory-test"
+category: "tests"
 excerpt: "Running a repair shop in mid-2000s Tokyo. A game that speaks to anyone who has ever been mistaken for an electronics wizard."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-amber-950 via-orange-950 to-rose-950"
 coverImage: "/images/restory/screenshot-1.webp"
 gameName: "ReStory: Chill Electronics Repairs"
@@ -31,16 +32,22 @@ Repairing is not a drop-down menu. You take the case apart, clean it, replace th
 
 And to find spare parts, you browse a reconstructed period web browser. There, honestly, they went looking for the right memory.
 
-## What could set it apart
+## The good idea: the people behind the devices
 
 What I did not expect is the narrative layer. Every customer arrives with their own story, and your decisions branch the plot toward several endings. Two examples given by the studio: whether or not to report what you find inside a former gangster's phone, and helping a student confess to the person he loves.
 
 That is clever, because it touches something true. When you repair someone's device, you land in their life. Their photos, their messages, their business. I have known that awkward moment when the screen lights back up on things that are none of my concern, and you have to decide very fast what you did not see. Turning that into a narrative engine is sharper than it sounds.
 
+It also explains the reception: the demo sits at 96 percent positive across nearly 1,200 reviews, with a clear consensus on the balance it strikes between tactile handling, Y2K nostalgia and customer stories, without ever weighing the mechanics down to look clever.
+
 ![ReStory, disassembling and restoring Y2K devices](/images/restory/screenshot-2.webp)
 
-The reservations are the genre's own. The repair simulator is well-trodden ground, and the risk is always the same: that the handling becomes a mechanical ritual once the novelty wears off. Everything will depend on the variety of devices and on whether the narrative branches truly hold, two things a trailer never proves. The game claims more than 600,000 wishlists, which tells you about the anticipation, not the quality.
+## What holds it back
 
-But I would be dishonest to sulk. Out today on PC. And if you have ever fixed someone's console on a Friday evening and been taken for a wizard, you already know whether this game is for you.
+The reservations belong to the genre, and they are real. The repair simulator is well-trodden ground, and the take-apart, clean, replace, reassemble loop does become a ritual: once the wonder of the first devices fades, it is the variety of the catalogue that has to take over, and it is not infinite.
+
+The other point is the storytelling. A branching plot is only worth something if the choices weigh, and a game that bills itself as chill naturally tends to round off the corners of its dilemmas. That is ReStory's balancing act: it wants to be a relaxing game and a game of moral decisions, and the second deserved to be a little meaner.
+
+It remains a lovely piece of work, and for someone with my history, close to a trap. If you have ever fixed someone's console on a Friday evening and been taken for a wizard, you already know your evenings are spoken for.
 
 ![ReStory, the customers and their stories in the shop](/images/restory/screenshot-3.webp)

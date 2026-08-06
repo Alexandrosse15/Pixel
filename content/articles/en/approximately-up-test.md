@@ -1,12 +1,13 @@
 ---
 title: "Approximately Up: build a rocket with four people, launch, explode, then accuse each other of mounting the thruster backwards"
-seoTitle: "Approximately Up: preview of the co-op space sandbox"
-slug: "approximately-up-preview"
-category: "previews"
-excerpt: "A modular ship made of whatever bolts together, 15 planets and up to 4 players. The promise: chaos, and above all the post-crash trial."
+seoTitle: "Approximately Up: review of the co-op space sandbox"
+slug: "approximately-up-test"
+category: "tests"
+excerpt: "A modular ship made of whatever bolts together, 15 planets and up to 4 players. The chaos is excellent, provided you have the friends to go with it."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-slate-950 via-cyan-950 to-indigo-950"
 coverImage: "/images/approximatelyup/screenshot-1.webp"
 gameName: "Approximately Up"
@@ -25,6 +26,8 @@ It all starts with a single piece of frame and can end as a massive structure bu
 
 An important point for immersion: you fly your creation in first person, from the deck of the ship. This is not a game where you watch your vessel from outside while clicking menus, it is a game where you run down the corridors looking for the one button you forgot to wire.
 
+The real technical achievement, and the point that comes up most in demo feedback, is the multiplayer editor. Building four-handed on the same hull without constantly getting in each other's way is something very few construction games manage. This one does.
+
 ## The missions and the fifteen planets
 
 The objectives look like they were written to sabotage your plans, and that is exactly right. Deliver an experimental power source to a station on another planet, while it causes power outages mid-flight. Carry an energy crystal charging up like a ticking time bomb. Or simply move a ridiculously heavy submarine and hope your thrust keeps up.
@@ -39,8 +42,10 @@ Let us be honest about what will actually occupy you. The studio puts it forward
 
 It is co-op for up to four players, playable solo as well, and we all know which of the two will produce the better evenings.
 
-## The reservations
+## What weighs the score down
 
-The genre is crowded, caught between demanding space construction sandboxes and blunt, silly co-op games. Approximately Up aims between the two, and will have to prove its building stays legible without becoming a machine of its own, while keeping accidents funny rather than infuriating. The other unknown is solo play: a game whose best spring is an argument between friends necessarily plays worse alone.
+And that is precisely the problem. A game whose best comic spring is an argument between friends becomes distinctly flatter alone: in solo, all that remains is the engineering, demanding and at times tedious, with nobody to blame for the missing cable. Half the value of the game therefore depends on your address book, which is a heavy dependency at twenty-five dollars.
 
-Out today on PC, at around twenty-five dollars with a launch discount for the first ten days. Best kept for a group of four who are not afraid of falling out.
+The other reservation concerns depth. Past the euphoria of the first absurd assemblies, building demands a growing rigour that the light tone does not really prepare you for, and the mission catalogue will need to fill out to hold over time. It is also worth noting that at this stage the reception rests mainly on enthusiastic demo feedback, without the perspective of dozens of hours.
+
+For a group of four who are not afraid of falling out, this is an excellent evening in a box. For a solo player, it is a very different proposition, and a much less funny one.

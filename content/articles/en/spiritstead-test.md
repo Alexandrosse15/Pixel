@@ -1,12 +1,13 @@
 ---
 title: "Spiritstead: we farmed FarmVille through our student years, and this one removes precisely what used to drag us back"
-seoTitle: "Spiritstead: preview of the cozy city builder with spirits"
-slug: "spiritstead-preview"
-category: "previews"
+seoTitle: "Spiritstead: review of the cozy city builder with spirits"
+slug: "spiritstead-test"
+category: "tests"
 excerpt: "Gorgeous Miyazaki-inspired art, spirits that automate the village, and an owned 6 to 8 hours. The exact opposite of timer-driven farming."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7.5
 image_color: "from-emerald-950 via-teal-950 to-amber-950"
 coverImage: "/images/spiritstead/screenshot-1.webp"
 gameName: "Spiritstead"
@@ -33,12 +34,16 @@ Here is the answer to the question. The centre of the proposition is the spirits
 
 And that is the exact inverse of the FarmVille model. Where the Facebook game forced you to come back and click or lose everything, Spiritstead hands the chore to creatures and lets you leave. There is even a creative mode with no pressure at all, alongside an adventure mode that does ask you to manage residents' needs. Under the gentle layer there is a thread: territories to open with the help of wandering spirits, hidden secrets, and a Grand Spirit Sanctuary to restore in order to bring back balance between spirits and humans.
 
+It is that balance between resource management, village growth and whimsy that comes up in the early feedback, with the same word every time: charming. That is not an empty word for this kind of game, it is very nearly the whole brief.
+
 ![Spiritstead, the spirits automating village life](/images/spiritstead/screenshot-2.webp)
 
-## The reservations
+## What stops it aiming higher
 
-They match the scale of the project. A cozy city builder of six to eight hours, with a world that does not change between runs, will not be replayed endlessly whatever the store page claims. And the studio openly includes clicker elements, which will need to stay a tactile pleasure rather than turn back into the very chore we were trying to escape.
+The scope, quite simply. Six to eight hours, a world that does not change between runs, and a deliberately light simulation: this is a sweet, not a city builder that will hold you for a season. The replayability promise on the store page is the one place where it tells itself stories, because an identical setting and familiar objectives do not restart indefinitely.
 
-But at that price, with that hand-drawn look, and with spirits doing the thankless work for you, the proposition is honest. It is the farming of our twenties with the leash taken off. Available today on PC.
+The other thing to watch is the clicker elements the studio openly includes. They need to stay a tactile pleasure; if they reinstall the small repetitive chore, the game contradicts itself on the one ground where it claims to do better than its Facebook ancestors. At this stage the reception is warm but still rests on very few reviews, which calls for caution.
+
+That said, at ten dollars, with that hand-drawn look and spirits doing the thankless work for you, the contract is fulfilled. It is the farming of our twenties with the leash taken off, and for once that a cozy game is not trying to keep us captive, we are not going to complain.
 
 ![Spiritstead, the growing village and the residents to assign jobs to](/images/spiritstead/screenshot-3.webp)

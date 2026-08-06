@@ -1,12 +1,13 @@
 ---
 title: "Approximately Up : construire une fusée à quatre, décoller, exploser, et s'accuser mutuellement d'avoir monté le propulseur à l'envers"
-seoTitle: "Approximately Up : preview du bac à sable spatial en coopération"
-slug: "approximately-up-preview"
-category: "previews"
-excerpt: "Un vaisseau modulaire fait de tout ce qui tient boulonné, 15 planètes et jusqu'à 4 joueurs. La promesse : le chaos, et surtout le procès d'après-crash."
+seoTitle: "Approximately Up : test et avis du bac à sable spatial en coopération"
+slug: "approximately-up-test"
+category: "tests"
+excerpt: "Un vaisseau modulaire fait de tout ce qui tient boulonné, 15 planètes, 4 joueurs. Le chaos est excellent, à condition d'avoir les amis qui vont avec."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-slate-950 via-cyan-950 to-indigo-950"
 coverImage: "/images/approximatelyup/screenshot-1.webp"
 gameName: "Approximately Up"
@@ -25,6 +26,8 @@ Tout part d'un simple morceau de châssis, et ça peut finir en structure massiv
 
 Point important pour l'immersion : on pilote sa création en vue subjective, depuis le pont du vaisseau. Ce n'est pas un jeu où l'on regarde son engin de l'extérieur en cliquant sur des menus, c'est un jeu où l'on court dans les coursives en cherchant quel bouton on a oublié de câbler.
 
+La vraie réussite technique, et c'est le point qui revient le plus dans les retours de la démo, c'est l'éditeur à plusieurs. Construire à quatre mains sur la même carcasse sans se marcher dessus en permanence, très peu de jeux de construction y arrivent. Celui-ci, oui.
+
 ## Les missions et les quinze planètes
 
 Les objectifs ont l'air d'avoir été écrits pour saboter vos plans, et c'est très bien ainsi. Livrer une source d'énergie expérimentale à une station sur une autre planète, en provoquant des coupures de courant en plein vol. Transporter un cristal d'énergie qui se charge comme une bombe à retardement. Ou simplement déplacer un sous-marin ridiculement lourd, en espérant que votre poussée suive.
@@ -39,8 +42,10 @@ Soyons honnêtes sur ce qui va réellement vous occuper. Le studio le met lui-m�
 
 C'est du coopératif jusqu'à quatre joueurs, jouable aussi en solo, et l'on sait très bien lequel des deux produira les meilleures soirées.
 
-## Les réserves
+## Ce qui plombe la note
 
-Le genre est encombré, entre les bacs à sable de construction spatiale exigeants et les jeux coopératifs bêtes et méchants. Approximately Up vise entre les deux, et devra prouver que sa construction reste lisible sans devenir une usine à gaz, tout en gardant l'accident drôle plutôt que frustrant. L'autre inconnue tient au solo : un jeu dont le meilleur ressort est la dispute entre amis se joue forcément moins bien seul.
+Et c'est justement le problème. Un jeu dont le meilleur ressort comique est l'engueulade entre amis devient nettement plus fade quand on est seul : en solo, il ne reste que l'ingénierie, exigeante et parfois pénible, sans personne à qui reprocher le câble manquant. La moitié de la valeur du jeu dépend donc de votre carnet d'adresses, ce qui est une dépendance lourde à vingt-cinq dollars.
 
-Sorti aujourd'hui sur PC, autour de vingt-cinq dollars avec une remise de lancement pendant les dix premiers jours. À réserver à un groupe de quatre qui n'a pas peur de se fâcher.
+L'autre réserve tient à la profondeur. Passé l'euphorie des premiers assemblages absurdes, la construction demande une rigueur croissante que la légèreté du ton ne prépare pas vraiment, et le catalogue de missions devra s'étoffer pour tenir sur la durée. On note aussi qu'à ce stade, la réception se mesure surtout aux retours enthousiastes de la démo, sans recul sur des dizaines d'heures.
+
+Pour un groupe de quatre qui n'a pas peur de se fâcher, c'est une excellente soirée en boîte. Pour un joueur solo, c'est une tout autre proposition, et beaucoup moins drôle.

@@ -1,12 +1,13 @@
 ---
 title: "Spiritstead : on a farmé FarmVille pendant nos années étudiantes, celui-là retire précisément ce qui nous faisait revenir de force"
-seoTitle: "Spiritstead : preview du city builder cosy aux esprits"
-slug: "spiritstead-preview"
-category: "previews"
+seoTitle: "Spiritstead : test et avis du city builder cosy aux esprits"
+slug: "spiritstead-test"
+category: "tests"
 excerpt: "Une DA magnifique inspirée de Miyazaki, des esprits qui automatisent le village, et 6 à 8 heures assumées. Le contraire exact du farming à minuteurs."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7.5
 image_color: "from-emerald-950 via-teal-950 to-amber-950"
 coverImage: "/images/spiritstead/screenshot-1.webp"
 gameName: "Spiritstead"
@@ -33,12 +34,16 @@ Voilà la réponse à la question. Le coeur de la proposition, ce sont les espri
 
 Or c'est exactement l'inverse du modèle FarmVille. Là où le jeu Facebook vous imposait de revenir cliquer sous peine de tout perdre, Spiritstead confie la corvée à des créatures et vous laisse partir. Il y a même un mode créatif sans aucune pression, à côté du mode aventure qui, lui, demande de gérer les besoins des habitants. Sous la couche douce, il y a une trame : des territoires à ouvrir avec l'aide d'esprits vagabonds, des secrets, et un Grand Sanctuaire des Esprits à restaurer pour rétablir l'équilibre entre esprits et humains.
 
+C'est cet équilibre entre gestion de ressources, croissance du village et fantaisie qui revient dans les premiers retours, avec le même mot à chaque fois : charmant. Ce n'est pas un mot creux pour ce genre de jeu, c'est à peu près tout le cahier des charges.
+
 ![Spiritstead, les esprits qui automatisent la vie du village](/images/spiritstead/screenshot-2.webp)
 
-## Les réserves
+## Ce qui l'empêche de viser plus haut
 
-Elles sont raccord avec l'échelle du projet. Un city builder cosy de six à huit heures, avec un monde qui ne change pas d'une partie à l'autre, ne se rejouera pas indéfiniment malgré ce qu'affirme la fiche du jeu. Et le studio assume des éléments de clicker, ce qui devra rester un plaisir tactile plutôt que redevenir la corvée à laquelle on essayait justement d'échapper.
+L'ampleur, tout simplement. Six à huit heures, un monde qui ne change pas d'une partie à l'autre, et une simulation volontairement légère : on est face à une friandise, pas à un city builder qui vous tiendra une saison. La promesse de rejouabilité affichée sur la fiche du jeu est le seul endroit où il se raconte des histoires, parce qu'un décor identique et des objectifs connus ne se relancent pas indéfiniment.
 
-Mais à ce prix, avec ce trait-là, et avec des esprits qui font le boulot ingrat à votre place, la proposition est honnête. C'est le farming de nos vingt ans débarrassé de sa laisse. Disponible aujourd'hui sur PC.
+L'autre point à surveiller, ce sont les éléments de clicker assumés par le studio. Ils doivent rester un plaisir tactile ; s'ils réinstallent la petite corvée répétitive, le jeu se contredit lui-même sur le seul terrain où il prétend faire mieux que ses ancêtres Facebook. À ce stade, l'accueil est chaleureux mais reposant encore sur très peu d'avis, ce qui invite à la prudence.
+
+Cela dit, à dix dollars, avec ce trait-là et des esprits qui font le boulot ingrat à votre place, le contrat est rempli. C'est le farming de nos vingt ans débarrassé de sa laisse, et pour une fois qu'un jeu cosy ne cherche pas à nous garder captifs, on ne va pas se plaindre.
 
 ![Spiritstead, le village qui grandit et les habitants a qui assigner des metiers](/images/spiritstead/screenshot-3.webp)

@@ -1,19 +1,20 @@
 ---
 title: "IRON NEST : le dieselpunk d'Iron Harvest, sauf qu'ici on ne commande rien du tout, on est assis dans la tourelle"
-seoTitle: "IRON NEST Heavy Turret Simulator : preview du simulateur d'artillerie"
-slug: "iron-nest-preview"
-category: "previews"
+seoTitle: "IRON NEST Heavy Turret Simulator : test et avis du simulateur d'artillerie"
+slug: "iron-nest-test"
+category: "tests"
 excerpt: "Le dieselpunk qu'on aimait dans Iron Harvest, mais vu par le trou de visée. Deux développeurs, un canon monstrueux et une belle dose de culpabilité."
 date: "2026-08-06"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-red-950 via-orange-950 to-stone-950"
 coverImage: "/images/ironnest/screenshot-1.webp"
 gameName: "IRON NEST: Heavy Turret Simulator"
 featured: false
 ---
 
-Première réaction devant la bannière d'IRON NEST : ça sent l'Iron Harvest. Même imaginaire de machines de guerre trop grosses, même Europe de l'entre-deux-guerres passée au diesel, même silhouette de colosse qui écrase un paysage de campagne. Le RTS de KING Art, tiré des peintures 1920+ de Jakub Różalski, on l'avait bien aimé et on n'est visiblement pas les seuls à en garder le souvenir.
+Première réaction devant la bannière d'IRON NEST : ça sent l'Iron Harvest. Même imaginaire de machines de guerre trop grosses, même Europe de l'entre-deux-guerres passée au diesel, même silhouette de colosse qui écrase un paysage de campagne. Le RTS de KING Art, tiré des peintures 1920+ de Jakub Rozalski, on l'avait bien aimé et on n'est visiblement pas les seuls à en garder le souvenir.
 
 Sauf qu'IRON NEST ne joue pas du tout dans la même catégorie, et c'est là que ça devient intéressant. Dans Iron Harvest, on commandait des armées depuis le ciel, en vue stratégique, avec le confort du général. Ici, on est un seul type, enfermé dans une tourelle, et on ne verra jamais le champ de bataille autrement que par des chiffres et des photos aériennes. Le point de vue a basculé de cent quatre-vingts degrés : on n'est plus celui qui décide de la guerre, on est celui qui appuie.
 
@@ -21,7 +22,7 @@ Sauf qu'IRON NEST ne joue pas du tout dans la même catégorie, et c'est là que
 
 ## Deux gars et un canon
 
-Le jeu est signé Nick Nieuwoudt et Dominik Latos, soit exactement deux personnes, en autoédition sur Steam et GOG. Un projet de passion nourri à l'obsession de l'artillerie et des machines de l'entre-deux-guerres, qui a fait beaucoup plus de bruit que sa taille ne le laissait supposer : la démo a placé IRON NEST en tête des ajouts en liste de souhaits lors du Steam Next Fest de juin. Pour un simulateur de tourelle en vue subjective, avouons que ce n'était pas écrit d'avance.
+Le jeu est signé Nick Nieuwoudt et Dominik Latos, soit exactement deux personnes, en autoédition sur Steam et GOG. Un projet de passion nourri à l'obsession de l'artillerie et des machines de l'entre-deux-guerres, qui a fait beaucoup plus de bruit que sa taille ne le laissait supposer : IRON NEST a terminé premier des ajouts en liste de souhaits du Steam Next Fest de juin, et deuxième démo du festival en nombre de joueurs uniques. Pour un simulateur de tourelle en vue subjective, avouons que ce n'était pas écrit d'avance.
 
 ## Ce qu'on fait vraiment de ses dix doigts
 
@@ -31,6 +32,8 @@ Ensuite, tout passe par les mains. On prend les mesures sur la carte à partir d
 
 Le choix de l'obus n'est pas cosmétique non plus : perforant pour ouvrir un bunker, fumigène pour couvrir un décrochage ami. Et d'autres options, disons, moins présentables. Le jeu prévient aussi que la machine peut lâcher. Vous, non.
 
+C'est cette lenteur procédurale, transformée en tension, qui a emballé les joueurs de la démo : 99 % d'avis positifs sur plus de 4 000 retours, ce qui reste un score rare pour une proposition aussi austère.
+
 ![IRON NEST, la carte, le calculateur balistique et les mesures de tir](/images/ironnest/screenshot-2.webp)
 
 ## La partie qui met mal à l'aise
@@ -39,12 +42,12 @@ C'est là que le rapprochement avec Iron Harvest s'arrête net. Le RTS de 2020 �
 
 Vous pouvez déplacer les marqueurs sur la carte, mais les cicatrices restent. Traduction : un jeu où l'on ne voit jamais ses victimes, et où c'est précisément l'absence d'image qui fait le malaise. Le Haut Commandement donne les ordres, mais il ne porte pas les conséquences. C'est votre doigt sur le levier.
 
-## Ce qui pourrait coincer
+## Ce qui l'empêche d'aller plus haut
 
-Le risque est évident et il tient au genre lui-même. Un simulateur d'artillerie en vue subjective, c'est une proposition étroite, faite de mesures, de calculs et d'attente. Si la boucle mesurer-calculer-charger-tirer ne trouve pas son rythme, ou si les scénarios se répètent trop vite, l'exercice peut virer au tableur avec vue sur la campagne. La démo, elle, a rassuré du monde sur ce point.
+Deux choses, et elles reviennent avec constance dans les retours. La première est l'accompagnement : le jeu balance ses mesures, ses charges et son calculateur sans prendre beaucoup la main du joueur, et le manque de tutoriel a été le reproche le plus fréquent. La courbe d'entrée est raide, volontairement, mais elle laissera du monde sur le bord.
 
-L'autre inconnue, c'est la tenue du discours. Un jeu qui fait de la culpabilité son sujet doit assumer jusqu'au bout, sans transformer ça en simple posture ni en frisson de mauvais goût. La ligne est fine, et deux personnes ont choisi de marcher dessus.
+La seconde est l'étroitesse de la proposition. Un simulateur d'artillerie fait de mesures, de calculs et d'attente, c'est un jeu de niche, avec des finitions encore rugueuses par endroits, et il ne convertira personne qui n'a pas déjà une curiosité pour la chose. Ceux-là s'ennuieront ferme.
 
-Reste que la promesse est franchement singulière, et qu'elle vient occuper un angle mort. On voulait revoir du dieselpunk après Iron Harvest ; on ne pensait pas qu'on nous le rendrait par le trou de visée, avec les mains sales. Sortie aujourd'hui sur PC, démo toujours disponible pour se faire une idée avant de s'engager.
+Pour les autres, c'est une réussite singulière et franchement culottée. Deux personnes ont pris un angle mort du jeu de guerre, l'ont assumé jusqu'à la nausée morale, et en ont tiré une expérience mécanique qu'on ne trouve nulle part ailleurs. On voulait revoir du dieselpunk après Iron Harvest ; on ne pensait pas qu'on nous le rendrait par le trou de visée, avec les mains sales.
 
 ![IRON NEST, la tourelle colossale et le champ de bataille remodele par les obus](/images/ironnest/screenshot-3.webp)
