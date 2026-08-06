@@ -12,6 +12,7 @@ image_color: "from-red-950 via-orange-950 to-stone-950"
 coverImage: "/images/ironnest/screenshot-1.webp"
 gameName: "IRON NEST: Heavy Turret Simulator"
 featured: false
+buyUrl: "https://fr.gamesplanet.com/game/iron-nest-heavy-turret-simulator-steam-key--8632-1?ref=insertcoins"
 ---
 
 Première réaction devant la bannière d'IRON NEST : ça sent l'Iron Harvest. Même imaginaire de machines de guerre trop grosses, même Europe de l'entre-deux-guerres passée au diesel, même silhouette de colosse qui écrase un paysage de campagne. Le RTS de KING Art, tiré des peintures 1920+ de Jakub Rozalski, on l'avait bien aimé et on n'est visiblement pas les seuls à en garder le souvenir.
