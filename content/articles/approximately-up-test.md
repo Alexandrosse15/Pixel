@@ -36,13 +36,13 @@ Autour, quinze planètes à explorer, chacune avec son ambiance et une bande son
 
 ![Approximately Up, l exploration des planetes et le pilotage en vue subjective](/images/approximatelyup/screenshot-2.webp)
 
-## Le vrai coeur du jeu : le procès
+## Le procès d'après-crash
 
 Soyons honnêtes sur ce qui va réellement vous occuper. Le studio le met lui-même en avant, avec une section de sa fiche consacrée à s'accuser les uns les autres. Qui a oublié de brancher ce câble. Qui a monté le propulseur à l'envers. Qui n'a pas mis les panneaux solaires. Qui a jugé qu'un bouton d'ouverture de porte était superflu. Le radar fonctionne, au fait ? Et les batteries ?
 
 C'est du coopératif jusqu'à quatre joueurs, jouable aussi en solo, et l'on sait très bien lequel des deux produira les meilleures soirées.
 
-## Ce qui plombe la note
+## Et si vous jouez seul ?
 
 Et c'est justement le problème. Un jeu dont le meilleur ressort comique est l'engueulade entre amis devient nettement plus fade quand on est seul : en solo, il ne reste que l'ingénierie, exigeante et parfois pénible, sans personne à qui reprocher le câble manquant. La moitié de la valeur du jeu dépend donc de votre carnet d'adresses, ce qui est une dépendance lourde à vingt-cinq dollars.
 

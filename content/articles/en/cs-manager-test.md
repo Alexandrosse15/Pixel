@@ -42,7 +42,7 @@ On paper, every defeat should hand you a precise reason to restart immediately. 
 
 Because a manager does not only handle five players, you also have to deal with staff, finances and the expectations of the organisation's owner. That last mechanic is the cruellest in sports management games: it turns a good season into a disappointing one if you promised better, and it puts a countdown on the back of your neck.
 
-## Why it does not keep up yet
+## 80 percent on the demo, and it adds up
 
 Three reasons, and they stack. The first is the reception itself: the demo caps out around 80 percent positive across roughly forty reviews, a long way from the crushing scores collected by the other releases of the day. For a management game, whose audience is by definition forgiving of austerity, that is a signal.
 

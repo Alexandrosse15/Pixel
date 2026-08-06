@@ -36,7 +36,7 @@ And then there is the button. You can rewind your decisions, turn back time, unc
 
 ![Sovereign Tower, the eccentric knights and the egos to referee](/images/sovereigntower/screenshot-2.webp)
 
-## How it turns out
+## Nine out of ten at CGMagazine, and the demo agrees
 
 The signals converge, and rarely at this level. CGMagazine gives it 9 out of 10 and describes a fun, deep management RPG carried by its writing and its time travel mechanic. The demo, for its part, peaks at 97 percent positive across more than 550 reviews. For a narrative management game, a genre where flat dialogue is rarely forgiven, that is the best indicator available.
 

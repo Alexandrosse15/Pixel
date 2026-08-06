@@ -36,13 +36,13 @@ Around that, fifteen planets to explore, each with its own feel and a dynamic so
 
 ![Approximately Up, planet exploration and first-person piloting](/images/approximatelyup/screenshot-2.webp)
 
-## The real centre of the game: the trial
+## The post-crash trial
 
 Let us be honest about what will actually occupy you. The studio puts it forward itself, with a section of its store page devoted to blaming each other. Who forgot to connect that cable. Who mounted the thruster backwards. Who left out the solar panels. Who decided a door-opening button was surplus. Is the radar working, by the way? And the batteries?
 
 It is co-op for up to four players, playable solo as well, and we all know which of the two will produce the better evenings.
 
-## What weighs the score down
+## And if you play alone?
 
 And that is precisely the problem. A game whose best comic spring is an argument between friends becomes distinctly flatter alone: in solo, all that remains is the engineering, demanding and at times tedious, with nobody to blame for the missing cable. Half the value of the game therefore depends on your address book, which is a heavy dependency at twenty-five dollars.
 

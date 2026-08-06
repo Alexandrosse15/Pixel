@@ -36,7 +36,7 @@ On top of that come the crises of the era, which exist to break your plans: blac
 
 ![The Syndicate Classified Operations, expanding the network city by city](/images/thesyndicate/screenshot-2.webp)
 
-## What limits the whole thing
+## An incremental is still an incremental
 
 The genre itself, first. An incremental is still an incremental: the loop rewards patience and optimisation rather than skill, and you have to enjoy that. Anyone expecting a spy game with agents, identities and dilemmas will be in the wrong place, because the Cold War here is a theme and an aesthetic, not a play system.
 

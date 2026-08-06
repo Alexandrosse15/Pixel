@@ -30,7 +30,7 @@ Il n'est pas énorme non plus, et ce n'est pas un reproche : c'est le premier je
 
 ## Ce qu'il apporte, concrètement : les esprits
 
-Voilà la réponse à la question. Le coeur de la proposition, ce sont les esprits qu'on découvre en interagissant avec le monde. Une fois trouvés, ils ne servent pas de décoration : ils prennent soin des villageois, gèrent des pans du village et automatisent des tâches quotidiennes. On leur construit même des bâtiments dédiés.
+Voilà la réponse à la question. Tout repose sur les esprits qu'on découvre en interagissant avec le monde. Une fois trouvés, ils ne servent pas de décoration : ils prennent soin des villageois, gèrent des pans du village et automatisent des tâches quotidiennes. On leur construit même des bâtiments dédiés.
 
 Or c'est exactement l'inverse du modèle FarmVille. Là où le jeu Facebook vous imposait de revenir cliquer sous peine de tout perdre, Spiritstead confie la corvée à des créatures et vous laisse partir. Il y a même un mode créatif sans aucune pression, à côté du mode aventure qui, lui, demande de gérer les besoins des habitants. Sous la couche douce, il y a une trame : des territoires à ouvrir avec l'aide d'esprits vagabonds, des secrets, et un Grand Sanctuaire des Esprits à restaurer pour rétablir l'équilibre entre esprits et humains.
 
@@ -38,7 +38,7 @@ C'est cet équilibre entre gestion de ressources, croissance du village et fanta
 
 ![Spiritstead, les esprits qui automatisent la vie du village](/images/spiritstead/screenshot-2.webp)
 
-## Ce qui l'empêche de viser plus haut
+## Six heures, et puis c'est tout
 
 L'ampleur, tout simplement. Six à huit heures, un monde qui ne change pas d'une partie à l'autre, et une simulation volontairement légère : on est face à une friandise, pas à un city builder qui vous tiendra une saison. La promesse de rejouabilité affichée sur la fiche du jeu est le seul endroit où il se raconte des histoires, parce qu'un décor identique et des objectifs connus ne se relancent pas indéfiniment.
 

@@ -42,7 +42,7 @@ This is where the Iron Harvest comparison stops dead. The 2020 RTS was a handsom
 
 You can move the markers on the map, but the scars remain. Translation: a game where you never see your victims, and where it is precisely the absence of an image that creates the unease. High Command issues the orders, but it does not carry the consequences. That is your finger on the lever.
 
-## What keeps it from going higher
+## The missing tutorial
 
 Two things, and they come up consistently in player feedback. The first is guidance: the game throws its measurements, charges and calculator at you without holding your hand much, and the lack of a tutorial has been the most frequent complaint. The entry curve is steep, deliberately so, but it will leave people by the roadside.
 

@@ -30,7 +30,7 @@ It is not huge either, and that is not a criticism: it is the debut game from Tu
 
 ## What it actually brings: the spirits
 
-Here is the answer to the question. The centre of the proposition is the spirits you discover by interacting with the world. Once found, they are not decoration: they care for villagers, run parts of the town and automate everyday tasks. You even build dedicated buildings for them.
+Here is the answer to the question. Everything rests on the spirits you discover by interacting with the world. Once found, they are not decoration: they care for villagers, run parts of the town and automate everyday tasks. You even build dedicated buildings for them.
 
 And that is the exact inverse of the FarmVille model. Where the Facebook game forced you to come back and click or lose everything, Spiritstead hands the chore to creatures and lets you leave. There is even a creative mode with no pressure at all, alongside an adventure mode that does ask you to manage residents' needs. Under the gentle layer there is a thread: territories to open with the help of wandering spirits, hidden secrets, and a Grand Spirit Sanctuary to restore in order to bring back balance between spirits and humans.
 
@@ -38,7 +38,7 @@ It is that balance between resource management, village growth and whimsy that c
 
 ![Spiritstead, the spirits automating village life](/images/spiritstead/screenshot-2.webp)
 
-## What stops it aiming higher
+## Six hours, and that is that
 
 The scope, quite simply. Six to eight hours, a world that does not change between runs, and a deliberately light simulation: this is a sweet, not a city builder that will hold you for a season. The replayability promise on the store page is the one place where it tells itself stories, because an identical setting and familiar objectives do not restart indefinitely.
 

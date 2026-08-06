@@ -42,7 +42,7 @@ Sur le papier, chaque défaite devrait vous donner une raison précise de relanc
 
 Parce qu'un manager ne gère pas que cinq joueurs, il faut aussi composer avec le staff, les finances et les attentes du propriétaire de la structure. Cette dernière mécanique est la plus cruelle des jeux de gestion sportive : elle transforme une bonne saison en saison décevante si vous aviez promis mieux, et elle vous met un compte à rebours sur la nuque.
 
-## Pourquoi ça ne suit pas encore
+## 80 % sur la démo, et ça se comprend
 
 Trois raisons, et elles se cumulent. La première, c'est l'accueil lui-même : la démo plafonne autour de 80 % d'avis positifs sur une quarantaine de retours, très loin des scores écrasants récoltés par les autres sorties du jour. Pour un jeu de gestion, dont le public est par définition indulgent avec l'austérité, c'est un signal.
 

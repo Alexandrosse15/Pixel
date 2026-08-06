@@ -42,7 +42,7 @@ It also explains the reception: the demo sits at 96 percent positive across near
 
 ![ReStory, disassembling and restoring Y2K devices](/images/restory/screenshot-2.webp)
 
-## What holds it back
+## The chill game that wanted dilemmas
 
 The reservations belong to the genre, and they are real. The repair simulator is well-trodden ground, and the take-apart, clean, replace, reassemble loop does become a ritual: once the wonder of the first devices fades, it is the variety of the catalogue that has to take over, and it is not infinite.
 

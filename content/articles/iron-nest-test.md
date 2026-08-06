@@ -42,7 +42,7 @@ C'est là que le rapprochement avec Iron Harvest s'arrête net. Le RTS de 2020 �
 
 Vous pouvez déplacer les marqueurs sur la carte, mais les cicatrices restent. Traduction : un jeu où l'on ne voit jamais ses victimes, et où c'est précisément l'absence d'image qui fait le malaise. Le Haut Commandement donne les ordres, mais il ne porte pas les conséquences. C'est votre doigt sur le levier.
 
-## Ce qui l'empêche d'aller plus haut
+## Le tutoriel qui manque
 
 Deux choses, et elles reviennent avec constance dans les retours. La première est l'accompagnement : le jeu balance ses mesures, ses charges et son calculateur sans prendre beaucoup la main du joueur, et le manque de tutoriel a été le reproche le plus fréquent. La courbe d'entrée est raide, volontairement, mais elle laissera du monde sur le bord.
 

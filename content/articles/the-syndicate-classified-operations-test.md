@@ -36,7 +36,7 @@ S'ajoutent les crises de l'époque, qui viennent casser vos plans : coupures de 
 
 ![The Syndicate Classified Operations, l expansion du reseau ville par ville](/images/thesyndicate/screenshot-2.webp)
 
-## Ce qui limite l'affaire
+## Un incremental reste un incremental
 
 Le genre lui-même, d'abord. Un incremental reste un incremental : la boucle récompense la patience et l'optimisation plutôt que l'habileté, et il faut aimer ça. Ceux qui attendaient un jeu d'espionnage avec des agents, des identités et des dilemmes seront à côté de la plaque, parce que la Guerre froide y est un thème et une esthétique, pas un système de jeu.
 

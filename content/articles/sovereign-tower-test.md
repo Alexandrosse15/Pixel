@@ -36,7 +36,7 @@ Et puis il y a le bouton. Vous pouvez rembobiner vos décisions, remonter le tem
 
 ![Sovereign Tower, les chevaliers excentriques et leurs ego a arbitrer](/images/sovereigntower/screenshot-2.webp)
 
-## Ce que ça donne
+## 9 sur 10 chez CGMagazine, et la démo confirme
 
 Les signaux sont convergents et rares à ce niveau. CGMagazine met 9 sur 10 et parle d'un jeu de gestion drôle et profond, porté par son écriture et par sa mécanique de voyage dans le temps. La démo, de son côté, culmine à 97 % d'avis positifs sur plus de 550 retours. Pour un jeu de gestion narratif, genre où l'on pardonne peu les dialogues plats, c'est le meilleur indicateur possible.
 

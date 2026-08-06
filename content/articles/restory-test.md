@@ -42,7 +42,7 @@ C'est aussi ce qui explique l'accueil : la démo tourne à 96 % d'avis positifs 
 
 ![ReStory, le demontage et la restauration des appareils Y2K](/images/restory/screenshot-2.webp)
 
-## Ce qui le retient
+## Le jeu chill qui voulait des dilemmes
 
 Les réserves sont celles du genre, et elles sont réelles. Le simulateur de réparation est un terrain déjà bien piétiné, et la boucle démonter-nettoyer-remplacer-remonter finit par devenir un rituel : passé l'émerveillement des premiers appareils, c'est la variété du catalogue qui doit prendre le relais, et elle n'est pas infinie.
 
