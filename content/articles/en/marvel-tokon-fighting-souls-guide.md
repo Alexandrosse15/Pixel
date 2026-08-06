@@ -49,9 +49,9 @@ The key, with the shared life bar, is assist synergy. Choose assists that cover 
 
 **Iron Man** is a keepaway zoner: flight, repulsor beams, unibeam, he dominates at range. Keep the opponent far, control the airspace and chip away at their life with projectiles. Excellent as an anchor to close rounds from a distance.
 
-**Ms. Marvel** exploits her elastic limbs for rare disjointed range: she controls space from afar and opens the guard with grabs and surprise stretches. Play her at point or mid, alternating long-range control and tricky closes.
+**Hulk** is the team's heavy hitter: a big body with slow but devastating strikes, built to punish enormously the moment the opponent errs. He absorbs hits, walks forward, and a single opening is enough for him to tear a huge chunk out of the shared bar. Play him as an anchor, patiently, and make every poorly prepared approach pay.
 
-The fourth member of the Fighting Avengers will be detailed as soon as they are confirmed, and their archetype added to this guide.
+**Black Panther**, embodied here by Shuri rather than T'Challa, plays the exact opposite way: swift, lethal strikes designed to catch the opponent off-guard. She is the team's agile rushdown, to be played at point, on speed and precision rather than brute force. The pairing she forms with Hulk is the sharpest contrast on the roster.
 
 ## The Amazing Guardians
 
@@ -61,7 +61,7 @@ The fourth member of the Fighting Avengers will be detailed as soon as they are 
 
 **Star-Lord** is a gun zoner: his elemental blasters and ranged shots make him a keepaway master. Control neutral with projectiles, keep your distance and chip away at the shared bar. An effective zoning pillar.
 
-The fourth member of the Amazing Guardians will be added to this guide as soon as they are revealed.
+**Ms. Marvel** exploits her elastic limbs for rare disjointed range: she controls space from afar and opens the guard with grabs and surprise stretches. Play her at point or mid, alternating long-range control and tricky closes.
 
 ![MARVEL Tokon Fighting Souls, the variety of roster archetypes](/images/marveltokon/screenshot-3.webp)
 

@@ -49,9 +49,9 @@ La clé, avec la barre de vie partagée, c'est la synergie des assists. Choisiss
 
 **Iron Man** est un zoneur de keepaway : vol, rayons répulseurs, unibeam, il domine à distance. Gardez l'adversaire loin, contrôlez l'espace aérien et grignotez sa vie à coups de projectiles. Excellent en ancre pour finir les manches à distance.
 
-**Ms. Marvel** exploite ses membres élastiques pour une portée désarticulée rare : elle contrôle l'espace de loin et ouvre la garde avec des saisies et des allonges surprises. Jouez-la en point ou en milieu, en alternant contrôle à distance et rapprochements piégeux.
+**Hulk** est la grosse cogne de l'équipe : un poids lourd aux frappes lentes mais dévastatrices, taillé pour punir très fort dès que l'adversaire se trompe. Il encaisse, avance, et une seule ouverture lui suffit pour arracher un morceau énorme de la barre partagée. Jouez-le en ancre, patiemment, et faites payer chaque approche mal préparée.
 
-Le quatrième membre des Fighting Avengers sera détaillé dès sa confirmation, et son archétype ajouté à ce guide.
+**Black Panther**, ici incarnée par Shuri et non par T'Challa, joue exactement à l'inverse : des frappes rapides et létales pensées pour prendre l'adversaire de court. C'est la rushdown agile de l'équipe, à jouer en point, sur la vitesse et la précision plutôt que sur la force brute. Le duo qu'elle forme avec Hulk est d'ailleurs le contraste le plus net du roster.
 
 ## Les Amazing Guardians
 
@@ -61,7 +61,7 @@ Le quatrième membre des Fighting Avengers sera détaillé dès sa confirmation,
 
 **Star-Lord** est un zoneur au pistolet : ses blasters élémentaires et ses tirs à distance en font un maître du keepaway. Contrôlez le neutre à coups de projectiles, gardez vos distances et grignotez la barre partagée. Un pilier de zoning efficace.
 
-Le quatrième membre des Amazing Guardians sera ajouté à ce guide dès sa révélation.
+**Ms. Marvel** exploite ses membres élastiques pour une portée désarticulée rare : elle contrôle l'espace de loin et ouvre la garde avec des saisies et des allonges surprises. Jouez-la en point ou en milieu, en alternant contrôle à distance et rapprochements piégeux.
 
 ![MARVEL Tokon Fighting Souls, la variété des archetypes du roster](/images/marveltokon/screenshot-3.webp)
 
