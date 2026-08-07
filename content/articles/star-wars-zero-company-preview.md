@@ -1,60 +1,74 @@
 ---
-title: "Star Wars Zero Company: le XCOM des Clone Wars dont on rêvait, édité par celui qu'on redoutait"
-seoTitle: "Star Wars Zero Company : preview du XCOM Clone Wars"
+title: "Star Wars Zero Company : la Guerre des Clones, des vétérans de XCOM et une seule prière, EA, ne gâchez pas tout"
+seoTitle: "Star Wars Zero Company : preview du jeu de tactique au tour par tour"
 slug: "star-wars-zero-company-preview"
 category: "previews"
-excerpt: "Un XCOM dans les Clone Wars: escouade sur mesure, permadeath, Jedi et Mandaloriens. Le rêve signé Bit Reactor et Respawn. Le hic ? C'est EA qui édite."
-date: "2026-06-06"
+excerpt: "Un tactique au tour par tour par les vétérans de XCOM, dans la meilleure période de Star Wars. Avec mort permanente, et une inquiétude sur la musique."
+date: "2026-08-07"
 author: "Alexandrosse"
-readTime: "7 min"
-image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/zerocompany/screenshot-1.webp"
-gameName: "Star Wars Zero Company"
+readTime: "9 min"
+image_color: "from-orange-950 via-red-950 to-slate-950"
+coverImage: "/images/starwarszerocompany/screenshot-1.webp"
+gameName: "STAR WARS Zero Company"
 featured: false
 ---
 
-Il y a des annonces qu'on attend sans le savoir. Star Wars Zero Company en fait partie: un tactical au tour par tour dans les Clone Wars, avec une escouade qu'on construit soi-même et des personnages qui peuvent mourir pour de bon. En clair, un XCOM en armure de clone. Pour ceux qui ont encore des frissons rien qu'en repensant à la musique d'embarquement avant une mission dans XCOM 2, autant prévenir tout de suite: ce jeu vise droit dans cette zone-là du cerveau.
+Commençons par la bonne nouvelle, celle qui m'a fait relever la tête : Star Wars Zero Company se déroule pendant la Guerre des Clones. C'est-à-dire la meilleure période de Star Wars. Oui, c'est mon avis, et c'est celui qui compte ici. Si le vôtre diffère, sachez qu'on recrute des rédacteurs, alors postulez et venez le défendre à ma place.
 
-## Le contexte
+Sortie prévue le 27 août 2026 sur PC, PS5 et Xbox Series, développé par Bit Reactor, avec la participation de Respawn et de Lucasfilm Games, édité par EA. Tactique au tour par tour, solo, dans le crépuscule de la Guerre des Clones.
 
-Zero Company sort le 27 août sur PC, et c'est une co-production aux intervenants rassurants sur le papier. Bit Reactor, un studio fondé par des vétérans de Firaxis (les créateurs de XCOM, donc), gère le coeur stratégique. Respawn, devenu un habitué crédible de la galaxie après les Jedi: Fallen Order et Survivor, supervise. Le tout sous la bannière Electronic Arts. On y reviendra, parce que ce nom-là est exactement ce qui nous empêche de crier au chef-d'oeuvre avant l'heure.
+![Star Wars Zero Company, le tactique au tour par tour dans la Guerre des Clones](/images/starwarszerocompany/screenshot-1.webp)
 
-Le pitch est limpide: vous dirigez la Zero Company, une compagnie de mercenaires indépendante engagée par la République pendant les Guerres Clones. La communauté l'a déjà rebaptisé ZCOM, et franchement, le surnom est mérité.
+## Par pitié, pas un Sith de plus
 
-![L'escouade de la Zero Company](/images/zerocompany/screenshot-1.webp)
+Dans la bande-annonce, on voit passer un certain nombre de choses très réjouissantes : des droïdes BX, ces commandos vraiment classes, des droïdes de commandement avec leurs dorures magnifiques, et un personnage avec un sabre rouge. C'est ce dernier qui m'a fait grincer des dents, parce qu'on connaît la chanson : encore un Sith inventé pour l'occasion, encore une entorse à la Règle des Deux.
 
-## Ce qu'on sait
+Alors autant vous donner la réponse tout de suite, elle est en demi-teinte mais elle est bonne.
 
-C'est du tour par tour tactique pur, dans la lignée des XCOM modernes et de Marvel's Midnight Suns plutôt que du temps réel à la Desperados. Couverture, ligne de vue, pourcentages de réussite à l'écran, gestion d'escouade entre les missions: la grammaire est là. La grande différence avec un XCOM classique tient à l'escouade elle-même. Vous la composez, vous la personnalisez, et selon Bit Reactor, vous pouvez recruter et façonner vos soldats de fond en comble.
+Oui, l'antagoniste est un personnage inédit. Elle s'appelle Kundri Fathom et elle dirige l'Infinite Coil. Non, ce n'est pas une Sith. C'est une stratège charismatique à la tête d'un culte du côté obscur allié aux Séparatistes, qui cherche à répandre dans la galaxie une peste augmentant la force physique des infectés. Elle est secondée par Visser, sa combattante la plus dévouée, et par Typhon, un super droïde tacticien obsédé par ce fléau.
 
-Côté casting jouable, on a déjà de quoi saliver: des clones, des Mandaloriens, des droides (un commando clone et un droïde de combat B2 dans la même équipe, c'est officiellement sur la table), et une poignée de spécialistes plus exotiques. Les Jedi, eux, semblent être des personnages uniques et scénarisés plutôt que des recrues qu'on fabrique à la chaîne, et une classe reste encore secrète. Notre pari, comme celui de la moitié de Reddit: un utilisateur du côté obscur.
+Un culte du côté obscur n'est pas un ordre Sith. La Règle des Deux n'est donc pas piétinée, elle est contournée. Et pendant que nous y sommes, permettez-moi d'affiner votre propre liste, parce qu'elle mérite d'être défendue avec les bonnes armes : Asajj Ventress n'a jamais été une Sith non plus, ni Savage Opress. Tous deux étaient des acolytes, des apprentis officieux, des outils de Dooku. C'est précisément le tour de passe-passe que Lucasfilm utilise depuis toujours pour peupler l'univers de sabres rouges sans jamais toucher au dogme. Zero Company ne fait donc pas pire que ses aînés, il applique la même recette.
 
-![Le tactical au tour par tour, façon ZCOM](/images/zerocompany/screenshot-2.webp)
+Et le nom que vous cherchiez, celui de l'élève de Luminara Unduli qui a fait accuser Ahsoka Tano de l'attentat du Temple, c'est Barriss Offee. Saison 5, l'arc qui se termine par L'Erreur d'une Jedi. Sans doute le meilleur arc de toute la série, d'ailleurs, et une preuve de plus que cette période reste la plus riche de la franchise.
 
-Le système de blessures est le vrai sujet de discussion. Oubliez le tirage au sort brutal de XCOM où un soldat se vide de son sang au hasard. Ici, un personnage au sol encaisse une blessure, et ce sont les blessures accumulées et non soignées qui finissent par le tuer définitivement, une fois un certain seuil franchi. On est plus proche de Chimera Squad ou de Necromunda que de la roulette russe historique de la série: la mort existe, mais elle se construit, et la soigner ne serait pas donné.
+Cela dit, oui : voir Ventress apparaître aurait fait plaisir. Peut-être plus tard.
 
-C'est une approche qu'on peut lire de deux façons, et c'est tout l'intérêt. Soit on y voit un permadeath édulcoré pour rassurer le grand public, soit on y voit un système qui transforme chaque blessure en décision: je remets ce sniper amoché au front parce que j'ai besoin de lui maintenant, quitte à le perdre, ou je le mets au repos et je pars en sous-effectif ? Bien dosé, c'est exactement le genre de tension qui fait le sel du genre.
+## Ce qu'on sait vraiment du jeu
 
-![Le système de capacités en éventail](/images/zerocompany/screenshot-3.webp)
+Vous incarnez Hawks, un ancien officier de la République qui monte Zero Company, une unité d'opérations spéciales officieuse, hors du commandement régulier, recrutée pour affronter une menace émergente. Huit opérateurs écrits composent l'effectif de terrain : Hawks, Trick, Tel-Rea Vokoss, Cly Kullervo, Luco Bronc, Kabb Uppercut, Jae Mordant et M-3VO.
 
-Sur l'ambiance, les premiers retours parlent d'une narration qui lorgne vers Mass Effect, avec une compagnie, des personnages et des relations à entretenir. Pour des fans de Clone Wars, l'idée de gérer notre propre cellule au coeur du conflit, loin des grandes batailles scénarisées, a quelque chose de grisant.
+Deux bonnes nouvelles là-dedans pour vous. La première : Cly Kullervo est un chasseur de primes mandalorien, donc oui, les Mandaloriens sont bien de la partie. La seconde : M-3VO confirme que les droïdes sont des membres d'équipe à part entière. Vous aviez raison de vous en réjouir, et vous aviez raison sur le fond : dans cet univers, les droïdes sont régulièrement des criminels de guerre parfaitement assumés, Chopper et R2-D2 en tête. Voir cette tradition perdurer est un plaisir coupable légitime.
 
-![Un Jedi de la compagnie en pleine action](/images/zerocompany/screenshot-4.webp)
+Côté adversaires, on retrouve les B1, les B2 super droïdes de combat, les droidekas et donc ces fameux BX commandos. Le casting vocal fait sérieux, avec Erica Luttrell pour Hawks, Dee Bradley Baker pour Trick, ce qui est le choix le plus évident et le plus juste du monde tant sa voix est celle des clones, et Rekha Sharma pour Kundri Fathom.
 
-## Ce qui inquiète
+Mécaniquement, on alterne entre une base d'opérations et un champ de bataille mouvant, avec des archétypes allant du filou à l'astromech en passant par un Jedi, des capacités tactiques à combiner, et des synergies de combat qui se débloquent à mesure que l'escouade apprend à travailler ensemble. Le studio insiste sur le fait que vos décisions changent le déroulé d'une partie à l'autre.
 
-Premier point, et il est gros: EA. On a tous en mémoire le fiasco des microtransactions de Battlefront 2, et un jeu Star Wars avec personnalisation poussée plus l'écusson EA, ça réveille des réflexes de méfiance légitimes. L'éditeur a peut-être retenu la leçon, et le contexte commercial actuel de la licence le pousse à se racheter une conduite, mais on attendra de voir la boutique avant de relâcher la garde.
+![Star Wars Zero Company, l escouade et les droides separatistes](/images/starwarszerocompany/screenshot-2.webp)
 
-Deuxième inquiétude, plus personnelle: on n'affronte, semble-t-il, que les Séparatistes. Et réduire la Confédération au simple rôle de méchants de service, c'est passer à côté de toute une moitié du conflit, la plus intéressante politiquement. On rêverait de pouvoir aussi jouer leur camp, ou au moins de nuancer ce face-à-face. Pour l'instant, rien ne le laisse penser, et c'est dommage.
+## Les vétérans derrière la manette
 
-![Les droides séparatistes en face](/images/zerocompany/screenshot-5.webp)
+Votre intuition sur Bit Reactor est exacte, et c'est la raison la plus solide d'y croire. Le studio a été fondé par des vétérans de Firaxis, dont Greg Foertsch, directeur artistique de XCOM Enemy Unknown et de XCOM 2, resté plus de vingt ans chez Firaxis. L'équipe compte des gens passés par XCOM, par Civilization et, oui, par Elder Scrolls Online. Leur ambition affichée est de faire passer le tactique au tour par tour au niveau supérieur en matière de production et de narration.
 
-Enfin, la question des héros qui ne meurent pas. Si les personnages scénarisés sont scriptés pour survivre à toutes les missions pendant que seuls nos soldats anonymes risquent la mort, une partie du sel d'XCOM s'évapore. Le plaisir, dans ces jeux, c'est de fabriquer ses propres légendes, pas de trimballer des invincibles. On surveille ça de près.
+C'est donc bien la bonne école qui tient le crayon. Reste à voir si l'émotion suivra, parce que c'est votre vraie exigence : que perdre un personnage vous serre la gorge comme dans XCOM, où la personnalisation poussée transformait chaque soldat en camarade. Sur ce point, le jeu promet la mort permanente non seulement pour les mercenaires que vous créez, mais aussi pour les coéquipiers scénarisés. Si c'est tenu, ça fait mal. Dans le bon sens.
 
-## On attend ou pas ?
+## Ce que la communauté redoute déjà
 
-On attend, et il faut être honnête, on attend beaucoup. Réunir XCOM et les Clone Wars, c'est cocher deux de nos plus grandes faiblesses dans une seule case. L'équipe a le pedigree qu'il faut, le concept est solide, et les premières images respirent la guerre clonique qu'on aime, des clones aux droides en passant par les Mandaloriens.
+Le fil Reddit qui a suivi l'article de PC Gamer, celui qui décrivait le jeu comme plus qu'un simple Star Wars XCOM, un Mass Effect avec du tour par tour et de la mort permanente, est très instructif. Il est massivement enthousiaste, mais trois inquiétudes reviennent, et elles sont pertinentes.
 
-![L'odeur de la guerre clonique](/images/zerocompany/screenshot-6.webp)
+La première concerne la base. Beaucoup ont adoré Marvel's Midnight Suns, mais presque tous décrivent l'Abbaye comme une corvée entre deux missions. Le souhait le plus répété est explicite : que le hub ressemble davantage au Normandy de Mass Effect qu'à l'Abbaye, c'est-à-dire un lieu où l'on va parler à son équipage par envie, pas par obligation.
 
-Reste l'inconnue EA et la promesse de profondeur tactique qu'il faudra tenir manette en main. Le 27 août dira si Zero Company est le XCOM galactique qu'on espère ou une jolie surface posée sur une licence en or. D'ici là, on croise les doigts, et on a déjà la musique d'embarquement dans la tête. À suivre.
+La deuxième concerne les cartes. On reproche à Midnight Suns des terrains plats, décrits comme des parkings avec trois objets destructibles. Les joueurs réclament de la verticalité, des intérieurs, des étages, de la destruction. Plusieurs affirment déjà en avoir aperçu dans les extraits de gameplay, ce qui rassure.
+
+La troisième, la plus clivante, c'est la mort permanente elle-même. Une partie du fil la réclame, une autre la redoute et espère un mode pour la désactiver, avec un argument que je trouve solide : associer mort permanente et hasard à la XCOM, c'est s'exposer à perdre un personnage aimé sur un tir à 95 % qui rate. Un commentaire fait remarquer, à juste titre, que le personnage principal ne risque probablement pas grand-chose, mais que tous les autres sont des cibles légitimes.
+
+## La musique, et le frisson qui n'est pas venu
+
+Il faut que j'en parle, parce que c'est le seul vrai point qui m'a laissé froid. La musique de la bande-annonce ne m'a rien fait éprouver. Pas un frisson. Rien.
+
+Ce n'est pas un détail dans cette franchise. Star Wars, c'est John Williams avant d'être quoi que ce soit d'autre, et un thème réussi fait la moitié du travail émotionnel. J'ai 36 ans, j'ai vu La Menace Fantôme au cinéma, et cette bande-annonce ne m'a pas procuré le dixième de ce que produit encore aujourd'hui le Duel of the Fates. Si Zero Company veut que la perte d'un opérateur me remue, il lui faudra un thème capable de porter ce moment. La tactique se conçoit, l'émotion se compose.
+
+Pour le reste, j'ai envie d'y croire. EA a déjà prouvé qu'il pouvait faire de très bons jeux Star Wars avec Cal Kestis, dans Jedi Fallen Order et Jedi Survivor, et c'est Respawn, le studio derrière ces deux-là, qui prête main-forte ici. La période choisie est la bonne, l'école de développement est la bonne, les droïdes sont bien dessinés et les Mandaloriens répondent présent.
+
+Alors une seule requête, EA, et je promets de ne plus râler : ne cassez pas Star Wars davantage qu'il ne l'est déjà. Donnez-nous une belle aventure et une musique qui fasse frissonner. Le reste, on s'en occupe. L'espoir, dans cette galaxie, on sait comment ça finit.
+
+![Star Wars Zero Company, la base d operations et la personnalisation de l escouade](/images/starwarszerocompany/screenshot-3.webp)

@@ -1,60 +1,74 @@
 ---
-title: "Star Wars Zero Company: the Clone Wars XCOM we dreamed of, published by the one we feared"
-seoTitle: "Star Wars Zero Company: Clone Wars XCOM preview"
+title: "Star Wars Zero Company: the Clone Wars, XCOM veterans, and one single prayer, EA, do not ruin this"
+seoTitle: "Star Wars Zero Company: preview of the turn-based tactics game"
 slug: "star-wars-zero-company-preview"
 category: "previews"
-excerpt: "An XCOM in the Clone Wars: custom squad, permadeath, Jedi and Mandalorians. The dream, by Bit Reactor and Respawn. The catch ? EA is publishing."
-date: "2026-06-06"
+excerpt: "A turn-based tactics game from the XCOM veterans, set in the best period of Star Wars. With permadeath, and one worry about the music."
+date: "2026-08-07"
 author: "Alexandrosse"
-readTime: "7 min"
-image_color: "from-slate-950 via-blue-950 to-zinc-950"
-coverImage: "/images/zerocompany/screenshot-1.webp"
-gameName: "Star Wars Zero Company"
+readTime: "9 min"
+image_color: "from-orange-950 via-red-950 to-slate-950"
+coverImage: "/images/starwarszerocompany/screenshot-1.webp"
+gameName: "STAR WARS Zero Company"
 featured: false
 ---
 
-There are announcements you have been waiting for without knowing it. Star Wars Zero Company is one of them: a turn-based tactics game set in the Clone Wars, with a squad you build yourself and characters who can die for good. In plain terms, an XCOM in clone armor. For anyone who still gets chills just thinking about the pre-mission boarding music in XCOM 2, fair warning right now: this game aims straight at that part of the brain.
+Let us start with the good news, the part that made me look up: Star Wars Zero Company is set during the Clone Wars. Which is to say the best period of Star Wars. Yes, that is my opinion, and it is the one that counts here. If yours differs, be aware that we are hiring writers, so apply and come defend it in my place.
 
-## The context
+Out on 27 August 2026 on PC, PS5 and Xbox Series, developed by Bit Reactor with input from Respawn and Lucasfilm Games, published by EA. Single-player turn-based tactics, in the twilight of the Clone Wars.
 
-Zero Company releases on August 27 on PC, and it is a co-production with reassuring names on paper. Bit Reactor, a studio founded by Firaxis veterans (the creators of XCOM, then), handles the strategic core. Respawn, now a credible regular of the galaxy after Jedi: Fallen Order and Survivor, supervises. All of it under the Electronic Arts banner. We will come back to that, because that name is exactly what stops us from crying masterpiece ahead of time.
+![Star Wars Zero Company, turn-based tactics in the Clone Wars](/images/starwarszerocompany/screenshot-1.webp)
 
-The pitch is clean: you lead Zero Company, an independent mercenary outfit hired by the Republic during the Clone Wars. The community has already renamed it ZCOM, and honestly, the nickname is earned.
+## Please, not another Sith
 
-![The Zero Company squad](/images/zerocompany/screenshot-1.webp)
+The trailer shows a number of very pleasing things: BX droids, those genuinely classy commandos, command droids with their magnificent gold trim, and a character with a red lightsaber. That last one made me wince, because we know this tune: another Sith invented for the occasion, another dent in the Rule of Two.
 
-## What we know
+So let me give you the answer straight away. It is mixed, but it is good.
 
-This is pure turn-based tactics, in the lineage of modern XCOM and Marvel's Midnight Suns rather than real-time à la Desperados. Cover, line of sight, hit percentages on screen, squad management between missions: the grammar is there. The big difference from a classic XCOM lies in the squad itself. You build it, you customize it, and according to Bit Reactor, you can recruit and shape your soldiers from the ground up.
+Yes, the antagonist is a brand new character. Her name is Kundri Fathom and she leads the Infinite Coil. No, she is not a Sith. She is a charismatic strategist heading a dark side cult allied with the Separatists, seeking to spread through the galaxy a plague that increases the physical strength of the infected. She is supported by Visser, her most dedicated fighter, and by Typhon, a super tactical droid obsessed with the plague.
 
-On the playable roster, there is already plenty to drool over: clones, Mandalorians, droids (a clone commando and a B2 battle droid on the same team is officially on the table), and a handful of more exotic specialists. The Jedi, however, seem to be unique scripted characters rather than recruits you mass-produce, and one class is still secret. Our bet, like half of Reddit's: a dark side user.
+A dark side cult is not a Sith order. The Rule of Two is therefore not trampled, it is sidestepped. And while we are here, allow me to sharpen the usual list, because it deserves to be defended with the right weapons: Asajj Ventress was never a Sith either, nor was Savage Opress. Both were acolytes, unofficial apprentices, tools of Dooku. That is precisely the sleight of hand Lucasfilm has always used to populate the universe with red sabers without ever touching the dogma. Zero Company is not doing worse than its elders, it is following the same recipe.
 
-![The turn-based tactics, ZCOM style](/images/zerocompany/screenshot-2.webp)
+And the name you were reaching for, Luminara Unduli's student who framed Ahsoka Tano for the Temple bombing, is Barriss Offee. Season 5, the arc that ends with The Wrong Jedi. Probably the best arc in the whole series, incidentally, and further proof that this period remains the richest in the franchise.
 
-The injury system is the real talking point. Forget XCOM's brutal dice roll where a soldier bleeds out at random. Here, a downed character takes a wound, and it is the accumulated, untreated wounds that eventually kill them for good, once a certain threshold is crossed. We are closer to Chimera Squad or Necromunda than to the series' historic russian roulette: death exists, but it builds up, and healing it would not come cheap.
+That said, yes: seeing Ventress turn up would have been a treat. Maybe later.
 
-It is an approach you can read two ways, and that is the whole point. Either you see softened permadeath meant to reassure a wider audience, or you see a system that turns every wound into a decision: do I send this banged-up sniper back to the front because I need him now, even at the risk of losing him, or do I rest him and go in short-handed ? Well-tuned, that is exactly the kind of tension that makes the genre.
+## What we actually know about the game
 
-![The fan-shaped ability system](/images/zerocompany/screenshot-3.webp)
+You play Hawks, a former Republic officer who assembles Zero Company, an off-books special operations unit outside regular command, recruited to face an emerging threat. Eight authored operators make up the field roster: Hawks, Trick, Tel-Rea Vokoss, Cly Kullervo, Luco Bronc, Kabb Uppercut, Jae Mordant and M-3VO.
 
-On atmosphere, early hands-on talk of a narrative leaning toward Mass Effect, with a company, characters and relationships to maintain. For Clone Wars fans, the idea of running our own cell at the heart of the conflict, far from the big scripted battles, has something intoxicating about it.
+Two pieces of good news in there. First: Cly Kullervo is a Mandalorian bounty hunter, so yes, the Mandalorians are present. Second: M-3VO confirms that droids are full squad members. You were right to be pleased, and right on the substance: in this universe droids are regularly and unapologetically war criminals, Chopper and R2-D2 chief among them. Seeing that tradition continue is a legitimate guilty pleasure.
 
-![A Jedi of the company in action](/images/zerocompany/screenshot-4.webp)
+On the enemy side we get B1s, B2 super battle droids, droidekas and those BX commandos. The voice cast looks serious, with Erica Luttrell as Hawks, Dee Bradley Baker as Trick, which is the most obvious and most correct casting in the world given that his voice simply is the clones, and Rekha Sharma as Kundri Fathom.
 
-## What worries us
+Mechanically you alternate between a base of operations and a shifting battlefield, with archetypes ranging from scoundrels to astromechs by way of a Jedi, tactical abilities to combine, and combat synergies that unlock as the squad learns to work together. The studio stresses that your decisions change how a playthrough unfolds.
 
-First point, and it is a big one: EA. We all remember the Battlefront 2 microtransaction fiasco, and a Star Wars game with deep customization plus the EA crest reawakens legitimate reflexes of distrust. The publisher may have learned the lesson, and the current commercial context of the license pushes it to win back some goodwill, but we will wait to see the store before lowering our guard.
+![Star Wars Zero Company, the squad and the Separatist droids](/images/starwarszerocompany/screenshot-2.webp)
 
-Second worry, more personal: it seems you only fight the Separatists. And reducing the Confederacy to a mere role of stock villains means missing a whole half of the conflict, the most interesting one politically. We would love to be able to play their side too, or at least to nuance this face-off. For now, nothing suggests it, and that is a shame.
+## The veterans holding the pen
 
-![The Separatist droids on the other side](/images/zerocompany/screenshot-5.webp)
+Your hunch about Bit Reactor is correct, and it is the strongest reason to believe in this. The studio was founded by Firaxis veterans, including Greg Foertsch, art director on XCOM Enemy Unknown and XCOM 2, who spent over twenty years at Firaxis. The team includes people who worked on XCOM, on Civilization and, yes, on Elder Scrolls Online. Their stated ambition is to push turn-based tactics up a level in production values and storytelling.
 
-Finally, the question of heroes who do not die. If the scripted characters are written to survive every mission while only our anonymous soldiers risk death, part of XCOM's salt evaporates. The joy, in these games, is forging your own legends, not hauling around the invincible. We are watching that closely.
+So the right school is holding the pen. What remains to be seen is whether the emotion follows, because that is your real demand: that losing a character tightens your throat the way XCOM did, where deep customisation turned every soldier into a comrade. On that front, the game promises permadeath not only for the mercenaries you create, but for the scripted squadmates too. If that holds, it will hurt. In the good way.
 
-## Are we waiting for it ?
+## What the community already fears
 
-We are, and to be honest, we are waiting for a lot. Bringing XCOM and the Clone Wars together ticks two of our biggest weaknesses in a single box. The team has the right pedigree, the concept is solid, and the first images breathe the clone war we love, from the clones to the droids by way of the Mandalorians.
+The Reddit thread that followed the PC Gamer article, the one describing the game as more than a mere Star Wars XCOM, a Mass Effect with turn-based tactics and permadeath, is very instructive. It is overwhelmingly enthusiastic, but three worries keep coming back, and they are fair.
 
-![The smell of the clone war](/images/zerocompany/screenshot-6.webp)
+The first concerns the base. Many loved Marvel's Midnight Suns, but almost all describe the Abbey as a chore between missions. The most repeated wish is explicit: that the hub feels more like the Normandy from Mass Effect than the Abbey, that is, a place you visit to talk to your crew because you want to, not because you must.
 
-What remains is the EA unknown and the promise of tactical depth that will have to hold up controller in hand. August 27 will tell whether Zero Company is the galactic XCOM we hope for or a pretty surface laid over a golden license. Until then, we are crossing our fingers, and we already have the boarding music stuck in our heads. To be continued.
+The second concerns the maps. Midnight Suns is criticised for flat terrain, described as parking lots with three destructible objects. Players are asking for verticality, interiors, floors, destruction. Several claim to have spotted some already in the gameplay clips, which is reassuring.
+
+The third, the most divisive, is permadeath itself. Part of the thread demands it, another part dreads it and hopes for a toggle, with an argument I find solid: pairing permadeath with XCOM-style randomness means risking the loss of a beloved character on a 95 percent shot that misses. One comment notes, correctly, that the player character probably is not at much risk, but that everyone else is fair game.
+
+## The music, and the chill that never came
+
+I have to raise this, because it is the one thing that left me cold. The trailer's music made me feel nothing. Not a shiver. Nothing.
+
+That is not a detail in this franchise. Star Wars is John Williams before it is anything else, and a successful theme does half the emotional work. I am 36, I saw The Phantom Menace in cinemas, and this trailer did not give me a tenth of what Duel of the Fates still produces today. If Zero Company wants the loss of an operator to move me, it will need a theme capable of carrying that moment. Tactics are designed; emotion is composed.
+
+For the rest, I want to believe. EA has already proved it can make very good Star Wars games with Cal Kestis, in Jedi Fallen Order and Jedi Survivor, and it is Respawn, the studio behind both, lending a hand here. The chosen period is the right one, the development school is the right one, the droids are well drawn and the Mandalorians have shown up.
+
+So one single request, EA, and I promise to stop grumbling: do not break Star Wars any further than it already is. Give us a fine adventure and music that raises the hairs. We will handle the rest. Hope, in this galaxy, we all know how that one goes.
+
+![Star Wars Zero Company, the base of operations and squad customisation](/images/starwarszerocompany/screenshot-3.webp)
