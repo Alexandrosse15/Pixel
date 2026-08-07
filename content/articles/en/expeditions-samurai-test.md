@@ -14,7 +14,7 @@ gameName: "Expeditions: Samurai"
 featured: false
 ---
 
-First sensation on launching Expeditions Samurai: your hands settle back into a familiar position all by themselves. Top-down view, small squad, guards to work around, stealth. It smells like Commandos, and above all it smells like that game of Mexican bandits and cowboys of the same blood, the one whose name never comes on the first try: Desperados III, by Mimimi.
+First sensation on launching Expeditions Samurai: your hands settle back into a familiar position all by themselves. Top-down view, small squad, guards to work around, stealth. It smells like Commandos, and above all it smells like Shadow Tactics Blades of the Shogun, the samurai game from the German studio Mimimi, the very same team that later made Desperados III and its Mexican bandits. Same view, same Japan, same pleasure in working around a guard rather than charging him: the memory is instant.
 
 Except it is a false friend, and you are better off knowing that before you buy.
 
@@ -22,11 +22,11 @@ Except it is a false friend, and you are better off knowing that before you buy.
 
 ## The right lineage is the one you did not name
 
-Commandos and Desperados are real-time tactics games: everything runs continuously, you pause, you synchronise, you pray. Expeditions Samurai is a turn-based party RPG. The visual kinship is real, the mechanical one is not.
+Shadow Tactics, like Commandos before it, is a real-time tactics game: everything runs continuously, you pause, you synchronise your four characters, you pray. Expeditions Samurai is a turn-based party RPG. The visual and thematic kinship is real, the mechanical one is not.
 
 The other game you mentioned, though, the one you spent the year on, lands perfectly. A party of companions, turn-based combat, branching dialogue, relationships that turn into friendship, rivalry or romance depending on your actions: yes, the link with Baldur's Gate 3 makes sense. Same family, tighter, and without twenty-sided dice.
 
-Small consolation for the Commandos itch: if what you really want is real-time stealth with samurai, it already exists and it is excellent. It is called Shadow Tactics Blades of the Shogun, from the same Mimimi behind Desperados III. Treat yourself alongside this one.
+So if what you really have is the Shadow Tactics itch, the stopwatch stealth where you queue up four simultaneous actions before setting them all off at once, Expeditions Samurai will not scratch it. You are better off relaunching Shadow Tactics, which has not aged a day, and taking this one for what it is.
 
 ## What the game actually offers
 

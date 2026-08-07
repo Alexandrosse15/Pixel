@@ -14,7 +14,7 @@ gameName: "Expeditions: Samurai"
 featured: false
 ---
 
-Première sensation en lançant Expeditions Samurai : les mains se remettent d'elles-mêmes dans une position connue. Vue du dessus, petite escouade, gardes à contourner, infiltration. Ça sent le Commandos, et ça sent surtout ce jeu de bandits mexicains et de cow-boys du même sang, celui dont on ne retrouve jamais le nom du premier coup : Desperados III, signé Mimimi.
+Première sensation en lançant Expeditions Samurai : les mains se remettent d'elles-mêmes dans une position connue. Vue du dessus, petite escouade, gardes à contourner, infiltration. Ça sent le Commandos, et ça sent surtout Shadow Tactics Blades of the Shogun, le jeu de samouraïs du studio allemand Mimimi, celui-là même qui a signé plus tard le Desperados III des bandits mexicains. Même vue, même Japon, même plaisir de contourner un garde plutôt que de lui foncer dessus : la réminiscence est immédiate.
 
 Sauf que c'est un faux ami, et il vaut mieux le savoir avant d'acheter.
 
@@ -22,11 +22,11 @@ Sauf que c'est un faux ami, et il vaut mieux le savoir avant d'acheter.
 
 ## La bonne filiation, c'est celle que vous ne citiez pas
 
-Commandos et Desperados sont des jeux de tactique en temps réel : tout se déroule en continu, on met en pause, on synchronise, on prie. Expeditions Samurai est un RPG de groupe au tour par tour. La parenté visuelle est réelle, la parenté mécanique non.
+Shadow Tactics, comme Commandos avant lui, est un jeu de tactique en temps réel : tout se déroule en continu, on met en pause, on synchronise ses quatre personnages, on prie. Expeditions Samurai est un RPG de groupe au tour par tour. La parenté visuelle et thématique est réelle, la parenté mécanique non.
 
 En revanche, l'autre jeu que vous avez cité, celui sur lequel vous avez passé l'année, tombe parfaitement juste. Un groupe de compagnons, des combats au tour par tour, des dialogues à embranchements, des relations qui virent à l'amitié, à la rivalité ou à la romance selon vos actes : oui, c'est logique de faire le lien avec Baldur's Gate 3. C'est la même famille, en plus resserré et sans dés à vingt faces.
 
-Petite consolation pour la démangeaison Commandos : si c'est vraiment de l'infiltration temps réel avec des samouraïs que vous voulez, elle existe déjà et elle est excellente. Elle s'appelle Shadow Tactics Blades of the Shogun, du même Mimimi que Desperados III. Faites-vous ce plaisir en parallèle.
+Donc si c'est vraiment la démangeaison Shadow Tactics que vous avez, celle de l'infiltration au chronomètre où l'on prépare quatre actions simultanées avant de tout déclencher, Expeditions Samurai ne la grattera pas. Le mieux est encore de relancer Shadow Tactics, qui n'a pas pris une ride, et de prendre celui-ci pour ce qu'il est.
 
 ## Ce que le jeu propose vraiment
 
