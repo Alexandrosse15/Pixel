@@ -52,3 +52,9 @@ The second is the narrowness of the proposition. An artillery simulator made of 
 For everyone else, it is a singular and frankly gutsy success. Two people took a blind spot of the war game, carried it all the way to moral nausea, and pulled a mechanical experience out of it that exists nowhere else. We wanted more dieselpunk after Iron Harvest; we did not expect it to come back through the sighting hole, with dirty hands.
 
 ![IRON NEST, the colossal turret and the battlefield reshaped by shells](/images/ironnest/screenshot-3.webp)
+
+## The promo code
+
+Gamesplanet has given us a discount code for our readers: **IRONNEST**, to be entered at checkout, for 29 percent off the game.
+
+*Transparency: this code was provided to us by Gamesplanet, where our purchase link is affiliated. Neither the code nor the affiliation influenced the score or the content of this review, which was written before the offer was put to us. We were not able to test the code's validity ourselves, and its terms and duration are set by the retailer.*

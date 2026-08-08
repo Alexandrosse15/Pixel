@@ -52,3 +52,9 @@ La seconde est l'étroitesse de la proposition. Un simulateur d'artillerie fait 
 Pour les autres, c'est une réussite singulière et franchement culottée. Deux personnes ont pris un angle mort du jeu de guerre, l'ont assumé jusqu'à la nausée morale, et en ont tiré une expérience mécanique qu'on ne trouve nulle part ailleurs. On voulait revoir du dieselpunk après Iron Harvest ; on ne pensait pas qu'on nous le rendrait par le trou de visée, avec les mains sales.
 
 ![IRON NEST, la tourelle colossale et le champ de bataille remodele par les obus](/images/ironnest/screenshot-3.webp)
+
+## Le code promo
+
+Gamesplanet nous a fourni un code de réduction pour nos lecteurs : **IRONNEST**, à saisir au moment du paiement, pour 29 % de remise sur le jeu.
+
+*Transparence : ce code nous a été transmis par Gamesplanet, chez qui notre lien d'achat est affilié. Ni le code ni l'affiliation n'ont pesé sur la note ni sur le contenu de ce test, écrit avant que l'offre ne nous soit proposée. Nous n'avons pas pu tester nous-mêmes la validité du code, dont les conditions et la durée dépendent du revendeur.*
