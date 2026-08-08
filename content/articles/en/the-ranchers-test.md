@@ -1,57 +1,75 @@
 ---
-title: "The Ranchers: the country-life dream in co-op, with monsters down the mines"
-seoTitle: "The Ranchers: review of the country-life sim"
+title: "The Ranchers: 245,000 euros raised, four years of waiting, and an Early Access stripped of almost everything that made it exciting"
+seoTitle: "The Ranchers: review of the Early Access country-life sim"
 slug: "the-ranchers-test"
 category: "tests"
-excerpt: "Raise, farm, build and explore an open world with four. A generous, friendly country-life sim, still a little green at its Early Access launch."
+excerpt: "Fishing, hunting, mines, dungeons, monsters: everything that set The Ranchers apart is absent at launch. What remains is merely functional."
 date: "2026-07-30"
 author: "Alexandrosse"
-readTime: "7 min"
-score: 7
+readTime: "8 min"
+score: 4.5
 image_color: "from-lime-950 via-green-950 to-stone-950"
 coverImage: "/images/theranchers/screenshot-1.webp"
 gameName: "The Ranchers"
 featured: false
 ---
 
-The fantasy of dropping everything to raise chickens in the countryside has fed a whole industry of farming games. The Ranchers adds two ingredients that make the difference: an open world to explore and up to three friends to share the chores. The result is a generous, warm country-life sim, still a little green in places, but whose potential is obvious.
+*Updated 8 August 2026. Our original review, published at launch, described an open world populated with mines and monsters and awarded a score of 7. On verification, none of that content is in the game: it appeared in the crowdfunding campaign and in the trailers, not in the shipped build. We repeated promotional material without checking it against the product. The article has been rewritten and the score revised accordingly. The error was ours, and correcting it is the least we can do.*
+
+The fantasy of dropping everything to raise chickens in the countryside has fed a whole industry. The Ranchers promised to add what its rivals lack: a real open world, fishing, hunting, mines, dungeons, wild islands, shipwrecks and monsters. A farming game that would also be an adventure.
+
+The game launched into Early Access on 30 July 2026. None of that is in it.
 
 ![The Ranchers, country life in an open world](/images/theranchers/screenshot-1.webp)
 
-## The context
+## What is left, and roughly works
 
-The Ranchers is developed by RedPilz Studio and published by Trophy Games, available on PC via Steam in Early Access. It is an open-world country-life sim for one to four players, where you raise animals, grow crops, craft tools and machines, build your dream house and explore a vast territory while earning the villagers' respect. The game was highly anticipated, with more than 350,000 players wishlisting it on Steam, a sign of real appetite for this formula that marries farm management and cooperative adventure.
+Let us be fair before being harsh. There is a farming game inside The Ranchers, and it is not shameful. You buy plots of land, gather resources, turn them at the workbench into fences, sprinklers and greenhouses. You build barns and coops, raise animals, grow crops.
 
-## The gameplay
+The management layer is even smarter than average: you optimise your ranch's consumption, sign water and electricity contracts or free yourself from them by building wells, wind turbines and solar panels, then sell your surplus to the village. Filling daily orders and selling at the market to balance the books holds up perfectly well.
 
-The heart of the game is the farmer-builder's loop: raise, farm, craft, expand. You tend your animals, grow your crops, turn your resources into tools and machines, and develop your operation at your own pace. This loop is solid and satisfying, with the gentle but constant progression that gives the genre its charm: every new pen, every cleared field, every unlocked machine delivers that rewarding sense of watching your farm take shape under your hands. Building your house adds a welcome creative dimension, that of shaping a home that resembles you.
+The open world exists, with markets, boutiques, car dealerships, parks and a casino, and ways to get around on foot, by bike, in a pickup or a sports car. Four-player co-op works. For an evening with friends, asking for nothing more than a ranch to run together, you will have a decent time.
 
-What sets The Ranchers apart from the mass of farming games is the articulation between management and exploration. The open world is not just scenery: it teems with mines and dangerous monsters, which grafts an adventure dimension onto the farming routine and breaks the humdrum with beefier expeditions. This alternation between the calm of the farm and the thrill of exploration gives the whole relief and avoids the monotony that often looms over the genre. And above all, everything is played in seamless co-op for up to four: a friend can join your farm at any time to help develop it, complete objectives or explore together, and it is clearly in a group that the game deploys its full friendly potential.
+## What is missing, and that was the whole point
 
-![The Ranchers, raising, farming and building your farm](/images/theranchers/screenshot-2.webp)
+Here is the problem, and it is enormous. Everything that was meant to separate The Ranchers from yet another farming game has vanished along the way.
 
-Still, the game bears the marks of its Early Access status. The content, generous, does not yet have the density or polish of the genre's established references, and some systems will benefit from being deepened and balanced over the updates. You sense a game with a solid backbone but still running in, with rough edges that recall you are playing a work in progress. It is honest of the studio to offer it this way, but you should buy knowingly: here you invest in a promise as well as a game.
+No fishing, despite ten different fish being advertised, with an animation to prove it in the trailer. No hunting, also shown in footage. No mines, no dungeons, no wild islands, no shipwrecks, no monsters. The game's current Steam page no longer mentions any of these, which is an admission in itself.
 
-The other reservation concerns technical finish and long-term content scope. A country-life sim is judged on its ability to hold you for dozens of hours, and that will depend directly on the studio's support, the addition of content and the fixing of the inevitable launch rough edges. The foundations are there, the ambition too, but the promise of a great cooperative farming game will only be confirmed over time. Solo, the experience stays pleasant but markedly less flavourful than in a group.
+The livestock has shrunk in the same proportions. Backers have catalogued what is missing: of twelve announced animals, three appear to remain. Horses, pigs, sheep, rabbits, llamas, ducks, peacocks, turkeys and ostriches are absent. On crops, of sixteen announced, roughly half are missing, including tomato, potato, grape and sweetcorn. The six promised fruit trees have not been found either.
 
-## The tech
+These tallies come from backers themselves and we have not verified every line individually, but the structural points are confirmed: no fishing, no hunting, no mines. Players note in their reviews that the studio did not even display a message flagging that this content will arrive later.
 
-Technically, The Ranchers shows an appealing production coherent with its friendly ambition. The warm art direction makes you want to settle into this world, exploration is pleasant and the seamless online co-op works well, which is essential for a game that bets so much on multiplayer. You sense a studio that understood welcome and conviviality are at the heart of the sought-after experience.
+![The Ranchers, animals, crops and building your ranch](/images/theranchers/screenshot-2.webp)
 
-The technical reservations are those of an Early Access launch. A few rough edges and imbalances are felt, the content density will need to grow, and the whole will gain comfort and finish over the updates. Nothing that breaks the pleasure on a normal session, especially with friends, but you feel the running-in, and the current state remains a promising foundation more than a finished game.
+## The crowdfunding affair
 
-![The Ranchers, the mines and monsters that spice up exploration](/images/theranchers/screenshot-3.webp)
+This story needs telling, because it explains the anger you find everywhere around this game.
 
-## The verdict
+In July 2022, RedPilz Studio launched a Kickstarter for The Ranchers. The goal was 50,000 euros. It was met in under a day. By the close, the project had raised 245,544 euros from 3,629 backers, nearly five times the amount requested. A PC release was announced for late 2023.
 
-The Ranchers lays good foundations for a generous, friendly country-life sim. Its solid farming loop, its clever articulation between management and exploration, and above all its seamless four-player co-op make it a warm game, built for evenings with friends building a shared operation. The ambition is there, and the pleasure of playing together is immediate.
+The game arrived in Early Access on 30 July 2026. Almost three years late, in a state many players describe as very close to the demo that had been circulating beforehand.
 
-Its limits are those of an Early Access: content still to be densified, systems to balance and a finish to perfect, all dependent on the studio's support. It is a game to watch closely, highly recommendable in a group right now, but whose full potential will reveal itself over the updates. If the idea of a country life shared with friends, punctuated by expeditions into monster-filled mines, speaks to you, there is a fine playground in the making here.
+The most delicate point concerns the team. In the Risks and Challenges section of the campaign, the developer wrote that after starting alone in 2016 he was fortunate to be backed by a whole team of passionate, talented people, and promised regular, honest communication along with a public roadmap to guarantee maximum transparency. The campaign displayed more than a dozen people at the time. Ethan Amyne now states he is the project's only full-time employee.
 
-**A generous, warm cooperative country-life sim, with a fine promise still a little green at launch.**
+I will not call this campaign a lie, because that is an accusation for a courtroom, not a review. A studio can shrink, a project can derail, and none of that establishes intent to deceive. But the facts speak for themselves: a sum raised five times over target, three years of delay, a team gone from more than ten people to one, and a list of features promised in motion that are not in the product. Backers are entitled to be furious, and their complaints about community moderation, with posts deleted and questions about progress punished, do not help.
 
-Score: 7/10
+## The state of the shipped build
 
----
+Beyond the missing content, the finish is a problem. House building, a pillar of the game, is the most frequent target of criticism: awkward mechanics, and players report blockers, such as a roof the game refuses to register as finished, which halts progression outright.
 
-*Reviewed on the PC Early Access version.*
+The level of care shows in the details too: the first villager you meet is called Meriam, but the quest log calls her Merima. A typo on the very first character you encounter says a great deal about the proofreading.
+
+The result shows in the reception. Steam reviews are Mixed, with 57 percent positive across more than 500 reviews, and only 51 percent among French-speaking players. For a game wishlisted by more than 350,000 people, that is a failure.
+
+![The Ranchers, the open world and the village](/images/theranchers/screenshot-3.webp)
+
+## Should you buy it
+
+No, not now, and not at 25 euros.
+
+What works today is a decent co-op farming game with an interesting resource management layer. That already exists elsewhere, more complete and cheaper. What was supposed to justify the purchase, the adventure grafted onto the ranch, is not there.
+
+The studio talks about roughly six months of Early Access. At the observed pace, with one person full-time, holding that schedule while adding fishing, hunting, mines, dungeons, monsters, nine animals and eight crops would be a feat. Several players openly fear abandonment, and given the sales and the score, the hypothesis is not absurd.
+
+There is a foundation here, and a developer who could still turn this around, provided he communicates clearly about what is coming and what never will. We will revisit it. As things stand, we cannot advise anyone to pay for a promise whose essential parts have already been removed.
