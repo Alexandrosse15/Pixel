@@ -3,7 +3,7 @@ title: "The Severed Gods : oui c'est très joli, oui ça ressemble beaucoup à O
 seoTitle: "The Severed Gods : preview du RPG tactique roguelite"
 slug: "the-severed-gods-preview"
 category: "previews"
-excerpt: "Du combat en hauteur, des membres à sectionner sur des Titans, du karma. De vraies mécaniques neuves, dans un habillage qui doit encore trouver son identité."
+excerpt: "Du combat en hauteur, des membres à sectionner sur des Titans, du karma. De vraies idées neuves, dans un habillage qui cherche encore son identité."
 date: "2026-08-10"
 author: "Alexandrosse"
 readTime: "7 min"
