@@ -40,7 +40,9 @@ C'est une déclaration honnête, et il faut le porter au crédit du studio : Ste
 
 Mais ça m'a fait comprendre quelque chose sur ma propre lassitude. Si tant de simulateurs de boutique donnent l'impression de sortir du même moule, c'est que le genre est devenu un terrain de production rapide, où l'habillage visuel est ce qu'on optimise en premier, par banques d'assets hier et par génération automatique aujourd'hui. Ma fatigue n'était pas un caprice, elle constatait un mode de fabrication.
 
-Alors soyons précis dans le reproche. Le jeu ne triche pas sur ce qu'il est, ses systèmes sont bien conçus et sa couche de production est une vraie idée. Mais quand on me demande ce qui distingue celui-ci des autres, la réponse honnête est : ses mécaniques, oui, franchement. Son allure, non. Et maintenant je sais pourquoi.
+Cela dit, gardons le sens des proportions. Un petit studio qui a une bonne idée de game design n'a pas toujours de quoi salarier un artiste, et c'est une réalité économique avant d'être un choix esthétique. Entre sortir le jeu avec des assets générés et ne pas le sortir du tout, le calcul est vite fait, et personne ici ne va reprocher à une petite équipe d'avoir trouvé le moyen de livrer ses idées. La déclaration franche vaut mieux que le silence de beaucoup de productions autrement mieux financées.
+
+Alors soyons précis dans le reproche, qui ne vise pas le studio mais le résultat. Le jeu ne triche pas sur ce qu'il est, ses systèmes sont bien conçus et sa couche de production est une vraie idée. Mais quand on me demande ce qui distingue celui-ci des autres, la réponse honnête est : ses mécaniques, oui, franchement. Son allure, non. Et maintenant je sais pourquoi.
 
 ## Ce qu'il faut savoir avant d'acheter
 

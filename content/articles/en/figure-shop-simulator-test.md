@@ -40,7 +40,9 @@ That is an honest declaration, and the studio deserves credit for it: Steam requ
 
 But it made me understand something about my own weariness. If so many shop simulators feel like they came out of the same mould, it is because the genre has become a fast-production space, where the visual dressing is the first thing optimised, through asset libraries yesterday and automatic generation today. My fatigue was not a whim, it was noticing a manufacturing method.
 
-So let us be precise about the criticism. The game does not lie about what it is, its systems are well designed and its production layer is a genuine idea. But when someone asks me what sets this one apart from the others, the honest answer is: its mechanics, yes, absolutely. Its look, no. And now I know why.
+That said, let us keep a sense of proportion. A small studio with a good game design idea cannot always afford to put an artist on the payroll, and that is an economic reality before it is an aesthetic choice. Between shipping the game with generated assets and not shipping it at all, the maths is quickly done, and nobody here is going to blame a small team for finding a way to deliver its ideas. A frank declaration beats the silence of plenty of far better funded productions.
+
+So let us be precise about the criticism, which targets the result rather than the studio. The game does not lie about what it is, its systems are well designed and its production layer is a genuine idea. But when someone asks me what sets this one apart from the others, the honest answer is: its mechanics, yes, absolutely. Its look, no. And now I know why.
 
 ## What to know before buying
 
