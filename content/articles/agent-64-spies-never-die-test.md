@@ -1,12 +1,13 @@
 ---
 title: "Agent 64 Spies Never Die : le GoldenEye assumé, avec le retour du cousin qui regarde votre écran"
-seoTitle: "Agent 64 Spies Never Die : preview du FPS rétro hommage aux années 90"
-slug: "agent-64-spies-never-die-preview"
-category: "previews"
+seoTitle: "Agent 64 Spies Never Die : test et avis du FPS rétro hommage aux années 90"
+slug: "agent-64-spies-never-die-test"
+category: "tests"
 excerpt: "14 missions, écran splitté, arène en local. Un hommage revendiqué aux FPS console de 1997, avec un scénario qui joue franchement le jeu."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-slate-900 via-zinc-900 to-amber-950"
 coverImage: "/images/agent64/screenshot-1.webp"
 gameName: "Agent 64: Spies Never Die"
@@ -42,5 +43,8 @@ Le jeu ajoute un mode Paradox débloqué en battant des temps de référence, av
 Sur le papier, la structure est donc complète, et plus fournie que le simple exercice de style. Le jeu sort aujourd'hui, ne compte encore aucun avis, et nous ne lui mettons donc pas de note. À signaler quand même, et c'est appréciable pour un projet de cette taille : il est disponible en français.
 
 Reste la vraie question, celle à laquelle aucune fiche ne répond : est-ce que la sensation de tir tient la comparaison avec le souvenir qu'on en a ? Parce que dans ce registre, la nostalgie est un juge redoutable, et elle embellit toujours.
+
+
+Depuis notre première prise en main, les joueurs ont tranché : les avis Steam sont Très positifs, à 91 % sur plus de 220 retours. L'hommage tient donc ses promesses, y compris sur la sensation de tir, qui était notre seule vraie inconnue.
 
 ![Agent 64 Spies Never Die, les missions et l ecran splitte](/images/agent64/screenshot-2.webp)

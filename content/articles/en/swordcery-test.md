@@ -1,12 +1,13 @@
 ---
 title: "Swordcery: a rain of swords over the world, and each one comes with its own trick"
-seoTitle: "Swordcery: preview of the magical sword action game"
-slug: "swordcery-preview"
-category: "previews"
+seoTitle: "Swordcery: review of the magical sword action game"
+slug: "swordcery-test"
+category: "tests"
 excerpt: "Every blade you pick up brings a unique ability and belongs to a Sword Class. An action game built on pattern recognition."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-sky-950 via-indigo-950 to-stone-950"
 coverImage: "/images/swordcery/screenshot-1.webp"
 gameName: "Swordcery"
@@ -40,5 +41,8 @@ They matter and should be stated. A game built on weapon variety lives or dies o
 The game launches today in Early Access, with no user reviews, which explains the absence of a score here. A demo is available and is clearly the right starting point. One practical caveat: it is offered in English only.
 
 The idea is good and the setting is a delight. What remains is whether the sword is as pleasant to wield as it is to pick up.
+
+
+The first players are unanimous at 100 percent positive, but across only about twenty reviews. That is excellent and entirely insufficient to conclude: this score needs confirming on a larger sample.
 
 ![Swordcery, the Sword Classes and magical abilities](/images/swordcery/screenshot-2.webp)

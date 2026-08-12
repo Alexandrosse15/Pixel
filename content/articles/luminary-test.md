@@ -1,12 +1,13 @@
 ---
 title: "Luminary : deux personnes, un ARPG en monde ouvert, et une honnêteté qu'on aimerait voir plus souvent"
-seoTitle: "Luminary : preview de l'ARPG-lite coopératif en monde ouvert"
-slug: "luminary-preview"
-category: "previews"
+seoTitle: "Luminary : test et avis de l'ARPG-lite coopératif en monde ouvert"
+slug: "luminary-test"
+category: "tests"
 excerpt: "Un ARPG accessible, jouable en coop sans friction, par un studio de deux personnes qui dit clairement ce qui manquera au lancement."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7
 image_color: "from-teal-950 via-emerald-950 to-slate-950"
 coverImage: "/images/luminary/screenshot-1.webp"
 gameName: "Luminary"
@@ -36,5 +37,8 @@ La rejouabilité annoncée repose sur la reprise de l'expérience en difficulté
 Aucun avis utilisateur n'existe à l'heure où nous écrivons, le jeu sortant aujourd'hui, d'où l'absence de note. Bon point : il est disponible en français.
 
 Pour une équipe de deux personnes, l'ambition est déjà considérable, et l'approche accessible peut trouver son public chez ceux que Diablo et consorts intimident. Il faudra simplement acheter en sachant qu'on finance une trajectoire, pas un jeu terminé.
+
+
+Les premiers retours sont arrivés et ils sont cohérents avec la promesse : 73 % d'avis positifs sur plus de 150 retours, soit un Plutôt positif. Pour un jeu que deux personnes annoncent volontairement incomplet, c'est un départ correct.
 
 ![Luminary, l exploration et le combat en temps reel](/images/luminary/screenshot-2.webp)

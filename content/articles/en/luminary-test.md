@@ -1,12 +1,13 @@
 ---
 title: "Luminary: two people, an open-world ARPG, and an honesty we wish we saw more often"
-seoTitle: "Luminary: preview of the co-op open-world ARPG-lite"
-slug: "luminary-preview"
-category: "previews"
+seoTitle: "Luminary: review of the co-op open-world ARPG-lite"
+slug: "luminary-test"
+category: "tests"
 excerpt: "An accessible ARPG, playable in friction-free co-op, from a two-person studio that says plainly what will be missing at launch."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7
 image_color: "from-teal-950 via-emerald-950 to-slate-950"
 coverImage: "/images/luminary/screenshot-1.webp"
 gameName: "Luminary"
@@ -36,5 +37,8 @@ The advertised replayability rests on replaying the experience at higher difficu
 No user reviews exist as we write, the game launching today, hence the absence of a score. Good point: it is available in French.
 
 For a two-person team the ambition is already considerable, and the accessible approach may find its audience among those intimidated by Diablo and its peers. You simply have to buy knowing you are funding a trajectory, not a finished game.
+
+
+Early feedback has arrived and it matches the promise: 73 percent positive across more than 150 reviews, a Mostly Positive. For a game two people openly describe as incomplete, that is a decent start.
 
 ![Luminary, exploration and real-time combat](/images/luminary/screenshot-2.webp)

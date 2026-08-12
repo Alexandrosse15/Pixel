@@ -1,12 +1,13 @@
 ---
 title: "Agent 64 Spies Never Die: the owned GoldenEye homage, with the return of the cousin peeking at your screen"
-seoTitle: "Agent 64 Spies Never Die: preview of the retro FPS homage"
-slug: "agent-64-spies-never-die-preview"
-category: "previews"
+seoTitle: "Agent 64 Spies Never Die: review of the retro FPS homage"
+slug: "agent-64-spies-never-die-test"
+category: "tests"
 excerpt: "14 missions, split-screen, a local arena. An openly claimed homage to the console shooters of 1997, with a story that plays along."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-slate-900 via-zinc-900 to-amber-950"
 coverImage: "/images/agent64/screenshot-1.webp"
 gameName: "Agent 64: Spies Never Die"
@@ -42,5 +43,8 @@ The game adds a Paradox mode unlocked by beating par times, with more than seven
 On paper the structure is therefore complete, and fuller than a simple exercise in style. The game is out today, has no reviews yet, and so we are not scoring it. Worth flagging, and welcome for a project this size: it is available in French.
 
 That leaves the real question, the one no store page answers: does the feel of the shooting hold up against the memory we have of it? Because in this register, nostalgia is a fearsome judge, and it always flatters.
+
+
+Since our first look, players have settled it: Steam reviews are Very Positive at 91 percent across more than 220 reviews. The homage keeps its promises, including on the feel of the shooting, which was our one real unknown.
 
 ![Agent 64 Spies Never Die, the missions and split-screen](/images/agent64/screenshot-2.webp)

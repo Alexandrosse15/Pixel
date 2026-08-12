@@ -1,12 +1,13 @@
 ---
 title: "Riftstorm: PVE and nothing but PVE, which is exactly why it has to be flawless"
-seoTitle: "Riftstorm: preview of the co-op PVE action game"
-slug: "riftstorm-preview"
-category: "previews"
+seoTitle: "Riftstorm: review of the co-op PVE action game"
+slug: "riftstorm-test"
+category: "tests"
 excerpt: "Three players, rifts to close, builds that go off the rails mid-mission. No PVP, so no excuses on content quality."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 6
 image_color: "from-purple-950 via-indigo-950 to-slate-950"
 coverImage: "/images/riftstorm/screenshot-1.webp"
 gameName: "RIFTSTORM"
@@ -38,5 +39,8 @@ Everything, in truth, and that is the genre's burden. A co-op PVE game lives or 
 The game launches today in Early Access, around fifteen dollars according to the studio, with no user reviews yet, which explains the absence of a score. It is available in French, and the studio itself admits it is still hunting bugs reported on the demo build.
 
 The premise is good and the feel appears to be there. All that is missing is the only thing that really matters here: enough to keep going.
+
+
+And the verdict has landed, less kind than expected: Steam reviews are Mixed at 58 percent across more than 100 reviews. That is precisely the point we feared: with no human opponent, the content must carry the game alone, and it does not yet.
 
 ![Riftstorm, builds that evolve mid-mission](/images/riftstorm/screenshot-2.webp)

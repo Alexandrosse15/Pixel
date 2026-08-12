@@ -1,12 +1,13 @@
 ---
 title: "Pax Autocratica : dites-nous régime totalitaire, ajoutez des mechas, et nous voilà parfaitement heureux"
-seoTitle: "Pax Autocratica : preview du colony sim totalitaire et FPS roguelite"
-slug: "pax-autocratica-preview"
-category: "previews"
+seoTitle: "Pax Autocratica : test et avis du colony sim totalitaire et FPS roguelite"
+slug: "pax-autocratica-test"
+category: "tests"
 excerpt: "Un colony sim totalitaire soudé à un FPS roguelite avec des mechas et du bullet hell. Superbe, drôle, et beaucoup moins innocent qu'il n'en a l'air."
 date: "2026-08-10"
 author: "Alexandrosse"
 readTime: "8 min"
+score: 8
 image_color: "from-red-950 via-amber-950 to-zinc-950"
 coverImage: "/images/paxautocratica/screenshot-1.webp"
 gameName: "Pax Autocratica"
@@ -64,5 +65,8 @@ Le studio, lui, a une réponse claire. Son fondateur affirme construire ce jeu p
 Reste que l'écart entre l'intention et la réception ne se contrôle jamais totalement. Ce sera à eux de tenir la barre, et à nous de continuer à rire jaune.
 
 En attendant, oui : un État totalitaire, des mechas, du bullet hell et des prisonniers à convertir, dans un jeu qui a la décence d'être beau et de savoir de quoi il parle. Une démo et un prologue gratuits sont disponibles pour se faire une idée avant de payer, et vu qu'il s'agit d'un accès anticipé, c'est exactement ce qu'il faut faire.
+
+
+Les joueurs ont désormais tranché, et largement : les avis Steam sont Très positifs, à 89 % sur plus de 700 retours. Pour un accès anticipé qui mélange colony sim et FPS, c'est un accueil qui valide le pari du studio.
 
 ![Pax Autocratica, la gestion des citoyens et de la colonie](/images/paxautocratica/screenshot-3.webp)

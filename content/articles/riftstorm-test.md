@@ -1,12 +1,13 @@
 ---
 title: "Riftstorm : du PVE et rien que du PVE, et c'est exactement pour ça qu'il doit être irréprochable"
-seoTitle: "Riftstorm : preview du jeu d'action coopératif PVE"
-slug: "riftstorm-preview"
-category: "previews"
+seoTitle: "Riftstorm : test et avis du jeu d'action coopératif PVE"
+slug: "riftstorm-test"
+category: "tests"
 excerpt: "Trois joueurs, des failles à refermer, des builds qui dérapent en cours de mission. Pas de PVP, donc aucune excuse sur la qualité du contenu."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 6
 image_color: "from-purple-950 via-indigo-950 to-slate-950"
 coverImage: "/images/riftstorm/screenshot-1.webp"
 gameName: "RIFTSTORM"
@@ -38,5 +39,8 @@ Tout, en réalité, et c'est le lot du genre. Un jeu coopératif PVE vit ou meur
 Le jeu sort aujourd'hui en accès anticipé, autour de quinze dollars selon les indications du studio, sans avis utilisateur pour l'instant, ce qui explique l'absence de note. Il est disponible en français, et le studio reconnaît lui-même chasser encore des bugs remontés sur la version de démonstration.
 
 Le principe est bon, la sensation de jeu semble là. Il ne manque plus que la seule chose qui compte vraiment ici : de quoi tenir.
+
+
+Et le verdict est tombé, moins tendre que prévu : les avis Steam sont Mitigés, à 58 % sur plus de 100 retours. C'est exactement le point que nous redoutions : sans adversaire humain, le contenu doit porter le jeu seul, et il n'y parvient pas encore.
 
 ![Riftstorm, les builds qui evoluent en cours de mission](/images/riftstorm/screenshot-2.webp)

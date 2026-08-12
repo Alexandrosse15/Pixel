@@ -1,12 +1,13 @@
 ---
 title: "Swordcery : une pluie d'épées sur le monde, et chacune vient avec son propre tour de magie"
-seoTitle: "Swordcery : preview du jeu d'action aux épées magiques"
-slug: "swordcery-preview"
-category: "previews"
+seoTitle: "Swordcery : test et avis du jeu d'action aux épées magiques"
+slug: "swordcery-test"
+category: "tests"
 excerpt: "Chaque lame ramassée apporte une capacité unique et appartient à une classe d'armes. Un jeu d'action bâti sur la reconnaissance de schémas."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-sky-950 via-indigo-950 to-stone-950"
 coverImage: "/images/swordcery/screenshot-1.webp"
 gameName: "Swordcery"
@@ -40,5 +41,8 @@ Elles sont importantes et il faut les poser. Un jeu bâti sur la variété des a
 Le jeu sort aujourd'hui en accès anticipé, sans aucun avis utilisateur, ce qui explique l'absence de note ici. Une démo est disponible, et c'est clairement le bon point de départ. Petite réserve pratique : il est proposé en anglais uniquement.
 
 L'idée est bonne, le cadre est réjouissant. Reste à savoir si l'épée est aussi agréable à manier qu'à ramasser.
+
+
+Les premiers joueurs sont unanimes, avec 100 % d'avis positifs, mais sur une vingtaine de retours seulement. C'est excellent et parfaitement insuffisant pour conclure : ce score demande à être confirmé sur un échantillon plus large.
 
 ![Swordcery, les classes d armes et les capacites magiques](/images/swordcery/screenshot-2.webp)

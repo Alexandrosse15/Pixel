@@ -1,12 +1,13 @@
 ---
 title: "AI2U With You Til The End : dix-neuf mois d'accès anticipé plus tard, la 1.0 arrive aujourd'hui"
-seoTitle: "AI2U With You Til The End : preview de la version 1.0"
-slug: "ai2u-with-you-til-the-end-preview"
-category: "previews"
+seoTitle: "AI2U With You Til The End : test et avis de la version 1.0"
+slug: "ai2u-with-you-til-the-end-test"
+category: "tests"
 excerpt: "Des personnages pilotés par un modèle de langage qui réagissent à vos actes. Pas beau, mais très bien accueilli, et pas pour la raison qu'on croit."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-pink-950 via-rose-950 to-slate-900"
 coverImage: "/images/ai2u/screenshot-1.webp"
 gameName: "AI2U: With You 'Til The End"
@@ -52,5 +53,8 @@ Le troisième est le registre lui-même. Le thème de l'admirateur obsessionnel 
 Le jeu coûte moins de quinze euros et il est disponible en français. Nous ne lui mettons pas de note, n'y ayant pas joué, mais l'accueil des joueurs est là, et il repose sur un an et demi de version publique plutôt que sur une première impression.
 
 Une curiosité technologique, donc, dont l'intérêt tient entièrement à ce qu'elle fait avec la conversation. Pour le reste, vous aviez raison : ce n'est pas pour les yeux.
+
+
+Le verdict des joueurs est sans ambiguïté et repose sur une base rare pour ce genre de projet : les avis Steam sont Très positifs, à 89 % sur près de 1 900 retours accumulés pendant l'accès anticipé.
 
 ![AI2U With You Til The End, les fins multiples selon vos echanges](/images/ai2u/screenshot-3.webp)

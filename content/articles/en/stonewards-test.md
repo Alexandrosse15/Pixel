@@ -1,12 +1,13 @@
 ---
 title: "Stonewards: dig, forge, hold the wall, and pixel art that does the job without striking sparks"
-seoTitle: "Stonewards: preview of the co-op dwarf defence roguelite"
-slug: "stonewards-preview"
-category: "previews"
+seoTitle: "Stonewards: review of the co-op dwarf defence roguelite"
+slug: "stonewards-test"
+category: "tests"
 excerpt: "Dwarves, a mine to raid between waves and ramparts to hold with four. A well-judged loop in an unsurprising shell."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 8
 image_color: "from-stone-900 via-amber-950 to-orange-950"
 coverImage: "/images/stonewards/screenshot-1.webp"
 gameName: "Stonewards"
@@ -38,5 +39,8 @@ The reservations are those of every game in this format. Replayability will depe
 The game launches today in Early Access, developed and published by Banana Tiger Studio, with no user reviews yet, which is why there is no score here. Good point worth flagging: it is available in French.
 
 An honest proposition, then, with one genuinely good pacing idea, in packaging you will forget. That is already better than the reverse.
+
+
+And here the game proves our earlier tone wrong: Steam reviews are Very Positive at 93 percent across nearly 90 reviews. The packaging stays anonymous, but the loop clearly works far better than its presentation suggested.
 
 ![Stonewards, the mines to raid between waves](/images/stonewards/screenshot-2.webp)

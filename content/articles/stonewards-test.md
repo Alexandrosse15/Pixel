@@ -1,12 +1,13 @@
 ---
 title: "Stonewards : creuser, forger, tenir le mur, et un pixel art qui fait le travail sans faire d'étincelles"
-seoTitle: "Stonewards : preview du roguelite coopératif de défense de nains"
-slug: "stonewards-preview"
-category: "previews"
+seoTitle: "Stonewards : test et avis du roguelite coopératif de défense de nains"
+slug: "stonewards-test"
+category: "tests"
 excerpt: "Des nains, une mine à piller entre deux vagues et des remparts à tenir à quatre. Une boucle bien pensée dans un habillage sans surprise."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 8
 image_color: "from-stone-900 via-amber-950 to-orange-950"
 coverImage: "/images/stonewards/screenshot-1.webp"
 gameName: "Stonewards"
@@ -38,5 +39,8 @@ Les réserves sont celles de tous les jeux de ce format. La rejouabilité dépen
 Le jeu sort aujourd'hui en accès anticipé, développé et édité par Banana Tiger Studio, sans aucun avis utilisateur pour l'instant, ce qui explique l'absence de note ici. Bon point à signaler : il est disponible en français.
 
 Une proposition honnête, donc, avec une vraie bonne idée de rythme, dans un emballage qu'on oubliera. C'est déjà mieux que l'inverse.
+
+
+Et c'est là que le jeu nous donne tort sur le ton employé plus haut : les avis Steam sont Très positifs, à 93 % sur près de 90 retours. L'habillage reste anonyme, mais la boucle fonctionne manifestement bien mieux que sa présentation ne le laissait croire.
 
 ![Stonewards, les mines a piller entre deux vagues](/images/stonewards/screenshot-2.webp)

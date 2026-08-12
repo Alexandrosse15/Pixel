@@ -1,12 +1,13 @@
 ---
 title: "Hell Galaxy: while Star Citizen banked its billionth dollar, other studios were shipping spaceship games"
-seoTitle: "Hell Galaxy: preview of the space shooter with a bio-ship pilot"
-slug: "hell-galaxy-preview"
-category: "previews"
+seoTitle: "Hell Galaxy: review of the space shooter with a bio-ship pilot"
+slug: "hell-galaxy-test"
+category: "tests"
 excerpt: "An ex-convict fused into a ship, with a sanity gauge to watch as closely as the hull. Out for a year, and unfairly overlooked."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-red-950 via-purple-950 to-slate-900"
 coverImage: "/images/hellgalaxy/screenshot-1.webp"
 gameName: "HELL GALAXY"
@@ -46,5 +47,8 @@ The game remains in Early Access, which is why we are not scoring it here, and i
 The reservations belong to the format. A solo space shooter built on customisation and exploration must prove it has enough content to last, and the review sample remains modest. The sanity mechanic in particular will only be worth something if it forces genuine trade-offs rather than adding a second bar to watch.
 
 But the essential point lies elsewhere, and it meets your irritation head on. This game exists, it plays, it costs the price of an indie title, and it offers an idea nobody else had. Perhaps that is the answer to fourteen years of waiting: stop waiting.
+
+
+After a year of public release, reception settles at 76 percent positive across eighty reviews, an honest Mostly Positive. That is the score of a good niche game that has not yet convinced beyond its natural audience.
 
 ![Hell Galaxy, the combat and the sanity gauge](/images/hellgalaxy/screenshot-3.webp)

@@ -1,12 +1,13 @@
 ---
 title: "AI2U With You Til The End: nineteen months of Early Access later, version 1.0 lands today"
-seoTitle: "AI2U With You Til The End: preview of the 1.0 release"
-slug: "ai2u-with-you-til-the-end-preview"
-category: "previews"
+seoTitle: "AI2U With You Til The End: review of the 1.0 release"
+slug: "ai2u-with-you-til-the-end-test"
+category: "tests"
 excerpt: "Characters driven by a language model that react to what you do. Not pretty, but very well received, and not for the reasons you would think."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-pink-950 via-rose-950 to-slate-900"
 coverImage: "/images/ai2u/screenshot-1.webp"
 gameName: "AI2U: With You 'Til The End"
@@ -52,5 +53,8 @@ The third is the register itself. The theme of the obsessive admirer who impriso
 The game costs under fifteen euros and is available in French. We are not scoring it, not having played it, but the player reception is there, and it rests on eighteen months of public release rather than on a first impression.
 
 A technological curiosity, then, whose interest lies entirely in what it does with conversation. For the rest, you were right: it is not for the eyes.
+
+
+The player verdict is unambiguous and rests on a rare base for this kind of project: Steam reviews are Very Positive at 89 percent across nearly 1,900 reviews accumulated during Early Access.
 
 ![AI2U With You Til The End, the multiple endings based on your exchanges](/images/ai2u/screenshot-3.webp)

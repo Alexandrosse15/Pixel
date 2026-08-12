@@ -1,12 +1,13 @@
 ---
 title: "Car Wash Simulator: we feared students in bikinis, we found secret plantations instead"
-seoTitle: "Car Wash Simulator: preview of the car detailing simulator"
-slug: "car-wash-simulator-preview"
-category: "previews"
+seoTitle: "Car Wash Simulator: review of the car detailing simulator"
+slug: "car-wash-simulator-test"
+category: "tests"
 excerpt: "Against PowerWash Simulator it adds a property empire, timed challenges and a black market. But its demo convinced only one player in two."
 date: "2026-08-10"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 5
 image_color: "from-cyan-950 via-sky-950 to-slate-950"
 coverImage: "/images/carwashsimulator/screenshot-1.webp"
 gameName: "Car Wash Simulator"
@@ -54,5 +55,12 @@ The numbers deserve a straight look, because they temper the enthusiasm consider
 Next, this is Early Access, and the starting content is modest: two districts, around ten car washes, six cars and a single save slot. The studio Majestic Twelve announces roughly double for the final version, meaning four districts, twenty car washes and three save slots. So you are buying half a game, with the promise of the other half.
 
 The bet is interesting: where PowerWash succeeded by staying pure and focused on a single sensation, this one stacks cleaning, property management, timers, crime and mini-games. That can produce a richer game, or one that does nothing as well as its model. The demo is free, and given the reception it got, that is clearly where to start.
+
+
+## What players have said since
+
+Caution was warranted. Since release, Steam reviews are Mixed at 41 percent positive across around fifty ratings. That is lower still than the demo's 50 percent, which suggests the move to a full version did not convince.
+
+The gap with PowerWash Simulator and its 97 percent therefore becomes a chasm, and it confirms our main reservation: stacking cleaning, property management, timers, crime and mini-games produces a game that does nothing as well as its model. The free demo remains the only reasonable starting point.
 
 ![Car Wash Simulator, the mini-games and the shopping plaza](/images/carwashsimulator/screenshot-3.webp)

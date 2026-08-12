@@ -1,12 +1,13 @@
 ---
 title: "Sword & Shield Simulator : la forge poste par poste, et un monde médiéval autour pour souffler"
-seoTitle: "Sword & Shield Simulator : preview du simulateur de forge médiévale"
-slug: "sword-shield-simulator-preview"
-category: "previews"
+seoTitle: "Sword & Shield Simulator : test et avis du simulateur de forge médiévale"
+slug: "sword-shield-simulator-test"
+category: "tests"
 excerpt: "Fondre, marteler, affûter, ciseler, puis composer ses propres armes pièce par pièce. Un simulateur de forge qui va plus loin que l'enclume."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 3.5
 image_color: "from-orange-950 via-red-950 to-stone-900"
 coverImage: "/images/swordshieldsim/screenshot-1.webp"
 gameName: "Sword & Shield Simulator"
@@ -40,5 +41,14 @@ Le jeu sort aujourd'hui en accès anticipé, édité par Wildlands Interactive a
 Les points à surveiller sont classiques mais décisifs : la sensation du geste, qui fait tout dans ce genre, et l'équilibrage économique, qui doit récompenser le travail soigné sans transformer chaque commande en corvée. La partie aventure devra également éviter d'être un remplissage anecdotique entre deux séances de martelage.
 
 Bon point à signaler : le jeu est disponible en français.
+
+
+## Le verdict des joueurs, et il est sévère
+
+Il faut revenir sur le ton mesuré de ces lignes, parce que la réception a tranché beaucoup plus durement que prévu. Les avis Steam sont Négatifs, avec seulement 15 % de retours positifs sur une vingtaine d'évaluations.
+
+C'est un score très bas, y compris pour un accès anticipé, et il touche précisément les deux points que nous avions identifiés comme décisifs : la sensation du geste et l'équilibrage économique. Quand un simulateur de métier rate son toucher, il ne reste qu'une suite de corvées, et la couche d'aventure autour ne rattrape rien.
+
+L'échantillon reste modeste et un accès anticipé peut se redresser, cela s'est déjà vu. Mais en l'état, difficile de recommander l'achat à qui que ce soit. Attendez plusieurs mises à jour, ou passez votre chemin.
 
 ![Sword and Shield Simulator, le concepteur d armes et le commerce](/images/swordshieldsim/screenshot-2.webp)

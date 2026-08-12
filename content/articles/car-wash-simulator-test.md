@@ -1,12 +1,13 @@
 ---
 title: "Car Wash Simulator : on redoutait les étudiantes en bikini, on tombe sur des plantations clandestines"
-seoTitle: "Car Wash Simulator : preview du simulateur de lavage auto"
-slug: "car-wash-simulator-preview"
-category: "previews"
+seoTitle: "Car Wash Simulator : test et avis du simulateur de lavage auto"
+slug: "car-wash-simulator-test"
+category: "tests"
 excerpt: "Face à PowerWash Simulator, il ajoute un empire immobilier, des défis chronométrés et un marché noir. Mais sa démo n'a convaincu qu'un joueur sur deux."
 date: "2026-08-10"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 5
 image_color: "from-cyan-950 via-sky-950 to-slate-950"
 coverImage: "/images/carwashsimulator/screenshot-1.webp"
 gameName: "Car Wash Simulator"
@@ -54,5 +55,12 @@ Il faut regarder les chiffres en face, parce qu'ils tempèrent sérieusement l'e
 Ensuite, c'est un accès anticipé, et le contenu de départ est mesuré : deux quartiers, une dizaine de stations, six voitures et un seul emplacement de sauvegarde. Le studio Majestic Twelve annonce environ le double pour la version finale, soit quatre quartiers, une vingtaine de stations et trois sauvegardes. Vous achetez donc la moitié d'un jeu, avec la promesse de l'autre.
 
 Le pari est intéressant : là où PowerWash a réussi en restant pur et concentré sur une seule sensation, celui-ci empile le nettoyage, la gestion immobilière, le chrono, le crime et les mini-jeux. Ça peut donner un jeu plus riche, ou un jeu qui ne fait rien d'aussi bien que son modèle. La démo est gratuite, et vu l'accueil qu'elle a reçu, c'est clairement par là qu'il faut commencer.
+
+
+## Ce que disent les joueurs depuis
+
+La prudence était justifiée. Après la sortie, les avis Steam sont Mitigés, à 41 % de retours positifs sur une cinquantaine d'évaluations. C'est encore plus bas que les 50 % de la démo, ce qui indique que le passage à la version complète n'a pas convaincu.
+
+L'écart avec PowerWash Simulator et ses 97 % devient donc un gouffre, et il valide notre réserve principale : empiler le nettoyage, la gestion immobilière, le chrono, le crime et les mini-jeux produit un jeu qui ne fait rien d'aussi bien que son modèle. La démo gratuite reste le seul point de départ raisonnable.
 
 ![Car Wash Simulator, les mini-jeux et la galerie marchande](/images/carwashsimulator/screenshot-3.webp)

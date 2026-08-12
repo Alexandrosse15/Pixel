@@ -1,12 +1,13 @@
 ---
 title: "Hell Galaxy : pendant que Star Citizen encaissait son milliardième dollar, des studios livraient des jeux de vaisseaux"
-seoTitle: "Hell Galaxy : preview du shooter spatial et de son pilote bio-vaisseau"
-slug: "hell-galaxy-preview"
-category: "previews"
+seoTitle: "Hell Galaxy : test et avis du shooter spatial et de son pilote bio-vaisseau"
+slug: "hell-galaxy-test"
+category: "tests"
 excerpt: "Un ex-détenu fusionné à un vaisseau, une jauge de santé mentale à surveiller autant que la coque. Sorti depuis un an, et injustement discret."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-red-950 via-purple-950 to-slate-900"
 coverImage: "/images/hellgalaxy/screenshot-1.webp"
 gameName: "HELL GALAXY"
@@ -46,5 +47,8 @@ Le jeu reste en accès anticipé, ce qui explique qu'on ne lui mette pas de note
 Les réserves sont celles du format. Un shooter spatial solo bâti sur la personnalisation et l'exploration doit prouver qu'il a assez de contenu pour tenir sur la durée, et l'échantillon d'avis reste modeste. La mécanique de santé mentale, en particulier, ne vaudra que si elle impose de vrais arbitrages plutôt qu'une seconde barre à surveiller.
 
 Mais l'essentiel est ailleurs, et rejoint votre agacement. Ce jeu existe, il se joue, il coûte le prix d'un jeu indépendant, et il propose une idée que personne d'autre n'a eue. C'est peut-être ça, finalement, la réponse à quatorze ans d'attente : ne pas attendre.
+
+
+Après un an de version publique, l'accueil se stabilise à 76 % d'avis positifs sur quatre-vingts retours, soit un Plutôt positif honnête. C'est le score d'un bon jeu de niche qui n'a pas encore convaincu au-delà de son public naturel.
 
 ![Hell Galaxy, les combats et la jauge de sante mentale](/images/hellgalaxy/screenshot-3.webp)

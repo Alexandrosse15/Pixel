@@ -1,12 +1,13 @@
 ---
 title: "Sword & Shield Simulator: the forge station by station, and a medieval world outside to catch your breath"
-seoTitle: "Sword & Shield Simulator: preview of the medieval blacksmithing sim"
-slug: "sword-shield-simulator-preview"
-category: "previews"
+seoTitle: "Sword & Shield Simulator: review of the medieval blacksmithing sim"
+slug: "sword-shield-simulator-test"
+category: "tests"
 excerpt: "Smelt, hammer, grind, chisel, then compose your own weapons piece by piece. A forge simulator that goes beyond the anvil."
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 3.5
 image_color: "from-orange-950 via-red-950 to-stone-900"
 coverImage: "/images/swordshieldsim/screenshot-1.webp"
 gameName: "Sword & Shield Simulator"
@@ -40,5 +41,14 @@ The game launches today in Early Access, published by Wildlands Interactive with
 The points to watch are classic but decisive: the feel of the work, which is everything in this genre, and the economic balance, which must reward careful craft without turning every order into a chore. The adventure portion will also need to avoid being incidental filler between hammering sessions.
 
 Good point worth flagging: the game is available in French.
+
+
+## The player verdict, and it is harsh
+
+We have to revisit the measured tone of these lines, because reception has judged far more harshly than expected. Steam reviews are Negative, with only 15 percent positive across around twenty ratings.
+
+That is a very low score, even for Early Access, and it strikes precisely the two points we identified as decisive: the feel of the work and the economic balance. When a trade simulator misses its touch, all that remains is a series of chores, and the adventure layer around it rescues nothing.
+
+The sample stays modest and an Early Access game can recover, it has happened before. But as things stand, it is hard to recommend this purchase to anyone. Wait for several updates, or walk away.
 
 ![Sword and Shield Simulator, the weapon designer and trading](/images/swordshieldsim/screenshot-2.webp)
