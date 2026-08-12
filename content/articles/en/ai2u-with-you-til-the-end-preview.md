@@ -1,6 +1,6 @@
 ---
-title: "AI2U With You Til The End: if you could not find much on it, that is because it came out over a year ago"
-seoTitle: "AI2U With You Til The End: preview of the LLM-driven escape room game"
+title: "AI2U With You Til The End: nineteen months of Early Access later, version 1.0 lands today"
+seoTitle: "AI2U With You Til The End: preview of the 1.0 release"
 slug: "ai2u-with-you-til-the-end-preview"
 category: "previews"
 excerpt: "Characters driven by a language model that react to what you do. Not pretty, but very well received, and not for the reasons you would think."
@@ -13,9 +13,11 @@ gameName: "AI2U: With You 'Til The End"
 featured: false
 ---
 
-If you cannot find much on AI2U, there is a simple reason: it is not new. The game has been available since 23 January 2025, in Early Access, developed by AlterStaff and co-published with Neverland Entertainment. So it did not pass through the autumn radar, it has been living its life for over a year.
+A small calendar subtlety explains why information on this game is hard to assemble: AI2U is indeed out today, but this is not its first appearance. The game has been available since 23 January 2025 in Early Access, and 12 August 2026 marks its move to version 1.0.
 
-And that life is going surprisingly well: Steam reviews are Very Positive, at 89 percent favourable across nearly 1,900 reviews. Which raises an interesting question, since you do not find it good-looking, and you are not wrong.
+So this is both a release and a culmination. The studio AlterStaff, co-publishing with Neverland Entertainment, announces it is leaving Early Access after dozens of updates, patches and feature requests it describes itself as delightfully unhinged. A pre-release build was even available from 7 August so players could hunt bugs before the day itself.
+
+Another figure that puts things in perspective: Steam reviews are Very Positive, at 89 percent favourable across nearly 1,900 reviews. This game already has an audience, which makes your question about its appearance all the more pertinent.
 
 ![AI2U With You Til The End, the escape room game with generated dialogue](/images/ai2u/screenshot-1.webp)
 
@@ -33,19 +35,21 @@ Your remark is legitimate, and it needs clarifying on one important point. Given
 
 In other words, if the game does not appeal to you visually, that is an aesthetic choice and a budget, not automation. The distinction matters, because it completely changes the nature of the complaint.
 
+Worth noting too, the studio worked on this during Early Access: the July update announced a full visual revamp of Eddie's apartment, along with upgraded character voices. If your impressions come from the early builds, they probably no longer reflect the state of the game.
+
 ![AI2U With You Til The End, the characters and the rooms to escape](/images/ai2u/screenshot-2.webp)
 
 ## What should give you pause before buying
 
 Three points, and they are serious.
 
-The first is technical dependency. A game whose core rests on a language model depends on infrastructure, with the availability and long-term cost questions that come with it. What becomes of the experience the day the service changes or stops? That is a question the genre has not yet had to face.
+The first is technical dependency. A game whose core rests on a language model depends on infrastructure, with the availability and long-term cost questions that come with it. What becomes of the experience the day the service changes or stops? That is a question the genre has not yet had to face, and it grows sharper on a final version than on an Early Access build.
 
 The second is consistency. A character who improvises is fascinating as long as they stay credible, and one off-key reply breaks the illusion instantly. That is the permanent gamble of this kind of design.
 
 The third is the register itself. The theme of the obsessive admirer who imprisons you is a very particular taste, owned and advertised by the studio. That is not a flaw, it is a filter: you are in or you walk away.
 
-The game is in Early Access, under fifteen euros, and available in French. We are not scoring it, not having played it, but the player reception is there and it is solid.
+The game costs under fifteen euros and is available in French. We are not scoring it, not having played it, but the player reception is there, and it rests on eighteen months of public release rather than on a first impression.
 
 A technological curiosity, then, whose interest lies entirely in what it does with conversation. For the rest, you were right: it is not for the eyes.
 
