@@ -22,7 +22,7 @@ The contrast with a certain project is hard to ignore, so let us take it head on
 
 ## The awkward subject
 
-Star Citizen, developed by Cloud Imperium Games under Chris Roberts and his studio Roberts Space Industries, has been in development since 2012 and has raised sums with no equivalent in the history of crowdfunding, well beyond half a billion dollars. Fourteen years on, the complete game still is not out, and its single-player component Squadron 42 is still awaited.
+Star Citizen, developed by Cloud Imperium Games under Chris Roberts and his studio Roberts Space Industries, has been in development since 2012 and has raised sums with no equivalent in the history of crowdfunding. On 24 May 2026 the total officially passed one billion dollars, at roughly 1,004,122,732 dollars contributed by 6.54 million backers. It took more than ten years to reach 900 million, and only six months to add the final hundred. Fourteen years on, the complete game still is not out, and its single-player component Squadron 42 is still awaited.
 
 I will not call it a scam here, because that is an accusation for a courtroom rather than a game review. I will say what is factual and amply sufficient: fourteen years, a mountain of money, and meanwhile a single British developer, under the name Huskrafts, has shipped a finished, playable and frankly good space combat game. Draw your own conclusions.
 

@@ -22,7 +22,7 @@ Le contraste avec un certain projet est difficile à ignorer, alors autant l'abo
 
 ## Le sujet qui fâche
 
-Star Citizen, développé par Cloud Imperium Games sous la houlette de Chris Roberts et de son studio Roberts Space Industries, est en développement depuis 2012 et a levé des sommes sans équivalent dans l'histoire du financement participatif, très au-delà du demi-milliard de dollars. Quatorze ans plus tard, le jeu complet n'est toujours pas sorti, et son volet solo Squadron 42 se fait encore attendre.
+Star Citizen, développé par Cloud Imperium Games sous la houlette de Chris Roberts et de son studio Roberts Space Industries, est en développement depuis 2012 et a levé des sommes sans équivalent dans l'histoire du financement participatif. Le 24 mai 2026, le total a officiellement franchi le milliard de dollars, à environ 1 004 122 732 dollars apportés par 6,54 millions de contributeurs. Il aura fallu plus de dix ans pour atteindre 900 millions, et six mois seulement pour ajouter les cent derniers. Quatorze ans plus tard, le jeu complet n'est toujours pas sorti, et son volet solo Squadron 42 se fait encore attendre.
 
 Je ne dirai pas ici que c'est une escroquerie, parce que c'est une accusation qui relève du tribunal et pas d'un test de jeu vidéo. Je dirai ce qui est factuel et amplement suffisant : quatorze ans, une montagne d'argent, et pendant ce temps, un développeur britannique seul, sous le nom de Huskrafts, publie un jeu de combat spatial fini, jouable, et franchement bon. Faites-en la lecture que vous voulez.
 

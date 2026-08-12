@@ -1,0 +1,52 @@
+---
+title: "AI2U With You Til The End: if you could not find much on it, that is because it came out over a year ago"
+seoTitle: "AI2U With You Til The End: preview of the LLM-driven escape room game"
+slug: "ai2u-with-you-til-the-end-preview"
+category: "previews"
+excerpt: "Characters driven by a language model that react to what you do. Not pretty, but very well received, and not for the reasons you would think."
+date: "2026-08-12"
+author: "Alexandrosse"
+readTime: "6 min"
+image_color: "from-pink-950 via-rose-950 to-slate-900"
+coverImage: "/images/ai2u/screenshot-1.webp"
+gameName: "AI2U: With You 'Til The End"
+featured: false
+---
+
+If you cannot find much on AI2U, there is a simple reason: it is not new. The game has been available since 23 January 2025, in Early Access, developed by AlterStaff and co-published with Neverland Entertainment. So it did not pass through the autumn radar, it has been living its life for over a year.
+
+And that life is going surprisingly well: Steam reviews are Very Positive, at 89 percent favourable across nearly 1,900 reviews. Which raises an interesting question, since you do not find it good-looking, and you are not wrong.
+
+![AI2U With You Til The End, the escape room game with generated dialogue](/images/ai2u/screenshot-1.webp)
+
+## This is not a game you buy for its graphics
+
+The premise runs as follows: you wake up locked in with characters who love you a little too much, and you have to get out. A luxury apartment, an enchanted cabin, a cryogenic wreck, an island. All these people adore you, literally to death, and it is a matter of talking your way out or staying forever.
+
+The studio comes from the viral Yandere AI Girlfriend Simulator and owns the lineage. But the real mechanic, the one explaining the reception, is that the dialogue is not written in advance: it is generated live by a language model, with text-to-speech. The characters do not merely talk to you, they react to your behaviour, see and hear what you are doing, and make their own judgements to keep you exactly where they want you.
+
+That is the product. Not the art direction, not the modelling: the sensation of negotiating with someone who is genuinely improvising. And in that register the experience really is rare.
+
+## On it not being pretty
+
+Your remark is legitimate, and it needs clarifying on one important point. Given the subject, you might assume the visuals are automatically generated too. They are not, and the studio writes it plainly in the disclosure box Steam provides: none of the game's art assets are AI-generated, the visual art, story design, music and worldbuilding are the work of human developers and artists. Only the in-game exchanges run through a language model and text-to-speech.
+
+In other words, if the game does not appeal to you visually, that is an aesthetic choice and a budget, not automation. The distinction matters, because it completely changes the nature of the complaint.
+
+![AI2U With You Til The End, the characters and the rooms to escape](/images/ai2u/screenshot-2.webp)
+
+## What should give you pause before buying
+
+Three points, and they are serious.
+
+The first is technical dependency. A game whose core rests on a language model depends on infrastructure, with the availability and long-term cost questions that come with it. What becomes of the experience the day the service changes or stops? That is a question the genre has not yet had to face.
+
+The second is consistency. A character who improvises is fascinating as long as they stay credible, and one off-key reply breaks the illusion instantly. That is the permanent gamble of this kind of design.
+
+The third is the register itself. The theme of the obsessive admirer who imprisons you is a very particular taste, owned and advertised by the studio. That is not a flaw, it is a filter: you are in or you walk away.
+
+The game is in Early Access, under fifteen euros, and available in French. We are not scoring it, not having played it, but the player reception is there and it is solid.
+
+A technological curiosity, then, whose interest lies entirely in what it does with conversation. For the rest, you were right: it is not for the eyes.
+
+![AI2U With You Til The End, the multiple endings based on your exchanges](/images/ai2u/screenshot-3.webp)
