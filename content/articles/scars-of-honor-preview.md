@@ -114,4 +114,4 @@ Pas le nouveau roi. Mais peut-être enfin un MMO qui donne envie d'y croire.
 
 ---
 
-*Preview basée sur la version en développement — le jeu est susceptible d'évoluer significativement avant sa sortie*
+*Preview basée sur la version en développement : le jeu est susceptible d'évoluer significativement avant sa sortie*

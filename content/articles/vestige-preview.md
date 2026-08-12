@@ -54,7 +54,7 @@ Vestige est aussi inéligible aux aides du CNC en raison de la proportion de bé
 
 Vestige a une identité claire, une structure narrative ambitieuse et une équipe qui apprend vite de ses erreurs. Les sept zones du deuil, la mécanique de pulsions qui évolue au fil du jeu, le mélange de réalisme et de stylisation – tout cela dessine un jeu qui sait où il veut aller.
 
-Si le projet vous intrigue, une page de pré-lancement Kickstarter est déjà en ligne pour ceux qui veulent garder un œil sur la campagne à venir.
+Si le projet vous intrigue, une page de pré-lancement Kickstarter est déjà en ligne pour ceux qui veulent garder un oeil sur la campagne à venir.
 
 [Page de pré-lancement Kickstarter](https://www.kickstarter.com/projects/pyramide-games/vestige-a-narrative-adventure-about-memory-and-grief)
 

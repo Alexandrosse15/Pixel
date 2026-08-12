@@ -14,7 +14,7 @@ gameName: "Ground Branch"
 featured: false
 ---
 
-Il faut se souvenir de ce qu'était Rainbow Six avant de devenir un hero shooter à opérateurs et cosmétiques. Un jeu où l'on planifiait un assaut sur une carte, où une seule balle tuait, où l'on avançait le cœur battant dans un couloir en priant pour ne pas rater le premier tir. Ce Rainbow Six là, celui de Rogue Spear, a disparu depuis vingt ans. Ground Branch est la tentative acharnée, menée par l'un de ses créateurs, de le ramener d'entre les morts. Et après huit ans d'accès anticipé, cette version 1.0 prouve que le pari en valait la peine.
+Il faut se souvenir de ce qu'était Rainbow Six avant de devenir un hero shooter à opérateurs et cosmétiques. Un jeu où l'on planifiait un assaut sur une carte, où une seule balle tuait, où l'on avançait le coeur battant dans un couloir en priant pour ne pas rater le premier tir. Ce Rainbow Six là, celui de Rogue Spear, a disparu depuis vingt ans. Ground Branch est la tentative acharnée, menée par l'un de ses créateurs, de le ramener d'entre les morts. Et après huit ans d'accès anticipé, cette version 1.0 prouve que le pari en valait la peine.
 
 ![Ground Branch, l'approche lente et méthodique d'un shooter tactique sans concession](/images/groundbranch/screenshot-1.webp)
 

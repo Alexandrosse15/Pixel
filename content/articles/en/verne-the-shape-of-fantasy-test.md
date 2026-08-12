@@ -54,7 +54,7 @@ Verne's pixel art has a rare stylistic coherence. The environments combine a ste
 
 Gonzalez has explained that pixel art "conveys nostalgia but also elegance", and that it lets the player's imagination complete the visual experience. That's a way of talking about his own medium that says a great deal about the coherence between form and content.
 
-The soundtrack by composer Eloi Caballé is a very pleasant surprise. It blends classical works — Bach, Wagner, Debussy — with original compositions, guided by a clear philosophy: when music plays, it's because it's telling a story. The result is a dense sonic atmosphere that doesn't try to be spectacular but reinforces immersion at every moment. The English voice acting is of good quality and helps bring the characters to life.
+The soundtrack by composer Eloi Caballé is a very pleasant surprise. It blends classical works, Bach, Wagner, Debussy, with original compositions, guided by a clear philosophy: when music plays, it's because it's telling a story. The result is a dense sonic atmosphere that doesn't try to be spectacular but reinforces immersion at every moment. The English voice acting is of good quality and helps bring the characters to life.
 
 One minor technical note: the absence of manual saving. The game saves automatically, which is generally sufficient, but remains a minor irritant for players who like to control that parameter.
 
@@ -64,7 +64,7 @@ One minor technical note: the absence of manual saving. The game saves automatic
 
 **Strengths:**
 
-- brilliant narrative concept — Jules Verne inside his own imaginary world is an idea of obvious rightness
+- brilliant narrative concept : Jules Verne inside his own imaginary world is an idea of obvious rightness
 - careful, coherent and expressive pixel art, realised by one person
 - soundtrack blending classical and original composition with intelligence
 - IMAG mechanic original and well integrated into the game's themes

@@ -24,7 +24,7 @@ The danger with this kind of game is that the concept is more interesting than t
 
 The honest answer is yes. Almost always.
 
-What makes Gecko Gods work is that the gecko's mobility isn't a gimmick. It's the heart of everything. Sticking to the ceiling to pass over a trap. Climbing along a column to reach a platform invisible from below. Crossing a room by staying on the walls because the floor is riddled with obstacles. Every space is designed to make you think in three dimensions. And the moment you start seeing levels like a gecko — instinctively looking for the wall that hides a passage, the ceiling that offers a shortcut — that's when the game truly clicks.
+What makes Gecko Gods work is that the gecko's mobility isn't a gimmick. It's the heart of everything. Sticking to the ceiling to pass over a trap. Climbing along a column to reach a platform invisible from below. Crossing a room by staying on the walls because the floor is riddled with obstacles. Every space is designed to make you think in three dimensions. And the moment you start seeing levels like a gecko : instinctively looking for the wall that hides a passage, the ceiling that offers a shortcut : that's when the game truly clicks.
 
 When that click happens, it's a genuine satisfaction.
 

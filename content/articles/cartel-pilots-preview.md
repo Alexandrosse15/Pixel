@@ -26,7 +26,7 @@ Et il y a quelque chose dans les couleurs de cet archipel, dans la lumière sur 
 
 Far Cry premier du nom. Les îles de Jacitan. Cette liberté un peu rugueuse, cette atmosphère tropicale qui avait quelque chose d'organique et de menaçant à la fois. Ce sentiment que le monde du jeu existait indépendamment de vous, et que votre présence y était tolérée avec réticence.
 
-Cartel Pilots Wanted n'est pas Far Cry. Ce n'est pas un FPS, c'est un simulateur de vol accessible avec des mécaniques de gestion. Mais il y a une vibe commune — l'archipel comme terrain de jeu, la chaleur tropicale comme décor, la liberté d'explorer un monde qui ne vous attend pas — qui nous a touchés directement là où c'est difficile de rester objectif.
+Cartel Pilots Wanted n'est pas Far Cry. Ce n'est pas un FPS, c'est un simulateur de vol accessible avec des mécaniques de gestion. Mais il y a une vibe commune : l'archipel comme terrain de jeu, la chaleur tropicale comme décor, la liberté d'explorer un monde qui ne vous attend pas : qui nous a touchés directement là où c'est difficile de rester objectif.
 
 On essaie quand même.
 
@@ -34,11 +34,11 @@ On essaie quand même.
 
 ## Ce qu'on sait objectivement
 
-Le projet d'OldYacht repose sur une proposition claire : prendre des contrats de livraison risqués avec des amis, maintenir ses avions en état de vol, personnaliser ses appareils avec des livrées custom, et explorer un archipel tropical en mode coopération jusqu'à quatre joueurs — avec un mode solo prévu pour les pilotes solitaires.
+Le projet d'OldYacht repose sur une proposition claire : prendre des contrats de livraison risqués avec des amis, maintenir ses avions en état de vol, personnaliser ses appareils avec des livrées custom, et explorer un archipel tropical en mode coopération jusqu'à quatre joueurs : avec un mode solo prévu pour les pilotes solitaires.
 
 La physique de vol est annoncée comme accessible, pas comme une simulation hardcore. C'est un choix de design assumé qui ouvre le jeu à un public plus large et qui, dans le contexte d'un jeu de contrebande en co-op, fait sens : on veut que le pilotage soit satisfaisant, pas que l'apprentissage soit un travail à plein temps avant de pouvoir s'amuser avec des amis.
 
-La météo dynamique, les îles cachées, la gestion du hangar : le jeu semble vouloir construire une boucle de progression qui mêle l'exploration libre et la gestion de ressources. C'est ambitieux pour un studio indie, et c'est exactement ce genre d'ambition qu'on surveille de près — parce qu'elle peut donner naissance à quelque chose d'exceptionnel ou s'épuiser avant la sortie.
+La météo dynamique, les îles cachées, la gestion du hangar : le jeu semble vouloir construire une boucle de progression qui mêle l'exploration libre et la gestion de ressources. C'est ambitieux pour un studio indie, et c'est exactement ce genre d'ambition qu'on surveille de près : parce qu'elle peut donner naissance à quelque chose d'exceptionnel ou s'épuiser avant la sortie.
 
 ![Cartel Pilots Wanted](/images/cartelpiloits/screenshot-4.webp)
 
@@ -46,7 +46,7 @@ La météo dynamique, les îles cachées, la gestion du hangar : le jeu semble v
 
 On n'a rien joué. C'est le point central et il mérite d'être répété.
 
-Un trailer soigné et une page Steam bien écrite ne font pas un bon jeu. La physique de vol "accessible" peut être satisfaisante ou approximative — sans y avoir mis les mains, impossible de trancher. La boucle de jeu co-op peut être exaltante ou répétitive selon la façon dont les missions sont construites. L'archipel peut être vivant ou creux.
+Un trailer soigné et une page Steam bien écrite ne font pas un bon jeu. La physique de vol "accessible" peut être satisfaisante ou approximative : sans y avoir mis les mains, impossible de trancher. La boucle de jeu co-op peut être exaltante ou répétitive selon la façon dont les missions sont construites. L'archipel peut être vivant ou creux.
 
 Ce sont les questions auxquelles seul le jeu complet peut répondre. OldYacht n'a pas encore annoncé de date de sortie. Le jeu est en phase de développement active, avec une application de playtest sur Steam qui suggère que des tests ont eu lieu, mais aucune session publique ouverte à notre connaissance.
 

@@ -101,4 +101,4 @@ Windrose est le jeu de pirates qu'on attendait depuis dix ans, en accès anticip
 
 ---
 
-*Testé sur PC, accès anticipé — version du 14 avril 2026*
+*Testé sur PC, accès anticipé : version du 14 avril 2026*

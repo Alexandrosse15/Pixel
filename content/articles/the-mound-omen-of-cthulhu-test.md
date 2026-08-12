@@ -14,7 +14,7 @@ gameName: "The Mound: Omen of Cthulhu"
 featured: false
 ---
 
-Il y a une malédiction plus tenace que toutes celles de Lovecraft : celle des jeux vidéo tirés de son œuvre. Ils sortent par dizaines, promettent l'effroi cosmique, et se ratent presque tous. Alors, en découvrant The Mound: Omen of Cthulhu, on nourrissait un espoir un peu naïf : et si, cette fois, on tenait enfin le grand jeu d'enquête lovecraftien qu'on réclame depuis toujours ? La réponse est non, et elle est frustrante, parce que le talent était là.
+Il y a une malédiction plus tenace que toutes celles de Lovecraft : celle des jeux vidéo tirés de son oeuvre. Ils sortent par dizaines, promettent l'effroi cosmique, et se ratent presque tous. Alors, en découvrant The Mound: Omen of Cthulhu, on nourrissait un espoir un peu naïf : et si, cette fois, on tenait enfin le grand jeu d'enquête lovecraftien qu'on réclame depuis toujours ? La réponse est non, et elle est frustrante, parce que le talent était là.
 
 ![The Mound: Omen of Cthulhu, la jungle maudite superbement mise en scène par ACE Team](/images/themound/screenshot-1.webp)
 
@@ -26,7 +26,7 @@ The Mound: Omen of Cthulhu est un jeu d'horreur coopératif développé par ACE 
 
 Soyons honnêtes tout de suite, car c'est important pour gérer les attentes. Qui vient chercher ici un jeu d'investigation, une plongée lente dans le mystère et la folie à la manière des grands récits de Lovecraft, se trompe de porte. The Mound n'est pas un jeu d'enquête, c'est un extraction coopératif jusqu'à quatre joueurs. On forme un groupe d'explorateurs, on part fouiller une jungle hostile à la recherche de trésors, on ramasse, on survit, on s'extrait, le tout en parties d'une vingtaine de minutes. C'est la formule à la mode, celle des extraction shooters, repeinte aux couleurs du Mythe.
 
-Cette clarification n'est pas un détail, c'est le cœur du problème. Le fan qui espérait un jeu d'ambiance et de déduction se retrouve face à une boucle de loot et de fuite, aussi loin de l'enquête qu'on puisse l'imaginer. Le jeu se joue en coop ou en solo avec un coéquipier bot, et il mise sur le frisson partagé plutôt que sur l'angoisse intime. Ce n'est pas illégitime, mais c'est un genre saturé, et voir encore l'univers lovecraftien réduit à un prétexte à extraction laisse un goût amer. On rêvait d'un jeu qui prendrait cet imaginaire au sérieux ; on récupère un jeu qui l'utilise comme décor.
+Cette clarification n'est pas un détail, c'est le coeur du problème. Le fan qui espérait un jeu d'ambiance et de déduction se retrouve face à une boucle de loot et de fuite, aussi loin de l'enquête qu'on puisse l'imaginer. Le jeu se joue en coop ou en solo avec un coéquipier bot, et il mise sur le frisson partagé plutôt que sur l'angoisse intime. Ce n'est pas illégitime, mais c'est un genre saturé, et voir encore l'univers lovecraftien réduit à un prétexte à extraction laisse un goût amer. On rêvait d'un jeu qui prendrait cet imaginaire au sérieux ; on récupère un jeu qui l'utilise comme décor.
 
 ## Ce qui fonctionne : l'art et la folie
 

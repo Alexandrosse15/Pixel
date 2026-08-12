@@ -14,7 +14,7 @@ gameName: "Fogpiercer"
 featured: false
 ---
 
-On aime tellement le roguelike deckbuilder qu'on a fini par en connaître tous les rouages par cœur. Piocher, jouer ses cartes, gérer son énergie, monter en puissance run après run : la formule est géniale, mais elle commence à tourner en rond depuis que Slay the Spire a posé les règles. Alors quand un jeu propose de faire de son train l'incarnation physique de son deck, avec un positionnement qui compte vraiment, on dresse l'oreille. Fogpiercer prend le genre qu'on adore et y greffe une idée simple et brillante : et si vos cartes avaient une place dans l'espace ?
+On aime tellement le roguelike deckbuilder qu'on a fini par en connaître tous les rouages par coeur. Piocher, jouer ses cartes, gérer son énergie, monter en puissance run après run : la formule est géniale, mais elle commence à tourner en rond depuis que Slay the Spire a posé les règles. Alors quand un jeu propose de faire de son train l'incarnation physique de son deck, avec un positionnement qui compte vraiment, on dresse l'oreille. Fogpiercer prend le genre qu'on adore et y greffe une idée simple et brillante : et si vos cartes avaient une place dans l'espace ?
 
 ![Fogpiercer, le train post-apocalyptique fonçant à travers le brouillard mortel](/images/fogpiercer/screenshot-1.webp)
 
@@ -38,13 +38,13 @@ Le mélange entre planification de trajet et batailles nerveuses donne un rythme
 
 ## Ce qu'on retient
 
-Fogpiercer est une excellente nouvelle pour quiconque, comme nous, adore le roguelike deckbuilder et cherche une variation qui apporte réellement du neuf. Son idée de lier le train et le deck, de faire du positionnement de ses wagons et des réactions en chaîne le cœur de sa tactique, est une trouvaille qui offre au genre une dimension spatiale rafraîchissante. Avec ses cent soixante-dix cartes, sa quête de synergies et son décor de Snowpiercer post-apocalyptique, il coche toutes les cases du bon deckbuilder tout en cultivant une identité qui lui est propre. On relance une run sans même y penser, à la recherche du prochain enchaînement dévastateur.
+Fogpiercer est une excellente nouvelle pour quiconque, comme nous, adore le roguelike deckbuilder et cherche une variation qui apporte réellement du neuf. Son idée de lier le train et le deck, de faire du positionnement de ses wagons et des réactions en chaîne le coeur de sa tactique, est une trouvaille qui offre au genre une dimension spatiale rafraîchissante. Avec ses cent soixante-dix cartes, sa quête de synergies et son décor de Snowpiercer post-apocalyptique, il coche toutes les cases du bon deckbuilder tout en cultivant une identité qui lui est propre. On relance une run sans même y penser, à la recherche du prochain enchaînement dévastateur.
 
 Il faut simplement garder en tête qu'il s'agit d'un accès anticipé, avec ce que cela implique de contenu appelé à s'étoffer et d'équilibrages à venir. La base est solide, l'idée est brillante, et le potentiel est manifeste, mais c'est un jeu qui continuera de grandir. Pour l'amateur du genre en quête de fraîcheur, c'est déjà une recommandation facile, et une belle promesse pour la suite. Fogpiercer prend une formule qu'on connaît trop bien et lui redonne un souffle, et rien que pour cette idée du train-deck, il mérite qu'on monte à bord.
 
 ## Verdict
 
-Un roguelike deckbuilder qui matérialise votre deck dans un train et fait du placement le cœur de sa tactique : une idée spatiale brillante qui redonne du souffle à un genre qu'on croyait figé.
+Un roguelike deckbuilder qui matérialise votre deck dans un train et fait du placement le coeur de sa tactique : une idée spatiale brillante qui redonne du souffle à un genre qu'on croyait figé.
 
 **Points forts :**
 

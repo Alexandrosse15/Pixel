@@ -41,7 +41,7 @@ The narrative of Les Murmures du Soleil doesn't aim for thematic subtlety: it pu
 
 The choice of a blind protagonist in an entirely audio game isn't a detail. It's a fundamental coherence, a decision that aligns mechanics and narrative in a way rarely achieved in independent games. You're not playing a character who can't see in a game you're watching. You're playing a character who can't see in a game you don't need to watch either.
 
-The sci-fi atmosphere is carried almost entirely by Pierre Genaudeau's music and the overall sound design. Oppressive space ambiences, children's voices guiding you with a gentleness that contrasts sharply with the tension of each situation. The narrative doesn't linger — it moves forward, and that's the right call for a format this taut.
+The sci-fi atmosphere is carried almost entirely by Pierre Genaudeau's music and the overall sound design. Oppressive space ambiences, children's voices guiding you with a gentleness that contrasts sharply with the tension of each situation. The narrative doesn't linger : it moves forward, and that's the right call for a format this taut.
 
 It's not the narrative depth of Disco Elysium. But in the context of a solo-developed, freely distributed mobile game, the coherence between form and content reaches a level that many well-funded productions never come close to.
 

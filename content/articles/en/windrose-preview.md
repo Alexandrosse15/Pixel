@@ -51,4 +51,4 @@ The 1.0 release will be the real test. In early access, we're watching. And righ
 
 ---
 
-*Preview based on early access — version subject to significant changes*
+*Preview based on early access : version subject to significant changes*

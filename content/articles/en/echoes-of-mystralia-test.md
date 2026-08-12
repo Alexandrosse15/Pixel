@@ -7,7 +7,7 @@ excerpt: "You combine memories to cobble together your own spells, and it works 
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "7 min"
-score: 7.5
+score: 7
 image_color: "from-violet-950 via-fuchsia-950 to-indigo-950"
 coverImage: "/images/echoesofmystralia/screenshot-1.webp"
 gameName: "Echoes of Mystralia"
@@ -44,10 +44,13 @@ The setting is not short of ideas. A Rift has opened in the Cycle of Memories, t
 
 The problem lies in how it all reaches you, and it is the chronic ailment of the roguelite: when the structure returns you to the start after every failure, the plot dissolves into fragments of atmosphere. You progress through the systems, less so through the story. The result is an evocative world you pass through without ever being truly gripped, when the material deserved better.
 
-The other reservation is one of status: the game launches today in Early Access, with the balancing and content still to come that this implies. The studio highlights its Discord community and private playtests, a sign it intends to adjust as it goes. No user reviews exist yet, and this score reflects the current state of a version that will move.
+The other reservation is one of status: the game has just launched in Early Access, with the balancing and content still to come that this implies. The studio highlights its Discord community and private playtests, a sign it intends to adjust as it goes. This score therefore reflects the current state of a version that will move.
 
 Good news to close, and it is not that common: the game is fully available in French.
 
 For anyone who enjoys building their own instruments of destruction, that is reason enough. For anyone here for a great story, better to wait and see how the narrative fills out.
+
+
+The first Steam reviews have arrived and confirm this review's nuance: Mostly Positive at 71 percent across nearly 120 reviews. The spell system convinces, the rest divides more.
 
 ![Echoes of Mystralia, the Azimuth Temple and progression between runs](/images/echoesofmystralia/screenshot-3.webp)

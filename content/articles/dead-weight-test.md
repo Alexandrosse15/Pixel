@@ -14,7 +14,7 @@ gameName: "Dead Weight"
 featured: false
 ---
 
-Parfois, on tombe amoureux d'un jeu avant même d'y jouer, juste en le regardant. Dead Weight fait partie de ceux-là. Sa direction artistique steampunk, ses navires pirates qui fendent les nuages, ses îles suspendues baignées d'une lumière chaude, tout ça nous a happés au premier coup d'œil. On adore ce style, franchement. Restait à savoir si, derrière ce vernis somptueux, il y avait un vrai jeu. La bonne nouvelle, c'est que oui.
+Parfois, on tombe amoureux d'un jeu avant même d'y jouer, juste en le regardant. Dead Weight fait partie de ceux-là. Sa direction artistique steampunk, ses navires pirates qui fendent les nuages, ses îles suspendues baignées d'une lumière chaude, tout ça nous a happés au premier coup d'oeil. On adore ce style, franchement. Restait à savoir si, derrière ce vernis somptueux, il y avait un vrai jeu. La bonne nouvelle, c'est que oui.
 
 ![Dead Weight, le navire pirate volant fendant les nuages d'un monde steampunk](/images/deadweight/screenshot-1.webp)
 
@@ -24,9 +24,9 @@ Dead Weight est un RPG tactique développé et édité par Klukva Games, disponi
 
 ## La direction artistique, ce coup de foudre
 
-Commençons par ce qui frappe en premier, puisque c'est le cœur de son attrait : le style. Dead Weight baigne dans une identité steampunk cohérente et chaleureuse, faite de cuivre, de bois, de vapeur et de ciels immenses. Les navires volants ont de la personnalité, les îles flottantes composent des tableaux qu'on a envie de contempler, et l'ensemble dégage cette poésie d'aventure aérienne qui évoque les meilleurs récits de ciel. C'est une direction artistique qui ne cherche pas la démonstration technique, mais l'évocation, et elle réussit à créer un monde dans lequel on a immédiatement envie de s'embarquer.
+Commençons par ce qui frappe en premier, puisque c'est le coeur de son attrait : le style. Dead Weight baigne dans une identité steampunk cohérente et chaleureuse, faite de cuivre, de bois, de vapeur et de ciels immenses. Les navires volants ont de la personnalité, les îles flottantes composent des tableaux qu'on a envie de contempler, et l'ensemble dégage cette poésie d'aventure aérienne qui évoque les meilleurs récits de ciel. C'est une direction artistique qui ne cherche pas la démonstration technique, mais l'évocation, et elle réussit à créer un monde dans lequel on a immédiatement envie de s'embarquer.
 
-Cette cohérence visuelle n'est pas qu'une jolie façade, elle porte tout le jeu. L'univers d'îles suspendues et de dieux anciens a une vraie personnalité, un imaginaire qui donne envie d'explorer pour le plaisir de découvrir le prochain archipel. Dans un paysage indépendant où tant de jeux se ressemblent, Dead Weight se distingue d'abord par cette âme visuelle, ce parti pris esthétique fort qui lui offre une identité mémorable. On comprend pourquoi le style saute aux yeux : c'est manifestement là que le studio a mis son cœur.
+Cette cohérence visuelle n'est pas qu'une jolie façade, elle porte tout le jeu. L'univers d'îles suspendues et de dieux anciens a une vraie personnalité, un imaginaire qui donne envie d'explorer pour le plaisir de découvrir le prochain archipel. Dans un paysage indépendant où tant de jeux se ressemblent, Dead Weight se distingue d'abord par cette âme visuelle, ce parti pris esthétique fort qui lui offre une identité mémorable. On comprend pourquoi le style saute aux yeux : c'est manifestement là que le studio a mis son coeur.
 
 ![Dead Weight, les îles flottantes à explorer et à piller dans une lumière chaude](/images/deadweight/screenshot-2.webp)
 

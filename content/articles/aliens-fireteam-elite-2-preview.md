@@ -29,7 +29,7 @@ Côté contenu : nouveaux types de Xenomorphs, nouvelles classes (dont le Specia
 
 ## Ce que la communauté attend
 
-Les fans du premier sont enthousiastes, mais les attentes sont précises. Meilleur matchmaking. Possibilité de rejoindre une partie en cours. Un système de randomisation des ennemis moins prévisible (dans AFE1, les joueurs vétérans finissaient par connaître chaque spawn par cœur, ce qui cassait la tension). Du chat textuel et vocal intégré.
+Les fans du premier sont enthousiastes, mais les attentes sont précises. Meilleur matchmaking. Possibilité de rejoindre une partie en cours. Un système de randomisation des ennemis moins prévisible (dans AFE1, les joueurs vétérans finissaient par connaître chaque spawn par coeur, ce qui cassait la tension). Du chat textuel et vocal intégré.
 
 Une inquiétude circule aussi : des rumeurs évoquaient un virage hero shooter, avec des marines prédéfinis aux capacités fixes plutôt que la création de personnage du premier jeu. Rien de confirmé à ce stade, mais la classe Specialist semble être une réponse directe à cette crainte : si le jeu conserve une part de personnalisation par-dessus des classes plus définies, l'équilibre pourrait fonctionner.
 

@@ -7,7 +7,7 @@ excerpt: "Honest turn-based tactics with no spark. Above all, it is the internat
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "8 min"
-score: 6
+score: 7
 image_color: "from-amber-950 via-stone-900 to-red-950"
 coverImage: "/images/warhounds/screenshot-1.webp"
 gameName: "Warhounds"
@@ -47,5 +47,8 @@ Two points of accuracy, because inaccurate claims are circulating. First, Sparta
 We will go no further into questions of intent, and we will not say where the money goes today, since we cannot verify it. The established facts are enough: a game originally funded by a body attached to the Russian state, re-released under another name through a Dubai-based publisher after being restricted in Western markets. Some will not care, others will refuse to pay for it. That is a personal choice, and it deserves to be made knowingly rather than in ignorance.
 
 The score above concerns the game alone. The rest is yours to weigh.
+
+
+Worth noting, the reception is better than our first impression suggested: Steam reviews are Very Positive at 82 percent across more than 110 reviews. The game does its job for tactics fans, which the score reflects.
 
 ![Warhounds, base management between missions](/images/warhounds/screenshot-3.webp)

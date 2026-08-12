@@ -25,7 +25,7 @@ Let's return to the scene of the crime.
 
 In October 2025, Microsoft completely overhauled its Game Pass tiers. The result: Game Pass Ultimate, previously $19.99 per month, jumped to $29.99. A 50% increase in one shot. PC Game Pass went from $11.99 to $16.49, a 37% rise.
 
-Going further back, a subscriber who has been on Game Pass Ultimate since the 2019 launch went from $15 per month to $29.99 — a 76% increase in under eighteen months. Microsoft outpaced inflation. Impressive, in its own way.
+Going further back, a subscriber who has been on Game Pass Ultimate since the 2019 launch went from $15 per month to $29.99 : a 76% increase in under eighteen months. Microsoft outpaced inflation. Impressive, in its own way.
 
 The community received all of this extremely well. There were "thank you Microsoft for this excellent news" comments everywhere. Actually no, it was the opposite.
 
@@ -49,7 +49,7 @@ Microsoft isn't just acknowledging the problem. Solutions are beginning to take 
 
 **A new first-party-only tier.** The idea is to introduce a cheaper subscription giving access exclusively to Microsoft studio games, without third-party titles. Interesting in theory. In practice, the main appeal of Game Pass for many players is precisely the third-party library. A tier without them is a bit like a pizza without toppings. The base is still edible, but you can see what's going on.
 
-**A potential Netflix bundle.** Asha Sharma confirmed she has discussed with Netflix co-CEO Greg Peters the idea of a combined Game Pass and Netflix subscription. Peters replied that he "wouldn't eliminate any possibilities" — the most polite way to say nothing has been signed. The idea isn't stupid: the two services share an audience of casual gamers who might be tempted by a combined package. But right now it's well-packaged wind.
+**A potential Netflix bundle.** Asha Sharma confirmed she has discussed with Netflix co-CEO Greg Peters the idea of a combined Game Pass and Netflix subscription. Peters replied that he "wouldn't eliminate any possibilities" : the most polite way to say nothing has been signed. The idea isn't stupid: the two services share an audience of casual gamers who might be tempted by a combined package. But right now it's well-packaged wind.
 
 **World of Warcraft integrated into PC Game Pass.** This one is concrete. Blizzard has been under Microsoft since 2023, and including WoW in PC Game Pass would be a strong argument for PC players. Provided it doesn't come with yet another price increase to offset the cost.
 
@@ -67,4 +67,4 @@ Because in this industry, between "we've become aware of the problem" and "we've
 
 ---
 
-*Source: internal memo cited by The Verge, Windows Central, GameSpot — April 2026*
+*Source: internal memo cited by The Verge, Windows Central, GameSpot : April 2026*

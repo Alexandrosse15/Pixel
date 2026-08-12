@@ -85,11 +85,11 @@ That continuity isn't common. It partly explains the coherence of a game that we
 
 Warframe has over 70 million registered accounts. Its subreddit has over a million members. It runs Tennocon, its own annual fan convention. This isn't a game ignored by its players.
 
-But in the mainstream gaming conversation — the one in media coverage, trending social posts, big public streams — Warframe is structurally absent. Why?
+But in the mainstream gaming conversation, the one in media coverage, trending social posts, big public streams, Warframe is structurally absent. Why?
 
 Several reasons.
 
-First, the game is dense. Warframe's entry curve is one of the genre's steepest. The tutorial has been reworked multiple times over the years, and the latest version — deployed less than a month ago — is probably the best it's ever been. The effort is real, visible, and worth acknowledging. But Warframe is so vast, so loaded with interlocking systems, game-specific vocabulary and mechanics accumulated over 13 years, that no tutorial will ever fully flatten the slope. It's still an abrupt game to pick up — despite clear and consistent efforts to make that less true than it used to be.
+First, the game is dense. Warframe's entry curve is one of the genre's steepest. The tutorial has been reworked multiple times over the years, and the latest version, deployed less than a month ago, is probably the best it's ever been. The effort is real, visible, and worth acknowledging. But Warframe is so vast, so loaded with interlocking systems, game-specific vocabulary and mechanics accumulated over 13 years, that no tutorial will ever fully flatten the slope. It's still an abrupt game to pick up : despite clear and consistent efforts to make that less true than it used to be.
 
 Second, the game doesn't chase virality. There's no battle royale mode added to capture an audience. No collaboration with a rapper or film franchise to make noise. Warframe does collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), but they're never the core of the communication.
 

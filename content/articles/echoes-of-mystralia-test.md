@@ -7,7 +7,7 @@ excerpt: "On combine des souvenirs pour bricoler ses propres sorts, et ça march
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "7 min"
-score: 7.5
+score: 7
 image_color: "from-violet-950 via-fuchsia-950 to-indigo-950"
 coverImage: "/images/echoesofmystralia/screenshot-1.webp"
 gameName: "Echoes of Mystralia"
@@ -44,10 +44,13 @@ Le cadre ne manque pourtant pas d'idées. Une Faille s'est ouverte dans le Cycle
 
 Le problème tient plutôt à la façon dont tout ça se transmet, et c'est le mal chronique du roguelite : quand la structure vous ramène au point de départ à chaque échec, l'intrigue se dissout en fragments d'ambiance. On avance dans les systèmes, moins dans l'histoire. Résultat, un monde évocateur qu'on traverse sans jamais y être vraiment happé, alors que le matériau aurait mérité mieux.
 
-L'autre réserve est de statut : le jeu sort aujourd'hui en accès anticipé, avec ce que ça implique d'équilibrage à affiner et de contenu à venir. Le studio met d'ailleurs en avant sa communauté Discord et ses phases de test privées, signe qu'il compte ajuster en marchant. Aucun avis utilisateur n'existe encore, et cette note reflète l'état actuel d'une version qui bougera.
+L'autre réserve est de statut : le jeu vient de sortir en accès anticipé, avec ce que ça implique d'équilibrage à affiner et de contenu à venir. Le studio met d'ailleurs en avant sa communauté Discord et ses phases de test privées, signe qu'il compte ajuster en marchant. Cette note reflète donc l'état actuel d'une version qui bougera.
 
 Bonne nouvelle pour finir, et elle n'est pas si fréquente : le jeu est intégralement disponible en français.
 
 Pour qui aime bricoler ses propres outils de destruction, c'est déjà une raison suffisante d'y aller. Pour qui vient chercher une grande histoire, mieux vaut attendre de voir comment le récit s'étoffe.
+
+
+Les premiers avis Steam sont arrivés et confirment la nuance de ce test : Plutôt positifs, à 71 % sur près de 120 retours. Le système de sorts convainc, le reste divise davantage.
 
 ![Echoes of Mystralia, le Temple Azimuth et la progression entre les runs](/images/echoesofmystralia/screenshot-3.webp)

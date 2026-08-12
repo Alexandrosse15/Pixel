@@ -23,7 +23,7 @@ Developed by Pixel Builder Studio, Hex Harmony is a hex-grid puzzle management g
 
 What sets Hex Harmony apart from the crowd of management games is what it refuses to do. No timer. No reflex mechanics. No infinite sandbox that dilutes everything into endless content. The game is structured in short levels, designed for thinking, not scoring or competition.
 
-The central idea — understanding how elements interact and finding balance — is the idea of a good puzzle: simple to state, rich to explore.
+The central idea, understanding how elements interact and finding balance, is the idea of a good puzzle: simple to state, rich to explore.
 
 ![Hex Harmony](/images/hexharmony/screenshot-3.webp)
 

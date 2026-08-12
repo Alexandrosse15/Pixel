@@ -86,11 +86,11 @@ Cette continuité n'est pas courante. Elle explique en partie la cohérence d'un
 
 Warframe a plus de 70 millions de comptes enregistrés. Son subreddit dépasse le million de membres. Il organise chaque année le Tennocon, sa propre convention de fans. Ce n'est pas un jeu ignoré par ses joueurs.
 
-Mais dans la conversation gaming généraliste — celle des médias, des trending Twitter, des streams grand public — Warframe est structurellement absent. Pourquoi ?
+Mais dans la conversation gaming généraliste, celle des médias, des trending Twitter, des streams grand public, Warframe est structurellement absent. Pourquoi ?
 
 Plusieurs raisons.
 
-D'abord, le jeu est dense. La courbe d'entrée de Warframe est connue pour être une des plus abruptes du genre. Le tutoriel a été refondu plusieurs fois au fil des années, et la dernière version en date — déployée il y a moins d'un mois — est probablement la meilleure qu'il ait jamais eue. L'effort est réel, visible, et mérite d'être salué. Mais Warframe est tellement vaste, tellement chargé de systèmes imbriqués, de vocabulaire propre et de méchaniques accumulées en 13 ans, qu'aucun tutoriel ne pourra jamais totalement aplanir la pente. C'est toujours un jeu abrupt à prendre en main — malgré des efforts nets et constants pour que ce soit moins vrai qu'avant.
+D'abord, le jeu est dense. La courbe d'entrée de Warframe est connue pour être une des plus abruptes du genre. Le tutoriel a été refondu plusieurs fois au fil des années, et la dernière version en date, déployée il y a moins d'un mois, est probablement la meilleure qu'il ait jamais eue. L'effort est réel, visible, et mérite d'être salué. Mais Warframe est tellement vaste, tellement chargé de systèmes imbriqués, de vocabulaire propre et de méchaniques accumulées en 13 ans, qu'aucun tutoriel ne pourra jamais totalement aplanir la pente. C'est toujours un jeu abrupt à prendre en main : malgré des efforts nets et constants pour que ce soit moins vrai qu'avant.
 
 Ensuite, le jeu ne cherche pas la viralité. Il n'y a pas de mode battle royale ajouté pour capter un public. Pas de collaboration avec un rappeur ou une franchise cinématographique pour faire du bruit. Warframe fait des collaborations (Teenage Mutant Ninja Turtles, Nora's Mix), mais elles ne sont jamais le coeur de la communication.
 

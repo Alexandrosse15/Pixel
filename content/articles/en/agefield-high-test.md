@@ -1,12 +1,13 @@
 ---
 title: "Agefield High: an early 2000s high school nicer than the real one, and a rare piece of Steam page honesty"
-seoTitle: "Agefield High Rock the School: preview of the teen comedy game"
-slug: "agefield-high-preview"
-category: "previews"
+seoTitle: "Agefield High Rock the School: review of the teen comedy game"
+slug: "agefield-high-test"
+category: "tests"
 excerpt: "A raunchy early 2000s comedy in a handcrafted small town. The studio says plainly who the game is not for."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7
 image_color: "from-amber-950 via-rose-950 to-indigo-950"
 coverImage: "/images/agefieldhigh/screenshot-1.webp"
 gameName: "Agefield High: Rock the School"
@@ -44,5 +45,8 @@ Others, much less so, and the studio says as much itself. Humour is the first fi
 The game is out today, with no user reviews yet, which explains the absence of a score. Good news, it is available in French.
 
 One curiosity the store page does not settle: a game claiming the humour of another era still has to prove it has that era's spirit and not merely its jokes. That is the whole difference between a homage and a rerun.
+
+
+No Steam reviews are available as we write, so the score above reflects our assessment of what the game offers rather than a player consensus. It credits an honest, well-framed proposition that is funny for its audience, while accounting for its deliberately modest scope and the filter its humour represents.
 
 ![Agefield High Rock the School, the town of Agefield and its residents](/images/agefieldhigh/screenshot-2.webp)

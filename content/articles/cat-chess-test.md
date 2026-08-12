@@ -3,7 +3,7 @@ title: "Cat Chess ne réinvente pas les échecs, il les rend adorables, et on a 
 seoTitle: "Cat Chess : test et avis"
 slug: "cat-chess-test"
 category: "tests"
-excerpt: "Chaque pièce est un chat avec sa tête, ses animations et son sale caractère. Cat Chess ne touche pas aux règles, il touche au cœur. On n'avait jamais autant souri en perdant une partie."
+excerpt: "Chaque pièce est un chat avec sa tête, ses animations et son sale caractère. Cat Chess ne touche pas aux règles, il touche au coeur. On n'avait jamais autant souri en perdant une partie."
 date: "2026-07-14"
 author: "Alexandrosse"
 readTime: "6 min"
@@ -14,7 +14,7 @@ gameName: "Cat Chess"
 featured: false
 ---
 
-On ne va pas se mentir, il y a des jours où on n'a pas envie de sauver le monde ni de gérer une apocalypse. On a juste envie de jouer aux échecs pendant que des chats font n'importe quoi sur l'échiquier. Cat Chess a été conçu exactement pour ces jours-là, et il faut le dire tout de suite : c'est notre coup de cœur, celui qu'on lance entre deux tests plus sérieux et qu'on n'arrive plus à lâcher, un sourire idiot scotché au visage.
+On ne va pas se mentir, il y a des jours où on n'a pas envie de sauver le monde ni de gérer une apocalypse. On a juste envie de jouer aux échecs pendant que des chats font n'importe quoi sur l'échiquier. Cat Chess a été conçu exactement pour ces jours-là, et il faut le dire tout de suite : c'est notre coup de coeur, celui qu'on lance entre deux tests plus sérieux et qu'on n'arrive plus à lâcher, un sourire idiot scotché au visage.
 
 ![Cat Chess, l'échiquier peuplé de chats aux animations expressives](/images/catchess/screenshot-1.webp)
 
@@ -46,13 +46,13 @@ De la même manière, une fois passé l'émerveillement des premières parties, 
 
 ## Ce qu'on retient
 
-Cat Chess est la définition même du bon coup de cœur : un jeu qui ne cherche pas à être plus qu'il n'est, mais qui fait ce qu'il fait à la perfection. En gardant l'intégralité de la profondeur des échecs et en l'habillant de chats aux animations irrésistibles, il réussit un exploit discret : rendre chaleureux et drôle le jeu le plus austère de l'histoire. On rit devant les prises, on s'attache aux petites bêtes, et on relance une partie sans même y penser. Pour le prix d'une pause café, c'est une source de sourires inépuisable.
+Cat Chess est la définition même du bon coup de coeur : un jeu qui ne cherche pas à être plus qu'il n'est, mais qui fait ce qu'il fait à la perfection. En gardant l'intégralité de la profondeur des échecs et en l'habillant de chats aux animations irrésistibles, il réussit un exploit discret : rendre chaleureux et drôle le jeu le plus austère de l'histoire. On rit devant les prises, on s'attache aux petites bêtes, et on relance une partie sans même y penser. Pour le prix d'une pause café, c'est une source de sourires inépuisable.
 
 Il faut simplement l'aborder pour ce qu'il est : un habillage adorable et hilarant posé sur un classique intouchable, pas une révolution du genre. Mais franchement, avait-on besoin d'une révolution ? Parfois, un peu de tendresse, beaucoup de chats et un vrai sens du détail suffisent à créer quelque chose de précieux. Cat Chess est ce genre de petit miracle, et on ne peut que lui souhaiter de faire des petits.
 
 ## Verdict
 
-Les échecs dans toute leur profondeur, habillés de chats aux animations en or qui font mourir de rire : pas une révolution, mais un coup de cœur irrésistible de tendresse et de drôlerie.
+Les échecs dans toute leur profondeur, habillés de chats aux animations en or qui font mourir de rire : pas une révolution, mais un coup de coeur irrésistible de tendresse et de drôlerie.
 
 **Points forts :**
 

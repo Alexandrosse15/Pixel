@@ -21,7 +21,7 @@ Magicians: The Devil's Deal est développé par Uppercut Games et édité par Fo
 
 Le jeu est attendu en 2027 sur PC, Xbox Series et PlayStation 5, avec une arrivée dès le premier jour dans le Game Pass. C'est loin, et c'est la seule mauvaise nouvelle de cette annonce.
 
-![Deux mains gantées, une baguette et un valet de cœur: la magie de scène devient arme](/images/magicians-devils-deal/screenshot-1.jpg)
+![Deux mains gantées, une baguette et un valet de coeur: la magie de scène devient arme](/images/magicians-devils-deal/screenshot-1.jpg)
 
 ## Le scénario
 

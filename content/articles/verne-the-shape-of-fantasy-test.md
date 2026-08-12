@@ -65,7 +65,7 @@ Un bémol technique à noter : l'absence de sauvegarde manuelle. Le jeu sauvegar
 
 **Points forts :**
 
-- concept narratif brillant — Jules Verne dans son propre monde imaginaire est une idée d'une justesse évidente
+- concept narratif brillant : Jules Verne dans son propre monde imaginaire est une idée d'une justesse évidente
 - pixel art soigné, cohérent et expressif, réalisé par une seule personne
 - bande-son qui mele classique et composition originale avec intelligence
 - mécanique IMAG originale et bien intégrée au propos du jeu

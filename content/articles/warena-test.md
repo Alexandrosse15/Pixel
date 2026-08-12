@@ -26,9 +26,9 @@ Warena est un card-battler en stratégie temps réel développé par Part Time M
 
 Venons-en à ce qui compte, ce que vous avez dit vous-même : les cartes sont ce qui ajoute le sel d'un jeu, et c'est là qu'on attendait Warena au tournant. Bonne nouvelle, le sel est bien présent. On draft son deck, on gère son économie de mana, et chaque affrontement se joue sur la gestion des ressources et le contre-timing. Les deux joueurs agissent simultanément, dans des parties rapides et nerveuses où poser la bonne carte au bon moment, en réponse à celle de l'adversaire, fait toute la différence. C'est cette danse d'anticipation et de réaction, cette lecture permanente du jeu adverse, qui donne aux cartes leur saveur et à Warena son mordant.
 
-Le jeu ajoute par-dessus deux idées qui musclent la formule. Un système de runes débloque des cartes, des unités et des capacités en plein combat, si bien que votre arsenal évolue au fil de la partie plutôt que d'être figé d'entrée. Et surtout, avant chaque match, on choisit une capacité de héros qui définit son approche et que l'adversaire devra apprendre à contourner. Ces deux couches ajoutent une profondeur tactique bienvenue, transformant chaque partie en une petite partie d'échecs survoltée où l'on adapte sa stratégie à celle d'en face. Les cartes ne sont pas un gadget, elles sont le cœur battant du jeu, et elles tiennent leurs promesses.
+Le jeu ajoute par-dessus deux idées qui musclent la formule. Un système de runes débloque des cartes, des unités et des capacités en plein combat, si bien que votre arsenal évolue au fil de la partie plutôt que d'être figé d'entrée. Et surtout, avant chaque match, on choisit une capacité de héros qui définit son approche et que l'adversaire devra apprendre à contourner. Ces deux couches ajoutent une profondeur tactique bienvenue, transformant chaque partie en une petite partie d'échecs survoltée où l'on adapte sa stratégie à celle d'en face. Les cartes ne sont pas un gadget, elles sont le coeur battant du jeu, et elles tiennent leurs promesses.
 
-![Warena, la gestion du mana et le choix des cartes au cœur de chaque affrontement](/images/warena/screenshot-2.webp)
+![Warena, la gestion du mana et le choix des cartes au coeur de chaque affrontement](/images/warena/screenshot-2.webp)
 
 ## Ce qui change vraiment de Clash Royale
 
@@ -46,7 +46,7 @@ Le jeu demande par ailleurs un vrai investissement pour être apprécié. La ric
 
 ## Ce qu'on retient
 
-Warena est une excellente surprise pour tous ceux qui ont aimé Clash Royale avant que son modèle ne le dévore. Il en retrouve l'immédiateté et la tension, y ajoute la profondeur du RTS et de vraies couches tactiques avec ses runes et ses capacités de héros, et surtout il répond à la question qu'on posait : oui, les cartes ajoutent bien le sel espéré, et elles sont le cœur d'un jeu nerveux et malin. Le tout signé par une patte visuelle immédiatement attachante, héritée d'Angry Birds. Pour dix euros, c'est une proposition franchement séduisante.
+Warena est une excellente surprise pour tous ceux qui ont aimé Clash Royale avant que son modèle ne le dévore. Il en retrouve l'immédiateté et la tension, y ajoute la profondeur du RTS et de vraies couches tactiques avec ses runes et ses capacités de héros, et surtout il répond à la question qu'on posait : oui, les cartes ajoutent bien le sel espéré, et elles sont le coeur d'un jeu nerveux et malin. Le tout signé par une patte visuelle immédiatement attachante, héritée d'Angry Birds. Pour dix euros, c'est une proposition franchement séduisante.
 
 Mais son plus grand mérite reste son intégrité. Dans un genre gangrené par les microtransactions, Warena fait le choix radical et courageux de la décence : on achète le jeu, on a tout le jeu, et on gagne par le talent. Ce geste, à lui seul, mérite qu'on le soutienne. Reste la grande inconnue de sa communauté, dont dépendra tout son avenir compétitif. Si les joueurs répondent présents, Warena pourrait bien être le card-battler qu'on réclamait depuis que le genre a vendu son âme.
 

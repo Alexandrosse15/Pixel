@@ -1,5 +1,5 @@
 ---
-title: "Go-Go Town! vous promet un tunnel d'optimisation logistique, mais son cœur bat pour le cozy plus que pour le min-max"
+title: "Go-Go Town! vous promet un tunnel d'optimisation logistique, mais son coeur bat pour le cozy plus que pour le min-max"
 seoTitle: "Go-Go Town! : test et avis"
 slug: "go-go-town-test"
 category: "tests"
@@ -14,7 +14,7 @@ gameName: "Go-Go Town!"
 featured: false
 ---
 
-Il y a deux écoles chez les amateurs de gestion. Ceux qui veulent une jolie ville qui tourne, et ceux qui veulent optimiser leurs chaînes d'approvisionnement jusqu'à trois heures du matin en marmonnant "encore un tapis roulant". Go-Go Town! s'adresse d'abord aux premiers, mais il fait de l'œil aux seconds en promettant d'automatiser la logistique. La vraie question, celle qu'on s'est posée manette en main, c'est donc simple : ce petit builder adorable est-il capable de nous enfermer dans un vrai tunnel d'optimisation ?
+Il y a deux écoles chez les amateurs de gestion. Ceux qui veulent une jolie ville qui tourne, et ceux qui veulent optimiser leurs chaînes d'approvisionnement jusqu'à trois heures du matin en marmonnant "encore un tapis roulant". Go-Go Town! s'adresse d'abord aux premiers, mais il fait de l'oeil aux seconds en promettant d'automatiser la logistique. La vraie question, celle qu'on s'est posée manette en main, c'est donc simple : ce petit builder adorable est-il capable de nous enfermer dans un vrai tunnel d'optimisation ?
 
 ![Go-Go Town!, le maire de terrain qui bâtit sa ville au milieu de l'action](/images/gogotown/screenshot-1.webp)
 

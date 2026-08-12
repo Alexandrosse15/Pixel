@@ -47,7 +47,7 @@ The three playable factions (Allies, Axis, Soviet Union) remain convincingly asy
 
 What changes is the depth of command.
 
-Sudden Strike 5 introduces a far more developed general system than previous entries. Each general has a skill tree that shapes their playstyle: defensive doctrine, mobility, firepower, logistical support. Not revolutionary in isolation — other strategy games have done this — but the integration is clean, the choices are readable, and crucially they have a real impact on how you approach missions. You play differently with a general specialised in attrition warfare than one who bets everything on rapid breakthrough.
+Sudden Strike 5 introduces a far more developed general system than previous entries. Each general has a skill tree that shapes their playstyle: defensive doctrine, mobility, firepower, logistical support. Not revolutionary in isolation, other strategy games have done this, but the integration is clean, the choices are readable, and crucially they have a real impact on how you approach missions. You play differently with a general specialised in attrition warfare than one who bets everything on rapid breakthrough.
 
 The other major addition concerns the supply system. In the early Sudden Strike games, logistics were present but relatively simple. Here, they become a tactical priority of their own. Supply lines break, logistics trucks must use secured roads, and an armoured unit that runs out of fuel at the wrong moment can tip an entire battle. A mechanic that could have been frustrating, and instead adds a welcome layer of tension across longer missions.
 

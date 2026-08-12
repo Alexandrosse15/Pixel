@@ -37,7 +37,7 @@ Suivre une odeur demande d'observer l'environnement différemment. On lit le ven
 
 Ce qui est remarquable, c'est que la mécanique olfactive oblige à ralentir. On ne peut pas sprinter d'un point à l'autre en ignorant le chemin. Le jeu force à habiter l'espace, à regarder, à sentir dans le sens littéral du terme. C'est une contrainte qui devient rapidement un plaisir.
 
-## Les frères et sœurs, Maxime, et les autres
+## Les frères et soeurs, Maxime, et les autres
 
 L'objectif principal est de retrouver les membres de la famille de Boris, chacun avec sa propre personnalité et ses propres énigmes adaptées. Ce n'est pas de la progression déguisée : les interactions sont écrites avec suffisamment de caractère pour que chaque retrouvaille soit un moment à part entière.
 
@@ -55,7 +55,7 @@ On a beaucoup de jeux qui se disent "cozy". La plupart utilisent ce mot pour dé
 
 Il y a une scène en particulier, qu'on ne détaillera pas, où le jeu dit quelque chose de simple sur la famille et la perte sans jamais l'articuler explicitement. Boris n'a pas de dialogues. Maxime raconte. Et pourtant l'émotion arrive, proprement, sans forcer.
 
-On ne s'y attendait pas. C'est un jeu sur un marcassin qui retrouve ses frères et sœurs dans un parc naturel. Et on s'est retrouvé sincèrement investi, sincèrement ému, à vouloir retrouver le prochain membre de la famille non pas pour avancer dans un système de progression mais parce qu'on en avait envie. Parce que Boris en avait besoin. C'est la différence entre un jeu qui simule l'attachement et un jeu qui le crée vraiment.
+On ne s'y attendait pas. C'est un jeu sur un marcassin qui retrouve ses frères et soeurs dans un parc naturel. Et on s'est retrouvé sincèrement investi, sincèrement ému, à vouloir retrouver le prochain membre de la famille non pas pour avancer dans un système de progression mais parce qu'on en avait envie. Parce que Boris en avait besoin. C'est la différence entre un jeu qui simule l'attachement et un jeu qui le crée vraiment.
 
 C'est ce que font les bons jeux narratifs, et c'est ce que réussit Adorable Adventures avec une économie de moyens qui force le respect.
 

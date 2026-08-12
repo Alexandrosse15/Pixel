@@ -68,4 +68,4 @@ Parce que dans cette industrie, entre "on a pris conscience du problème" et "on
 
 ---
 
-*Source : mémo interne cité par The Verge, Windows Central, GameSpot — avril 2026*
+*Source : mémo interne cité par The Verge, Windows Central, GameSpot : avril 2026*

@@ -7,7 +7,7 @@ excerpt: "Tactique au tour par tour honnête mais sans éclat. Surtout, c'est la
 date: "2026-08-11"
 author: "Alexandrosse"
 readTime: "8 min"
-score: 6
+score: 7
 image_color: "from-amber-950 via-stone-900 to-red-950"
 coverImage: "/images/warhounds/screenshot-1.webp"
 gameName: "Warhounds"
@@ -47,5 +47,8 @@ Deux précisions d'exactitude, parce qu'il circule des choses inexactes. D'abord
 Nous n'irons pas plus loin dans le procès d'intention, et nous ne dirons pas à qui va l'argent aujourd'hui, faute de pouvoir le vérifier. Les faits établis suffisent : un jeu financé à l'origine par un organisme adossé au pouvoir russe, ressorti sous un autre nom via un éditeur basé à Dubaï après avoir été restreint sur les marchés occidentaux. Certains s'en moqueront, d'autres refuseront de payer pour ça. C'est un choix personnel, et il mérite d'être fait en connaissance de cause plutôt que par ignorance.
 
 La note ci-dessus porte uniquement sur le jeu. Le reste vous appartient.
+
+
+À noter, la réception est meilleure que ne le laissait présager notre première impression : les avis Steam sont Très positifs, à 82 % sur plus de 110 retours. Le jeu fait donc son travail auprès des amateurs de tactique, ce que la note reflète.
 
 ![Warhounds, la gestion de base entre les missions](/images/warhounds/screenshot-3.webp)

@@ -92,7 +92,7 @@ Ce qui rend GTA VI fascinant, ce n'est pas uniquement ce qu'il sera à sa sortie
 
 Un symbole.
 
-Celui d'une industrie capable de produire des œuvres gigantesques, mais aussi prisonnière de ses propres attentes. Celui d'un public qui espère être surpris, tout en voulant retrouver ce qu'il connaît déjà.
+Celui d'une industrie capable de produire des oeuvres gigantesques, mais aussi prisonnière de ses propres attentes. Celui d'un public qui espère être surpris, tout en voulant retrouver ce qu'il connaît déjà.
 
 ## Conclusion
 

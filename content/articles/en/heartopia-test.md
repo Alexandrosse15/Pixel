@@ -44,9 +44,9 @@ The multiplayer is the real added value. Visiting a friend's house, co-building 
 
 ## Since the beta: real improvements
 
-Credit where it's due — the release version is a meaningful improvement on what the closed beta in December 2025 offered.
+Credit where it's due : the release version is a meaningful improvement on what the closed beta in December 2025 offered.
 
-Player visits are smoother. The item exchange system between players has been reworked and now functions without friction. Pets — cats and dogs — have gained additional interactions and abilities that genuinely help in certain activities. New NPCs and zones have been added, giving slightly more to explore at launch.
+Player visits are smoother. The item exchange system between players has been reworked and now functions without friction. Pets, cats and dogs, have gained additional interactions and abilities that genuinely help in certain activities. New NPCs and zones have been added, giving slightly more to explore at launch.
 
 Performance has also improved, particularly on mobile. The beta had some instability issues that were largely resolved for the official release.
 

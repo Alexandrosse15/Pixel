@@ -52,7 +52,7 @@ Vestige is also ineligible for CNC funding due to the proportion of volunteers o
 
 ![Vestige](/images/vestige/screenshot-4.webp)
 
-Vestige has a clear identity, an ambitious narrative structure, and a team that learns quickly from its mistakes. The seven zones of grief, the impulse mechanic that evolves throughout the game, the blend of realism and stylisation — all of it sketches a game that knows where it wants to go.
+Vestige has a clear identity, an ambitious narrative structure, and a team that learns quickly from its mistakes. The seven zones of grief, the impulse mechanic that evolves throughout the game, the blend of realism and stylisation : all of it sketches a game that knows where it wants to go.
 
 If the project intrigues you, a Kickstarter pre-launch page is already live for those who want to keep an eye on the upcoming campaign.
 

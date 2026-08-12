@@ -33,7 +33,7 @@ C'est une idée simple et élégante, du genre qui dit beaucoup sur l'intention 
 
 Le créateur de Steel Fortress Awakening a une approche peu commune : il a commencé par la direction artistique. Avant le game design, avant le code, avant tout, l'image. Et ça se sent dans sa vision.
 
-Le style visuel visé est un rendu flat animé à la japonaise, avec des ombres marquées, très stylisé, très détaillé, quelque chose entre le cel shading mature et une esthétique hotline miami. Sobre et percutant. Une DA qui devrait s'imposer immédiatement à l'œil sans chercher à impressionner par la technique brute.
+Le style visuel visé est un rendu flat animé à la japonaise, avec des ombres marquées, très stylisé, très détaillé, quelque chose entre le cel shading mature et une esthétique hotline miami. Sobre et percutant. Une DA qui devrait s'imposer immédiatement à l'oeil sans chercher à impressionner par la technique brute.
 
 Côté format, l'ambition est claire et assumée : environ 8 heures de jeu, aventure linéaire sans rejouabilité pour l'instant, sans système de choix narratifs. On est dans l'expérience concentrée, pas dans le monde ouvert qui se délite.
 

@@ -51,4 +51,4 @@ La version 1.0 sera le vrai test. En accès anticipé, on surveille. Et pour l'i
 
 ---
 
-*Preview basée sur l'accès anticipé — version susceptible d'évoluer significativement*
+*Preview basée sur l'accès anticipé : version susceptible d'évoluer significativement*

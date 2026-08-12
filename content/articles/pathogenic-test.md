@@ -24,7 +24,7 @@ Pathogenic est un roguelike shooter cellulaire développé par Aberrant Labs et 
 
 ## Le gameplay : piller, greffer, muter
 
-Le cœur de Pathogenic, c'est son système d'évolution par pillage, et il est génialement pensé. Vous ne montez pas en puissance en gagnant des niveaux abstraits : vous chassez les cellules ennemies, vous leur arrachez littéralement leurs organites, et vous les greffez sur votre propre corps pour évoluer. On passe d'une cellule simple à une machine de destruction complexe en assemblant des dizaines d'organites aux fonctions précises : des flagelles pour le déplacement, des mitochondries pour la puissance, des sécréteurs pour l'attaque à distance, des épines pour le corps à corps. Chaque run devient une construction organique unique, façonnée par ce qu'on a réussi à voler à ses proies.
+Le coeur de Pathogenic, c'est son système d'évolution par pillage, et il est génialement pensé. Vous ne montez pas en puissance en gagnant des niveaux abstraits : vous chassez les cellules ennemies, vous leur arrachez littéralement leurs organites, et vous les greffez sur votre propre corps pour évoluer. On passe d'une cellule simple à une machine de destruction complexe en assemblant des dizaines d'organites aux fonctions précises : des flagelles pour le déplacement, des mitochondries pour la puissance, des sécréteurs pour l'attaque à distance, des épines pour le corps à corps. Chaque run devient une construction organique unique, façonnée par ce qu'on a réussi à voler à ses proies.
 
 Avec plus d'une centaine d'organites et de mutations dans la version complète, la profondeur de build est réelle, et c'est là que le jeu accroche. On expérimente, on combine, on cherche les synergies, on bricole un monstre cellulaire à son image, exactement dans l'esprit des meilleurs roguelikes. Face à vous se dresse tout un bestiaire immunitaire crédible, des macrophages aux lymphocytes T, sans compter les parasites rivaux comme les ténias ou les protozoaires qui se disputent le même hôte. Cette course à l'armement biologique, où l'hôte se défend de mieux en mieux à mesure que vous grandissez, donne au jeu une tension et une logique thématique parfaitement tenues.
 
@@ -58,7 +58,7 @@ Un roguelike shooter cellulaire au concept aussi répugnant qu'original, où l'o
 **Points faibles :**
 
 - La profondeur des synergies sur des dizaines de runs reste à confirmer
-- Un concept organique et gluant qui ne séduira pas les cœurs sensibles
+- Un concept organique et gluant qui ne séduira pas les coeurs sensibles
 - La difficulté propre au genre, qui demande de la persévérance
 
 ---

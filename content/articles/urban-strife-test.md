@@ -32,7 +32,7 @@ C'est exactement ce que le genre avait mis de côté, et le redécouvrir fait un
 
 L'autre trouvaille du jeu répond à un problème vieux comme le tactique au tour par tour : que faire quand les ennemis sont trop nombreux et que chaque tour adverse dure une éternité ? Urban Strife règle la question avec une phase simultanée dédiée à la horde. Tous les morts-vivants agissent en même temps, tout en prenant chacun leurs propres décisions, ce qui maintient la tension et la lisibilité même face à une marée de cadavres. On échappe ainsi à l'ennui mortel des tours ennemis interminables, sans sacrifier le sentiment d'être submergé par le nombre, qui est tout l'intérêt d'une apocalypse zombie.
 
-Ce découpage est plus malin qu'il n'en a l'air. Il transforme la horde en menace de masse, une vague qu'on tente d'endiguer plutôt qu'une série d'adversaires qu'on élimine un par un. Combiné à la balistique, ça donne des situations d'une vraie intensité : économiser ses munitions, choisir entre le fusil qui perce et le silence du corps à corps, décider quand tenir une position et quand fuir. Urban Strife comprend que la peur du nombre est le cœur de son fantasme, et il l'orchestre avec soin.
+Ce découpage est plus malin qu'il n'en a l'air. Il transforme la horde en menace de masse, une vague qu'on tente d'endiguer plutôt qu'une série d'adversaires qu'on élimine un par un. Combiné à la balistique, ça donne des situations d'une vraie intensité : économiser ses munitions, choisir entre le fusil qui perce et le silence du corps à corps, décider quand tenir une position et quand fuir. Urban Strife comprend que la peur du nombre est le coeur de son fantasme, et il l'orchestre avec soin.
 
 ![Urban Strife, le système balistique où chaque tir suit une trajectoire et une pénétration réelles](/images/urbanstrife/screenshot-2.webp)
 
@@ -52,7 +52,7 @@ On sent aussi, ici et là, les traces d'une production indépendante qui a vu gr
 
 ## Ce qu'on retient
 
-Urban Strife est une excellente nouvelle pour les amateurs de tactique au tour par tour, parce qu'il apporte quelque chose de neuf à un genre qu'on croyait figé. Sa simulation balistique remet la matière et la trajectoire au cœur du jeu, sa phase de horde simultanée résout élégamment le problème du nombre, et sa couche de survie et de factions lui donne une âme qui dépasse le simple combat. C'est un jeu qui pense, qui exige, et qui récompense généreusement ceux qui acceptent ses règles. Face à XCOM, il oppose le réalisme à l'abstraction, et cette proposition a une vraie valeur.
+Urban Strife est une excellente nouvelle pour les amateurs de tactique au tour par tour, parce qu'il apporte quelque chose de neuf à un genre qu'on croyait figé. Sa simulation balistique remet la matière et la trajectoire au coeur du jeu, sa phase de horde simultanée résout élégamment le problème du nombre, et sa couche de survie et de factions lui donne une âme qui dépasse le simple combat. C'est un jeu qui pense, qui exige, et qui récompense généreusement ceux qui acceptent ses règles. Face à XCOM, il oppose le réalisme à l'abstraction, et cette proposition a une vraie valeur.
 
 Il faut simplement savoir à qui il s'adresse. Austère, exigeant, parfois rugueux, Urban Strife ne cherche pas le grand public et ne l'aura pas. Mais pour le vétéran du genre qui cherche de la profondeur et une vraie idée neuve, c'est une pépite qui comble un manque. MicroProse et White Pond Games signent là un tactique de caractère, imparfait mais passionnant, qui redonne du poids à chaque balle et à chaque décision. On en redemande.
 

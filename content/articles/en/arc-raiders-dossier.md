@@ -80,7 +80,7 @@ Where DayZ improvised, ARC Raiders structures.
 
 ![DayZ](/images/dayz/screenshot-4.webp)
 
-That's not a criticism of DayZ — it's a recognition of what it opened. The survival extraction genre wouldn't exist without it. But opening the road and knowing how to walk it correctly are two different skills.
+That's not a criticism of DayZ : it's a recognition of what it opened. The survival extraction genre wouldn't exist without it. But opening the road and knowing how to walk it correctly are two different skills.
 
 ![DayZ](/images/dayz/screenshot-5.webp)
 

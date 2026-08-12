@@ -100,4 +100,4 @@ Windrose is the pirate game we've been waiting for ten years, in early access, w
 
 ---
 
-*Tested on PC, early access — version of April 14th 2026*
+*Tested on PC, early access : version of April 14th 2026*

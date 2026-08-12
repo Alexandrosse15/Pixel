@@ -35,7 +35,7 @@ Entre ces annonces publiques, Amazon a aussi tué "plusieurs projets non annonc�
 
 La première tentative de MMO Seigneur des Anneaux par Amazon remonte à 2019. Partenariat avec Leyou Technologies pour développer le jeu. Annulé en avril 2021 quand Tencent a racheté Leyou et que les droits contractuels sont devenus un cauchemar juridique. Premier abandon.
 
-La deuxième tentative, celle qui vient d'être confirmée annulée, était censée être la bonne. Nouveau départ, nouvelle équipe, leçons tirées des échecs précédents. Amazon avait la licence, les ressources, et — en théorie — l'expérience de ses propres erreurs pour ne pas les répéter.
+La deuxième tentative, celle qui vient d'être confirmée annulée, était censée être la bonne. Nouveau départ, nouvelle équipe, leçons tirées des échecs précédents. Amazon avait la licence, les ressources, et, en théorie, l'expérience de ses propres erreurs pour ne pas les répéter.
 
 Le résultat est le même. L'annulation est intervenue dans le sillage des licenciements massifs qui ont démantelé Amazon Games Studio fin 2025. Le studio qui devait construire ce MMO n'existe plus dans la forme où il existait. Les équipes ont été réduites ou dissoutes. Le jeu est mort avec elles.
 

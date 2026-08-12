@@ -43,7 +43,7 @@ Because coordination is the real heart of the game. Far Far West asks players to
 
 ## Bounties and extraction: the tension that keeps you coming back
 
-The mission structure is built around a bounty hunting system. The team selects a contract, ventures into dangerous territory, neutralises the target, and must get out alive — or at least "mostly alive," based on the sessions we played.
+The mission structure is built around a bounty hunting system. The team selects a contract, ventures into dangerous territory, neutralises the target, and must get out alive : or at least "mostly alive," based on the sessions we played.
 
 ![Far Far West](/images/farfarwest/screenshot-5.webp)
 

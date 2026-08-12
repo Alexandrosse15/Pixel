@@ -1,12 +1,13 @@
 ---
 title: "Airport Manager Simulator 2026 : depuis Die Hard 2, on rêvait tous de tenir la tour, et c'est à peu près ça"
-seoTitle: "Airport Manager Simulator 2026 : preview du simulateur de gestion d'aéroport"
-slug: "airport-manager-simulator-2026-preview"
-category: "previews"
+seoTitle: "Airport Manager Simulator 2026 : test et avis du simulateur de gestion d'aéroport"
+slug: "airport-manager-simulator-2026-test"
+category: "tests"
 excerpt: "Flux de passagers, bagages, avitaillement et passerelles à piloter soi-même. Le cahier des charges est rempli, l'ambition reste modeste."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 6
 image_color: "from-sky-950 via-slate-900 to-zinc-900"
 coverImage: "/images/airportmanager2026/screenshot-1.webp"
 gameName: "Airport Manager Simulator 2026"
@@ -42,5 +43,8 @@ Deux signaux appellent à la prudence. Le jeu sort en accès anticipé, avec ce 
 Aucun avis utilisateur n'existe pour l'instant, le jeu sortant aujourd'hui, d'où l'absence de note.
 
 La vraie question sera la profondeur de la simulation. Un aéroport est un système passionnant à gérer si les dépendances sont réellement modélisées et si une erreur se propage. Si en revanche les incidents ne sont qu'une suite d'alertes à cliquer, l'ennui arrive vite. On aimerait beaucoup y trouver la tension d'une nuit de tempête à Dulles. On attend de voir.
+
+
+Aucun avis Steam n'est encore disponible, la note ci-dessus reflète donc notre appréciation des systèmes annoncés et non un consensus de joueurs. Elle récompense un cahier des charges correctement rempli et la bonne idée du pilotage direct des équipements, tout en sanctionnant une présentation générique, un accès anticipé et l'absence de version française.
 
 ![Airport Manager Simulator 2026, les equipements au sol et les operations](/images/airportmanager2026/screenshot-2.webp)

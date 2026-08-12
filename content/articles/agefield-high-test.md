@@ -1,12 +1,13 @@
 ---
 title: "Agefield High : un lycée des années 2000 plus sympa que le vrai, et une fiche Steam d'une honnêteté rare"
-seoTitle: "Agefield High Rock the School : preview de la comédie lycéenne"
-slug: "agefield-high-preview"
-category: "previews"
+seoTitle: "Agefield High Rock the School : test et avis de la comédie lycéenne"
+slug: "agefield-high-test"
+category: "tests"
 excerpt: "Une comédie potache début 2000 dans une petite ville faite main. Le studio dit franchement à qui le jeu ne s'adresse pas."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7
 image_color: "from-amber-950 via-rose-950 to-indigo-950"
 coverImage: "/images/agefieldhigh/screenshot-1.webp"
 gameName: "Agefield High: Rock the School"
@@ -44,5 +45,8 @@ Aux autres, beaucoup moins, et le studio le dit lui-même. L'humour est le premi
 Le jeu sort aujourd'hui, sans avis utilisateur pour l'instant, ce qui explique l'absence de note. Bonne nouvelle, il est disponible en français.
 
 Reste une curiosité que la fiche ne lève pas : un jeu qui revendique un humour d'une autre époque doit encore prouver qu'il en a l'esprit et pas seulement les blagues. C'est toute la différence entre un hommage et une redite.
+
+
+Aucun avis Steam n'est encore disponible au moment où nous écrivons, la note ci-dessus reflète donc notre appréciation de ce que le jeu propose et non un consensus de joueurs. Elle salue une proposition honnête, bien cadrée et amusante pour son public, tout en tenant compte de son ampleur volontairement modeste et du filtre que représente son humour.
 
 ![Agefield High Rock the School, la ville d Agefield et ses habitants](/images/agefieldhigh/screenshot-2.webp)

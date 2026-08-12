@@ -113,4 +113,4 @@ Not the new king. But perhaps finally an MMO that makes you want to believe.
 
 ---
 
-*Preview based on the in-development version — the game is subject to significant changes before release*
+*Preview based on the in-development version : the game is subject to significant changes before release*

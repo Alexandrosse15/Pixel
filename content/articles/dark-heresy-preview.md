@@ -35,7 +35,7 @@ L'équipe que vous constituez autour de vous : Heimar Davos, un vétéran Catach
 
 ![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-4.webp)
 
-Et Ra'akhti. Un mercenaire Kroot. Jouable. Dans un jeu où on combat des Kroots. On ne sait pas encore si c'est une source de tension narrative ou simplement un clin d'œil, mais la question mérite d'être posée.
+Et Ra'akhti. Un mercenaire Kroot. Jouable. Dans un jeu où on combat des Kroots. On ne sait pas encore si c'est une source de tension narrative ou simplement un clin d'oeil, mais la question mérite d'être posée.
 
 ![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-5.webp)
 
@@ -49,7 +49,7 @@ Des Night Lords bien écrits, avec leur philosophie particulière, leur rapport 
 
 ## La direction artistique et la musique
 
-La bande-annonce a suffi. La direction artistique est juste magnifique : une esthétique 40K qui ne bascule pas dans la caricature, des décors qui respirent le Grimdark sans l'asséner, une palette cohérente avec ce que l'univers demande. Et la musique de la bande-annonce est fantastique. Cuivres, chœurs, une tension qui monte exactement là où elle doit monter. Si la bande originale complète tient ce niveau-là, Dark Heresy aura une ambiance sonore digne de l'Inquisition.
+La bande-annonce a suffi. La direction artistique est juste magnifique : une esthétique 40K qui ne bascule pas dans la caricature, des décors qui respirent le Grimdark sans l'asséner, une palette cohérente avec ce que l'univers demande. Et la musique de la bande-annonce est fantastique. Cuivres, choeurs, une tension qui monte exactement là où elle doit monter. Si la bande originale complète tient ce niveau-là, Dark Heresy aura une ambiance sonore digne de l'Inquisition.
 
 ![Warhammer 40,000: Dark Heresy](/images/darkheresy/screenshot-7.webp)
 

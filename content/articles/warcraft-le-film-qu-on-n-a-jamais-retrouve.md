@@ -65,7 +65,7 @@ Warcraft n'était pas pensé comme un film unique. C'était le début de quelque
 
 La suite n'est jamais venue.
 
-Et chez InsertCoins, on ne va pas prétendre que ça ne nous a pas brisé le cœur. Parce qu'il y avait clairement matière. Les factions, les conflits, les personnages, la mythologie : tout était là. La base était posée. Il suffisait de continuer à construire.
+Et chez InsertCoins, on ne va pas prétendre que ça ne nous a pas brisé le coeur. Parce qu'il y avait clairement matière. Les factions, les conflits, les personnages, la mythologie : tout était là. La base était posée. Il suffisait de continuer à construire.
 
 Sauf qu'Hollywood a regardé les chiffres du marché américain, a décidé que le film avait sous-performé, et a rangé la franchise dans le tiroir des projets abandonnés. Peu importe que le film ait été un succès massif en Chine. Peu importe qu'il ait une fanbase sincère et loyale. Peu importe qu'il y avait une vision.
 

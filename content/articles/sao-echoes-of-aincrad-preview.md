@@ -20,7 +20,7 @@ Ce qui veut dire qu'on suit Sword Art Online: Echoes of Aincrad avec bien plus q
 
 ## Ce qu'on sait
 
-Annoncé en mars 2026 par Bandai Namco, Echoes of Aincrad est prévu pour le 10 juillet 2026 sur PS5, Xbox Series X|S et PC. C'est un action-RPG qui ramène les joueurs sur les premiers étages du château d'Aincrad — les étages 1 et 2, ceux du début de la série, ceux qui ont tout lancé.
+Annoncé en mars 2026 par Bandai Namco, Echoes of Aincrad est prévu pour le 10 juillet 2026 sur PS5, Xbox Series X|S et PC. C'est un action-RPG qui ramène les joueurs sur les premiers étages du château d'Aincrad : les étages 1 et 2, ceux du début de la série, ceux qui ont tout lancé.
 
 La nouveauté principale est inédite dans la franchise : pour la première fois, le joueur ne joue pas Kirito. Il crée son propre personnage et vit une histoire originale, parallèle aux événements de l'arc original. C'est un risque narratif réel pour une série dont le protagoniste historique est une figure centrale, mais c'est aussi la décision la plus intelligente que Bandai Namco pouvait prendre pour renouveler l'intérêt des joueurs.
 

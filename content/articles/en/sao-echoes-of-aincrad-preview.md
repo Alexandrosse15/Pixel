@@ -19,9 +19,9 @@ Which means we're following Sword Art Online: Echoes of Aincrad with considerabl
 
 ## What we know
 
-Announced in March 2026 by Bandai Namco, Echoes of Aincrad is set for July 10th 2026 on PS5, Xbox Series X|S and PC. It's an action-RPG returning players to the earliest floors of Aincrad castle — floors 1 and 2, the ones that started everything.
+Announced in March 2026 by Bandai Namco, Echoes of Aincrad is set for July 10th 2026 on PS5, Xbox Series X|S and PC. It's an action-RPG returning players to the earliest floors of Aincrad castle : floors 1 and 2, the ones that started everything.
 
-The major new feature is a series first: for the first time, you don't play as Kirito. You create your own character and experience an original story running parallel to the events of the original arc. That's a real narrative risk for a series whose historical protagonist is a central figure — but it's also the smartest decision Bandai Namco could have made to renew player investment.
+The major new feature is a series first: for the first time, you don't play as Kirito. You create your own character and experience an original story running parallel to the events of the original arc. That's a real narrative risk for a series whose historical protagonist is a central figure : but it's also the smartest decision Bandai Namco could have made to renew player investment.
 
 ![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-3.webp)
 
@@ -37,7 +37,7 @@ The SAO franchise has an uneven game history. Lost Song was decent. Hollow Fragm
 
 But Hollow Realization, from 2016, remains for many the best SAO game to date. An ambitious open world, a combat system that finally found its rhythm, an atmosphere that captured something real from the source material. Echoes of Aincrad has to measure itself against that standard.
 
-Returning to floors 1 and 2 of Aincrad isn't a throwaway choice. It's a return to origins — to what made SAO hit so hard in the first place. Not the later arcs with their successive virtual worlds, but the original castle, the Death Game tension, the atmosphere that defined the series. For a fan of the manga and anime, this is exactly the terrain where you want a game to operate.
+Returning to floors 1 and 2 of Aincrad isn't a throwaway choice. It's a return to origins : to what made SAO hit so hard in the first place. Not the later arcs with their successive virtual worlds, but the original castle, the Death Game tension, the atmosphere that defined the series. For a fan of the manga and anime, this is exactly the terrain where you want a game to operate.
 
 ![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-5.webp)
 
@@ -45,7 +45,7 @@ The custom character is also a genuinely interesting promise. Hollow Realization
 
 ## What gives us pause
 
-We haven't played it. No public demo has been announced to date, no press access before release. What we know comes from the announcement trailer and Bandai Namco's official communications — which means we're talking about promises.
+We haven't played it. No public demo has been announced to date, no press access before release. What we know comes from the announcement trailer and Bandai Namco's official communications : which means we're talking about promises.
 
 ![Sword Art Online: Echoes of Aincrad](/images/SAO/screenshot-6.webp)
 
