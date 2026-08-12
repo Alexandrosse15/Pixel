@@ -3,7 +3,7 @@ title: "AI2U With You Til The End : dix-neuf mois d'accès anticipé plus tard, 
 seoTitle: "AI2U With You Til The End : preview de la version 1.0"
 slug: "ai2u-with-you-til-the-end-preview"
 category: "previews"
-excerpt: "Des personnages pilotés par un modèle de langage qui réagissent à ce que vous faites. Pas beau, mais très bien accueilli, et pas pour les raisons qu'on croit."
+excerpt: "Des personnages pilotés par un modèle de langage qui réagissent à ce que vous faites. Pas beau, mais très bien accueilli, et pas pour la raison qu'on croit."
 date: "2026-08-12"
 author: "Alexandrosse"
 readTime: "6 min"
