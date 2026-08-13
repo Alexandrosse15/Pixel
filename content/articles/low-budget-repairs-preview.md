@@ -23,7 +23,7 @@ Commençons par le responsable, puis par la bonne surprise, parce qu'il y en a u
 
 Low-Budget Repairs est développé par Gray2RGB et édité par Simplicity Games avec PlayWay. Ce dernier nom explique à peu près tout.
 
-PlayWay est la maison polonaise qui a industrialisé le simulateur de métier. Son modèle consiste à publier un très grand nombre de titres bâtis sur les mêmes fondations, la même logique de tâches à accomplir et, oui, la même patte visuelle. C'est ce qui produit cette impression tenace d'avoir déjà joué à un jeu qu'on découvre, et c'est pourquoi votre œil a immédiatement fait le rapprochement.
+PlayWay est la maison polonaise qui a industrialisé le simulateur de métier. Son modèle consiste à publier un très grand nombre de titres bâtis sur les mêmes fondations, la même logique de tâches à accomplir et, oui, la même patte visuelle. C'est ce qui produit cette impression tenace d'avoir déjà joué à un jeu qu'on découvre, et c'est pourquoi votre oeil a immédiatement fait le rapprochement.
 
 À cela s'ajoute une information que le studio publie lui-même dans la case de déclaration prévue par Steam, et qu'il faut lire attentivement : l'IA a été utilisée pour une partie des traductions, de la musique et des éléments visuels. Le studio précise en revanche que le jeu ne génère aucun contenu par IA en cours de partie et que le code n'a pas été écrit ainsi.
 

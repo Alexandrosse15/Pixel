@@ -25,7 +25,7 @@ Le verdict était sévère et remarquablement constant. Sur les performances d'a
 
 Sur les sensations ensuite, et c'est le reproche qui fait le plus mal à cette série : le tir semblait mou, la détection des impacts douteuse, avec une latence perçue entre le clic et le départ du coup. Le mot qui revenait le plus était que le jeu avait perdu le côté costaud de l'original, ce poids si particulier qui fait la signature de Hell Let Loose.
 
-S'ajoutaient des soucis d'éclairage étrange, de textures qui apparaissent tardivement, et surtout un problème de lisibilité dans la végétation, avec des ennemis difficiles à distinguer. Pour votre poste d'éclaireur, ce dernier point n'est pas un détail : c'est le cœur du métier.
+S'ajoutaient des soucis d'éclairage étrange, de textures qui apparaissent tardivement, et surtout un problème de lisibilité dans la végétation, avec des ennemis difficiles à distinguer. Pour votre poste d'éclaireur, ce dernier point n'est pas un détail : c'est le coeur du métier.
 
 Le sentiment dominant tenait en une phrase, répétée sous mille formes : il faut repousser ce jeu.
 
