@@ -28,7 +28,7 @@ Voilà celle qui nous a arrêtés. Nos cinq notes les plus basses de l'année : 
 
 Regardez bien. À une exception près, **ce sont tous des jeux qui vous donnent un travail**. Forger, nettoyer, tenir une caisse, creuser. Le fond de notre classement n'est pas peuplé de jeux ratés techniquement, il est peuplé de jeux qui confondent la tâche et le plaisir, et qui demandent au joueur d'accomplir une corvée en échange d'une barre de progression.
 
-Ce n'est pas une condamnation du genre. Certains simulateurs de métier sont excellents, précisément parce qu'ils offrent le moment de bascule où la machine prend le relais et où l'on passe du manœuvre à l'ingénieur. Ceux-là ne l'offrent jamais. Vous creusez pour pouvoir creuser plus vite, jusqu'à la fin.
+Ce n'est pas une condamnation du genre. Certains simulateurs de métier sont excellents, précisément parce qu'ils offrent le moment de bascule où la machine prend le relais et où l'on passe du manoeuvre à l'ingénieur. Ceux-là ne l'offrent jamais. Vous creusez pour pouvoir creuser plus vite, jusqu'à la fin.
 
 L'exception de la liste, c'est The Ranchers, et son cas mérite d'être rappelé parce qu'il nous concerne. On lui avait mis 7 au lancement. Puis on a vérifié ce qui avait réellement été livré face aux promesses de son financement participatif, et on a repris l'article de fond en comble pour le ramener à 4,5. C'est la seule note qu'on ait corrigée à ce point, et elle nous a servi de leçon : un dossier de presse n'est pas un jeu.
 
