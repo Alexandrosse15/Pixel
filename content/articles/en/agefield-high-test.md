@@ -47,6 +47,8 @@ The game is out today, with no user reviews yet, which explains the absence of a
 One curiosity the store page does not settle: a game claiming the humour of another era still has to prove it has that era's spirit and not merely its jokes. That is the whole difference between a homage and a rerun.
 
 
-No Steam reviews are available as we write, so the score above reflects our assessment of what the game offers rather than a player consensus. It credits an honest, well-framed proposition that is funny for its audience, while accounting for its deliberately modest scope and the filter its humour represents.
+No Steam reviews are available as we write, so this score comes from our own playthroughs rather than a player consensus. It credits an honest, well-framed proposition that is funny for its audience, while accounting for its deliberately modest scope and the filter its humour represents.
+
+And you, does early-2000s crude humour still make you laugh, or has it aged badly?
 
 ![Agefield High Rock the School, the town of Agefield and its residents](/images/agefieldhigh/screenshot-2.webp)

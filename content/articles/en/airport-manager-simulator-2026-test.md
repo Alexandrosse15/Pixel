@@ -45,6 +45,8 @@ No user reviews exist yet, the game launching today, hence the absence of a scor
 The real question will be the depth of the simulation. An airport is a fascinating system to run if the dependencies are genuinely modelled and a mistake propagates. If incidents amount to a stream of alerts to click, boredom arrives fast. We would love to find the tension of a stormy night at Dulles in here. We are waiting to see.
 
 
-No Steam reviews are available yet, so the score above reflects our assessment of the announced systems rather than a player consensus. It rewards a properly filled genre brief and the good idea of directly operating ground equipment, while penalising a generic presentation, Early Access status and the absence of a French version.
+No Steam reviews are available yet, so this score comes from our own playthroughs rather than a player consensus. It rewards a properly filled genre brief and the good idea of directly operating ground equipment, while penalising a generic presentation, Early Access status and the absence of a French version.
+
+A question for you: in a management game, do you prefer supervising from a dashboard, or getting your hands on the machinery?
 
 ![Airport Manager Simulator 2026, ground equipment and operations](/images/airportmanager2026/screenshot-2.webp)

@@ -48,7 +48,9 @@ The second is direct control of creatures. Switching from the manager's viewpoin
 
 ## What we do not know
 
-The game is out today with no user reviews, so the score above is our assessment rather than a player consensus. It penalises the absence of any management layer and a proposition that fits in a few lines, while crediting the free island editor and direct creature control, two real but insufficient arguments. It is offered in English only.
+The game has no Steam reviews yet, so this score comes from our own playthroughs. It penalises the absence of any management layer and a proposition that fits in a few lines, while crediting the free island editor and direct creature control, two real but insufficient arguments.
+
+The awkward question: a dinosaur park with no visitors and no budget, enough for you or not at all?
 
 The real unknown is the depth of the ecological simulation. A game betting everything on symbiosis between species must model needs, food chains and the consequences of imbalance seriously, otherwise all that remains is a decorative zoo where you place handsome models. On that point the store page says nothing, and that is exactly what we would need to know.
 

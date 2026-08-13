@@ -65,6 +65,8 @@ Finally, the most sensible recommendation is the one the community was already m
 We will update this article, with a score, as soon as the reception of the shipped game is measurable. Until then, keep your enthusiasm warm: if the foundations have been repaired, Vietnam is the dream terrain for a scout.
 
 
-No user reviews are available yet on the shipped version. The score above is therefore our assessment, accounting for the launch content and the heavy work inherited from the beta, and it will be revised as soon as reception of the released game is measurable.
+The game has just launched and has no Steam reviews on the shipped version, so this score comes from our own playthroughs, accounting for the launch content and the heavy work inherited from the beta. It will be revised if support fixes what needs fixing.
+
+Have you played since launch? Tell us above all how performance holds up on your machine, that is the point that will decide everything.
 
 ![Hell Let Loose Vietnam, the tunnels and specialised roles](/images/hellletloosevietnam/screenshot-3.webp)

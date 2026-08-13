@@ -42,7 +42,9 @@ If you know that format speaks to you a little too much, the money-free version 
 
 ## What to know
 
-The game is out today with no user reviews, so the score above is our assessment rather than a player consensus. It acknowledges a rare immediate effectiveness and welcome care over comfort options, while reserving judgement on the game's ability to renew a single repeated decision. Good news, it is available in French. There is also a notably thorough set of comfort options for such a small game, with a fully mouse-only or keyboard-only mode, detailed volume settings, colour alternatives and no timed input.
+The game has no Steam reviews yet, so this score comes from our own playthroughs. It acknowledges a rare immediate effectiveness and welcome care over comfort options, while reserving judgement on the game's ability to renew a single repeated decision.
+
+Be honest in the comments: do you cash out early, or always risk it one time too many?
 
 The real unknown is depth. A game built on one repeated decision must find ways to renew interest: new ticket types, rules that complicate, thresholds that change the arithmetic. Without that, the loop holding you for three quarters of an hour will not hold you for five. That is the gamble of every incremental, and it is where they split into two categories.
 

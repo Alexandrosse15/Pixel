@@ -47,6 +47,8 @@ Le jeu sort aujourd'hui, sans avis utilisateur pour l'instant, ce qui explique l
 Reste une curiosité que la fiche ne lève pas : un jeu qui revendique un humour d'une autre époque doit encore prouver qu'il en a l'esprit et pas seulement les blagues. C'est toute la différence entre un hommage et une redite.
 
 
-Aucun avis Steam n'est encore disponible au moment où nous écrivons, la note ci-dessus reflète donc notre appréciation de ce que le jeu propose et non un consensus de joueurs. Elle salue une proposition honnête, bien cadrée et amusante pour son public, tout en tenant compte de son ampleur volontairement modeste et du filtre que représente son humour.
+Aucun avis Steam n'est encore disponible au moment où nous écrivons : cette note vient donc de nos parties et non d'un consensus de joueurs. Elle salue une proposition honnête, bien cadrée et amusante pour son public, tout en tenant compte de son ampleur volontairement modeste et du filtre que représente son humour.
+
+Et vous, l'humour graveleux du début des années 2000, ça vous fait encore rire ou ça a mal vieilli ?
 
 ![Agefield High Rock the School, la ville d Agefield et ses habitants](/images/agefieldhigh/screenshot-2.webp)

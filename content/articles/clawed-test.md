@@ -47,6 +47,8 @@ Les inconnues sont celles du genre. Un survival horror repose entièrement sur l
 Reste que le décor est là, et qu'un parc à l'abandon est l'un des meilleurs terrains de jeu qu'on puisse offrir à ce genre. Pour un fan de Jurassic Park, l'envie sera difficile à refréner. Nous conseillons simplement d'attendre les premiers retours avant de vous engager dans les enclos.
 
 
-Aucun avis utilisateur n'existe encore, la note ci-dessus est notre appréciation. Elle récompense un décor et une ambiance immédiatement efficaces, ainsi qu'un mode Survie prometteur, tout en tenant compte de l'absence de version française et de l'inconnue majeure du genre, le comportement des prédateurs.
+Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense un décor et une ambiance immédiatement efficaces, ainsi qu'un mode Survie prometteur, tout en tenant compte de l'absence de version française et de l'inconnue majeure du genre, le comportement des prédateurs.
+
+Dites-nous : dans un survival horror, vous préférez un monstre scripté qu'on apprend à lire, ou une créature imprévisible ?
 
 ![Clawed, les tunnels souterrains et les zones aquatiques](/images/clawed/screenshot-3.webp)

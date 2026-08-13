@@ -42,7 +42,9 @@ Le studio résume sa formule en évoquant un mélange de planification, de regro
 
 ## Ce qu'il reste à vérifier
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur. La note ci-dessus reflète donc notre appréciation des systèmes annoncés, pas un consensus de joueurs.
+Le jeu vient de sortir et ne compte aucun avis Steam : cette note vient de nos parties, pas d'un consensus de joueurs.
+
+Et vous, dans une tower defense, vous restez derrière les murs ou vous sortez chercher l'ennemi ?
 
 Deux points décideront de sa valeur réelle. Le premier est l'équilibrage entre les quatre légions, parce qu'un hybride de ce type s'effondre si une composition domine toutes les autres. Le second est la part laissée au hasard : agréable quand elle produit des retournements, insupportable quand elle annule une bonne préparation. Le studio l'annonce clairement, ce qui est correct, mais le dosage se jugera manette en main.
 

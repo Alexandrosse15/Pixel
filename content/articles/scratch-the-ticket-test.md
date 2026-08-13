@@ -49,6 +49,8 @@ La vraie inconnue est la profondeur. Un jeu bâti sur une seule décision répé
 En attendant, il a réussi ce que très peu de jeux réussissent : me faire écrire un article que je n'avais pas prévu.
 
 
-Aucun avis utilisateur n'existe encore, la note ci-dessus est notre appréciation. Elle reconnaît une efficacité immédiate rare et un soin appréciable porté aux options de confort, tout en réservant son jugement sur la capacité du jeu à renouveler une décision unique répétée.
+Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle reconnaît une efficacité immédiate rare et un soin appréciable porté aux options de confort, tout en réservant son jugement sur la capacité du jeu à renouveler une décision unique répétée.
+
+Soyez honnête en commentaire : vous encaissez tôt, ou vous relancez toujours une fois de trop ?
 
 ![Scratch the Ticket, la boucle incrementale et l impression des tickets](/images/scratchtheticket/screenshot-3.webp)

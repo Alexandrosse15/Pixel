@@ -57,6 +57,8 @@ Les critiques listées plus haut ne sont pas toutes infondées, et il serait mal
 Mais l'essentiel tient dans notre nuit écourtée. Un jeu d'automatisation se juge d'abord à sa capacité à vous faire perdre la notion du temps, et celui-ci y parvient sans effort. Si vous êtes du genre à dire encore une machine et à relever la tête au petit matin, prévenez votre entourage.
 
 
-Aucun avis utilisateur n'existe encore sur la version en accès anticipé, la note ci-dessus est donc notre appréciation. Elle récompense une boucle d'automatisation redoutablement accrocheuse adossée à une vraie simulation de matière, tout en tenant compte des reproches de lisibilité et de progression relevés plus haut.
+Le jeu ne compte encore aucun avis Steam sur sa version en accès anticipé : cette note vient de nos parties. Elle récompense une boucle d'automatisation redoutablement accrocheuse adossée à une vraie simulation de matière, tout en tenant compte des reproches de lisibilité et de progression relevés plus haut.
+
+La vraie question : combien de temps avant que vous ne disiez encore une machine et que le soleil se lève ?
 
 ![Sandustry, le monde destructible et la recherche d artefacts](/images/sandustry/screenshot-3.webp)

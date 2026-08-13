@@ -34,7 +34,9 @@ The announced rhythm is that of a real department, and it is exactly the series'
 
 ## What to watch
 
-The game is out today with no user reviews, so the score above is our assessment rather than a player consensus. It rewards a medical investigation approach more interesting than surgical dexterity, and penalises the absence of a French version in a game built entirely on reading symptoms. It is available in English and German only, which for a game founded on symptom reading, patient questioning and medical terminology is a real obstacle rather than a comfort detail.
+The game has no Steam reviews yet, so this score comes from our own playthroughs. It rewards a medical investigation approach more interesting than surgical dexterity, and penalises the absence of a French version in a game built entirely on reading symptoms.
+
+Admit it: did you also imagine yourself as a character from a medical drama, or is that just us?
 
 On substance, two unknowns will decide its worth. The first is the depth of the diagnostic system: if cases reduce to a handful of clinical pictures you recognise within three hours, the investigation becomes routine. What sustains this kind of game is the number of conditions, the subtlety of misleading symptoms and the possibility of following the wrong lead.
 
