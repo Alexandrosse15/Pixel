@@ -1,12 +1,13 @@
 ---
 title: "Wild Blue Skies: the best Star Fox of the year comes from one of the original Star Fox programmers"
-seoTitle: "Wild Blue Skies: preview of the Chuhai Labs on-rails flight shooter"
-slug: "wild-blue-skies-preview"
-category: "previews"
+seoTitle: "Wild Blue Skies: review of the Chuhai Labs on-rails flight shooter"
+slug: "wild-blue-skies-test"
+category: "tests"
 excerpt: "A gorgeous on-rails shooter with anime-inspired visuals. Behind it, a Nintendo veteran who programmed the original Star Fox."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-sky-950 via-cyan-950 to-amber-950"
 coverImage: "/images/wildblueskies/screenshot-1.webp"
 gameName: "Wild Blue Skies"
@@ -54,5 +55,8 @@ The game is out today on PC, PlayStation 5 and Xbox Series, with a Switch versio
 The only real unknown is the one every on-rails shooter faces: length. The genre rests on short campaigns you replay for score and alternate routes, and its longevity depends entirely on how generous the branching is and how demanding the medal system proves. If the hidden paths are plentiful and the scores exacting, you come back for weeks. Otherwise it is a lovely evening and that is that.
 
 To answer your question about how to play it: the campaign first, obviously, to meet the squad. But in this genre the real game starts on the second attempt, when you know the level and you are hunting the perfect line. That was true in 1993, and it has not changed.
+
+
+No user reviews exist yet, so the score above reflects our assessment. It credits a remarkable art direction, a complete flight vocabulary and a lineage that is not a marketing line, while accounting for the longevity uncertainty inherent to the genre.
 
 ![Wild Blue Skies, the oceans, desert ridges and caves](/images/wildblueskies/screenshot-3.webp)

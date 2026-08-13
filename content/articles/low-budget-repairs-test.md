@@ -1,12 +1,13 @@
 ---
 title: "Low-Budget Repairs : si tous ces simulateurs se ressemblent, cette fois on peut nommer le responsable"
-seoTitle: "Low-Budget Repairs : preview du simulateur de bricolage au rabais"
-slug: "low-budget-repairs-preview"
-category: "previews"
+seoTitle: "Low-Budget Repairs : test et avis du simulateur de bricolage au rabais"
+slug: "low-budget-repairs-test"
+category: "tests"
 excerpt: "Diluer la peinture, poser du carrelage sans niveau, jeter les meubles par la fenêtre. Une bonne idée dans un habillage qu'on a déjà vu partout."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 6.5
 image_color: "from-amber-950 via-stone-900 to-lime-950"
 coverImage: "/images/lowbudgetrepair/screenshot-1.webp"
 gameName: "Low-Budget Repairs"
@@ -52,5 +53,8 @@ Les réserves sont celles du genre et de la maison d'édition. Un simulateur de 
 Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note ici. Il est disponible en français, avec la réserve que la traduction est en partie automatisée selon la déclaration du studio, ce qui se vérifiera à l'usage.
 
 Une démo existe. Pour ce type de production, c'est clairement par là qu'il faut commencer.
+
+
+Aucun avis utilisateur n'existe encore, la note ci-dessus est notre appréciation. Elle salue une excellente idée d'écriture, l'inversion morale qui récompense le travail bâclé, et sanctionne un habillage de production en série ainsi qu'une localisation partiellement automatisée.
 
 ![Low-Budget Repairs, le magasin de bricolage et la chasse aux outils bon marche](/images/lowbudgetrepair/screenshot-3.webp)

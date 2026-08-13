@@ -1,12 +1,13 @@
 ---
 title: "Defender of the Crown The Legend Returns: nostalgia works, and the game is smart enough not to bet on it alone"
-seoTitle: "Defender of the Crown The Legend Returns: preview of the Amiga classic's return"
-slug: "defender-of-the-crown-the-legend-returns-preview"
-category: "previews"
+seoTitle: "Defender of the Crown The Legend Returns: review of the Amiga classic's return"
+slug: "defender-of-the-crown-the-legend-returns-test"
+category: "tests"
 excerpt: "Three modes: the original Amiga preserved, a modernised rereading, and a brand new mode with generated maps. The right way to bring a classic back."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7.5
 image_color: "from-red-950 via-amber-950 to-stone-900"
 coverImage: "/images/defenderofthecrown/screenshot-1.webp"
 gameName: "Defender of the Crown: The Legend Returns"
@@ -50,5 +51,8 @@ Two unknowns will decide its fate. The first is the real depth of Kingdom Mode: 
 The second is the calibration of Classic Mode. An entirely new visual identity on a game people love for its period look is a perilous exercise, and exactly the sort of thing that splits a community into two irreconcilable camps.
 
 But the approach is sound, and offering the pure version alongside the reworked one avoids the false debate. For once you are not asked to choose between your memory and a current game: both are in the box.
+
+
+No user reviews exist yet, so the score above is our assessment. It rewards the three-mode structure, which cleverly settles the dilemma of classic re-releases, while reserving judgement on the real depth of Kingdom Mode.
 
 ![Defender of the Crown The Legend Returns, Kingdom Mode and its generated maps](/images/defenderofthecrown/screenshot-3.webp)

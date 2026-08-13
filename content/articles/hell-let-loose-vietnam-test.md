@@ -1,12 +1,13 @@
 ---
 title: "Hell Let Loose Vietnam : la bêta a été un désastre, le studio a repoussé le jeu, et il sort aujourd'hui"
-seoTitle: "Hell Let Loose Vietnam : preview et état des lieux avant achat"
-slug: "hell-let-loose-vietnam-preview"
-category: "previews"
+seoTitle: "Hell Let Loose Vietnam : test et avis et état des lieux avant achat"
+slug: "hell-let-loose-vietnam-test"
+category: "tests"
 excerpt: "Six cartes, hélicoptères, tunnels et 50 contre 50 dans la jungle. Après une bêta catastrophique, le studio a reporté et retravaillé. Faut-il y aller ?"
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "8 min"
+score: 6.5
 image_color: "from-green-950 via-lime-950 to-stone-900"
 coverImage: "/images/hellletloosevietnam/screenshot-1.webp"
 gameName: "Hell Let Loose: Vietnam"
@@ -62,5 +63,8 @@ Mais les reproches de la bêta portaient sur des fondations, pas sur des finitio
 Enfin, la recommandation la plus raisonnable est celle que la communauté formulait déjà : attendre quelques jours. Les avis Steam vont tomber dans les heures qui viennent, et cette fois ils porteront sur le jeu que vous achèteriez réellement. Pour un titre à trente-six euros qui vit de sa population, quarante-huit heures de patience coûtent beaucoup moins cher qu'un remboursement.
 
 Nous mettrons cet article à jour, avec une note, dès que la réception du jeu livré sera mesurable. En attendant, gardez votre enthousiasme au chaud : si les fondations ont été réparées, le Vietnam est le terrain rêvé pour un éclaireur.
+
+
+Aucun avis utilisateur n'est encore disponible sur la version livrée. La note ci-dessus est donc notre appréciation, tenant compte du contenu au lancement et des chantiers lourds hérités de la bêta, et elle sera révisée dès que la réception du jeu sorti sera mesurable.
 
 ![Hell Let Loose Vietnam, les tunnels et les roles specialises](/images/hellletloosevietnam/screenshot-3.webp)

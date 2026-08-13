@@ -1,12 +1,13 @@
 ---
 title: "Defender of the Crown The Legend Returns : la nostalgie fonctionne, et le jeu a l'intelligence de ne pas miser que sur elle"
-seoTitle: "Defender of the Crown The Legend Returns : preview du retour du classique Amiga"
-slug: "defender-of-the-crown-the-legend-returns-preview"
-category: "previews"
+seoTitle: "Defender of the Crown The Legend Returns : test et avis du retour du classique Amiga"
+slug: "defender-of-the-crown-the-legend-returns-test"
+category: "tests"
 excerpt: "Trois modes de jeu : l'Amiga d'origine préservé, une relecture modernisée, et un mode inédit à cartes générées. La bonne façon de ressortir un classique."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7.5
 image_color: "from-red-950 via-amber-950 to-stone-900"
 coverImage: "/images/defenderofthecrown/screenshot-1.webp"
 gameName: "Defender of the Crown: The Legend Returns"
@@ -50,5 +51,8 @@ Deux inconnues décideront de son sort. La première est la profondeur réelle d
 La seconde est le dosage du mode Classique. Une identité visuelle entièrement nouvelle sur un jeu qu'on aime pour son allure d'époque est un exercice périlleux, et c'est typiquement le genre de chose qui divise une communauté en deux camps irréconciliables.
 
 Mais l'approche est saine, et l'idée d'offrir la version pure à côté de la version repensée évite le faux débat. Pour une fois, on ne vous demande pas de choisir entre votre souvenir et un jeu actuel : les deux sont dans la boîte.
+
+
+Aucun avis utilisateur n'existe encore, la note ci-dessus est notre appréciation. Elle récompense la structure à trois modes, qui règle intelligemment le dilemme des ressorties de classiques, tout en réservant son jugement sur la profondeur réelle du mode Royaume.
 
 ![Defender of the Crown The Legend Returns, le mode Royaume et ses cartes generees](/images/defenderofthecrown/screenshot-3.webp)

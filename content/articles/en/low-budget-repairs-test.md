@@ -1,12 +1,13 @@
 ---
 title: "Low-Budget Repairs: if all these simulators look alike, this time we can name who is responsible"
-seoTitle: "Low-Budget Repairs: preview of the corner-cutting handyman simulator"
-slug: "low-budget-repairs-preview"
-category: "previews"
+seoTitle: "Low-Budget Repairs: review of the corner-cutting handyman simulator"
+slug: "low-budget-repairs-test"
+category: "tests"
 excerpt: "Dilute the paint, lay tiles without a level, throw the furniture out the window. A good idea in a shell we have seen everywhere."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 6.5
 image_color: "from-amber-950 via-stone-900 to-lime-950"
 coverImage: "/images/lowbudgetrepair/screenshot-1.webp"
 gameName: "Low-Budget Repairs"
@@ -52,5 +53,8 @@ The reservations belong to the genre and to the publishing house. A task simulat
 The game is out today with no user reviews, hence the absence of a score here. It is available in French, with the caveat that the translation is partly automated according to the studio's own declaration, something that will show in use.
 
 A demo exists. For this kind of production, that is clearly where to start.
+
+
+No user reviews exist yet, so the score above is our assessment. It credits an excellent writing idea, the moral inversion that rewards botched work, and penalises serial-production packaging along with partly automated localisation.
 
 ![Low-Budget Repairs, the hardware store and the hunt for cheap tools](/images/lowbudgetrepair/screenshot-3.webp)

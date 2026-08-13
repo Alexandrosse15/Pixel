@@ -1,12 +1,13 @@
 ---
 title: "Hell Let Loose Vietnam: the beta was a disaster, the studio delayed the game, and it launches today"
-seoTitle: "Hell Let Loose Vietnam: preview and buyer's guide at launch"
-slug: "hell-let-loose-vietnam-preview"
-category: "previews"
+seoTitle: "Hell Let Loose Vietnam: review and buyer's guide at launch"
+slug: "hell-let-loose-vietnam-test"
+category: "tests"
 excerpt: "Six maps, helicopters, tunnels and 50 versus 50 in the jungle. After a catastrophic beta, the studio delayed and reworked. Should you jump in?"
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "8 min"
+score: 6.5
 image_color: "from-green-950 via-lime-950 to-stone-900"
 coverImage: "/images/hellletloosevietnam/screenshot-1.webp"
 gameName: "Hell Let Loose: Vietnam"
@@ -62,5 +63,8 @@ But the beta complaints concerned foundations, not finishing touches. Unreal Eng
 Finally, the most sensible recommendation is the one the community was already making: wait a few days. Steam reviews will land within hours, and this time they will concern the game you would actually be buying. For a thirty-six euro title that lives on its population, forty-eight hours of patience costs far less than a refund.
 
 We will update this article, with a score, as soon as the reception of the shipped game is measurable. Until then, keep your enthusiasm warm: if the foundations have been repaired, Vietnam is the dream terrain for a scout.
+
+
+No user reviews are available yet on the shipped version. The score above is therefore our assessment, accounting for the launch content and the heavy work inherited from the beta, and it will be revised as soon as reception of the released game is measurable.
 
 ![Hell Let Loose Vietnam, the tunnels and specialised roles](/images/hellletloosevietnam/screenshot-3.webp)

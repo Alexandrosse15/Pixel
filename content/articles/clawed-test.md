@@ -1,12 +1,13 @@
 ---
 title: "Clawed : un parc à dinosaures à l'abandon, une ambiance réussie, et une ressemblance qui interroge"
-seoTitle: "Clawed : preview du survival horror dans un parc à dinosaures"
-slug: "clawed-preview"
-category: "previews"
+seoTitle: "Clawed : test et avis du survival horror dans un parc à dinosaures"
+slug: "clawed-test"
+category: "tests"
 excerpt: "Prehistoria, parc en ruine, énigmes et prédateurs. L'ambiance fonctionne, et la parenté avec un certain film de 1993 mérite qu'on s'y arrête."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-emerald-950 via-stone-900 to-amber-950"
 coverImage: "/images/clawed/screenshot-1.webp"
 gameName: "Clawed"
@@ -44,5 +45,8 @@ Le jeu sort aujourd'hui et ne compte encore aucun avis utilisateur, d'où l'abse
 Les inconnues sont celles du genre. Un survival horror repose entièrement sur la tension, donc sur le comportement des prédateurs : si les dinosaures suivent des trajets prévisibles, la peur retombe en deux heures. Le mode Survie devra également prouver que ses systèmes de faim et de soif ajoutent de la pression plutôt que de la corvée, écueil classique de ces greffes.
 
 Reste que le décor est là, et qu'un parc à l'abandon est l'un des meilleurs terrains de jeu qu'on puisse offrir à ce genre. Pour un fan de Jurassic Park, l'envie sera difficile à refréner. Nous conseillons simplement d'attendre les premiers retours avant de vous engager dans les enclos.
+
+
+Aucun avis utilisateur n'existe encore, la note ci-dessus est notre appréciation. Elle récompense un décor et une ambiance immédiatement efficaces, ainsi qu'un mode Survie prometteur, tout en tenant compte de l'absence de version française et de l'inconnue majeure du genre, le comportement des prédateurs.
 
 ![Clawed, les tunnels souterrains et les zones aquatiques](/images/clawed/screenshot-3.webp)

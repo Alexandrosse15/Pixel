@@ -1,12 +1,13 @@
 ---
 title: "Wild Blue Skies : le meilleur Star Fox de l'année est signé par un des programmeurs du Star Fox d'origine"
-seoTitle: "Wild Blue Skies : preview du rail shooter aérien de Chuhai Labs"
-slug: "wild-blue-skies-preview"
-category: "previews"
+seoTitle: "Wild Blue Skies : test et avis du rail shooter aérien de Chuhai Labs"
+slug: "wild-blue-skies-test"
+category: "tests"
 excerpt: "Un rail shooter magnifique, aux visuels inspirés de l'animation japonaise. Derrière, un vétéran de Nintendo qui a programmé le Star Fox original."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-sky-950 via-cyan-950 to-amber-950"
 coverImage: "/images/wildblueskies/screenshot-1.webp"
 gameName: "Wild Blue Skies"
@@ -54,5 +55,8 @@ Le jeu sort aujourd'hui sur PC, PlayStation 5 et Xbox Series, avec une version S
 La seule vraie inconnue est celle de tous les rail shooters : la durée. Le genre repose sur des campagnes courtes qu'on rejoue pour le score et les trajectoires alternatives, et sa longévité dépend entièrement de la générosité des embranchements et de la qualité du système de médailles. Si les chemins cachés sont nombreux et les scores exigeants, on y revient des semaines. Sinon, c'est une très belle soirée et puis c'est tout.
 
 Pour répondre à votre question sur la façon d'y jouer : la campagne d'abord, évidemment, pour rencontrer l'escouade. Mais dans ce genre, la vraie partie commence à la seconde tentative, quand on connaît le niveau et qu'on cherche la trajectoire parfaite. C'était vrai en 1993, ça n'a pas changé.
+
+
+Aucun avis utilisateur n'existe encore, la note ci-dessus reflète donc notre appréciation. Elle salue une direction artistique remarquable, un vocabulaire de vol complet et une filiation qui n'est pas un argument marketing, tout en tenant compte de l'incertitude sur la durée de vie propre au genre.
 
 ![Wild Blue Skies, les oceans, les cretes desertiques et les grottes](/images/wildblueskies/screenshot-3.webp)

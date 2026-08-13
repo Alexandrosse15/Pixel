@@ -1,12 +1,13 @@
 ---
 title: "Clawed: an abandoned dinosaur park, a convincing atmosphere, and a resemblance worth discussing"
-seoTitle: "Clawed: preview of the dinosaur park survival horror"
-slug: "clawed-preview"
-category: "previews"
+seoTitle: "Clawed: review of the dinosaur park survival horror"
+slug: "clawed-test"
+category: "tests"
 excerpt: "Prehistoria, a ruined park, puzzles and predators. The atmosphere works, and the kinship with a certain 1993 film deserves a closer look."
 date: "2026-08-13"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-emerald-950 via-stone-900 to-amber-950"
 coverImage: "/images/clawed/screenshot-1.webp"
 gameName: "Clawed"
@@ -44,5 +45,8 @@ The game is out today with no user reviews yet, hence the absence of a score her
 The unknowns belong to the genre. A survival horror rests entirely on tension, and therefore on predator behaviour: if the dinosaurs follow predictable paths, the fear evaporates within two hours. Survival Mode will also have to prove its hunger and thirst systems add pressure rather than chores, the classic pitfall of such grafts.
 
 Still, the setting is there, and an abandoned park is one of the best playgrounds you can hand this genre. For a Jurassic Park fan the pull will be hard to resist. We simply advise waiting for the first reports before venturing into the enclosures.
+
+
+No user reviews exist yet, so the score above is our assessment. It rewards an immediately effective setting and atmosphere, plus a promising Survival Mode, while accounting for the lack of a French version and the genre's major unknown, predator behaviour.
 
 ![Clawed, the underground tunnels and aquatic areas](/images/clawed/screenshot-3.webp)
