@@ -53,6 +53,12 @@ export default function Header() {
               {label}
             </Link>
           ))}
+          <Link
+            href={`${prefix}/palmares`}
+            className={`nav-link font-bold text-brand ${pathname.startsWith(`${prefix}/palmares`) ? 'active' : ''}`}
+          >
+            {locale === 'en' ? 'Awards' : 'Palmarès'}
+          </Link>
         </nav>
 
         {/* Right: language switcher + search */}
@@ -146,6 +152,13 @@ export default function Header() {
             <div className="mt-3 border-t border-line pt-3">
               <LanguageSwitcher />
             </div>
+            <Link
+              href={`${prefix}/palmares`}
+              onClick={() => setMenuOpen(false)}
+              className="py-3 font-display text-sm font-bold uppercase tracking-wide text-brand"
+            >
+              {locale === 'en' ? 'Awards' : 'Palmarès'}
+            </Link>
           </nav>
         </div>
       )}

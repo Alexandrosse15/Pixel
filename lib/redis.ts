@@ -43,3 +43,28 @@ export async function addRating(slug: string, score: number): Promise<{ average:
     count: updated.count,
   }
 }
+
+// ---------------------------------------------------------------------------
+// Palmarès : un vote par catégorie, stocké en hash { slug -> nombre de voix }
+// ---------------------------------------------------------------------------
+
+export type PollResults = Record<string, number>
+
+export async function getPoll(edition: string, category: string): Promise<PollResults> {
+  if (!redis) return {}
+  const data = await redis.get<PollResults>(`poll:${edition}:${category}`)
+  return data ?? {}
+}
+
+export async function addPollVote(
+  edition: string,
+  category: string,
+  choice: string,
+): Promise<PollResults> {
+  if (!redis) return { [choice]: 1 }
+  const key = `poll:${edition}:${category}`
+  const existing = (await redis.get<PollResults>(key)) ?? {}
+  const updated: PollResults = { ...existing, [choice]: (existing[choice] ?? 0) + 1 }
+  await redis.set(key, updated)
+  return updated
+}
