@@ -27,15 +27,13 @@ La structure est classique du genre et bien remplie : on traverse des biomes var
 
 Deux modes sont proposés. Le mode Classique correspond à l'expérience de survival horror d'origine. Le mode Survie ajoute la faim, la soif, une météo dynamique, un cycle jour-nuit complet et des rencontres aléatoires avec les dinosaures. Cette seconde option est celle qui devrait donner sa durée de vie au jeu, parce qu'elle transforme un parcours scénarisé en terrain hostile. Bonne nouvelle par ailleurs : tout est jouable en coopération.
 
-## Sur la ressemblance, et sur le risque juridique
+## Le portail, les dinos, et le clin d'oeil appuyé
 
-Vous évoquez la possibilité d'un procès au vu de l'entrée du parc et de dinosaures qui n'ont rien d'historique mais tout de spielbergien. Le constat visuel est difficile à contester. La conclusion juridique, en revanche, mérite d'être nuancée, et nous n'affirmerons pas ici qu'il y a contrefaçon, parce que c'est une question de tribunal et pas de test.
+Soyons honnêtes : en voyant l'entrée du parc, on a tous eu la même pensée, et elle impliquait le mot avocat. Les dinosaures n'ont pas grand-chose de paléontologiquement rigoureux mais énormément de spielbergien, et le studio ne fait rien pour dissiper le malentendu.
 
-Ce qu'on peut poser sans risque, ce sont les principes. Une idée ne se protège pas : personne ne détient les droits sur le concept d'un parc à dinosaures qui tourne mal, ni sur les dinosaures eux-mêmes, qui appartiennent au domaine public depuis environ soixante-six millions d'années. Ce qui se protège, c'est une expression précise : un logo, une typographie, un thème musical, un portail identifiable, une livrée de véhicule, des noms de personnages. C'est sur ce terrain-là, celui des éléments reconnaissables un par un, qu'un litige se jouerait, pas sur l'ambiance générale.
+Cela dit, il y a une raison assez élégante à cette impression, et elle disculpe à peu près tout le monde. Le film de 1993 n'a pas seulement mis des dinosaures à l'écran, il a fixé pour trois générations l'image mentale du dinosaure. Ses rapaces trop grands, ses éclairages, sa façon de faire trembler un verre d'eau sont devenus la référence par défaut. Résultat, n'importe quel jeu qui met en scène des dinosaures de cinéma ressemblera fatalement à celui qui a inventé cette grammaire. Ce n'est pas du plagiat, c'est une dépendance culturelle dont personne ne sort.
 
-Il faut ajouter une nuance qui joue en faveur du studio, et elle est de taille. Si les dinosaures du jeu paraissent peu conformes à la paléontologie mais très familiers, c'est parce que le film de 1993 a durablement fixé l'image populaire du dinosaure. Ses rapaces surdimensionnés et son esthétique sont devenus la référence mentale par défaut de plusieurs générations. Autrement dit, tout jeu qui met en scène des dinosaures de cinéma ressemblera nécessairement à celui qui a inventé cette grammaire visuelle. C'est moins une copie qu'une dépendance culturelle.
-
-Enfin, un point factuel : le survival horror à dinosaures non licencié n'est pas un genre nouveau, et plusieurs projets de ce type ont existé sans donner lieu à des poursuites retentissantes. Ce qui ne veut pas dire qu'il n'y a aucun risque, seulement qu'il n'y a rien d'automatique.
+Et puis un parc à dinosaures qui tourne mal, ça ne s'invente plus depuis longtemps. Ce qui se protège, ce sont les détails précis, un logo, une typographie, un thème musical. Le reste appartient à tout le monde, comme les dinosaures eux-mêmes, tombés dans le domaine public il y a environ soixante-six millions d'années.
 
 ![Clawed, les enclos eventres et les predateurs](/images/clawed/screenshot-2.webp)
 

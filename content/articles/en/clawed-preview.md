@@ -27,15 +27,13 @@ The structure is classic for the genre and well filled: you cross varied biomes,
 
 Two modes are offered. Classic Mode corresponds to the original survival horror experience. Survival Mode adds hunger, thirst, dynamic weather, a full day-night cycle and random dinosaur encounters. That second option should provide the game's longevity, because it turns a scripted route into hostile terrain. Good news besides: all of it is playable in co-op.
 
-## On the resemblance, and on the legal risk
+## The gate, the dinos, and the very pointed wink
 
-You raise the possibility of a lawsuit given the park entrance and dinosaurs that are nothing like the fossil record and everything like Spielberg. The visual observation is hard to dispute. The legal conclusion, though, deserves qualifying, and we will not assert infringement here, because that is a question for a courtroom rather than a review.
+Let us be honest: looking at that park entrance, we all had the same thought, and it involved the word lawyer. The dinosaurs are not exactly rigorous palaeontology but they are enormously Spielbergian, and the studio does nothing to clear up the misunderstanding.
 
-What can be stated safely are the principles. An idea is not protected: nobody owns the concept of a dinosaur park going wrong, nor the dinosaurs themselves, which have been in the public domain for roughly sixty-six million years. What is protected is specific expression: a logo, a typeface, a musical theme, an identifiable gate, a vehicle livery, character names. That is the ground a dispute would be fought on, element by element, not general atmosphere.
+That said, there is a rather elegant reason for the impression, and it more or less exonerates everyone. The 1993 film did not merely put dinosaurs on screen, it fixed the mental image of the dinosaur for three generations. Its oversized raptors, its lighting, its way of making a glass of water tremble became the default reference. As a result, any game staging cinema dinosaurs will inevitably resemble the film that invented that grammar. This is not plagiarism, it is a cultural dependency nobody escapes.
 
-One nuance works in the studio's favour, and it is a substantial one. If the game's dinosaurs look unfaithful to palaeontology yet deeply familiar, it is because the 1993 film durably fixed the popular image of the dinosaur. Its oversized raptors and its aesthetic became the default mental reference for several generations. In other words, any game staging cinema dinosaurs will necessarily resemble the film that invented that visual grammar. That is less a copy than a cultural dependency.
-
-Finally, a factual point: unlicensed dinosaur survival horror is not a new genre, and several projects of this kind have existed without resounding litigation. Which does not mean there is no risk, only that nothing is automatic.
+And a dinosaur park going wrong stopped being an original premise a long time ago. What is protected is the precise detail, a logo, a typeface, a musical theme. The rest belongs to everyone, like the dinosaurs themselves, which entered the public domain roughly sixty-six million years ago.
 
 ![Clawed, the torn-open enclosures and the predators](/images/clawed/screenshot-2.webp)
 
