@@ -1,48 +1,66 @@
 ---
-title: "Hell Let Loose Vietnam preview: the jungle, the tunnels and at last the helicopters, the nightmare we dreamed of"
-seoTitle: "Hell Let Loose Vietnam: preview and first impressions"
+title: "Hell Let Loose Vietnam: the beta was a disaster, the studio delayed the game, and it launches today"
+seoTitle: "Hell Let Loose Vietnam: preview and buyer's guide at launch"
 slug: "hell-let-loose-vietnam-preview"
 category: "previews"
-excerpt: "After Normandy's hedgerows and the Ardennes forests, Hell Let Loose heads to Vietnam. Asymmetric factions, tunnels, patrol boats and above all the UH-1 Hueys: the air cavalry is here."
-date: "2026-07-25"
+excerpt: "Six maps, helicopters, tunnels and 50 versus 50 in the jungle. After a catastrophic beta, the studio delayed and reworked. Should you jump in?"
+date: "2026-08-13"
 author: "Alexandrosse"
-readTime: "6 min"
-image_color: "from-green-950 via-emerald-950 to-stone-950"
-coverImage: "/images/hllvietnam/screenshot-1.webp"
-gameName: "Hell Let Loose Vietnam"
+readTime: "8 min"
+image_color: "from-green-950 via-lime-950 to-stone-900"
+coverImage: "/images/hellletloosevietnam/screenshot-1.webp"
+gameName: "Hell Let Loose: Vietnam"
 featured: false
 ---
 
-We still remember the pressure of the Normandy hedgerows, those hedges behind which death waited. The Dutch alleys and marshland, the freezing Ardennes forests. Hell Let Loose made us live World War II at its most tense, its most real. So Vietnam, inevitably, we can sense it coming: it's going to be psychologically awful, we're going to end up with post-traumatic stress without ever having gone to war, the ultimate irony. But the real question gnawing at us, the one that could break our heart or make us the happiest person alive, was: will there be helicopters? The answer is yes. For those who know, Mel Gibson is watching over us. We were young.
+Let us put our cards down: we have played Hell Let Loose for a long time here, mostly as recon, and the idea of taking that formula to Vietnam appeals enormously. Fifty versus fifty in the jungle, tunnels to dig, helicopters, patrol boats on the rivers: on paper, this is exactly the terrain this series needed.
 
-![Hell Let Loose Vietnam, war in the jungle with its helicopters and ambushes](/images/hllvietnam/screenshot-1.webp)
+Except the open beta was a public disaster, and that has to be addressed first. Then we need to tell you what happened afterwards, because that is where the story gets interesting.
 
-## The context
+![Hell Let Loose Vietnam, 50 versus 50 in the jungle](/images/hellletloosevietnam/screenshot-1.webp)
 
-Hell Let Loose Vietnam is the new installment of the hardcore tactical FPS, expected on 13 August 2026 on PC, PS5 and Xbox Series, after a delay from June driven by beta feedback. An open crossplay playtest even let everyone get hands-on before launch. The game transposes the original's 50-versus-50 formula into the Vietnam War, across six large maps inspired by real locations, pitting the US Army against the North Vietnamese Army. But above all, it introduces a major break from the World War II entries: where Hell Let Loose rested on largely symmetric sides, Vietnam bets everything on asymmetry, each faction having its own strengths and its own way of waging war.
+## What the community saw during the beta
 
-## What we know: helicopters, asymmetry and the jungle
+The verdict was harsh and remarkably consistent. On performance first: players with recent, expensive graphics cards reported frame rates unworthy of them, often between forty and seventy, sometimes below, with sharp drops and abnormally low hardware utilisation. Several noted far better results in heavier games, which pointed clearly at optimisation rather than at their machines.
 
-Let's start with what made us tremble with hope: yes, the helicopters are here, and they're fully operational. US forces field UH-1 Hueys to insert squads behind the lines, run hot extractions, resupply, conduct reconnaissance and provide aerial fire support. You can literally own the sky above the jungle. For anyone with the film We Were Soldiers etched into their heart, it's the fulfillment of a fantasy, the air cavalry finally playable in all the rigor of Hell Let Loose. Add to that patrol boats, including the iconic US PBR, fighting over the rivers and deltas in riverine battles new to the series.
+On feel next, and this is the complaint that hurts this series most: the shooting felt limp, hit detection dubious, with a perceived latency between the click and the shot leaving the barrel. The phrase that recurred most was that the game had lost the original's heft, that particular weight which is Hell Let Loose's signature.
 
-The other big novelty is the deep asymmetry between the two sides, which redefines how you play. The Americans have air mobility and firepower, headlined by their helicopters; the North Vietnamese, meanwhile, bet on concealment and knowledge of the terrain, with the ability to dig extensive tunnel networks to launch surprise attacks and move troops under cover. That opposition between technology and cunning, between the sky and the underground, promises tactically very different matches depending on the side you pick. The game also enriches movement, with swimming, climbing, fast crawling and the ability to drag a wounded comrade out of the line of fire to give them a chance to heal and re-engage.
+Add strange lighting, textures appearing late, and above all a legibility problem in the vegetation, with enemies hard to pick out. For a recon player, that last point is not a detail: it is the whole job.
 
-![Hell Let Loose Vietnam, the American UH-1 Hueys against the North Vietnamese tunnels](/images/hllvietnam/screenshot-2.webp)
+The dominant sentiment fitted in one sentence, repeated a thousand ways: delay this game.
 
-## What worries us: balance and the bar of teamwork
+## And that is exactly what the studio did
 
-You still have to stay lucid, because that much-vaunted asymmetry is also the game's biggest gamble, and its main risk. Balancing American air power against North Vietnamese tunnels is a fearsomely delicate exercise: one imbalance, and one of the two sides becomes frustrating to play or too dominant. The helicopters themselves raise questions, between a high skill ceiling and the risk of seeing reckless pilots ruin a match or dominate the sky unopposed. The delay from June, driven by beta feedback, shows the studio is aware of this and seeking to refine, but it's precisely on that tightrope of balance that the proposition's success or failure will play out.
+Here is the information missing from the thread you read, because it dates from several months ago and stops at the worst moment.
 
-The other point of caution is Hell Let Loose's very DNA. The series has always demanded flawless coordination, real squad work, a commander who orchestrates: without that, the experience collapses into sterile chaos. Yet Vietnam's asymmetry, with its helicopter insertions, tunnel networks and riverine combat, raises the bar of required coordination even higher. On well-organized servers, it will surely be grandiose and terribly immersive; with scattered players, it could quickly turn to cacophony. Add to that the recurring question, for the series, of optimization and stability at launch, on which caution is warranted until the final version has proven itself. The promise is immense, but it rests on demanding foundations.
+Expression Games and Team17 delayed the release. In their June communication they thanked the community for its feedback and explained that moving the launch to August was the right decision in order to deliver a stronger experience. That is not nothing: in an industry where the date usually outranks the state of the product, pulling back after a failed beta is the behaviour we ask for and rarely get.
 
-![Hell Let Loose Vietnam, the PBR patrol boats and riverine combat in the deltas](/images/hllvietnam/screenshot-3.webp)
+The studio then published a blog entirely devoted to performance, explaining that it was analysing gameplay data gathered during the open beta to understand the problems encountered across a wide range of hardware and to guide the optimisation work. Two question-and-answer sessions followed, one on performance, gameplay and maps, the other on the development process.
 
-## What we think so far
+Finally, a cross-platform playtest was held at the end of July, bringing together, according to the studio, hundreds of thousands of players across Steam, PlayStation and Xbox simultaneously. That is the kind of load test that had been missing, and it took place after the period described in the comments you read.
 
-Hell Let Loose Vietnam shapes up as the series' most ambitious and daring installment, and for any fan of the formula, there's plenty to jump up and down about. By transposing its tactical rigor into the green hell of Vietnam, with its fully operational helicopters, its deep asymmetry between air power and underground war, its patrol boats and its enriched movement, the game brings genuine novelty that goes beyond a mere change of scenery. The presence of the air cavalry alone fulfills a fantasy and justifies the wait. On the atmosphere front, the jungle, the ambushes and the tunnels promise exactly that grueling psychological tension we feared and hoped for at once.
+![Hell Let Loose Vietnam, the helicopters and patrol boats](/images/hellletloosevietnam/screenshot-2.webp)
 
-Still, the ambition is also the game's potential Achilles' heel. Everything will rest on the balance of its asymmetry, that thin line between the thrilling clash and the frustrating imbalance, and on players' ability to provide the coordination that an even more complex formula demands. The delay from June is rather reassuring about the studio's seriousness, but it's controller in hand, on full servers and over time, that we'll know whether the magic works. For now, hope largely dominates: if the balance keeps its promises, Hell Let Loose Vietnam could be a tactical and immersive gut-punch of the kind the series knows how to deliver. We're going to suffer, we're going to sweat, we may come out of it haunted. And honestly, that's all we're waiting for.
+## What ships today
 
----
+The game is developed by Expression Games, published by Team17, at a little under thirty-six euros, and it is available in French.
 
-*Preview based on the open crossplay playtest.*
+At launch there are six large-scale maps inspired by real locations, from dense jungle to remote villages by way of waterways and open terrain. You pick your side between the North Vietnamese Army and the US Armed Forces, with seventeen specialised roles spread across a fifty-strong team organised into squads: infantry, recon, armour, mortars and helicopter units.
+
+The two structural additions are present. On the American side, fully operational helicopters for fire support and supply drops. On the North Vietnamese side, extensive tunnel networks to surface where you are not expected. That asymmetry is the game's best idea, because it finally gives both sides different grammars instead of two symmetrical armies in new paint.
+
+## Should you buy today
+
+We are not scoring this article, and it is worth explaining why rather than manufacturing a number. The game launches the same day, it has no user reviews yet, and the only abundant material available concerns a beta the studio has explicitly reworked since. Scoring a game on the basis of a build its developers spent two months fixing would make no sense, and would be exactly the error we criticise in others.
+
+What we can say comes down to three points.
+
+The studio did the right things procedurally: delay, communicate, test at scale. That deserves recognition and it improves the odds of a decent launch.
+
+But the beta complaints concerned foundations, not finishing touches. Unreal Engine 5 optimisation, gunplay feel, hit detection and legibility in foliage are heavy work, and two months does not guarantee they are solved. The studio itself publishes a known issues list ahead of launch, which is honest but confirms some remain.
+
+Finally, the most sensible recommendation is the one the community was already making: wait a few days. Steam reviews will land within hours, and this time they will concern the game you would actually be buying. For a thirty-six euro title that lives on its population, forty-eight hours of patience costs far less than a refund.
+
+We will update this article, with a score, as soon as the reception of the shipped game is measurable. Until then, keep your enthusiasm warm: if the foundations have been repaired, Vietnam is the dream terrain for a scout.
+
+![Hell Let Loose Vietnam, the tunnels and specialised roles](/images/hellletloosevietnam/screenshot-3.webp)
