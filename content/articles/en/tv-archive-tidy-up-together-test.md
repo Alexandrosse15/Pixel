@@ -42,6 +42,16 @@ In other words, **the game progressively automates the work for you**. That is e
 
 Two modes round it out for the extremes: a sandbox where every skill is unlocked from the start, and a no-skill mode for those who want to suffer the old-fashioned way.
 
+## The one real regret
+
+There are no real films. The 3,180 tapes carry invented titles, and you are filing categories rather than memories.
+
+That is a shame, and it is the game's main gap. Coming across a cover you actually held in your hands would have multiplied the effect, because half the pleasure of a video shop aisle came from instant recognition: that case, that typeface, that badly cropped promotional still.
+
+But let us be honest, it was strictly impossible. Negotiating the rights to a single feature film would probably cost more than this game's entire budget, so three thousand of them is out of the question. No studio this size can afford it, and the ones that can do not make tidying simulators.
+
+The result is an unusual division of labour: the game supplies the shelves, and you bring the titles. That is exactly what happened during our playthrough, and it is why the first third of this review is about a video shop rather than about the game.
+
 ![TV Archive Tidy Up Together, the twenty categories and the skills](/images/tvarchive/screenshot-2.webp)
 
 ## The shelving duel, and the streamers

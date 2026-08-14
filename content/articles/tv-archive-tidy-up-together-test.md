@@ -42,6 +42,16 @@ Autrement dit, **le jeu vous automatise progressivement le travail**. C'est exac
 
 Deux modes complètent l'affaire pour les extrêmes : un mode bac à sable où toutes les compétences sont débloquées d'emblée, et un mode sans compétence pour ceux qui veulent souffrir à l'ancienne.
 
+## Le seul vrai regret
+
+Il n'y a pas les vrais films. Les 3 180 cassettes portent des titres inventés, et l'on range des catégories plutôt que des souvenirs.
+
+C'est dommage, et c'est même le principal manque du jeu. Tomber sur une jaquette qu'on a réellement tenue entre les mains aurait décuplé l'effet, parce que la moitié du plaisir d'un rayon de vidéoclub tenait à la reconnaissance immédiate : ce boîtier-là, cette typographie, cette photo de promotion mal recadrée.
+
+Mais il faut être honnête, c'était rigoureusement impossible. Négocier les droits d'un seul long-métrage coûterait probablement plus cher que le budget total de ce jeu, alors trois mille. Aucun studio de cette taille ne peut se le permettre, et ceux qui le peuvent ne font pas des simulateurs de rangement.
+
+Le résultat est un partage des tâches un peu particulier : le jeu vous fournit les étagères, et c'est vous qui apportez les titres. C'est exactement ce qui s'est passé pendant notre partie, et c'est pour ça que le premier tiers de ce test parle de Pontoise plutôt que du jeu.
+
 ![TV Archive Tidy Up Together, les vingt categories et les competences](/images/tvarchive/screenshot-2.webp)
 
 ## Le duel de rangement, et les streamers
