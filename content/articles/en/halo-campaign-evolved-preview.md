@@ -11,7 +11,7 @@ image_color: "from-emerald-950 via-teal-950 to-zinc-950"
 coverImage: "/images/halocampaignevolved/screenshot-1.webp"
 gameName: "Halo Campaign Evolved"
 featured: false
-buyUrl: "https://fr.gamesplanet.com/game/halo-campaign-evolved-edition-premium-microsoft-store-download--8549-2"
+buyUrl: "https://fr.gamesplanet.com/game/halo-campaign-evolved-edition-premium-microsoft-store-download--8549-2?ref=insertcoins"
 ---
 
 Just talking about it, we hear the music resonate, that Gregorian choir that still gives chills. And behind it, all those hours of multiplayer on a first-generation Xbox, that console massive enough to knock someone out, that we lugged on our schoolkid shoulders to go plug in at a friend's place. It was awesome, and it was a whole era. But enough with the memories of kids born in 1990: the real question today is what Halo Campaign Evolved is worth, this remake of a monument. And the verdict, a few days from launch, is as luminous as it is frustrating.

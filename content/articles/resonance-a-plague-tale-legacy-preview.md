@@ -10,7 +10,7 @@ readTime: "6 min"
 image_color: "from-amber-950 via-stone-950 to-emerald-950"
 coverImage: "/images/resonance/screenshot-1.webp"
 gameName: "Resonance A Plague Tale Legacy"
-buyUrl: "https://fr.gamesplanet.com/game/resonance-a-plague-tale-legacy-steam-key--7790-1"
+buyUrl: "https://fr.gamesplanet.com/game/resonance-a-plague-tale-legacy-steam-key--7790-1?ref=insertcoins"
 featured: false
 ---
 

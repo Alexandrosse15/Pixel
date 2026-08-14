@@ -12,7 +12,6 @@ image_color: "from-stone-950 via-red-950 to-neutral-950"
 coverImage: "/images/coh3finalstand/screenshot-1.webp"
 gameName: "Company of Heroes 3 Final Stand"
 featured: false
-buyUrl: "https://fr.gamesplanet.com/game/company-of-heroes-3-final-stand-steam-key--5294-4?ref=insertcoins"
 ---
 
 Il y a une question qu'on n'a pas réussi à évacuer en lançant Company of Heroes 3 Final Stand : pourquoi ? Pourquoi prendre l'un des meilleurs moteurs de stratégie tactique du marché, celui qui simule la fumée, le couvert et le moral au mètre près, et le plier dans un mode de défense par vagues vendu séparément trente dollars ? On s'attendait à un mode gonflé au rang de produit par opportunisme. On a passé nos premières soirées à repousser "une dernière vague". Le verdict est aussi surprenant que nuancé.

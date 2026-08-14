@@ -11,7 +11,7 @@ image_color: "from-zinc-950 via-red-950 to-stone-950"
 coverImage: "/images/tw40k/screenshot-1.webp"
 gameName: "Total War: Warhammer 40,000"
 featured: false
-buyUrl: "https://fr.gamesplanet.com/game/total-war-warhammer-40-000-steam-key--8107-1"
+buyUrl: "https://fr.gamesplanet.com/game/total-war-warhammer-40-000-steam-key--8107-1?ref=insertcoins"
 ---
 
 On en rêvait depuis que Total War a posé ses canons dans l'univers Warhammer Fantasy: et si la même formule passait au grimdark, aux bolters et aux titans ? Creative Assembly a profité du PC Gaming Show pour répondre, en lâchant enfin du vrai gameplay de Total War: Warhammer 40,000. Et entre la Garde impériale, les Orks et un champ de bataille d'Armageddon, on a retrouvé exactement le frisson qu'on espérait.

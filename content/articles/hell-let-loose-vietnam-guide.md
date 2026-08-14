@@ -10,6 +10,7 @@ readTime: "9 min"
 image_color: "from-green-950 via-lime-950 to-stone-900"
 coverImage: "/images/hellletloosevietnam/screenshot-2.webp"
 gameName: "Hell Let Loose: Vietnam"
+buyUrl: "https://fr.gamesplanet.com/game/hell-let-loose-vietnam-steam-key--8429-1?ref=insertcoins"
 featured: false
 ---
 
