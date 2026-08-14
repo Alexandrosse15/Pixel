@@ -52,3 +52,5 @@ The 1.0 release will be the real test. In early access, we're watching. And righ
 ---
 
 *Preview based on early access : version subject to significant changes*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -70,3 +70,5 @@ Chess in all its depth, dressed in cats with golden animations that make you lau
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

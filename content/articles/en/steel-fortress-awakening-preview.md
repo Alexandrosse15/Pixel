@@ -59,3 +59,5 @@ We'll be watching.
 ---
 
 *Preview based on a project presentation. No score assigned at this stage.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

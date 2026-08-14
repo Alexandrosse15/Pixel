@@ -64,3 +64,5 @@ Un Papers Please tout mignon aux graphismes modernes, charmant et accessible, ma
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -76,3 +76,5 @@ The year's most beautiful art direction in service of a biblical tale of rare ge
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

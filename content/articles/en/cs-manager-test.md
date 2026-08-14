@@ -53,3 +53,5 @@ The third is the absence of licences. The game announces more than 140 teams wit
 What remains is an ambitious debut from two Danish brothers, with sound and occasionally shrewd mechanical foundations. It needs a season or two of patches to deserve the nights it promises. I will come back to it, probably too late in the evening.
 
 ![CS Manager, squad and calendar management](/images/csmanager/screenshot-3.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

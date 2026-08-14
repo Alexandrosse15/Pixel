@@ -46,3 +46,5 @@ But we keep in mind its two fragilities: a visual identity too close to REPO and
 ---
 
 *Preview written before the 6 August 2026 release, based on official information and the demo.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

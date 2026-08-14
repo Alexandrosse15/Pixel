@@ -65,3 +65,5 @@ That's a limited criticism for a game whose ambition is clearly calibrated to ma
 Catabomb delivers exactly what its pitch promises. The timed disarming mechanic is the right design choice for a mobile roguelite: short, intense, and perfectly calibrated for three-to-five-minute sessions. The pixel art direction is coherent from start to finish. And the robotic kittens are exactly as charming as they sounded in the description.
 
 Dark Quixote Studio built something honest. On a mobile market where the pitch regularly outpaces the product, that's already a rare quality. Free, available on Android and iOS, and the pitch was true.
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

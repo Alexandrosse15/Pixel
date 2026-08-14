@@ -48,3 +48,5 @@ The best tip for progression is not to rush. Big Walk rewards wandering, quiet e
 ---
 
 *Guide written from the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

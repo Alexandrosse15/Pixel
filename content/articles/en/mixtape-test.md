@@ -67,3 +67,5 @@ What keeps it from a 10: its very American cultural anchoring will create distan
 ![Mixtape](/images/mixtape/screenshot-7.webp)
 
 *Review based on PC version. Mixtape is available on PC, Switch 2 and Steam Deck.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

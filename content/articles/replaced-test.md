@@ -97,3 +97,5 @@ Magnifique à regarder. Un peu moins intéressant à jouer.
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

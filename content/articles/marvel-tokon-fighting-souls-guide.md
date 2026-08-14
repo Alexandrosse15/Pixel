@@ -132,3 +132,5 @@ Captain America est un excellent point pour apprendre les fondamentaux grâce à
 ---
 
 *Guide rédigé sur la base des informations officielles, avant la sortie du 6 août 2026. Les routes de combos précises seront enrichies après la sortie et la stabilisation par la communauté.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

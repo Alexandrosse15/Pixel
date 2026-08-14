@@ -31,3 +31,5 @@ The game bets on momentum, the fluid chaining of combat and traversal. When it w
 I will not oversell it: Akatori is still an ambitious first swing with the rough edges that come with it. The difficulty curve has abrupt spikes, some platforming stretches ask for a precision the controls do not always deliver a hundred percent, and I had a few moments where I lost track of the action amid all that busy scenery. Nothing dealbreaking, but enough to remind you this is not an infinite-budget behemoth.
 
 It did not dent my enjoyment. Akatori is a game you love first with your eyes, then with your hands once the staff is tamed. If you want the flawless, perfect metroidvania, maybe wait a few patches. If, like me, you have a soft spot for games with a real visual identity and the nerve to carry it all the way, go meet Mako. If only for the temple at dawn.
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

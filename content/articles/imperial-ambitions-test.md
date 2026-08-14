@@ -76,3 +76,5 @@ Un 4X d'une profondeur vertigineuse au parfum de wargame nostalgique, aussi rich
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

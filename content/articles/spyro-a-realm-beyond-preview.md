@@ -48,3 +48,5 @@ Deuxième réserve, l'ambiance. Le trailer mise sur un registre épique et ciné
 On attend, et cette fois sans trop se forcer. On était venus blasés, prêts à dénoncer un énième recyclage cynique, et on repart avec une vraie lueur d'espoir. Parce que ce n'est pas un remake, parce que c'est Toys for Bob libre et motivé, parce que l'idée du vol, si elle est bien encadrée, peut réellement réinventer la formule sans la trahir. On a vu cette année qu'un retour de licence pouvait être réussi quand l'amour est sincère, et ici l'amour saute aux yeux.
 
 Tout dépendra de l'équilibre, ce fil tendu entre la nouveauté grisante du ciel et la plateforme au sol qui fait le coeur de Spyro. On garde donc un oeil vigilant et un coeur d'enfant. Le dragon est de retour, et pour une fois, on a presque envie d'y croire les yeux fermés. À suivre.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

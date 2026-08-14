@@ -52,3 +52,5 @@ No Steam reviews are available as we write, so this score comes from our own pla
 And you, does early-2000s crude humour still make you laugh, or has it aged badly?
 
 ![Agefield High Rock the School, the town of Agefield and its residents](/images/agefieldhigh/screenshot-2.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

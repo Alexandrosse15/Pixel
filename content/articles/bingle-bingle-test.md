@@ -84,3 +84,5 @@ Le roguelike qui n'aurait jamais dû fonctionner, et qui devient pourtant une ob
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

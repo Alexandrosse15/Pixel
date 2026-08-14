@@ -55,3 +55,5 @@ Et au fond, c'est peut-être le plus bel hommage qu'on puisse rendre au Joueur d
 ---
 
 *Bugscraper et Bravest! sortent le 30 juin 2026 sur PC.*
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

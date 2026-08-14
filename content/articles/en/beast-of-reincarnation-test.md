@@ -52,3 +52,5 @@ That is where the joke turns around: for years, we wondered whether Game Freak w
 An imperfect game, a little wobbly at the start, but alive, ambitious and sincere. From the studio I was gearing up to demolish, it is a slap. A good one.
 
 ![Beast of Reincarnation, the art direction of the Japan devoured by the Corruption](/images/beastofreincarnation/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

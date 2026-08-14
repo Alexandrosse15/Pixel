@@ -65,3 +65,5 @@ If you enjoy platformers, this is clearly a must.
 ---
 
 *Tested on Nintendo Switch, full version provided by the publisher*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

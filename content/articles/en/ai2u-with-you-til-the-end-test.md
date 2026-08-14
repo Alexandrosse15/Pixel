@@ -60,3 +60,5 @@ A technological curiosity, then, whose interest lies entirely in what it does wi
 The player verdict is unambiguous and rests on a rare base for this kind of project: Steam reviews are Very Positive at 89 percent across nearly 1,900 reviews accumulated during Early Access.
 
 ![AI2U With You Til The End, the multiple endings based on your exchanges](/images/ai2u/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

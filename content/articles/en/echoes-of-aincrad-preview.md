@@ -54,3 +54,5 @@ But hope isn't a blank check. The curse of SAO games was never the lack of ideas
 ---
 
 *Preview based on the PC demo.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

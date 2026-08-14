@@ -22,3 +22,5 @@ Développé par Eldersong Games, il se présente comme une stratégie économiqu
 Ce qui pourrait faire la différence, c'est justement ce mélange gestion plus survie. Un simple city-builder western, on en a déjà vu. Mais si Ranchbound tient sa promesse d'un temps réel tendu, où gérer son cheptel et ses hommes devient une lutte permanente contre les éléments et le manque, il y a matière à quelque chose d'accrocheur. Tout dépendra de l'équilibre : trop de gestion tue le rythme, trop de survie tue la construction sur le long terme.
 
 Pour l'instant, le jeu n'est pas encore sorti et je me garde bien de trancher. Mais l'idée d'un ranch qu'on fait prospérer à la sueur de ses cowboys, dans un Ouest qui ne fait pas de cadeau, a de quoi titiller quiconque a déjà passé une nuit blanche sur un jeu de gestion. On surveille ça de près, et on reviendra vous dire ce que ça vaut une fois les portes du saloon ouvertes.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

@@ -64,3 +64,5 @@ Un survivor qui greffe la progression sans fin des incrémentaux sur la formule 
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

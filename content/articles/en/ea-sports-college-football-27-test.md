@@ -76,3 +76,5 @@ A college football simulation with sumptuous atmosphere and a brilliant Dynasty 
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

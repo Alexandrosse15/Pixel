@@ -64,3 +64,5 @@ A free, chaotic aerial PvP where you steal eggs beak-first: genuinely fun in the
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

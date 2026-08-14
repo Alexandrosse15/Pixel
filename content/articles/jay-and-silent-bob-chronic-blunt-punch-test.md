@@ -81,3 +81,5 @@ La nostalgie Double Dragon est là. La sensation Double Dragon, elle, ne s'est j
 ---
 
 *Testé sur PC, version du jour de sortie. Co-op testé en local.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

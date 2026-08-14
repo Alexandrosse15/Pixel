@@ -76,3 +76,5 @@ Un RPG tactique de survie qui apporte au genre la simulation balistique qui lui 
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

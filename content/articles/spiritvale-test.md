@@ -70,3 +70,5 @@ Un MMO solo-dev à la direction artistique ingrate mais à la boucle de farm et 
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

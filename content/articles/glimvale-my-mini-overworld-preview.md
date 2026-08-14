@@ -42,3 +42,5 @@ L'autre point de vigilance n'a rien à voir avec la qualité du jeu, et tout à 
 ## Conclusion
 
 On attend Glimvale: My Mini Overworld avec beaucoup de tendresse et un optimisme prudent. C'est un jeu modeste dans ses ambitions et immense dans son charme, porté par une direction artistique illustrée qui suffirait presque à le recommander, et par cette idée généreuse de glisser ses joueurs au coeur de son monde. Reste à confirmer que la boucle de gestion tiendra la distance une fois l'émerveillement retombé, et que sa petite équipe trouvera la lumière qu'elle mérite. Mais s'il y a une catégorie de jeux et de développeurs qu'on a envie de voir réussir, c'est bien celle-là: deux personnes, une vision claire, un village adorable, et zéro cynisme. Mettez-le en liste de souhaits, allez essayer la démo. Ce sont ces jeux-là qui méritent qu'on se déplace.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

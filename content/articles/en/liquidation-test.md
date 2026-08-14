@@ -49,3 +49,5 @@ I am going to be honest with the kid I was: no, Liquidation is not yet up to the
 But it has the blood, and that is already a lot. I am going to let it grow, come back in a few months, and I sincerely hope that at full release, it will have earned its place in the lineage. In the meantime, thank you Liquidation for sending me back, for the space of a few battles, to that primary-school computer room where it all began. The grandfather would be proud of the attempt, if not yet of the result.
 
 ![Liquidation, the three factions and the skirmish maps](/images/liquidation/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

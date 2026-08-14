@@ -64,3 +64,5 @@ On sera là pour le test.
 ---
 
 *Prévu en 2026 sur PC. Démo disponible sur Steam.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

@@ -62,3 +62,5 @@ Sudden Strike 5 is available on PC, Xbox Series X/S and PS5.
 ---
 
 *Article based on the official 2026 roadmap announcement and community feedback since the April 23, 2026 launch.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

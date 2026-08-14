@@ -52,3 +52,5 @@ C'est aussi la démonstration qu'un studio de taille humaine, avec une idée for
 ## Notre avis
 
 On a un faible assumé pour ces réussites-là. Rematch n'est pas le jeu dont tout le monde parle, et c'est précisément pour ça qu'il mérite qu'on en parle. C'est un petit jeu de foot qui a refusé la facilité, qui a misé sur la profondeur plutôt que sur le spectacle, sur le respect du joueur plutôt que sur l'exploitation, et qui en récolte les fruits sous la forme la plus précieuse qui soit: une communauté fidèle qui n'a besoin de personne pour continuer à jouer. Pendant que des géants ferment des studios faute de trouver leur public, Sloclap démontre qu'on peut encore réussir en faisant simplement les choses bien. Sa courbe de joueurs n'est pas un graphique, c'est une leçon. Et on espère que l'industrie prendra des notes.
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

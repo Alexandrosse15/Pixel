@@ -63,3 +63,5 @@ Mais le tableau a ses ombres, et il faut les nommer. D'abord, le jeu est entièr
 Une cathédrale coopérative bâtie par des inconnus muets: imparfaite, bavarde dans ses silences, et pourtant inoubliable.
 
 ![L'enfer de Dante n'a jamais été aussi beau à parcourir à trente-trois](/images/33immortals/screenshot-4.webp)
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

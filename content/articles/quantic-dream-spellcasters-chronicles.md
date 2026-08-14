@@ -70,3 +70,5 @@ L'annonce de la fermeture de Spellcasters Chronicles précise explicitement que 
 La bonne lecture de cette semaine chez Quantic Dream n'est pas "un studio en crise". C'est "un studio qui a perdu six mois et un budget sur un projet qui n'aurait jamais dû exister, et qui recentre ses efforts sur ce pour quoi il a été construit".
 
 L'espoir que Star Wars Eclipse soit à la hauteur de l'attente est réel. Mais il était déjà réel avant cette semaine. Spellcasters Chronicles n'a rien changé à ça, sauf retarder peut-être d'autant la date à laquelle on le verra.
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

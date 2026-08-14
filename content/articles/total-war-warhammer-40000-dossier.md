@@ -49,3 +49,5 @@ Notre enthousiasme est donc réel, mais tempéré par l'expérience. On garde en
 ---
 
 *Dossier basé sur les informations officielles et les révélations de gameplay disponibles à ce jour.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

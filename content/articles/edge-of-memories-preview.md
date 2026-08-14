@@ -46,3 +46,5 @@ S'ajoute un dilemme moral que la communauté ne cesse de remuer : faut-il boycot
 Edge of Memories a les arguments d'un action-JRPG qu'on a envie de voir réussir : un système de combat nerveux et lisible, une volonté assumée de couper le gras du remplissage, une bande-son qui claque et un univers qui a du cachet. Le saut par rapport à Edge of Eternity semble réel, et les retours sur les dernières vidéos sont nettement plus chaleureux que sur les premières.
 
 Mais on serait malhonnête de vous dire foncez. Entre une technique encore à prouver et un studio dont l'avenir se joue cette semaine en réunion de créanciers, le pari est immense. La bonne nouvelle, c'est que la démo est disponible maintenant : c'est le seul juge fiable, bien plus qu'un trailer monté pour séduire. Téléchargez-la, faites-vous votre opinion sur l'esquive et le rythme des combats, et gardez Edge of Memories dans un coin de votre liste de souhaits. En croisant les doigts pour que Midgar soit encore debout le jour où il sortira.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

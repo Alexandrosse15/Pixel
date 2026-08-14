@@ -64,3 +64,5 @@ Un MMO-roguelite pixel art qui ravive avec sincérité la nostalgie de Ragnarok 
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

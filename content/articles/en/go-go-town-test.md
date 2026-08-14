@@ -64,3 +64,5 @@ A warm, tactile builder where you're a mayor on the ground, inviting logistics o
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

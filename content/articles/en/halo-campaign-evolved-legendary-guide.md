@@ -131,3 +131,5 @@ Yes, notably in Pillar of Autumn and the final Warthog run of The Maw. Knowing w
 ---
 
 *Guide written based on the PC, Xbox Series and PS5 versions.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

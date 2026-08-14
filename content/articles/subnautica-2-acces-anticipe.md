@@ -72,3 +72,5 @@ Krafton a essayé de ne pas payer ses développeurs en utilisant ChatGPT comme c
 Il y a deux raisons d'acheter Subnautica 2. L'une est politique. L'autre est que c'est un bon jeu.
 
 Les deux sont valables.
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

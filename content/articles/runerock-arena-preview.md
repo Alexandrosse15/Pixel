@@ -40,3 +40,5 @@ Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de 
 Un jeu à réserver aux amateurs de tableurs à visage humain, donc. Ceux-là ne verront pas les graphismes au bout de dix minutes.
 
 ![Runerock Arena, la gestion des gladiateurs et de leur carriere](/images/runerockarena/screenshot-2.webp)
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

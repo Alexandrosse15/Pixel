@@ -47,3 +47,5 @@ The other point concerns the form. A puzzle adventure of this shape finishes and
 Still, the genre was missing, and this one looks made by people who understood why we play these. It is not to solve puzzles. It is to solve them with someone, and to have something to talk about afterwards. Including the ten minutes in front of the jump.
 
 ![Together in Forgotten Lands, the living cave that changes its rules](/images/togetherforgottenlands/screenshot-3.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

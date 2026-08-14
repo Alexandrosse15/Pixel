@@ -82,3 +82,5 @@ Verne: The Shape of Fantasy is a game made with love by someone who had a genuin
 ---
 
 *Tested on PC, full version*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

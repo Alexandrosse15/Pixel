@@ -93,3 +93,5 @@ Une économie idle maligne et un modèle commercial exemplaire, sabotés par des
 ---
 
 *Testé sur PC en Accès Anticipé.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

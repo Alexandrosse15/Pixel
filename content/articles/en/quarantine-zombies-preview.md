@@ -24,3 +24,5 @@ Quarantine Zombies - Prologue is Stones Games' bet: a free prologue riding the s
 Where I will temper the enthusiasm right away is on the nature of the game. On paper, this prologue leans more toward objective-driven solo survival, holding out and pushing forward, than the big co-op blast-fest a la Left 4 Dead you might hope for. That is not a flaw in itself, but better to know it before firing it up with three friends on voice chat. We will see, controller in hand, whether the action has the punch and readability the genre demands, or whether we fall back into generic indie zombie fare.
 
 The big upside is that it costs nothing to check. A free prologue is exactly the right format to form an opinion without risk. Our hope is a little new blood in a formula we love but have seen a thousand times. Our fear is one more zombie corridor with no ideas. We will call it after leaving a few shells behind, and tell you whether it is worth the detour or just the uninstall.
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

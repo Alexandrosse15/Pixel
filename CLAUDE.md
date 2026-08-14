@@ -10,6 +10,7 @@ Média jeu vidéo indépendant, FR + EN. Articles en markdown dans `content/arti
 - **Ne jamais inventer** : un fait, une note, une citation, un combo. Vérifier sur le web.
 - **L'auteur joue à TOUS les jeux qu'il fait tester.** Un article en catégorie `tests` avec une note est donc toujours fondé sur des parties réelles. Ne JAMAIS écrire qu'on n'a pas joué, ni "cette note est notre appréciation faute d'avoir joué", ni "pas un consensus de joueurs" comme justification de la note. L'absence d'avis Steam se mentionne uniquement comme contexte (le jeu vient de sortir, la communauté n'a pas encore tranché), jamais comme base du jugement.
 - **Preview vs test** : `previews` = jeu pas encore sorti ou pas encore joué, sans note. `tests` = joué, avec note. En cas de doute, demander.
+- **Chaque article invite au Discord** : `https://discord.gg/473FE3dWvw`. L'invitation se place en fin d'article, après la dernière image. **Formulation variée à chaque fois**, jamais la même phrase recopiée (voir règle anti-template n°5 sur les footers identiques). Elle doit s'accrocher au sujet de l'article quand c'est possible.
 - **git push immédiatement après chaque commit**. Message de commit en français, sans mention d'IA.
 - Avant chaque commit : vérifier 0 em dash, 0 emoji, et `npm run build` OK.
 

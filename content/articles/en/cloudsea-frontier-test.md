@@ -76,3 +76,5 @@ The 16-bit JRPG we dreamed of, generous and clever, but locked behind a language
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

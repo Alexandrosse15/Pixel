@@ -73,3 +73,5 @@ And it deserves this score. Fully.
 ---
 
 *Preview written based on available information and a presentation session*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

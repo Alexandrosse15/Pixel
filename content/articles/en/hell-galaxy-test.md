@@ -52,3 +52,5 @@ But the essential point lies elsewhere, and it meets your irritation head on. Th
 After a year of public release, reception settles at 76 percent positive across eighty reviews, an honest Mostly Positive. That is the score of a good niche game that has not yet convinced beyond its natural audience.
 
 ![Hell Galaxy, the combat and the sanity gauge](/images/hellgalaxy/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

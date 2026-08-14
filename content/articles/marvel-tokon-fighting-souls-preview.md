@@ -48,3 +48,5 @@ Mais on garde en tête les inconnues : la barre de vie unique devra prouver qu'e
 ---
 
 *Preview rédigée avant la sortie du 6 août 2026, sur la base des informations officielles.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

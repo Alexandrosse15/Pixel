@@ -47,3 +47,5 @@ Soyons clairs sur la limite, parce qu'elle est réelle : Big Walk n'existe pas s
 Ce n'est pas un reproche, c'est une nature. Big Walk sait exactement ce qu'il est : une expérience à partager, pas à consommer seul. Prenez-le pour ça, avec la bonne personne dans les oreilles, et vous tenez l'un des plus beaux moments de coopération de l'année. House House n'a pas refait le coup de l'oie, il a fait mieux : il a fait un jeu sur l'amitié qui ne dit jamais son nom. Chapeau.
 
 ![Big Walk, les structures à explorer et les enigmes a deux dans le monde ouvert](/images/bigwalk/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

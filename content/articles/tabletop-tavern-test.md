@@ -63,3 +63,5 @@ Il faut enfin garder en tête que le jeu vient tout juste de sortir, après une 
 Tabletop Tavern réussit son pari avec un charme désarmant: prendre la grammaire intimidante d'un Total War et la rendre légère, rapide et accessible, le tout emballé dans une présentation de wargame de comptoir qu'on a adorée. C'est un excellent jeu pour les soirées courtes, pour les amateurs de roguelite qui veulent du fracas d'armées sans la lourdeur d'une campagne de cinquante heures, et le suivi exemplaire du développeur laisse augurer d'un titre qui ne fera que grossir. Il lui manque de la profondeur sur le long terme, un adversaire plus retors, et la couche roguelite divisera. Mais pour le plaisir simple d'aligner ses régiments et de regarder la mêlée s'embraser, on en redemande.
 
 Le wargame de figurines réduit à l'essentiel et servi sur un plateau: léger, malin, et terriblement addictif par petites sessions.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -89,3 +89,5 @@ Et cette fois, on aura une carte mémoire.
 ---
 
 *Aperçu basé sur les informations disponibles avant lancement. Pas de note attribuée.*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

@@ -106,3 +106,5 @@ In the meantime: if you haven't yet claimed Utopia, Synthetic Dawn and the Human
 ---
 
 *Feature based on Paradox Interactive's official announcement and the Stellaris community's reactions.*
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

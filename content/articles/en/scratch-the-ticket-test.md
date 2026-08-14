@@ -51,3 +51,5 @@ The real unknown is depth. A game built on one repeated decision must find ways 
 In the meantime, it managed what very few games manage: it made me write an article I had not planned.
 
 ![Scratch the Ticket, the incremental loop and printing tickets](/images/scratchtheticket/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

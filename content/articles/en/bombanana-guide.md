@@ -70,3 +70,5 @@ Keep a methodical rhythm even when time presses, distribute the mental load by r
 ---
 
 *Guide written from the demo and official information, before the August 2026 release.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

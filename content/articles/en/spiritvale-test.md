@@ -70,3 +70,5 @@ A solo-dev MMO with an unappealing art direction but a fearsomely addictive loop
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

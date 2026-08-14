@@ -149,3 +149,5 @@ And deep down, that may be what defines it best: an endearing, sincere game, fro
 ---
 
 *Tested on Nintendo Switch 2, full version provided by the publisher*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

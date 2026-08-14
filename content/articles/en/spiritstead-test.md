@@ -47,3 +47,5 @@ The other thing to watch is the clicker elements the studio openly includes. The
 That said, at ten dollars, with that hand-drawn look and spirits doing the thankless work for you, the contract is fulfilled. It is the farming of our twenties with the leash taken off, and for once that a cozy game is not trying to keep us captive, we are not going to complain.
 
 ![Spiritstead, the growing village and the residents to assign jobs to](/images/spiritstead/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

@@ -82,3 +82,5 @@ The Double Dragon nostalgia is there. The Double Dragon feeling never quite mate
 ---
 
 *Tested on PC, launch day version. Co-op tested locally.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

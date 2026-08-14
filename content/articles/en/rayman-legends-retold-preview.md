@@ -50,3 +50,5 @@ That's our problem, and it's an honest one: we want to love this game. The new c
 But we can't silence the little voice repeating that we'd have preferred a new game. Ubisoft hinted that this new visual identity would be the first stone toward the franchise's future. If that's true, if Legends Retold is just the stepping stone to the Rayman 4 we've awaited for over twenty years, then we'll happily forgive its imperfections. If it's just one more remake to refill the coffers, our hearts will be heavy.
 
 So we're waiting for this game. One eye full of hope, the other wary. And the controller within reach, just in case.
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

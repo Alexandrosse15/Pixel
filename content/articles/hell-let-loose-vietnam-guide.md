@@ -80,3 +80,5 @@ Ayez toujours une voie de repli identifiée avant d'en avoir besoin. Reculer de 
 Enfin, quand une position tombe, dites-le immédiatement et clairement. Une escouade voisine qui ignore que son flanc vient de s'ouvrir subira la même chose dans les trente secondes.
 
 Ce guide sera complété à mesure que les cartes se connaîtront et que la communauté établira ses routes.
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

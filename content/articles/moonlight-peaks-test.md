@@ -82,3 +82,5 @@ Le life sim cosy passé côté nuit, avec une vraie identité vampirique qui rec
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

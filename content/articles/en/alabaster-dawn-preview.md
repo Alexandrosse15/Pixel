@@ -53,3 +53,5 @@ We're waiting for the rest with an impatience we didn't expect to feel.
 ---
 
 *Review based on the demo available on Steam. Early Access is planned for the first half of 2026.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

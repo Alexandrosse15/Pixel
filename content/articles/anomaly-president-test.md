@@ -55,3 +55,5 @@ Note : 7.5/10
 ---
 
 *Test réalisé sur la version PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -69,3 +69,5 @@ La démo nous a donné envie de voir la suite. C'est exactement ce qu'une démo 
 ---
 
 *Preview basée sur la démo disponible. Dead as Disco sort en Early Access le 5 mai 2026.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

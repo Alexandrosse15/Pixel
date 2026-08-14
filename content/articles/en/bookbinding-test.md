@@ -64,3 +64,5 @@ A cozy binding game hiding a dark plot of murder and tarot under its soothing cr
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -42,3 +42,5 @@ La seconde ombre est commerciale, et elle est devenue le seul sujet de conversat
 ## Conclusion
 
 On attend gen ATLAS, évidemment, et avec une impatience teintée d'angoisse. Tout ce qui fait l'ADN d'Ueda est là, le colosse, la planète morte, l'humain minuscule face à l'immensité, et la simple promesse d'un nouveau monde signé genDESIGN suffit à en faire un événement. Mais l'enthousiasme se heurte à deux murs bien réels: une présentation technique qui hoquette là où elle devrait éblouir, et un choix d'exclusivité PC qui dressera contre lui une partie du public avant même la sortie. Reste l'essentiel, cette barre qu'Ico et Shadow of the Colossus ont placée si haut qu'on n'ose même plus l'espérer atteinte, juste égalée. Si gen ATLAS y parvient, on pardonnera le framerate et on installera n'importe quel lanceur. Si Ueda rate sa cible, ce sera la première fois, et on n'est pas sûr d'être prêts à l'encaisser.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

@@ -91,3 +91,5 @@ Copa City prend le football par où personne ne l'avait pris, l'envers du décor
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

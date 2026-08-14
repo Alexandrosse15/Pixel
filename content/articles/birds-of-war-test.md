@@ -64,3 +64,5 @@ Un PvP aérien gratuit et chaotique où l'on se vole des oeufs à coups de bec :
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

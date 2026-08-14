@@ -22,3 +22,5 @@ Developed by Eldersong Games, it bills itself as a real-time economic strategy w
 What could make the difference is precisely that management-plus-survival mix. A simple western city-builder, we have seen before. But if Ranchbound delivers on its promise of tense real-time play, where managing your herd and your men becomes a constant fight against the elements and scarcity, there is the makings of something gripping. It will all come down to balance: too much management kills the pace, too much survival kills long-term building.
 
 For now the game is not out yet and I will not pass judgment. But the idea of a ranch you grow through the sweat of your cowboys, in a West that gives no favors, is enough to tempt anyone who has ever pulled an all-nighter on a management game. We are keeping a close eye on it, and we will come back to tell you what it is worth once the saloon doors swing open.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

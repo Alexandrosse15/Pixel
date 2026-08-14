@@ -68,3 +68,5 @@ Because in this industry, between "we've become aware of the problem" and "we've
 ---
 
 *Source: internal memo cited by The Verge, Windows Central, GameSpot : April 2026*
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

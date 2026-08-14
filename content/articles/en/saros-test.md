@@ -70,3 +70,5 @@ For someone who hasn't really touched the genre, it can be an accessible and ple
 ---
 
 *Review based on the final version.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

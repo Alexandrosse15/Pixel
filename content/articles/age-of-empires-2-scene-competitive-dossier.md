@@ -106,3 +106,5 @@ On a grandi avec ce jeu dans une salle informatique où personne n'aurait dû no
 ---
 
 *Dossier réalisé à partir des données publiques de la scène compétitive AoE2 et des discussions de la communauté Reddit r/aoe2.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

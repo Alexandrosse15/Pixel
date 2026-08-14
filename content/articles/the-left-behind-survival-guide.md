@@ -76,3 +76,5 @@ Oui, The Left Behind se joue en solo ou en coopération, et jouer à plusieurs f
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

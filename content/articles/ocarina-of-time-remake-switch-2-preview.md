@@ -52,3 +52,5 @@ On attend, évidemment, et de tout notre coeur d'enfant. Ocarina of Time reste p
 Mais on n'achètera pas une émotion sur parole. Tant que Nintendo n'aura pas montré du gameplay, expliqué sa vision et précisé ce qu'il ajoute, on garde la tête froide. Ce remake peut devenir le plus bel hommage de l'histoire du jeu vidéo, ou un recyclage de luxe surfant sur 40 ans de souvenirs. Le prochain Direct tranchera. D'ici là, on ressort la cartouche et on attend. À suivre.
 
 ![Lac Hylia sur N64: le point de départ d'un voyage qu'on espère sublimé](/images/oot/screenshot-5.webp)
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

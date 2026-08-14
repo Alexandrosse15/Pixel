@@ -62,3 +62,5 @@ A cozy bookshop sim that transcends a saturated genre through its warmth, its pu
 ---
 
 *Tested on PC, in early access.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

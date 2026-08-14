@@ -95,3 +95,5 @@ Is anyone going to take the helm?
 ---
 
 *Black Flag Resync. Ubisoft. Expected release on PS5, Xbox Series and PC.*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

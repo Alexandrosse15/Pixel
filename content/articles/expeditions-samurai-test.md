@@ -49,3 +49,5 @@ La seconde réserve tient au studio et à la série. Les Expeditions ont toujour
 Pour un amateur de vue du dessus, de groupes de bras cassés et de Japon féodal, la proposition reste très alléchante. Sachez juste dans quoi vous mettez les mains : pas dans du Commandos, dans un RPG tactique ambitieux qui n'a pas fini de s'écrire.
 
 ![Expeditions Samurai, les compagnons et leurs quetes personnelles](/images/expeditionssamurai/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

@@ -60,3 +60,5 @@ On the menu, a full Pacific campaign with assigned patrol zones, long-range miss
 Two pieces of good news to close: the game is available in French, and a demo lets you check for yourself whether owned austerity still speaks to you, twenty years on.
 
 ![Silent Shark, hunting convoys and the escorts](/images/silentshark/screenshot-3.webp)
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

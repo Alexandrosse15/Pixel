@@ -31,3 +31,5 @@ Le jeu mise sur le momentum, l'enchaînement fluide entre combat et traversée. 
 Je ne vais pas survendre : Akatori reste un premier jet ambitieux avec les aspérités qui vont avec. La courbe de difficulté a des pics abrupts, certains passages de plateforme demandent une précision que les contrôles ne rendent pas toujours à cent pour cent, et j'ai eu quelques moments de flottement dans la lecture de l'action au milieu de tout ce décor chargé. Rien de rédhibitoire, mais assez pour rappeler qu'on n'est pas devant un mastodonte à budget infini.
 
 Ça n'a pas entamé mon plaisir. Akatori, c'est un jeu qu'on aime d'abord avec les yeux, puis avec les mains une fois le bâton apprivoisé. Si vous cherchez le metroidvania parfait et sans défaut, attendez peut-être quelques patchs. Si vous avez, comme moi, un faible pour les jeux qui ont une vraie identité visuelle et le culot de la porter jusqu'au bout, foncez voir Mako. Ne serait-ce que pour le temple au lever du jour.
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

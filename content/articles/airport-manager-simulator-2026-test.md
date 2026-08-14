@@ -50,3 +50,5 @@ Aucun avis Steam n'est encore disponible : cette note vient de nos parties et no
 Question pour vous : dans un jeu de gestion, vous préférez tout superviser depuis un tableau de bord, ou mettre les mains dans la machine ?
 
 ![Airport Manager Simulator 2026, les equipements au sol et les operations](/images/airportmanager2026/screenshot-2.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

@@ -28,3 +28,5 @@ The rest follows, generously: four new minibosses, twenty weapons, nine enemies,
 Amid all this avalanche, one plain yet much-requested addition: damage numbers. You can finally see each attack's damage range, from the guaranteed minimum on a hit to the theoretical maximum. For a strategy game where every decision counts, no longer playing by guesswork is a genuine comfort. On top of that comes a "story" tab in the codex, to reread and replay dialogues and the intro cinematic.
 
 The timing is no accident: the update lands during Steam Cyberpunk Fest, with the game marked 20% off all week. If you were looking for a reason to try this tactical roguelike, there is a nice spread of them. And the studio is already promising the next batch in two weeks, which says a lot about the pace of support. Enough to keep the chronospheres very much alive.
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

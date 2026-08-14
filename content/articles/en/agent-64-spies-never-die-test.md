@@ -48,3 +48,5 @@ That leaves the real question, the one no store page answers: does the feel of t
 Since our first look, players have settled it: Steam reviews are Very Positive at 91 percent across more than 220 reviews. The homage keeps its promises, including on the feel of the shooting, which was our one real unknown.
 
 ![Agent 64 Spies Never Die, the missions and split-screen](/images/agent64/screenshot-2.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

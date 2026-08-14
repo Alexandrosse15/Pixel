@@ -53,3 +53,5 @@ We are, and we are not going to pretend to be lukewarm. Total War and Warhammer 
 What remains is the reality check, that of a pre-alpha build with no date and a titanic balancing act to nail. The closed beta will be the first real test, and we already have our hand on the sign-up button. Until then, we keep our feet on the ground and our eyes full of stars. To be continued.
 
 ![A still pre-alpha build, but the ambition is there](/images/tw40k/screenshot-6.webp)
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

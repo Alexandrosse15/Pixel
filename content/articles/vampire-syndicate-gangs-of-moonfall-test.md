@@ -84,3 +84,5 @@ Un cocktail audacieux de cRPG old-school, de tactique et de gestion de mafia vam
 ---
 
 *Testé sur PC, en Accès Anticipé.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

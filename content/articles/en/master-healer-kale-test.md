@@ -70,3 +70,5 @@ A golden idea, the healer finally at the center of the game, served by an honest
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

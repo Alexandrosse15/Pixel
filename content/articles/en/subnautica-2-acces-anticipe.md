@@ -72,3 +72,5 @@ Krafton tried not to pay its developers using ChatGPT as legal counsel, put an i
 There are two reasons to buy Subnautica 2. One is political. The other is that it's a good game.
 
 Both are valid.
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

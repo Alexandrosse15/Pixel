@@ -49,3 +49,5 @@ Our enthusiasm is therefore real, but tempered by experience. We keep in mind th
 ---
 
 *Feature based on the official information and gameplay reveals available to date.*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

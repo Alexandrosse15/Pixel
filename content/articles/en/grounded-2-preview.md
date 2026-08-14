@@ -46,3 +46,5 @@ Still, the overall caution tempers the enthusiasm. By keeping the art direction,
 ---
 
 *Preview based on the PC early-access version.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

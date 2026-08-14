@@ -129,3 +129,5 @@ Both: knowing each map's best spots helps, but above all apply the universal gri
 ---
 
 *Guide written based on the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

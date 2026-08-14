@@ -76,3 +76,5 @@ No, save the protagonist for later: his support and healing shine mostly once yo
 ---
 
 *Guide written based on the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

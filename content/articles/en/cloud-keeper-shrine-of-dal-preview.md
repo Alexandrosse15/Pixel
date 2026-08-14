@@ -46,3 +46,5 @@ But we keep in mind the unknowns of a solo-made Early Access: the robustness of 
 ---
 
 *Preview written before the 31 August 2026 Early Access launch, based on official information and the demo.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

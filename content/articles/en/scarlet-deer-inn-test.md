@@ -64,3 +64,5 @@ A hand-painted exploration platformer, as beautiful as it is delicate, that hand
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

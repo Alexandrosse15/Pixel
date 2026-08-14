@@ -48,3 +48,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Avouez : vous aussi vous vous êtes pris pour un personnage de série médicale, ou c'est juste nous ?
 
 ![Emergency Room Simulator, les urgences vitales et le massage cardiaque](/images/emergencyroomsimulator/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -62,3 +62,5 @@ Le jeu ne compte encore aucun avis Steam sur sa version en accès anticipé : ce
 La vraie question : combien de temps avant que vous ne disiez encore une machine et que le soleil se lève ?
 
 ![Sandustry, le monde destructible et la recherche d artefacts](/images/sandustry/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

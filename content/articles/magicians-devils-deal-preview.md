@@ -50,3 +50,5 @@ Soyons lucides deux minutes, parce qu'un emballement n'est pas une critique. Le 
 ## Conclusion
 
 On ne va pas bouder notre plaisir: Magicians: The Devil's Deal est l'une des plus belles promesses qu'on ait vues cette année. Un concept brillant, l'illusionniste dont les tours deviennent réels, un univers infernal et théâtral à tomber, un système de pouvoirs qui sent l'immersive sim de la grande époque, et des créateurs qui ont littéralement bâti BioShock. Tout est réuni pour faire la claque de 2027, à condition que le studio tienne la distance et que sa magie reste de la magie jusqu'au bout. Mais s'il y a un jeu sur lequel on est prêts à miser dès maintenant, c'est bien ce dandy ganté qui jette des cartes en Enfer. On signe le pacte les yeux fermés.
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

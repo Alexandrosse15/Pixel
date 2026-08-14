@@ -54,3 +54,5 @@ Ambroise Niflette et la Cloche Pomée est une des previews les plus difficiles �
 Les contrôles sur Steam Deck demandent une correction avant la sortie. C'est le seul signal d'alerte concret.
 
 Pour le reste : demo gratuite sur Steam, aucune excuse pour ne pas l'avoir essayée avant la fin de la journée.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

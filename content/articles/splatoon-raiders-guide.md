@@ -62,3 +62,5 @@ Quelques principes pour progresser sereinement. Adaptez la difficulté à votre 
 ---
 
 *Guide rédigé sur la base de la version Switch 2.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

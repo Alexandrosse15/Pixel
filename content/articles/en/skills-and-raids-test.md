@@ -64,3 +64,5 @@ A dark-fantasy real-time-with-pause extraction RPG that takes Darkest Dungeon's 
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -42,3 +42,5 @@ The sequel has the foundations to fix what didn't work and build on what did. Su
 ---
 
 *Preview based on the official announcement and reveal trailer. No detailed gameplay has been shown at this stage.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

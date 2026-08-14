@@ -64,3 +64,5 @@ A medieval strategy with a siege and tower-defense core, closer to Stronghold th
 ---
 
 *Tested on PC, in early access.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

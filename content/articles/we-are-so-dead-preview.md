@@ -50,3 +50,5 @@ La seconde est la rejouabilité du démon. Le studio annonce des règles cachée
 Un dernier mot, et il vaut avertissement pour de vrai : ce jeu se joue avec des gens que vous aimez suffisamment pour leur pardonner de vous avoir laissé mourir parce qu'ils ont lu OUI au lieu de NON.
 
 ![We Are So Dead, les reliques a rassembler et le demon](/images/wearesodead/screenshot-3.webp)
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

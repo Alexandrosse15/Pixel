@@ -68,3 +68,5 @@ The community has known exactly what it wants for twenty years. The only questio
 ---
 
 *Preview based on the Gamescom 2025 trailer, the official poster, and community information available at the time of the announcement.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

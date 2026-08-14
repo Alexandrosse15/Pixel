@@ -70,3 +70,5 @@ An owned Stardew Valley clone, but one that interplanetary travel and combat-min
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

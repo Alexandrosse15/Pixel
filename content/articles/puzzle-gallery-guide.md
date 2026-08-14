@@ -36,3 +36,5 @@ Gardez aussi un oeil sur les pièces à forme bizarre. Les découpes atypiques s
 Le jeu promet des améliorations pour épauler vos talents de puzzleur. N'hésitez pas à vous en servir. On n'est pas là pour se punir, mais pour le plaisir tranquille de voir un chef-d'oeuvre renaître. Si une fonction vous aide à trier, à repérer ou à surligner des pièces, prenez-la, surtout sur les tableaux les plus retors ou les grandes zones monochromes qui sont la vraie plaie du puzzle.
 
 Dernier conseil, le plus important peut-être : ne jouez pas ça comme une course. Cleaning Up The Puzzle Gallery est un jeu cozy, avec sa musique classique et son ambiance de musée au calme. Mettez une session sur une soirée, avancez d'un ou deux tableaux, et revenez le lendemain l'esprit frais. C'est comme ça qu'on vient à bout d'un puzzle géant sans le détester. À la maison comme dans le jeu.
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

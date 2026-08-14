@@ -54,3 +54,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Soyez honnête en commentaire : vous encaissez tôt, ou vous relancez toujours une fois de trop ?
 
 ![Scratch the Ticket, la boucle incrementale et l impression des tickets](/images/scratchtheticket/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -51,3 +51,5 @@ Dites-nous : la répétition tranquille après une journée de boulot, ça vous 
 Il est disponible en français, et il trouvera sans doute son public : il existe des joueurs pour qui la répétition tranquille est exactement le repos recherché après une journée de travail, et ce n'est pas un tort. Simplement, si vous cherchez une raison de creuser autre que le fait de creuser, elle n'est pas ici.
 
 ![Wild West Miner Simulator, la ville qui grandit et les habitants](/images/wildwestminer/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

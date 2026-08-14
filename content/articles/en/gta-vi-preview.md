@@ -89,3 +89,5 @@ And this time, we'll have a memory card.
 ---
 
 *Preview based on information available before launch. No score assigned.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

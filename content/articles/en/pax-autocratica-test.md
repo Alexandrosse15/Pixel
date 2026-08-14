@@ -70,3 +70,5 @@ In the meantime, yes: a totalitarian state, mechs, bullet hell and prisoners to 
 Players have now settled it, and decisively: Steam reviews are Very Positive at 89 percent across more than 700 reviews. For an Early Access game mixing colony sim and FPS, that reception validates the studio's bet.
 
 ![Pax Autocratica, citizen and colony management](/images/paxautocratica/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

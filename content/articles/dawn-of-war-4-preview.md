@@ -68,3 +68,5 @@ La communauté sait exactement ce qu'elle veut depuis vingt ans. La question est
 ---
 
 *Preview réalisé à partir du trailer de Gamescom 2025, de l'affiche officielle et des informations relayées par la communauté au moment de l'annonce.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

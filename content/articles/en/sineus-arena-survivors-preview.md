@@ -53,3 +53,5 @@ Release planned for June 2026 on PC.
 ---
 
 *Preview based on available information. Playtest currently live on Steam.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

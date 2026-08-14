@@ -70,3 +70,5 @@ A clever, generous sci-fi RTS/RPG made by lovers of the genre, that doesn't deth
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

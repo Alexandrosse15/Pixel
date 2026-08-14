@@ -41,3 +41,5 @@ Not everything shines. The game bets everything on one idea, and that idea shows
 None of that stopped me from coming back. SnekromancY plays in short sessions, for the immediate thrill of an absurd build thrown together in ten minutes, more than for dozens of hours of meta-progression. It is a small game that knows exactly what it is, that executes its ludicrous idea with enough bite to earn forgiveness for its limits. If the genre wears you out with its clones, this resurrected snake at least offers a trap you will not find anywhere else: its own tail.
 
 ![SnekromancY, a chaos spike with projectiles and an oversized snake](/images/snekromancy/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

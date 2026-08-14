@@ -47,3 +47,5 @@ You just have to wait and see whether the bet holds over time. Dropping stealth,
 ---
 
 *Preview based on the official information and early hands-on impressions.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

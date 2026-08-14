@@ -65,3 +65,5 @@ Si tu aimes les jeux de plateforme, c'est clairement un incontournable.
 ---
 
 *Testé sur Nintendo Switch, version complète fournie par l'éditeur*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

@@ -70,3 +70,5 @@ Une grosse fac est plus facile, mais bâtir une dynastie dans une petite fac off
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

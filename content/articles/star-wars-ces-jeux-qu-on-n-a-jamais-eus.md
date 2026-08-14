@@ -160,3 +160,5 @@ Et c'est peut-être ça, le vrai drame.
 ---
 
 *Dossier basé sur les informations disponibles au moment de la publication*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

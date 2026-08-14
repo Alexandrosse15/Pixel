@@ -51,3 +51,5 @@ Deux points décideront de sa valeur réelle. Le premier est l'équilibrage entr
 Bon point à signaler, le jeu est disponible en français, ce qui n'est pas si fréquent pour une production de cette taille.
 
 ![Open The Gate Just A Little, l arbre d ameliorations et les promotions](/images/openthegate/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

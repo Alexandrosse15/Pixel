@@ -54,3 +54,5 @@ Sortie prévue en juin 2026 sur PC.
 ---
 
 *Preview basée sur les informations disponibles. Playtest en cours sur Steam.*
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

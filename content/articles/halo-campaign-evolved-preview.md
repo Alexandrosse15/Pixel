@@ -47,3 +47,5 @@ Mais impossible de faire l'impasse sur ce qui manque, et ce manque est énorme p
 ---
 
 *Aperçu réalisé à quelques jours de la sortie, sur la base des versions test et des premiers retours.*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

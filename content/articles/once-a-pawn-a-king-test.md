@@ -97,3 +97,5 @@ Un roguelike qui prend l'objet le plus sérieux du monde, lui enlève ses lunett
 ---
 
 *Testé sur PC en version Accès Anticipé.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

@@ -44,3 +44,5 @@ Une proposition honnête, donc, avec une vraie bonne idée de rythme, dans un em
 Et c'est là que le jeu nous donne tort sur le ton employé plus haut : les avis Steam sont Très positifs, à 93 % sur près de 90 retours. L'habillage reste anonyme, mais la boucle fonctionne manifestement bien mieux que sa présentation ne le laissait croire.
 
 ![Stonewards, les mines a piller entre deux vagues](/images/stonewards/screenshot-2.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

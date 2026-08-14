@@ -62,3 +62,5 @@ The fact that the first Neofeud addressed police brutality, exploitation of sent
 Neofeud 2 is available now on itch.io. The Steam version is listed but not yet available for purchase on the platform at the time of this article. Christian Miller maintains a Ko-fi and a Patreon to support the ongoing development of Silver Spook Games, which is already working on new projects in the Neofeud universe.
 
 For a game of this narrative and artistic scope, the absence of mainstream distribution at launch is the only real friction point. The audience for cyberpunk with genuine political depth and art direction that matches its ambitions exists. Neofeud 2 is exactly that game. You just have to know it's there.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

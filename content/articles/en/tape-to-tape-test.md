@@ -93,3 +93,5 @@ Tape to Tape knows what it is and doesn't pretend to be anything else: arcade ho
 The one friction point: the synergy system can be steep for a player who comes purely to wreck people without thinking about builds. The roguelite depth might put off an audience who wanted pure NHL Hitz. That's not a dealbreaker, it's just something to know before starting your first run.
 
 Beyond that: it's the best independent hockey game released since EA decided simulation was the genre's future. And if you can still hear the sound of a puck hitting boards on a Saturday afternoon on NHL 2006, this is for you.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

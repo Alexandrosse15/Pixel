@@ -71,3 +71,5 @@ From 31 July, balancing sponsor income and expenses (renewals, signings, staff, 
 ---
 
 *Guide written based on the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

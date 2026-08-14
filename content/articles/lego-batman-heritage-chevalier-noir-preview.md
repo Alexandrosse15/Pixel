@@ -68,3 +68,5 @@ On sera là.
 ---
 
 *Preview basée sur les informations disponibles avant la sortie.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

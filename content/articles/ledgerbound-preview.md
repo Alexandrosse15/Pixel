@@ -42,3 +42,5 @@ Reste que ce n'est probablement pas pour la tactique qu'on viendra. C'est pour r
 Une réserve pratique pour finir : le jeu est disponible en anglais uniquement, et vu la densité de dialogues et de jeux de mots, c'est une barrière réelle.
 
 ![Ledgerbound, le combat tactique sur grille et les capacites](/images/ledgerbound/screenshot-2.webp)
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

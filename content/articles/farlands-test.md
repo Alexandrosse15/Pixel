@@ -70,3 +70,5 @@ Un clone de Stardew Valley assumé, mais que le voyage interplanétaire et le mi
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

@@ -76,3 +76,5 @@ Pour ceux qui ont aimé l'esthétique des jeux Asano mais ont toujours préfér�
 La structure d'un jeu d'exploration avec voyages dans le temps, combat action et des dizaines d'heures dans un monde HD-2D de cette qualité n'a pas d'équivalent direct sur le marché. C'est ce que la démo établit clairement, malgré Faie.
 
 ![The Adventures of Elliot, donjons et exploration](/images/elliotmillenniumtales/screenshot-6.webp)
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

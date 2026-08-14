@@ -53,3 +53,5 @@ L'autre limite est celle du genre lui-même. Aussi maligne soit la couche de pro
 En revanche, si le principe vous parle et que l'idée de fabriquer vos propres produits plutôt que de déballer des cartons vous amuse, c'est probablement le plus intelligent de sa catégorie en ce moment. Et sur l'aspect visuel, vous saurez à quoi vous en tenir avant de payer, ce qui est déjà mieux que la moyenne.
 
 ![Figure Shop Simulator, l amenagement et l agrandissement du magasin](/images/figureshopsimulator/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

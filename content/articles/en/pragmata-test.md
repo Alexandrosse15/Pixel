@@ -81,3 +81,5 @@ Next time, with more friction, a more ambitious bestiary, and a narrative that t
 ---
 
 *Tested on PS5.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

@@ -92,3 +92,5 @@ A tense, intelligent FPS, and clearly a niche title that could well lose part of
 ---
 
 *Tested on PC, full version provided by the publisher*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

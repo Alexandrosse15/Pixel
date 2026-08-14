@@ -64,3 +64,5 @@ On n'est pas devenus Marty Byrde. On n'a pas orchestré un empire financier crim
 ---
 
 *Test réalisé sur la version PC. Cash Cleaner Simulator est disponible sur PC, PS5 et Xbox Series X/S.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

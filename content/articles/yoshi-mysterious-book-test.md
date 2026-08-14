@@ -71,3 +71,5 @@ Yoshi et le Livre Mystérieux est le jeu le plus inventif de la série depuis l'
 Ce qu'il n'est pas : un platformer exigeant. Ce qu'il est : un jeu de découverte pour joueurs de tous niveaux, à l'aise dans sa propre définition, et meilleur qu'il n'y paraît de loin.
 
 ![Yoshi et le Livre Mystérieux, fin](/images/yoshimysteriousbook/screenshot-8.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

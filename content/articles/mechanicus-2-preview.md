@@ -54,3 +54,5 @@ L'autre point de vigilance : le prix n'a toujours pas été communiqué officiel
 La démo était solide. Les ajustements communiqués depuis vont dans le bon sens. La Lingua Technis en option est exactement la décision qu'il fallait prendre. Les Nécrons jouables avec une conception asymétrique suggèrent un jeu qui a réfléchi à son rejeu.
 
 Le 21 mai, l'encens est préparé et les servo-bras sont calibrés. On prie l'Esprit-Machine pour que la bande son tienne la distance.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

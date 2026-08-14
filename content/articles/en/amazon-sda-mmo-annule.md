@@ -74,3 +74,5 @@ Rumors about a solo RPG developed by Warhorse Studios have been circulating for 
 Unconfirmed. But it's exactly the profile of the studio that could do something meaningful with Middle Earth. Not a conglomerate that has already proved seven times it doesn't know how to make games.
 
 In the meantime: go back to LOTRO.
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

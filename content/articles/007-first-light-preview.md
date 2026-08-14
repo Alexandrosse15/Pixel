@@ -64,3 +64,5 @@ La question n'est pas si le jeu sera bon. La question est si l'écriture tiendra
 ![007 First Light, séquence](/images/007firstlight/screenshot-7.webp)
 
 De notre côté, on a usé nos cartouches sur GoldenEye 007 et The World Is Not Enough sur Nintendo 64 comme tous les enfants des années 90. Vingt ans plus tard, on a hâte de voir ce qu'IO Interactive a préparé.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

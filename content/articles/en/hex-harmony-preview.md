@@ -64,3 +64,5 @@ We'll be there for the review.
 ---
 
 *Expected in 2026 on PC. Demo available on Steam.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

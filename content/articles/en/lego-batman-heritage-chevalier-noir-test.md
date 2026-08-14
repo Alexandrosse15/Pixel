@@ -75,3 +75,5 @@ LEGO Batman: Legacy of the Dark Knight is a love letter to all versions of Batma
 The open world secondary content falls short of the rest, stealth is approximate, no online co-op is unfortunate. Those are real flaws in a game that surprises on everything else.
 
 Nobody expected the best Batman game in ten years to be a LEGO. And yet here we are.
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

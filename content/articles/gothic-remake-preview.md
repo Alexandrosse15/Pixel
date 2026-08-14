@@ -72,3 +72,5 @@ Ce qu'on sait : le Vieux Camp ressemble au Vieux Camp. Diego dit ce qu'il était
 ![Gothic Remake, atmosphère](/images/gothicremake/screenshot-7.webp)
 
 Gothic a toujours été un jeu qui ne cherchait pas à plaire. Ce n'est pas Skyrim, ça n'a jamais voulu l'être. Si le remake préserve ça jusqu'au bout, peu importe le débat sur les orques.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

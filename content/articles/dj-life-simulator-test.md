@@ -64,3 +64,5 @@ Un simulateur qui vous apprend vraiment à mixer sur du matériel réel, plus ou
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

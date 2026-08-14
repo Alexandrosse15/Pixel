@@ -39,3 +39,5 @@ Mais l'espoir ne fait pas un jeu, et tout reste à prouver. Ce n'est aujourd'hui
 ---
 
 *Aperçu réalisé sur le prototype itch.io.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

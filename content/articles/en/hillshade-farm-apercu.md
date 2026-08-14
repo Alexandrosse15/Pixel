@@ -30,3 +30,5 @@ We're noting it, and watching the May 21st release.
 ---
 
 *Preview based on information available before Early Access launch. No score assigned at this stage.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

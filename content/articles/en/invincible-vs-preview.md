@@ -69,3 +69,5 @@ We can't wait. Genuinely.
 ---
 
 *Preview based on available information and early test impressions. No score assigned.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

@@ -36,3 +36,5 @@ The usual ratio is therefore inverted. Here the depth sits on the side of text a
 To be seen, then, whether the density of the scrolls compensates for the dryness of the staging across dozens of runs. The game has just launched, with no user reviews, which explains the absence of a score. It is available in French, which matters a great deal for a game this wordy.
 
 ![Heritage, the scrolls and year-by-year choices](/images/heritage/screenshot-2.webp)
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

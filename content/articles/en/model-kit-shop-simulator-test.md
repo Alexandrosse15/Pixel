@@ -64,3 +64,5 @@ Yet another take on the shop simulator, saved from mere repeat by its hobby bask
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

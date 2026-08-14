@@ -93,3 +93,5 @@ Un huis clos qui transforme l'entretien d'une machine en descente mentale, port�
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -110,3 +110,5 @@ Pokopia should have chosen: relax players or make them grind. It tried both, and
 ---
 
 *Tested on Nintendo Switch, full version provided by the publisher*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

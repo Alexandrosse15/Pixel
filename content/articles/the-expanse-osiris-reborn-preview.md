@@ -80,3 +80,5 @@ Owlcat ne fait pas de jeux superficiels. Leurs RPG ont des défauts d'exécution
 ![The Expanse: Osiris Reborn, exploration](/images/osirisreborn/screenshot-8.webp)
 
 Que les Ceinturiens aient une vraie place dans ce récit, et le reste suivra.
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

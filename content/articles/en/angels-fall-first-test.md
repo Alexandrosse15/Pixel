@@ -70,3 +70,5 @@ The fantasy of the total space Battlefront, from the command bridge to the corri
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

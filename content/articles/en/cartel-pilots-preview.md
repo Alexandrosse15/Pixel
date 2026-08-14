@@ -66,3 +66,5 @@ We'll be there when it's playable.
 ---
 
 *No demo played. Based on trailers and official information available to date.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

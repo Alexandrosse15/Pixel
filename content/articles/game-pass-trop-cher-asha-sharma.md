@@ -69,3 +69,5 @@ Parce que dans cette industrie, entre "on a pris conscience du problème" et "on
 ---
 
 *Source : mémo interne cité par The Verge, Windows Central, GameSpot : avril 2026*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

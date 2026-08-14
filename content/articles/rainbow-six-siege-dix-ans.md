@@ -69,3 +69,5 @@ C'est le genre d'histoire qui donne à la fois envie de féliciter Ubisoft et de
 ---
 
 *Dossier rédigé en avril 2026, basé sur les informations publiques disponibles à cette date.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

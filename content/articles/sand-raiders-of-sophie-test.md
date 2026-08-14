@@ -78,3 +78,5 @@ Une forteresse mécanique géante et un désert de 1910 superbe, au service d'un
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

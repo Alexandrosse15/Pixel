@@ -42,3 +42,5 @@ Le deuxième a les bases pour corriger ce qui n'avait pas fonctionné et capital
 ---
 
 *Preview basée sur l'annonce officielle et la bande-annonce de révélation. Aucun gameplay détaillé n'a été montré à ce stade.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

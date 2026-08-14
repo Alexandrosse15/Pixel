@@ -64,3 +64,5 @@ Un tycoon musical farfelu qui cache un vrai logiciel de production audio, où l'
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

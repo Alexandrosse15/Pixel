@@ -48,3 +48,5 @@ Mais un grand concept mal exécuté reste un mauvais jeu, et la démo montre tro
 ---
 
 *Aperçu réalisé sur la démo PC.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

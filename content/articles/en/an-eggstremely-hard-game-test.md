@@ -64,3 +64,5 @@ A punishing co-op game in the Chained Together lineage, saved from the pale copy
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

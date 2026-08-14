@@ -149,3 +149,5 @@ Et au fond, c'est peut-être ça qui le définit le mieux : un jeu attachant, si
 ---
 
 *Testé sur Nintendo Switch 2, version complète fournie par l'éditeur*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -39,3 +39,5 @@ Let us be clear-eyed about what grates. Mistfall Hunter is intrinsically stressf
 And then there is the question that haunts every game like it: what comes next. An extraction game lives or dies on its support, its balance, its online population. At launch, the foundations are solid, the loop hooks, Game Pass access will bring people in. But I will only really know what Mistfall Hunter is worth in six months, when we see whether Bellring feeds its game or abandons it. For 25 euros, or free through the subscription, the bet is worth a look if you love risking everything to win everything. And if, like me, dying five metres from the exit makes you want to start over rather than smash something.
 
 ![Mistfall Hunter, the three-player squad against rival hunters](/images/mistfallhunter/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

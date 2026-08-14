@@ -64,3 +64,5 @@ Un jeu de cartes compétitif en ligne qui laisse les joueurs créer et auto-équ
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

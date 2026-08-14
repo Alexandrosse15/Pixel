@@ -46,3 +46,5 @@ Mais l'espoir ne fait pas un grand jeu, et Stage Tour devra répondre aux questi
 ---
 
 *Aperçu réalisé à partir des informations du studio et du playtest.*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

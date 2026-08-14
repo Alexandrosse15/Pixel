@@ -94,3 +94,5 @@ Les Murmures du Soleil est la preuve qu'un jeu peut être entièrement nouveau s
 ---
 
 *Testé sur iOS et Android, version complète gratuite*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

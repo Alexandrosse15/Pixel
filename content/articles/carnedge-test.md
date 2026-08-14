@@ -82,3 +82,5 @@ Le jeu en dessous mérite mieux.
 ---
 
 *Testé sur PC, version du jour de sortie : 19 avril 2026*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

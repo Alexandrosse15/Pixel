@@ -70,3 +70,5 @@ Through discipline and anticipation: always keep a purification margin proportio
 ---
 
 *Guide written from the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

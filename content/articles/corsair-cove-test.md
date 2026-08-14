@@ -40,3 +40,5 @@ Le décalage est presque frustrant, parce qu'il y a deux jeux là-dedans : un ci
 Si en revanche vous rêviez d'abordages, de bordées et d'aventure en mer autant que d'aménagement, freinez votre enthousiasme : cette moitié-là du jeu n'existe qu'à moitié. Moi, j'ai fait la paix avec ça, j'ai rangé le bateau au fond du port, et j'ai continué à bâtir mon nid d'aigle pirate en prenant des photos. Le jeu que je voulais n'était peut-être pas tout à fait celui qu'on m'a vendu, mais celui que j'ai eu était quand même sacrément beau.
 
 ![Corsair Cove, l'ambiance de l'âge d'or de la piraterie](/images/corsaircove/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

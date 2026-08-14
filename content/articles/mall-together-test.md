@@ -64,3 +64,5 @@ Un sim de gestion de centre commercial qui voit grand et brille en coop, mais qu
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -69,3 +69,5 @@ A gorgeous but rough co-op extraction that uses Lovecraft as scenery instead of 
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

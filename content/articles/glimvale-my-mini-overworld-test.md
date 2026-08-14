@@ -82,3 +82,5 @@ Un city-builder cosy charmant et bien troussé, qui détourne malicieusement l'i
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

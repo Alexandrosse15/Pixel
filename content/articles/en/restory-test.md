@@ -51,3 +51,5 @@ The other point is the storytelling. A branching plot is only worth something if
 It remains a lovely piece of work, and for someone with my history, close to a trap. If you have ever fixed someone's console on a Friday evening and been taken for a wizard, you already know your evenings are spoken for.
 
 ![ReStory, the customers and their stories in the shop](/images/restory/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

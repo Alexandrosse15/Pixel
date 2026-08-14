@@ -47,3 +47,5 @@ L'autre point à surveiller, ce sont les éléments de clicker assumés par le s
 Cela dit, à dix dollars, avec ce trait-là et des esprits qui font le boulot ingrat à votre place, le contrat est rempli. C'est le farming de nos vingt ans débarrassé de sa laisse, et pour une fois qu'un jeu cosy ne cherche pas à nous garder captifs, on ne va pas se plaindre.
 
 ![Spiritstead, le village qui grandit et les habitants a qui assigner des metiers](/images/spiritstead/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

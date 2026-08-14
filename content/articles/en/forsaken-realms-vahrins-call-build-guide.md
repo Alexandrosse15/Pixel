@@ -64,3 +64,5 @@ Yes, classless freedom lets your hero evolve, but it's better to keep a coherent
 ---
 
 *Guide written based on the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

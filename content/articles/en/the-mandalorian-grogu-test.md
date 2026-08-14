@@ -75,3 +75,5 @@ Rotten Tomatoes at 60%, Metacritic at 54: those aren't disaster scores. They're 
 The Mandalorian & Grogu offers two hours of clean visuals, a well-written Rotta the Hutt, Sigourney Weaver doing her job, and Goransson's music. It ignores Mandalore, wastes two main villains, dodges a central political question, and proposes a fortress infiltration by narrative telekinesis.
 
 The Mandalorian season 1 was a good series because it knew what it was. This film doesn't know what it is. It will remain the franchise's least consequential entry, not because it's bad, but because it didn't decide to be great.
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

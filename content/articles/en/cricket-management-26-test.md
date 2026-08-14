@@ -55,3 +55,5 @@ Score: 7/10
 ---
 
 *Reviewed on the PC Early Access version.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

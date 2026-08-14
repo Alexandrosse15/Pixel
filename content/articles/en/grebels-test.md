@@ -64,3 +64,5 @@ A spiritual successor to G-Police with outsized ambition, loading-free open worl
 ---
 
 *Tested on PC, in early access.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

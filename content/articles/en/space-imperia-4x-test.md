@@ -64,3 +64,5 @@ A brilliant digital adaptation of the Space Empires 4X board game, tense and bui
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

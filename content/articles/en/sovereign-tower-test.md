@@ -47,3 +47,5 @@ Its limits are those of its shape. A game resting this heavily on its characters
 None of which stops the result from being the most solid of the batch. A Round Table of endearing incompetents, power over time, and enough of a pen to go the distance: that is exactly what you ask of this kind of game.
 
 ![Sovereign Tower, expanding the tower and balancing the factions](/images/sovereigntower/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

@@ -69,3 +69,5 @@ On a hâte. Vraiment.
 ---
 
 *Aperçu basé sur les informations disponibles et les premières impressions de test. Pas de note attribuée.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

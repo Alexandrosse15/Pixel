@@ -64,3 +64,5 @@ A voxel survivor roguelite that stands out through piloting a trio of heroes and
 ---
 
 *Tested on PC, in early access.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

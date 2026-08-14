@@ -143,3 +143,5 @@ An imperfect work, but an interesting one. A promising first step. And above all
 ---
 
 *Tested on PC, full version*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

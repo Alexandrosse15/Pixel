@@ -66,3 +66,5 @@ What we know: the studio delivered twice on what it announced. HELLREAPER's anno
 ![HELLREAPER, boss](/images/hellreaper/screenshot-7.webp)
 
 Awesome Games Studio isn't preparing a release, they're building an argument. The argument, for now, is convincing. The answer to "does the full game deliver on these promises" comes when they announce a date. In the meantime, the wishlist is mandatory.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

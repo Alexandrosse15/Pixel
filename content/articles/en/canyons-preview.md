@@ -68,3 +68,5 @@ The individual elements are promising. RedRuins proved with Breathedge they can 
 But if anyone can hold it all together with real personality, it's a studio that managed to make an immortal chicken in space into an emotional object.
 
 Waiting on the date.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

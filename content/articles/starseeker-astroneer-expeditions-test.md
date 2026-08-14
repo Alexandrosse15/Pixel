@@ -61,3 +61,5 @@ Il y a enfin la question, propre à tout jeu pensé comme un service, de la dur�
 Starseeker: Astroneer Expeditions est un jeu qu'on a très envie d'aimer. Il est splendide, dépaysant, porté par cette direction artistique en pâte à modeler qui a fait le charme d'Astroneer, et son idée d'expéditions coopératives ponctuées d'une station-refuge a du potentiel. Mais à l'heure du lancement, il souffre d'un mal qui ne pardonne pas: on s'y promène plus qu'on n'y joue. Le contenu est trop maigre, la boucle trop répétitive, l'obligation du online rebutera les fans solo du premier, et la technique flanche sur Switch 2. En tournant le dos au bac à sable créatif qui faisait l'identité d'Astroneer, System Era a pris un risque énorme, et il n'est pour l'instant qu'à moitié récompensé. À surveiller, clairement, mais à laisser mûrir avant de s'embarquer.
 
 Une carte postale spatiale sublime qu'on aimerait habiter, le jour où elle deviendra vraiment un jeu.
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

@@ -76,3 +76,5 @@ That's rarer than people think.
 ---
 
 *Review based on the final version.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

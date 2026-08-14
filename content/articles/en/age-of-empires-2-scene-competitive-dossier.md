@@ -106,3 +106,5 @@ We grew up with this game in a computer room where nobody should have let us pla
 ---
 
 *Feature based on public AoE2 competitive scene data and community discussions from Reddit r/aoe2.*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

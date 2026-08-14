@@ -70,3 +70,5 @@ The discipline of extraction: knowing when to give up and leave alive. A player 
 ---
 
 *Guide written from the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

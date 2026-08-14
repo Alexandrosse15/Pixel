@@ -64,3 +64,5 @@ A competitive online card game that lets players create and auto-balance their o
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

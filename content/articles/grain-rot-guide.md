@@ -70,3 +70,5 @@ C'est votre progression à long terme. Réinvestissez votre butin entre les runs
 ---
 
 *Guide rédigé sur la base de la démo et des informations officielles, avant la sortie du 7 août 2026.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

@@ -53,3 +53,5 @@ La troisième, c'est l'absence de licences. Le jeu annonce plus de 140 équipes 
 Reste un premier jeu ambitieux, signé deux frères danois, dont les fondations mécaniques sont saines et parfois malignes. Il lui manque une saison ou deux de patchs pour mériter les nuits qu'il promet. J'y reviendrai, sans doute trop tard le soir.
 
 ![CS Manager, la gestion de l effectif et du calendrier](/images/csmanager/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

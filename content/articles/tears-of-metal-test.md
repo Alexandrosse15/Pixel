@@ -70,3 +70,5 @@ Un Dynasty Warriors écossais en coopération, aussi défoulant qu'addictif, qui
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

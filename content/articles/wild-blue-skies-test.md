@@ -62,3 +62,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Et vous, la campagne d'abord ou le score d'abord ?
 
 ![Wild Blue Skies, les oceans, les cretes desertiques et les grottes](/images/wildblueskies/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

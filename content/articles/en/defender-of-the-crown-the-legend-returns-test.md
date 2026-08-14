@@ -58,3 +58,5 @@ The game has no Steam reviews yet, so this score comes from our own playthroughs
 And you, on a classic re-release: the original Retro mode, or the reimagined version?
 
 ![Defender of the Crown The Legend Returns, Kingdom Mode and its generated maps](/images/defenderofthecrown/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

@@ -72,3 +72,5 @@ The market's most beautiful Backrooms game, and one of the least scary: by rende
 ---
 
 *Tested on PC, in early access.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

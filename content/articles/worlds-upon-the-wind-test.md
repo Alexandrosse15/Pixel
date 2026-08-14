@@ -64,3 +64,5 @@ Un roguelite deckbuilder apaisé d'une beauté rare, qui retrace l'art japonais 
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

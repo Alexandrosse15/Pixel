@@ -63,3 +63,5 @@ But like any early access, Witchspire arrives with its work sites, and they must
 Witchspire succeeds where so many survival games fail: it makes you want to stay for pleasure, not out of fear of dying. By ridding the genre of its punitive chores and replacing them with magic, by tending its familiars, its building freed by astral projection and its playable-Ghibli world, Envar delivers an early access start full of charm and sound ideas. Not everything is there yet, it is a game that will grow, with its controller, content and feature work sites still ahead, and its refusal of head-on difficulty will not win over survival purists. But the essential, the soul, the art direction, the intelligence of the mechanics, is already firmly present. We cannot wait to see this spell fully unfurl.
 
 A cozy witch's tale that re-enchants survival: unfinished, but already bewitching.
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -24,3 +24,5 @@ And yet, the image is inviting. Look at that bright hall, those empty frames on 
 What reassures a little is that the game does not plan to leave you alone with the chaos. It promises "enhancements" to back up your puzzling skills, so those 2071 pieces do not turn into an insurmountable chore. The bet is to keep the quiet pleasure of the jigsaw while avoiding discouragement, with each painting and each area visually distinct so you do not get lost.
 
 Let us be honest, this kind of game will not speak to everyone. If the idea of sorting sky-blue pieces for an hour gives you hives, keep walking. But if you are the type to find a strange calm in meticulous sorting, or just curious to see a Van Gogh reborn piece by piece under your fingers, there is a gentle, clever offer here. Us, we are scared and tempted at the same time. We will go back with a guide under our arm, naturally.
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

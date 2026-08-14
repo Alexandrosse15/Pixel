@@ -72,3 +72,5 @@ It's not the roguelite of the year. It's an honest, well-put-together game that 
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

@@ -63,3 +63,5 @@ Meccha Chameleon is one of those dead-simple ideas you are amazed nobody saw ear
 A hide-and-seek that picks up the brushes: imperfect, fragile, but with a freshness we had not tasted in a long time.
 
 ![The moment of truth, when the Seeker reveals who was hiding under the paint](/images/meccha/screenshot-5.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

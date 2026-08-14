@@ -47,3 +47,5 @@ L'autre point tient à la forme. Une aventure à énigmes de ce format se termin
 Reste que le genre manquait, et que celui-ci a l'air fait par des gens qui ont compris pourquoi on y joue. Ce n'est pas pour résoudre des énigmes. C'est pour les résoudre avec quelqu'un, et pour avoir quelque chose à se raconter après. Y compris les dix minutes devant le saut.
 
 ![Together in Forgotten Lands, la grotte vivante qui change ses regles](/images/togetherforgottenlands/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

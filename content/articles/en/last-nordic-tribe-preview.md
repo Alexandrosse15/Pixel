@@ -76,3 +76,5 @@ For players looking for a short, dense Nordic survival with genuine historical g
 ![The Last Nordic Tribe, crafting](/images/lastnordictribe/screenshot-6.webp)
 
 The Little Ragnarök actually happened. The Scandinavians who survived 536 AD rebuilt without knowing the sun would come back. The Last Nordic Tribe puts you in that position, in that world, with a stone axe and enough fog that you can never see more than a hundred meters ahead. That's an honest starting point.
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

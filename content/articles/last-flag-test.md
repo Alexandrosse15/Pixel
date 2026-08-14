@@ -92,3 +92,5 @@ Un FPS tendu, intelligent, et clairement un jeu de niche, qui pourrait bien perd
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -82,3 +82,5 @@ Un gimmick de frappe transformé en roguelite malin et superbement enluminé, qu
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

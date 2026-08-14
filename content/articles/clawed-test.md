@@ -52,3 +52,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Dites-nous : dans un survival horror, vous préférez un monstre scripté qu'on apprend à lire, ou une créature imprévisible ?
 
 ![Clawed, les tunnels souterrains et les zones aquatiques](/images/clawed/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

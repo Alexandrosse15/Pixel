@@ -52,3 +52,5 @@ We are. Development is finished, the team is in the polishing and bug-fixing pha
 The demo is there to check for yourself. The rest plays out on July 21. Until then, one word: Wishlist. To be continued.
 
 ![Managing the townsfolk between descents](/images/diveordie/screenshot-7.webp)
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

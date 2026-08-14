@@ -45,3 +45,5 @@ The other limit is the roguelike's own: repetition. The loop holds as long as fi
 What remains is the essential part, and it raises a smile: the space combat is immediately satisfying, and it has actually shipped. By one person, with support from Outersloth, the funding label set up by the creators of Among Us. There are production lessons here that need no commentary.
 
 ![Rogue Eclipse, upgrading the fighter between runs](/images/rogueeclipse/screenshot-3.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

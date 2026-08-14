@@ -74,3 +74,5 @@ Six ans d'attente pour un reboot plutôt que pour une suite dans la lignée du d
 ![Fable 2026, paysage](/images/fable2026/screenshot-7.webp)
 
 On ne demande pas que ce soit Fable III-bis. On demande que ce soit quelque chose qui a compris pourquoi le chien du deux nous a brisé le coeur. Si c'est le cas, le reste suivra.
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

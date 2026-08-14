@@ -64,3 +64,5 @@ Un jeu de train qui troque la contemplation contre une guerre économique d'ench
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

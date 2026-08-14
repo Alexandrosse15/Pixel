@@ -64,3 +64,5 @@ Un RPG de cartes dark fantasy d'une beauté sombre, au combat sans tours ni mana
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

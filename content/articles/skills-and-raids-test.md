@@ -64,3 +64,5 @@ Un extraction-RPG dark fantasy en temps réel avec pause qui reprend l'âme puni
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

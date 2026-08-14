@@ -86,3 +86,5 @@ Un jeu pour les amoureux d'Excel. Et une punition douce pour tous les autres.
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

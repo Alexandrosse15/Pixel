@@ -42,3 +42,5 @@ The game is out today with no user reviews, hence the absence of a score. It is 
 For a gentle evening with a little tension, the contract looks fulfilled. And it really is very pretty.
 
 ![The Merchants Eden, defending the town against raiders](/images/merchantseden/screenshot-2.webp)
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

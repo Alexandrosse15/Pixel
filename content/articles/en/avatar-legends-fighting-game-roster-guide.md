@@ -68,3 +68,5 @@ Conversely, save for later the high-execution characters like Azula and Zaheer, 
 ---
 
 *Guide written based on the launch roster.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

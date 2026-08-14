@@ -42,3 +42,5 @@ For a two-person team the ambition is already considerable, and the accessible a
 Early feedback has arrived and it matches the promise: 73 percent positive across more than 150 reviews, a Mostly Positive. For a game two people openly describe as incomplete, that is a decent start.
 
 ![Luminary, exploration and real-time combat](/images/luminary/screenshot-2.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

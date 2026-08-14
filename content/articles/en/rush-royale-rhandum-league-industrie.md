@@ -50,3 +50,5 @@ Our position is simple: bravo for the level-playing-field format, which should s
 ---
 
 *Rush Royale is available on Android and iOS. The Rhandum League begins on 17 July.*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

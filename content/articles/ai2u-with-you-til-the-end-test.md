@@ -60,3 +60,5 @@ Une curiosité technologique, donc, dont l'intérêt tient entièrement à ce qu
 Le verdict des joueurs est sans ambiguïté et repose sur une base rare pour ce genre de projet : les avis Steam sont Très positifs, à 89 % sur près de 1 900 retours accumulés pendant l'accès anticipé.
 
 ![AI2U With You Til The End, les fins multiples selon vos echanges](/images/ai2u/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

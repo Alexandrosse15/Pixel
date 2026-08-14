@@ -70,3 +70,5 @@ Gardez un rythme méthodique même quand le temps presse, répartissez la charge
 ---
 
 *Guide rédigé sur la base de la démo et des informations officielles, avant la sortie d'août 2026.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

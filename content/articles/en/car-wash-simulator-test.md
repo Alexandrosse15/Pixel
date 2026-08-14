@@ -64,3 +64,5 @@ Caution was warranted. Since release, Steam reviews are Mixed at 41 percent posi
 The gap with PowerWash Simulator and its 97 percent therefore becomes a chasm, and it confirms our main reservation: stacking cleaning, property management, timers, crime and mini-games produces a game that does nothing as well as its model. The free demo remains the only reasonable starting point.
 
 ![Car Wash Simulator, the mini-games and the shopping plaza](/images/carwashsimulator/screenshot-3.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

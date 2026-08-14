@@ -54,3 +54,5 @@ Quand vous vous sentez à l'aise, alors seulement, tentez le PvP. Et gardez en t
 ---
 
 *Guide rédigé sur la base de la version PC en Accès Anticipé.*
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

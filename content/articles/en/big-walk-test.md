@@ -47,3 +47,5 @@ Let us be clear about the limit, because it is real: Big Walk does not exist wit
 That is not a criticism, it is a nature. Big Walk knows exactly what it is: an experience to share, not to consume alone. Take it for that, with the right person in your ears, and you have one of the finest co-op moments of the year. House House did not redo the goose trick, it did better: it made a game about friendship that never says its name. Hats off.
 
 ![Big Walk, the structures to explore and the two-player puzzles in the open world](/images/bigwalk/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -70,3 +70,5 @@ Ce qui rend le Baltic Showcase précieux, c'est qu'il assume enfin cette identit
 - [Baltic Game Industry, programme régional](https://www.ahk-balt.org/en/projects/completed-projects/baltic-game-industry)
 - [Video games in Finland (Wikipedia)](https://en.wikipedia.org/wiki/Video_games_in_Finland)
 - [Liste des jeux développés en Estonie (Wikipedia)](https://en.wikipedia.org/wiki/List_of_video_games_developed_in_Estonia)
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

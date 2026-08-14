@@ -64,3 +64,5 @@ Une adaptation numérique brillante du jeu de plateau Space Empires 4X, tendue e
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

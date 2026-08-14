@@ -65,3 +65,5 @@ What remains is the Achilles heel, that dependence on outsourcing that keeps par
 - [Total Croatia News : Gamepires acquired by Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
 - [A1 Adria League : Croatian gaming industry analysis](https://a1adrialeague.com/gaming-croatia-a1sec/)
 - [Overseer Games : Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -55,3 +55,5 @@ And deep down, it's maybe the finest tribute we can pay those retro-gaming creat
 ---
 
 *Bugscraper and Bravest! launch on 30 June 2026 on PC.*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

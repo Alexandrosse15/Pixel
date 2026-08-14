@@ -80,3 +80,5 @@ Always have an identified withdrawal route before you need it. Falling back twen
 Finally, when a position falls, say so immediately and clearly. A neighbouring squad unaware that its flank has just opened will suffer the same within thirty seconds.
 
 This guide will be expanded as the maps become known and the community establishes its routes.
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

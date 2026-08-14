@@ -60,3 +60,5 @@ Deux choses décideront de son sort. La première est la sensation de tir : dans
 Une réserve pratique enfin, à signaler dès maintenant : le jeu est annoncé en anglais, coréen, chinois simplifié et japonais. Pas de français pour l'instant.
 
 ![Guns and Dragons, les runes et artefacts a combiner entre les runs](/images/gunsanddragons/screenshot-3.webp)
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

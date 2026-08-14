@@ -81,3 +81,5 @@ The game underneath deserves better.
 ---
 
 *Tested on PC, launch day version : April 19th 2026*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

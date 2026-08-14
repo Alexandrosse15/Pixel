@@ -64,3 +64,5 @@ La prudence était justifiée. Après la sortie, les avis Steam sont Mitigés, �
 L'écart avec PowerWash Simulator et ses 97 % devient donc un gouffre, et il valide notre réserve principale : empiler le nettoyage, la gestion immobilière, le chrono, le crime et les mini-jeux produit un jeu qui ne fait rien d'aussi bien que son modèle. La démo gratuite reste le seul point de départ raisonnable.
 
 ![Car Wash Simulator, les mini-jeux et la galerie marchande](/images/carwashsimulator/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

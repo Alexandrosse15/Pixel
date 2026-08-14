@@ -60,3 +60,5 @@ Enfin, considérer la mort comme un échec. C'est un roguelite : chaque retour a
 Ce guide sera complété à mesure que le jeu évoluera et que les routes de la communauté se préciseront.
 
 ![Echoes of Mystralia, le Temple Azimuth entre les expeditions](/images/echoesofmystralia/screenshot-3.webp)
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

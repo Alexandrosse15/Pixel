@@ -64,3 +64,5 @@ A mining incremental that stands out through its double-or-nothing slot machine,
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

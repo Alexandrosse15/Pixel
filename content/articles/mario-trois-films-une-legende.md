@@ -85,3 +85,5 @@ On a aimé les trois, pour des raisons différentes. Et on espère qu'il y en au
 ---
 
 *Le nouveau film Mario est actuellement en salle*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

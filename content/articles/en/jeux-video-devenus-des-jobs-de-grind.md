@@ -130,3 +130,5 @@ The answer will ruin your evening. But at least it'll be honest.
 ---
 
 *Feature based on observed behaviours in the video game industry in 2026*
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

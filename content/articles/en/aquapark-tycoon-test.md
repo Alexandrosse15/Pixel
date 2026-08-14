@@ -64,3 +64,5 @@ A tycoon that finally fills the water-park niche, with a cozy and creative appro
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

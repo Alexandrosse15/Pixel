@@ -50,3 +50,5 @@ Notre position est honnête : l'idée nous emballe. Prolonger l'univers par un a
 Mais une bande-annonce n'est pas un jeu. Tout reste à prouver : le dosage de l'humour de ce satané cube, la cohérence de l'au-delà, et la capacité de Santa Monica à respecter un lore qu'il a lui-même rendu sacré. Aucune date n'a été montrée, et Jason Schreier penche pour 2027. Si le studio tient ses promesses, Laufey pourrait être la plus belle surprise de la génération. S'il transforme God of War en festival de répliques façon blockbuster, on aura le coeur lourd.
 
 Rendez-vous, probablement, en 2027. D'ici là, on garde l'enthousiasme prudent, et un oeil méfiant sur le cube.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

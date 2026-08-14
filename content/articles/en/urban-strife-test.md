@@ -76,3 +76,5 @@ A tactical survival RPG that brings the genre the ballistic simulation it was mi
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

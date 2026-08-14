@@ -72,3 +72,5 @@ What we know: the Old Camp looks like the Old Camp. Diego says what he was suppo
 ![Gothic Remake, atmosphere](/images/gothicremake/screenshot-7.webp)
 
 Gothic always was a game that didn't try to please. It's not Skyrim, it never wanted to be. If the remake preserves that until the end, whatever the orc debate, the result will be what it needs to be.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

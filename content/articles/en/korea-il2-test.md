@@ -39,3 +39,5 @@ Let me be blunt: this game is not for everyone, and it does not even try to be. 
 ![Korea. IL-2 Series, the hangar and the American F-51D Mustang with its career and campaign modes](/images/korea-il2/screenshot-4.webp)
 
 But if, like me, you burned whole nights on War Thunder's sim mode flying red and stalking a Sabre's tail, Korea. IL-2 Series hands you the exact madeleine you were hoping for, prettier and more rigorous. I will not pretend I have already ground it down like my 3000 hours of old. But I fell back into it with an idiot grin, the same tension in my shoulders the moment I engaged, and I already know it is going to cost me. A lot of feathers, and a lot of hours.
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

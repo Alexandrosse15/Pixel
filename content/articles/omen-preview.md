@@ -44,3 +44,5 @@ Réserve pratique enfin : le jeu est disponible en anglais uniquement, et vu la 
 Si l'ambiance vous parle déjà, elle ne vous lâchera probablement pas. Prévoyez simplement de prévenir les enfants.
 
 ![Omen, les expeditions et la defense de base](/images/omen/screenshot-2.webp)
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

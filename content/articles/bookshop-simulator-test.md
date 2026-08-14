@@ -62,3 +62,5 @@ Un simulateur de librairie cozy qui transcende un genre saturé par sa chaleur, 
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

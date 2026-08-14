@@ -52,3 +52,5 @@ C'est un score très bas, y compris pour un accès anticipé, et il touche préc
 L'échantillon reste modeste et un accès anticipé peut se redresser, cela s'est déjà vu. Mais en l'état, difficile de recommander l'achat à qui que ce soit. Attendez plusieurs mises à jour, ou passez votre chemin.
 
 ![Sword and Shield Simulator, le concepteur d armes et le commerce](/images/swordshieldsim/screenshot-2.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

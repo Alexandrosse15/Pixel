@@ -93,3 +93,5 @@ Tape to Tape sait ce qu'il est et ne prétend être rien d'autre : du hockey d'a
 Le seul angle de friction : le système de synergies peut être abrupt pour un joueur qui vient uniquement pour casser des bouches sans se préoccuper des builds. La profondeur roguelite peut désarçonner un public qui cherchait NHL Hitz pur et dur. Ce n'est pas rédhibitoire, c'est juste à savoir avant de lancer sa première run.
 
 Pour le reste : c'est le meilleur jeu de hockey indépendant sorti depuis que EA a décidé que la simulation était l'avenir du genre. Et si vous avez encore en tête le son d'un palet envoyé dans une bande un samedi après-midi, c'est pour vous.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

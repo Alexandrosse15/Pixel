@@ -66,3 +66,5 @@ Olden Era is the Heroes we've been waiting twenty years for, not quite finished 
 ---
 
 *Review based on the Early Access version (April 2026). The game is in active development with a full release planned within the year.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

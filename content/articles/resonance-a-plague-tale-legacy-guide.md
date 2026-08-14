@@ -71,3 +71,5 @@ Le 27 août 2026, sur PC, PS5 et Xbox Series. Ce guide de préparation est basé
 ---
 
 *Guide de préparation basé sur les informations officielles disponibles avant la sortie.*
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

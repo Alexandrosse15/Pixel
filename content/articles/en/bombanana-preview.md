@@ -46,3 +46,5 @@ But we keep in mind its two unknowns: the game's ability to renew its situations
 ---
 
 *Preview written before the August 2026 release, based on the demo and official information.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

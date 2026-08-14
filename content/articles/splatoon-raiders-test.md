@@ -64,3 +64,5 @@ Un spin-off qui transforme la saga multijoueur en looter-shooter PvE solo, avec 
 ---
 
 *Testé sur Switch 2.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

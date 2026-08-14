@@ -56,3 +56,5 @@ RD Racing a quatre avis sur Steam au moment de cet article, tous positifs, mais 
 Ce qu'on peut dire : la proposition est claire, le prix est honnête, la démo gratuite permet de tester avant d'acheter. Pour les joueurs qui ont grandi avec Death Rally, Road Redemption, ou simplement avec l'idée qu'une course de voitures est plus intéressante quand les concurrents peuvent exploser, RD Racing coche les cases sans prétendre être autre chose.
 
 See The Sea Studio a fait un jeu de niche pour un public de niche, avec les moyens d'un studio indépendant et un résultat qui correspond à ce qu'il annonce. Dans le catalogue Steam actuel, c'est déjà un positionnement rare.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

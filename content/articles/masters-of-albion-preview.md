@@ -110,3 +110,5 @@ La réponse arrive bientôt. Et elle pourrait changer beaucoup de choses.
 ---
 
 *Preview réalisée sur la base des informations disponibles et d'une session de présentation*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

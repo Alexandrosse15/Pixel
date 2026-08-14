@@ -95,3 +95,5 @@ Just another roguelite. But with enough style to make you want to believe in it.
 ---
 
 *Tested on PC, full version provided by the publisher*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

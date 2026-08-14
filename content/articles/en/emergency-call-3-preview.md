@@ -26,3 +26,5 @@ The headline argument is the complete rebuild in Unreal Engine 5. Not just a seq
 This station-life approach, if handled well, could lift this third entry above the run-of-the-mill sim. The risk, with this kind of ultra-realistic project launched in early access, is the early rigidity and lack of polish. We know what hardcore simulation early access is worth: often promising, sometimes austere, rarely complete on day one.
 
 So we stay cautious, but curious. The urge to test what a 24-hour shift feels like, with skill progression and realistic intervention management, is very much there. We will go back once a few hours of duty are done, to tell you whether this overhaul keeps its promises or still needs to heat up.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

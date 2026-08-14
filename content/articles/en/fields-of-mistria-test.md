@@ -31,3 +31,5 @@ The small detail that made me smile from the start: the sword in the first slot 
 Two years of early access gives you time to polish. And it shows. The game is stable, rich, full of characters written with enough personality that you genuinely want to bring them gifts every morning. The "just one more day" loop runs at full power, that quietly wicked little mechanic that keeps you chaining days until the sun actually rises where you live. On that turf, Mistria plays with the big boys.
 
 Does it reinvent the genre? No, and it does not pretend to. If you viscerally hate farming games, this one will not convert you. Its offer is absolute comfort, gentle routine, quiet collecting, served with rare refinement. Anyone after thrills or radical novelty should keep walking. The rest of us, those who know the guilty pleasure of watering crops at 1am, have a new safe bet here. Me, I have already reloaded a save. Day 13 is waiting.
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

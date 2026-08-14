@@ -93,3 +93,5 @@ We're going to spend time here. A lot of time. And somewhere, we hope the develo
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

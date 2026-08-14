@@ -45,3 +45,5 @@ L'autre limite est celle du roguelike : la répétition. La boucle tient tant qu
 Reste l'essentiel, et il fait sourire : le combat spatial y est immédiatement satisfaisant, et il a été livré. Par une personne, avec l'aide d'Outersloth, le label de financement monté par les créateurs d'Among Us. Il y a des leçons de production qui se passent de commentaire.
 
 ![Rogue Eclipse, l amelioration du chasseur entre les runs](/images/rogueeclipse/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

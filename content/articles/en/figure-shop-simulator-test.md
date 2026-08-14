@@ -53,3 +53,5 @@ The other limit belongs to the genre itself. However clever the production layer
 If the premise appeals to you, though, and the idea of manufacturing your own products rather than unpacking boxes amuses you, this is probably the smartest of its category right now. And on the visual side, you will know exactly where you stand before paying, which is already better than average.
 
 ![Figure Shop Simulator, laying out and expanding the store](/images/figureshopsimulator/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

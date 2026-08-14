@@ -51,3 +51,5 @@ Le second point de vigilance tient à l'équilibrage. Cent cinquante pouvoirs, c
 Reste l'essentiel : c'est exactement le genre de jeu qu'on lance à quatre sur un canapé sans rien expliquer à personne, et qui produit dix minutes plus tard des cris et des accusations. Pour un descendant de FIFA Street, c'est le meilleur compliment possible. Le jeu est en français, ce qui ne gâche rien.
 
 ![Pro Jank Footy, le mode Saison et la construction de deck](/images/projankfooty/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

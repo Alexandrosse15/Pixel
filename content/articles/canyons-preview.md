@@ -68,3 +68,5 @@ Les éléments individuels sont prometteurs. RedRuins a prouvé avec Breathedge 
 Mais si quelqu'un peut tenir tout ça ensemble avec une vraie personnalité, c'est un studio qui a réussi à faire d'un poulet immortel dans l'espace un objet émotionnel.
 
 On attend la date.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

@@ -60,3 +60,5 @@ Au menu, une campagne complète dans le Pacifique avec zones de patrouille assig
 Deux bonnes nouvelles pour finir : le jeu est disponible en français, et une démo permet de vérifier par soi-même si l'austérité assumée vous parle encore, vingt ans après.
 
 ![Silent Shark, la traque des convois et les escorteurs](/images/silentshark/screenshot-3.webp)
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

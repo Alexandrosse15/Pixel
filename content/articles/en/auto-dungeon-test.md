@@ -76,3 +76,5 @@ A roguelite autobattler that turns monster fusion into a lab addiction: opaque a
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

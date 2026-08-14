@@ -70,3 +70,5 @@ Machine Party is built for two to four players and shows its full worth in a com
 ---
 
 *Guide written from the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

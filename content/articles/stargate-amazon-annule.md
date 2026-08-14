@@ -60,3 +60,5 @@ Et la vérité plus dure encore, c'est qu'on aurait dû le voir venir. Rien dans
 Les fans signent des pétitions, résilient leur Prime, saturent les lignes d'assistance. C'est compréhensible, c'est même sain. Mais si Amazon doit retenir une leçon, ce n'est pas qu'une licence de niche a une base bruyante. C'est qu'une entreprise capable de dire non quatre fois de suite à Brad Wright, à Emmerich, aux scénaristes de The Expanse et à Martin Gero ne mérite peut-être tout simplement pas de tenir cette porte. Qu'ils la revendent. À Apple, à Netflix, à n'importe qui qui voudra en faire une série plutôt qu'une ligne dans un tableur.
 
 En attendant, les anciennes saisons sont toujours là. Allez revoir SG-1. C'est le seul Stargate dont on est sûr qu'Amazon ne pourra pas nous reprendre.
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

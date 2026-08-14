@@ -64,3 +64,5 @@ Un auto-shooter qui greffe le deckbuilding stratégique de Hand of Fate sur la f
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

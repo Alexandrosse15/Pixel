@@ -95,3 +95,5 @@ Quelqu'un va-t-il un jour reprendre la barre ?
 ---
 
 *Black Flag Resync. Ubisoft. Sortie prévue sur PS5, Xbox Series et PC.*
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

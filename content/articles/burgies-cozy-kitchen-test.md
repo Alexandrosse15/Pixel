@@ -64,3 +64,5 @@ Un idle game de cuisine adorable, jouable activement ou en compagnon de bureau, 
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

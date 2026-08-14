@@ -63,3 +63,5 @@ The game also makes commendable efforts on accessibility and comfort, with adjus
 Terrinoth: Heroes of Descent nails the essential: carrying the soul of a great board game into a fluid, generous and welcoming tactical RPG. The combat built on combos and Synergy attacks has character, the one-night mission structure is a find perfectly suited to co-op video gaming, and the variety of voiced dungeons makes you want to chain expeditions. It is exactly the kind of game you want to boot up one evening with friends, no fuss, for the simple pleasure of thrashing hordes together. Its limits are those of its accessibility ambition: a tactical depth that might leave purists wanting, and all the question marks of a still-piping-hot game. But as the first video game adaptation of Descent, it is a clear and likable success.
 
 The board game night resurrected on screen: accessible, convivial, and built to be shared.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

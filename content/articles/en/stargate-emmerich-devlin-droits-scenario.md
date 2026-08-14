@@ -46,3 +46,5 @@ One major unknown remains, and it tempers the enthusiasm: the desire. Emmerich h
 Our reading, then, is twofold. No, this is not the rescue the community is already celebrating, and feeding that idea does no one any favors. Yes, it is the smartest and most meaningful move around Stargate in a very long time, because it redistributes, for the first time, a share of power back to those who started it all. The appointment is set for October 29, 2029. Until then, the gate stays shut, but someone has finally gotten one of the keys back.
 
 ![The whole Stargate universe stems from the screenplay registered in 1993](/images/stargate/screenshot-1.png)
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

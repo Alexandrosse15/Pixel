@@ -80,3 +80,5 @@ Owlcat doesn't make superficial games. Their RPGs have execution flaws but never
 ![The Expanse: Osiris Reborn, exploration](/images/osirisreborn/screenshot-8.webp)
 
 Let the Belters have a real place in this story, and the rest will follow.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

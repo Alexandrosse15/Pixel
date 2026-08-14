@@ -70,3 +70,5 @@ It is your long-term progression. Reinvest your loot between runs to upgrade it 
 ---
 
 *Guide written from the demo and official information, before the 7 August 2026 release.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

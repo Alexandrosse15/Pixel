@@ -65,3 +65,5 @@ C'est un reproche limité pour un jeu dont l'ambition est clairement calibrée. 
 Catabomb fait exactement ce que son pitch promet. La mécanique de désamorçage sous timer est le bon choix de design pour un roguelite mobile : courte, intense, et parfaitement calibrée pour des sessions de trois à cinq minutes. La direction artistique pixel art est cohérente du début à la fin. Et les chats robotiques sont exactement aussi charmants qu'ils le paraissaient dans la description.
 
 Dark Quixote Studio a construit quelque chose d'honnête. Sur un marché mobile où le pitch dépasse régulièrement le produit, c'est déjà une qualité rare. Gratuit, disponible sur Android et iOS, et le pitch était vrai.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -65,3 +65,5 @@ A post-apo survival with a strong concept, DayZ by day and Dying Light by night,
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

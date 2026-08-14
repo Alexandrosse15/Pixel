@@ -82,3 +82,5 @@ Reste la question qui nous intéresse : pourquoi les lecteurs d'InsertCoins.pres
 ---
 
 *Propos recueillis auprès de Florence Noé et Emmanuel Corno, cofondateurs de Tohu Bohu Games. Beware of the Cartographer est attendu sur PC.*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

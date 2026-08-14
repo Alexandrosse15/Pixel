@@ -32,3 +32,5 @@ Tout, ici, tourne autour de l'enquête, et j'insiste sur le mot. On lit, on inte
 Soyons clairs sur ce que Kill the Shadow n'est pas : un jeu d'action. Le rythme est lent, bavard, contemplatif. On passe beaucoup de temps à lire, à écouter, à fouiller. Si les pavés de dialogues vous rebutent ou si vous cherchez de l'adrénaline, vous allez vous ennuyer, c'est mécanique. Le récit prend son temps, parfois trop, et certaines transitions manquent un peu de nervosité.
 
 Mais si vous aimez les histoires qui se méritent, les ambiances qui suintent et les enquêtes où c'est vraiment vous qui reliez les points, ce petit jeu a quelque chose. Il ne menace aucun ténor du genre, il n'en a pas les moyens, mais il porte sa vision jusqu'au bout avec un cachet que beaucoup de plus gros n'ont pas. Pour le prix d'un billet et une poignée de soirées pluvieuses, c'est une belle rencontre. Je veux savoir ce qui est arrivé à cette ville. C'est déjà gagné.
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

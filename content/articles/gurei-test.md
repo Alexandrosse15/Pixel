@@ -64,3 +64,5 @@ Un boss rush dessiné à la main d'une beauté rare, impitoyable et exigeant, av
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

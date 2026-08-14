@@ -64,3 +64,5 @@ A viral meme turned into a real nervous soulslike, where a giant-sworded Spinosa
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

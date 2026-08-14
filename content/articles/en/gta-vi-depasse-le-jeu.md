@@ -101,3 +101,5 @@ When GTA VI releases, it will be judged, compared, dissected. Some will be disap
 But one thing is certain: for a few weeks, or a few months, the video game world will revolve around it.
 
 And deep down, perhaps that is the true power of Grand Theft Auto.
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

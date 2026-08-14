@@ -65,3 +65,5 @@ Solarpunk est un jeu de survie cosy compétent, magnifique et reposant, qui aura
 Beau comme une promesse, creux comme un slogan: un joli jeu de survie qui a oublié de devenir le sien.
 
 ![Cosy jusqu'au bout, même quand le fond manque](/images/solarpunk/screenshot-6.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

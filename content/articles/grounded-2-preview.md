@@ -46,3 +46,5 @@ Reste que la prudence de l'ensemble tempère l'enthousiasme. En conservant à l'
 ---
 
 *Aperçu réalisé sur la base de la version d'accès anticipé PC.*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

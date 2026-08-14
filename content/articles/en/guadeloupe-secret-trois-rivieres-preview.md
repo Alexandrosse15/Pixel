@@ -48,3 +48,5 @@ We are, with genuine curiosity. Guadeloupe: the Secret of Trois Rivières ticks 
 ![A lush clearing opening onto the sea, in the game's purest style](/images/guadeloupe/screenshot-4.webp)
 
 Planned for autumn 2026, optimized for EVEIA's connected ecosystem while staying accessible to classic PC setups and the Steam Deck, the game targets a crossover audience, between connected-fitness fans after a real story and narrative-game lovers curious about a different experience. It is exactly the kind of off-the-beaten-path project we want to see succeed. To be continued, and closely.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

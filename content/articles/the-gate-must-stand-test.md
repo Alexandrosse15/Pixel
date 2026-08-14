@@ -84,3 +84,5 @@ Un roguelite tower-defense nerveux qui vous place dans la mêlée et rythme bien
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

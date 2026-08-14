@@ -105,3 +105,5 @@ Et dans un paysage vidéoludique qui cherche trop souvent à rassurer, un jeu qu
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

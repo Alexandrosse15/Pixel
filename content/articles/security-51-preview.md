@@ -50,3 +50,5 @@ Le jeu sort aujourd'hui, développé et édité par Alawar, sans aucun avis util
 Alors non, ce n'est pas un simple clone. Papers Please racontait le coût humain de la paperasse ; celui-ci raconte la terreur de signer quelque chose qu'on n'a pas compris. Ce n'est pas le même sujet.
 
 ![Security 51, la mise en quarantaine et les consequences](/images/security51/screenshot-3.webp)
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

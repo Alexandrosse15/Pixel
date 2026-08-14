@@ -48,3 +48,5 @@ Second reservation, the atmosphere. The trailer leans on an epic, cinematic regi
 We are, and this time without much effort. We came in jaded, ready to call out yet another cynical rehash, and we leave with a real glimmer of hope. Because it is not a remake, because it is Toys for Bob free and motivated, because the flight idea, if well framed, can genuinely reinvent the formula without betraying it. We have seen this year that a franchise return can be a success when the love is sincere, and here the love is obvious.
 
 Everything will hinge on balance, that taut wire between the exhilarating novelty of the sky and the ground platforming that is the heart of Spyro. So we keep a watchful eye and a childlike heart. The dragon is back, and for once, we almost feel like believing with our eyes closed. To be continued.
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

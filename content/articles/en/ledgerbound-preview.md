@@ -42,3 +42,5 @@ Still, tactics is probably not why you would come. You come to deny a dead hero'
 One practical caveat to finish: the game is available in English only, and given the density of dialogue and wordplay, that is a real barrier.
 
 ![Ledgerbound, grid-based tactical combat and abilities](/images/ledgerbound/screenshot-2.webp)
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

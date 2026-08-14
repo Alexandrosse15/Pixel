@@ -67,3 +67,5 @@ Ce qui l'empêche du 10 : son ancrage culturel très américain créera une dist
 ![Mixtape](/images/mixtape/screenshot-7.webp)
 
 *Test réalisé sur PC. Mixtape est disponible sur PC, Switch 2 et Steam Deck.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

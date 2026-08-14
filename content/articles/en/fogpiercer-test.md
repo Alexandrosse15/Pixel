@@ -62,3 +62,5 @@ A roguelike deckbuilder that materializes your deck in a train and makes placeme
 ---
 
 *Tested on PC, in early access.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

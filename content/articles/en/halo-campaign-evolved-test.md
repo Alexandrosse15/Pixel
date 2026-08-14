@@ -66,3 +66,5 @@ A sumptuous, faithful Unreal Engine 5 remake of Combat Evolved, enriched with th
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

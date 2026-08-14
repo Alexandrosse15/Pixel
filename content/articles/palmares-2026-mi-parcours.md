@@ -53,3 +53,5 @@ Les nominés sont extraits automatiquement de nos propres notes, ce qui a un ava
 Alors on vous pose la question, et c'est celle qui nous intéresse vraiment : **sur quel jeu de cette année pensez-vous qu'on s'est complètement trompés ?**
 
 [Voter au Palmarès InsertCoins](/palmares)
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

@@ -47,3 +47,5 @@ Il faut simplement attendre de voir si le pari tient sur la durée. Le renonceme
 ---
 
 *Aperçu réalisé sur la base des informations officielles et des premières prises en main.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

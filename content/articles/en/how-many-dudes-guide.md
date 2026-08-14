@@ -70,3 +70,5 @@ Invest at the right moment and first in your central synergy, not in peripheral 
 ---
 
 *Guide written from the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

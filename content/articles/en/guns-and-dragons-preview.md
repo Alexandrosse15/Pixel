@@ -60,3 +60,5 @@ Two things will decide its fate. The first is the feel of the shooting: in a rog
 One practical caveat worth flagging now: the game is announced in English, Korean, Simplified Chinese and Japanese. No French for the moment.
 
 ![Guns and Dragons, the runes and artifacts to combine between runs](/images/gunsanddragons/screenshot-3.webp)
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

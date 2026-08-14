@@ -48,3 +48,5 @@ Reste la vraie question, celle à laquelle aucune fiche ne répond : est-ce que 
 Depuis notre première prise en main, les joueurs ont tranché : les avis Steam sont Très positifs, à 91 % sur plus de 220 retours. L'hommage tient donc ses promesses, y compris sur la sensation de tir, qui était notre seule vraie inconnue.
 
 ![Agent 64 Spies Never Die, les missions et l ecran splitte](/images/agent64/screenshot-2.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

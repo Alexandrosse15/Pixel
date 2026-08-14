@@ -67,3 +67,5 @@ On sera là quand ce sera jouable.
 ---
 
 *Aucune démo jouée. Basé sur les trailers et informations officielles disponibles à date.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

@@ -123,3 +123,5 @@ A film we may have judged too quickly. And one we were never really allowed to s
 ---
 
 *Revisited in director's cut, available on streaming platforms*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

@@ -64,3 +64,5 @@ We didn't become Marty Byrde. We didn't orchestrate a criminal financial empire 
 ---
 
 *Review based on the PC version. Cash Cleaner Simulator is available on PC, PS5, and Xbox Series X/S.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

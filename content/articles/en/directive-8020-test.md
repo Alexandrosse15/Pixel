@@ -81,3 +81,5 @@ Runtime is honest for the format: 5 to 7 hours for a first playthrough. Short. B
 Directive 8020 does what five years of Dark Pictures never managed to do cleanly: build a game mechanic, the mimicry paranoia, that directly serves the narrative instead of awkwardly coexisting with it. The stealth missions break the rhythm. The dubbing is uneven. Some zero-gravity objects are as mobile as bolted-down furniture. But the heart of the game works, and the heart of the game is the only thing that matters in this genre.
 
 It's the Dark Pictures that finally succeeds in being The Thing as a video game. Not all the way. Enough for it to matter.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

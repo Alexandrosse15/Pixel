@@ -70,3 +70,5 @@ The drawer stays open.
 ---
 
 *Preview based on official announcements and information published in May 2026. No gameplay has been shown at this stage.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

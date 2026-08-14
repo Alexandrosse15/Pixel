@@ -52,3 +52,5 @@ That is a very low score, even for Early Access, and it strikes precisely the tw
 The sample stays modest and an Early Access game can recover, it has happened before. But as things stand, it is hard to recommend this purchase to anyone. Wait for several updates, or walk away.
 
 ![Sword and Shield Simulator, the weapon designer and trading](/images/swordshieldsim/screenshot-2.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

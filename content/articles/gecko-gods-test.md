@@ -88,3 +88,5 @@ Gecko Gods ne va pas changer ta vie. Mais pendant cinq à huit heures, il va te 
 ---
 
 *Testé sur PC, version complète*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

@@ -55,3 +55,5 @@ Note : 6/10
 ---
 
 *Test réalisé sur la version PC en Accès Anticipé.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

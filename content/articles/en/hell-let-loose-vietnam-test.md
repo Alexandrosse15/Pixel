@@ -70,3 +70,5 @@ The game has just launched and has no Steam reviews on the shipped version, so t
 Have you played since launch? Tell us above all how performance holds up on your machine, that is the point that will decide everything.
 
 ![Hell Let Loose Vietnam, the tunnels and specialised roles](/images/hellletloosevietnam/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

@@ -64,3 +64,5 @@ Le pari est clair. Visuellement, il devra prouver qu'il est autre chose qu'un tr
 Une démo existe, et pour un accès anticipé à ce stade, c'est clairement par là qu'il faut passer avant de payer.
 
 ![The Severed Gods, les Titans colossaux et la reincarnation](/images/theseveredgods/screenshot-3.webp)
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

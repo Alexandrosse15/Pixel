@@ -97,3 +97,5 @@ It's not without flaws. The pacing falters, the costume is rare, and Cage's perf
 Black and white version. Always.
 
 ![Spider-Noir, the costume](/images/spidernoir/screenshot-5.webp)
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

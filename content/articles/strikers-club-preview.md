@@ -55,3 +55,5 @@ Rien de tout cela n'entame notre impatience. Strikers Club coche une quantité r
 ---
 
 *Aperçu basé sur la démo et les informations du studio.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

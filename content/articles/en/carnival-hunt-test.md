@@ -64,3 +64,5 @@ A 5v1 asymmetric horror that stands out through its noisy, shared key wind-up me
 ---
 
 *Tested on PC, in early access.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

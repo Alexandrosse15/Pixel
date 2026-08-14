@@ -36,3 +36,5 @@ Le rapport est donc inversé par rapport à d'habitude. Ici, la profondeur est d
 À voir, donc, si la densité des parchemins compense la sécheresse de la mise en scène sur des dizaines de parties. Le jeu vient de sortir, sans aucun avis utilisateur, ce qui explique l'absence de note. Il est disponible en français, ce qui compte beaucoup pour un jeu aussi bavard.
 
 ![Heritage, les parchemins et les choix annee par annee](/images/heritage/screenshot-2.webp)
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

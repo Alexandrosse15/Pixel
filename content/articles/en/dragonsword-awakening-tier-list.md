@@ -88,3 +88,5 @@ Yes. The game just launched, and rankings will evolve with rebalances and the co
 ---
 
 *Guide written based on the launch roster, PC version.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

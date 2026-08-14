@@ -79,3 +79,5 @@ Maul: Shadow Lord est la preuve qu'une série Star Wars peut être sombre, adult
 Le plus beau Star Wars depuis Andor, et le seul qui ose vous faire peur.
 
 ![Maul face à l'ombre qui le dépasse](/images/maul/screenshot-1.webp)
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

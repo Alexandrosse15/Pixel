@@ -61,3 +61,5 @@ If the project intrigues you, a Kickstarter pre-launch page is already live for 
 ---
 
 *Preview based on available information and the Itch.io prototype. Release planned for late 2027 / early 2028 on Steam.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

@@ -63,3 +63,5 @@ Finally, keep in mind that the game has only just launched, after a long public 
 Tabletop Tavern pulls off its bet with disarming charm: taking the intimidating grammar of a Total War and making it light, fast and accessible, all wrapped in a bar-counter wargame presentation we loved. It is a great game for short evenings, for roguelite fans who want the clash of armies without the weight of a fifty-hour campaign, and the developer's exemplary support bodes well for a title that will only grow. It lacks long-term depth, a craftier opponent, and the roguelite layer will divide. But for the simple pleasure of lining up your regiments and watching the melee ignite, we keep coming back for more.
 
 The miniature wargame stripped to its essence and served on a platter: light, clever, and terribly addictive in small sessions.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

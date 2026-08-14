@@ -94,3 +94,5 @@ On va y passer du temps. Beaucoup de temps. Et quelque part, on espère que les 
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

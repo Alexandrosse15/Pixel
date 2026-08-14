@@ -70,3 +70,5 @@ Investissez au bon moment et en priorité dans votre synergie centrale, pas dans
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

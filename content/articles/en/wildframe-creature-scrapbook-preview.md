@@ -50,3 +50,5 @@ Finally, the genre's classic trap: repetition. Non-persistent biomes you enter t
 We are. Not blindly, but we are. Wildframe ticks a box nobody really ticked: a cozy wildlife photography game anchored in a semi-fantastical world, with a scrapbook that belongs to you alone. The concept answers a real gap, the team already has a finished game behind it and the clarity to communicate early rather than surface three months before release. The hand-painted art direction sets the tone.
 
 Everything still has to be proven on the gameplay side, and funding will decide whether we are holding a gem or a pretty promise. But this is exactly the kind of project we want to see succeed. The vertical slice is coming, the trailer will follow. Until then, the right reflex fits in one word: Wishlist. To be continued.
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

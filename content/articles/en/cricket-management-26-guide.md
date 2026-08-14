@@ -68,3 +68,5 @@ No, Cricket Management 26 launches in Early Access on 29 July 2026 and will grow
 ---
 
 *Guide written from official information and the PC Early Access version.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

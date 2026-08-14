@@ -70,3 +70,5 @@ Split the elemental roles rather than all playing the same element, favor univer
 ---
 
 *Guide written based on the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

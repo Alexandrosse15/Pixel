@@ -63,3 +63,5 @@ Mais comme tout accès anticipé, Witchspire arrive avec ses chantiers, et il fa
 Witchspire réussit là où tant de jeux de survie échouent: il donne envie de rester pour le plaisir, pas par peur de mourir. En débarrassant le genre de ses corvées punitives pour les remplacer par de la magie, en soignant ses familiers, sa construction libérée par la projection astrale et son monde digne d'un Ghibli jouable, le studio Envar signe un démarrage d'accès anticipé plein de charme et d'idées justes. Tout n'est pas encore là, c'est un jeu qui grandira, avec ses chantiers de manette, de contenu et de fonctionnalités à venir, et son refus de la difficulté frontale ne séduira pas les puristes du survival. Mais l'essentiel, l'âme, la direction artistique, l'intelligence des mécaniques, est déjà bien présent. On a hâte de voir ce sortilège se déployer pleinement.
 
 Un conte de sorcières cosy qui réenchante la survie: inachevé, mais déjà envoûtant.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

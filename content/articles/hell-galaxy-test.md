@@ -52,3 +52,5 @@ Mais l'essentiel est ailleurs, et rejoint votre agacement. Ce jeu existe, il se 
 Après un an de version publique, l'accueil se stabilise à 76 % d'avis positifs sur quatre-vingts retours, soit un Plutôt positif honnête. C'est le score d'un bon jeu de niche qui n'a pas encore convaincu au-delà de son public naturel.
 
 ![Hell Galaxy, les combats et la jauge de sante mentale](/images/hellgalaxy/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

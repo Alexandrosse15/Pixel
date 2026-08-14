@@ -52,3 +52,5 @@ The game has no Steam reviews yet, so this score comes from our own playthroughs
 Tell us: in a survival horror, do you prefer a scripted monster you learn to read, or an unpredictable creature?
 
 ![Clawed, the underground tunnels and aquatic areas](/images/clawed/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

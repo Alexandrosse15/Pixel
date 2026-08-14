@@ -79,3 +79,5 @@ We're giving it 7.5. And we genuinely hope for DLC, because this world, this mec
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

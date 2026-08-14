@@ -40,3 +40,5 @@ Au-delà de la technique, c'est la proposition même qui interroge. Sophia, pers
 ## Conclusion
 
 On a envie d'être juste avec Resonance: A Plague Tale Legacy, parce qu'Asobo a gagné notre confiance avec deux jeux qu'on chérit, et parce que son équipe d'écriture mérite le bénéfice du doute. L'univers est riche, l'ambiance sonore et visuelle reste un sommet, et tenter quelque chose de neuf est plus respectable que recycler la même formule. Mais on ne va pas se mentir: en plaçant le combat au centre alors que c'était historiquement le maillon faible de la série, et en confiant le tout à une héroïne secondaire dans un écrin d'action qui sent le générique, le jeu se met une pression qu'il ne semble pour l'instant pas capable d'assumer. Tout dépendra de l'écriture et du polissage. Si Asobo retrouve l'émotion qui faisait sa marque, on pardonnera la raideur. Sinon, ce sera le premier Plague Tale qu'on regardera de loin. On y jouera, par fidélité et grâce au Game Pass. On n'y croit pas encore, par lucidité.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

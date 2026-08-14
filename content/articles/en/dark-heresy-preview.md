@@ -71,3 +71,5 @@ Dark Heresy releases in 2026 on PC, PS5, and Xbox Series X/S. The alpha is alrea
 ---
 
 *Preview based on available information, the trailer, and existing previews. We have not yet played the game.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

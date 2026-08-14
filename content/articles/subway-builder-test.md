@@ -64,3 +64,5 @@ Une simulation de métro au concept unique au monde, ancrée dans de vraies donn
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

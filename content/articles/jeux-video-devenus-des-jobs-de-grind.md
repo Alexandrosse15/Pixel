@@ -131,3 +131,5 @@ La réponse va te gâcher la soirée. Mais au moins, elle sera honnête.
 ---
 
 *Dossier basé sur les comportements observés dans l'industrie du jeu vidéo en 2026*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

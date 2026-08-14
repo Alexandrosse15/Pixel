@@ -69,3 +69,5 @@ Shift at Midnight est le bon exemple de ce que le jeu indépendant sait encore f
 Le seul bémol réel : les nuits ont été conçues pour être vécues à deux ou trois. En solo, l'équilibre se ressent. Ce n'est pas rédhibitoire, mais c'est un angle à connaître avant d'acheter.
 
 Un seul développeur, une station-service, une nuit à tenir. C'est parfois tout ce qu'il faut.
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

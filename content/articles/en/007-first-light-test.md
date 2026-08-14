@@ -75,3 +75,5 @@ We wore out GoldenEye 007 and The World Is Not Enough on Nintendo 64 like every 
 ![007 First Light, ending](/images/007firstlighttest/screenshot-7.webp)
 
 There was a real question behind the preview: does IO Interactive know how to write a Bond? The answer is yes. Now we wait for the sequel.
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -64,3 +64,5 @@ An honest, warm medieval tavern simulator that bets on atmosphere with its music
 ---
 
 *Tested on PC, in early access.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

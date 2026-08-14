@@ -60,3 +60,5 @@ The game has no Steam reviews yet, so this score comes from our own playthroughs
 Tell us in the comments: what is the worst corner you have ever cut in real life to save three euros?
 
 ![Low-Budget Repairs, the hardware store and the hunt for cheap tools](/images/lowbudgetrepair/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

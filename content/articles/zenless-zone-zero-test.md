@@ -94,3 +94,5 @@ Le plus beau gacha du marché reste un gacha: ZZZ a le talent d'action et le sty
 - [Gematsu : la version 3.0 et la sortie Steam le 17 juin](https://www.gematsu.com/2026/06/zenless-zone-zero-version-3-0-update-a-sleepwalkers-confession-launches-june-17-alongside-steam-version)
 - [Sensor Tower : recul des revenus et téléchargements](https://sensortower.com/blog/zenless-zone-zero-slashes-across-the-globe)
 - [OpenCritic : agrégat des tests](https://opencritic.com/game/16965/zenless-zone-zero)
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

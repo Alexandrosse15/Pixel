@@ -95,3 +95,5 @@ And in gaming, it's not the lack of ambition that's the real problem. It's the a
 ---
 
 *Tested on PC, full version provided by the publisher*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

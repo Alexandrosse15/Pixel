@@ -64,3 +64,5 @@ A pixel-art cozy game that marries Pokémon's retro aesthetic with Stardew Valle
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

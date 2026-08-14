@@ -63,3 +63,5 @@ Meccha Chameleon est une de ces idées toutes simples qu'on s'étonne de ne pas 
 Un cache-cache qui prend les pinceaux: imparfait, fragile, mais d'une fraîcheur qu'on n'avait pas goûtée depuis longtemps.
 
 ![Le moment de vérité, quand le Chercheur révèle qui se cachait sous la peinture](/images/meccha/screenshot-5.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

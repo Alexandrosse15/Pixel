@@ -51,3 +51,5 @@ The other point of caution is group dependency. The game offers solo, but everyt
 That said, the founding idea is too good to ignore. Dying without leaving the run is the kind of find that other games in the genre should copy without waiting.
 
 ![Grain Rot, the Outpost rebuilt between descents](/images/grainrot/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

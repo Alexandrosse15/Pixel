@@ -70,3 +70,5 @@ Un roguelike deckbuilder qui ose croiser les cartes et le RTS spatial, et réuss
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

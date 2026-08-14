@@ -47,3 +47,5 @@ And that is precisely where it pinches for this type of game. A title mixing sur
 The atmosphere, though, is already there, and that is the hardest thing to manufacture. If the cold appeals to you and the idea of a Frostpunk you inhabit in first person speaks to you, there is plenty here worth watching closely. Just perhaps wait for an update or two before boarding.
 
 ![Frozen Ship, managing the crew and the furnaces](/images/frozenship/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

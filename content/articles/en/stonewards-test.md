@@ -44,3 +44,5 @@ An honest proposition, then, with one genuinely good pacing idea, in packaging y
 And here the game proves our earlier tone wrong: Steam reviews are Very Positive at 93 percent across nearly 90 reviews. The packaging stays anonymous, but the loop clearly works far better than its presentation suggested.
 
 ![Stonewards, the mines to raid between waves](/images/stonewards/screenshot-2.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

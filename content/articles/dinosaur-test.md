@@ -60,3 +60,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 La question qui fâche : un parc à dinosaures sans visiteurs ni budget, ça vous suffit ou pas du tout ?
 
 ![Dinosaur, l editeur d ile et le controle direct des creatures](/images/dinosaur/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

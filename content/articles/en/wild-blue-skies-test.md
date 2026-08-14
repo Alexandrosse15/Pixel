@@ -62,3 +62,5 @@ The game has no Steam reviews yet, so this score comes from our own playthroughs
 And you, campaign first or score first?
 
 ![Wild Blue Skies, the oceans, desert ridges and caves](/images/wildblueskies/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

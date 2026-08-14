@@ -58,3 +58,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Et vous, sur une ressortie de classique : le mode Rétro d'origine, ou la version repensée ?
 
 ![Defender of the Crown The Legend Returns, le mode Royaume et ses cartes generees](/images/defenderofthecrown/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

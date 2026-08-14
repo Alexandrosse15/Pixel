@@ -73,3 +73,5 @@ What works today is a decent co-op farming game with an interesting resource man
 The studio talks about roughly six months of Early Access. At the observed pace, with one person full-time, holding that schedule while adding fishing, hunting, mines, dungeons, monsters, nine animals and eight crops would be a feat. Several players openly fear abandonment, and given the sales and the score, the hypothesis is not absurd.
 
 There is a foundation here, and a developer who could still turn this around, provided he communicates clearly about what is coming and what never will. We will revisit it. As things stand, we cannot advise anyone to pay for a promise whose essential parts have already been removed.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

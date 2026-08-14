@@ -63,3 +63,5 @@ Le jeu fait aussi des efforts louables d'accessibilité et de confort, avec une 
 Terrinoth: Heroes of Descent réussit l'essentiel: faire passer l'âme d'un grand jeu de plateau dans un RPG tactique fluide, généreux et accueillant. Le combat à base de combos et d'attaques Synergie a du caractère, la structure en missions d'un soir est une trouvaille parfaitement adaptée au jeu vidéo coopératif, et la variété des donjons doublés donne envie d'enchaîner les expéditions. C'est exactement le genre de jeu qu'on a envie de lancer un soir avec des amis, sans prise de tête, pour le simple plaisir de dérouiller des hordes ensemble. Ses limites sont celles de son ambition d'accessibilité: une profondeur tactique qui pourrait laisser les puristes sur leur faim, et tous les points d'interrogation d'un jeu encore tout chaud. Mais comme première adaptation vidéo de Descent, c'est une réussite franche et sympathique.
 
 La soirée jeux de plateau ressuscitée à l'écran: accessible, conviviale, et taillée pour être partagée.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -117,3 +117,5 @@ Spot broken symmetry, texture breaks and clipping anomalies, develop a route rat
 ---
 
 *Guide written based on the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

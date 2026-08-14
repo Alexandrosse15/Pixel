@@ -69,3 +69,5 @@ Because at the end of the day, what makes this situation so sad isn't the failur
 ---
 
 *Chronicle written from public information and testimonies gathered within the industry. Nacon was not contacted for a right of reply in connection with this article.*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

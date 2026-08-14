@@ -46,3 +46,5 @@ Mais on garde en tête ses deux inconnues : la capacité du jeu à renouveler se
 ---
 
 *Preview rédigée avant la sortie d'août 2026, sur la base de la démo et des informations officielles.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

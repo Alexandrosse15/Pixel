@@ -115,3 +115,5 @@ Treize ans. Toujours là. Mise à jour la semaine dernière.
 ---
 
 *Dossier rédigé en avril 2026. Données basées sur les informations publiques disponibles à cette date.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

@@ -73,3 +73,5 @@ Ce qui fonctionne aujourd'hui, c'est un jeu de ferme coopératif correct avec un
 Le studio évoque environ six mois d'accès anticipé. Au rythme constaté et avec une seule personne à temps plein, tenir ce calendrier tout en ajoutant pêche, chasse, mines, donjons, monstres, neuf animaux et huit cultures relèverait de l'exploit. Plusieurs joueurs redoutent ouvertement un abandon, et compte tenu des ventes et de la note, l'hypothèse n'est pas absurde.
 
 Il reste une base et un développeur qui pourrait encore renverser la situation, à condition de communiquer clairement sur ce qui arrivera et sur ce qui ne viendra jamais. On reviendra dessus. Mais en l'état, on ne conseille à personne de payer pour une promesse dont l'essentiel a déjà été retiré.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

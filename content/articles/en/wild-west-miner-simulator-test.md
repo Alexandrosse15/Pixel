@@ -51,3 +51,5 @@ Tell us: does quiet repetition after a working day relax you or wear you out?
 It is available in French, and it will doubtless find its audience: there are players for whom quiet repetition is exactly the rest they want after a working day, and there is nothing wrong with that. Simply, if you are looking for a reason to dig other than digging, it is not here.
 
 ![Wild West Miner Simulator, the growing town and its residents](/images/wildwestminer/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

@@ -50,3 +50,5 @@ Voilà notre problème, et il est honnête : on a envie d'aimer ce jeu. Le conte
 Mais on n'arrive pas à faire taire la petite voix qui répète qu'on aurait préféré un nouveau jeu. Ubisoft a glissé que cette nouvelle identité visuelle serait la première pierre vers l'avenir de la franchise. Si c'est vrai, si Legends Retold n'est que le marchepied vers le Rayman 4 qu'on attend depuis plus de vingt ans, alors on lui pardonnera volontiers ses imperfections. Si ce n'est qu'un remake de plus pour renflouer les caisses, on aura le coeur lourd.
 
 On attend ce jeu, donc. Un oeil plein d'espoir, l'autre méfiant. Et la manette à portée de main, au cas où.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

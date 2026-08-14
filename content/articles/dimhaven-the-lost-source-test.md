@@ -82,3 +82,5 @@ Une aventure d'enquête atmosphérique où l'appareil photo devient la clé des 
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

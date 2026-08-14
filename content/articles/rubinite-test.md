@@ -64,3 +64,5 @@ Un boss rush dark fantasy nerveux et précis, où la mécanique de Focus transfo
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

@@ -71,3 +71,5 @@ Ce n'est pas parfait. Certains passages sont moins aboutis, quelques transitions
 ---
 
 *Si vous ou quelqu'un que vous connaissez avez besoin d'aide, le 3919 (numéro national violences femmes info) est disponible 24h/24.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

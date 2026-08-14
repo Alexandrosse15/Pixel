@@ -57,3 +57,5 @@ I walked into the theatre as a nostalgic. I walked out as a father a little more
 ---
 
 *Personal chronicle. Toy Story 5, directed by Andrew Stanton, in theatres since 19 June 2026.*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

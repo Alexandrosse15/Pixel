@@ -91,3 +91,5 @@ Chez InsertCoins, on reste vigilants. Mais clairement intéressés. Et surtout :
 ---
 
 *Prise en main réalisée sur PC, build de preview fourni par l'éditeur*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

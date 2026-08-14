@@ -51,3 +51,5 @@ L'autre point tient au récit. Un scénario à embranchements ne vaut que si les
 Ça reste une très jolie réussite, et pour un profil comme le mien, presque un piège. Si vous avez déjà réparé la console de quelqu'un un vendredi soir en passant pour un sorcier, vous savez déjà que vous allez y passer vos soirées.
 
 ![ReStory, les clients et leurs histoires dans la boutique](/images/restory/screenshot-3.webp)
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

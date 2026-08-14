@@ -110,3 +110,5 @@ Pokopia aurait dû choisir : détendre ou faire grinder. Il a choisi les deux, e
 ---
 
 *Testé sur Nintendo Switch, version complète fournie par l'éditeur*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

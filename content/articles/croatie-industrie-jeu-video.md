@@ -65,3 +65,5 @@ Reste le talon d'Achille, cette dépendance à la sous-traitance qui maintient u
 - [Total Croatia News : Gamepires racheté par Jagex](https://total-croatia-news.com/news/business/croatian-gaming-studio-gamepires/)
 - [A1 Adria League : analyse de l'industrie du jeu croate](https://a1adrialeague.com/gaming-croatia-a1sec/)
 - [Overseer Games : Kaiserpunk](https://www.overseer-games.com/kaiserpunk)
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

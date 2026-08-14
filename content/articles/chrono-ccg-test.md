@@ -76,3 +76,5 @@ Un jeu de cartes numérique qui transforme le voyage temporel en mécaniques con
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

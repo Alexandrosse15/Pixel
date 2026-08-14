@@ -76,3 +76,5 @@ For those who loved the Asano game aesthetic but always preferred action over tu
 The structure of an exploration game with time travel, action combat, and dozens of hours in a world of this HD-2D quality has no direct equivalent on the market. That's what the demo establishes clearly, despite Faie.
 
 ![The Adventures of Elliot, dungeon platforms](/images/elliotmillenniumtales/screenshot-6.webp)
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

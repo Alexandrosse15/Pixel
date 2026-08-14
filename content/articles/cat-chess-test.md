@@ -70,3 +70,5 @@ Les échecs dans toute leur profondeur, habillés de chats aux animations en or 
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

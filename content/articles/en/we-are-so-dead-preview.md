@@ -50,3 +50,5 @@ The second is the demon's replayability. The studio announces hidden rules that 
 One last word, and it is a genuine warning: play this with people you like enough to forgive for letting you die because they read YES instead of NO.
 
 ![We Are So Dead, the relics to gather and the demon](/images/wearesodead/screenshot-3.webp)
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

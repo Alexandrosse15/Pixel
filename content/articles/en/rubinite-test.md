@@ -64,3 +64,5 @@ A nervous, precise dark-fantasy boss rush, where the Focus mechanic turns each f
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

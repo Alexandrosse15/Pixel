@@ -24,3 +24,5 @@ Et pourtant, l'image donne envie. Regardez ce hall lumineux, ces cadres vides ac
 Ce qui rassure un peu, c'est que le jeu ne compte pas vous laisser seul face au chaos. Il promet des "améliorations" qui viennent épauler vos talents de puzzleur, histoire que les 2071 pièces ne se transforment pas en corvée insurmontable. Le pari, c'est de garder le plaisir tranquille du puzzle tout en évitant le découragement, avec chaque tableau et chaque zone visuellement distincte pour ne pas s'y perdre.
 
 On ne va pas se mentir, ce genre de jeu ne parlera pas à tout le monde. Si l'idée de trier des pièces bleu ciel pendant une heure vous donne de l'urticaire, passez votre chemin. Mais si vous êtes du genre à trouver un calme étrange dans le tri méticuleux, ou juste curieux de voir un Van Gogh renaître pièce par pièce sous vos doigts, il y a là une proposition douce et maligne. Nous, on a peur et on a envie en même temps. On y retournera avec un guide sous le bras, forcément.
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

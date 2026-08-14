@@ -84,3 +84,5 @@ Star Fox 64 est l'un des meilleurs jeux de son époque, un rail shooter serré, 
 La mission James McCloud, les dogfights en ligne, la précision souris, les cinématiques qui développent enfin ce que les personnages font quand ils ne pilotent pas : c'est une liste d'additions concrètes sur un socle qu'on sait déjà solide.
 
 La série manquait. Le remake est une façon honnête de la faire revenir. Et si le jeu marche, on aura peut-être enfin ce qu'on voulait vraiment : une vraie suite.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

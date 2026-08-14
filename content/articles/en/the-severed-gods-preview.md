@@ -64,3 +64,5 @@ The bet is clear. Visually, it will have to prove it is something other than a v
 A demo exists, and for an Early Access at this stage, that is clearly where to go before paying.
 
 ![The Severed Gods, the colossal Titans and reincarnation](/images/theseveredgods/screenshot-3.webp)
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

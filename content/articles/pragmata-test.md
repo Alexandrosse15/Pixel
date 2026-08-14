@@ -81,3 +81,5 @@ La prochaine fois, avec plus de friction, un bestiaire plus ambitieux et une nar
 ---
 
 *Testé sur PS5.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

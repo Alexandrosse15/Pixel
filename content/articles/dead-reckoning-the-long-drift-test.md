@@ -84,3 +84,5 @@ Une simulation de vaisseau-génération à l'idée magnifique, qui transforme la
 ---
 
 *Testé sur PC, en Accès Anticipé.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

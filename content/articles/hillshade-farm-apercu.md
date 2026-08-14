@@ -30,3 +30,5 @@ On note, on surveille la sortie du 21 mai.
 ---
 
 *Aperçu basé sur les informations disponibles avant la sortie en Early Access. Pas de note attribuée à ce stade.*
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

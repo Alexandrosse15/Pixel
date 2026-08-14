@@ -76,3 +76,5 @@ Pour le joueur qui cherche un survival nordique court et dense, avec un ancrage 
 ![The Last Nordic Tribe, crafting](/images/lastnordictribe/screenshot-6.webp)
 
 Le Petit Ragnarök a réellement eu lieu. Les Scandinaves qui ont survécu à 536 AD ont reconstruit sans savoir que le soleil reviendrait. The Last Nordic Tribe vous met dans cette position, dans ce monde, avec une hache de pierre et assez de brume pour ne jamais voir à plus de cent mètres. C'est un point de départ honnête.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

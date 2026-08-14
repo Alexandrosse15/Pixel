@@ -91,3 +91,5 @@ Forza Horizon 6 is probably the best episode in the series since FH4. The Japane
 It's not a game that takes risks. It's not a game that solves its oldest problems. It's Forza Horizon 5 in the best map the series has seen in a long time, with enough improvements to justify the visit.
 
 If you were waiting for a revolution: it's not here. If you wanted the same car festival in a place finally worthy of the series' ambition: welcome to Japan.
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

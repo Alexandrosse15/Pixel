@@ -76,3 +76,5 @@ Un autobattler roguelite qui transforme la fusion de monstres en addiction de la
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

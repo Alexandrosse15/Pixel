@@ -40,3 +40,5 @@ The game is out today, developed by Blunder Studios, with no user reviews yet, w
 The reservations remain those of any incremental. The curve must hold over time, and the satire must renew itself beyond the initial good joke. But if the idea of firing your entire department to unlock a synergy raises a guilty smile, you already know where your next evenings are going.
 
 ![Red Tape Rampage, staff management and promotion stages](/images/redtaperampage/screenshot-2.webp)
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

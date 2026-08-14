@@ -64,3 +64,5 @@ Gambonanza has a good idea, clean execution, and something missing at the centre
 ---
 
 *Review based on the final version.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

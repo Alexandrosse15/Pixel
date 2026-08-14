@@ -71,3 +71,5 @@ The CS2 management game we've waited fifteen years for, deep and addictive despi
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

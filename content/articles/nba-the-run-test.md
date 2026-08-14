@@ -67,3 +67,5 @@ C'est tout le paradoxe d'un jeu uniquement en ligne et sans entraînement: il es
 NBA The Run est un bon jeu coincé dans une mauvaise décision. Le gameplay, hérité de NBA Jam plus que de NBA Street, est nerveux, profond sous ses airs simples, et récompense le beau basket plutôt que le bourrinage. Les modes aléatoires sont une trouvaille, l'absence de microtransactions un soulagement, et la décharge d'un alley-oop bien construit reste intacte. Mais l'exclusivité en ligne, sans le moindre mode hors-ligne, sans solo, sans canapé, ampute le jeu de la moitié de ce qui faisait l'âme des séries qu'il invoque. Ajoutez des bugs de lancement et un apprentissage punitif faute d'entraînement, et vous obtenez un titre qu'on recommande aux mordus de basket arcade qui jouent en ligne et entre amis, et qu'on déconseille à tous les autres en attendant la mise à jour qui changera tout. Le jeu est là. Il lui manque juste la moitié dont on rêvait.
 
 Un excellent NBA Jam moderne qui a oublié de prévoir le canapé sur lequel on l'attendait.
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

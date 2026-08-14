@@ -117,3 +117,5 @@ Repérez la symétrie brisée, les ruptures de texture et les anomalies de clipp
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

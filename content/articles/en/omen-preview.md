@@ -44,3 +44,5 @@ One practical caveat: the game is available in English only, and given the densi
 If the atmosphere already speaks to you, it probably will not let go. Just plan on warning the children.
 
 ![Omen, expeditions and base defence](/images/omen/screenshot-2.webp)
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

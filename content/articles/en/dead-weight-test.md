@@ -64,3 +64,5 @@ A tactical RPG wrapped in an enchanting steampunk art direction, carried by free
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

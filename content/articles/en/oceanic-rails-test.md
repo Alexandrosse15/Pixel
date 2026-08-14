@@ -64,3 +64,5 @@ An island farming roguelike in pixel art, adorable and time-devouring, marrying 
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

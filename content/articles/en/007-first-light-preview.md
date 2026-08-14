@@ -64,3 +64,5 @@ The question isn't whether the game will be good. The question is whether the wr
 ![007 First Light, sequence](/images/007firstlight/screenshot-7.webp)
 
 We wore out our GoldenEye 007 and The World Is Not Enough cartridges on Nintendo 64 like every kid in the 90s. Twenty years later, we can't wait to see what IO Interactive prepared.
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

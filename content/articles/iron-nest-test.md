@@ -58,3 +58,5 @@ Pour les autres, c'est une réussite singulière et franchement culottée. Deux 
 Gamesplanet nous a fourni un code de réduction pour nos lecteurs : **IRONNEST**, à saisir au moment du paiement, pour 29 % de remise sur le jeu.
 
 *Transparence : ce code nous a été transmis par Gamesplanet, chez qui notre lien d'achat est affilié. Ni le code ni l'affiliation n'ont pesé sur la note ni sur le contenu de ce test, écrit avant que l'offre ne nous soit proposée. Nous n'avons pas pu tester nous-mêmes la validité du code, dont les conditions et la durée dépendent du revendeur.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

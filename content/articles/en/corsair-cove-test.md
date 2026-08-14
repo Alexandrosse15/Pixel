@@ -40,3 +40,5 @@ It really depends on you. If you come to build, contemplate, optimise a city tha
 If, on the other hand, you dreamed of boardings, broadsides and adventure at sea as much as of layout, curb your enthusiasm: that half of the game only half exists. Me, I made peace with it, tucked the ship away at the back of the port, and kept building my pirate eyrie while taking pictures. The game I wanted may not have been quite the one I was sold, but the one I got was still awfully beautiful.
 
 ![Corsair Cove, the atmosphere of the Golden Age of Piracy](/images/corsaircove/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

@@ -112,3 +112,5 @@ On avait seize ans. On est là. Et la partie continue.
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -64,3 +64,5 @@ An anime open-world RPG with punchy tag-team combat and an owned visual splurge:
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

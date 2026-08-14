@@ -49,3 +49,5 @@ Je vais être honnête avec le gamin que j'étais : non, Liquidation n'est pas e
 Mais il a le sang, et c'est déjà beaucoup. Je vais le laisser grandir, revenir dans quelques mois, et j'espère sincèrement qu'à la sortie complète, il aura mérité sa place dans la lignée. En attendant, merci à Liquidation de m'avoir renvoyé, le temps de quelques batailles, dans cette salle info du primaire où tout a commencé. Le grand-père serait fier de la démarche, à défaut du résultat.
 
 ![Liquidation, les trois factions et les cartes d'escarmouche](/images/liquidation/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

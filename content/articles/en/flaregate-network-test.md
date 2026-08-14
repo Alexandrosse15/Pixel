@@ -70,3 +70,5 @@ A roguelike deckbuilder that dares to cross cards and space RTS, and wins its im
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

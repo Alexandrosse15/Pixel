@@ -71,3 +71,5 @@ Hexagons are having a moment. TownsFolk deserves to ride it.
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

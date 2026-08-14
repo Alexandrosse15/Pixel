@@ -57,3 +57,5 @@ Je suis entré dans la salle en nostalgique. J'en suis ressorti en père un peu 
 ---
 
 *Chronique personnelle. Toy Story 5, réalisé par Andrew Stanton, en salles depuis le 19 juin 2026.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

@@ -88,3 +88,5 @@ Inner peace, in Heartopia, costs £8.99.
 ---
 
 *Tested on PC, full free-to-play version*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

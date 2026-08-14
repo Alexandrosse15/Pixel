@@ -77,3 +77,5 @@ Sur la progression, retenez que les Compétences de Maître se débloquent au ni
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

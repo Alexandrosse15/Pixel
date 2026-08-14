@@ -70,3 +70,5 @@ Dig, Dig, Die est pensé pour un à six joueurs et donne sa pleine mesure en gro
 ---
 
 *Guide rédigé sur la base de la démo et des informations officielles, avant la sortie du 6 août 2026.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

@@ -53,3 +53,5 @@ Worth watching in Early Access.
 ---
 
 *Tested on PC. Game in Early Access, subject to change.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

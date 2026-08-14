@@ -64,3 +64,5 @@ Le jeu de combat qu'une licence bâtie sur les arts martiaux méritait depuis to
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

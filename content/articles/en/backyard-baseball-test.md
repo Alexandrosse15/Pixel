@@ -70,3 +70,5 @@ A tender, cynicism-free reboot that resurrects a kids' gaming legend, all arcade
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

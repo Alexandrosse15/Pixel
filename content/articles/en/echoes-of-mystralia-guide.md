@@ -60,3 +60,5 @@ Finally, treating death as failure. This is a roguelite: every return to the Tem
 This guide will be expanded as the game evolves and community routes take shape.
 
 ![Echoes of Mystralia, the Azimuth Temple between expeditions](/images/echoesofmystralia/screenshot-3.webp)
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

@@ -48,3 +48,5 @@ But a great concept badly executed remains a bad game, and the demo shows too ma
 ---
 
 *Preview based on the PC demo.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

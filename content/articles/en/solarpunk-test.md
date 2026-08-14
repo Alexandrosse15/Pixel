@@ -65,3 +65,5 @@ Solarpunk is a competent, gorgeous and restful cozy survival game that could hav
 Beautiful as a promise, hollow as a slogan: a pretty survival game that forgot to become its own.
 
 ![Cozy to the end, even when the substance is missing](/images/solarpunk/screenshot-6.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

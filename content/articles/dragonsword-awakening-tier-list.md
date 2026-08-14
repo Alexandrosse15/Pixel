@@ -88,3 +88,5 @@ Oui. Le jeu vient de sortir, et les classements évolueront avec les rééquilib
 ---
 
 *Guide rédigé sur la base du roster de lancement, version PC.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

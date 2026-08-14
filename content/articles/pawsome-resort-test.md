@@ -78,3 +78,5 @@ Un life sim cosy adorable et complet, porté par son concept d'hôtel pour anima
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

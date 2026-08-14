@@ -65,3 +65,5 @@ But the picture has its shadows, and they must be named. First, the game is enti
 A cooperative cathedral built by mute strangers: imperfect, talkative in its silences, and yet unforgettable.
 
 ![Dante's hell has never been so beautiful to roam thirty-three strong](/images/33immortals/screenshot-4.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

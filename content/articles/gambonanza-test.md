@@ -64,3 +64,5 @@ Gambonanza a une bonne idée, une exécution propre, et quelque chose qui manque
 ---
 
 *Test réalisé à partir de la version finale.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

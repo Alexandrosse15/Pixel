@@ -53,3 +53,5 @@ On attend, et on ne va pas faire semblant d'être tièdes. Total War et Warhamme
 Reste l'épreuve du réel, celle d'un build pré-alpha sans date et d'un équilibrage titanesque à trouver. La bêta fermée sera le premier vrai test, et on a déjà la main sur le bouton d'inscription. D'ici là, on garde les pieds sur terre et les yeux pleins d'étoiles. À suivre.
 
 ![Un build encore en pré-alpha, mais l'ambition est là](/images/tw40k/screenshot-6.webp)
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

@@ -70,3 +70,5 @@ A big school is easier, but building a dynasty at a small school offers the grea
 ---
 
 *Guide written based on the PC version.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

@@ -61,3 +61,5 @@ Add to this two weighty reservations. The first is the obligation to be online a
 SpaceCraft is a fascinating and frustrating object at once. Fascinating in its ambition, in the beauty of its space, in the elegance of its piloting and ship building, and in that idea of a galactic economy entirely shaped by players. Frustrating because on launch day, the promise still far outstrips the reality: the content is too thin, the mandatory online will put off the lovers of Shiro's solo games, and the microtransactions arrive at a moment when they mostly leave a stain. It is a bold bet for a studio stepping out of its comfort zone, and we sincerely want it to win. But as it stands, it is a promising foundation more than a finished game, to reserve for genre fans and the patient, ready to grow with it.
 
 A magnificent galaxy full of promise, but still too empty to truly settle into.
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

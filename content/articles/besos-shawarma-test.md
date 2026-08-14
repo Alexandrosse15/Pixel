@@ -70,3 +70,5 @@ Un cauchemar PSX de vingt-cinq minutes dans les rues d'une Tbilissi de fièvre :
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

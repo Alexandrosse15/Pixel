@@ -59,3 +59,5 @@ Reste que la proposition est sympathique et culturellement dépaysante, ce qui n
 Si vous préférez Manor Lords, vous continuerez de le préférer. Mais si vous l'avez fini et que l'idée de recommencer avec des Cent Écoles et des chars de guerre vous amuse, il y a ici de quoi occuper quelques soirées.
 
 ![Mandate Order, les batailles a grande echelle et les sieges](/images/mandateorder/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

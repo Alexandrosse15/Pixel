@@ -67,3 +67,5 @@ We'll be there.
 ---
 
 *Preview based on information available before release.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

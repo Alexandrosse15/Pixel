@@ -58,3 +58,5 @@ Reste à voir si le jeu complet maintient ce niveau sur la durée. Mais pour l'i
 ---
 
 *Impressions basées sur la démo « Sketchbook », disponible gratuitement sur PS5 et Xbox*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

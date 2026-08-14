@@ -64,3 +64,5 @@ A fast, colorful and endearing metroidvania that pulls out guns and faces giant 
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

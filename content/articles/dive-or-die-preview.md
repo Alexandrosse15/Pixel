@@ -52,3 +52,5 @@ On attend. Le développement est terminé, l'équipe est en phase de polissage e
 La démo est là pour vérifier par vous-même. Le reste se jouera le 21 juillet. D'ici là, un mot: Wishlist. À suivre.
 
 ![Gérer les habitants entre deux descentes](/images/diveordie/screenshot-7.webp)
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

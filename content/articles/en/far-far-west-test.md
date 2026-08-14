@@ -72,3 +72,5 @@ And still no microtransactions. We won't get tired of saying it.
 ---
 
 *Review based on Early Access version, playtest build. Playtest ends May 16.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

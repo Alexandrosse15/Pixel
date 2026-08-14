@@ -33,3 +33,5 @@ The content is structured with a little more care than expected. You unlock skil
 What remains is the fundamental limit: the game holds on a single note. Once you have understood the identify, carry, classify loop, there is no second system to renew your interest. No tasting, no management, no trade, nothing that extends the cellar fantasy beyond the inventory. Under five euros the deal is honest and nobody is crying robbery, but you should know you are buying an activity, not a game of systems.
 
 So here is my verdict, and it is partial: if tidying relaxes you, go ahead, it is well made for what it is. If you came for the wine, you will stay thirsty, in the most literal sense. As for me, I am going back to not painting my Space Marines, while opening a bottle. A real one.
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

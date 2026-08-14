@@ -129,3 +129,5 @@ Les deux : connaître les meilleurs spots de chaque carte aide, mais appliquez s
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

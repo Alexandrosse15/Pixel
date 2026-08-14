@@ -42,3 +42,5 @@ Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de 
 Pour une soirée douce avec un peu de tension, le contrat semble tenu. Et il est vraiment très joli.
 
 ![The Merchants Eden, la defense de la ville contre les pillards](/images/merchantseden/screenshot-2.webp)
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

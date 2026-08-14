@@ -52,3 +52,5 @@ We are, of course, with all our childhood heart. Ocarina of Time remains for us 
 But we will not buy an emotion on trust. Until Nintendo has shown gameplay, explained its vision and clarified what it adds, we keep a cool head. This remake could become the finest tribute in gaming history, or a luxury rehash surfing on 40 years of memories. The next Direct will decide. Until then, we dust off the cartridge and we wait. To be continued.
 
 ![Lake Hylia on N64: the starting point of a journey we hope to see sublimated](/images/oot/screenshot-5.webp)
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

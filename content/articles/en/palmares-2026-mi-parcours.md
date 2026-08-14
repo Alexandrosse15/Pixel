@@ -53,3 +53,5 @@ Nominees are pulled automatically from our own scores, which has one advantage a
 So we will ask you the question that actually interests us: **which game this year do you think we got completely wrong?**
 
 [Vote in the InsertCoins Awards](/en/palmares)
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

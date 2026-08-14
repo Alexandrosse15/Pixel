@@ -44,3 +44,5 @@ Le principe est bon, la sensation de jeu semble là. Il ne manque plus que la se
 Et le verdict est tombé, moins tendre que prévu : les avis Steam sont Mitigés, à 58 % sur plus de 100 retours. C'est exactement le point que nous redoutions : sans adversaire humain, le contenu doit porter le jeu seul, et il n'y parvient pas encore.
 
 ![Riftstorm, les builds qui evoluent en cours de mission](/images/riftstorm/screenshot-2.webp)
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

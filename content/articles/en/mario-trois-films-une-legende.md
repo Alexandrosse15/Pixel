@@ -84,3 +84,5 @@ We loved all three, for different reasons. And we hope there'll be a fourth.
 ---
 
 *The new Mario film is currently in cinemas*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

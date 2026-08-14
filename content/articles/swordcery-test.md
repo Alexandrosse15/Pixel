@@ -46,3 +46,5 @@ L'idée est bonne, le cadre est réjouissant. Reste à savoir si l'épée est au
 Les premiers joueurs sont unanimes, avec 100 % d'avis positifs, mais sur une vingtaine de retours seulement. C'est excellent et parfaitement insuffisant pour conclure : ce score demande à être confirmé sur un échantillon plus large.
 
 ![Swordcery, les classes d armes et les capacites magiques](/images/swordcery/screenshot-2.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

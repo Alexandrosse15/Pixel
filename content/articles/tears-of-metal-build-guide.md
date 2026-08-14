@@ -70,3 +70,5 @@ Répartissez les rôles jusqu'à quatre joueurs, un héros robuste tient la prem
 ---
 
 *Guide rédigé sur la base de la version PC, en accès anticipé.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

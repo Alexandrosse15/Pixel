@@ -75,3 +75,5 @@ LEGO Batman : L'Héritage du Chevalier Noir est une déclaration d'amour à tout
 Le monde ouvert secondaire est en dessous du reste, le stealth est approximatif, l'absence de co-op en ligne est dommage. Ce sont des défauts réels dans un jeu qui surprend sur tout le reste.
 
 Personne n'attendait que le meilleur jeu Batman depuis dix ans soit un LEGO. C'est pourtant ce qui s'est passé.
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

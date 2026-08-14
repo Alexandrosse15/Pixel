@@ -54,3 +54,5 @@ Pour qui aime bricoler ses propres outils de destruction, c'est déjà une raiso
 Les premiers avis Steam sont arrivés et confirment la nuance de ce test : Plutôt positifs, à 71 % sur près de 120 retours. Le système de sorts convainc, le reste divise davantage.
 
 ![Echoes of Mystralia, le Temple Azimuth et la progression entre les runs](/images/echoesofmystralia/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

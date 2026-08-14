@@ -39,3 +39,5 @@ But hope doesn't make a game, and everything remains to be proven. Today it's on
 ---
 
 *Preview based on the itch.io prototype.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

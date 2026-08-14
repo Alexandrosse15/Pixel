@@ -63,3 +63,5 @@ La bande-son et l'ambiance sonore accompagnent correctement l'action sans jamais
 Survival Machine est un jeu bâti sur une excellente idée et une coopération qui fonctionne vraiment. La forteresse roulante qu'on répare, agrandit et défend entre amis offre des moments de franche tension et cette satisfaction lente de voir sa maison mécanique grossir au fil des sessions. Mais le jeu s'arrête à mi-chemin: la boucle s'épuise faute de variété, les menaces se répètent, et surtout les personnages, génériques au point de sentir l'asset acheté sur catalogue, contrastent durement avec un monde qui, lui, déborde de personnalité. C'est un titre honnête qu'on conseille aux amateurs du genre en quête d'un survival coop original et sans PvP, à condition d'accepter qu'il lui manque encore l'âme et le contenu pour passer du sympathique au mémorable. La machine roule. Reste à lui trouver un équipage qui vaille le voyage.
 
 Une idée géniale conduite par des mannequins de vitrine: on monte quand même, mais on regarde surtout le décor.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

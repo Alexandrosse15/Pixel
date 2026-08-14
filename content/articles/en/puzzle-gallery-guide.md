@@ -36,3 +36,5 @@ Keep an eye on the oddly shaped pieces too. Unusual cuts are your best friends: 
 The game promises enhancements to back up your puzzling skills. Do not hesitate to use them. We are not here to punish ourselves, but for the quiet pleasure of watching a masterpiece come back to life. If a feature helps you sort, spot or highlight pieces, take it, especially on the trickier paintings or the big monochrome zones that are the real bane of any jigsaw.
 
 One last tip, maybe the most important: do not play this like a race. Cleaning Up The Puzzle Gallery is a cozy game, with its classical music and its calm museum mood. Put one session into an evening, finish a painting or two, and come back the next day with a fresh mind. That is how you get through a giant puzzle without hating it. At home as in the game.
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

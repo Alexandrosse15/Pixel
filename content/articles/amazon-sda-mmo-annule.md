@@ -74,3 +74,5 @@ Les rumeurs sur un RPG solo développé par Warhorse Studios circulent depuis qu
 Ce n'est pas confirmé. Mais c'est exactement le profil du studio qui pourrait faire quelque chose de bien avec la Terre du Milieu. Pas un conglomérat qui a déjà prouvé sept fois qu'il ne sait pas faire des jeux.
 
 En attendant : retournez sur LOTRO.
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

@@ -71,3 +71,5 @@ Le plus beau jeu de pirates jamais fait, remake respectueux et somptueux d'un ch
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

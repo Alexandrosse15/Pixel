@@ -64,3 +64,5 @@ A pixel-art MMO-roguelite that sincerely rekindles Ragnarok Online nostalgia, wi
 ---
 
 *Tested on PC, in early access.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

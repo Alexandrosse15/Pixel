@@ -76,3 +76,5 @@ Un roguelike de mage bâti sur le séquencement de runes et la casse de build, g
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

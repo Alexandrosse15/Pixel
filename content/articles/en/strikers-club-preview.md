@@ -55,3 +55,5 @@ None of this dents our impatience. Strikers Club ticks a rare number of good box
 ---
 
 *Preview based on the demo and studio information.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

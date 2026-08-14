@@ -103,3 +103,5 @@ But we want to go back. And that's already something.
 ---
 
 *Preview based on information available before launch. No score assigned.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

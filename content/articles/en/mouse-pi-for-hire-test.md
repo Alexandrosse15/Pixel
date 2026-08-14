@@ -114,3 +114,5 @@ Worth recommending for its atmosphere and art direction. Less so for what lies b
 ---
 
 *Tested on PC, full version provided by the publisher*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

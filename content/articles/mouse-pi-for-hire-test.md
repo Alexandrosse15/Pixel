@@ -114,3 +114,5 @@ Recommandable pour son ambiance et sa direction artistique. Moins pour ce qui se
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

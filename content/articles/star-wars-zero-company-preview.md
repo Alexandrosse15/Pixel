@@ -72,3 +72,5 @@ Pour le reste, j'ai envie d'y croire. EA a déjà prouvé qu'il pouvait faire de
 Alors une seule requête, EA, et je promets de ne plus râler : ne cassez pas Star Wars davantage qu'il ne l'est déjà. Donnez-nous une belle aventure et une musique qui fasse frissonner. Le reste, on s'en occupe. L'espoir, dans cette galaxie, on sait comment ça finit.
 
 ![Star Wars Zero Company, la base d operations et la personnalisation de l escouade](/images/starwarszerocompany/screenshot-3.webp)
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

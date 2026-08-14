@@ -93,3 +93,5 @@ Learn their patterns on a lower-difficulty run before attempting Ultra-Nightmare
 ---
 
 *Guide written from the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

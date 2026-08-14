@@ -65,3 +65,5 @@ Dans un genre qui manque parfois de personnalité, Vampire Crawlers en a une. Et
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

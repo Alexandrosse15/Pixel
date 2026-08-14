@@ -65,3 +65,5 @@ Ce qui ne nous empêchera pas de vous dire exactement ce que ça vaut dès qu'on
 ---
 
 *Annoncé pour le 10 juillet 2026 sur PS5, Xbox Series X|S et PC. Aucune démo jouée.*
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

@@ -62,3 +62,5 @@ A few principles to progress smoothly. Adapt the difficulty to your comfort, not
 ---
 
 *Guide written based on the Switch 2 version.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

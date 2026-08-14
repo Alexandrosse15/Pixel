@@ -62,3 +62,5 @@ Si vous n'avez jamais regardé la série : le jeu est jouable et accrocheur en l
 ![Battlestar Galactica : Scattered Hopes, fin de run](/images/shatteredhope/screenshot-7.webp)
 
 À 20 euros, le jeu vaut ses premières dix heures. La question est de savoir si le studio ajoutera du contenu pour justifier le retour. Les développeurs ont indiqué que des discussions avec l'éditeur sur la suite du développement sont en cours. Pour l'instant, Scattered Hopes est un bon point de départ qui attend sa deuxième salve de contenu pour devenir vraiment recommandable au-delà du cercle des fans de la franchise.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

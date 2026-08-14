@@ -70,3 +70,5 @@ Recognize that the deeper you go, the more danger grows disproportionately to th
 ---
 
 *Guide written based on the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

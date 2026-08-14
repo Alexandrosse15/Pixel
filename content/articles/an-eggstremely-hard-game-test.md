@@ -64,3 +64,5 @@ Un jeu coop punitif dans la lignée de Chained Together, sauvé de la pâle copi
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

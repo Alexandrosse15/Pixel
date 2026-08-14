@@ -70,3 +70,5 @@ Un bullet heaven propre et nerveux, qui coche toutes les cases du genre sans jam
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

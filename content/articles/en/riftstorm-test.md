@@ -44,3 +44,5 @@ The premise is good and the feel appears to be there. All that is missing is the
 And the verdict has landed, less kind than expected: Steam reviews are Mixed at 58 percent across more than 100 reviews. That is precisely the point we feared: with no human opponent, the content must carry the game alone, and it does not yet.
 
 ![Riftstorm, builds that evolve mid-mission](/images/riftstorm/screenshot-2.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

@@ -58,3 +58,5 @@ Court, dense, sans remplissage. The Third Shift sait ce qu'il est et ne cherche 
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

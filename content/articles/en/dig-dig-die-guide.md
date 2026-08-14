@@ -70,3 +70,5 @@ Dig, Dig, Die is designed for one to six players and shows its full worth in a c
 ---
 
 *Guide written from the demo and official information, before the 6 August 2026 release.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

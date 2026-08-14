@@ -72,3 +72,5 @@ Un incremental relaxant et parfaitement honnête, qui transforme la création d'
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

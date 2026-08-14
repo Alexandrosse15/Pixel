@@ -112,3 +112,5 @@ We were sixteen. We're here. The game goes on.
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

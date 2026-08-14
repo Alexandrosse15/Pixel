@@ -109,3 +109,5 @@ The answer is coming soon. And it might change quite a few things.
 ---
 
 *Preview written based on available information and a presentation session*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

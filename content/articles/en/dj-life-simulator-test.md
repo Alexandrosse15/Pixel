@@ -64,3 +64,5 @@ A simulator that genuinely teaches you to mix on real gear, more a playful learn
 ---
 
 *Tested on PC.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

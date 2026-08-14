@@ -93,3 +93,5 @@ Les Murmures du Soleil is proof that a game can be entirely new without being co
 ---
 
 *Tested on iOS and Android, complete free version*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

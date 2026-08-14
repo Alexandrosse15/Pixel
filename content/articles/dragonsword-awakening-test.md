@@ -64,3 +64,5 @@ Un RPG en monde ouvert anime au combat tag-team pêchu et à la débauche visuel
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

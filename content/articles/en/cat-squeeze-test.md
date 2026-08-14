@@ -64,3 +64,5 @@ A cozy Sokoban-style puzzle marrying feline charm and real depth, thanks to targ
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

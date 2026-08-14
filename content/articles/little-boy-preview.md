@@ -50,3 +50,5 @@ L'autre point de vigilance tient à la mécanique elle-même. Associer des élé
 On attend, avec une vraie tendresse. Little Boy a ce qu'on ne peut pas fabriquer artificiellement : une sincérité désarmante et un concept qui dit quelque chose. Le retour positif des joueurs au prototype présenté à la Cité des Sciences, jusqu'à une collègue non-joueuse qui a tout terminé en riant, n'est pas un hasard. Une équipe sans prétention, sans pression, qui avance pour le plaisir et le fait reconnaître par le CNC, ça mérite qu'on garde un oeil dessus.
 
 Le projet se montrera au Festival Ludique International de Parthenay en juillet pour un nouveau playtest, en attendant l'ouverture de sa page Steam. Et s'il fallait ne retenir qu'une phrase de tout ça, ce serait celle que son créateur garde en boussole : le monde est pourri, mais tant qu'il y a de la vie, il y a de l'espoir. Venant d'un petit robot rose, ça passe étonnamment bien.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

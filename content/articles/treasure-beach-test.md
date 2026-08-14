@@ -86,3 +86,5 @@ Un jeu de fouille cosy au plaisir simple et à la négociation étonnamment reto
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -76,3 +76,5 @@ Un TCG numérique qui mise sur les tours simultanés et la prédiction pour réi
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

@@ -70,3 +70,5 @@ These are good questions to ask. Not a way of signaling a problem. This is what 
 ![The Witch's Bakery, summary screen](/images/sunnylab/screenshot-11.webp)
 
 The release date is planned for the second quarter of 2026. We don't know yet whether Sunny Lab delivers everything the project promises. We already know the project promises something.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

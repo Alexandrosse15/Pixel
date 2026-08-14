@@ -78,3 +78,5 @@ Une heure de naufrage anxieux pour le prix d'un café : minuscule, malin, vite p
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

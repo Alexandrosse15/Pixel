@@ -49,3 +49,5 @@ Et c'est justement le problème. Un jeu dont le meilleur ressort comique est l'e
 L'autre réserve tient à la profondeur. Passé l'euphorie des premiers assemblages absurdes, la construction demande une rigueur croissante que la légèreté du ton ne prépare pas vraiment, et le catalogue de missions devra s'étoffer pour tenir sur la durée. On note aussi qu'à ce stade, la réception se mesure surtout aux retours enthousiastes de la démo, sans recul sur des dizaines d'heures.
 
 Pour un groupe de quatre qui n'a pas peur de se fâcher, c'est une excellente soirée en boîte. Pour un joueur solo, c'est une tout autre proposition, et beaucoup moins drôle.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

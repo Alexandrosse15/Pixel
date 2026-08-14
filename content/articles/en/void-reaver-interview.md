@@ -90,3 +90,5 @@ Void Reaver releases in Early Access, with no precise date specified for now. Th
 The bet is readable: an original roguelite inventory system in a saturated genre, made by a team with no objective reason to succeed, moving forward anyway. This kind of studio won't release the best game of the year. It can release something honest, playable, and made by people who believed in it long enough to finish the work.
 
 That's rarer than it looks.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

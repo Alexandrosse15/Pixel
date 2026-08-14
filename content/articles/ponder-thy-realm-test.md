@@ -70,3 +70,5 @@ Un jeu d'observation à la prémisse occulte séduisante, qui happe une heure pu
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

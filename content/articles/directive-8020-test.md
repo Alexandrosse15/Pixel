@@ -81,3 +81,5 @@ La durée est honnête pour le format : 5 à 7 heures pour une première partie.
 Directive 8020 fait ce que cinq ans de Dark Pictures n'avaient jamais réussi à faire proprement : construire une mécanique de jeu, la paranoïa du mimétisme, qui sert directement la narration au lieu de coexister maladroitement avec elle. Les missions furtives cassent le rythme. Le doublage est inégal. Certains objets en apesanteur sont aussi mobiles qu'un meuble vissé au sol. Mais le coeur du jeu fonctionne, et le coeur du jeu c'est la seule chose qui compte dans ce genre.
 
 C'est le Dark Pictures qui réussit enfin à être The Thing en jeu vidéo. Pas jusqu'au bout. Suffisamment pour que ça compte.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

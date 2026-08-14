@@ -50,3 +50,5 @@ Notre position est simple : bravo pour le format à armes égales, qui devrait f
 ---
 
 *Rush Royale est disponible sur Android et iOS. La Rhandum League débute le 17 juillet.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

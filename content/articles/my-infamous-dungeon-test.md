@@ -64,3 +64,5 @@ Un builder de donjon roguelite qui ressuscite le plaisir jubilatoire de Dungeon 
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

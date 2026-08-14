@@ -68,3 +68,5 @@ It's the kind of story that makes you want to both congratulate Ubisoft and send
 ---
 
 *Feature written in April 2026, based on publicly available information at that date.*
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

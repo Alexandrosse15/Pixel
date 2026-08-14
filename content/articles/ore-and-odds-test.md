@@ -64,3 +64,5 @@ Un incrémental de minage qui se distingue par sa machine à sous à quitte ou d
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

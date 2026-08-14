@@ -41,3 +41,5 @@ Tout ne brille pas. Le jeu mise tout sur une idée, et cette idée montre ses bo
 Rien de tout ça ne m'a empêché d'y revenir. SnekromancY se joue par sessions courtes, pour le plaisir immédiat d'un build absurde monté en dix minutes, plus que pour des dizaines d'heures de méta-progression. C'est un petit jeu qui sait exactement ce qu'il est, qui exécute son idée saugrenue avec assez de mordant pour qu'on lui pardonne ses limites. Si le genre vous lasse à force de clones, ce serpent ressuscité a au moins le mérite de proposer un piège qu'on ne trouve nulle part ailleurs : sa propre queue.
 
 ![SnekromancY, un pic de chaos avec projectiles et serpent démesuré](/images/snekromancy/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

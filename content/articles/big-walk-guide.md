@@ -48,3 +48,5 @@ Le meilleur conseil pour la progression, c'est de ne pas se presser. Big Walk r�
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

@@ -64,3 +64,5 @@ Un simulateur de taverne médiévale honnête et chaleureux, qui mise sur l'ambi
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

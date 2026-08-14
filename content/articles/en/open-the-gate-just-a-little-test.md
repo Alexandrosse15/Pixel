@@ -51,3 +51,5 @@ Two points will decide its real worth. The first is balance between the four leg
 Good point worth noting, the game is available in French, which is not that common for a production of this size.
 
 ![Open The Gate Just A Little, the upgrade tree and promotions](/images/openthegate/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

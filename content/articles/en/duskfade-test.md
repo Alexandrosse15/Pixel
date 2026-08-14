@@ -53,3 +53,5 @@ A practical plus, it is available in French and announced as Steam Deck compatib
 If you were looking for a successor to Jet Set Radio Future, it is not here, and the wait continues. If you were looking for a 3D platformer with real style and a genuine sense of movement, you are in the right place.
 
 ![Duskfade, the grapple and the glide](/images/duskfade/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

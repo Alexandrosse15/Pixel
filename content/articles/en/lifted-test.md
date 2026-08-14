@@ -64,3 +64,5 @@ A cinematic 2.5D puzzle-platformer carried by a former Disney ride designer's se
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

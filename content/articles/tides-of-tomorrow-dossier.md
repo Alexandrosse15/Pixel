@@ -73,3 +73,5 @@ Et il mérite cette note. Pleinement.
 ---
 
 *Preview réalisée sur la base des informations disponibles et d'une session de présentation*
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

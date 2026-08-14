@@ -56,3 +56,5 @@ Two principles to avoid spreading yourself thin early. First, squad depth before
 Note finally that missions run twenty-five to forty minutes and that difficulty scales both ways. If you are new to the genre, start low: a shooting system without randomness is much easier to understand when you are allowed to make mistakes.
 
 ![Warhounds, base management and allied factions](/images/warhounds/screenshot-3.webp)
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

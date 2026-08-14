@@ -70,3 +70,5 @@ Une idée en or, le soigneur enfin au centre du jeu, servie par un incremental h
 ---
 
 *Testé sur PC.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

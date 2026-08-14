@@ -26,3 +26,5 @@ L'argument massue, c'est la reconstruction complète sous Unreal Engine 5. Pas u
 Cette approche vie de caserne, si elle est bien tenue, pourrait hisser ce troisième opus au-dessus du tout-venant de la simu. Le risque, avec ce genre de projet ultra-réaliste et lancé en accès anticipé, c'est la rigidité et le manque de finition des débuts. On sait ce que valent les early access de simulation pointue : souvent prometteurs, parfois austères, rarement complets dès le premier jour.
 
 On reste donc prudent, mais curieux. L'envie de tester ce que donne une garde de 24 heures, avec la montée en compétence et la gestion réaliste de l'intervention, est bien là. On y retournera une fois quelques heures de service accomplies, pour vous dire si cette refonte tient ses promesses ou si elle a encore besoin de chauffer.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

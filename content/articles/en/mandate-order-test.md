@@ -59,3 +59,5 @@ Still, the proposition is likeable and culturally refreshing, which counts for s
 If you prefer Manor Lords, you will keep preferring it. But if you have finished it and the idea of starting again with Hundred Schools and war chariots amuses you, there is enough here for a few evenings.
 
 ![Mandate Order, the large-scale battles and sieges](/images/mandateorder/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

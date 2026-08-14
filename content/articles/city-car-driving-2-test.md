@@ -90,3 +90,5 @@ Un simulateur de conduite austère mais sérieux, dont le réalisme obsessionnel
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

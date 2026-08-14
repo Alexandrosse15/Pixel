@@ -70,3 +70,5 @@ Le shooter tactique hardcore qu'on n'espérait plus, ressuscité avec acharnemen
 ---
 
 *Testé sur PC.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

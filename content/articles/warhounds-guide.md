@@ -56,3 +56,5 @@ Deux principes pour ne pas se disperser au début. D'abord, la profondeur d'effe
 Notez enfin que les missions durent vingt-cinq à quarante minutes et que la difficulté est réglable dans les deux sens. Si vous découvrez le genre, commencez bas : le système de tir sans hasard se comprend beaucoup mieux quand on a le droit à l'erreur.
 
 ![Warhounds, la gestion de base et les factions alliees](/images/warhounds/screenshot-3.webp)
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

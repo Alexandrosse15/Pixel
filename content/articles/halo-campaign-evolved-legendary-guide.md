@@ -131,3 +131,5 @@ Oui, notamment dans Pillar of Autumn et la course finale de The Maw. Savoir fuir
 ---
 
 *Guide rédigé sur la base des versions PC, Xbox Series et PS5.*
+
+On s'entraide sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw), n'hésitez pas à venir poser vos questions.

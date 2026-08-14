@@ -52,3 +52,5 @@ Aucun avis Steam n'est encore disponible au moment où nous écrivons : cette no
 Et vous, l'humour graveleux du début des années 2000, ça vous fait encore rire ou ça a mal vieilli ?
 
 ![Agefield High Rock the School, la ville d Agefield et ses habitants](/images/agefieldhigh/screenshot-2.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

@@ -62,3 +62,5 @@ The game has no Steam reviews on its Early Access build yet, so this score comes
 The real question: how long before you say one more machine and the sun comes up?
 
 ![Sandustry, the destructible world and the artifact hunt](/images/sandustry/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

@@ -161,3 +161,5 @@ Et parfois, c'est tout ce qu'il faut pour transformer une déception en bonne su
 
 Si tu l'avais abandonné trop tôt, ce n'est pas une erreur.
 Mais aujourd'hui, ne pas y retourner... ce serait peut-être en faire une.
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

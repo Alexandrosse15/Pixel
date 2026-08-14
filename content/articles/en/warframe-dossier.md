@@ -114,3 +114,5 @@ Thirteen years. Still here. Updated last week.
 ---
 
 *Feature written in April 2026. Data based on publicly available information at that date.*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

@@ -143,3 +143,5 @@ Une oeuvre imparfaite, mais intéressante. Un premier pas prometteur. Et surtout
 ---
 
 *Testé sur PC, version complète*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

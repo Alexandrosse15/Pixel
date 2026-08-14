@@ -90,3 +90,5 @@ Void Reaver sort en accès anticipé, pas de date précisée pour le moment. Le 
 Le pari est lisible : un système d'inventaire roguelike original dans un genre saturé, fait par une équipe qui n'a aucune raison objective de réussir, et qui avance quand même. Ce genre de studio ne sortira pas le meilleur jeu de l'année. Il peut sortir quelque chose d'honnête, de jouable, et qui a été fait par des gens qui y ont cru assez longtemps pour finir le travail.
 
 C'est plus rare qu'il n'y paraît.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

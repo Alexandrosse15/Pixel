@@ -40,3 +40,5 @@ Le jeu sort aujourd'hui, développé par Blunder Studios, sans aucun avis utilis
 Les réserves restent celles de tout incremental. La courbe doit tenir sur la durée, et la satire doit se renouveler au-delà de la bonne blague initiale. Mais si l'idée de licencier votre service entier pour débloquer une synergie vous arrache un sourire coupable, vous savez déjà où vont passer vos prochaines soirées.
 
 ![Red Tape Rampage, la gestion du personnel et les paliers de promotion](/images/redtaperampage/screenshot-2.webp)
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

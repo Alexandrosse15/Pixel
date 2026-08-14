@@ -95,3 +95,5 @@ Et dans le jeu vidéo, ce n'est pas tant le manque d'ambition qui pose problème
 ---
 
 *Testé sur PC, version complète fournie par l'éditeur*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

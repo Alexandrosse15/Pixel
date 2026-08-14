@@ -71,3 +71,5 @@ It's not perfect. Some passages are less polished, a few narrative transitions c
 ---
 
 *If you or someone you know needs help, please reach out to a local support line for sexual violence survivors.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

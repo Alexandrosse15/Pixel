@@ -88,3 +88,5 @@ The question is no longer whether Star Citizen is a scam. It isn't, in any legal
 ![Star Citizen, planetary landscape](/images/starcitizen/screenshot-5.webp)
 
 Star Citizen raised a billion dollars on May 24, 2026, while simultaneously selling a ship that doesn't fly yet. That's either every creator's dream or every player's nightmare who just wants a finished game. Probably both at the same time. That's why nobody can stop talking about it.
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

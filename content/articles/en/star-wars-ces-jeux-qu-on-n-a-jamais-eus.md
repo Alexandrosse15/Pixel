@@ -160,3 +160,5 @@ And that may be the real tragedy.
 ---
 
 *Feature based on information available at the time of publication*
+
+Does the subject speak to you? We go into it at length on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

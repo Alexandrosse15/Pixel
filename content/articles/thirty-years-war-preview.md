@@ -54,3 +54,5 @@ Dernier point, et il valide votre plaisanterie mieux que prévu : le jeu est ann
 Alors oui, ce sera de nouveau les Anglo-Saxons et l'Europe centrale qui feront tourner la boutique. Tant pis pour nous. Et si votre compagne persiste à vouloir de la place, rappelez-lui l'argument imparable : celui-ci ne prend aucun espace sur l'étagère.
 
 ![Thirty Years War, les cartes tactiques et les campagnes du conflit](/images/thirtyyearswar/screenshot-3.webp)
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

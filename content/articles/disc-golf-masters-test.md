@@ -83,3 +83,5 @@ La simulation de disc golf la plus crédible du marché, portée par des disques
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

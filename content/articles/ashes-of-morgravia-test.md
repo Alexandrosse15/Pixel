@@ -78,3 +78,5 @@ Un tactical deckbuilder dark fantasy dont le système à double deck, séparant 
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

@@ -54,3 +54,5 @@ One last point, and it validates the joke better than expected: the game is anno
 So yes, it will again be the Anglosphere and Central Europe keeping the shop open. Too bad for us. And if your partner keeps pushing for space, remind her of the unanswerable argument: this one takes up no room on the shelf.
 
 ![Thirty Years War, the tactical maps and campaigns of the conflict](/images/thirtyyearswar/screenshot-3.webp)
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

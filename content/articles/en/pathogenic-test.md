@@ -64,3 +64,5 @@ A cellular roguelike shooter with a concept as repugnant as it is original, wher
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

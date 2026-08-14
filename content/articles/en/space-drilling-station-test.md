@@ -86,3 +86,5 @@ These are fixable problems. And they don't erase what works. Space Drilling Stat
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

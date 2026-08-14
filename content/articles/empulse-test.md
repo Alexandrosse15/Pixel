@@ -76,3 +76,5 @@ EMPULSE retrouve la sensation de mouvement de Titanfall 2 et l'offre sans la moi
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

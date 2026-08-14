@@ -88,3 +88,5 @@ Un walking sim qui envoûte par bouffées et s'égare entre deux découvertes : 
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

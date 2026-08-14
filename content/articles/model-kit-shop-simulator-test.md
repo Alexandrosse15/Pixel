@@ -64,3 +64,5 @@ Une énième déclinaison du shop simulator, sauvée de la simple redite par son
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

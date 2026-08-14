@@ -61,3 +61,5 @@ Si le projet vous intrigue, une page de pré-lancement Kickstarter est déjà en
 ---
 
 *Preview basée sur les informations disponibles et le prototype Itch.io. Sortie prévue fin 2027 / début 2028 sur Steam.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

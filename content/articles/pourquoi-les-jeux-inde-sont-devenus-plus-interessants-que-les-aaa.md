@@ -100,3 +100,5 @@ Et aujourd'hui, ce sont clairement les seconds qui comptent.
 ---
 
 *Dossier rédigé par la rédaction InsertCoins.press*
+
+Vos avis nous intéressent : [le Discord InsertCoins](https://discord.gg/473FE3dWvw) vous attend.

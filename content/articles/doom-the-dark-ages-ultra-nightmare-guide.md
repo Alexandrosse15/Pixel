@@ -93,3 +93,5 @@ Apprenez leurs patterns lors d'une run en difficulté inférieure avant de vous 
 ---
 
 *Guide rédigé sur la base de la version PC.*
+
+Une question, une astuce à partager ? [Le Discord d'InsertCoins](https://discord.gg/473FE3dWvw) est l'endroit pour ça.

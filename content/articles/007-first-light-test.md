@@ -75,3 +75,5 @@ Nous, on a poncé GoldenEye 007 et The World Is Not Enough sur Nintendo 64 comme
 ![007 First Light, fin](/images/007firstlighttest/screenshot-7.webp)
 
 Il y avait une vraie question derrière la preview : IO Interactive sait-il écrire un Bond ? La réponse est oui. Maintenant on attend la suite.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

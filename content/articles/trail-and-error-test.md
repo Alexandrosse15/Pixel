@@ -84,3 +84,5 @@ Un co-op survie qui assume d'arriver tard dans un genre bondé, mais qui sort so
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

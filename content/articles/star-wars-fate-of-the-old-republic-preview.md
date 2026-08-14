@@ -70,3 +70,5 @@ On garde le tiroir ouvert.
 ---
 
 *Preview basée sur les annonces officielles et les informations publiées en mai 2026. Aucun gameplay n'a été dévoilé à ce stade.*
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

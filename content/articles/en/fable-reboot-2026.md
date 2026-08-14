@@ -74,3 +74,5 @@ Six years of waiting for a reboot rather than a sequel in the lineage of Fable 2
 ![Fable 2026, landscape](/images/fable2026/screenshot-7.webp)
 
 We're not asking for Fable III-part-two. We're asking for something that understood why Fable 2's dog broke our heart. If it does, the rest will follow.
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

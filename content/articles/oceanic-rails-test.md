@@ -64,3 +64,5 @@ Un farming roguelike insulaire en pixel art, adorable et chronophage, qui marie 
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

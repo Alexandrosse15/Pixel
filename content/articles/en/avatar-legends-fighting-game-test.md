@@ -64,3 +64,5 @@ The fighting game a martial-arts franchise always deserved, carried by a per-cha
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

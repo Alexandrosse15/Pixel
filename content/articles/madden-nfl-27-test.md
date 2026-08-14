@@ -61,3 +61,5 @@ Ensuite le calcul. Le conseil qui revient le plus chez les joueurs de longue dat
 Le Persona Engine est la meilleure raison depuis longtemps de faire une exception. Reste que soixante-dix euros, c'est cher payé pour une secousse dans un seul mode.
 
 ![Madden NFL 27, le mode Franchise et le Persona Engine](/images/maddennfl27/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

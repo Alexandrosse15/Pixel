@@ -64,3 +64,5 @@ A time-devouring, addictive roguelike autobattler, where drafting and stacking h
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

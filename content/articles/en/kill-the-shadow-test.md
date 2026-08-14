@@ -32,3 +32,5 @@ Everything here revolves around the investigation, and I stress the word. You re
 Let me be clear about what Kill the Shadow is not: an action game. The pace is slow, talky, contemplative. You spend a lot of time reading, listening, digging. If walls of dialogue put you off or you are chasing adrenaline, you will be bored, plainly. The story takes its time, sometimes too much, and some transitions could use more snap.
 
 But if you like stories you have to earn, moods that ooze, and investigations where you are the one connecting the dots, this little game has something. It threatens no heavyweight of the genre, it does not have the means, but it carries its vision all the way with a character many bigger games lack. For the price of a ticket and a handful of rainy evenings, it is a fine encounter. I want to know what happened to that city. That is already a win.
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

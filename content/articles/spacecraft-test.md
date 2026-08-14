@@ -61,3 +61,5 @@ S'ajoutent deux réserves de poids. La première, c'est l'obligation d'être en 
 SpaceCraft est un objet fascinant et frustrant à la fois. Fascinant par son ambition, par la beauté de son espace, par l'élégance de son pilotage et de sa construction de vaisseaux, et par cette idée d'une économie galactique entièrement façonnée par les joueurs. Frustrant parce qu'au jour du lancement, la promesse dépasse encore largement la réalité: le contenu est trop maigre, le online obligatoire rebutera les amoureux du solo de Shiro, et les microtransactions arrivent à un moment où elles font surtout tache. C'est un pari audacieux pour un studio qui sort de sa zone de confort, et l'on a sincèrement envie qu'il le gagne. Mais en l'état, c'est une fondation prometteuse plus qu'un jeu abouti, à réserver aux fans du genre et aux patients prêts à grandir avec lui.
 
 Une galaxie magnifique et pleine de promesses, mais encore trop vide pour qu'on s'y installe vraiment.
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

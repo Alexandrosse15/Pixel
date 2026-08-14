@@ -73,3 +73,5 @@ Et toujours pas de microtransactions. On ne se lasse pas de le dire.
 ---
 
 *Test réalisé sur la version Accès Anticipé, sur build de playtest. Le playtest se termine le 16 mai.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

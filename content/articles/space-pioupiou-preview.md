@@ -44,3 +44,5 @@ L'autre point de vigilance tient à la promesse de l'accès anticipé. La démo 
 ## Conclusion
 
 On attend Space PiouPiou avec un grand sourire. Le concept du canari surarmé face aux chats de l'espace est un de ces gags qui pourraient n'être qu'une blague de trente secondes, sauf qu'ici il est porté par une direction artistique dessinée main pleine de charme, une vraie réflexion sur la difficulté et ce souci du détail qui sépare les jeux qu'on lance des jeux qu'on relance. Les chiffres parlent déjà pour lui: des joueurs qui poncent la démo sans qu'on leur demande, des enfants qui réclament la manette à leurs parents. Reste à transformer cet amour de niche en visibilité, et à tenir les promesses de l'accès anticipé. Mais si vous cherchez quoi suivre dans le genre, mettez un oeil sur ce volatile. Nous, on a déjà choisi notre camp, et il a des plumes.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

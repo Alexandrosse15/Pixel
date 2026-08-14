@@ -103,3 +103,5 @@ Mais on a envie d'y retourner. Et c'est déjà quelque chose.
 ---
 
 *Aperçu basé sur les informations disponibles avant lancement. Pas de note attribuée.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

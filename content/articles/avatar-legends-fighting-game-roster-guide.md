@@ -68,3 +68,5 @@ Si vous découvrez le jeu ou les jeux de combat en général, trois personnages 
 ---
 
 *Guide rédigé sur la base du roster de lancement.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

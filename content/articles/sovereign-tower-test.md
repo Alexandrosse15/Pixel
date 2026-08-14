@@ -47,3 +47,5 @@ Les limites sont celles de sa forme. Un jeu qui repose à ce point sur ses perso
 Ça n'empêche pas le résultat d'être le plus solide de la fournée. Une Table Ronde d'incapables attachants, un pouvoir sur le temps, et assez de plume pour tenir la distance : c'est exactement ce qu'on demande à ce genre de jeu.
 
 ![Sovereign Tower, l expansion de la tour et l equilibre entre les factions](/images/sovereigntower/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

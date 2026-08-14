@@ -28,3 +28,5 @@ Le contenu suit derrière, généreux : quatre nouveaux mini-boss, vingt armes, 
 Au milieu de cette avalanche, une nouveauté toute bête et pourtant très réclamée : les dégâts chiffrés. On voit enfin la fourchette de dégâts de chaque attaque, du minimum garanti si le coup touche au maximum théorique. Pour un jeu de stratégie où chaque décision compte, arrêter de jouer au pifomètre, c'est un vrai confort. À cela s'ajoute un onglet "histoire" dans le codex, pour relire et rejouer dialogues et cinématique d'intro.
 
 Le timing n'est pas innocent : la mise à jour tombe pendant le Steam Cyberpunk Fest, avec le jeu affiché à 20% de réduction toute la semaine. Si vous cherchiez une raison de tenter ce roguelike tactique, en voilà une jolie brochette. Et le studio promet déjà la prochaine fournée dans deux semaines, ce qui en dit long sur le rythme de suivi. De quoi garder les chronosphères bien vivantes.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

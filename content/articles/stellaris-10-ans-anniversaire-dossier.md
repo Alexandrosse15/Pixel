@@ -106,3 +106,5 @@ En attendant : si vous n'avez pas encore réclamé Utopia, Synthetic Dawn et le 
 ---
 
 *Dossier réalisé à partir de l'annonce officielle de Paradox Interactive et des réactions de la communauté Stellaris.*
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

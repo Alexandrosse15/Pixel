@@ -101,3 +101,5 @@ Quand GTA VI sortira, il sera jugé, comparé, disséqué. Certains seront déç
 Mais une chose est certaine : pendant quelques semaines, ou quelques mois, le monde du jeu vidéo tournera autour de lui.
 
 Et au fond, c'est peut-être ça, le véritable pouvoir de Grand Theft Auto.
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

@@ -48,3 +48,5 @@ But we keep in mind the unknowns: the single life bar will have to prove it enri
 ---
 
 *Preview written before the 6 August 2026 release, based on official information.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

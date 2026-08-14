@@ -48,3 +48,5 @@ On attend, avec une vraie curiosité. Guadeloupe : Le secret des trois rivières
 ![Une clairière luxuriante ouvrant sur la mer, dans le plus pur style du jeu](/images/guadeloupe/screenshot-4.webp)
 
 Prévu pour l'automne 2026, optimisé pour l'écosystème connecté d'EVEIA tout en restant accessible aux configurations PC classiques et au Steam Deck, le jeu vise un public croisé, entre amateurs de fitness connecté en quête d'une vraie histoire et passionnés de jeux narratifs curieux d'une expérience différente. C'est exactement le genre de projet hors des sentiers battus qu'on a envie de voir réussir. À suivre, et de près.
+
+On surveille les sorties ensemble sur [notre Discord](https://discord.gg/473FE3dWvw), venez guetter avec nous.

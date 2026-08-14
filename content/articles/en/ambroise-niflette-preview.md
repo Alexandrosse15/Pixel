@@ -54,3 +54,5 @@ Ambroise Niflette and the Gleaned Bell is one of the hardest previews to write: 
 The Steam Deck controls need fixing before release. That's the only concrete warning signal.
 
 For everything else: free demo on Steam, no excuse for not having tried it before the end of the day.
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

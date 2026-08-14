@@ -47,3 +47,5 @@ But it's impossible to skip over what's missing, and that lack is enormous for w
 ---
 
 *Preview written a few days before launch, based on the review builds and early feedback.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

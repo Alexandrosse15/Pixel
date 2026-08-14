@@ -50,3 +50,5 @@ Enfin, le temps et l'inconnue commerciale. Une bêta à l'automne 2027 signifie 
 On attend, évidemment, et avec une impatience qu'on a du mal à contenir. Guild Wars 3 dit toutes les bonnes choses : préquelle au lore alléchant, combat action audacieux, événements mondiaux modernisés, arrivée sur console, et une volonté affichée de faire évoluer le genre plutôt que de le recopier. Pour qui tient GW2 parmi les sommets du MMO, c'est l'annonce la plus excitante depuis des années.
 
 Mais on garde la tête froide. Le moteur, le virage action et le modèle économique sont autant d'inconnues qui décideront si GW3 sera un digne héritier ou une modernisation qui a perdu son âme. ArenaNet a promis des détails tout au long de 2026 et 2027 avant la bêta. On sera là à chaque annonce, le coeur battant et l'oeil critique. D'ici là, une chose est sûre : 2028 nous paraît déjà très, très loin.
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

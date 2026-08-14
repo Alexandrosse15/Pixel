@@ -76,3 +76,5 @@ Specialize each player rather than creating four identical DPS: a Builder for de
 ---
 
 *Guide written based on the PC version.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

@@ -64,3 +64,5 @@ Un survivors-like coop jusqu'à quatre sorciers, avec des synergies de sorts pro
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -47,3 +47,5 @@ Or c'est précisément là que le bât blesse pour ce type de jeu. Un titre qui 
 L'ambiance, elle, est déjà là, et c'est le plus dur à fabriquer. Si le froid vous attire et que l'idée d'un Frostpunk qu'on habite en vue subjective vous parle, il y a de quoi surveiller ça de très près. Simplement, attendez peut-être une mise à jour ou deux avant de monter à bord.
 
 ![Frozen Ship, la gestion de l equipage et des fourneaux](/images/frozenship/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

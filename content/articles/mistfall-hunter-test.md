@@ -39,3 +39,5 @@ Soyons lucides sur ce qui coince. Mistfall Hunter est intrinsèquement stressant
 Et puis il y a la question qui hante tous les jeux comme lui : la suite. Un extraction game vit ou meurt sur son suivi, son équilibrage, sa population en ligne. Au lancement, les fondations sont solides, la boucle accroche, l'accès Game Pass va ramener du monde. Mais je ne saurai vraiment ce que vaut Mistfall Hunter que dans six mois, quand on verra si Bellring nourrit son jeu ou l'abandonne. Pour 25 euros, ou gratuitement via l'abonnement, le pari vaut le coup d'oeil si vous aimez tout risquer pour tout gagner. Et si, comme moi, mourir à cinq mètres de la sortie vous donne envie de recommencer plutôt que de tout casser.
 
 ![Mistfall Hunter, l'escouade de trois face aux chasseurs rivaux](/images/mistfallhunter/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

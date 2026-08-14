@@ -97,3 +97,5 @@ Elle n'est pas sans défauts. Le rythme vacille, le costume est rare, et la perf
 La version noir et blanc. Toujours.
 
 ![Spider-Noir, le costume](/images/spidernoir/screenshot-5.webp)
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

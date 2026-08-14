@@ -26,3 +26,5 @@ The idea of getting the loop that hooked me back for free, with hundreds of miss
 Now, I will not play naive. "Free-to-play" and "born on mobile" are two flags that call for caution. The real question, the one I will only answer with a controller in hand, is the monetization. Does progression respect the player, or does it gently nudge you toward the store? Does the endgame hold up over time without reaching for a credit card? The franchise has seen both virtuous economies and pushier ones, and everything will hinge on that.
 
 So I am holding my verdict, which is the point of a preview. But the desire is there, intact. I am going to create an agent, go clean up New York again, and see if the loot magic still works. See you very soon for a proper review, once I have checked whether this Resurgence earns the hours I am about to give it.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

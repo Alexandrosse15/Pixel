@@ -70,3 +70,5 @@ En attendant, oui : un État totalitaire, des mechas, du bullet hell et des pris
 Les joueurs ont désormais tranché, et largement : les avis Steam sont Très positifs, à 89 % sur plus de 700 retours. Pour un accès anticipé qui mélange colony sim et FPS, c'est un accueil qui valide le pari du studio.
 
 ![Pax Autocratica, la gestion des citoyens et de la colonie](/images/paxautocratica/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

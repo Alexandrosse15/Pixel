@@ -54,3 +54,5 @@ On attend la suite avec une impatience qu'on n'avait pas anticipée.
 ---
 
 *Test basé sur la démo disponible sur Steam. L'Early Access est prévu pour le premier semestre 2026.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

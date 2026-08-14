@@ -60,3 +60,5 @@ Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle
 Dites-nous en commentaire : quel est le pire bricolage que vous ayez fait en vrai pour économiser trois euros ?
 
 ![Low-Budget Repairs, le magasin de bricolage et la chasse aux outils bon marche](/images/lowbudgetrepair/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

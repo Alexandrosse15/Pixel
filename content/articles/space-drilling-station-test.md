@@ -86,3 +86,5 @@ Ce sont des problèmes corrigeables. Et ce sont des problèmes qui n'effacent pa
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

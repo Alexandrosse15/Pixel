@@ -70,3 +70,5 @@ Ce sont des bonnes questions à poser. Ce n'est pas une manière de signaler un 
 ![The Witch's Bakery, écran récapitulatif](/images/sunnylab/screenshot-11.webp)
 
 La date de sortie est prévue pour le deuxième trimestre 2026. On ne sait pas encore si Sunny Lab livre tout ce que le projet promet. On sait déjà que le projet promet quelque chose.
+
+Vous l'attendez aussi ? Venez le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

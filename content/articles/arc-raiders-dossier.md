@@ -123,3 +123,5 @@ ARC Raiders ne réinvente rien. Il fait juste enfin les choses correctement. Et 
 ---
 
 *Dossier réalisé à partir de la version disponible au lancement.*
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

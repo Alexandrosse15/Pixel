@@ -50,3 +50,5 @@ The game is out today, developed and published by Alawar, with no user reviews, 
 So no, this is not a simple clone. Papers Please told the human cost of paperwork; this one tells the terror of signing something you did not understand. That is not the same subject.
 
 ![Security 51, quarantine and consequences](/images/security51/screenshot-3.webp)
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

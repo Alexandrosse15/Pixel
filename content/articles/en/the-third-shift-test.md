@@ -58,3 +58,5 @@ Short, dense, nothing wasted. The Third Shift knows what it is and doesn't try t
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

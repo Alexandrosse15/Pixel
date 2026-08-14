@@ -64,3 +64,5 @@ A charming, colorful and accessible e-commerce tycoon, addictive in its first ho
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

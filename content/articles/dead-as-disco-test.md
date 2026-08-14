@@ -60,3 +60,5 @@ Dead as Disco est ce que la démo promettait : un beat'em up rythmique qui sait 
 ---
 
 *Test réalisé sur la version Early Access. Dead as Disco est disponible sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

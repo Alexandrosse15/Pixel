@@ -54,3 +54,5 @@ Tidehaven: Ale and Trade est une bonne surprise pour un studio de trois. L'esth�
 ---
 
 *Testé sur PC. Jeu en Early Access, sujet à évolution.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

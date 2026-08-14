@@ -70,3 +70,5 @@ Un card-battler temps réel où les cartes ajoutent enfin le sel promis, servi s
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

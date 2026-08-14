@@ -46,3 +46,5 @@ The idea is good and the setting is a delight. What remains is whether the sword
 The first players are unanimous at 100 percent positive, but across only about twenty reviews. That is excellent and entirely insufficient to conclude: this score needs confirming on a larger sample.
 
 ![Swordcery, the Sword Classes and magical abilities](/images/swordcery/screenshot-2.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

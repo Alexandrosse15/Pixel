@@ -77,3 +77,5 @@ On progression, remember that Master Skills unlock at level 30 per character and
 ---
 
 *Guide written based on the PC version.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

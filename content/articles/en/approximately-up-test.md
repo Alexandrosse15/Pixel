@@ -49,3 +49,5 @@ And that is precisely the problem. A game whose best comic spring is an argument
 The other reservation concerns depth. Past the euphoria of the first absurd assemblies, building demands a growing rigour that the light tone does not really prepare you for, and the mission catalogue will need to fill out to hold over time. It is also worth noting that at this stage the reception rests mainly on enthusiastic demo feedback, without the perspective of dozens of hours.
 
 For a group of four who are not afraid of falling out, this is an excellent evening in a box. For a solo player, it is a very different proposition, and a much less funny one.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

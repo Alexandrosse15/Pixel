@@ -53,3 +53,5 @@ Bon point pratique, il est disponible en français et annoncé compatible Steam 
 Si vous cherchiez un successeur à Jet Set Radio Future, ce n'est pas ici, et il faudra continuer à attendre. Si vous cherchiez un platformer 3D qui a de l'allure et un vrai sens du mouvement, vous êtes au bon endroit.
 
 ![Duskfade, le grappin et le vol plane](/images/duskfade/screenshot-3.webp)
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

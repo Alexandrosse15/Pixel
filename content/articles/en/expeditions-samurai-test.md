@@ -49,3 +49,5 @@ The second reservation concerns the studio and the series. The Expeditions games
 For anyone who loves top-down views, parties of misfits and feudal Japan, the proposition remains very tempting. Just know what you are putting your hands into: not Commandos, but an ambitious tactical RPG that has not finished writing itself.
 
 ![Expeditions Samurai, the companions and their personal quests](/images/expeditionssamurai/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

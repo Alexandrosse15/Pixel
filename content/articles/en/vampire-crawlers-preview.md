@@ -91,3 +91,5 @@ At InsertCoins, we're staying watchful. But clearly interested. And above all: w
 ---
 
 *Hands-on conducted on PC, preview build provided by the publisher*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

@@ -52,3 +52,5 @@ The score above concerns the game alone. The rest is yours to weigh.
 Worth noting, the reception is better than our first impression suggested: Steam reviews are Very Positive at 82 percent across more than 110 reviews. The game does its job for tactics fans, which the score reflects.
 
 ![Warhounds, base management between missions](/images/warhounds/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

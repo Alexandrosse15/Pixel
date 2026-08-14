@@ -64,3 +64,5 @@ A roguelite dungeon builder that resurrects Dungeon Keeper's gleeful pleasure, w
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

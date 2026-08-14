@@ -50,3 +50,5 @@ Our stance is honest: the idea thrills us. Extending the universe through a fres
 But a trailer isn't a game. Everything remains to be proven: the dosage of that damn cube's humor, the coherence of the afterlife, and Santa Monica's ability to respect a lore it made sacred itself. No date was shown, and Jason Schreier leans toward 2027. If the studio delivers on its promises, Laufey could be the finest surprise of the generation. If it turns God of War into a blockbuster quip festival, our hearts will be heavy.
 
 See you, probably, in 2027. Until then, we'll keep our enthusiasm cautious, and a wary eye on the cube.
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

@@ -64,3 +64,5 @@ Une survie coopérative qui troque le monstre contre une tornade dévastatrice, 
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

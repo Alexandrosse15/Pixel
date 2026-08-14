@@ -33,3 +33,5 @@ Le contenu est structuré avec un peu plus de soin qu'attendu. On débloque des 
 Reste la limite fondamentale : le jeu tient sur une seule note. Une fois comprise la boucle identifier, porter, classer, il n'y a pas de second système qui vient relancer l'intérêt. Pas de dégustation, pas de gestion, pas de commerce, rien qui prolonge la fantaisie de la cave au-delà de l'inventaire. À moins de cinq euros, le marché est honnête et personne ne crie à l'arnaque, mais il faut savoir qu'on achète une activité, pas un jeu à systèmes.
 
 Alors voilà mon verdict, et il est partial : si le rangement vous détend, foncez, c'est bien fait pour ce que c'est. Si vous veniez pour le vin, vous allez rester sur votre soif, au sens le plus littéral. Moi, je vais retourner ne pas peindre mes Space Marines, en ouvrant une bouteille. La vraie.
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

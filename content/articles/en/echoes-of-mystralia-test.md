@@ -54,3 +54,5 @@ For anyone who enjoys building their own instruments of destruction, that is rea
 The first Steam reviews have arrived and confirm this review's nuance: Mostly Positive at 71 percent across nearly 120 reviews. The spell system convinces, the rest divides more.
 
 ![Echoes of Mystralia, the Azimuth Temple and progression between runs](/images/echoesofmystralia/screenshot-3.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

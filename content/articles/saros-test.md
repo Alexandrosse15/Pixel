@@ -70,3 +70,5 @@ Pour quelqu'un qui n'a jamais vraiment touché au genre, ça peut être une entr
 ---
 
 *Test réalisé à partir de la version finale.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

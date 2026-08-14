@@ -65,3 +65,5 @@ Un MMO-RTS free-to-play venu du jeu par navigateur, qui flatte la nostalgie du b
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

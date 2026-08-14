@@ -91,3 +91,5 @@ Forza Horizon 6 est probablement le meilleur épisode de la série depuis FH4. L
 Ce n'est pas un jeu qui prend des risques. Ce n'est pas un jeu qui résout ses problèmes les plus anciens. C'est Forza Horizon 5 dans la meilleure carte qu'on leur ait vue depuis longtemps, avec suffisamment d'améliorations pour justifier le déplacement.
 
 Si vous attendiez une révolution : ce n'était pas ici. Si vous vouliez le même festival de voitures dans un endroit enfin à la hauteur de l'ambition de la série : bienvenue au Japon.
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

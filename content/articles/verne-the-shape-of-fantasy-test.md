@@ -83,3 +83,5 @@ Verne: The Shape of Fantasy est un jeu fait avec amour par quelqu'un qui avait u
 ---
 
 *Testé sur PC, version complète*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

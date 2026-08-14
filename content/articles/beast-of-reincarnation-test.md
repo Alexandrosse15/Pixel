@@ -52,3 +52,5 @@ C'est là que la blague se retourne : pendant des années, on s'est demandé si 
 Un jeu imparfait, un peu bancal au démarrage, mais habité, ambitieux et sincère. De la part du studio que je me préparais à démonter, c'est une gifle. Une bonne.
 
 ![Beast of Reincarnation, la direction artistique du Japon dévoré par la Corruption](/images/beastofreincarnation/screenshot-3.webp)
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

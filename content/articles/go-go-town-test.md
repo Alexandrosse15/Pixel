@@ -64,3 +64,5 @@ Un builder chaleureux et tactile où l'on est maire sur le terrain, qui invite �
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

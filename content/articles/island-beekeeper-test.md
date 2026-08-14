@@ -64,3 +64,5 @@ Une simulation cozy apaisée au-dessus des nuages, portée par une apiculture bi
 ---
 
 *Testé sur PC.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

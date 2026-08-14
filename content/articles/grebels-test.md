@@ -64,3 +64,5 @@ Un successeur spirituel de G-Police à l'ambition démesurée, monde ouvert sans
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

@@ -46,3 +46,5 @@ Reste une inconnue de taille, et elle tempère l'enthousiasme: l'envie. Emmerich
 Notre lecture, donc, est double. Non, ce n'est pas le sauvetage que la communauté célèbre déjà, et entretenir cette idée ne rend service à personne. Oui, c'est le mouvement le plus intelligent et le plus chargé de sens autour de Stargate depuis très longtemps, parce qu'il redistribue, pour la première fois, une part de pouvoir vers ceux qui ont tout commencé. Le rendez-vous est pris pour le 29 octobre 2029. D'ici là, la porte reste fermée, mais quelqu'un vient enfin de récupérer une des clés.
 
 ![Tout l'univers Stargate découle du scénario déposé en 1993](/images/stargate/screenshot-1.png)
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

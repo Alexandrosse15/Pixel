@@ -68,3 +68,5 @@ Non, Cricket Management 26 sort en Accès Anticipé le 29 juillet 2026 et s'éto
 ---
 
 *Guide rédigé sur la base des informations officielles et de la version PC en Accès Anticipé.*
+
+Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).

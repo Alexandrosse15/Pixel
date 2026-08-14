@@ -100,3 +100,5 @@ And today, it's clearly the second group that matters most.
 ---
 
 *Feature by the InsertCoins.press editorial team*
+
+We want to hear your take: [the InsertCoins Discord](https://discord.gg/473FE3dWvw) is waiting.

@@ -70,3 +70,5 @@ The most relaxing gesture of store sims, sold on its own with nothing around it:
 ---
 
 *Tested on PC.*
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

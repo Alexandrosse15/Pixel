@@ -64,3 +64,5 @@ Un horror asymétrique 5v1 qui se démarque par sa mécanique de remontage à la
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

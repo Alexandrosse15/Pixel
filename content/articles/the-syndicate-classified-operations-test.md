@@ -45,3 +45,5 @@ Ensuite l'ampleur affichée par un développeur seul. Une campagne intégralemen
 Reste une proposition maligne, avec un thème inhabituel et un vrai contrepoids mécanique, sortie discrètement le 5 août. Il ne demande pas beaucoup d'attention à la fois, seulement toutes vos soirées.
 
 ![The Syndicate Classified Operations, les crises et la gestion de la Chaleur](/images/thesyndicate/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

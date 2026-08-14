@@ -132,3 +132,5 @@ Captain America is an excellent point for learning the fundamentals thanks to hi
 ---
 
 *Guide written from official information, before the 6 August 2026 release. Precise combo routes will be enriched after launch and community stabilisation.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

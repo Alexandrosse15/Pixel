@@ -55,3 +55,5 @@ Score: 6/10
 ---
 
 *Reviewed on the PC Early Access version.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

@@ -70,3 +70,5 @@ An extraction looter moved to turn-based tactics, mixed with Slay the Spire and 
 ---
 
 *Tested on PC, in early access.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

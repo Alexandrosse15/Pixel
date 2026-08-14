@@ -51,3 +51,5 @@ L'autre point de vigilance est la dépendance au groupe. Le jeu propose du solo,
 Cela dit, l'idée de départ est trop bonne pour être ignorée. Mourir sans quitter la partie, c'est le genre de trouvaille que les autres jeux du genre devraient copier sans attendre.
 
 ![Grain Rot, l Avant-poste reconstruit entre les descentes](/images/grainrot/screenshot-3.webp)
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

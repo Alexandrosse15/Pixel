@@ -160,3 +160,5 @@ And sometimes, that's all it takes to turn a disappointment into a pleasant surp
 
 If you gave up on it too early, that wasn't a mistake.
 But going back now? That one would be hard to justify.
+
+Come and carry the conversation on over on [our Discord](https://discord.gg/473FE3dWvw).

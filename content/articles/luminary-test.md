@@ -42,3 +42,5 @@ Pour une équipe de deux personnes, l'ambition est déjà considérable, et l'ap
 Les premiers retours sont arrivés et ils sont cohérents avec la promesse : 73 % d'avis positifs sur plus de 150 retours, soit un Plutôt positif. Pour un jeu que deux personnes annoncent volontairement incomplet, c'est un départ correct.
 
 ![Luminary, l exploration et le combat en temps reel](/images/luminary/screenshot-2.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

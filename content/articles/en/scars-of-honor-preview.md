@@ -114,3 +114,5 @@ Not the new king. But perhaps finally an MMO that makes you want to believe.
 ---
 
 *Preview based on the in-development version : the game is subject to significant changes before release*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

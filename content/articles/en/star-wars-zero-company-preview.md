@@ -72,3 +72,5 @@ For the rest, I want to believe. EA has already proved it can make very good Sta
 So one single request, EA, and I promise to stop grumbling: do not break Star Wars any further than it already is. Give us a fine adventure and music that raises the hairs. We will handle the rest. Hope, in this galaxy, we all know how that one goes.
 
 ![Star Wars Zero Company, the base of operations and squad customisation](/images/starwarszerocompany/screenshot-3.webp)
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

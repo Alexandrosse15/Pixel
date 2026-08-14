@@ -55,3 +55,5 @@ The awkward question: a dinosaur park with no visitors and no budget, enough for
 The real unknown is the depth of the ecological simulation. A game betting everything on symbiosis between species must model needs, food chains and the consequences of imbalance seriously, otherwise all that remains is a decorative zoo where you place handsome models. On that point the store page says nothing, and that is exactly what we would need to know.
 
 ![Dinosaur, the island editor and direct creature control](/images/dinosaur/screenshot-3.webp)
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

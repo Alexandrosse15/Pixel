@@ -70,3 +70,5 @@ Le jeu vient de sortir et ne compte encore aucun avis Steam sur la version livr�
 Vous y avez joué depuis le lancement ? Dites-nous surtout ce que donnent les performances sur votre machine, c'est le point qui décidera de tout.
 
 ![Hell Let Loose Vietnam, les tunnels et les roles specialises](/images/hellletloosevietnam/screenshot-3.webp)
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

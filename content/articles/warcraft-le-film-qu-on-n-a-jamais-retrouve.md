@@ -124,3 +124,5 @@ Un film qu'on a peut-être jugé trop vite. Et qu'on n'a jamais vraiment laissé
 ---
 
 *Revu en version director's cut, disponible sur les plateformes de streaming*
+
+Venez prolonger la conversation sur [notre Discord](https://discord.gg/473FE3dWvw).

@@ -68,3 +68,5 @@ Un bullet heaven qui ajoute une couche de tower defense bien intégrée et brill
 ---
 
 *Testé sur PC.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

@@ -46,3 +46,5 @@ But hope doesn't make a great game, and Stage Tour will have to answer the quest
 ---
 
 *Preview based on studio information and the playtest.*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

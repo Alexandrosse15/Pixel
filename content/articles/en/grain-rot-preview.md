@@ -46,3 +46,5 @@ But we keep in mind the genre's fragilities: the need to prove that its strong i
 ---
 
 *Preview written before the 7 August 2026 release, based on official information and the demo.*
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

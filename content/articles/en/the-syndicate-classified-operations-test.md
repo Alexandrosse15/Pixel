@@ -45,3 +45,5 @@ Then the scope announced by a lone developer. A fully voiced campaign, 465 upgra
 What remains is a shrewd proposition, with an unusual theme and a genuine mechanical counterweight, released quietly on 5 August. It does not ask for much attention at once, only for all of your evenings.
 
 ![The Syndicate Classified Operations, the crises and Heat management](/images/thesyndicate/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

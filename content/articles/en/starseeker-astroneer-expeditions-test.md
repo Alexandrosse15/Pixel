@@ -61,3 +61,5 @@ Finally there is the question, inherent to any game conceived as a service, of l
 Starseeker: Astroneer Expeditions is a game we very much want to love. It is splendid, otherworldly, carried by that modeling-clay art direction that made Astroneer's charm, and its idea of cooperative expeditions punctuated by a refuge-station has potential. But at launch, it suffers from an unforgiving ailment: you wander through it more than you play it. The content is too thin, the loop too repetitive, the mandatory online will put off the solo fans of the first, and the tech falters on Switch 2. By turning its back on the creative sandbox that was Astroneer's identity, System Era took a huge risk, and for now it is only half rewarded. One to watch, clearly, but to let mature before embarking.
 
 A sublime space postcard we would love to inhabit, the day it truly becomes a game.
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

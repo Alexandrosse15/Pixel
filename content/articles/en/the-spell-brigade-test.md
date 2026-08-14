@@ -64,3 +64,5 @@ A co-op survivors-like for up to four wizards, with deep spell synergies and fri
 ---
 
 *Tested on PC.*
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

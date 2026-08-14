@@ -26,3 +26,5 @@ L'idée de retrouver gratuitement la boucle qui m'a happé, avec des centaines d
 Maintenant, je ne vais pas jouer les naïfs. "Free-to-play" et "né sur mobile", ce sont deux drapeaux qui appellent la prudence. La vraie question, celle à laquelle je répondrai seulement manette en main, c'est le modèle économique. Est-ce que la progression respecte le joueur, ou est-ce qu'elle pousse gentiment vers la boutique ? Est-ce que le endgame tient sur la durée sans dégainer la carte bleue ? La licence a déjà connu des économies vertueuses et d'autres plus pressantes, et tout se jouera là.
 
 Je réserve donc mon avis, c'est le principe d'une preview. Mais l'envie est là, intacte. Je vais créer un agent, retourner nettoyer New York, et voir si la magie du loot opère encore. Rendez-vous très vite pour un vrai test, une fois que j'aurai vérifié si ce Resurgence mérite les heures que je m'apprête à lui donner.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

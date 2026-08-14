@@ -76,3 +76,5 @@ Un deckbuilder autobattler qui retire l'histoire pour prouver que la mécanique 
 ---
 
 *Testé sur PC.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

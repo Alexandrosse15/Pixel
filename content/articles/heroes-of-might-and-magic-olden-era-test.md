@@ -67,3 +67,5 @@ Olden Era est le Heroes qu'on attendait depuis vingt ans, pas encore tout à fai
 ---
 
 *Test réalisé sur la version Early Access (avril 2026). Le jeu est en développement actif avec une sortie complète prévue dans l'année.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

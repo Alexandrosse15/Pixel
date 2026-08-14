@@ -64,3 +64,5 @@ Un tower defense incrémental court mais jouissif, où la simulation physique tr
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

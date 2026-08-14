@@ -64,3 +64,5 @@ A pretty, nervous anime character-action blending Musou and Devil May Cry, but s
 ---
 
 *Tested on PC.*
+
+Your verdict differs from ours? [The Discord](https://discord.gg/473FE3dWvw) is the place to make your case.

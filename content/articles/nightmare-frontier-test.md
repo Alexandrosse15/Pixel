@@ -70,3 +70,5 @@ Un extraction looter passé au tour par tour tactique, mâtiné de Slay the Spir
 ---
 
 *Testé sur PC, en accès anticipé.*
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

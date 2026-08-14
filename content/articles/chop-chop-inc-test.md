@@ -39,3 +39,5 @@ Le second risque est celui de tout le genre : la boucle finit par se voir. Coupe
 Mais à ce tarif, avec cette bascule vers la production et cet humour de gamin qui construit un ordinateur en bois, le contrat est honnête. C'est le genre de jeu qu'on lance pour vingt minutes en attendant autre chose, et qu'on repose trois heures plus tard avec une usine à commodes.
 
 ![Chop Chop Inc., l expansion vers de nouvelles zones et essences](/images/chopchopinc/screenshot-3.webp)
+
+La discussion continue sur [notre Discord](https://discord.gg/473FE3dWvw), où l'on refait les notes bien plus longtemps que de raison.

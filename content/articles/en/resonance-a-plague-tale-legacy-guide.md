@@ -71,3 +71,5 @@ On 27 August 2026, on PC, PS5 and Xbox Series. This preparation guide is based o
 ---
 
 *Preparation guide based on the official information available before release.*
+
+Found something better? Come and improve this guide on [our Discord](https://discord.gg/473FE3dWvw).

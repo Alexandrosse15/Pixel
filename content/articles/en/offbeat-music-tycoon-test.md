@@ -64,3 +64,5 @@ A zany music tycoon that hides a real audio production software, where you compo
 ---
 
 *Tested on PC, in early access.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

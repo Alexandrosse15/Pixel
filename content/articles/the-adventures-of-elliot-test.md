@@ -86,3 +86,5 @@ L'héritage d'Octopath enfin libéré : The Adventures of Elliot troque le tour 
 ---
 
 *Testé sur PC.*
+
+Pas d'accord avec la note ? Venez nous le dire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on y défend nos avis en direct.

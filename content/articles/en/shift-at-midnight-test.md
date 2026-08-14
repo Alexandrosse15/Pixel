@@ -69,3 +69,5 @@ Shift at Midnight is the right example of what independent games still know how 
 The only real caveat: the nights were designed to be experienced with two or three players. Solo, the balance shows. Not a dealbreaker, but something to know before buying.
 
 One developer, one gas station, one night to survive. Sometimes that's all it takes.
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

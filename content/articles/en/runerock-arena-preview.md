@@ -40,3 +40,5 @@ The game launches today with no user reviews, hence the absence of a score here.
 A game for lovers of spreadsheets with a human face, then. Those players will stop seeing the graphics after ten minutes.
 
 ![Runerock Arena, managing gladiators and their careers](/images/runerockarena/screenshot-2.webp)
+
+Waiting for this one as well? Come and say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

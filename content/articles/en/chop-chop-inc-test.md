@@ -39,3 +39,5 @@ The second risk belongs to the whole genre: the loop eventually shows. Chop, pro
 But at that price, with that shift toward production and that schoolboy humour of building a computer out of wood, the contract is honest. This is the kind of game you launch for twenty minutes while waiting for something else, and put down three hours later with a dresser factory.
 
 ![Chop Chop Inc., expanding into new areas and tree types](/images/chopchopinc/screenshot-3.webp)
+
+Played it too? Tell us how it went on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

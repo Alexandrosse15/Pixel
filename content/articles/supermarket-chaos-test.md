@@ -70,3 +70,5 @@ Le geste le plus relaxant des sims de magasin, vendu tout seul et sans rien auto
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

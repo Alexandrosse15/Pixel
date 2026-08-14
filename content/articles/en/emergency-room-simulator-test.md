@@ -45,3 +45,5 @@ The second is the calibration of pressure. An emergency simulator must balance r
 One last thing, and it is only our view: if you grew up with that series, part of the pleasure will come from things a game cannot supply. The theme, the tracking shot down the corridor, people talking too fast. Do not ask a German simulator to give you your childhood back, ask it to teach you to read an ECG. On that ground, it looks like it knows what it is doing.
 
 ![Emergency Room Simulator, the time-critical emergencies and CPR](/images/emergencyroomsimulator/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

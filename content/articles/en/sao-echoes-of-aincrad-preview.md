@@ -64,3 +64,5 @@ None of which will stop us from telling you exactly what it's worth the moment w
 ---
 
 *Announced for July 10th 2026 on PS5, Xbox Series X|S and PC. No demo played.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

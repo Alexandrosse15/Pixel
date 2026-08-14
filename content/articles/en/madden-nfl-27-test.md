@@ -61,3 +61,5 @@ Second, the arithmetic. The advice long-time players keep repeating is always th
 The Persona Engine is the best reason in years to make an exception. Even so, seventy euros is a lot to pay for a jolt in a single mode.
 
 ![Madden NFL 27, Franchise mode and the Persona Engine](/images/maddennfl27/screenshot-3.webp)
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.

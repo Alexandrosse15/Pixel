@@ -54,3 +54,5 @@ The other point of vigilance: the price still hadn't been officially communicate
 The demo was solid. The adjustments communicated since are heading in the right direction. Lingua Technis as an option is exactly the decision that needed to be made. Playable Necrons with asymmetric design suggests a game that thought about replayability.
 
 May 21, the incense is prepared and the servo-arms are calibrated. We pray to the Machine Spirit that the soundtrack goes the distance.
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

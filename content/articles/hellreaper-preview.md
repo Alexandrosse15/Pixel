@@ -66,3 +66,5 @@ Ce qu'on sait : le studio a fait deux fois ce qu'il annonçait. L'annonce de HEL
 ![HELLREAPER, boss](/images/hellreaper/screenshot-7.webp)
 
 Awesome Games Studio ne prépare pas une sortie, ils préparent un argument. L'argument, pour l'instant, est convaincant. La réponse à la question "est-ce que le jeu complet tient ces promesses" arrive quand ils décident d'une date. En attendant, le wishlist s'impose.
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

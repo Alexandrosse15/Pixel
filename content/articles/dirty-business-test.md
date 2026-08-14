@@ -64,3 +64,5 @@ Un simulateur d'empire criminel visuellement ingrat, mais dont la boucle de logi
 ---
 
 *Testé sur PC.*
+
+Vous y avez joué aussi ? Racontez-nous ça sur [le Discord InsertCoins](https://discord.gg/473FE3dWvw).

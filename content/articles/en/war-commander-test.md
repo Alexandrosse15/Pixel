@@ -65,3 +65,5 @@ A free-to-play MMO-RTS from browser gaming, flattering the nostalgia of post-apo
 ---
 
 *Tested on PC, in early access.*
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

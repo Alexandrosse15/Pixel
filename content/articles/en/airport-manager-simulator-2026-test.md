@@ -50,3 +50,5 @@ No Steam reviews are available yet, so this score comes from our own playthrough
 A question for you: in a management game, do you prefer supervising from a dashboard, or getting your hands on the machinery?
 
 ![Airport Manager Simulator 2026, ground equipment and operations](/images/airportmanager2026/screenshot-2.webp)
+
+The discussion carries on over on [our Discord](https://discord.gg/473FE3dWvw), where we relitigate scores for far longer than is reasonable.

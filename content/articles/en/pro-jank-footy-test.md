@@ -51,3 +51,5 @@ The second point of caution is balance. A hundred and fifty power-ups is a lot, 
 What remains is the essential thing: this is exactly the sort of game you launch for four people on a couch without explaining anything to anyone, and which ten minutes later produces shouting and accusations. For a descendant of FIFA Street, that is the highest possible compliment. The game is available in French, which does no harm.
 
 ![Pro Jank Footy, the Season mode and deck building](/images/projankfooty/screenshot-3.webp)
+
+We debrief every release on [our Discord](https://discord.gg/473FE3dWvw). The door is open, and so is the argument.

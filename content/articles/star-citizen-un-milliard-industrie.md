@@ -88,3 +88,5 @@ La question n'est plus de savoir si Star Citizen est un scam. Ce n'en est pas un
 ![Star Citizen, paysage planétaire](/images/starcitizen/screenshot-5.webp)
 
 Star Citizen a récolté un milliard de dollars le 24 mai 2026, en vendant simultanément un vaisseau qui ne vole pas encore. C'est soit le rêve de tout créateur, soit le cauchemar de tout joueur qui veut juste un jeu fini. Probablement les deux en même temps. C'est pour ça que personne ne peut s'arrêter d'en parler.
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

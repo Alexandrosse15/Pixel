@@ -69,3 +69,5 @@ The demo made us want to see more. That's exactly what a demo is supposed to do.
 ---
 
 *Preview based on the available demo. Dead as Disco launches in Early Access on May 5, 2026.*
+
+The conversation continues on [our Discord](https://discord.gg/473FE3dWvw), between the believers and everyone else.

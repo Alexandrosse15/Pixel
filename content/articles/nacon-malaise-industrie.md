@@ -69,3 +69,5 @@ Car au fond, ce qui rend cette situation si triste, ce n'est pas l'échec en lui
 ---
 
 *Chronique rédigée à partir d'informations publiques et de témoignages recueillis dans le secteur. Nacon n'a pas été sollicité pour un droit de réponse dans le cadre de cet article.*
+
+Le sujet vous parle ? On en discute longuement sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

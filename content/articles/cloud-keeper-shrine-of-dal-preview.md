@@ -46,3 +46,5 @@ Mais on garde en tête les inconnues d'un Accès Anticipé signé par un dévelo
 ---
 
 *Preview rédigée avant la sortie en Accès Anticipé du 31 août 2026, sur la base des informations officielles et de la démo.*
+
+La discussion se poursuit sur [notre Discord](https://discord.gg/473FE3dWvw), entre ceux qui y croient et les autres.

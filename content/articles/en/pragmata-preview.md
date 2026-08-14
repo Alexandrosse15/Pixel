@@ -58,3 +58,5 @@ Whether the full game sustains that level throughout remains to be seen. But for
 ---
 
 *Impressions based on the "Sketchbook" demo, available for free on PS5 and Xbox*
+
+We watch the release calendar together on [our Discord](https://discord.gg/473FE3dWvw), come and watch with us.

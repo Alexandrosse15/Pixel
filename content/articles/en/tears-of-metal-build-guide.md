@@ -70,3 +70,5 @@ Split roles across up to four players, a durable hero holds the frontline while 
 ---
 
 *Guide written based on the PC version, in early access.*
+
+We help each other out on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), so do come and ask.

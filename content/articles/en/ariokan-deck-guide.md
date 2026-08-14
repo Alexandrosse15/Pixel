@@ -70,3 +70,5 @@ With the roguelite mode, ideal for learning the Gods, Factions and synergies wit
 ---
 
 *Guide written based on the PC version.*
+
+A question, a tip to share? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) is the place for it.

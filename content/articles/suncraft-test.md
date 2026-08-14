@@ -64,3 +64,5 @@ Un cozy game en pixel art qui marie l'esthétique rétro de Pokémon au gameplay
 ---
 
 *Testé sur PC.*
+
+On débriefe chaque sortie sur [notre Discord](https://discord.gg/473FE3dWvw). La porte est ouverte, les désaccords aussi.

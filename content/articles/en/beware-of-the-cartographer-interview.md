@@ -82,3 +82,5 @@ There remains the question that interests us: why should InsertCoins.press reade
 ---
 
 *Comments gathered from Florence Noé and Emmanuel Corno, cofounders of Tohu Bohu Games. Beware of the Cartographer is expected on PC.*
+
+Impatient, sceptical, or both? [The InsertCoins Discord](https://discord.gg/473FE3dWvw) exists for exactly that.

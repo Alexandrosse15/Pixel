@@ -50,3 +50,5 @@ Enfin, le piège classique du genre: la répétitivité. Des biomes non persista
 On attend. Pas les yeux fermés, mais on attend. Wildframe coche une case que personne n'a vraiment cochée: un jeu cosy de photographie animalière ancré dans un monde semi-fantastique, avec un scrapbook qui n'appartient qu'à vous. Le concept répond à un manque réel, l'équipe a déjà un jeu fini derrière elle et la lucidité de communiquer tôt plutôt que de surgir trois mois avant la sortie. La direction artistique faite main donne le ton.
 
 Il reste tout à démontrer côté gameplay, et le financement décidera si on tient une pépite ou une jolie promesse. Mais c'est exactement le genre de projet qu'on a envie de voir réussir. La vertical slice arrive, le trailer suivra. D'ici là, le bon réflexe tient en un mot: Wishlist. À suivre.
+
+Impatient, sceptique, ou les deux ? [Le Discord InsertCoins](https://discord.gg/473FE3dWvw) est fait pour ça.

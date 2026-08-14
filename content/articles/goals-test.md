@@ -59,3 +59,5 @@ Le revers, c'est la présentation. Visuellement, GOALS est générique, parfois 
 GOALS est la meilleure nouvelle qu'un amateur de jeu de foot pouvait espérer en 2026, et en même temps le plus frustrant des inachevés. Sur le pur ressenti, sur la réactivité, sur l'honnêteté du skill sans scripting, il met une fessée à EA FC et rappelle à quoi ressemblait le plaisir simple de jouer. Mais il arrive maigre: un seul mode au lancement, des coéquipiers à la ramasse, des passes trop assistées, une présentation sans saveur et une épée de Damoclès pay-to-win au-dessus de la tête. C'est un socle brillant qui demande encore des mois de travail et, surtout, de la retenue commerciale. Le potentiel est immense, la vigilance obligatoire. On valide l'espoir, on attend la suite au tournant.
 
 Un vrai vent d'espoir face à FIFA, à condition que GOALS résiste à la tentation de tout vendre.
+
+Votre verdict diffère du nôtre ? [Le Discord](https://discord.gg/473FE3dWvw) est l'endroit pour le défendre.

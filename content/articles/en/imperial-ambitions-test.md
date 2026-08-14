@@ -76,3 +76,5 @@ A 4X of dizzying depth with a nostalgic wargame scent, as rich as it is arid: a 
 ---
 
 *Tested on PC.*
+
+Disagree with the score? Come and tell us on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), where we defend our verdicts live.
