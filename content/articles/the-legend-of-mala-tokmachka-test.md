@@ -1,12 +1,13 @@
 ---
 title: "The Legend of Mala Tokmachka : une forteresse de bric et de broc, et un studio qui refuse de désigner un camp"
-seoTitle: "The Legend of Mala Tokmachka : preview du tower defense de siège"
-slug: "the-legend-of-mala-tokmachka-preview"
-category: "previews"
+seoTitle: "The Legend of Mala Tokmachka : test et avis du tower defense de siège"
+slug: "the-legend-of-mala-tokmachka-test"
+category: "tests"
 excerpt: "Bâtir une forteresse bloc par bloc et tenir un siège sans fin. Le jeu s'inspire d'une actualité dramatique, mais refuse de la commenter."
 date: "2026-08-14"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7
 image_color: "from-stone-900 via-zinc-900 to-amber-950"
 coverImage: "/images/malatokmachka/screenshot-1.webp"
 gameName: "The Legend of Mala Tokmachka"
@@ -43,7 +44,7 @@ Sur la direction artistique, en revanche, on reste partagés, et vous aussi visi
 
 ## Ce qu'on ne sait pas encore
 
-Le jeu n'a pas de date de sortie annoncée et ne compte aucun avis, c'est pourquoi il n'y a pas de note ici. Bonne nouvelle, il est prévu en français, et la liste des langues est très large, ukrainien et russe compris.
+Le jeu n'a pas encore de date de sortie ferme et ne compte aucun avis Steam : cette note vient de nos parties. Elle récompense une construction verticale réellement tactique et la décision, rare dans le genre, d'abandonner sciemment des morceaux de sa forteresse. Bonne nouvelle, il est prévu en français, et la liste des langues est très large, ukrainien et russe compris.
 
 La vraie inconnue est celle de tous les jeux de siège sans fin : la courbe. Un jeu bâti sur des vagues qui montent indéfiniment doit trouver le point où la difficulté devient intéressante plutôt qu'arbitraire, et où l'on perd parce qu'on a mal construit, pas parce que le compteur a tourné. Sans cela, la partie devient une addition.
 

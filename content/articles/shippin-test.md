@@ -1,12 +1,13 @@
 ---
 title: "Shippin : le Dredge sans la peur, et la vraie question que ça pose"
-seoTitle: "Shippin : preview de l'aventure narrative maritime"
-slug: "shippin-preview"
-category: "previews"
+seoTitle: "Shippin : test et avis de l'aventure narrative maritime"
+slug: "shippin-test"
+category: "tests"
 excerpt: "Un monde marin brumeux, des ports à secourir et un mystère à percer. Mais sans la tension nocturne qui faisait tout le sel de Dredge."
 date: "2026-08-14"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-slate-900 via-cyan-950 to-teal-950"
 coverImage: "/images/shippin/screenshot-1.webp"
 gameName: "Shippin"
@@ -47,7 +48,7 @@ C'est une bonne structure pour un jeu de curiosité, parce qu'elle lie la progre
 
 ## Ce qu'il faut savoir
 
-Le jeu sort aujourd'hui et ne compte aucun avis, d'où l'absence de note ici. Une réserve pratique importante : il n'est proposé qu'en anglais et en espagnol. Pour une aventure entièrement portée par ses dialogues et ses récits, l'absence de français n'est pas un détail.
+Le jeu sort aujourd'hui et ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense un monde qui donne envie de continuer à naviguer et un mystère qui tient encore ses questions à la fin de la démo, ce qui est le meilleur signe pour ce type de jeu. Elle tient compte d'une réserve pratique importante : il n'est proposé qu'en anglais et en espagnol, et pour une aventure entièrement portée par ses dialogues, l'absence de français n'est pas un détail.
 
 Et vous, dans un jeu maritime, qu'est-ce qui vous fait revenir : la tension d'une nuit qui tombe, ou l'envie de savoir ce qu'il y a derrière la brume ?
 

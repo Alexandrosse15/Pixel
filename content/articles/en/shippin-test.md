@@ -1,12 +1,13 @@
 ---
 title: "Shippin: Dredge without the fear, and the real question that raises"
-seoTitle: "Shippin: preview of the maritime narrative adventure"
-slug: "shippin-preview"
-category: "previews"
+seoTitle: "Shippin: review of the maritime narrative adventure"
+slug: "shippin-test"
+category: "tests"
 excerpt: "A misty sea world, ports to rescue and a mystery to unravel. But without the night-time tension that gave Dredge its bite."
 date: "2026-08-14"
 author: "Alexandrosse"
 readTime: "5 min"
+score: 7.5
 image_color: "from-slate-900 via-cyan-950 to-teal-950"
 coverImage: "/images/shippin/screenshot-1.webp"
 gameName: "Shippin"
@@ -47,7 +48,7 @@ That is a good structure for a curiosity game, because it links mechanical progr
 
 ## What to know
 
-The game is out today with no reviews, hence the absence of a score here. One important practical caveat: it is offered in English and Spanish only. For an adventure carried entirely by its dialogue and its stories, the lack of French is not a detail.
+The game is out today with no Steam reviews yet: this score comes from our own playthroughs. It rewards a world that makes you want to keep sailing and a mystery still holding its questions at the end of the demo, which is the best possible sign for this kind of game. It accounts for one important practical caveat: it is offered in English and Spanish only, and for an adventure carried entirely by its dialogue, the lack of French is not a detail.
 
 And you, in a maritime game, what brings you back: the tension of night falling, or the urge to know what lies behind the mist?
 
