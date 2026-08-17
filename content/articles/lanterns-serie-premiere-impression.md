@@ -8,6 +8,7 @@ date: "2026-08-17"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-emerald-900 via-green-950 to-zinc-950"
+coverImage: "/images/lanterns/screenshot-1.webp"
 gameName: "Lanterns"
 featured: false
 ---
@@ -15,6 +16,8 @@ featured: false
 Il faut d'abord régler une question de casting, parce que c'est elle qui décide de tout dans une adaptation de super-héros. Et sur ce point, la série a déjà gagné.
 
 Lanterns a été lancée le 16 août 2026 sur HBO Max, à raison d'un épisode par semaine le dimanche, pour une première saison de huit épisodes. Un seul est disponible à l'heure où j'écris, ce qui veut dire que cet article est une première impression et pas un verdict. Je n'y mettrai donc pas de note : juger huit heures de série sur une, c'est exactement le genre de raccourci qu'on reproche aux autres.
+
+![Lanterns, Kyle Chandler dans le role de Hal Jordan](/images/lanterns/screenshot-1.webp)
 
 ## Aaron Pierre, découvert par lassitude d'algorithme
 
@@ -27,6 +30,8 @@ Ce que j'avais pris pour une chorégraphie exceptionnelle était donc exactement
 Le scénario, en revanche, m'avait paru moyen. J'étais visiblement minoritaire : le film affiche 95 pour cent sur Rotten Tomatoes, ce qui en fait l'un des thrillers les mieux reçus de son année. Sa lenteur volontaire m'a sans doute moins parlé qu'aux autres, mais la critique a suivi Saulnier sans réserve.
 
 Ce qui compte pour Lanterns, c'est que ce rôle avait déjà démontré ce que la série exploite maintenant : Pierre tient l'écran sans forcer, avec une présence physique qui n'a pas besoin de bruit. Pour John Stewart, ancien Marine lui aussi dans les comics, c'était presque un casting par déduction.
+
+![Lanterns, Aaron Pierre dans le role de John Stewart](/images/lanterns/screenshot-2.webp)
 
 ## Kyle Chandler, et la libération de Ryan Reynolds
 
@@ -50,6 +55,8 @@ Le trio créatif explique beaucoup. **Chris Mundy**, qui tient le rôle de showr
 
 L'épisode pilote pose son intrigue avec méthode plutôt qu'avec du spectacle, et la scène d'interrogatoire de Hal Jordan est le meilleur moment de l'heure. Elle fonctionne parce qu'elle ne repose sur aucun pouvoir. Deux hommes, une table, et un rapport de force qui se renverse par la parole. Une série de super-héros capable de tenir sa meilleure scène sans un seul effet spécial annonce en général quelque chose de solide.
 
+![Lanterns, la sherif du comte et l ancrage rural de l enquete](/images/lanterns/screenshot-3.webp)
+
 ## Le reproche, et il est fondé
 
 Il y a des facilités d'écriture, et je vais les formuler sans rien dévoiler.
@@ -60,6 +67,8 @@ Et c'est d'autant plus dommage que le reste de l'épisode fait exactement l'inve
 
 Ce sont des cas rares. Mais sur huit épisodes, ils indiqueront vite si l'écriture tient sa ligne ou si elle cède aux réflexes du genre quand l'intrigue doit avancer.
 
+![Lanterns, Hal Jordan et John Stewart au bar](/images/lanterns/screenshot-4.webp)
+
 ## Ce que dit la critique
 
 Les chiffres confirment l'impression générale : la série affiche **90 pour cent sur Rotten Tomatoes pour une quarantaine de critiques**, avec le label Certified Fresh, ce qui en fait l'un des projets les mieux reçus du nouvel univers DC.
@@ -67,6 +76,8 @@ Les chiffres confirment l'impression générale : la série affiche **90 pour ce
 Les louanges portent surtout sur deux points : l'écriture du trio Mundy, Lindelof et King, et l'interprétation. Une formule revient souvent, et elle résume bien la chose : l'approche ancrée et âpre paie, et elle offre à l'univers DC une victoire dont il avait besoin.
 
 C'est un point de contexte important. Le nouvel univers DC a besoin de démontrer qu'il peut produire autre chose que des films de lancement, et une série adulte de huit épisodes qui fonctionne sur son écriture plutôt que sur ses effets est probablement la meilleure preuve possible.
+
+![Lanterns, le duo en pause pendant l enquete](/images/lanterns/screenshot-5.webp)
 
 ## Notre position après un épisode
 

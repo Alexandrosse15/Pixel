@@ -8,6 +8,7 @@ date: "2026-08-17"
 author: "Alexandrosse"
 readTime: "9 min"
 image_color: "from-emerald-900 via-green-950 to-zinc-950"
+coverImage: "/images/lanterns/screenshot-1.webp"
 gameName: "Lanterns"
 featured: false
 ---
@@ -15,6 +16,8 @@ featured: false
 There is a casting question to settle first, because it decides everything in a superhero adaptation. And on that point, the series has already won.
 
 Lanterns launched on 16 August 2026 on HBO Max, one episode a week on Sundays, for a first season of eight episodes. Only one is available as I write, which means this article is a first impression rather than a verdict. So there is no score attached: judging eight hours of television on one is exactly the shortcut we criticise in others.
+
+![Lanterns, Kyle Chandler as Hal Jordan](/images/lanterns/screenshot-1.webp)
 
 ## Aaron Pierre, found through algorithm fatigue
 
@@ -27,6 +30,8 @@ So what I took for exceptional choreography was precisely the opposite: it was t
 The script, on the other hand, struck me as ordinary. I was evidently in the minority: the film holds 95 percent on Rotten Tomatoes, making it one of the best received thrillers of its year. Its deliberate slowness spoke to me less than to others, but critics followed Saulnier without reservation.
 
 What matters for Lanterns is that the role had already demonstrated what the series now exploits: Pierre holds the screen without forcing, with a physical presence that needs no noise. For John Stewart, himself a former Marine in the comics, it was casting almost by deduction.
+
+![Lanterns, Aaron Pierre as John Stewart](/images/lanterns/screenshot-2.webp)
 
 ## Kyle Chandler, and the liberation of Ryan Reynolds
 
@@ -50,6 +55,8 @@ The creative trio explains a lot. **Chris Mundy**, serving as showrunner, comes 
 
 The pilot lays out its plot methodically rather than spectacularly, and the Hal Jordan interrogation scene is the best moment of the hour. It works because it rests on no power at all. Two men, a table, and a balance of force that reverses through speech. A superhero series capable of putting its best scene on screen without a single special effect usually signals something solid.
 
+![Lanterns, the county sheriff and the rural anchoring of the investigation](/images/lanterns/screenshot-3.webp)
+
 ## The complaint, and it is fair
 
 There are writing conveniences here, and I will put them without giving anything away.
@@ -60,6 +67,8 @@ And it is all the more a shame because the rest of the episode does the exact op
 
 They are rare cases. But across eight episodes they will quickly show whether the writing holds its line or gives in to genre reflexes whenever the plot has to move.
 
+![Lanterns, Hal Jordan and John Stewart at the bar](/images/lanterns/screenshot-4.webp)
+
 ## What the critics say
 
 The numbers confirm the general impression: the series holds **90 percent on Rotten Tomatoes across around forty critics**, with the Certified Fresh label, making it one of the best received projects in the new DC universe.
@@ -67,6 +76,8 @@ The numbers confirm the general impression: the series holds **90 percent on Rot
 The praise centres on two things: the writing by Mundy, Lindelof and King, and the performances. One formulation recurs and sums it up well: the grounded and gritty approach pays dividends, and it hands the DC universe a win it needed.
 
 That is important context. The new DC universe needs to demonstrate it can produce something other than launch films, and an adult eight-episode series that works on its writing rather than its effects is probably the best possible proof.
+
+![Lanterns, the pair taking a pause during the investigation](/images/lanterns/screenshot-5.webp)
 
 ## Where we stand after one episode
 

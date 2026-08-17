@@ -33,3 +33,6 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Captures sources des articles, converties en webp
+public/images/**/Capture d’écran*.png
