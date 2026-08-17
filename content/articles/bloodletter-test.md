@@ -14,13 +14,13 @@ gameName: "BLOODLETTER"
 featured: false
 ---
 
-Tu poses la question du jeu de mots, alors réglons-la tout de suite, parce que la réponse est plus intéressante que prévu.
+Il y a une question de jeu de mots à régler tout de suite, parce que la réponse est plus intéressante que prévu.
 
 En anglais, non : **bloodletter** est un mot technique parfaitement sérieux, celui qui pratique la saignée. Aucune malice, c'est le métier. En français en revanche, la traduction naturelle ouvre une porte que l'anglais n'a pas : le **saigneur** et le **seigneur** sont homophones. Or ce jeu parle exactement de ça, d'un homme qui tient un rasoir et un pouvoir sur la vie des autres. Le studio ne l'a probablement pas cherché, mais notre langue lui a offert un cadeau.
 
 ![BLOODLETTER, l'atmosphere de l'echoppe du barbier-chirurgien](/images/bloodletter/screenshot-1.webp)
 
-## Tu as raison sur la direction artistique
+## La direction artistique, d'abord
 
 C'est la première chose qui frappe et c'est la meilleure du jeu. Le studio allemand ALDAMAMI GAMES a bâti son identité visuelle sur le tarot, et pas comme un habillage : les cartes ont des illustrations, des titres et des incantations qui ressemblent vraiment à des lames de tarot médiéval, avec cette imagerie de superstition, de remèdes douteux et de corps souffrant.
 

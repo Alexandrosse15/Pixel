@@ -19,7 +19,7 @@ Alors quand un studio annonce un jeu inspiré de Morrowind, il déclenche chez n
 
 ![The Lantern of the Laughless Saint, l ile et la Tour silencieuse](/images/lanternlaughlesssaint/screenshot-2.webp)
 
-## Le tacle, puisque tu le demandes
+## Le tacle, puisqu'il faut bien le poser
 
 Commençons par ce que le studio NerveLabs a lui-même mis en avant. Sa bande-annonce s'intitule littéralement **"F you Todd"** et s'ouvre sur une pique à Todd Howard : Elder Scrolls 6 met tellement de temps qu'on fait le nôtre. Suit une liste d'arguments empruntés au folklore de Morrowind, sorts de saut absurdes, sorciers-champignons, gorilles-vautours.
 

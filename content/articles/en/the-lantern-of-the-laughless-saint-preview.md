@@ -19,7 +19,7 @@ So when a studio announces a game inspired by Morrowind, it triggers an immediat
 
 ![The Lantern of the Laughless Saint, the island and the silent Tower](/images/lanternlaughlesssaint/screenshot-2.webp)
 
-## The dig, since one was requested
+## The dig, since it has to be said
 
 Let us start with what NerveLabs put forward itself. Its trailer is literally titled **"F you Todd"** and opens with a jab at Todd Howard: Elder Scrolls 6 is taking so long that we are just making our own. Then comes a list of arguments borrowed from Morrowind folklore, absurd jumping spells, fungus wizards, vulture gorillas.
 

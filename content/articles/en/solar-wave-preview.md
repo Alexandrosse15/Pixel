@@ -13,13 +13,13 @@ gameName: "Solar Wave"
 featured: false
 ---
 
-The verdict around here was blunt: something is missing, it is a lesser Stellaris, we will stick with Stellaris. I was asked to check, so I checked, and the check comes back mixed.
+My first reaction was blunt: something is missing, it is a lesser Stellaris, we may as well stick with Stellaris. Then I checked, and the check comes back mixed.
 
-On one point that judgement is right beyond argument. On the other, I think the game deserves a hearing for what it is trying to do, because it is not playing in the same place.
+On one point that reaction is right beyond argument. On the other, I think the game deserves a hearing for what it is trying to do, because it is not playing in the same place.
 
 ![Solar Wave, the galactic map and the Empire's borders](/images/solarwave/screenshot-1.webp)
 
-## Where the criticism lands, and it lands hard
+## Where the criticism is unanswerable
 
 Solar Wave launches today, 17 August 2026, in early access, developed by SavGus Studio with Andgo Games publishing.
 
@@ -29,7 +29,7 @@ And on the raw comparison, the gap is obviously enormous. Stellaris is Paradox, 
 
 What is missing, to borrow the word, is actually identifiable on the store page: there is no mention of diplomacy, species, domestic politics or government. The game talks about economy, fleets and battles. A 4X that does not talk about relations between powers gives up a good half of the genre.
 
-## Where the game is not doing what you think
+## Where the game is not doing what it seems
 
 The developer names two inspirations, and it is the second that counts: Stellaris **and Majesty**.
 
@@ -45,13 +45,13 @@ The rest follows the same logic. An interconnected economy where colonies extrac
 
 ## The real risk, and it is serious
 
-Here is where I meet that first instinct, by another road.
+Here is where I come back to that first reaction, by another road.
 
 Indirect control has a structural flaw: **it can remove the chore and the decision at the same time**. If your fleets handle everything, your role shrinks to ticking priorities and watching a map animate. The pleasure of strategy comes from making trade-offs under constraint, and a trade-off assumes you can get it wrong. A system that plays for you does not let you lose, so it does not let you win either.
 
 Majesty dodged that trap because its heroes were stubborn, greedy and occasionally stupid: they disobeyed you, and that was the salt of the game. The question I would put to the developer is exactly that one. Are your fleets obedient and competent, in which case you have built a luxury screensaver? Or do they have preferences, mistakes and moments of cowardice, in which case you have a real game?
 
-That is probably the missing something that got sensed without being named. The trailer shows scale, fleets and explosions. It does not show what the player decides.
+That is probably the missing something one senses without managing to name it. The trailer shows scale, fleets and explosions. It does not show what the player decides.
 
 ## How to form an opinion without spending anything
 
