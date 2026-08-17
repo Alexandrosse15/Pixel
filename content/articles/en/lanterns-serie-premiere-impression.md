@@ -16,21 +16,21 @@ There is a casting question to settle first, because it decides everything in a 
 
 Lanterns launched on 16 August 2026 on HBO Max, one episode a week on Sundays, for a first season of eight episodes. Only one is available as I write, which means this article is a first impression rather than a verdict. So there is no score attached: judging eight hours of television on one is exactly the shortcut we criticise in others.
 
-## Aaron Pierre, and a friendly correction
+## Aaron Pierre, found through algorithm fatigue
 
-The memory is right, but it belongs to a film rather than a series. What Netflix kept pushing at you was **Rebel Ridge**, released on 6 September 2024, written and directed by Jeremy Saulnier. Aaron Pierre plays Terry Richmond, a former Marine who comes to post his cousin's bail and has the money seized by a small town's corrupt police under civil forfeiture.
+I had seen him before, and not in the most glorious way. Netflix had been pushing **Rebel Ridge** at me for weeks, the thumbnail did nothing for me, and I eventually gave in out of weariness rather than curiosity. Released on 6 September 2024, written and directed by Jeremy Saulnier. Aaron Pierre plays Terry Richmond, a former Marine who comes to post his cousin's bail and has the money seized by a small town's corrupt police under civil forfeiture.
 
-And here is the detail that makes that impression even sharper than it seems. The choreography struck you as extraordinary. In reality, Saulnier spent the shoot **fighting against choreography**. He has explained that he studied a great many real fights and pushed his stunt team to keep it sloppy, to refuse the stylish move, to capture the awkwardness of real combat. Pierre trained hard and performed much of his own fight work.
+What floored me was the fighting. And I have since learned a detail that makes it far more interesting: Saulnier spent the shoot **fighting against choreography**. He has explained that he studied a great many real fights and pushed his stunt team to keep it sloppy, to refuse the stylish move, to capture the awkwardness of real combat. Pierre trained hard and performed much of his own fight work.
 
-So what registered as exceptional choreography is precisely the opposite: it was the absence of visible choreography that made those scenes so physical. It is a lesson in staging action that plenty of blockbusters would do well to study.
+So what I took for exceptional choreography was precisely the opposite: it was the absence of visible choreography that made those scenes so physical. It is a lesson in staging action that plenty of blockbusters would do well to study.
 
-One nuance on the memory: the script was not mediocre to everyone. The film holds 95 percent on Rotten Tomatoes, making it one of the best received thrillers of its year. Its deliberate slowness may not have landed for you, but critics followed Saulnier without reservation.
+The script, on the other hand, struck me as ordinary. I was evidently in the minority: the film holds 95 percent on Rotten Tomatoes, making it one of the best received thrillers of its year. Its deliberate slowness spoke to me less than to others, but critics followed Saulnier without reservation.
 
 What matters for Lanterns is that the role had already demonstrated what the series now exploits: Pierre holds the screen without forcing, with a physical presence that needs no noise. For John Stewart, himself a former Marine in the comics, it was casting almost by deduction.
 
 ## Kyle Chandler, and the liberation of Ryan Reynolds
 
-The joke about Aragorn releasing the Army of the Dead from their oath is a good one, and it is truer than a simple gag.
+I keep thinking of the scene in The Lord of the Rings where Aragorn releases the Army of the Dead from their oath. And it is not just a gag.
 
 Because the 2011 Green Lantern did not merely fail, it haunted everybody for fifteen years. Ryan Reynolds himself turned it into a running joke, up to mocking it head-on in Deadpool. That film became the proof by absurdity that nobody knew how to adapt this character, and it weighed on every subsequent attempt.
 
@@ -48,17 +48,17 @@ The structure points the same way, and this is where the writing shows. The seas
 
 The creative trio explains a lot. **Chris Mundy**, serving as showrunner, comes from Ozark, so from provincial American darkness. **Damon Lindelof** comes from Lost and above all from Watchmen, the best thing ever done with superheroes on television. And **Tom King** is a comics writer whose obsession is precisely the psychological wear on heroes. Those three were never going to produce entertainment in tights.
 
-You are right about the pilot: it lays out the plot methodically rather than spectacularly, and the Hal Jordan interrogation scene is the best moment of the hour. It works because it rests on no power at all. Two men, a table, and a balance of force that reverses through speech. A superhero series capable of putting its best scene on screen without a single special effect usually signals something solid.
+The pilot lays out its plot methodically rather than spectacularly, and the Hal Jordan interrogation scene is the best moment of the hour. It works because it rests on no power at all. Two men, a table, and a balance of force that reverses through speech. A superhero series capable of putting its best scene on screen without a single special effect usually signals something solid.
 
 ## The complaint, and it is fair
 
-The observation about writing conveniences is right, and I will put it without giving anything away.
+There are writing conveniences here, and I will put them without giving anything away.
 
 There are one or two moments in this first episode where the machinery of the story becomes visible. A character appears, the staging lingers a second too long, the music leans in slightly, and the seasoned viewer understands immediately that this person will not stay decorative. It is not a serious fault, it is a visible seam.
 
 And it is all the more a shame because the rest of the episode does the exact opposite: it lets details lie without underlining them, it trusts the viewer, it builds its atmosphere through silence and landscape rather than explanation. When a series can do that, those little spotlight moments stand out.
 
-They are rare cases, as you said yourself. But across eight episodes they will quickly show whether the writing holds its line or gives in to genre reflexes whenever the plot has to move.
+They are rare cases. But across eight episodes they will quickly show whether the writing holds its line or gives in to genre reflexes whenever the plot has to move.
 
 ## What the critics say
 

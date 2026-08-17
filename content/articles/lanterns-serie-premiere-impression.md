@@ -16,21 +16,21 @@ Il faut d'abord régler une question de casting, parce que c'est elle qui décid
 
 Lanterns a été lancée le 16 août 2026 sur HBO Max, à raison d'un épisode par semaine le dimanche, pour une première saison de huit épisodes. Un seul est disponible à l'heure où j'écris, ce qui veut dire que cet article est une première impression et pas un verdict. Je n'y mettrai donc pas de note : juger huit heures de série sur une, c'est exactement le genre de raccourci qu'on reproche aux autres.
 
-## Aaron Pierre, et une petite correction amicale
+## Aaron Pierre, découvert par lassitude d'algorithme
 
-Ton souvenir est le bon, mais il porte sur un film et pas sur une série. Ce que Netflix te poussait sans relâche, c'était **Rebel Ridge**, sorti le 6 septembre 2024, écrit et réalisé par Jeremy Saulnier. Aaron Pierre y joue Terry Richmond, un ancien Marine qui vient payer la caution de son cousin et se fait confisquer l'argent par la police corrompue d'une petite ville, au titre de la confiscation civile.
+Je l'avais déjà vu, et pas de la façon la plus glorieuse. Netflix me poussait **Rebel Ridge** depuis des semaines, la vignette ne me disait rien du tout, et j'ai fini par céder par dépit plus que par curiosité. Sorti le 6 septembre 2024, écrit et réalisé par Jeremy Saulnier. Aaron Pierre y joue Terry Richmond, un ancien Marine qui vient payer la caution de son cousin et se fait confisquer l'argent par la police corrompue d'une petite ville, au titre de la confiscation civile.
 
-Et voilà le détail qui rend ton impression encore plus juste que tu ne le crois. Tu as trouvé la chorégraphie dingue. En réalité, Saulnier a passé le tournage à **lutter contre la chorégraphie**. Il a expliqué avoir étudié quantité de vraies bagarres et poussé son équipe de cascades à rester maladroite, à refuser le geste stylé, pour capturer la gaucherie des combats réels. Aaron Pierre s'est entraîné dur et a exécuté lui-même une grande partie de ses scènes.
+Ce qui m'a scotché, ce sont les combats. Et j'ai appris depuis un détail qui rend la chose bien plus intéressante : Saulnier a passé le tournage à **lutter contre la chorégraphie**. Il a expliqué avoir étudié quantité de vraies bagarres et poussé son équipe de cascades à rester maladroite, à refuser le geste stylé, pour capturer la gaucherie des combats réels. Aaron Pierre s'est entraîné dur et a exécuté lui-même une grande partie de ses scènes.
 
-Ce que tu as ressenti comme une chorégraphie exceptionnelle est donc précisément l'inverse : c'est l'absence de chorégraphie apparente qui rendait ces scènes si physiques. C'est une leçon de mise en scène d'action que beaucoup de blockbusters feraient bien de méditer.
+Ce que j'avais pris pour une chorégraphie exceptionnelle était donc exactement l'inverse : c'est l'absence de chorégraphie apparente qui rendait ces scènes si physiques. C'est une leçon de mise en scène d'action que beaucoup de blockbusters feraient bien de méditer.
 
-Une seule nuance sur ton souvenir : le scénario n'était pas moyen pour tout le monde. Le film affiche 95 pour cent sur Rotten Tomatoes, ce qui en fait l'un des thrillers les mieux reçus de son année. Tu as peut-être été moins sensible à sa lenteur volontaire, mais la critique a suivi Saulnier sans réserve.
+Le scénario, en revanche, m'avait paru moyen. J'étais visiblement minoritaire : le film affiche 95 pour cent sur Rotten Tomatoes, ce qui en fait l'un des thrillers les mieux reçus de son année. Sa lenteur volontaire m'a sans doute moins parlé qu'aux autres, mais la critique a suivi Saulnier sans réserve.
 
 Ce qui compte pour Lanterns, c'est que ce rôle avait déjà démontré ce que la série exploite maintenant : Pierre tient l'écran sans forcer, avec une présence physique qui n'a pas besoin de bruit. Pour John Stewart, ancien Marine lui aussi dans les comics, c'était presque un casting par déduction.
 
 ## Kyle Chandler, et la libération de Ryan Reynolds
 
-Ta blague sur Aragorn libérant l'armée des morts de son serment est excellente, et elle est plus juste qu'une simple vanne.
+J'ai en tête la scène du Seigneur des Anneaux où Aragorn libère l'armée des morts de son serment. Et ce n'est pas qu'une vanne.
 
 Parce que le Green Lantern de 2011 n'a pas seulement échoué, il a hanté tout le monde pendant quinze ans. Ryan Reynolds lui-même en a fait un gag récurrent, jusqu'à s'en moquer frontalement dans Deadpool. Ce film est devenu la preuve par l'absurde qu'on ne savait pas adapter ce personnage, et il a pesé sur chaque tentative suivante.
 
@@ -48,17 +48,17 @@ La structure va dans le même sens, et c'est là que le travail d'écriture se v
 
 Le trio créatif explique beaucoup. **Chris Mundy**, qui tient le rôle de showrunner, vient d'Ozark, donc de la noirceur américaine provinciale. **Damon Lindelof** vient de Lost et surtout de Watchmen, la meilleure chose jamais faite avec des super-héros à la télévision. Et **Tom King** est un auteur de comics dont l'obsession est précisément l'usure psychologique des héros. Ces trois-là ne pouvaient pas produire un divertissement en collants.
 
-Tu as raison sur l'épisode pilote : il pose l'intrigue avec méthode plutôt qu'avec du spectacle, et la scène d'interrogatoire de Hal Jordan est le meilleur moment de l'heure. Elle fonctionne parce qu'elle ne repose sur aucun pouvoir. Deux hommes, une table, et un rapport de force qui se renverse par la parole. Une série de super-héros capable de tenir sa meilleure scène sans un seul effet spécial annonce en général quelque chose de solide.
+L'épisode pilote pose son intrigue avec méthode plutôt qu'avec du spectacle, et la scène d'interrogatoire de Hal Jordan est le meilleur moment de l'heure. Elle fonctionne parce qu'elle ne repose sur aucun pouvoir. Deux hommes, une table, et un rapport de force qui se renverse par la parole. Une série de super-héros capable de tenir sa meilleure scène sans un seul effet spécial annonce en général quelque chose de solide.
 
 ## Le reproche, et il est fondé
 
-Ton observation sur les facilités d'écriture est juste, et je vais la formuler sans rien dévoiler.
+Il y a des facilités d'écriture, et je vais les formuler sans rien dévoiler.
 
 Il y a dans ce premier épisode un ou deux moments où la mécanique du récit devient visible. Un personnage apparaît, la mise en scène s'attarde d'une seconde de trop, la musique appuie légèrement, et le spectateur habitué comprend immédiatement que cette personne ne restera pas décorative. Ce n'est pas une faute grave, c'est une couture apparente.
 
 Et c'est d'autant plus dommage que le reste de l'épisode fait exactement l'inverse : il laisse traîner des détails sans les souligner, il fait confiance au spectateur, il installe son ambiance par le silence et les paysages plutôt que par l'explication. Quand une série sait faire ça, ces petits coups de projecteur détonnent.
 
-Ce sont des cas rares, tu l'as dit toi-même. Mais sur huit épisodes, ils indiqueront vite si l'écriture tient sa ligne ou si elle cède aux réflexes du genre quand l'intrigue doit avancer.
+Ce sont des cas rares. Mais sur huit épisodes, ils indiqueront vite si l'écriture tient sa ligne ou si elle cède aux réflexes du genre quand l'intrigue doit avancer.
 
 ## Ce que dit la critique
 
