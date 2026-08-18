@@ -20,15 +20,15 @@ You could not ask for a better pairing, and chance arranged it.
 
 ![TFC2, a Mesopotamian city in pixel art during the collapse](/images/tfc2/screenshot-1.webp)
 
-## Sierra, Pharaoh, and a feeling we thought was gone
+## The ghost of Sierra
 
-The association with Pharaoh is fair, and better founded than mere memory: Pharaoh, released in 1999, was developed by Impressions Games and published by **Sierra**. The house that defined a whole way of making games about antiquity, with that obsession for detail, those little figures going about their business, those production chains you watch turn like an aquarium.
+Pharaoh comes to mind within five minutes. Released in 1999 by Impressions Games and published by **Sierra**, it defined a whole way of making games about antiquity: the obsession with detail, the little figures going about their business, the production chains you watch turn like an aquarium.
 
-Sierra has not existed in that form for a long time, and the absence still shows.
+Sierra has not existed in that form for twenty years. The absence still shows, and TFC2 scratches at exactly that spot.
 
-The Settlers comparison holds too, for a precise reason: what these games share is the pleasure of watching. You are not only optimising, you are watching a society function, and the legibility of the animation does half the work. TFC2's pixel art is superb and it serves exactly that.
+There is Settlers in here too, for a precise reason: the pleasure is not only in optimising, it is in watching a society function. Legibility of animation does half the work in this kind of game, and TFC2's pixel art is superb for it.
 
-A delicious detail in passing: the publisher is **MicroProse**. The label of Sid Meier and Bill Stealey, resurrected, putting out a pixel-art ancient RTS. For anyone who lived through the nineties, the alignment is quietly moving.
+One last wink from history: the publisher is **MicroProse**. The label of Sid Meier and Bill Stealey, resurrected, putting out a pixel-art ancient RTS. For anyone who lived through the nineties, the alignment is quietly moving.
 
 ## The good idea: food as the central resource
 
@@ -74,7 +74,7 @@ The rest of the content covers scenario missions, a skirmish mode, and multiplay
 
 ## What to know before buying
 
-The game launches today, 18 August 2026, in **early access**, and it has no Steam reviews as I write.
+The game launches today, 18 August 2026, in **early access**.
 
 Two points of caution. It is available **in English only** at launch, even though the studio has announced later localisations: for an RTS betting everything on its narrative campaign, that is a real barrier. And Wield Interactive is a very small team, which makes the narrative ambition as admirable as it is risky.
 

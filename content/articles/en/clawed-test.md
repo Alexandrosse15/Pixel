@@ -46,8 +46,7 @@ The unknowns belong to the genre. A survival horror rests entirely on tension, a
 
 Still, the setting is there, and an abandoned park is one of the best playgrounds you can hand this genre. For a Jurassic Park fan the pull will be hard to resist. We simply advise waiting for the first reports before venturing into the enclosures.
 
-
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It rewards an immediately effective setting and atmosphere, plus a promising Survival Mode, while accounting for the lack of a French version and the genre's major unknown, predator behaviour.
+It rewards an immediately effective setting and atmosphere, plus a promising Survival Mode, while accounting for the lack of a French version and the genre's major unknown, predator behaviour.
 
 Tell us: in a survival horror, do you prefer a scripted monster you learn to read, or an unpredictable creature?
 

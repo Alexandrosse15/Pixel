@@ -14,15 +14,15 @@ gameName: "Stars Reach"
 featured: false
 ---
 
-First correction, and it is not trivial: the game is called **Stars Reach**, plural. Second, more awkward for it: the resemblance to No Man's Sky really does leap out. Same colourful planets, same first-person view, same resource gathering, same feeling of dropping onto an unknown rock.
+The resemblance to No Man's Sky leaps out within the first minute. Same colourful planets, same first-person view, same resource gathering, same feeling of dropping onto an unknown rock. Everyone will make that connection, and everyone will be half wrong.
 
-But after spending time with it and looking closely at who makes it, I have to say we picked the wrong comparison. Not entirely, but enough to change the verdict.
+Because behind the façade sits a game of an entirely different genre, made by the man who invented that genre thirty years ago.
 
 ![Stars Reach, a planet and its ecosystem simulation](/images/starsreach/screenshot-2.webp)
 
 ## What is true in the comparison
 
-Let us start with what cannot be argued, because skipping it would be dishonest.
+Let us start with what cannot be argued.
 
 **The universe is smaller.** Markedly. No Man's Sky offers 18.4 quintillion algorithmically generated planets, a figure so absurd nobody will ever see a meaningful fraction of it. Stars Reach is not in that category and does not claim to be.
 
@@ -30,7 +30,7 @@ Let us start with what cannot be argued, because skipping it would be dishonest.
 
 Against that, Stars Reach arrives today in paid early access, day one, with no history. The content comparison is lost before it starts, it will stay lost for a long time, and you should know that before buying.
 
-So on the raw observation, the first impression was right: smaller, thinner, pricier for what you get immediately.
+So on the raw observation: smaller, thinner, pricier for what you get immediately.
 
 ## What is false, and it changes everything
 
@@ -46,7 +46,7 @@ There is the trade-off, and it is logical: you cannot have quintillions of plane
 
 ## What Stars Reach genuinely brings
 
-That is the real question, so let us answer it point by point. There are five things here No Man's Sky does not have, and not through laziness: through incompatible design choices.
+Five things No Man's Sky does not have and cannot have. Not through laziness: through incompatible design choices.
 
 **A world simulation that persists.** Water genuinely flows according to terrain, forests burn, and lava cools and hardens into new materials and new landmass. This is not a visual effect: the planet changes and stays changed. In No Man's Sky, a crater you dig eventually regenerates.
 
@@ -66,7 +66,7 @@ The danger for this game is not the comparison with Hello Games. It is populatio
 
 Everything above, the player economy, the shared consequences, the governed towns, the camps that serve others, only exists if people are there. A sandbox MMO without inhabitants is not a sandbox MMO, it is a solo survival game with expensive servers. We recently saw what a player economy looks like in an empty world, and it is not pretty.
 
-Stars Reach arrives in paid early access, with no Steam reviews as I write, after a closed test that ended on 12 August with a character wipe. Everything rides on its ability to attract and keep enough people for its central mechanic to mean anything.
+Stars Reach arrives in paid early access, after a closed test that ended on 12 August with a character wipe. Everything rides on its ability to attract and keep enough people for its central mechanic to mean anything.
 
 ![Stars Reach, travel between worlds and the galactic economy](/images/starsreach/screenshot-4.webp)
 

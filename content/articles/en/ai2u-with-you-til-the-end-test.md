@@ -50,12 +50,9 @@ The second is consistency. A character who improvises is fascinating as long as 
 
 The third is the register itself. The theme of the obsessive admirer who imprisons you is a very particular taste, owned and advertised by the studio. That is not a flaw, it is a filter: you are in or you walk away.
 
-The game costs under fifteen euros and is available in French. Our score comes from our own playthroughs, and it matches a solid player reception resting on eighteen months of public release rather than on a first impression.
-
-Tell us in the comments: did you try to reason with your captor, or did you make straight for the exit?
+The game costs under fifteen euros and is available in French.Tell us in the comments: did you try to reason with your captor, or did you make straight for the exit?
 
 A technological curiosity, then, whose interest lies entirely in what it does with conversation. For the rest, you were right: it is not for the eyes.
-
 
 The player verdict is unambiguous and rests on a rare base for this kind of project: Steam reviews are Very Positive at 89 percent across nearly 1,900 reviews accumulated during Early Access.
 

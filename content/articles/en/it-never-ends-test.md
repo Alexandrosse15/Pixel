@@ -44,7 +44,7 @@ Added to it are manual minigames that break the rhythm, and they are what saves 
 
 ## What sets the score
 
-This score comes from our own playthroughs, the game having just launched. It rewards genuinely funny writing that lasts because it mixes supernatural absurdity with corporate absurdity, the second often being the more effective. It also credits the minigames, which stop the swiping from becoming mechanical.
+It rewards genuinely funny writing that lasts because it mixes supernatural absurdity with corporate absurdity, the second often being the more effective. It also credits the minigames, which stop the swiping from becoming mechanical.
 
 It accounts for how narrow the format is. A binary-decision game lives on the variety of its tickets and nothing else. If the catalogue runs dry, the loop becomes visible immediately, and no gauge will rescue the repetition. That is the only real risk here.
 

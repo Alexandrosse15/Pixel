@@ -48,7 +48,7 @@ C'est une bonne structure pour un jeu de curiosité, parce qu'elle lie la progre
 
 ## Ce qu'il faut savoir
 
-Le jeu sort aujourd'hui et ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense un monde qui donne envie de continuer à naviguer et un mystère qui tient encore ses questions à la fin de la démo, ce qui est le meilleur signe pour ce type de jeu. Elle tient compte d'une réserve pratique importante : il n'est proposé qu'en anglais et en espagnol, et pour une aventure entièrement portée par ses dialogues, l'absence de français n'est pas un détail.
+Elle récompense un monde qui donne envie de continuer à naviguer et un mystère qui tient encore ses questions à la fin de la démo, ce qui est le meilleur signe pour ce type de jeu. Elle tient compte d'une réserve pratique importante : il n'est proposé qu'en anglais et en espagnol, et pour une aventure entièrement portée par ses dialogues, l'absence de français n'est pas un détail.
 
 Et vous, dans un jeu maritime, qu'est-ce qui vous fait revenir : la tension d'une nuit qui tombe, ou l'envie de savoir ce qu'il y a derrière la brume ?
 

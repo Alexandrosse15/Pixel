@@ -14,39 +14,37 @@ gameName: "GRIT"
 featured: false
 ---
 
-Commençons par le mystère, parce qu'il est réel et que la réponse explique une bonne partie de ce jeu.
+GRIT existe depuis 2021. Il avait une page, des captures, une communauté, des articles. Et il débarque sur Steam aujourd'hui avec zéro avis et une page qui sent le neuf, comme s'il naissait ce matin.
 
-GRIT existe depuis 2021. On en parlait déjà, il avait une page, des captures, une communauté. Et il sort sur Steam aujourd'hui, 18 août 2026, avec **zéro avis** et une seule annonce sur son fil, publiée avant-hier. Une page qui a l'air neuve pour un jeu qui a cinq ans, c'est étrange. Voilà pourquoi.
+Il ne naît pas ce matin. Il revient de très loin, et il revient amputé.
 
 ![GRIT, le far west et les fusillades a cent joueurs](/images/grit/screenshot-1.webp)
 
-## L'explication : il n'avait pas le droit d'être là
+## Il n'avait pas le droit d'être là
 
-En juin 2022, lors de la convention Galaverse, Epic Games et **Gala Games** annonçaient leur collaboration autour d'un jeu : GRIT. Il devenait le **premier jeu blockchain de l'Epic Games Store**, avec des actifs détenus par les joueurs sous forme de NFT, achetables et revendables, et une distribution de dix mille avatars à frapper via Gala Games. Le jeu était annoncé gratuit.
+En juin 2022, à la convention Galaverse, Epic Games et **Gala Games** présentaient GRIT comme le **premier jeu blockchain de l'Epic Games Store**. Des armes et des avatars détenus par les joueurs sous forme de NFT, revendables entre eux, dix mille personnages à frapper, et un jeu gratuit financé par ce marché.
 
-Et pendant ce temps, Steam lui était fermé. En **octobre 2021**, Valve avait tranché en interdisant purement et simplement de sa boutique les jeux reposant sur la blockchain, les cryptomonnaies et les NFT. GRIT cochait toutes les cases de l'interdiction.
+Steam, pendant ce temps, lui était fermé à double tour. Valve avait tranché en **octobre 2021** : plus aucun jeu reposant sur la blockchain, les cryptomonnaies ou les NFT dans sa boutique. GRIT cochait chaque case de l'interdiction.
 
-Voilà pourquoi ce jeu de 2021 arrive sur Steam en 2026 : il ne pouvait pas y venir avant.
+D'où le décalage de cinq ans. Il ne pouvait pas venir plus tôt.
 
-## Ce qu'il a fallu abandonner pour entrer
+## Ce qu'il a laissé à la porte
 
-C'est là que ça devient intéressant, et c'est vérifiable en trente secondes.
+Allez sur la page Steam de GRIT et cherchez le mot NFT. Vous ne le trouverez pas. Ni blockchain, ni crypto, ni Gala Games. Le passé du jeu a été effacé de sa propre vitrine.
 
-J'ai passé la description actuelle de la page Steam au peigne fin en cherchant les mots NFT, blockchain, crypto, jeton, portefeuille, Gala, frappe et web3. **Aucune occurrence. Pas une seule.**
+La règle de Valve n'a pas bougé depuis 2021, alors GRIT a fait ce qu'il fallait faire pour entrer : il a abandonné ce qui était son argument de vente.
 
-La règle de Valve n'a pas changé depuis 2021. Pour être là aujourd'hui, GRIT a donc dû se séparer de ce qui faisait son argument de vente principal il y a quatre ans.
+Le modèle économique est parti avec. Le jeu gratuit financé par les actifs revendables est devenu **un jeu payant**, monétisé par un **CattlePass** de cent niveaux, skins d'armes, chevaux, parachutes, tenues et titres, avec huit carnets thématiques et une mission quotidienne. La passe la plus banale du marché.
 
-Le modèle économique a suivi le même chemin. Exit le jeu gratuit financé par les actifs revendables : GRIT est désormais **un jeu payant**, dont la monétisation repose sur un **CattlePass** parfaitement conventionnel, cent niveaux de skins d'armes, de chevaux, de parachutes, de tenues et de titres, le premier étant inclus avec le jeu, plus huit carnets thématiques et une mission quotidienne.
+On a donc troqué la promesse de propriété numérique contre le même abonnement cosmétique que tout le monde. C'était probablement la seule porte de sortie viable, mais un acheteur de 2022 mérite de savoir ce qu'il reste de ce qu'on lui avait vendu, et la page se garde bien de le lui dire.
 
-Autrement dit, on a devant nous un jeu qui a troqué la promesse de propriété numérique contre une passe de combat comme il en existe cinquante. On peut trouver ça décevant. Je trouve surtout que c'est le seul choix qui lui donnait une chance d'exister devant un vrai public, et que le silence total de la page à ce sujet est éloquent.
-
-Rappelons au passage, pour la petite histoire, que l'accueil de la presse à l'époque n'était pas tendre : Kotaku avait titré que le premier jeu blockchain de l'Epic Store avait l'air épouvantable. Le jeu a eu quatre ans pour leur donner tort.
+À l'époque, la presse n'avait d'ailleurs pas été tendre : Kotaku titrait que le premier jeu blockchain de l'Epic Store avait l'air épouvantable. Quatre ans plus tard, il a l'occasion de répondre.
 
 ![GRIT, les quatre couleurs et le systeme d armes](/images/grit/screenshot-2.webp)
 
-## L'idée qui vend du rêve, et elle fonctionne
+## L'idée qui vend du rêve
 
-Passons au jeu lui-même, parce que son idée centrale est excellente et mérite mieux que son passé.
+Son idée centrale mérite mieux que son passé.
 
 **Chaque arme que vous ramassez est aussi une carte à jouer.** Vous disposez de quatre emplacements. Chaque arme porte une couleur. Deux cartes de la même couleur activent un bonus, quatre font de vous quelque chose que le reste du serveur doit prendre en compte.
 

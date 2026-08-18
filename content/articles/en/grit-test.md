@@ -14,13 +14,13 @@ gameName: "GRIT"
 featured: false
 ---
 
-Let us start with the mystery, because it is real and the answer explains a good deal about this game.
+GRIT has existed since 2021. It had a page, screenshots, a community, coverage. And it turns up on Steam today with zero reviews and a page that smells of fresh paint, as though it were born this morning.
 
-GRIT has existed since 2021. People were talking about it, it had a page, screenshots, a community. And it launches on Steam today, 18 August 2026, with **zero reviews** and a single post on its news feed, published the day before yesterday. A page that looks brand new for a five-year-old game is odd. Here is why.
+It was not born this morning. It has come a long way back, and it has come back missing a limb.
 
 ![GRIT, the Wild West and hundred-player firefights](/images/grit/screenshot-1.webp)
 
-## The explanation: it was not allowed to be there
+## It was not allowed to be there
 
 In June 2022, at the Galaverse convention, Epic Games and **Gala Games** announced their collaboration on a game: GRIT. It became the **first blockchain game on the Epic Games Store**, with player-owned assets as NFTs, bought and resold, and a drop of ten thousand avatars to be minted through Gala Games. The game was announced as free to play.
 
@@ -28,25 +28,23 @@ Meanwhile, Steam was closed to it. In **October 2021**, Valve had settled the ma
 
 That is why a 2021 game arrives on Steam in 2026: it could not come earlier.
 
-## What had to be dropped to get in
+## What it left at the door
 
-This is where it gets interesting, and it can be verified in thirty seconds.
+Go to GRIT's Steam page and look for the word NFT. You will not find it. No blockchain, no crypto, no Gala Games. The game's past has been wiped from its own shop window.
 
-I combed the current Steam description for the words NFT, blockchain, crypto, token, wallet, Gala, mint and web3. **Not one occurrence. Not a single one.**
+Valve's rule has not moved since 2021, so GRIT did what it had to do to get in: it abandoned what used to be its selling point.
 
-Valve's rule has not changed since 2021. So to be here today, GRIT has had to part with what was its main selling point four years ago.
+The business model went with it. The free game funded by resellable assets is now **a paid game**, monetised through a hundred-level **CattlePass** of weapon skins, horses, parachutes, outfits and titles, with eight themed Logbooks and a daily mission. The most ordinary pass on the market.
 
-The business model followed the same path. Gone is the free game funded by resellable assets: GRIT is now **a paid game**, monetised through a thoroughly conventional **CattlePass**, a hundred levels of weapon skins, horse skins, parachutes, outfits and titles, the first one included with the game, plus eight themed Logbooks and a daily mission.
+So the promise of digital ownership has been swapped for the same cosmetic subscription as everybody else. It was probably the only viable way out, but a 2022 buyer deserves to know what remains of what he was sold, and the page carefully avoids telling him.
 
-In other words, we have a game that traded the promise of digital ownership for a battle pass like fifty others. You can find that disappointing. I mostly think it was the only choice that gave it a shot at reaching a real audience, and that the page's total silence on the subject is telling.
-
-Worth recalling for the record that the press was not kind at the time: Kotaku ran a headline stating that the Epic Store's first blockchain game looked dreadful. The game has had four years to prove them wrong.
+The press was not kind at the time either: Kotaku ran a headline saying the Epic Store's first blockchain game looked dreadful. Four years on, it gets a chance to answer.
 
 ![GRIT, the four suits and the weapon system](/images/grit/screenshot-2.webp)
 
-## The idea that sells the dream, and it works
+## The idea that sells the dream
 
-On to the game itself, because its central idea is excellent and deserves better than its past.
+Its central idea deserves better than its past.
 
 **Every gun you pick up is also a playing card.** You have four slots. Each gun carries a suit. Two of a suit switches a perk on, four makes you something the rest of the lobby has to plan around.
 

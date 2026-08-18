@@ -48,7 +48,7 @@ The second is direct control of creatures. Switching from the manager's viewpoin
 
 ## What we do not know
 
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It penalises the absence of any management layer and a proposition that fits in a few lines, while crediting the free island editor and direct creature control, two real but insufficient arguments.
+It penalises the absence of any management layer and a proposition that fits in a few lines, while crediting the free island editor and direct creature control, two real but insufficient arguments.
 
 The awkward question: a dinosaur park with no visitors and no budget, enough for you or not at all?
 

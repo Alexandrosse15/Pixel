@@ -52,8 +52,7 @@ La seconde est le dosage du mode Classique. Une identité visuelle entièrement 
 
 Mais l'approche est saine, et l'idée d'offrir la version pure à côté de la version repensée évite le faux débat. Pour une fois, on ne vous demande pas de choisir entre votre souvenir et un jeu actuel : les deux sont dans la boîte.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense la structure à trois modes, qui règle intelligemment le dilemme des ressorties de classiques, tout en réservant son jugement sur la profondeur réelle du mode Royaume.
+Elle récompense la structure à trois modes, qui règle intelligemment le dilemme des ressorties de classiques, tout en réservant son jugement sur la profondeur réelle du mode Royaume.
 
 Et vous, sur une ressortie de classique : le mode Rétro d'origine, ou la version repensée ?
 

@@ -42,7 +42,7 @@ If you know that format speaks to you a little too much, the money-free version 
 
 ## What to know
 
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It acknowledges a rare immediate effectiveness and welcome care over comfort options, while reserving judgement on the game's ability to renew a single repeated decision.
+It acknowledges a rare immediate effectiveness and welcome care over comfort options, while reserving judgement on the game's ability to renew a single repeated decision.
 
 Be honest in the comments: do you cash out early, or always risk it one time too many?
 

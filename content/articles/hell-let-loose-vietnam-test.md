@@ -65,8 +65,7 @@ Enfin, la recommandation la plus raisonnable est celle que la communauté formul
 
 Nous mettrons cet article à jour, avec une note, dès que la réception du jeu livré sera mesurable. En attendant, gardez votre enthousiasme au chaud : si les fondations ont été réparées, le Vietnam est le terrain rêvé pour un éclaireur.
 
-
-Le jeu vient de sortir et ne compte encore aucun avis Steam sur la version livrée : cette note vient de nos parties, en tenant compte du contenu au lancement et des chantiers lourds hérités de la bêta. Elle sera révisée si le suivi corrige ce qui doit l'être.
+Elle sera révisée si le suivi corrige ce qui doit l'être.
 
 Vous y avez joué depuis le lancement ? Dites-nous surtout ce que donnent les performances sur votre machine, c'est le point qui décidera de tout.
 

@@ -44,7 +44,7 @@ Sur la direction artistique, en revanche, on reste partagés, et vous aussi visi
 
 ## Ce qu'on ne sait pas encore
 
-Le jeu n'a pas encore de date de sortie ferme et ne compte aucun avis Steam : cette note vient de nos parties. Elle récompense une construction verticale réellement tactique et la décision, rare dans le genre, d'abandonner sciemment des morceaux de sa forteresse. Bonne nouvelle, il est prévu en français, et la liste des langues est très large, ukrainien et russe compris.
+Elle récompense une construction verticale réellement tactique et la décision, rare dans le genre, d'abandonner sciemment des morceaux de sa forteresse. Bonne nouvelle, il est prévu en français, et la liste des langues est très large, ukrainien et russe compris.
 
 La vraie inconnue est celle de tous les jeux de siège sans fin : la courbe. Un jeu bâti sur des vagues qui montent indéfiniment doit trouver le point où la difficulté devient intéressante plutôt qu'arbitraire, et où l'on perd parce qu'on a mal construit, pas parce que le compteur a tourné. Sans cela, la partie devient une addition.
 

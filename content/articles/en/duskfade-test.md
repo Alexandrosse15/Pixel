@@ -42,8 +42,6 @@ That is more narratively ambitious than the genre average, and it is also the ri
 
 ## What sets the score
 
-The game has just launched and has no Steam reviews yet, so this score comes from our own playthroughs rather than a player consensus.
-
 And you, which do you prefer: a flawless remake of a game you love, or a new and imperfect game in the same spirit?
 
 It rewards an art direction that works immediately, a complete movement vocabulary of jump, dash, grapple and glide, and a setting that invites exploration. It also accounts for the fact that this genre is judged almost entirely on control precision and camera quality, two things no store page can prove and which have buried plenty of promising platformers.

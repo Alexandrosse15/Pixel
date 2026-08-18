@@ -42,8 +42,6 @@ The studio sums up its formula as a mix of planning, grouping, marching and a li
 
 ## What remains to be checked
 
-The game has just launched with no Steam reviews, so this score comes from our own playthroughs rather than a player consensus.
-
 And you, in a tower defence, do you stay behind the walls or go out and find the enemy?
 
 Two points will decide its real worth. The first is balance between the four legions, because a hybrid of this type collapses if one composition dominates all others. The second is how much is left to chance: pleasant when it produces reversals, unbearable when it cancels good preparation. The studio states it plainly, which is correct, but the calibration will be judged controller in hand.

@@ -44,7 +44,7 @@ On the art direction, though, we remain torn, and evidently so are you. The stud
 
 ## What we do not know yet
 
-The game has no firm release date yet and no Steam reviews: this score comes from our own playthroughs. It rewards genuinely tactical vertical building and the decision, rare in this genre, to knowingly abandon parts of your own fortress. Good news, French is planned, and the language list is very broad, Ukrainian and Russian included.
+It rewards genuinely tactical vertical building and the decision, rare in this genre, to knowingly abandon parts of your own fortress. Good news, French is planned, and the language list is very broad, Ukrainian and Russian included.
 
 The real unknown is the one facing every endless siege game: the curve. A game built on waves rising indefinitely has to find the point where difficulty becomes interesting rather than arbitrary, and where you lose because you built badly, not because the counter ticked over. Without that, the run becomes arithmetic.
 

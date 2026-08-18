@@ -48,7 +48,7 @@ And the studio slips in the sharpest observation on its whole page: there will a
 
 ## What sets the score
 
-This score comes from our own playthroughs, the game having just launched. It rewards the secret bidding phase, which is the real design idea and what separates this from the mass of online card games, along with a perfectly held tone.
+It rewards the secret bidding phase, which is the real design idea and what separates this from the mass of online card games, along with a perfectly held tone.
 
 It accounts for total dependence on the group. This is a party game: without four people available at the same time and willing to resent each other for an hour, there is not much left. And like every game with relics, it will have to prove its balance holds once the community finds the most abusive combinations.
 

@@ -52,8 +52,7 @@ The second is the calibration of Classic Mode. An entirely new visual identity o
 
 But the approach is sound, and offering the pure version alongside the reworked one avoids the false debate. For once you are not asked to choose between your memory and a current game: both are in the box.
 
-
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It rewards the three-mode structure, which cleverly settles the dilemma of classic re-releases, while reserving judgement on the real depth of Kingdom Mode.
+It rewards the three-mode structure, which cleverly settles the dilemma of classic re-releases, while reserving judgement on the real depth of Kingdom Mode.
 
 And you, on a classic re-release: the original Retro mode, or the reimagined version?
 

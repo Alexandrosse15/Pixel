@@ -56,8 +56,7 @@ La seule vraie inconnue est celle de tous les rail shooters : la durée. Le genr
 
 Pour répondre à votre question sur la façon d'y jouer : la campagne d'abord, évidemment, pour rencontrer l'escouade. Mais dans ce genre, la vraie partie commence à la seconde tentative, quand on connaît le niveau et qu'on cherche la trajectoire parfaite. C'était vrai en 1993, ça n'a pas changé.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle salue une direction artistique remarquable, un vocabulaire de vol complet et une filiation qui n'est pas un argument marketing, tout en tenant compte de l'incertitude sur la durée de vie propre au genre.
+Elle salue une direction artistique remarquable, un vocabulaire de vol complet et une filiation qui n'est pas un argument marketing, tout en tenant compte de l'incertitude sur la durée de vie propre au genre.
 
 Et vous, la campagne d'abord ou le score d'abord ?
 

@@ -44,7 +44,7 @@ S'y ajoutent des mini-jeux manuels qui cassent le rythme, et ce sont eux qui sau
 
 ## Ce qui fixe la note
 
-Cette note vient de nos parties, le jeu sortant tout juste. Elle récompense une écriture réellement drôle, qui tient sur la durée parce qu'elle mélange l'absurde surnaturel et l'absurde d'entreprise, le second étant souvent le plus efficace. Elle salue aussi les mini-jeux, qui empêchent le balayage de devenir mécanique.
+Elle récompense une écriture réellement drôle, qui tient sur la durée parce qu'elle mélange l'absurde surnaturel et l'absurde d'entreprise, le second étant souvent le plus efficace. Elle salue aussi les mini-jeux, qui empêchent le balayage de devenir mécanique.
 
 Elle tient compte de l'étroitesse du format. Un jeu à décisions binaires vit sur la variété de ses tickets, et rien d'autre. Si le catalogue s'épuise, la boucle se voit immédiatement, et aucune jauge ne rattrapera la répétition. C'est le seul vrai risque ici.
 

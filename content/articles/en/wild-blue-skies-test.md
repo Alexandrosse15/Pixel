@@ -56,8 +56,7 @@ The only real unknown is the one every on-rails shooter faces: length. The genre
 
 To answer your question about how to play it: the campaign first, obviously, to meet the squad. But in this genre the real game starts on the second attempt, when you know the level and you are hunting the perfect line. That was true in 1993, and it has not changed.
 
-
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It credits a remarkable art direction, a complete flight vocabulary and a lineage that is not a marketing line, while accounting for the longevity uncertainty inherent to the genre.
+It credits a remarkable art direction, a complete flight vocabulary and a lineage that is not a marketing line, while accounting for the longevity uncertainty inherent to the genre.
 
 And you, campaign first or score first?
 

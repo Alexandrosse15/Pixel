@@ -54,8 +54,7 @@ Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de 
 
 Une démo existe. Pour ce type de production, c'est clairement par là qu'il faut commencer.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle salue une excellente idée d'écriture, l'inversion morale qui récompense le travail bâclé, et sanctionne un habillage de production en série ainsi qu'une localisation partiellement automatisée.
+Elle salue une excellente idée d'écriture, l'inversion morale qui récompense le travail bâclé, et sanctionne un habillage de production en série ainsi qu'une localisation partiellement automatisée.
 
 Dites-nous en commentaire : quel est le pire bricolage que vous ayez fait en vrai pour économiser trois euros ?
 

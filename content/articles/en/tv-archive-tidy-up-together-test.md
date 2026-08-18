@@ -62,7 +62,7 @@ But the studio adds something the wine cellar did not have: online play, in co-o
 
 ## What sets the score
 
-This score comes from our own playthroughs, the game having just launched. It rewards the progressive automation, which gives a real curve to what could have been a mere task, and the online modes that pull the genre out of its usual solitude.
+It rewards the progressive automation, which gives a real curve to what could have been a mere task, and the online modes that pull the genre out of its usual solitude.
 
 It accounts for the format's limit, the same one as the wine cellar: once the logic is understood, there is no second layer. The difference here is that the theme does half the work. A wall of VHS tapes is not a wall of bottles, it is loaded with things you actually lived.
 

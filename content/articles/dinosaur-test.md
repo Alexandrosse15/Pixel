@@ -54,8 +54,7 @@ La vraie inconnue est la profondeur de la simulation écologique. Un jeu qui mis
 
 En attendant, si vous cherchez la sensation de votre enfance, elle est ailleurs. Si vous cherchez à contempler des dinosaures dans une île que vous avez sculptée, il y a peut-être quelque chose ici.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle sanctionne l'absence de toute couche de gestion et une proposition qui tient en quelques lignes, tout en créditant l'éditeur d'île libre et le contrôle direct des créatures, deux arguments réels mais insuffisants.
+Elle sanctionne l'absence de toute couche de gestion et une proposition qui tient en quelques lignes, tout en créditant l'éditeur d'île libre et le contrôle direct des créatures, deux arguments réels mais insuffisants.
 
 La question qui fâche : un parc à dinosaures sans visiteurs ni budget, ça vous suffit ou pas du tout ?
 

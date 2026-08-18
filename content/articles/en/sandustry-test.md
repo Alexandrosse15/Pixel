@@ -56,8 +56,7 @@ The criticisms listed above are not all unfounded, and it would be dishonest to 
 
 But the essential thing is in our shortened night. An automation game is judged first on its ability to make you lose track of time, and this one manages it effortlessly. If you are the sort to say one more machine and look up at dawn, warn the people around you.
 
-
-The game has no Steam reviews on its Early Access build yet, so this score comes from our own playthroughs. It rewards a fiercely addictive automation loop built on a genuine materials simulation, while accounting for the legibility and progression complaints noted above.
+It rewards a fiercely addictive automation loop built on a genuine materials simulation, while accounting for the legibility and progression complaints noted above.
 
 The real question: how long before you say one more machine and the sun comes up?
 

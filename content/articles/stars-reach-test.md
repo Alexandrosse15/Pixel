@@ -14,15 +14,15 @@ gameName: "Stars Reach"
 featured: false
 ---
 
-Première chose à corriger, et elle n'est pas anodine : le jeu s'appelle **Stars Reach**, au pluriel. Deuxième chose, plus embêtante pour lui : la ressemblance avec No Man's Sky saute effectivement aux yeux. Mêmes planètes colorées, même vue à la première personne, même récolte de ressources, même sensation de descendre sur un caillou inconnu.
+La ressemblance avec No Man's Sky saute aux yeux dans la première minute. Mêmes planètes colorées, même vue à la première personne, même récolte de ressources, même sensation de descendre sur un caillou inconnu. Tout le monde va faire le rapprochement, et tout le monde va se tromper de moitié.
 
-Sauf qu'après avoir passé du temps dessus et regardé de près qui le fabrique, je suis obligé de dire qu'on s'est trompés de comparaison. Pas complètement, mais assez pour que ça change le jugement.
+Parce que derrière cette façade se cache un jeu d'un tout autre genre, signé par un homme qui a inventé le genre en question il y a trente ans.
 
 ![Stars Reach, une planete et sa simulation d ecosysteme](/images/starsreach/screenshot-2.webp)
 
 ## Ce qui est vrai dans la comparaison
 
-Commençons par ce qui ne se discute pas, parce que ce serait malhonnête de l'escamoter.
+Commençons par ce qui ne se discute pas.
 
 **L'univers est plus petit.** Nettement. No Man's Sky, ce sont 18,4 quintillions de planètes générées par algorithme, un chiffre tellement absurde que personne n'en verra jamais une fraction significative. Stars Reach ne joue pas dans cette catégorie et ne le prétend pas.
 
@@ -30,7 +30,7 @@ Commençons par ce qui ne se discute pas, parce que ce serait malhonnête de l'e
 
 Face à ça, Stars Reach arrive aujourd'hui en accès anticipé payant, jour un, sans historique. La comparaison de contenu est perdue d'avance, elle le restera longtemps, et il faut le savoir avant d'acheter.
 
-Donc sur le constat brut, l'impression de départ était juste : moins grand, moins fourni, plus cher au regard de ce qu'on obtient immédiatement.
+Sur le constat brut, donc : moins grand, moins fourni, plus cher au regard de ce qu'on obtient immédiatement.
 
 ## Ce qui est faux, et ça change tout
 
@@ -46,7 +46,7 @@ Voilà l'arbitrage, et il est logique : on ne peut pas avoir des quintillions de
 
 ## Ce que Stars Reach apporte réellement
 
-C'est la vraie question posée, alors répondons-y point par point. Il y a cinq choses ici que No Man's Sky n'a pas, et pas par paresse : par choix de conception incompatible.
+Cinq choses, que No Man's Sky n'a pas et ne peut pas avoir. Pas par paresse : par choix de conception incompatible.
 
 **Une simulation de monde qui persiste.** L'eau s'écoule réellement selon le relief, les forêts brûlent, et la lave refroidit en durcissant pour former de nouveaux matériaux et de nouvelles terres. Ce n'est pas un effet visuel : la planète change et le reste. Dans No Man's Sky, un cratère que vous creusez finit par se régénérer.
 
@@ -66,7 +66,7 @@ Le danger de ce jeu n'est pas la comparaison avec Hello Games. C'est la populati
 
 Tout ce qui précède, l'économie entre joueurs, les conséquences partagées, les villes gouvernées, les campements qui servent aux autres, n'existe que s'il y a du monde. Un MMO sandbox sans habitants n'est pas un MMO sandbox, c'est un jeu de survie solo avec des serveurs coûteux. On a vu récemment ce que donne une économie de joueurs dans un monde vide, et ce n'est pas beau à voir.
 
-Stars Reach arrive en accès anticipé payant, sans avis Steam au moment où j'écris, après un test fermé qui s'est terminé le 12 août avec une remise à zéro des personnages. Tout se jouera sur sa capacité à attirer et retenir assez de monde pour que sa mécanique centrale ait un sens.
+Stars Reach arrive en accès anticipé payant, après un test fermé qui s'est terminé le 12 août avec une remise à zéro des personnages. Tout se jouera sur sa capacité à attirer et retenir assez de monde pour que sa mécanique centrale ait un sens.
 
 ![Stars Reach, les voyages entre mondes et l economie galactique](/images/starsreach/screenshot-4.webp)
 

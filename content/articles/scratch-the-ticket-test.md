@@ -48,8 +48,7 @@ La vraie inconnue est la profondeur. Un jeu bâti sur une seule décision répé
 
 En attendant, il a réussi ce que très peu de jeux réussissent : me faire écrire un article que je n'avais pas prévu.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle reconnaît une efficacité immédiate rare et un soin appréciable porté aux options de confort, tout en réservant son jugement sur la capacité du jeu à renouveler une décision unique répétée.
+Elle reconnaît une efficacité immédiate rare et un soin appréciable porté aux options de confort, tout en réservant son jugement sur la capacité du jeu à renouveler une décision unique répétée.
 
 Soyez honnête en commentaire : vous encaissez tôt, ou vous relancez toujours une fois de trop ?
 

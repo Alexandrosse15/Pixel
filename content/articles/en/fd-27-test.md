@@ -52,7 +52,7 @@ So no, FD 27 is not better than Football Manager, and it probably never will be 
 
 ## What sets the score
 
-This score comes from our own playthroughs, the game having just launched with no Steam reviews yet. It rewards intelligent positioning and a genuinely interdependent department architecture that gives weight to every hire.
+It rewards intelligent positioning and a genuinely interdependent department architecture that gives weight to every hire.
 
 It penalises the launch content, too thin to sustain more than a few seasons, and the fact that a management game is measured by the richness of its world. Six divisions is quickly explored. Everything will depend on how fast the studio adds leagues.
 

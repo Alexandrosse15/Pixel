@@ -42,8 +42,7 @@ La seconde est le dosage de la pression. Un simulateur d'urgences doit trouver l
 
 Une dernière chose, et elle n'engage que nous : si vous avez grandi avec cette série, une partie du plaisir viendra de choses que le jeu ne peut pas fournir. Le générique, le couloir en travelling, les gens qui parlent trop vite. Ne demandez pas à un simulateur allemand de vous rendre votre enfance, demandez-lui de vous apprendre à lire un électrocardiogramme. Sur ce terrain, il a l'air de savoir ce qu'il fait.
 
-
-Le jeu ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense un parti pris d'enquête médicale plus intéressant que le geste chirurgical, et sanctionne l'absence de version française dans un jeu entièrement bâti sur la lecture de symptômes.
+Elle récompense un parti pris d'enquête médicale plus intéressant que le geste chirurgical, et sanctionne l'absence de version française dans un jeu entièrement bâti sur la lecture de symptômes.
 
 Avouez : vous aussi vous vous êtes pris pour un personnage de série médicale, ou c'est juste nous ?
 

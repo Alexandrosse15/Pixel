@@ -48,7 +48,7 @@ That is a good structure for a curiosity game, because it links mechanical progr
 
 ## What to know
 
-The game is out today with no Steam reviews yet: this score comes from our own playthroughs. It rewards a world that makes you want to keep sailing and a mystery still holding its questions at the end of the demo, which is the best possible sign for this kind of game. It accounts for one important practical caveat: it is offered in English and Spanish only, and for an adventure carried entirely by its dialogue, the lack of French is not a detail.
+It rewards a world that makes you want to keep sailing and a mystery still holding its questions at the end of the demo, which is the best possible sign for this kind of game. It accounts for one important practical caveat: it is offered in English and Spanish only, and for an adventure carried entirely by its dialogue, the lack of French is not a detail.
 
 And you, in a maritime game, what brings you back: the tension of night falling, or the urge to know what lies behind the mist?
 

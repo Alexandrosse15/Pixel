@@ -34,7 +34,7 @@ The announced rhythm is that of a real department, and it is exactly the series'
 
 ## What to watch
 
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It rewards a medical investigation approach more interesting than surgical dexterity, and penalises the absence of a French version in a game built entirely on reading symptoms.
+It rewards a medical investigation approach more interesting than surgical dexterity, and penalises the absence of a French version in a game built entirely on reading symptoms.
 
 Admit it: did you also imagine yourself as a character from a medical drama, or is that just us?
 

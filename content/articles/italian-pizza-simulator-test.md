@@ -50,7 +50,7 @@ Le studio ajoute la contrepartie qui rend la chose intéressante : plus vous êt
 
 ## Ce qui fixe la note
 
-Cette note vient de nos parties, le jeu sortant tout juste. Elle récompense un soin visuel réel dans un genre qui n'en fait presque jamais, un cadre chaleureux et une boucle de préparation bien découpée.
+Elle récompense un soin visuel réel dans un genre qui n'en fait presque jamais, un cadre chaleureux et une boucle de préparation bien découpée.
 
 Elle tient compte de ce que vous avez vous-même formulé : on n'y jouera pas trois jours d'affilée. C'est un petit jeu, agréable par sessions courtes, dont la variété repose entièrement sur le catalogue de recettes et de clients. Une fois le tour fait, il n'y a pas de seconde couche qui prenne le relais.
 

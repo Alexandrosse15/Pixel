@@ -52,7 +52,7 @@ The second is risk management. In special rooms you are offered several rewards 
 
 ## What sets the score
 
-The game is out today and has no Steam reviews yet: this score comes from our own playthroughs. It rewards a genuinely distinctive core mechanic, the adjacency auras, which gives meaning to every item you pick up and is finer than what most inventory roguelites offer.
+It rewards a genuinely distinctive core mechanic, the adjacency auras, which gives meaning to every item you pick up and is finer than what most inventory roguelites offer.
 
 It also accounts for how narrow the rest is. A game built on one brilliant system lives or dies on the variety of its loot: if the item catalogue is too thin, you will have exhausted the combinations within a dozen runs, and the puzzle will become routine. That is the real point of caution, and it will only be judged over time.
 

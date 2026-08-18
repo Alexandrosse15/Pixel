@@ -20,15 +20,15 @@ Difficile de rêver meilleur diptyque, et le hasard fait bien les choses.
 
 ![TFC2, une cite mesopotamienne en pixel art pendant l effondrement](/images/tfc2/screenshot-1.webp)
 
-## Sierra, Pharaoh, et cette sensation qu'on croyait perdue
+## Le fantôme de Sierra
 
-L'association avec Pharaoh est juste, et elle est mieux fondée qu'un simple souvenir : Pharaoh, sorti en 1999, était développé par Impressions Games et publié par **Sierra**. Le studio qui a défini une manière entière de faire des jeux de gestion antique, avec cette obsession du détail, ces petits personnages qui vaquent, ces chaînes de production qu'on regarde tourner comme un aquarium.
+On pense à Pharaoh dans les cinq premières minutes. Sorti en 1999 chez Impressions Games et publié par **Sierra**, il avait défini une manière entière de faire des jeux d'antiquité : l'obsession du détail, les petits personnages qui vaquent à leurs affaires, les chaînes de production qu'on regarde tourner comme un aquarium.
 
-Sierra n'existe plus sous cette forme depuis longtemps, et son absence se sent encore.
+Sierra n'existe plus sous cette forme depuis vingt ans. Son absence se sent encore, et TFC2 gratte exactement à cet endroit.
 
-La comparaison avec The Settlers tient aussi, pour une raison précise : ce qui rapproche ces jeux, c'est le plaisir d'observation. On ne joue pas seulement à optimiser, on regarde une société fonctionner, et la lisibilité de l'animation fait la moitié du travail. Le pixel art de TFC2 est superbe et il sert exactement ça.
+Il y a aussi du Settlers là-dedans, et pour une raison précise : le plaisir n'est pas seulement d'optimiser, il est de regarder une société fonctionner. La lisibilité de l'animation fait la moitié du travail dans ce genre de jeu, et le pixel art de TFC2 est superbe pour ça.
 
-Détail savoureux au passage : l'éditeur est **MicroProse**. Le label de Sid Meier et Bill Stealey, ressuscité, qui publie un RTS antique en pixel art. Pour qui a connu les années 90, l'alignement des planètes a quelque chose de touchant.
+Dernier clin d'oeil de l'histoire : l'éditeur est **MicroProse**. Le label de Sid Meier et Bill Stealey, ressuscité, qui publie un RTS antique en pixel art. Pour qui a vécu les années 90, l'alignement des planètes a quelque chose de touchant.
 
 ## La bonne idée : la nourriture comme ressource centrale
 
@@ -74,7 +74,7 @@ Le reste du contenu comprend des missions de scénario, un mode escarmouche et d
 
 ## Ce qu'il faut savoir avant d'acheter
 
-Le jeu sort aujourd'hui, 18 août 2026, en **accès anticipé**, et il n'a aucun avis Steam à l'heure où j'écris.
+Le jeu sort aujourd'hui, 18 août 2026, en **accès anticipé**.
 
 Deux points de vigilance. Le jeu n'est disponible **qu'en anglais** au lancement, même si le studio annonce des localisations ultérieures : pour un RTS qui mise tout sur sa campagne narrative, c'est une barrière réelle. Et Wield Interactive est une très petite équipe, ce qui rend l'ambition narrative aussi belle que risquée.
 

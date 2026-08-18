@@ -50,12 +50,9 @@ Le deuxième est la consistance. Un personnage qui improvise est fascinant tant 
 
 Le troisième est le registre lui-même. Le thème de l'admirateur obsessionnel qui vous séquestre est un goût très particulier, assumé et revendiqué par le studio. Ce n'est pas un défaut, c'est un filtre : on adhère ou on passe son chemin.
 
-Le jeu coûte moins de quinze euros et il est disponible en français. Notre note vient de nos parties, et elle rejoint un accueil joueurs solide qui repose sur un an et demi de version publique plutôt que sur une première impression.
-
-Dites-nous en commentaire : vous avez tenté de raisonner votre geôlier, ou vous avez foncé vers la sortie ?
+Le jeu coûte moins de quinze euros et il est disponible en français.Dites-nous en commentaire : vous avez tenté de raisonner votre geôlier, ou vous avez foncé vers la sortie ?
 
 Une curiosité technologique, donc, dont l'intérêt tient entièrement à ce qu'elle fait avec la conversation. Pour le reste, vous aviez raison : ce n'est pas pour les yeux.
-
 
 Le verdict des joueurs est sans ambiguïté et repose sur une base rare pour ce genre de projet : les avis Steam sont Très positifs, à 89 % sur près de 1 900 retours accumulés pendant l'accès anticipé.
 

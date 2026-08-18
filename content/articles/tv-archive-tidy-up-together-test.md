@@ -62,7 +62,7 @@ Mais le studio ajoute quelque chose que la cave à vin n'avait pas : le jeu en l
 
 ## Ce qui fixe la note
 
-Cette note vient de nos parties, le jeu sortant tout juste. Elle récompense l'automatisation progressive, qui donne une vraie courbe à ce qui pourrait n'être qu'une tâche, et les modes en ligne qui sortent le genre de sa solitude habituelle.
+Elle récompense l'automatisation progressive, qui donne une vraie courbe à ce qui pourrait n'être qu'une tâche, et les modes en ligne qui sortent le genre de sa solitude habituelle.
 
 Elle tient compte de la limite du format, la même que pour la cave à vin : une fois la logique comprise, il n'y a pas de seconde couche. La différence, ici, c'est que le thème fait la moitié du travail. Un rayon de VHS n'est pas un rayon de bouteilles, il est chargé de choses qu'on a vécues.
 

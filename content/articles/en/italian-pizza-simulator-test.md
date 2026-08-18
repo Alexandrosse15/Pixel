@@ -50,7 +50,7 @@ The studio adds the counterweight that makes it interesting: the more renowned y
 
 ## What sets the score
 
-This score comes from our own playthroughs, the game having just launched. It rewards genuine visual care in a genre that almost never bothers, a warm setting and a well-divided preparation loop.
+It rewards genuine visual care in a genre that almost never bothers, a warm setting and a well-divided preparation loop.
 
 It accounts for what you formulated yourself: nobody will play this three days running. It is a small game, pleasant in short sessions, whose variety rests entirely on its catalogue of recipes and customers. Once you have been round it, there is no second layer to take over.
 

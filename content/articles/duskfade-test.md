@@ -42,8 +42,6 @@ C'est plus ambitieux narrativement que la moyenne du genre, et c'est aussi le ri
 
 ## Ce qui fixe la note
 
-Le jeu vient de sortir et ne compte encore aucun avis Steam : cette note vient de nos parties, pas d'un consensus de joueurs.
-
 Et vous, vous préférez quoi : un remake impeccable d'un jeu que vous adorez, ou un jeu neuf et imparfait dans le même esprit ?
 
 Elle récompense une direction artistique qui fonctionne immédiatement, un vocabulaire de déplacement complet, saut, ruée, grappin, vol plané, et un cadre qui donne envie d'explorer. Elle tient aussi compte du fait que ce genre se juge presque entièrement à la précision des commandes et à la qualité de la caméra, deux choses qu'aucune fiche ne peut prouver et qui ont enterré bien des platformers prometteurs.

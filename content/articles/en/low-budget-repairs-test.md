@@ -54,8 +54,7 @@ The game is out today with no user reviews, hence the absence of a score here. I
 
 A demo exists. For this kind of production, that is clearly where to start.
 
-
-The game has no Steam reviews yet, so this score comes from our own playthroughs. It credits an excellent writing idea, the moral inversion that rewards botched work, and penalises serial-production packaging along with partly automated localisation.
+It credits an excellent writing idea, the moral inversion that rewards botched work, and penalises serial-production packaging along with partly automated localisation.
 
 Tell us in the comments: what is the worst corner you have ever cut in real life to save three euros?
 

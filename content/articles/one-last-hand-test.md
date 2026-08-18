@@ -48,7 +48,7 @@ Et le studio glisse l'observation la plus juste de sa fiche : il y aura toujours
 
 ## Ce qui fixe la note
 
-Cette note vient de nos parties, le jeu sortant tout juste. Elle récompense la phase d'enchères secrètes, qui est la vraie idée de design et qui distingue le jeu de la masse des jeux de cartes en ligne, ainsi qu'un ton parfaitement tenu.
+Elle récompense la phase d'enchères secrètes, qui est la vraie idée de design et qui distingue le jeu de la masse des jeux de cartes en ligne, ainsi qu'un ton parfaitement tenu.
 
 Elle tient compte de la dépendance totale au groupe. C'est un jeu de soirée : sans quatre personnes disponibles en même temps et prêtes à s'en vouloir pendant une heure, il ne reste pas grand-chose. Et comme tous les jeux à Reliques, il devra prouver que son équilibrage tient quand la communauté aura trouvé les combinaisons les plus abusives.
 

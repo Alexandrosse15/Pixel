@@ -52,7 +52,7 @@ La seconde est la gestion du risque. Dans des salles spéciales, on vous propose
 
 ## Ce qui fixe la note
 
-Le jeu sort aujourd'hui et ne compte encore aucun avis Steam : cette note vient de nos parties. Elle récompense une mécanique centrale vraiment distinctive, celle des auras d'adjacence, qui donne du sens à chaque objet ramassé et qui est plus fine que ce que proposent la plupart des roguelites à inventaire.
+Elle récompense une mécanique centrale vraiment distinctive, celle des auras d'adjacence, qui donne du sens à chaque objet ramassé et qui est plus fine que ce que proposent la plupart des roguelites à inventaire.
 
 Elle tient aussi compte de l'étroitesse du reste. Un jeu bâti sur un seul système brillant vit ou meurt sur la variété de son butin : si le catalogue d'objets est trop maigre, on aura fait le tour des combinaisons en une dizaine de parties, et le puzzle deviendra une routine. C'est le vrai point de vigilance, et il ne se jugera que sur la durée.
 

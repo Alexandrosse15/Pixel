@@ -44,8 +44,6 @@ We have written it before and it applies again: that model produces a great many
 
 ## The score, and what it is worth
 
-The game has just launched with no Steam reviews, so this score comes from our own playthroughs, and it penalises the absence of any playful payoff for the effort demanded rather than a technical fault.
-
 Tell us: does quiet repetition after a working day relax you or wear you out?
 
 It is available in French, and it will doubtless find its audience: there are players for whom quiet repetition is exactly the rest they want after a working day, and there is nothing wrong with that. Simply, if you are looking for a reason to dig other than digging, it is not here.

@@ -44,8 +44,6 @@ Nous l'avons déjà écrit et cela vaut ici encore : ce modèle produit un très
 
 ## La note, et ce qu'elle vaut
 
-Le jeu vient de sortir et ne compte encore aucun avis Steam : cette note vient de nos parties, et elle sanctionne l'absence de contrepartie ludique à l'effort demandé plutôt qu'un défaut technique.
-
 Dites-nous : la répétition tranquille après une journée de boulot, ça vous détend ou ça vous épuise ?
 
 Il est disponible en français, et il trouvera sans doute son public : il existe des joueurs pour qui la répétition tranquille est exactement le repos recherché après une journée de travail, et ce n'est pas un tort. Simplement, si vous cherchez une raison de creuser autre que le fait de creuser, elle n'est pas ici.
