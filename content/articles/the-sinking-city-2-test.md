@@ -11,6 +11,7 @@ score: 8
 image_color: "from-teal-950 via-slate-900 to-zinc-950"
 coverImage: "/images/sinkingcity2/screenshot-1.webp"
 gameName: "The Sinking City 2"
+buyUrl: "https://fr.gamesplanet.com/game/the-sinking-city-2-steam-key--6801-1?ref=insertcoins"
 featured: false
 ---
 
