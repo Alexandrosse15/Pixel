@@ -50,7 +50,7 @@ Sur le streaming, vous avez raison et c'est même le public visé. Un jeu où l'
 
 Les réserves sont celles du genre et de la maison d'édition. Un simulateur de tâches vit sur la variété de ses chantiers et sur la qualité de sa manipulation, et la production en série ne garantit ni l'une ni l'autre. Le risque est qu'une excellente idée d'écriture soit servie par une exécution générique, ce qui serait dommage.
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note ici. Il est disponible en français, avec la réserve que la traduction est en partie automatisée selon la déclaration du studio, ce qui se vérifiera à l'usage.
+Il est disponible en français, avec la réserve que la traduction est en partie automatisée selon la déclaration du studio, ce qui se vérifiera à l'usage.
 
 Une démo existe. Pour ce type de production, c'est clairement par là qu'il faut commencer.
 

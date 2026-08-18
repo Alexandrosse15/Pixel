@@ -50,7 +50,7 @@ C'est une leçon utile par les temps qui courent. Le soupçon d'IA est devenu un
 
 ## Ce qu'il faut savoir
 
-Le jeu sort aujourd'hui en accès anticipé et ne compte encore aucun avis utilisateur, ce qui explique l'absence de note ici. Il est disponible en français.
+Il est disponible en français.
 
 Les critiques listées plus haut ne sont pas toutes infondées, et il serait malhonnête de les balayer sous prétexte que leur conclusion l'était. Une progression mal signalée, des objets aux comportements peu lisibles et des physiques qui cohabitent sans se répondre sont des reproches classiques pour un jeu de ce type, et l'accès anticipé existe précisément pour les traiter. On surveillera aussi la structure narrative, qui semble s'épuiser plus vite que la boucle d'usine.
 

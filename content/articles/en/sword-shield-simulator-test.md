@@ -36,12 +36,9 @@ That adventure layer will decide the longevity. A trade simulator always ends up
 
 ## What we do not know
 
-The game launches today in Early Access, published by Wildlands Interactive with Ultimate Games, and has no user reviews yet, hence the absence of a score here.
-
 The points to watch are classic but decisive: the feel of the work, which is everything in this genre, and the economic balance, which must reward careful craft without turning every order into a chore. The adventure portion will also need to avoid being incidental filler between hammering sessions.
 
 Good point worth flagging: the game is available in French.
-
 
 ## The player verdict, and it is harsh
 

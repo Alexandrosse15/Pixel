@@ -50,7 +50,6 @@ Bonne nouvelle pour finir, et elle n'est pas si fréquente : le jeu est intégra
 
 Pour qui aime bricoler ses propres outils de destruction, c'est déjà une raison suffisante d'y aller. Pour qui vient chercher une grande histoire, mieux vaut attendre de voir comment le récit s'étoffe.
 
-
 Les premiers avis Steam sont arrivés et confirment la nuance de ce test : Plutôt positifs, à 71 % sur près de 120 retours. Le système de sorts convainc, le reste divise davantage.
 
 ![Echoes of Mystralia, le Temple Azimuth et la progression entre les runs](/images/echoesofmystralia/screenshot-3.webp)

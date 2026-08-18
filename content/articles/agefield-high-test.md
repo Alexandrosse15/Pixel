@@ -42,12 +42,11 @@ Aux nostalgiques de la culture du début des années 2000, musique, films, mode,
 
 Aux autres, beaucoup moins, et le studio le dit lui-même. L'humour est le premier filtre : si le registre graveleux vous fatigue, dix heures deviendront très longues.
 
-Le jeu sort aujourd'hui, sans avis utilisateur pour l'instant, ce qui explique l'absence de note. Bonne nouvelle, il est disponible en français.
+Bonne nouvelle, il est disponible en français.
 
 Reste une curiosité que la fiche ne lève pas : un jeu qui revendique un humour d'une autre époque doit encore prouver qu'il en a l'esprit et pas seulement les blagues. C'est toute la différence entre un hommage et une redite.
 
-
-Aucun avis Steam n'est encore disponible au moment où nous écrivons : cette note vient donc de nos parties et non d'un consensus de joueurs. Elle salue une proposition honnête, bien cadrée et amusante pour son public, tout en tenant compte de son ampleur volontairement modeste et du filtre que représente son humour.
+Elle salue une proposition honnête, bien cadrée et amusante pour son public, tout en tenant compte de son ampleur volontairement modeste et du filtre que représente son humour.
 
 Et vous, l'humour graveleux du début des années 2000, ça vous fait encore rire ou ça a mal vieilli ?
 

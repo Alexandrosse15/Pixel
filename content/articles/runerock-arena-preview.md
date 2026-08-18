@@ -35,7 +35,7 @@ L'objectif final est le championnat de la ligue de Runerock.
 
 Le jeu est signé Areena Games, et une note sur la fiche s'adresse spécifiquement aux joueurs finlandais : il s'agit d'un jeu du créateur original des jeux Areena, Seppo Suorsa. Autant dire qu'on est face à une résurgence de série culte locale plutôt qu'à un projet opportuniste, ce qui explique aussi le côté vieille école assumé.
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note ici. La vraie question, pour un titre de ce genre, sera la profondeur du moteur de combat au tour par tour : quand on regarde beaucoup et qu'on clique peu, il faut que les affrontements soient lisibles et que les décisions d'équipement et de composition se voient à l'écran.
+La vraie question, pour un titre de ce genre, sera la profondeur du moteur de combat au tour par tour : quand on regarde beaucoup et qu'on clique peu, il faut que les affrontements soient lisibles et que les décisions d'équipement et de composition se voient à l'écran.
 
 Un jeu à réserver aux amateurs de tableurs à visage humain, donc. Ceux-là ne verront pas les graphismes au bout de dix minutes.
 

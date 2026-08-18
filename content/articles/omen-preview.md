@@ -35,9 +35,7 @@ Côté opposition, quatre factions ennemies avec leurs vaisseaux et leurs tactiq
 
 ## Ce qu'on ne sait pas encore
 
-Beaucoup, en réalité. Omen sort aujourd'hui, développé et édité par Codex Interactive, sans aucun avis utilisateur, ce qui explique l'absence de note ici.
-
-Les points à surveiller sont ceux de tout jeu qui mélange autant de genres. Un titre qui fait à la fois du combat spatial, de la défense de base, de la construction, de l'exploration et de la bataille de flotte peut donner un ensemble riche, ou une accumulation de systèmes dont aucun n'est pleinement satisfaisant. La qualité du pilotage sera déterminante, puisque c'est ce qu'on fait le plus souvent, et l'équilibrage des expéditions décidera si la boucle tient au-delà de la dixième.
+Beaucoup, en réalité.Les points à surveiller sont ceux de tout jeu qui mélange autant de genres. Un titre qui fait à la fois du combat spatial, de la défense de base, de la construction, de l'exploration et de la bataille de flotte peut donner un ensemble riche, ou une accumulation de systèmes dont aucun n'est pleinement satisfaisant. La qualité du pilotage sera déterminante, puisque c'est ce qu'on fait le plus souvent, et l'équilibrage des expéditions décidera si la boucle tient au-delà de la dixième.
 
 Réserve pratique enfin : le jeu est disponible en anglais uniquement, et vu la densité du vocabulaire propre à son univers, ce n'est pas neutre.
 

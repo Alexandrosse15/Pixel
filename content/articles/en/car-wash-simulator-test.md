@@ -56,7 +56,6 @@ Next, this is Early Access, and the starting content is modest: two districts, a
 
 The bet is interesting: where PowerWash succeeded by staying pure and focused on a single sensation, this one stacks cleaning, property management, timers, crime and mini-games. That can produce a richer game, or one that does nothing as well as its model. The demo is free, and given the reception it got, that is clearly where to start.
 
-
 ## What players have said since
 
 Caution was warranted. Since release, Steam reviews are Mixed at 41 percent positive across around fifty ratings. That is lower still than the demo's 50 percent, which suggests the move to a full version did not convince.

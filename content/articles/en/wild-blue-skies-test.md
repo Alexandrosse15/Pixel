@@ -50,7 +50,7 @@ The stated philosophy is the right one for this genre: easy to pick up, deeply r
 
 ## What we do not know yet
 
-The game is out today on PC, PlayStation 5 and Xbox Series, with a Switch version announced for later in the year. It has no user reviews yet, hence the absence of a score here. Good news, the interface and subtitles are available in French, and a demo lets you judge for yourself.
+The game is out today on PC, PlayStation 5 and Xbox Series, with a Switch version announced for later in the year.Good news, the interface and subtitles are available in French, and a demo lets you judge for yourself.
 
 The only real unknown is the one every on-rails shooter faces: length. The genre rests on short campaigns you replay for score and alternate routes, and its longevity depends entirely on how generous the branching is and how demanding the medal system proves. If the hidden paths are plentiful and the scores exacting, you come back for weeks. Otherwise it is a lovely evening and that is that.
 

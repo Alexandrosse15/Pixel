@@ -48,7 +48,6 @@ Nous n'irons pas plus loin dans le procès d'intention, et nous ne dirons pas à
 
 La note ci-dessus porte uniquement sur le jeu. Le reste vous appartient.
 
-
 À noter, la réception est meilleure que ne le laissait présager notre première impression : les avis Steam sont Très positifs, à 82 % sur plus de 110 retours. Le jeu fait donc son travail auprès des amateurs de tactique, ce que la note reflète.
 
 ![Warhounds, la gestion de base entre les missions](/images/warhounds/screenshot-3.webp)

@@ -33,7 +33,7 @@ The rest is raw material in quantity: over a hundred and forty skills, more than
 
 The usual ratio is therefore inverted. Here the depth sits on the side of text and systems, the poverty on the side of the image. For a genre where you watch your units fight by themselves, that is a real handicap: the spectacle is part of the reward, and when there is no spectacle, what remains is numbers going up.
 
-To be seen, then, whether the density of the scrolls compensates for the dryness of the staging across dozens of runs. The game has just launched, with no user reviews, which explains the absence of a score. It is available in French, which matters a great deal for a game this wordy.
+To be seen, then, whether the density of the scrolls compensates for the dryness of the staging across dozens of runs.It is available in French, which matters a great deal for a game this wordy.
 
 ![Heritage, the scrolls and year-by-year choices](/images/heritage/screenshot-2.webp)
 

@@ -44,7 +44,6 @@ Sur le papier, la structure est donc complète, et plus fournie que le simple ex
 
 Reste la vraie question, celle à laquelle aucune fiche ne répond : est-ce que la sensation de tir tient la comparaison avec le souvenir qu'on en a ? Parce que dans ce registre, la nostalgie est un juge redoutable, et elle embellit toujours.
 
-
 Depuis notre première prise en main, les joueurs ont tranché : les avis Steam sont Très positifs, à 91 % sur plus de 220 retours. L'hommage tient donc ses promesses, y compris sur la sensation de tir, qui était notre seule vraie inconnue.
 
 ![Agent 64 Spies Never Die, les missions et l ecran splitte](/images/agent64/screenshot-2.webp)

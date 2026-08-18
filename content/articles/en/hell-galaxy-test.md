@@ -48,7 +48,6 @@ The reservations belong to the format. A solo space shooter built on customisati
 
 But the essential point lies elsewhere, and it meets your irritation head on. This game exists, it plays, it costs the price of an indie title, and it offers an idea nobody else had. Perhaps that is the answer to fourteen years of waiting: stop waiting.
 
-
 After a year of public release, reception settles at 76 percent positive across eighty reviews, an honest Mostly Positive. That is the score of a good niche game that has not yet convinced beyond its natural audience.
 
 ![Hell Galaxy, the combat and the sanity gauge](/images/hellgalaxy/screenshot-3.webp)

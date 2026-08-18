@@ -44,7 +44,7 @@ For younger readers, a reminder of why this title matters: in the mid-1980s it h
 
 ## What we do not know yet
 
-The game is out today with no user reviews, which explains the absence of a score here. It is available in French.
+It is available in French.
 
 Two unknowns will decide its fate. The first is the real depth of Kingdom Mode: if the generated maps and dice mechanics produce genuine variety, the game lasts; if it is only random dressing over the same match, nostalgia will have to carry it, and nostalgia never carries very far.
 

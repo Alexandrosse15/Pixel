@@ -48,7 +48,6 @@ Les réserves sont celles du format. Un shooter spatial solo bâti sur la person
 
 Mais l'essentiel est ailleurs, et rejoint votre agacement. Ce jeu existe, il se joue, il coûte le prix d'un jeu indépendant, et il propose une idée que personne d'autre n'a eue. C'est peut-être ça, finalement, la réponse à quatorze ans d'attente : ne pas attendre.
 
-
 Après un an de version publique, l'accueil se stabilise à 76 % d'avis positifs sur quatre-vingts retours, soit un Plutôt positif honnête. C'est le score d'un bon jeu de niche qui n'a pas encore convaincu au-delà de son public naturel.
 
 ![Hell Galaxy, les combats et la jauge de sante mentale](/images/hellgalaxy/screenshot-3.webp)

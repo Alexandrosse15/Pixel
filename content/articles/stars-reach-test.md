@@ -1,12 +1,12 @@
 ---
-title: "Stars Reach : oui, ça ressemble à No Man's Sky, et c'est exactement ce qui va lui coûter cher"
+title: "Stars Reach : le père d'Ultima Online revient avec une galaxie qui se souvient de tout ce qu'on lui fait"
 seoTitle: "Stars Reach : test et avis du MMO sandbox de Raph Koster"
 slug: "stars-reach-test"
 category: "tests"
-excerpt: "Un univers plus petit que No Man's Sky, mais une simulation persistante que No Man's Sky n'a jamais eue. Deux jeux qui n'ont presque rien à voir."
+excerpt: "Une simulation où l'eau coule, les forêts brûlent et la lave durcit en nouvelles terres. Un MMO bâti sur la mémoire des mondes et l'entraide entre joueurs."
 date: "2026-08-18"
 author: "Alexandrosse"
-readTime: "10 min"
+readTime: "9 min"
 score: 7
 image_color: "from-cyan-950 via-indigo-950 to-slate-900"
 coverImage: "/images/starsreach/screenshot-2.webp"
@@ -14,72 +14,74 @@ gameName: "Stars Reach"
 featured: false
 ---
 
-La ressemblance avec No Man's Sky saute aux yeux dans la première minute. Mêmes planètes colorées, même vue à la première personne, même récolte de ressources, même sensation de descendre sur un caillou inconnu. Tout le monde va faire le rapprochement, et tout le monde va se tromper de moitié.
+Les premières minutes trompent leur monde. Planètes colorées, vue à la première personne, récolte de ressources : on croit reconnaître un No Man's Sky de plus et on se prépare à compter les cailloux.
 
-Parce que derrière cette façade se cache un jeu d'un tout autre genre, signé par un homme qui a inventé le genre en question il y a trente ans.
+C'est autre chose. C'est un MMO sur serveur unique, où toute la galaxie est partagée, et où les mondes gardent la mémoire de ce qu'on leur fait.
 
 ![Stars Reach, une planete et sa simulation d ecosysteme](/images/starsreach/screenshot-2.webp)
 
-## Ce qui est vrai dans la comparaison
+## L'homme derrière
 
-Commençons par ce qui ne se discute pas.
+Le studio s'appelle Playable Worlds, et son fondateur est **Raph Koster**. Le nom mérite d'être connu : concepteur principal d'**Ultima Online** en 1997, directeur créatif de **Star Wars Galaxies** en 2003. L'un des rares à avoir inventé le genre qu'il pratique encore, et l'auteur du système de compétences sans classes que tout le monde a copié depuis.
 
-**L'univers est plus petit.** Nettement. No Man's Sky, ce sont 18,4 quintillions de planètes générées par algorithme, un chiffre tellement absurde que personne n'en verra jamais une fraction significative. Stars Reach ne joue pas dans cette catégorie et ne le prétend pas.
+Ça se sent dès qu'on gratte la surface. Stars Reach ne cherche pas à produire du contenu à consommer, il cherche à produire une société. C'est une ambition démodée, et c'est exactement ce qui le rend intéressant.
 
-**Le déséquilibre de contenu est écrasant.** No Man's Sky a fêté ses dix ans le 9 août 2026, neuf jours avant la sortie de Stars Reach. Dix ans pendant lesquels Hello Games a livré **quarante mises à jour majeures gratuites**, de Foundation à Worlds en passant par NEXT, Beyond et Origins, sans jamais faire payer un centime supplémentaire aux acheteurs du jeu de base. La prochaine, Cosmos, est déjà annoncée.
+## La simulation, qui est le vrai sujet
 
-Face à ça, Stars Reach arrive aujourd'hui en accès anticipé payant, jour un, sans historique. La comparaison de contenu est perdue d'avance, elle le restera longtemps, et il faut le savoir avant d'acheter.
+Le coeur du jeu tient dans une phrase : la planète réagit, et elle n'oublie pas.
 
-Sur le constat brut, donc : moins grand, moins fourni, plus cher au regard de ce qu'on obtient immédiatement.
+L'eau s'écoule réellement selon le relief. Les forêts brûlent. La lave refroidit en durcissant, forme de nouveaux matériaux et crée de nouvelles terres. Ce ne sont pas des effets visuels posés sur un décor figé, ce sont des états qui persistent.
 
-## Ce qui est faux, et ça change tout
+Autour de cette base, les mondes vivent leur vie. Le climat change, les créatures migrent, les catastrophes tombent, et l'ensemble réagit d'une façon qu'on ne contrôle jamais complètement. Chaque planète a ses écosystèmes, ses ressources et ses contraintes, et l'on voyage de l'une à l'autre par des trous de ver.
 
-Sauf que ces deux jeux ne cherchent pas la même chose, et l'un d'eux n'est même pas du même genre.
+La conséquence est là où tout se joue : **chaque planète commence vierge, et ce qu'elle devient dépend de ceux qui y passent**. Les villes grandissent ou déclinent, les écosystèmes se déplacent, des espèces s'éteignent, les ressources s'épuisent ou se reconstituent selon l'usage qu'on en fait. On peut protéger un monde ou l'éventrer pour le profit, et les autres joueurs vivront avec ce qu'on laisse derrière.
 
-Stars Reach est développé par **Playable Worlds**, le studio de **Raph Koster**. Ce nom ne dira rien à beaucoup de monde et il devrait. Koster était le concepteur principal d'**Ultima Online** en 1997 et le directeur créatif de **Star Wars Galaxies** en 2003. Autrement dit, l'homme qui a inventé une bonne partie de ce qu'on appelle aujourd'hui un MMO sandbox, et qui a signé le système de compétences sans classes le plus copié de l'histoire du genre.
-
-Stars Reach n'est donc pas un jeu d'exploration spatiale en solo. C'est un **MMO sur serveur unique**, où tous les joueurs partagent la même galaxie. Ce n'est pas une nuance marketing, c'est la raison technique pour laquelle l'univers est plus petit.
-
-Voilà l'arbitrage, et il est logique : on ne peut pas avoir des quintillions de planètes **et** des planètes persistantes que chaque joueur modifie durablement. No Man's Sky a choisi l'infini au prix de l'oubli, vos modifications de terrain y sont locales et éphémères. Stars Reach choisit un nombre fini de mondes qui gardent la mémoire de ce qu'on leur fait.
+C'est rare, et c'est ce qui justifie l'existence de ce jeu.
 
 ![Stars Reach, la construction et les colonies de joueurs](/images/starsreach/screenshot-3.webp)
 
-## Ce que Stars Reach apporte réellement
+## Se fabriquer un métier
 
-Cinq choses, que No Man's Sky n'a pas et ne peut pas avoir. Pas par paresse : par choix de conception incompatible.
+Pas de classes. Des dizaines de voies de compétences qu'on mélange librement pour se construire son propre rôle : protéger les colons en garde, bâtir un empire commercial, louer ses services d'architecte.
 
-**Une simulation de monde qui persiste.** L'eau s'écoule réellement selon le relief, les forêts brûlent, et la lave refroidit en durcissant pour former de nouveaux matériaux et de nouvelles terres. Ce n'est pas un effet visuel : la planète change et le reste. Dans No Man's Sky, un cratère que vous creusez finit par se régénérer.
+Le principe est celui qui a fait la réputation de Star Wars Galaxies, et il a toujours autant de valeur : on n'est enfermé dans rien, on expérimente, on combine, on finit par occuper une place que personne d'autre n'occupe exactement.
 
-**Des conséquences partagées.** Les écosystèmes se déplacent, la faune migre, des espèces s'éteignent, les ressources s'épuisent ou se reconstituent selon l'usage collectif. Protégez l'environnement ou éventrez-le pour le profit, les autres joueurs vivront avec ce que vous laissez. Aucun jeu d'exploration solo ne peut proposer ça, parce qu'il faut des voisins pour que ça signifie quelque chose.
+La montée en compétence passe par l'usage. Chaque voie a son équipement, et la maîtrise vient en s'en servant plutôt qu'en remplissant une barre.
 
-**Un système de compétences sans classes.** Des dizaines de voies, qu'on mélange pour se fabriquer son propre métier : garde, architecte, commerçant, artisan. C'est directement l'héritage de Star Wars Galaxies, et c'est ce qui manque cruellement à presque tous les MMO modernes.
+S'y ajoute le détail le plus malin du jeu, celui qui dit tout de son intention : **vos contributions à la communauté font progresser votre maîtrise**. Un campement que vous construisez vous rapporte de l'expérience quand d'autres joueurs viennent s'y reposer. Le studio a délibérément bâti ses règles pour récompenser l'entraide et réduire la capacité de nuisance, dans un genre où le harcèlement entre joueurs est un sport reconnu.
 
-**Une économie unifiée pilotée par les joueurs.** On se spécialise, on approvisionne des mondes lointains en biens vitaux, on se bâtit une réputation d'artisan à l'échelle de la galaxie. L'économie de No Man's Sky, à côté, est un distributeur automatique.
+## Vivre seul ou fonder une ville
 
-**Une conception délibérément pro-sociale.** Le détail que je trouve le plus malin de tout le jeu : un campement que vous construisez vous rapporte de l'expérience **quand d'autres joueurs viennent s'y reposer**. Le studio a bâti ses règles pour récompenser l'entraide et limiter la capacité de nuisance, ce qui, dans un genre où le grief est un sport, mérite d'être salué.
+On peut se contenter d'une cabane sur une colline isolée et gagner sa vie dans son coin. Le jeu ne punit pas la solitude.
 
-À quoi s'ajoutent les colonies de joueurs avec leur propre gouvernance, où l'on regroupe ses terrains, on bâtit une ville et on décide ensemble de la façon dont elle est dirigée.
+Mais l'autre voie est plus ambitieuse : réclamer une grande parcelle, regrouper ses terrains avec ceux d'autres joueurs, bâtir une colonie puis une ville, décider ensemble de la façon dont elle est gouvernée et de la direction qu'elle prend.
 
-## Le vrai risque, et il n'a rien à voir avec No Man's Sky
+L'économie suit la même logique. Elle est unifiée à l'échelle de la galaxie et entièrement pilotée par les joueurs. On récolte pour vendre, ou l'on transforme pour fabriquer des outils et des technologies qu'on expédie vers des mondes lointains qui en ont besoin pour survivre. On se spécialise, on devient une référence dans son artisanat, et cette réputation circule.
 
-Le danger de ce jeu n'est pas la comparaison avec Hello Games. C'est la population.
+Ce sont des systèmes qui n'ont de sens que collectivement, et c'est là que se trouvent à la fois la promesse et le danger.
 
-Tout ce qui précède, l'économie entre joueurs, les conséquences partagées, les villes gouvernées, les campements qui servent aux autres, n'existe que s'il y a du monde. Un MMO sandbox sans habitants n'est pas un MMO sandbox, c'est un jeu de survie solo avec des serveurs coûteux. On a vu récemment ce que donne une économie de joueurs dans un monde vide, et ce n'est pas beau à voir.
+## Ce qui va décider de son sort
 
-Stars Reach arrive en accès anticipé payant, après un test fermé qui s'est terminé le 12 août avec une remise à zéro des personnages. Tout se jouera sur sa capacité à attirer et retenir assez de monde pour que sa mécanique centrale ait un sens.
+Il faut le dire sans détour : ce jeu vaudra ce que vaudra sa population.
+
+L'économie entre joueurs, les conséquences partagées, les villes gouvernées, les campements qui servent aux autres, rien de tout ça n'existe sans monde en face. Un MMO sandbox désert n'est pas un MMO sandbox, c'est un jeu de survie solitaire avec des serveurs coûteux à entretenir.
+
+Le jeu arrive aujourd'hui en accès anticipé payant, après un test fermé qui s'est achevé le 12 août avec une remise à zéro des personnages. Il démarre donc de rien, avec tout à prouver, et six mois suffiront à savoir si la galaxie s'est peuplée ou si elle est restée un beau décor vide.
+
+C'est aussi, mécaniquement, un jeu qui sera meilleur dans un an qu'aujourd'hui, à condition qu'il y ait un dans un an.
 
 ![Stars Reach, les voyages entre mondes et l economie galactique](/images/starsreach/screenshot-4.webp)
 
 ## Ce qui fixe la note
 
-Elle récompense une proposition de conception réellement singulière : une simulation persistante et partagée, un système de compétences sans classes hérité de ce qui se faisait de mieux, et une architecture sociale pensée pour l'entraide plutôt que contre le grief. Ce sont des idées que personne d'autre ne met sur la table en ce moment.
+Elle récompense une proposition que personne d'autre ne met sur la table : une simulation persistante et partagée où les mondes gardent la trace des passages, un système de compétences sans classes hérité de ce qui s'est fait de mieux dans le genre, et une architecture sociale pensée pour récompenser l'entraide plutôt que pour la subir.
 
-Elle sanctionne un contenu de lancement forcément mince, un univers dont l'étroitesse se ressent quand on vient d'un jeu d'exploration, et le statut d'accès anticipé payant dans un genre où la mortalité est élevée.
+Elle sanctionne un contenu de lancement mince, une galaxie qui paraît étroite quand on arrive avec des habitudes d'explorateur, et le pari de l'accès anticipé payant dans un genre où l'on compte les cadavres par dizaines.
 
-Et elle intègre un risque qui n'est pas technique mais démographique : ce jeu vaudra ce que vaudra sa communauté dans six mois.
+Elle intègre enfin un risque qui n'est ni technique ni artistique mais démographique, le seul contre lequel un studio ne peut pas grand-chose.
 
-Le conseil pratique, pour finir. Si vous cherchez à explorer beaucoup de planètes, seul, sur un jeu fini et généreux, prenez No Man's Sky, la question ne se pose même pas. Si vous cherchez un monde partagé qui garde la trace de ce que vous y faites, No Man's Sky ne vous l'a jamais offert et ne vous l'offrira pas.
+Ce jeu s'adresse à ceux qui veulent habiter un monde plutôt que le visiter. Si l'idée de laisser une trace que d'autres verront vous parle, il n'existe pas beaucoup d'endroits où on vous le propose.
 
-Alors dites-nous, parce que ça nous intéresse vraiment : préférez-vous un univers immense où rien ne persiste, ou un univers restreint où tout se souvient ?
+Une question, du coup : préférez-vous un univers immense où rien ne persiste, ou un univers restreint où tout se souvient ?
 
 Le débat est lancé sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), et on y a des avis très arrêtés sur les MMO sandbox.

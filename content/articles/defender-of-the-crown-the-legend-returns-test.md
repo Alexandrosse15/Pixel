@@ -44,7 +44,7 @@ Rappelons pour les plus jeunes ce qui rendait ce titre notable : au milieu des a
 
 ## Ce qu'on ne sait pas encore
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, ce qui explique l'absence de note ici. Il est disponible en français.
+Il est disponible en français.
 
 Deux inconnues décideront de son sort. La première est la profondeur réelle du mode Royaume : si les cartes générées et les mécaniques de dés produisent une vraie variété, le jeu tient sur la durée ; si ce n'est qu'un habillage aléatoire posé sur la même partie, la nostalgie devra suffire, et elle ne suffit jamais très longtemps.
 

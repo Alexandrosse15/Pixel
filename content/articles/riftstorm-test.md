@@ -36,10 +36,9 @@ Un détail qui fait plaisir aux amateurs : le studio revendique avoir emprunté 
 
 Tout, en réalité, et c'est le lot du genre. Un jeu coopératif PVE vit ou meurt sur la variété de ses missions, la générosité de son butin et la régularité de son suivi. Sans adversaire humain pour renouveler l'expérience, chaque carte doit tenir des dizaines de passages, et c'est un exercice où beaucoup se cassent les dents après trois semaines.
 
-Le jeu sort aujourd'hui en accès anticipé, autour de quinze dollars selon les indications du studio, sans avis utilisateur pour l'instant, ce qui explique l'absence de note. Il est disponible en français, et le studio reconnaît lui-même chasser encore des bugs remontés sur la version de démonstration.
+Il est disponible en français, et le studio reconnaît lui-même chasser encore des bugs remontés sur la version de démonstration.
 
 Le principe est bon, la sensation de jeu semble là. Il ne manque plus que la seule chose qui compte vraiment ici : de quoi tenir.
-
 
 Et le verdict est tombé, moins tendre que prévu : les avis Steam sont Mitigés, à 58 % sur plus de 100 retours. C'est exactement le point que nous redoutions : sans adversaire humain, le contenu doit porter le jeu seul, et il n'y parvient pas encore.
 

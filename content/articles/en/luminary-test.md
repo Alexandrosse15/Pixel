@@ -34,10 +34,9 @@ And this is where the studio's honesty shows, because it says so itself. The fin
 
 The advertised replayability rests on replaying the experience at higher difficulty, which is a slightly thin answer, and on content expanding if Early Access succeeds. The studio puts it bluntly: scope could grow if sales and the community follow. That is frank, but it also means you are betting on a commercial success as much as on a game.
 
-No user reviews exist as we write, the game launching today, hence the absence of a score. Good point: it is available in French.
+Good point: it is available in French.
 
 For a two-person team the ambition is already considerable, and the accessible approach may find its audience among those intimidated by Diablo and its peers. You simply have to buy knowing you are funding a trajectory, not a finished game.
-
 
 Early feedback has arrived and it matches the promise: 73 percent positive across more than 150 reviews, a Mostly Positive. For a game two people openly describe as incomplete, that is a decent start.
 

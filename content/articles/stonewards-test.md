@@ -36,10 +36,9 @@ Le ton est celui, très balisé, de l'humour nain, avec des vannes sur les barbe
 
 Les réserves sont celles de tous les jeux de ce format. La rejouabilité dépendra entièrement de la variété des vagues, des cartes et des améliorations, sans quoi la boucle creuser-forger-défendre se voit très vite. Et comme souvent, le solo existe mais le jeu est clairement écrit pour le groupe : sans personne pour râler quand vous rentrez en retard de la mine, la moitié de l'intérêt s'évapore.
 
-Le jeu sort aujourd'hui en accès anticipé, développé et édité par Banana Tiger Studio, sans aucun avis utilisateur pour l'instant, ce qui explique l'absence de note ici. Bon point à signaler : il est disponible en français.
+Bon point à signaler : il est disponible en français.
 
 Une proposition honnête, donc, avec une vraie bonne idée de rythme, dans un emballage qu'on oubliera. C'est déjà mieux que l'inverse.
-
 
 Et c'est là que le jeu nous donne tort sur le ton employé plus haut : les avis Steam sont Très positifs, à 93 % sur près de 90 retours. L'habillage reste anonyme, mais la boucle fonctionne manifestement bien mieux que sa présentation ne le laissait croire.
 

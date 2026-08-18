@@ -40,7 +40,7 @@ And a dinosaur park going wrong stopped being an original premise a long time ag
 
 ## What to watch
 
-The game is out today with no user reviews yet, hence the absence of a score here. Worth flagging immediately, it is offered in English only, which matters in a game built on puzzles and documents to read.
+Worth flagging immediately, it is offered in English only, which matters in a game built on puzzles and documents to read.
 
 The unknowns belong to the genre. A survival horror rests entirely on tension, and therefore on predator behaviour: if the dinosaurs follow predictable paths, the fear evaporates within two hours. Survival Mode will also have to prove its hunger and thirst systems add pressure rather than chores, the classic pitfall of such grafts.
 

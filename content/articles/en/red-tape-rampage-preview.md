@@ -35,7 +35,7 @@ One detail matters, and the developer deserves credit for volunteering it: he pu
 
 That is transparency we would like to see more often, and it prompts two remarks. On one hand, a coding assistant for an indie studio is now an ordinary working tool, no different from an engine or an editor. On the other, assisted localisation will need checking, because that is typically where this kind of automation produces clumsy text, especially in a game whose humour rests on corporate vocabulary and its stock phrases.
 
-The game is out today, developed by Blunder Studios, with no user reviews yet, which explains the absence of a score. Worth flagging for you: it is not offered in French at launch.
+Worth flagging for you: it is not offered in French at launch.
 
 The reservations remain those of any incremental. The curve must hold over time, and the satire must renew itself beyond the initial good joke. But if the idea of firing your entire department to unlock a synergy raises a guilty smile, you already know where your next evenings are going.
 

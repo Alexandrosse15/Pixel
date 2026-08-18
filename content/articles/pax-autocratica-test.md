@@ -66,7 +66,6 @@ Reste que l'écart entre l'intention et la réception ne se contrôle jamais tot
 
 En attendant, oui : un État totalitaire, des mechas, du bullet hell et des prisonniers à convertir, dans un jeu qui a la décence d'être beau et de savoir de quoi il parle. Une démo et un prologue gratuits sont disponibles pour se faire une idée avant de payer, et vu qu'il s'agit d'un accès anticipé, c'est exactement ce qu'il faut faire.
 
-
 Les joueurs ont désormais tranché, et largement : les avis Steam sont Très positifs, à 89 % sur plus de 700 retours. Pour un accès anticipé qui mélange colony sim et FPS, c'est un accueil qui valide le pari du studio.
 
 ![Pax Autocratica, la gestion des citoyens et de la colonie](/images/paxautocratica/screenshot-3.webp)

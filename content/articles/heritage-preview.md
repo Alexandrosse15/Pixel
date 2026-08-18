@@ -33,7 +33,7 @@ Le reste est de la matière brute en quantité : plus de cent quarante compéten
 
 Le rapport est donc inversé par rapport à d'habitude. Ici, la profondeur est du côté du texte et des systèmes, la pauvreté du côté de l'image. Pour un genre où l'on regarde ses unités se battre toutes seules, c'est un handicap réel : le spectacle fait partie de la récompense, et quand il n'y a pas de spectacle, il reste des chiffres qui montent.
 
-À voir, donc, si la densité des parchemins compense la sécheresse de la mise en scène sur des dizaines de parties. Le jeu vient de sortir, sans aucun avis utilisateur, ce qui explique l'absence de note. Il est disponible en français, ce qui compte beaucoup pour un jeu aussi bavard.
+À voir, donc, si la densité des parchemins compense la sécheresse de la mise en scène sur des dizaines de parties.Il est disponible en français, ce qui compte beaucoup pour un jeu aussi bavard.
 
 ![Heritage, les parchemins et les choix annee par annee](/images/heritage/screenshot-2.webp)
 

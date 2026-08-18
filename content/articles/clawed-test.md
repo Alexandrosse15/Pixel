@@ -40,7 +40,7 @@ Et puis un parc à dinosaures qui tourne mal, ça ne s'invente plus depuis longt
 
 ## Ce qu'il faut surveiller
 
-Le jeu sort aujourd'hui et ne compte encore aucun avis utilisateur, d'où l'absence de note ici. À signaler tout de suite, il est proposé en anglais uniquement, ce qui compte dans un jeu à énigmes et à documents à lire.
+À signaler tout de suite, il est proposé en anglais uniquement, ce qui compte dans un jeu à énigmes et à documents à lire.
 
 Les inconnues sont celles du genre. Un survival horror repose entièrement sur la tension, donc sur le comportement des prédateurs : si les dinosaures suivent des trajets prévisibles, la peur retombe en deux heures. Le mode Survie devra également prouver que ses systèmes de faim et de soif ajoutent de la pression plutôt que de la corvée, écueil classique de ces greffes.
 

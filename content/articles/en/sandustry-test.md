@@ -50,7 +50,7 @@ That is a useful lesson at the moment. Suspicion of AI has become a critical ref
 
 ## What to know
 
-The game launches today in Early Access and has no user reviews yet, which explains the absence of a score here. It is available in French.
+It is available in French.
 
 The criticisms listed above are not all unfounded, and it would be dishonest to sweep them aside because their conclusion was. Poorly signposted progression, objects with unclear behaviours and physics systems that coexist without answering one another are classic complaints for a game of this type, and Early Access exists precisely to address them. We will also watch the narrative structure, which appears to run dry faster than the factory loop.
 

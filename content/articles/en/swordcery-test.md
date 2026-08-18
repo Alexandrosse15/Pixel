@@ -38,10 +38,9 @@ Translation: this is a game of reading and reflexes, not a power fantasy. Every 
 
 They matter and should be stated. A game built on weapon variety lives or dies on balance: if three blades dominate, the other fifty become scenery to collect. And an action game founded on reading attacks depends entirely on animation legibility and control responsiveness, two things no store page can prove.
 
-The game launches today in Early Access, with no user reviews, which explains the absence of a score here. A demo is available and is clearly the right starting point. One practical caveat: it is offered in English only.
+A demo is available and is clearly the right starting point. One practical caveat: it is offered in English only.
 
 The idea is good and the setting is a delight. What remains is whether the sword is as pleasant to wield as it is to pick up.
-
 
 The first players are unanimous at 100 percent positive, but across only about twenty reviews. That is excellent and entirely insufficient to conclude: this score needs confirming on a larger sample.
 

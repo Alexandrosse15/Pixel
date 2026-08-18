@@ -50,7 +50,7 @@ La philosophie annoncée est la bonne pour ce genre : facile à prendre en main,
 
 ## Ce qu'on ne sait pas encore
 
-Le jeu sort aujourd'hui sur PC, PlayStation 5 et Xbox Series, avec une version Switch annoncée pour plus tard dans l'année. Il ne compte encore aucun avis utilisateur, d'où l'absence de note ici. Bonne nouvelle, l'interface et les sous-titres sont disponibles en français, et une démo permet de vérifier par soi-même.
+Le jeu sort aujourd'hui sur PC, PlayStation 5 et Xbox Series, avec une version Switch annoncée pour plus tard dans l'année.Bonne nouvelle, l'interface et les sous-titres sont disponibles en français, et une démo permet de vérifier par soi-même.
 
 La seule vraie inconnue est celle de tous les rail shooters : la durée. Le genre repose sur des campagnes courtes qu'on rejoue pour le score et les trajectoires alternatives, et sa longévité dépend entièrement de la générosité des embranchements et de la qualité du système de médailles. Si les chemins cachés sont nombreux et les scores exigeants, on y revient des semaines. Sinon, c'est une très belle soirée et puis c'est tout.
 

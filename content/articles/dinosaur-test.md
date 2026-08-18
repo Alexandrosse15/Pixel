@@ -48,7 +48,7 @@ Le second est le contrôle direct des créatures. Passer du point de vue du gest
 
 ## Ce qu'on ne sait pas
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, ce qui explique l'absence de note. Il est proposé en anglais uniquement.
+Il est proposé en anglais uniquement.
 
 La vraie inconnue est la profondeur de la simulation écologique. Un jeu qui mise tout sur la symbiose entre espèces doit modéliser sérieusement les besoins, les chaînes alimentaires et les conséquences d'un déséquilibre, sans quoi il ne reste qu'un zoo décoratif où l'on pose de jolis modèles. Sur ce point, la fiche ne dit rien, et c'est justement ce qu'il faudrait savoir.
 

@@ -45,7 +45,7 @@ The first is delayed consequences. The studio announces that some decisions are 
 
 The second is wear. Document checking is a repetitive mechanic by nature, and horror dulls quickly if the anomalies become predictable. Everything will depend on the variety of cases and the pace at which the game introduces new rules.
 
-The game is out today, developed and published by Alawar, with no user reviews, which explains the absence of a score. It is available in French.
+It is available in French.
 
 So no, this is not a simple clone. Papers Please told the human cost of paperwork; this one tells the terror of signing something you did not understand. That is not the same subject.
 

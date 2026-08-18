@@ -40,8 +40,6 @@ Il faut tempérer, parce que la présentation du jeu reste très générique. La
 
 Deux signaux appellent à la prudence. Le jeu sort en accès anticipé, avec ce que ça implique de contenu incomplet. Et il est proposé en anglais uniquement, ce qui, pour un jeu de gestion bourré de terminologie, n'est pas anodin et en dit long sur les moyens engagés.
 
-Aucun avis utilisateur n'existe pour l'instant, le jeu sortant aujourd'hui, d'où l'absence de note.
-
 La vraie question sera la profondeur de la simulation. Un aéroport est un système passionnant à gérer si les dépendances sont réellement modélisées et si une erreur se propage. Si en revanche les incidents ne sont qu'une suite d'alertes à cliquer, l'ennui arrive vite. On aimerait beaucoup y trouver la tension d'une nuit de tempête à Dulles. On attend de voir.
 
 Elle récompense un cahier des charges correctement rempli et la bonne idée du pilotage direct des équipements, tout en sanctionnant une présentation générique, un accès anticipé et l'absence de version française.

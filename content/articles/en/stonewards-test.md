@@ -40,7 +40,6 @@ The game launches today in Early Access, developed and published by Banana Tiger
 
 An honest proposition, then, with one genuinely good pacing idea, in packaging you will forget. That is already better than the reverse.
 
-
 And here the game proves our earlier tone wrong: Steam reviews are Very Positive at 93 percent across nearly 90 reviews. The packaging stays anonymous, but the loop clearly works far better than its presentation suggested.
 
 ![Stonewards, the mines to raid between waves](/images/stonewards/screenshot-2.webp)

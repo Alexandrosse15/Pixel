@@ -36,12 +36,9 @@ C'est cette couche d'aventure qui décidera de la durée de vie. Un simulateur d
 
 ## Ce qu'on ne sait pas
 
-Le jeu sort aujourd'hui en accès anticipé, édité par Wildlands Interactive avec Ultimate Games, et ne compte encore aucun avis utilisateur, d'où l'absence de note ici.
-
 Les points à surveiller sont classiques mais décisifs : la sensation du geste, qui fait tout dans ce genre, et l'équilibrage économique, qui doit récompenser le travail soigné sans transformer chaque commande en corvée. La partie aventure devra également éviter d'être un remplissage anecdotique entre deux séances de martelage.
 
 Bon point à signaler : le jeu est disponible en français.
-
 
 ## Le verdict des joueurs, et il est sévère
 

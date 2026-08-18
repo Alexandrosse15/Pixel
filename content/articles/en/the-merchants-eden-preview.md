@@ -37,7 +37,7 @@ Which is exactly why you should not expect the depth of an Anno or a Manor Lords
 
 The usual reservations apply. A game built on enemy waves lives or dies on the variety of its attackers and its difficulty curve, without which the build-and-defend loop shows quickly. And a minimalist city builder has to prove it has enough buildings and decisions to hold past a few hours.
 
-The game is out today with no user reviews, hence the absence of a score. It is available in French.
+It is available in French.
 
 For a gentle evening with a little tension, the contract looks fulfilled. And it really is very pretty.
 

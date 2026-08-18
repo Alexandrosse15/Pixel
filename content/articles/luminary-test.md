@@ -34,10 +34,9 @@ Et c'est là que l'honnêteté du studio se manifeste, parce qu'il le dit lui-m�
 
 La rejouabilité annoncée repose sur la reprise de l'expérience en difficulté supérieure, ce qui est une réponse un peu courte, et sur l'élargissement du contenu si l'accès anticipé marche. Le studio le formule d'ailleurs sans détour : l'ampleur pourra grandir si les ventes et la communauté suivent. C'est franc, mais cela signifie aussi que vous pariez sur un succès commercial autant que sur un jeu.
 
-Aucun avis utilisateur n'existe à l'heure où nous écrivons, le jeu sortant aujourd'hui, d'où l'absence de note. Bon point : il est disponible en français.
+Bon point : il est disponible en français.
 
 Pour une équipe de deux personnes, l'ambition est déjà considérable, et l'approche accessible peut trouver son public chez ceux que Diablo et consorts intimident. Il faudra simplement acheter en sachant qu'on finance une trajectoire, pas un jeu terminé.
-
 
 Les premiers retours sont arrivés et ils sont cohérents avec la promesse : 73 % d'avis positifs sur plus de 150 retours, soit un Plutôt positif. Pour un jeu que deux personnes annoncent volontairement incomplet, c'est un départ correct.
 

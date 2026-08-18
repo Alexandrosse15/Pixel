@@ -35,7 +35,7 @@ Une précision qui a son importance, et il faut créditer le développeur de l'a
 
 C'est une transparence qu'on aimerait voir plus souvent, et elle appelle deux remarques. D'un côté, un assistant de code pour un studio indépendant relève aujourd'hui de l'outil de travail ordinaire, au même titre qu'un moteur ou un éditeur. De l'autre, une localisation assistée demandera à être vérifiée, parce que c'est typiquement là que ce genre d'automatisation produit des textes maladroits, surtout dans un jeu dont l'humour repose sur le vocabulaire d'entreprise et ses formules toutes faites.
 
-Le jeu sort aujourd'hui, développé par Blunder Studios, sans aucun avis utilisateur pour l'instant, ce qui explique l'absence de note. À signaler pour vous : il n'est pas proposé en français au lancement.
+À signaler pour vous : il n'est pas proposé en français au lancement.
 
 Les réserves restent celles de tout incremental. La courbe doit tenir sur la durée, et la satire doit se renouveler au-delà de la bonne blague initiale. Mais si l'idée de licencier votre service entier pour débloquer une synergie vous arrache un sourire coupable, vous savez déjà où vont passer vos prochaines soirées.
 

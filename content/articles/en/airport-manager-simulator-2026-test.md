@@ -40,8 +40,6 @@ Some tempering is needed, because the game's presentation stays very generic. Th
 
 Two signals call for caution. The game launches in Early Access, with the incomplete content that implies. And it is offered in English only, which for a management game full of terminology is not trivial and says a great deal about the resources behind it.
 
-No user reviews exist yet, the game launching today, hence the absence of a score.
-
 The real question will be the depth of the simulation. An airport is a fascinating system to run if the dependencies are genuinely modelled and a mistake propagates. If incidents amount to a stream of alerts to click, boredom arrives fast. We would love to find the tension of a stormy night at Dulles in here. We are waiting to see.
 
 It rewards a properly filled genre brief and the good idea of directly operating ground equipment, while penalising a generic presentation, Early Access status and the absence of a French version.

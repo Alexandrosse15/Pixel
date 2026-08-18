@@ -66,7 +66,6 @@ Even so, the gap between intention and reception is never fully controllable. It
 
 In the meantime, yes: a totalitarian state, mechs, bullet hell and prisoners to convert, in a game with the decency to look good and to know what it is talking about. A free demo and a free prologue are available to form an opinion before paying, and since this is Early Access, that is exactly what you should do.
 
-
 Players have now settled it, and decisively: Steam reviews are Very Positive at 89 percent across more than 700 reviews. For an Early Access game mixing colony sim and FPS, that reception validates the studio's bet.
 
 ![Pax Autocratica, citizen and colony management](/images/paxautocratica/screenshot-3.webp)

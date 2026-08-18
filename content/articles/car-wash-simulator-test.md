@@ -56,7 +56,6 @@ Ensuite, c'est un accès anticipé, et le contenu de départ est mesuré : deux 
 
 Le pari est intéressant : là où PowerWash a réussi en restant pur et concentré sur une seule sensation, celui-ci empile le nettoyage, la gestion immobilière, le chrono, le crime et les mini-jeux. Ça peut donner un jeu plus riche, ou un jeu qui ne fait rien d'aussi bien que son modèle. La démo est gratuite, et vu l'accueil qu'elle a reçu, c'est clairement par là qu'il faut commencer.
 
-
 ## Ce que disent les joueurs depuis
 
 La prudence était justifiée. Après la sortie, les avis Steam sont Mitigés, à 41 % de retours positifs sur une cinquantaine d'évaluations. C'est encore plus bas que les 50 % de la démo, ce qui indique que le passage à la version complète n'a pas convaincu.

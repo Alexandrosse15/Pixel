@@ -50,7 +50,6 @@ Good news to close, and it is not that common: the game is fully available in Fr
 
 For anyone who enjoys building their own instruments of destruction, that is reason enough. For anyone here for a great story, better to wait and see how the narrative fills out.
 
-
 The first Steam reviews have arrived and confirm this review's nuance: Mostly Positive at 71 percent across nearly 120 reviews. The spell system convinces, the rest divides more.
 
 ![Echoes of Mystralia, the Azimuth Temple and progression between runs](/images/echoesofmystralia/screenshot-3.webp)

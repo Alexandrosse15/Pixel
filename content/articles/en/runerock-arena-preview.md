@@ -35,7 +35,7 @@ The ultimate goal is the League Championship of Runerock.
 
 The game is by Areena Games, and a note on the store page addresses Finnish players specifically: this is a game by the original creator of the Areena games, Seppo Suorsa. Which is to say we are looking at the revival of a local cult series rather than an opportunistic project, and that also explains the owned old-school feel.
 
-The game launches today with no user reviews, hence the absence of a score here. The real question for a title of this kind will be the depth of the turn-based combat engine: when you watch a lot and click a little, the fights must be legible and your equipment and roster decisions must show on screen.
+The real question for a title of this kind will be the depth of the turn-based combat engine: when you watch a lot and click a little, the fights must be legible and your equipment and roster decisions must show on screen.
 
 A game for lovers of spreadsheets with a human face, then. Those players will stop seeing the graphics after ten minutes.
 

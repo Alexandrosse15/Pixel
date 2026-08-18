@@ -42,7 +42,7 @@ Si vous savez que ce format vous parle un peu trop, la version sans argent est u
 
 ## Ce qu'il faut savoir
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note ici. Bonne nouvelle, il est disponible en français. On note aussi une série d'options de confort plutôt soignées pour un si petit jeu, avec un mode jouable entièrement à la souris ou entièrement au clavier, des réglages de volume détaillés, des alternatives de couleurs et l'absence de contrainte de temps.
+Bonne nouvelle, il est disponible en français. On note aussi une série d'options de confort plutôt soignées pour un si petit jeu, avec un mode jouable entièrement à la souris ou entièrement au clavier, des réglages de volume détaillés, des alternatives de couleurs et l'absence de contrainte de temps.
 
 La vraie inconnue est la profondeur. Un jeu bâti sur une seule décision répétée doit trouver de quoi renouveler l'intérêt : de nouveaux types de tickets, des règles qui se compliquent, des paliers qui changent le calcul. Sans cela, la boucle qui vous tient trois quarts d'heure ne vous en tiendra pas cinq. C'est le pari de tout jeu incrémental, et c'est là qu'ils se séparent en deux catégories.
 

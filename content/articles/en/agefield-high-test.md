@@ -42,7 +42,7 @@ Nostalgics for early 2000s culture, music, films, fashion and references include
 
 Others, much less so, and the studio says as much itself. Humour is the first filter: if the crude register tires you, ten hours will feel very long.
 
-The game is out today, with no user reviews yet, which explains the absence of a score. Good news, it is available in French.
+Good news, it is available in French.
 
 One curiosity the store page does not settle: a game claiming the humour of another era still has to prove it has that era's spirit and not merely its jokes. That is the whole difference between a homage and a rerun.
 

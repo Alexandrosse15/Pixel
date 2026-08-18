@@ -34,7 +34,7 @@ Le rythme annoncé est celui d'un service réel, et c'est exactement celui de la
 
 ## Ce qu'il faut surveiller
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note ici. Un point pratique à signaler tout de suite : il n'est disponible qu'en anglais et en allemand. Pour un jeu entièrement bâti sur la lecture de symptômes, l'interrogatoire de patients et la terminologie médicale, l'absence de version française est un obstacle réel, pas un détail de confort.
+Un point pratique à signaler tout de suite : il n'est disponible qu'en anglais et en allemand. Pour un jeu entièrement bâti sur la lecture de symptômes, l'interrogatoire de patients et la terminologie médicale, l'absence de version française est un obstacle réel, pas un détail de confort.
 
 Sur le fond, deux inconnues décideront de sa valeur. La première est la profondeur du système de diagnostic : si les cas se réduisent à une poignée de tableaux cliniques qu'on reconnaît au bout de trois heures, l'enquête devient une routine. Ce qui fait tenir ce genre de jeu, c'est le nombre de pathologies, la finesse des symptômes trompeurs et la possibilité de se tromper de piste.
 

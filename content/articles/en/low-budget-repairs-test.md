@@ -50,7 +50,7 @@ On streaming you are right, and it is in fact the target audience. A game where 
 
 The reservations belong to the genre and to the publishing house. A task simulator lives on the variety of its jobs and the quality of its handling, and serial production guarantees neither. The risk is that an excellent writing idea ends up served by generic execution, which would be a shame.
 
-The game is out today with no user reviews, hence the absence of a score here. It is available in French, with the caveat that the translation is partly automated according to the studio's own declaration, something that will show in use.
+It is available in French, with the caveat that the translation is partly automated according to the studio's own declaration, something that will show in use.
 
 A demo exists. For this kind of production, that is clearly where to start.
 

@@ -44,7 +44,6 @@ On paper the structure is therefore complete, and fuller than a simple exercise 
 
 That leaves the real question, the one no store page answers: does the feel of the shooting hold up against the memory we have of it? Because in this register, nostalgia is a fearsome judge, and it always flatters.
 
-
 Since our first look, players have settled it: Steam reviews are Very Positive at 91 percent across more than 220 reviews. The homage keeps its promises, including on the feel of the shooting, which was our one real unknown.
 
 ![Agent 64 Spies Never Die, the missions and split-screen](/images/agent64/screenshot-2.webp)

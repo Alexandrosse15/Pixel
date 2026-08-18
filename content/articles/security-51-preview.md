@@ -45,7 +45,7 @@ La première concerne les conséquences différées. Le studio annonce que certa
 
 La seconde tient à l'usure. Le contrôle de documents est une mécanique répétitive par nature, et l'horreur s'émousse vite si les anomalies deviennent prévisibles. Tout dépendra de la variété des cas et du rythme auquel le jeu introduit de nouvelles règles.
 
-Le jeu sort aujourd'hui, développé et édité par Alawar, sans aucun avis utilisateur, ce qui explique l'absence de note. Il est disponible en français.
+Il est disponible en français.
 
 Alors non, ce n'est pas un simple clone. Papers Please racontait le coût humain de la paperasse ; celui-ci raconte la terreur de signer quelque chose qu'on n'a pas compris. Ce n'est pas le même sujet.
 

@@ -28,7 +28,7 @@ Weird Beluga, published by Fireshine Games, presents Duskfade as a declaration o
 
 The difference matters. Jet Set Radio Future was a game of flow: you glided, you held the line, the city was a track. Duskfade is a game of traversal and combat: you jump, dash, grapple, glide, and slash. Movement is a means of reaching things, not an end in itself.
 
-Which explains your impression without contradicting it: the fluidity is related, the objective is not.
+Hence the misleading kinship: the fluidity is the same, the objective is not.
 
 ## What the game tells
 

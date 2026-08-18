@@ -35,9 +35,7 @@ On the opposition side, four enemy factions with their own ships and tactics: pi
 
 ## What we do not know yet
 
-A great deal, in truth. Omen launches today, developed and published by Codex Interactive, with no user reviews, which explains the absence of a score here.
-
-The points to watch are those of any game mixing this many genres. A title doing space combat, base defence, building, exploration and fleet battles at once can produce a rich whole, or an accumulation of systems none of which fully satisfies. The quality of the flying will be decisive, since it is what you do most, and the balance of expeditions will decide whether the loop survives past the tenth.
+A great deal, in truth.The points to watch are those of any game mixing this many genres. A title doing space combat, base defence, building, exploration and fleet battles at once can produce a rich whole, or an accumulation of systems none of which fully satisfies. The quality of the flying will be decisive, since it is what you do most, and the balance of expeditions will decide whether the loop survives past the tenth.
 
 One practical caveat: the game is available in English only, and given the density of its proprietary vocabulary, that is not a neutral detail.
 

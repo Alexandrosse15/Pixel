@@ -37,7 +37,7 @@ C'est exactement pour ça qu'il ne faut pas s'attendre à la profondeur d'un Ann
 
 Les réserves habituelles s'appliquent. Un jeu bâti sur des vagues d'ennemis vit ou meurt sur la variété de ses assaillants et sur la courbe de difficulté, sans quoi la boucle bâtir-défendre se voit vite. Et un city builder minimaliste doit prouver qu'il a assez de bâtiments et de décisions pour tenir plus de quelques heures.
 
-Le jeu sort aujourd'hui et ne compte aucun avis utilisateur, d'où l'absence de note. Il est disponible en français.
+Il est disponible en français.
 
 Pour une soirée douce avec un peu de tension, le contrat semble tenu. Et il est vraiment très joli.
 

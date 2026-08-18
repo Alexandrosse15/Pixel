@@ -28,7 +28,7 @@ Weird Beluga, édité par Fireshine Games, présente Duskfade comme une déclara
 
 La différence compte. Jet Set Radio Future était un jeu de flux : on glissait, on tenait la ligne, la ville était une piste. Duskfade est un jeu de traversée et de combat : on saute, on s'élance, on s'accroche au grappin, on plane, et l'on tranche. Le mouvement y est un moyen d'atteindre des choses, pas une fin en soi.
 
-Ce qui explique votre impression sans la contredire : la fluidité est parente, l'objectif ne l'est pas.
+D'où la parenté trompeuse : la fluidité est la même, l'objectif ne l'est pas.
 
 ## Ce que raconte le jeu
 

@@ -36,10 +36,9 @@ A detail enthusiasts will enjoy: the studio says it borrowed its impact effects 
 
 Everything, in truth, and that is the genre's burden. A co-op PVE game lives or dies on the variety of its missions, the generosity of its loot and the regularity of its support. With no human opponent to renew the experience, every map must survive dozens of runs, and plenty of games break their teeth on that after three weeks.
 
-The game launches today in Early Access, around fifteen dollars according to the studio, with no user reviews yet, which explains the absence of a score. It is available in French, and the studio itself admits it is still hunting bugs reported on the demo build.
+It is available in French, and the studio itself admits it is still hunting bugs reported on the demo build.
 
 The premise is good and the feel appears to be there. All that is missing is the only thing that really matters here: enough to keep going.
-
 
 And the verdict has landed, less kind than expected: Steam reviews are Mixed at 58 percent across more than 100 reviews. That is precisely the point we feared: with no human opponent, the content must carry the game alone, and it does not yet.
 

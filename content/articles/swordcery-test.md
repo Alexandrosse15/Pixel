@@ -38,10 +38,9 @@ Traduction : c'est un jeu de lecture et de réflexes, pas un défouloir. Chaque 
 
 Elles sont importantes et il faut les poser. Un jeu bâti sur la variété des armes vit ou meurt sur l'équilibrage : si trois lames dominent, les cinquante autres deviennent du décor à ramasser. Et un jeu d'action fondé sur la lecture des attaques dépend entièrement de la lisibilité des animations et de la réactivité des commandes, deux choses qu'aucune fiche de boutique ne peut prouver.
 
-Le jeu sort aujourd'hui en accès anticipé, sans aucun avis utilisateur, ce qui explique l'absence de note ici. Une démo est disponible, et c'est clairement le bon point de départ. Petite réserve pratique : il est proposé en anglais uniquement.
+Une démo est disponible, et c'est clairement le bon point de départ. Petite réserve pratique : il est proposé en anglais uniquement.
 
 L'idée est bonne, le cadre est réjouissant. Reste à savoir si l'épée est aussi agréable à manier qu'à ramasser.
-
 
 Les premiers joueurs sont unanimes, avec 100 % d'avis positifs, mais sur une vingtaine de retours seulement. C'est excellent et parfaitement insuffisant pour conclure : ce score demande à être confirmé sur un échantillon plus large.
 

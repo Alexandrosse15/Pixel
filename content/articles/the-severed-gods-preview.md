@@ -57,7 +57,7 @@ Sur le papier, c'est correct. Dans les faits, c'est aussi la description de beau
 
 ## Ce qu'il faut savoir avant de sortir la carte
 
-Le jeu sort aujourd'hui en accès anticipé, développé et édité par Topebox, une petite équipe vietnamienne travaillant sous Unity. Aucun avis utilisateur n'existe encore, c'est pourquoi nous ne mettons pas de note. Et il faut le signaler tout de suite : le jeu est disponible en anglais et en chinois uniquement, sans version française.
+Le jeu sort aujourd'hui en accès anticipé, développé et édité par Topebox, une petite équipe vietnamienne travaillant sous Unity.Et il faut le signaler tout de suite : le jeu est disponible en anglais et en chinois uniquement, sans version française.
 
 Le pari est clair. Visuellement, il devra prouver qu'il est autre chose qu'un très bon élève d'Octopath, et la refonte d'interface annoncée sera le premier test. Mécaniquement, en revanche, le combat en hauteur et le sectionnement de membres sur des Titans sont de vraies idées, suffisamment solides pour justifier l'existence du jeu. Reste à corriger cette sensation de se battre contre le hasard, et à prouver que l'histoire tient sur la durée.
 
