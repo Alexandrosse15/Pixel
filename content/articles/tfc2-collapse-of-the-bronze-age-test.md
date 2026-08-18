@@ -76,7 +76,9 @@ Le reste du contenu comprend des missions de scénario, un mode escarmouche et d
 
 Le jeu sort aujourd'hui, 18 août 2026, en **accès anticipé**.
 
-Deux points de vigilance. Le jeu n'est disponible **qu'en anglais** au lancement, même si le studio annonce des localisations ultérieures : pour un RTS qui mise tout sur sa campagne narrative, c'est une barrière réelle. Et Wield Interactive est une très petite équipe, ce qui rend l'ambition narrative aussi belle que risquée.
+Bonne surprise pour une équipe de cette taille : le jeu est traduit en neuf langues dès le lancement, dont le **français**, l'allemand, l'italien, l'espagnol, le polonais, le russe, le portugais brésilien et le chinois simplifié. Pour un RTS qui mise tout sur sa campagne narrative, ça change beaucoup de choses.
+
+Le point de vigilance est ailleurs : Wield Interactive est une très petite équipe, ce qui rend l'ambition narrative aussi belle que risquée.
 
 Une démo existe, elle était jouable pendant le Steam Next Fest, et c'est la meilleure façon de vérifier si la boucle vous accroche avant de payer.
 
@@ -88,7 +90,7 @@ Elle récompense un cadre historique rarement traité et parfaitement exploité,
 
 Elle récompense aussi une décision honnête : refaire l'outillage entièrement plutôt que vendre des missions supplémentaires sous forme d'extension.
 
-Elle tient compte d'un accès anticipé sans recul, d'une absence de version française qui pénalise précisément ce que le jeu a de meilleur, et d'une ambition narrative qu'une petite équipe devra tenir sur la durée.
+Elle tient compte d'un accès anticipé sans recul et d'une ambition narrative qu'une petite équipe devra tenir sur la durée.
 
 Une question, pour ceux qui ont écumé les Sierra : préférez-vous bâtir un empire, ou tenir debout pendant que tout s'effondre ?
 

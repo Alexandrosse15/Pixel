@@ -76,7 +76,9 @@ The rest of the content covers scenario missions, a skirmish mode, and multiplay
 
 The game launches today, 18 August 2026, in **early access**.
 
-Two points of caution. It is available **in English only** at launch, even though the studio has announced later localisations: for an RTS betting everything on its narrative campaign, that is a real barrier. And Wield Interactive is a very small team, which makes the narrative ambition as admirable as it is risky.
+A pleasant surprise for a team this size: the game ships in nine languages at launch, including **French**, German, Italian, Spanish, Polish, Russian, Brazilian Portuguese and Simplified Chinese. For an RTS betting everything on its narrative campaign, that changes a great deal.
+
+The caution lies elsewhere: Wield Interactive is a very small team, which makes the narrative ambition as admirable as it is risky.
 
 A demo exists, it was playable during Steam Next Fest, and it is the best way to check whether the loop grips you before paying.
 
@@ -88,7 +90,7 @@ It rewards a historical setting rarely treated and thoroughly exploited, a centr
 
 It also rewards an honest decision: rebuilding the toolset entirely rather than selling extra missions as an expansion.
 
-It accounts for early access with no track record, the absence of a French version which penalises precisely what the game does best, and a narrative ambition a small team will have to sustain.
+It accounts for early access with no track record, and a narrative ambition a small team will have to sustain.
 
 A question for those who wore out their Sierra discs: would you rather build an empire, or stay standing while everything collapses?
 

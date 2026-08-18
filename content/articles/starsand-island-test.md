@@ -14,6 +14,8 @@ gameName: "Starsand Island"
 featured: false
 ---
 
+*Correction du 18 août 2026. Cet article indiquait que le jeu était disponible en français. C'est faux, et un lecteur nous l'a signalé : Starsand Island ne propose que l'anglais, le japonais et le chinois. L'information a été corrigée.*
+
 Il y a une catégorie de jeux qu'on ne peut pas reprocher d'être ce qu'ils sont. Starsand Island est mignon, simple, facile, et ne présente aucune difficulté particulière. Ce n'est pas un défaut : c'est le produit annoncé, et il faudrait être de mauvaise foi pour lui reprocher de tenir sa promesse.
 
 Le jeu passe en version 1.0 aujourd'hui, 18 août 2026, après six mois d'accès anticipé. Le moment est donc idéal pour dire ce qu'il apporte face à une concurrence particulièrement fournie, et ce qu'il n'apporte pas.
@@ -72,7 +74,7 @@ Elle sanctionne un monde et des personnages sans épaisseur, une progression qui
 
 Elle tient compte, enfin, d'un contexte commercial qui invite à la prudence : une extension cosmétique à moitié prix du jeu, et une note Steam sur laquelle plane un doute documenté.
 
-Bon point, le jeu est disponible en français.
+Un point à connaître avant d'acheter : **le jeu n'est pas traduit en français**. Il propose l'anglais, le japonais et le chinois, simplifié et traditionnel, et rien d'autre.
 
 Le conseil pratique : si votre bibliothèque contient déjà Stardew Valley, Coral Island et My Time at Sandrock, celui-ci n'ajoutera pas grand-chose. Si vous cherchez surtout à décorer une maison sur une jolie île sans qu'on vous demande d'effort, il fait le travail.
 
