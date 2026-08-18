@@ -36,7 +36,7 @@ Votre remarque est légitime, et il faut la préciser sur un point important. On
 
 Autrement dit, si le jeu ne vous plaît pas visuellement, c'est un choix esthétique et un budget, pas de l'automatisation. La distinction compte, parce qu'elle change complètement la nature du reproche.
 
-À noter d'ailleurs, le studio a travaillé ce point pendant l'accès anticipé : la mise à jour de juillet annonçait une refonte visuelle complète de l'appartement d'Eddie, ainsi que des voix de personnages améliorées. Si vos images datent des premières versions, elles ne reflètent probablement plus l'état du jeu.
+À noter d'ailleurs, le studio a travaillé ce point pendant l'accès anticipé : la mise à jour de juillet annonçait une refonte visuelle complète de l'appartement d'Eddie, ainsi que des voix de personnages améliorées. Les captures qui circulent encore datent souvent des premières versions et ne reflètent plus l'état du jeu.
 
 ![AI2U With You Til The End, les personnages et les salles a fuir](/images/ai2u/screenshot-2.webp)
 

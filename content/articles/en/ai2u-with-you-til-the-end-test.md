@@ -36,7 +36,7 @@ Your remark is legitimate, and it needs clarifying on one important point. Given
 
 In other words, if the game does not appeal to you visually, that is an aesthetic choice and a budget, not automation. The distinction matters, because it completely changes the nature of the complaint.
 
-Worth noting too, the studio worked on this during Early Access: the July update announced a full visual revamp of Eddie's apartment, along with upgraded character voices. If your impressions come from the early builds, they probably no longer reflect the state of the game.
+Worth noting too, the studio worked on this during Early Access: the July update announced a full visual revamp of Eddie's apartment, along with upgraded character voices. The screenshots still doing the rounds often come from the early builds and no longer reflect the state of the game.
 
 ![AI2U With You Til The End, the characters and the rooms to escape](/images/ai2u/screenshot-2.webp)
 

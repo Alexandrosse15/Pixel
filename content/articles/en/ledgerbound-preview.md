@@ -35,7 +35,7 @@ On paper the game claims strategically dense grid-based combat. Concretely, the 
 
 The most interesting layer is elsewhere, in the management of time and burnout. Your evenings are limited: spend them nurturing your budding relationships, or working to improve as a tactician. The game insists heavily that these decisions are permanent, and this tension between social life and competence is a genuine design idea, far more original than the combat grid.
 
-On the tactical side, nothing in the announced systems exceeds the genre standard. Hundreds of abilities and promotion branches is a catalogue, not a signature mechanic. No particular terrain, tempo or positioning system is highlighted, and in a grid tactics game that is usually where depth comes from. Your impression is therefore consistent with what the game advertises.
+On the tactical side, nothing in the announced systems exceeds the genre standard. Hundreds of abilities and promotion branches is a catalogue, not a signature mechanic. No particular terrain, tempo or positioning system is highlighted, and in a grid tactics game that is usually where depth comes from. The doubt is therefore consistent with what the game advertises itself.
 
 Still, tactics is probably not why you would come. You come to deny a dead hero's claim and file a form before kissing someone. On that count, the contract looks fulfilled.
 

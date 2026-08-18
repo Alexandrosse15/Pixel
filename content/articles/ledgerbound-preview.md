@@ -35,7 +35,7 @@ Sur le papier, le jeu revendique un combat tactique dense sur grille. Concrètem
 
 La couche la plus intéressante est ailleurs, dans la gestion du temps et de l'épuisement. Vos soirées sont comptées : les passer à entretenir vos relations naissantes, ou à travailler pour progresser comme tacticien. Le jeu insiste lourdement sur le fait que ces décisions sont définitives, et cette tension entre vie sociale et compétence est une vraie idée de design, bien plus originale que la grille de combat.
 
-Sur le terrain tactique, rien dans les systèmes annoncés ne dépasse le standard du genre. Des centaines de capacités et des branches de promotion, c'est un catalogue, pas une mécanique signature. Aucun système de terrain, de rythme ou de positionnement particulier n'est mis en avant, et dans un tactique sur grille, c'est généralement de là que vient la profondeur. Votre ressenti est donc cohérent avec ce que le jeu affiche.
+Sur le terrain tactique, rien dans les systèmes annoncés ne dépasse le standard du genre. Des centaines de capacités et des branches de promotion, c'est un catalogue, pas une mécanique signature. Aucun système de terrain, de rythme ou de positionnement particulier n'est mis en avant, et dans un tactique sur grille, c'est généralement de là que vient la profondeur. Le doute est donc cohérent avec ce que le jeu affiche lui-même.
 
 Reste que ce n'est probablement pas pour la tactique qu'on viendra. C'est pour refuser un sinistre à un héros mort et remplir un formulaire avant d'embrasser quelqu'un. À ce titre, le contrat semble tenu.
 
