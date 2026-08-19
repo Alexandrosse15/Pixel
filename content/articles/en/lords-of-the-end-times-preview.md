@@ -11,7 +11,7 @@ image_color: "from-stone-900 via-red-950 to-zinc-950"
 coverImage: "/images/lordsoftheendtimes/screenshot-1.webp"
 gameName: "Total War: WARHAMMER III - Lords of the End Times"
 buyUrl: "https://fr.gamesplanet.com/game/total-war-warhammer-iii-lords-of-the-end-times-steam-key--4959-23?ref=insertcoins"
-featured: false
+featured: true
 ---
 
 I am qualified to talk about the End Times: I was there.
