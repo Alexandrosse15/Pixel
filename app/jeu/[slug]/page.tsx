@@ -41,7 +41,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : `${SITE_URL}${test.coverImage}`
     : `${SITE_URL}/opengraph-image`
 
+  // Un hub qui ne regroupe qu'un seul article fait doublon avec cet article :
+  // on le laisse accessible aux lecteurs mais on ne le propose pas à l'indexation.
+  const thin = game.articles.length < 2
+
   return {
+    robots: thin ? { index: false, follow: true } : { index: true, follow: true },
     title: game.name,
     description,
     alternates: {

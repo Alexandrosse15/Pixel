@@ -82,7 +82,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Pages par jeu (hubs SEO ciblant le nom nu du jeu)
   const games = getAllGames('fr')
-  const gameRoutes: MetadataRoute.Sitemap = games.flatMap((game) => {
+  const gameRoutes: MetadataRoute.Sitemap = games.filter((game) => game.articles.length >= 2).flatMap((game) => {
     const lastModified = latestDate(game.articles)
     const frUrl = `${SITE_URL}/jeu/${game.slug}`
     const enUrl = `${SITE_URL}/en/jeu/${game.slug}`

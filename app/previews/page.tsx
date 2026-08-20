@@ -23,6 +23,9 @@ export async function generateMetadata({
   const title = page === 1 ? sectionTitle : `${sectionTitle}, page ${page}`
   const description = t.sections.previews.description
   return {
+    // Les pages de liste au-delà de la première n'ont pas de valeur propre :
+    // on les désindexe tout en laissant les robots suivre les liens.
+    robots: page > 1 ? { index: false, follow: true } : { index: true, follow: true },
     title,
     description,
     alternates: {
