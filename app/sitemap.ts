@@ -35,6 +35,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/guides`, lastModified: guidesDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/guides`, en: `${SITE_URL}/en/guides` } } },
     { url: `${SITE_URL}/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
+    { url: `${SITE_URL}/palmares`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/palmares`, en: `${SITE_URL}/en/palmares` } } },
+    { url: `${SITE_URL}/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
+    { url: `${SITE_URL}/mentions-legales`, lastModified: new Date('2025-01-01'), changeFrequency: 'yearly', priority: 0.2 },
+    { url: `${SITE_URL}/en/palmares`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/palmares`, en: `${SITE_URL}/en/palmares` } } },
+    { url: `${SITE_URL}/en/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
     { url: `${SITE_URL}/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
     // EN versions
     { url: `${SITE_URL}/en`, lastModified: homeDate, changeFrequency: 'daily', priority: 0.9, alternates: { languages: { fr: SITE_URL, en: `${SITE_URL}/en` } } },

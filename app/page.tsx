@@ -8,26 +8,42 @@ import SectionHeader from '@/components/SectionHeader'
 import type { Metadata } from 'next'
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/config'
 
-export const metadata: Metadata = {
-  title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
-  description: SITE_DESCRIPTION,
-  alternates: { canonical: SITE_URL },
-  openGraph: {
-    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
+export async function generateMetadata(): Promise<Metadata> {
+  const locale = (headers().get('x-locale') ?? 'fr') as Locale
+  const isEn = locale === 'en'
+
+  const frUrl = SITE_URL
+  const enUrl = `${SITE_URL}/en`
+  const canonicalUrl = isEn ? enUrl : frUrl
+
+  const title = isEn
+    ? `${SITE_NAME}, the independent video game outlet`
+    : `${SITE_NAME}, le média indépendant du jeu vidéo`
+
+  return {
+    title,
     description: SITE_DESCRIPTION,
-    url: SITE_URL,
-    type: 'website',
-    locale: 'fr_FR',
-    siteName: SITE_NAME,
-    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `${SITE_NAME}, le média indépendant du jeu vidéo` }],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    site: '@insertcoinspress',
-    title: `${SITE_NAME}, le média indépendant du jeu vidéo`,
-    description: SITE_DESCRIPTION,
-    images: ['/opengraph-image'],
-  },
+    alternates: {
+      canonical: canonicalUrl,
+      languages: { fr: frUrl, en: enUrl, 'x-default': frUrl },
+    },
+    openGraph: {
+      title,
+      description: SITE_DESCRIPTION,
+      url: canonicalUrl,
+      type: 'website',
+      locale: isEn ? 'en_US' : 'fr_FR',
+      siteName: SITE_NAME,
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@insertcoinspress',
+      title,
+      description: SITE_DESCRIPTION,
+      images: ['/opengraph-image'],
+    },
+  }
 }
 
 export default async function HomePage() {
