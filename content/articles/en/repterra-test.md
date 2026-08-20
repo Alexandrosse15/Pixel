@@ -4,7 +4,7 @@ seoTitle: "Repterra: review of the dinosaur survival RTS"
 slug: "repterra-test"
 category: "tests"
 excerpt: "Hordes of tens of thousands of dinos, taming, genetic breeding and three factions. Published by MicroProse, and far more than a clone."
-date: "2026-08-20"
+date: "2026-08-18"
 author: "Alexandrosse"
 readTime: "8 min"
 score: 7.5

@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { Article, formatDate } from '@/lib/articles'
+import { Article } from '@/lib/articles'
 import CategoryBadge from './CategoryBadge'
 import CommunityScoreBadge from './CommunityScoreBadge'
 
@@ -43,7 +43,7 @@ export default function ArticleCard({ article, variant = 'default', locale }: Pr
               </h3>
             </div>
             <p className="mt-1 text-xs text-ink-muted">
-              {formatDate(article.date)} · {article.readTime}
+              {article.readTime}
             </p>
           </div>
         </article>
@@ -60,7 +60,6 @@ export default function ArticleCard({ article, variant = 'default', locale }: Pr
             <h3 className="line-clamp-1 font-display text-sm font-bold uppercase leading-tight text-ink-primary transition-colors group-hover:text-brand">
               {article.title}
             </h3>
-            <p className="mt-0.5 text-xs text-ink-muted">{formatDate(article.date)}</p>
           </div>
         </article>
       </Link>
@@ -114,8 +113,6 @@ export default function ArticleCard({ article, variant = 'default', locale }: Pr
           <div className="mt-4 flex items-center justify-between border-t border-line pt-3">
             <span className="text-xs font-medium text-ink-muted">{article.author}</span>
             <div className="flex items-center gap-2 text-xs text-ink-muted">
-              <span>{formatDate(article.date)}</span>
-              <span className="text-line">·</span>
               <span>{article.readTime}</span>
             </div>
           </div>

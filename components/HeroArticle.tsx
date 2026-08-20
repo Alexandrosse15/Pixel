@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { Article, formatDate } from '@/lib/articles'
+import { Article } from '@/lib/articles'
 import CategoryBadge from './CategoryBadge'
 
 interface Props {
@@ -61,8 +61,6 @@ export default function HeroArticle({ article, locale }: Props) {
             <span className="text-sm font-medium text-white/70">
               Par <span className="text-white">{article.author}</span>
             </span>
-            <span className="text-white/30">·</span>
-            <span className="text-sm text-white/70">{formatDate(article.date)}</span>
             <span className="text-white/30">·</span>
             <span className="text-sm text-white/70">{article.readTime} de lecture</span>
           </div>

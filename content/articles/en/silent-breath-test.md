@@ -4,7 +4,7 @@ seoTitle: "SILENT BREATH: review of the microphone-detection horror game"
 slug: "silent-breath-test"
 category: "tests"
 excerpt: "Find missing people in a night forest without making a sound. A simple idea, an engine that exploits it, and a mood recalling the genre's early days."
-date: "2026-08-20"
+date: "2026-08-18"
 author: "Alexandrosse"
 readTime: "7 min"
 score: 7

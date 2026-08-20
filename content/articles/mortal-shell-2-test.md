@@ -4,7 +4,7 @@ seoTitle: "Mortal Shell II : test et avis du souls-like de Cold Symmetry"
 slug: "mortal-shell-2-test"
 category: "tests"
 excerpt: "Plus d'endurance, un monde ouvert compact, huit guerriers morts à habiter. Cold Symmetry transforme une démonstration technique en vrai jeu."
-date: "2026-08-20"
+date: "2026-08-19"
 author: "Alexandrosse"
 readTime: "9 min"
 score: 8

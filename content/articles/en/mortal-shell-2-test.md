@@ -4,7 +4,7 @@ seoTitle: "Mortal Shell II: review of the Cold Symmetry souls-like"
 slug: "mortal-shell-2-test"
 category: "tests"
 excerpt: "No stamina, a compact open world, eight dead warriors to inhabit. Cold Symmetry turns a tech demo into an actual game."
-date: "2026-08-20"
+date: "2026-08-19"
 author: "Alexandrosse"
 readTime: "9 min"
 score: 8

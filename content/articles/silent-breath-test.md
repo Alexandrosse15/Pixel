@@ -4,7 +4,7 @@ seoTitle: "SILENT BREATH : test et avis du jeu d'horreur à détection micro"
 slug: "silent-breath-test"
 category: "tests"
 excerpt: "Retrouver des disparus dans une forêt nocturne sans faire de bruit. Une idée simple, un moteur qui l'exploite, et une ambiance qui rappelle les débuts du genre."
-date: "2026-08-20"
+date: "2026-08-18"
 author: "Alexandrosse"
 readTime: "7 min"
 score: 7

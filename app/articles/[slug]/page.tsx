@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { headers } from 'next/headers'
-import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, formatDate, categoryConfig, slugifyGame, slugifyHeading, extractHeadings } from '@/lib/articles'
+import { getAllSlugs, getArticleBySlug, getRelatedArticles, getArticlesByGame, categoryConfig, slugifyGame, slugifyHeading, extractHeadings } from '@/lib/articles'
 import { enrichArticleWithCover, enrichArticlesWithCovers, getGameScreenshots, getMultipleGameScreenshots } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import { getRating } from '@/lib/redis'
@@ -276,8 +276,6 @@ export default async function ArticlePage({ params }: Props) {
                 <p className="text-sm font-medium text-white">{article.author}</p>
               </div>
             </div>
-            <span className="text-white/20">·</span>
-            <span className="text-sm text-white/60">{formatDate(article.date)}</span>
             <span className="text-white/20">·</span>
             <span className="text-sm text-white/60">{article.readTime} {a.read_time}</span>
           </div>

@@ -4,7 +4,7 @@ seoTitle: "Repterra : test et avis du RTS de survie contre les dinosaures"
 slug: "repterra-test"
 category: "tests"
 excerpt: "Des hordes de dizaines de milliers de dinos, du dressage, de la reproduction génétique et trois factions. Édité par MicroProse, et bien plus qu'un clone."
-date: "2026-08-20"
+date: "2026-08-18"
 author: "Alexandrosse"
 readTime: "8 min"
 score: 7.5
