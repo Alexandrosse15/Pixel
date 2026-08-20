@@ -374,6 +374,20 @@ export default async function ArticlePage({ params }: Props) {
                     }
                     return heading
                   },
+                  // Les liens externes (Discord, partenaires) s'ouvrent dans un
+                  // nouvel onglet : le lecteur ne quitte pas l'article en cours.
+                  a: ({ href, children }) => {
+                    const url = href ?? ''
+                    const external = /^https?:\/\//.test(url) && !url.includes('insertcoins.press')
+                    if (external) {
+                      return (
+                        <a href={url} target="_blank" rel="noopener noreferrer">
+                          {children}
+                        </a>
+                      )
+                    }
+                    return <a href={url}>{children}</a>
+                  },
                   img: ({ src, alt }) => {
                     let finalSrc = src || ''
                     if (finalSrc.startsWith('/images/') && !article.coverImage) {
