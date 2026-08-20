@@ -1,6 +1,6 @@
 ---
 title: "Splatoon Raiders guide: getting started, choosing your Tank, weapons and best builds"
-seoTitle: "Splatoon Raiders: complete beginner guide, builds and weapons"
+seoTitle: "Splatoon Raiders: guide"
 slug: "splatoon-raiders-guide"
 category: "guides"
 excerpt: "Everything to start Splatoon Raiders right: the gameplay loop, difficulties and loot, weapon families, Tanks, gadgets, relics, Bot Buddy and ready-to-use starter builds."

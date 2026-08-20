@@ -1,6 +1,6 @@
 ---
 title: "Warhounds guide: understanding the five classes, the no-RNG shooting and base management"
-seoTitle: "Warhounds: guide to classes, combat and base management"
+seoTitle: "Warhounds: guide"
 slug: "warhounds-guide"
 category: "guides"
 excerpt: "The five classes and their real roles, how to exploit ballistics without dice, and where to start with management between missions."

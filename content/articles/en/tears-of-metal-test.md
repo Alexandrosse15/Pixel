@@ -1,6 +1,6 @@
 ---
 title: "Tears of Metal is a Scottish Dynasty Warriors in co-op, and we waited for it eagerly without being let down"
-seoTitle: "Tears of Metal: review of the co-op hack-and-slash"
+seoTitle: "Tears of Metal: review"
 slug: "tears-of-metal-test"
 category: "tests"
 excerpt: "Mow down hordes with four players and a Scottish battalion, in a snappy, generous hack-and-slash roguelike. Tears of Metal kept every promise of its demo, and it keeps them still."

@@ -1,6 +1,6 @@
 ---
 title: "Spider-Noir: Nicolas Cage, the Great Depression, and the best Marvel series since Daredevil"
-seoTitle: "Spider-Noir review: Prime Video Nicolas Cage series, our verdict"
+seoTitle: "Spider-Noir: review"
 slug: "spider-noir-serie-test"
 category: "cinema"
 excerpt: "Oren Uziel and Steve Lightfoot built something rare: a Marvel series with a committed aesthetic point of view, a lead actor who holds nothing back, and the only dual-viewing experience in superhero television history."

@@ -1,6 +1,6 @@
 ---
 title: "DOOM The Dark Ages Revelations: we waited for the misstep too far, it never came"
-seoTitle: "DOOM The Dark Ages Revelations: review and verdict"
+seoTitle: "DOOM: The Dark Ages, review"
 slug: "doom-the-dark-ages-revelations-test"
 category: "tests"
 excerpt: "Everyone braced for the opportunistic expansion that confirms the decline. Revelations answers with one of 2026's best campaigns. The doubt was unfounded."

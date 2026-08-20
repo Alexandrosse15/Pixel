@@ -1,6 +1,6 @@
 ---
 title: "Stellaris turns 10 and its anniversary gift is also an admission of guilt"
-seoTitle: "Stellaris: 10 years and an admission of guilt"
+seoTitle: "Stellaris: deep dive"
 slug: "stellaris-10-ans-anniversaire-dossier"
 category: "dossiers"
 excerpt: "Paradox integrates three major DLCs into the base game for Stellaris's 10th anniversary. It's generous. It's also, reading between the lines, an admission of guilt."

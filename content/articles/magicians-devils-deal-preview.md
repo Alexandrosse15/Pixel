@@ -1,6 +1,6 @@
 ---
 title: "Magicians: The Devil's Deal, les anciens de BioShock transforment la magie de scène en arme, et c'est somptueux"
-seoTitle: "Magicians: The Devil's Deal : preview du FPS magique"
+seoTitle: "Magicians: The Devil's Deal, preview"
 slug: "magicians-devils-deal-preview"
 category: "previews"
 excerpt: "Un illusionniste déchu, un pacte avec le Diable, un Londres infernal et des cartes qui tranchent. Le FPS magique d'Uppercut Games sent le coup de maître."

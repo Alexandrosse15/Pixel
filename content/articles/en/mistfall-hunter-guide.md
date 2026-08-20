@@ -1,6 +1,6 @@
 ---
 title: "Mistfall Hunter guide: getting started with extraction, surviving and leaving with the loot"
-seoTitle: "Mistfall Hunter: beginner guide to extraction"
+seoTitle: "Mistfall Hunter: guide"
 slug: "mistfall-hunter-guide"
 category: "guides"
 excerpt: "The Mistfall Hunter beginner guide: understanding the extraction loop, managing greed, prioritising loot, surviving rivals and getting out alive."

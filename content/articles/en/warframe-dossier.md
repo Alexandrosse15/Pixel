@@ -1,6 +1,7 @@
 ---
 title: "Warframe, 13 years without trying to please anyone. And that's why it's still here."
 slug: "warframe-dossier"
+seoTitle: "Warframe: 13 years, no compromise"
 category: "dossiers"
 excerpt: "Launched in 2013 to near-universal indifference, Warframe is still running. Not because it made noise. Because it built something solid without ever needing you to talk about it."
 date: "2026-04-18"

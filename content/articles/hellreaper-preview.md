@@ -1,6 +1,6 @@
 ---
 title: "HELLREAPER : Dead Cells rencontre Salt & Sanctuary, et c'est un studio polonais de six personnes qui fait ça"
-seoTitle: "HELLREAPER preview : roguelite action plateforme 2D, notre avis"
+seoTitle: "HELLREAPER : preview"
 slug: "hellreaper-preview"
 category: "previews"
 excerpt: "Awesome Games Studio ne fait pas de jeu générique. Leur prochain roguelite 2D à dessin animé place un ange déchu entre le paradis et l'enfer, avec un système de reliques en adjacence et une direction artistique qui a fait tomber Reddit amoureux instantanément."

@@ -1,6 +1,6 @@
 ---
 title: "Wild Blue Skies : le meilleur Star Fox de l'année est signé par un des programmeurs du Star Fox d'origine"
-seoTitle: "Wild Blue Skies : test et avis du rail shooter aérien de Chuhai Labs"
+seoTitle: "Wild Blue Skies : test et avis"
 slug: "wild-blue-skies-test"
 category: "tests"
 excerpt: "Un rail shooter magnifique, aux visuels inspirés de l'animation japonaise. Derrière, un vétéran de Nintendo qui a programmé le Star Fox original."

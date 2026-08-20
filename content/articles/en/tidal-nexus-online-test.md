@@ -1,6 +1,6 @@
 ---
 title: "Tidal Nexus Online: launching an MMO in 2026 is a mad bet, but its underwater setting saves it from déjà-vu"
-seoTitle: "Tidal Nexus Online: review of the submarine MMO"
+seoTitle: "Tidal Nexus Online: review"
 slug: "tidal-nexus-online-test"
 category: "tests"
 excerpt: "An old-school MMO in 2026 is risky. Tidal Nexus Online gets by on its original underwater setting, despite mechanics we know by heart."

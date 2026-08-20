@@ -1,6 +1,6 @@
 ---
 title: "Mistfall Hunter: I lost two hours of loot five metres from the exit, and I went back in"
-seoTitle: "Mistfall Hunter: review of the extraction ARPG"
+seoTitle: "Mistfall Hunter: review"
 slug: "mistfall-hunter-test"
 category: "tests"
 excerpt: "Extraction is the only genre where nailing 99% of a run and dying on the last metre wipes it all. Mistfall Hunter masters that cruelty perfectly."

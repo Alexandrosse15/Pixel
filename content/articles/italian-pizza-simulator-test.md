@@ -1,6 +1,6 @@
 ---
 title: "Italian Pizza Simulator : l'exception qui sort de l'usine même qu'on critiquait la semaine dernière"
-seoTitle: "Italian Pizza Simulator : test et avis du simulateur de pizzeria"
+seoTitle: "Italian Pizza Simulator : test et avis"
 slug: "italian-pizza-simulator-test"
 category: "tests"
 excerpt: "Rouvrir la pizzeria de sa grand-mère dans un village toscan. Joli, chaleureux, et surtout il ne ressemble pas aux autres simulateurs."

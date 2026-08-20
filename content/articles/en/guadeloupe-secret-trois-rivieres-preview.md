@@ -1,6 +1,6 @@
 ---
 title: "Guadeloupe: the Secret of Trois Rivières, the adventure game where you pedal to move the story forward"
-seoTitle: "Guadeloupe: preview of the exergaming adventure"
+seoTitle: "Guadeloupe: exergaming preview"
 slug: "guadeloupe-secret-trois-rivieres-preview"
 category: "previews"
 excerpt: "Pedal to scroll an adventure through Guadeloupean heritage: Black Frog Studio and EVEIA fuse sport and storytelling. We introduce the project."

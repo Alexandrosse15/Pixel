@@ -1,6 +1,7 @@
 ---
 title: "Vampire Crawlers: yet another deck builder, and somehow this one actually earns it"
 slug: "vampire-crawlers-test"
+seoTitle: "Vampire Crawlers: review"
 category: "tests"
 excerpt: "A Vampire Survivors spin-off that translates the original's chaos into turn-based first-person dungeon crawling. The deck builder genre is crowded, but Vampire Crawlers finds its place with one strong idea and a rhythm that sticks."
 date: "2026-04-21"

@@ -1,6 +1,6 @@
 ---
 title: "Amata : deux ans d'accès anticipé pour un action-RPG 2D qui mise tout sur la fluidité"
-seoTitle: "Amata : test et avis de l'action-RPG 2D en version 1.0"
+seoTitle: "Amata : test et avis"
 slug: "amata-test"
 category: "tests"
 excerpt: "Une lame mémétique, des parades, des artefacts et une téléportation libre entre tous les points connus. La 1.0 arrive après deux ans jour pour jour."

@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon: le cache-cache où l'on se peint en quartier de viande pour survivre"
-seoTitle: "Meccha Chameleon : test du jeu de cache-cache peinture (caméléon)"
+seoTitle: "Meccha Chameleon : test et avis"
 slug: "meccha-chameleon-test"
 category: "tests"
 excerpt: "Un cache-cache où l'on peint son corps blanc pour se fondre dans le décor. Meccha Chameleon transforme le camouflage en art, et c'est génialement absurde."

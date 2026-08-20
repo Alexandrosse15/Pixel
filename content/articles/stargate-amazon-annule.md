@@ -1,6 +1,6 @@
 ---
 title: "Amazon annule Stargate, et nous a fait espérer pour rien une fois de plus"
-seoTitle: "Stargate annulé par Amazon : la franchise sacrifiée"
+seoTitle: "Stargate annulé par Amazon"
 slug: "stargate-amazon-annule"
 category: "industrie"
 excerpt: "Amazon MGM annule la série Stargate de Martin Gero après avoir rejeté trois autres projets. La franchise est vivante sur le papier, morte dans les faits. On a encore cru au retour, on a encore eu tort."

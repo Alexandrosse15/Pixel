@@ -1,6 +1,7 @@
 ---
 title: "Star Wars: Fate of the Old Republic: not a new hope, an old hope"
 slug: "star-wars-fate-of-the-old-republic-preview"
+seoTitle: "Star Wars: Fate of the Old Republic"
 category: "previews"
 excerpt: "Arcanaut Studios reunites BioWare veterans around Casey Hudson for a spiritual successor to KOTOR. Not A New Hope. The other one. The one we've been carrying since 2003."
 date: "2026-05-07"

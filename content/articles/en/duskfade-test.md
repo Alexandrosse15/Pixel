@@ -1,6 +1,6 @@
 ---
 title: "Duskfade: the fluidity reminds you of Jet Set Radio Future, the real lineage lies elsewhere"
-seoTitle: "Duskfade: review of the 3D action platformer"
+seoTitle: "Duskfade: review"
 slug: "duskfade-test"
 category: "tests"
 excerpt: "Jump, dash, glide and slash through a world frozen in eternal night. An owned love letter to the 3D platformers of old."

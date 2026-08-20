@@ -1,6 +1,7 @@
 ---
 title: "Tidehaven Ale and Trade: a medieval tavern that runs itself, and that's the problem"
 slug: "tidehaven-ale-trade-test"
+seoTitle: "Tidehaven: Ale & Trade, review"
 category: "tests"
 excerpt: "A medieval tavern management game that blends idle and active management with welcome generosity. In Early Access, it already lays solid foundations, even if the autopilot ends up taking too much control."
 date: "2026-04-21"

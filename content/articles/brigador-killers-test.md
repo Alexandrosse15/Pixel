@@ -1,6 +1,6 @@
 ---
 title: "Brigador Killers : la suite d'un culte isométrique, où l'on ramène la guerre chez ceux qui l'ont déclenchée"
-seoTitle: "Brigador Killers : test et avis du simulateur d'insurrection isométrique"
+seoTitle: "Brigador Killers : test et avis"
 slug: "brigador-killers-test"
 category: "tests"
 excerpt: "À pied ou en mécha, trente armes à feu, des véhicules à récupérer pour en fabriquer d'autres. La saga Brigador continue et change de camp."

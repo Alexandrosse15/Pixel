@@ -1,6 +1,6 @@
 ---
 title: "The Sinking City 2 : Frogwares abandonne l'enquête pour le survival horror, et c'est le meilleur jeu du studio"
-seoTitle: "The Sinking City 2 : test et avis du survival horror lovecraftien"
+seoTitle: "The Sinking City 2 : test et avis"
 slug: "the-sinking-city-2-test"
 category: "tests"
 excerpt: "Arkham noyée, inventaire serré, munitions comptées. Un bond en avant sur tous les plans, au prix du changement de genre qui va faire débat."

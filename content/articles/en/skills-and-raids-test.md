@@ -1,6 +1,6 @@
 ---
 title: "Skills & Raids wants to inherit from Darkest Dungeon, but it's actually something else entirely, and maybe that's better"
-seoTitle: "Skills & Raids: review, the heir to Darkest Dungeon?"
+seoTitle: "Skills & Raids: review"
 slug: "skills-and-raids-test"
 category: "tests"
 excerpt: "We poured 500-plus hours and tears of blood into Darkest Dungeon. Skills & Raids takes its dark, punishing spirit but grafts on real time and extraction. Successor or hybrid?"

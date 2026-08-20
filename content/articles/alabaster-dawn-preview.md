@@ -1,6 +1,6 @@
 ---
 title: "Alabaster Dawn : Radical Fish Games remet ça, et c'est encore meilleur qu'on espérait"
-seoTitle: "Alabaster Dawn : preview du successeur de CrossCode"
+seoTitle: "Alabaster Dawn : test et avis"
 slug: "alabaster-dawn-preview"
 category: "tests"
 excerpt: "Les créateurs de CrossCode ont mis deux heures et demie dans notre journée. La démo tient ses promesses. On en voulait encore."

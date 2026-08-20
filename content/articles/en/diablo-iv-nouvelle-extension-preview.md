@@ -1,6 +1,7 @@
 ---
 title: "Diablo IV, new expansion: is this finally the moment to come back?"
 slug: "diablo-iv-nouvelle-extension-preview"
+seoTitle: "Diablo IV: preview"
 category: "previews"
 excerpt: "Overlay map, loot filter, new classes, skill tree reworks. The new Diablo IV expansion checks every box the community has been asking for since launch. The real question isn't what it adds. It's whether it repairs."
 date: "2026-04-28"

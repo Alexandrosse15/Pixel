@@ -1,6 +1,6 @@
 ---
 title: "Guide Meccha Chameleon : astuces de peinture, poses, cachettes, modes et conseils pour gagner à tous les coups"
-seoTitle: "Meccha Chameleon : guide complet, astuces, cachettes et modes"
+seoTitle: "Meccha Chameleon : guide"
 slug: "meccha-chameleon-guide"
 category: "guides"
 excerpt: "Toutes les astuces pour ne plus jamais vous faire repérer dans Meccha Chameleon : outil de peinture, poses qui brisent la silhouette, meilleures cachettes, tactiques de chercheur et les trois modes expliqués."

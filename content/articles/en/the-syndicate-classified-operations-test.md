@@ -1,6 +1,6 @@
 ---
 title: "The Syndicate Classified Operations: no, you play neither the CIA nor the KGB, and that is worse for your sleeping hours"
-seoTitle: "The Syndicate Classified Operations: review of the Cold War spy game"
+seoTitle: "The Syndicate: Classified Operations"
 slug: "the-syndicate-classified-operations-test"
 category: "tests"
 excerpt: "A Cold War incremental where you build your own spy network city by city. Made by one person, and built for sleepless nights."

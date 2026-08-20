@@ -1,6 +1,6 @@
 ---
 title: "Mimicry!: the cute prop hunt that amuses for a while but does not reinvent hide-and-seek"
-seoTitle: "Mimicry!: review of the multiplayer prop hunt"
+seoTitle: "Mimicry!: review"
 slug: "mimicry-test"
 category: "tests"
 excerpt: "Disguise as an object or hunt the intruders with explosives. A likeable, chaotic prop hunt, but too derivative to leave a lasting mark."

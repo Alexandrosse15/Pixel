@@ -1,6 +1,6 @@
 ---
 title: "Repterra : They Are Billions avec des dinosaures, et un système d'élevage qui change la donne"
-seoTitle: "Repterra : test et avis du RTS de survie contre les dinosaures"
+seoTitle: "Repterra : test et avis"
 slug: "repterra-test"
 category: "tests"
 excerpt: "Des hordes de dizaines de milliers de dinos, du dressage, de la reproduction génétique et trois factions. Édité par MicroProse, et bien plus qu'un clone."

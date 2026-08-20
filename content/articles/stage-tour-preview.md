@@ -1,6 +1,6 @@
 ---
 title: "Stage Tour peut-il être l'héritier de Guitar Hero, ce génie parti trop tôt ? Ses créateurs reviennent pour essayer"
-seoTitle: "Stage Tour : preview de l'héritier de Guitar Hero"
+seoTitle: "Stage Tour : preview"
 slug: "stage-tour-preview"
 category: "previews"
 excerpt: "RedOctane, le studio derrière Guitar Hero, ressuscite pour livrer Stage Tour. Manette ou fausse guitare, groupe à monter, live-service : le rêve nostalgique est là, mais le genre est mort une fois."

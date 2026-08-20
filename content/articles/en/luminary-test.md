@@ -1,6 +1,6 @@
 ---
 title: "Luminary: two people, an open-world ARPG, and an honesty we wish we saw more often"
-seoTitle: "Luminary: review of the co-op open-world ARPG-lite"
+seoTitle: "Luminary: review"
 slug: "luminary-test"
 category: "tests"
 excerpt: "An accessible ARPG, playable in friction-free co-op, from a two-person studio that says plainly what will be missing at launch."

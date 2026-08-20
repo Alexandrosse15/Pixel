@@ -1,6 +1,6 @@
 ---
 title: "Pro Cycling Manager 26 a enfin retravaillé son cerveau, dommage qu'il garde le même visage depuis dix ans"
-seoTitle: "Pro Cycling Manager 26 : test, le management progresse"
+seoTitle: "Pro Cycling Manager 26 : test et avis"
 slug: "pro-cycling-manager-26-test"
 category: "tests"
 excerpt: "La meilleure refonte du management depuis des années, posée sur un moteur graphique qui n'a pas bougé d'un pignon. On a roulé une saison entière pour trancher."

@@ -1,6 +1,6 @@
 ---
 title: "Après huit ans réservé à la Chine, The Scroll of Taiwu débarque enfin chez nous, et c'est une merveille aussi belle qu'intimidante"
-seoTitle: "The Scroll of Taiwu : test du RPG wuxia chinois"
+seoTitle: "The Scroll of Taiwu : test et avis"
 slug: "the-scroll-of-taiwu-test"
 category: "tests"
 excerpt: "Un indé chinois culte, trois millions de joueurs, huit ans d'Accès Anticipé et une beauté à couper le souffle. Il sort enfin traduit. On s'y est perdu avec délice."

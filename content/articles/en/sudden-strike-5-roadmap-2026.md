@@ -1,6 +1,7 @@
 ---
 title: "Sudden Strike 5: the 2026 roadmap answers the right questions"
 slug: "sudden-strike-5-roadmap-2026"
+seoTitle: "Sudden Strike 5: preview"
 category: "previews"
 excerpt: "Two weeks after launch, Kite Games publishes its 2026 roadmap: QoL patch, campaign co-op, new six-mission DLC, and a scenario editor. The community is skeptical about the base game, but the announcements hit the right targets."
 date: "2026-05-09"

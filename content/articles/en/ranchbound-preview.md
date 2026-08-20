@@ -1,6 +1,6 @@
 ---
 title: "Ranchbound: the Wild West as a tense management game, where you run your cowboys with an iron hand"
-seoTitle: "Ranchbound: preview of the western economic strategy game"
+seoTitle: "Ranchbound: preview"
 slug: "ranchbound-preview"
 excerpt: "Build a ranch, raise cattle, command cowboys and trade with settlers, all in real time with a genuine layer of survival."
 category: "previews"

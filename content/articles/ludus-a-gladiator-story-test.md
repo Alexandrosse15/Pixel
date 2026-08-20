@@ -1,6 +1,6 @@
 ---
 title: "Ludus A Gladiator Story : 1800 choix pour saigner sur le sable, et chacun laisse une cicatrice"
-seoTitle: "Ludus A Gladiator Story : test et avis du RPG narratif"
+seoTitle: "Ludus: A Gladiator Story, test et avis"
 slug: "ludus-a-gladiator-story-test"
 category: "tests"
 excerpt: "Un RPG narratif entièrement doublé sur l'arène romaine, 4 origines, 1800 choix, 19 fins. Ambitieux et marquant, malgré des combats qui restent en retrait."

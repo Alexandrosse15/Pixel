@@ -1,6 +1,7 @@
 ---
 title: "Black Flag Resync : le retour d'un fantome que personne n'a voulu laisser mourir"
 slug: "assassins-creed-black-flag-resync-dossier"
+seoTitle: "Assassin's Creed Black Flag : dossier"
 category: "dossiers"
 excerpt: "Black Flag revient. Mais pourquoi personne n'a repris la barre depuis 2013 ? Ubisoft n'a toujours pas répondu à cette question."
 date: "2026-04-23"

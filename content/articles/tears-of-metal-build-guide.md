@@ -1,6 +1,6 @@
 ---
 title: "Guide des builds Tears of Metal : meilleurs héros, armes, améliorations et conseils coop"
-seoTitle: "Tears of Metal : guide des meilleurs héros et builds"
+seoTitle: "Tears of Metal : guide"
 slug: "tears-of-metal-build-guide"
 category: "guides"
 excerpt: "Le guide des builds de Tears of Metal : quel héros débuter, le build Vanguard Cleaver, les meilleures branches d'amélioration à la forge et comment coordonner son équipe en coop."

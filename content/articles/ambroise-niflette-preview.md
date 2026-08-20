@@ -1,6 +1,6 @@
 ---
 title: "Ambroise Niflette et la Cloche Pomée : James et la Pêche Géante en jeu vidéo, et on attendait ça depuis 1996"
-seoTitle: "Ambroise Niflette : preview stop motion indé"
+seoTitle: "Ambroise Niflette and the Gleaned Bell"
 slug: "ambroise-niflette-preview"
 category: "previews"
 excerpt: "Stop motion époustouflant, personnages adorables, ambiance Wallace et Gromit. Le demo d'Ambroise Niflette est le choc esthétique indé de l'année."

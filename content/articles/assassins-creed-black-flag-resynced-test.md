@@ -1,6 +1,6 @@
 ---
 title: "Black Flag Resynced est le plus beau jeu de pirates jamais fait, et il pose une question qui fâche : fallait-il vraiment le refaire ?"
-seoTitle: "Assassin's Creed Black Flag Resynced : test"
+seoTitle: "Assassin's Creed Black Flag Resynced"
 slug: "assassins-creed-black-flag-resynced-test"
 category: "tests"
 excerpt: "Edward Kenway revient en ray tracing, avec Barbe Noire, un mode photo et zéro temps de chargement. Sublime, respectueux, et pourtant traversé par un doute : était-ce nécessaire ?"

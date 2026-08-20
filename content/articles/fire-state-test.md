@@ -1,6 +1,6 @@
 ---
 title: "Fire State : une prouesse technique bluffante coincée dans un jeu encore à l'état d'ébauche"
-seoTitle: "Fire State : test et avis du shooter tactique"
+seoTitle: "Fire State : test et avis"
 slug: "fire-state-test"
 category: "tests"
 excerpt: "Le premier shooter à environnements 3DGS jouables et une vue bodycam saisissante. La techno impressionne, mais le jeu autour reste un chantier."

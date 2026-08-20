@@ -1,6 +1,6 @@
 ---
 title: "Dwarf Delve transforme la cupidité en mécanique de survie, et c'est diablement addictif"
-seoTitle: "Dwarf Delve : test et avis de l'extraction roguelite minier"
+seoTitle: "Dwarf Delve : test et avis"
 slug: "dwarf-delve-test"
 category: "tests"
 excerpt: "Un extraction roguelite à la première personne où l'on creuse toujours plus profond pour plus de butin, au risque de ne jamais remonter. Dwarf Delve fait de la cupidité son coeur de jeu."

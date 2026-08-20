@@ -1,6 +1,6 @@
 ---
 title: "288 games reviewed since January: we are handing you the keys to the ranking"
-seoTitle: "InsertCoins Awards 2026: vote for the game of the half-year"
+seoTitle: "InsertCoins Awards 2026: vote now"
 slug: "palmares-2026-mi-parcours"
 category: "dossiers"
 excerpt: "Eight months, 288 reviews, an average of 7.03. Here is what that says, and voting is open in four categories including the hall of shame."

@@ -1,6 +1,6 @@
 ---
 title: "Forza Horizon 6 : le Japon est la meilleure carte de la série, et c'est à peu près tout ce qui change"
-seoTitle: "Forza Horizon 6 test : Japon, progression, IA, notre avis"
+seoTitle: "Forza Horizon 6 : test et avis"
 slug: "forza-horizon-6-test"
 category: "tests"
 excerpt: "Forza Horizon 6 débarque au Japon avec la meilleure carte de la série, une progression légèrement améliorée, et une IA toujours aussi horripilante. C'est FH5, en mieux, dans un endroit qui le mérite enfin."

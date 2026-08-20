@@ -1,6 +1,6 @@
 ---
 title: "Guide Resonance A Plague Tale Legacy : bien préparer le virage combat, le Prisme, la survie et l'arbre de compétences"
-seoTitle: "Resonance A Plague Tale Legacy : guide de préparation"
+seoTitle: "Resonance A Plague Tale Legacy : guide"
 slug: "resonance-a-plague-tale-legacy-guide"
 category: "guides"
 excerpt: "Tout ce qu'il faut savoir avant de jouer à Resonance A Plague Tale Legacy : le nouveau combat, les énigmes du Prisme, la survie face à la créature et l'arbre de compétences."

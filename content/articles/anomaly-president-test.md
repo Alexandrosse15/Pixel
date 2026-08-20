@@ -1,6 +1,6 @@
 ---
 title: "Anomaly President : président le jour, guerrier la nuit, et une direction artistique à tomber"
-seoTitle: "Anomaly President : test et avis du roguelite"
+seoTitle: "Anomaly President : test et avis"
 slug: "anomaly-president-test"
 category: "tests"
 excerpt: "Le jour on rassemble des voix, la nuit on massacre du monstre en cyber-mage. Un roguelite double face au pixel art 2.5D irrésistible, malgré une profondeur inégale."

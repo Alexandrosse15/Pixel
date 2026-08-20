@@ -1,6 +1,6 @@
 ---
 title: "MARVEL Tokon Fighting Souls guide: mechanics, team building and the strategy of every champion"
-seoTitle: "MARVEL Tokon Fighting Souls: character and strategy guide"
+seoTitle: "MARVEL Tokon: Fighting Souls, guide"
 slug: "marvel-tokon-fighting-souls-guide"
 category: "guides"
 excerpt: "The complete MARVEL Tokon guide: mastering the single life bar, building your team of four, and the archetype and strategy of every champion in the roster."

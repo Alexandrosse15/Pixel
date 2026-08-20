@@ -1,6 +1,6 @@
 ---
 title: "Airport Manager Simulator 2026: ever since Die Hard 2 we all wanted the tower, and this is roughly it"
-seoTitle: "Airport Manager Simulator 2026: review of the airport management sim"
+seoTitle: "Airport Manager Simulator 2026: review"
 slug: "airport-manager-simulator-2026-test"
 category: "tests"
 excerpt: "Passenger flow, baggage, refuelling and jet bridges you operate yourself. The brief is met, the ambition stays modest."

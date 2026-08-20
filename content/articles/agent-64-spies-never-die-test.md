@@ -1,6 +1,6 @@
 ---
 title: "Agent 64 Spies Never Die : le GoldenEye assumé, avec le retour du cousin qui regarde votre écran"
-seoTitle: "Agent 64 Spies Never Die : test et avis du FPS rétro hommage aux années 90"
+seoTitle: "Agent 64: Spies Never Die, test et avis"
 slug: "agent-64-spies-never-die-test"
 category: "tests"
 excerpt: "14 missions, écran splitté, arène en local. Un hommage revendiqué aux FPS console de 1997, avec un scénario qui joue franchement le jeu."

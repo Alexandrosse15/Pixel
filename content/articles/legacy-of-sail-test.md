@@ -1,6 +1,6 @@
 ---
 title: "Legacy of Sail : la tactique navale à l'ancienne qui sent la poudre et le bois mouillé"
-seoTitle: "Legacy of Sail : test et avis de la tactique navale"
+seoTitle: "Legacy of Sail : test et avis"
 slug: "legacy-of-sail-test"
 category: "tests"
 excerpt: "Amiral du 17e siècle, on capture des villes et on aborde les vaisseaux de ligne. Une tactique navale temps réel exigeante et authentique, taillée pour les passionnés."

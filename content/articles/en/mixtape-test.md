@@ -1,6 +1,7 @@
 ---
 title: "Mixtape: the best compilation of 2026"
 slug: "mixtape-test"
+seoTitle: "Mixtape: review"
 category: "tests"
 excerpt: "Beethoven & Dinosaur returns with a game about the end of high school, music as a universal language, and memories you thought you'd put away. The soundtrack is magnificent. The story is gripping. We flipped the tape."
 date: "2026-05-08"

@@ -1,6 +1,6 @@
 ---
 title: "The Expanse: Osiris Reborn might be the sci-fi RPG we've been waiting for since Mass Effect 2"
-seoTitle: "The Expanse Osiris Reborn preview: Owlcat Games sci-fi RPG, our impressions"
+seoTitle: "The Expanse: Osiris Reborn, preview"
 slug: "the-expanse-osiris-reborn-preview"
 category: "previews"
 excerpt: "Owlcat Games (Rogue Trader, Pathfinder) takes on The Expanse. Eros, the protomolecule, the Belters, Protogen, a Mass Effect-style companion system and deeper RPG mechanics. The closed beta is promising."

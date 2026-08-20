@@ -1,6 +1,6 @@
 ---
 title: "Hell Let Loose Vietnam : la bêta a été un désastre, le studio a repoussé le jeu, et il sort aujourd'hui"
-seoTitle: "Hell Let Loose Vietnam : test et avis et état des lieux avant achat"
+seoTitle: "Hell Let Loose: Vietnam, test et avis"
 slug: "hell-let-loose-vietnam-test"
 category: "tests"
 excerpt: "Six cartes, hélicoptères, tunnels et 50 contre 50 dans la jungle. Après une bêta catastrophique, le studio a reporté et retravaillé. Faut-il y aller ?"

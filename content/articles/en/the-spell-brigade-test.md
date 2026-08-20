@@ -1,6 +1,6 @@
 ---
 title: "The Spell Brigade is a co-op survivors-like where even your friends can kill you, and it's a delight of chaos"
-seoTitle: "The Spell Brigade: review of the co-op survivors-like"
+seoTitle: "The Spell Brigade: review"
 slug: "the-spell-brigade-test"
 category: "tests"
 excerpt: "A co-op survivors-like for up to four wizards, insane spell synergies and friendly fire that forgives nothing. The Spell Brigade turns the horde into chaotic fun with friends."

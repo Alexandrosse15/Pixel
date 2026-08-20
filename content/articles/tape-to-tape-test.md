@@ -1,6 +1,6 @@
 ---
 title: "Tape to Tape : le roguelite qui rend au hockey d'arcade ses lettres de noblesse"
-seoTitle: "Tape to Tape test : roguelite hockey arcade, notre avis"
+seoTitle: "Tape to Tape : test et avis"
 slug: "tape-to-tape-test"
 category: "tests"
 excerpt: "EA Sports a tué le hockey d'arcade il y a vingt ans. Excellent Rectangle, studio montréalais, arrive avec les synergies de build, les mises en échec BD, les power-ups absurdes et la patte québécoise. C'était le jeu qui manquait."

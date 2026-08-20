@@ -1,6 +1,6 @@
 ---
 title: "Brigador Killers: the sequel to an isometric cult game, bringing the war home to those who started it"
-seoTitle: "Brigador Killers: review of the isometric insurgent simulator"
+seoTitle: "Brigador Killers: review"
 slug: "brigador-killers-test"
 category: "tests"
 excerpt: "On foot or in a mech, thirty firearms, vehicles to salvage into new ones. The Brigador saga continues and switches sides."

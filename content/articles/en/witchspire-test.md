@@ -1,6 +1,6 @@
 ---
 title: "Witchspire: the magical survival game that refuses to punish you, and the spell works"
-seoTitle: "Witchspire review: the witch early access RPG"
+seoTitle: "Witchspire: review"
 slug: "witchspire-test"
 category: "tests"
 excerpt: "No hunger, no durability, familiars to pamper, building via astral projection: Witchspire turns survival into a cozy witch's tale. Our early access review."

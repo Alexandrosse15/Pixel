@@ -1,6 +1,7 @@
 ---
 title: "The Third Shift: night guard in a museum that never sleeps"
 slug: "the-third-shift-test"
+seoTitle: "The Third Shift: review"
 category: "tests"
 excerpt: "A pixel art survival horror where you do night rounds in a museum full of anomalies. Short, tense, well made."
 date: "2026-04-21"

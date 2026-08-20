@@ -1,6 +1,6 @@
 ---
 title: "Order Automatica is a roguelite auto-battler on a 3x3 grid, chess with demons of fearsome tension"
-seoTitle: "Order Automatica: review of the roguelite auto-battler"
+seoTitle: "Order Automatica: review"
 slug: "order-automatica-test"
 category: "tests"
 excerpt: "Place your units on a tiny 3x3 ritual grid, build synergies and complete the ritual before your last candle burns out. Order Automatica boils the auto-battler down to the bone."

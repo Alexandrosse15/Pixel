@@ -1,6 +1,6 @@
 ---
 title: "Hearse Hero: a hearse, souls to deliver, and the Crazy Taxi successor we did not see coming"
-seoTitle: "Hearse Hero: review of the arcade driving game"
+seoTitle: "Hearse Hero: review"
 slug: "hearse-hero-test"
 category: "tests"
 excerpt: "A solo dev revives the spirit of Crazy Taxi with a hearse and plenty of dark humour. Nostalgic, generous and handcrafted, for arcade lovers."

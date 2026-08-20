@@ -1,6 +1,6 @@
 ---
 title: "Resonance A Plague Tale Legacy guide: preparing for the combat pivot, the Prism, survival and the skill tree"
-seoTitle: "Resonance A Plague Tale Legacy: preparation guide"
+seoTitle: "Resonance A Plague Tale Legacy: guide"
 slug: "resonance-a-plague-tale-legacy-guide"
 category: "guides"
 excerpt: "Everything to know before playing Resonance A Plague Tale Legacy: the new combat, the Prism puzzles, surviving the creature and the skill tree."

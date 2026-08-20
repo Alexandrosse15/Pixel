@@ -1,6 +1,6 @@
 ---
 title: "CS Manager : les mécaniques promettent des nuits blanches, le jeu n'est pas encore prêt à les mériter"
-seoTitle: "CS Manager : test et avis du jeu de gestion d'équipe eSport"
+seoTitle: "CS Manager : test et avis"
 slug: "cs-manager-test"
 category: "tests"
 excerpt: "140 équipes, 8 cartes, une cohésion qui dépend des langues parlées et des temps morts en temps réel. Les idées sont là, la finition beaucoup moins."

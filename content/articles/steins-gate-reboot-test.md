@@ -1,6 +1,6 @@
 ---
 title: "STEINS;GATE RE:BOOT : la plus belle version d'un chef-d'oeuvre, vendue dix fois le prix de l'originale"
-seoTitle: "STEINS;GATE RE:BOOT : test et avis du remake de MAGES"
+seoTitle: "STEINS;GATE RE:BOOT, test et avis"
 slug: "steins-gate-reboot-test"
 category: "tests"
 excerpt: "Nouveaux dessins de huke, Akihabara reconstruite, scénario inédit. Un remake soigné qui bute sur une question simple : à quoi bon, quand l'original coûte cinq euros ?"

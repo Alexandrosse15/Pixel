@@ -1,6 +1,6 @@
 ---
 title: "Total War Warhammer 40000: everything we know, everything we speculate, and why we're trembling with anticipation"
-seoTitle: "Total War Warhammer 40000: everything we know (feature)"
+seoTitle: "Total War Warhammer 40000: deep dive"
 slug: "total-war-warhammer-40000-dossier"
 category: "dossiers"
 excerpt: "Total War leaves fantasy for the grimdark of the 41st Millennium. Factions, galactic campaign, ranged battles, release: the full rundown, splitting confirmed facts from speculation."

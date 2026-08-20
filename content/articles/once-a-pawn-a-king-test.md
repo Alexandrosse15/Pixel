@@ -1,6 +1,6 @@
 ---
 title: "Once a Pawn a King casse les règles des échecs, et c'est exactement pour ça qu'on n'arrive plus à le lâcher"
-seoTitle: "Once a Pawn a King : test du roguelike d'échecs"
+seoTitle: "Once a Pawn a King : test et avis"
 slug: "once-a-pawn-a-king-test"
 category: "tests"
 excerpt: "Un roguelike qui prend les échecs, en garde la logique et jette la théorie par la fenêtre. On a sauvé le Roi Noir plus de fois qu'on n'ose l'avouer."

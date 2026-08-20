@@ -1,6 +1,6 @@
 ---
 title: "Copa City vous fait gérer tout le football sauf le football, et c'est exactement ce qui le rend passionnant"
-seoTitle: "Copa City : test du sim de gestion football"
+seoTitle: "Copa City : test et avis"
 slug: "copa-city-test"
 category: "tests"
 excerpt: "Pas de tactique, pas de transferts, pas un seul ballon touché. Vous gérez la ville autour du match. En pleine Coupe du monde, on a adoré l'idée."

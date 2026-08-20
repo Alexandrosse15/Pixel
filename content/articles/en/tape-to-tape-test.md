@@ -1,6 +1,6 @@
 ---
 title: "Tape to Tape: the roguelite that gives arcade hockey its dignity back"
-seoTitle: "Tape to Tape review: arcade hockey roguelite, our verdict"
+seoTitle: "Tape to Tape: review"
 slug: "tape-to-tape-test"
 category: "tests"
 excerpt: "EA Sports killed arcade hockey twenty years ago. Excellent Rectangle, a Montreal studio, arrives with build synergies, absurd power-ups, comic book body checks, and genuine Canadian hockey culture baked in. This was the game that was missing."

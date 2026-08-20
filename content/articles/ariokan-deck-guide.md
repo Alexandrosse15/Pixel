@@ -1,6 +1,6 @@
 ---
 title: "Guide Ariokan : bien débuter, construire son deck, choisir son Dieu et créer ses cartes"
-seoTitle: "Ariokan : guide débutant, deckbuilding et éditeur de cartes"
+seoTitle: "Ariokan : guide"
 slug: "ariokan-deck-guide"
 category: "guides"
 excerpt: "Le guide Ariokan : comprendre Mana, Créatures, Sorts et Légendes, choisir son Dieu et sa Faction, exploiter l'éditeur de cartes et progresser dans le mode roguelite."

@@ -1,6 +1,6 @@
 ---
 title: "Guide Warhounds : bien comprendre ses cinq classes, ses tirs sans hasard et sa gestion de base"
-seoTitle: "Warhounds : guide des classes, du combat et de la gestion de base"
+seoTitle: "Warhounds : guide"
 slug: "warhounds-guide"
 category: "guides"
 excerpt: "Les cinq classes et leur rôle, comment exploiter une balistique sans dés, et par quoi commencer dans la gestion entre les missions."

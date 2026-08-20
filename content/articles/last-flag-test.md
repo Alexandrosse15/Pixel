@@ -1,6 +1,7 @@
 ---
 title: "Last Flag : un FPS tendu, stratégique… et clairement pas pour tout le monde"
 slug: "last-flag-test"
+seoTitle: "Last Flag : test et avis"
 category: "tests"
 excerpt: "Un mode, une idée, une exécution. Last Flag fait le pari du capture the flag pur et dur, sans compromis. Et contre toute attente, ça suffit."
 date: "2026-04-17"

@@ -1,6 +1,7 @@
 ---
 title: "Cleaning Up!: clean up... then forget"
 slug: "cleaning-up-test"
+seoTitle: "Cleaning Up!: review"
 category: "tests"
 excerpt: "Cleaning Up! belongs to that category of games that bet everything on a simple concept. Perhaps too simple. An idea without development, a loop without soul, and a lasting impression of a demo that leads nowhere."
 date: "2026-04-17"

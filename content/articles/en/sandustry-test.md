@@ -1,6 +1,6 @@
 ---
 title: "Sandustry: twenty minutes of testing promised, one sleepless night delivered, and an AI accusation that does not hold"
-seoTitle: "Sandustry: review of the factory game where every pixel is a resource"
+seoTitle: "Sandustry: review"
 slug: "sandustry-test"
 category: "tests"
 excerpt: "A factory game built on sand physics where every pixel counts. Fiercely addictive, and unfairly suspected of having been written by an AI."

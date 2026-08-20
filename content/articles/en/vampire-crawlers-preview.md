@@ -1,6 +1,7 @@
 ---
 title: "Vampire Crawlers: addiction lying in wait?"
 slug: "vampire-crawlers-preview"
+seoTitle: "Vampire Crawlers: preview"
 category: "previews"
 excerpt: "On paper it's simple: roguelite, deckbuilding, real-time action. In practice, it's a lot smarter than that. And we got to play it."
 date: "2026-04-17"

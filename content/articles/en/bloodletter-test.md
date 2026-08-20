@@ -1,6 +1,6 @@
 ---
 title: "BLOODLETTER: a barber-surgeon deckbuilder that leaves early access today, and knows exactly what it is"
-seoTitle: "BLOODLETTER: review of the medieval deckbuilder by ALDAMAMI GAMES"
+seoTitle: "BLOODLETTER: review"
 slug: "bloodletter-test"
 category: "tests"
 excerpt: "Four entities to cleanse, a queue of villagers, cards that merge. A superb art direction serving a rigorous deckbuilder."

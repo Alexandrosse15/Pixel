@@ -1,6 +1,6 @@
 ---
 title: "Mortal Shell II : un monde de cendre, huit coquilles à posséder, et le meilleur souls-like hors FromSoftware"
-seoTitle: "Mortal Shell II : test et avis du souls-like de Cold Symmetry"
+seoTitle: "Mortal Shell II : test et avis"
 slug: "mortal-shell-2-test"
 category: "tests"
 excerpt: "Plus d'endurance, un monde ouvert compact, huit guerriers morts à habiter. Cold Symmetry transforme une démonstration technique en vrai jeu."

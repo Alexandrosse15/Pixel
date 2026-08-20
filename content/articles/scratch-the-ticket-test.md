@@ -1,6 +1,6 @@
 ---
 title: "Scratch the Ticket : je ne comptais pas en parler, il m'a attrapé, et c'est précisément le problème"
-seoTitle: "Scratch the Ticket : test et avis du simulateur de tickets à gratter"
+seoTitle: "Scratch the Ticket : test et avis"
 slug: "scratch-the-ticket-test"
 category: "tests"
 excerpt: "Imprimer des tickets, gratter des cases, encaisser ou tout risquer. Redoutablement efficace, et parfaitement conscient de ce qu'il imite."

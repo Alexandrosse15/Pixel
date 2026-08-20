@@ -1,6 +1,6 @@
 ---
 title: "Stargate: Emmerich et Devlin récupèrent les droits du scénario de 1994, et ce n'est pas tout à fait la révolution annoncée"
-seoTitle: "Stargate : Emmerich et Devlin récupèrent le scénario"
+seoTitle: "Stargate : Emmerich récupère les droits"
 slug: "stargate-emmerich-devlin-droits-scenario"
 category: "industrie"
 excerpt: "Avis de révocation déposé le 8 avril, effet en 2029: les créateurs du film de 1994 récupèrent le scénario. Pas la franchise. On démêle ce que ça change."

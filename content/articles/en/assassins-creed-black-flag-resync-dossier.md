@@ -1,6 +1,7 @@
 ---
 title: "Black Flag Resync: the return of a ghost nobody wanted to let die"
 slug: "assassins-creed-black-flag-resync-dossier"
+seoTitle: "Assassin's Creed Black Flag: deep dive"
 category: "dossiers"
 excerpt: "Black Flag is back. And behind the good news sits a question Ubisoft still hasn't answered: why has nobody taken the helm since 2013?"
 date: "2026-04-23"

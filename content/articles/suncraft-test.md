@@ -1,6 +1,6 @@
 ---
 title: "Suncraft marie les pixels d'un vieux Pokémon à l'âme de Stardew Valley, et c'est un cocon irrésistible"
-seoTitle: "Suncraft : test et avis du cozy game pixel art"
+seoTitle: "Suncraft : test et avis"
 slug: "suncraft-test"
 category: "tests"
 excerpt: "Un cozy game en pixel art où l'on reconstruit un village et rallume un grand phare. Suncraft mêle l'esthétique rétro de Pokémon au gameplay villageois de Stardew, avec un charme fou."

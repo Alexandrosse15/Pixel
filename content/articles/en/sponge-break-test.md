@@ -1,6 +1,6 @@
 ---
 title: "Sponge Break: four sponges, a cobbled-together raft and a river that wants you dead"
-seoTitle: "Sponge Break: review of the co-op raft game"
+seoTitle: "Sponge Break: review"
 slug: "sponge-break-test"
 category: "tests"
 excerpt: "Sponges on the run on a raft that flips at the slightest slip. A physical, hilarious co-op party game, to savour with friends for eight euros."

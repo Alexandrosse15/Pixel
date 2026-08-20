@@ -1,6 +1,6 @@
 ---
 title: "Tidal Nexus Online : sortir un MMO en 2026 est un pari fou, mais son décor sous-marin le sauve du déjà-vu"
-seoTitle: "Tidal Nexus Online : test et avis du MMO sous-marin"
+seoTitle: "Tidal Nexus Online : test et avis"
 slug: "tidal-nexus-online-test"
 category: "tests"
 excerpt: "Un MMO old-school en 2026, c'est risqué. Tidal Nexus Online s'en tire par son cadre sous-marin original, malgré des mécaniques qu'on connaît par coeur."

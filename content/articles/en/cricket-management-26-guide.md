@@ -1,6 +1,6 @@
 ---
 title: "Cricket Management 26 guide: how to start your career, formats, squad, transfers and finances"
-seoTitle: "Cricket Management 26: beginner guide and tips"
+seoTitle: "Cricket Management 26: guide"
 slug: "cricket-management-26-guide"
 category: "guides"
 excerpt: "Getting started in Cricket Management 26: which club to pick, understanding red-ball, ODI and T20, building your squad, nailing transfers and keeping your budget."

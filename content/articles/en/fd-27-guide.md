@@ -1,6 +1,6 @@
 ---
 title: "FD 27 guide: which department to fix first, and why the medical bill lands six months later"
-seoTitle: "FD 27: beginner guide to departments, sponsors and finances"
+seoTitle: "FD 27: Direct Your Football Club, guide"
 slug: "fd-27-guide"
 category: "guides"
 excerpt: "Picking your club, hiring in the right order, negotiating sponsors and staying out of the debt spiral. The full guide to version 0.1."

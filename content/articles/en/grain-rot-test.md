@@ -1,6 +1,6 @@
 ---
 title: "Grain Rot: dying does not take you out of the run, and that single idea is what makes this co-op so funny"
-seoTitle: "Grain Rot: review of the co-op horror extraction game"
+seoTitle: "GRAIN ROT: review"
 slug: "grain-rot-test"
 category: "tests"
 excerpt: "You play a Spark possessing wooden vessels. When yours breaks, you stay in the run and hunt for a new host. Clever."

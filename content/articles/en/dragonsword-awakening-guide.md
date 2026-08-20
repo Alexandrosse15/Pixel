@@ -1,6 +1,6 @@
 ---
 title: "DragonSword Awakening guide: mastering tag-team combat, status ailments, characters and best builds"
-seoTitle: "DragonSword Awakening: complete guide, combat, characters and builds"
+seoTitle: "DragonSword Awakening: guide"
 slug: "dragonsword-awakening-guide"
 category: "guides"
 excerpt: "The complete DragonSword Awakening guide: tag-team system, status ailments, poise breaking, Signal Skills, character tier list, recommended teams and resource management."

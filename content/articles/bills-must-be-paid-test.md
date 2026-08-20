@@ -1,6 +1,6 @@
 ---
 title: "Bills Must Be Paid : casser des tirelires pour payer ses factures, la satire qui tourne un peu court"
-seoTitle: "Bills Must Be Paid : test et avis de l'incremental"
+seoTitle: "Bills Must Be Paid : test et avis"
 slug: "bills-must-be-paid-test"
 category: "tests"
 excerpt: "Un clicker satirique où l'on éclate des tirelires pour survivre à ses dettes. L'idée fait mouche, la boucle accroche, mais l'ensemble s'essouffle vite."

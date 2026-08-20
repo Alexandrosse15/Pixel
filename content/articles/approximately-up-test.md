@@ -1,6 +1,6 @@
 ---
 title: "Approximately Up : construire une fusée à quatre, décoller, exploser, et s'accuser mutuellement d'avoir monté le propulseur à l'envers"
-seoTitle: "Approximately Up : test et avis du bac à sable spatial en coopération"
+seoTitle: "Approximately Up : test et avis"
 slug: "approximately-up-test"
 category: "tests"
 excerpt: "Un vaisseau modulaire fait de tout ce qui tient boulonné, 15 planètes, 4 joueurs. Le chaos est excellent, à condition d'avoir les amis qui vont avec."

@@ -1,6 +1,6 @@
 ---
 title: "Space PiouPiou: un canari armé jusqu'au bec contre l'armée de chats de l'espace, et on a déjà craqué"
-seoTitle: "Space PiouPiou : preview du bullet heaven canari"
+seoTitle: "Space PiouPiou : preview"
 slug: "space-pioupiou-preview"
 category: "previews"
 excerpt: "Un canari mignon, un fusil à pompe, des hordes de chats de l'espace et une DA 100% dessinée main. On a essayé la démo de Space PiouPiou, on vous explique."

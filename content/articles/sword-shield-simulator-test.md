@@ -1,6 +1,6 @@
 ---
 title: "Sword & Shield Simulator : la forge poste par poste, et un monde médiéval autour pour souffler"
-seoTitle: "Sword & Shield Simulator : test et avis du simulateur de forge médiévale"
+seoTitle: "Sword & Shield Simulator : test et avis"
 slug: "sword-shield-simulator-test"
 category: "tests"
 excerpt: "Fondre, marteler, affûter, ciseler, puis composer ses propres armes pièce par pièce. Un simulateur de forge qui va plus loin que l'enclume."

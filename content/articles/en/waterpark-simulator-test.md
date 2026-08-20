@@ -1,6 +1,6 @@
 ---
 title: "Waterpark Simulator: building your water park and sending guests flying, it is eye-catching"
-seoTitle: "Waterpark Simulator: review of the management game"
+seoTitle: "Waterpark Simulator: review"
 slug: "waterpark-simulator-test"
 category: "tests"
 excerpt: "Build slides, manage your park and watch guests go flying ragdoll-style. A fun, spectacular manager, still a little green in Early Access."

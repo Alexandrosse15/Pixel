@@ -1,6 +1,6 @@
 ---
 title: "Lords of the End Times guide: how to approach Boris, Thanquol, Nagash and the Glottkin"
-seoTitle: "Lords of the End Times: guide to the four legendary lords"
+seoTitle: "Lords of the End Times: guide"
 slug: "lords-of-the-end-times-guide"
 category: "guides"
 excerpt: "Fervour, Masterplans, Books of Nagash and Gardens of Corruption. What each lord demands, and where to begin the campaign."

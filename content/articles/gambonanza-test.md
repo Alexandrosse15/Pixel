@@ -1,6 +1,7 @@
 ---
 title: "Gambonanza : Balatro avait un génie, celui-là a un formulaire"
 slug: "gambonanza-test"
+seoTitle: "Gambonanza : test et avis"
 category: "tests"
 excerpt: "Roguelite d'échecs avec synergies et pachinko. L'idée est excellente. L'exécution nous a laissés froids. Peut-être que l'essence n'est pas là."
 date: "2026-05-02"

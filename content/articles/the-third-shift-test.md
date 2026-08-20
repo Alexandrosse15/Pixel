@@ -1,6 +1,7 @@
 ---
 title: "The Third Shift : gardien de nuit dans un musée qui ne dort pas"
 slug: "the-third-shift-test"
+seoTitle: "The Third Shift : test et avis"
 category: "tests"
 excerpt: "Des rondes de nuit dans un musée peuplé d'anomalies. Court, tendu, bien fait."
 date: "2026-04-21"

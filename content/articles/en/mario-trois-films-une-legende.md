@@ -1,6 +1,7 @@
 ---
 title: "Mario at the cinema: three films, one legend, and an undying love for the oldest one"
 slug: "mario-trois-films-une-legende"
+seoTitle: "Mario at the cinema: three films"
 category: "cinema"
 excerpt: "From the cult disaster of 1993 to the animation blockbuster of 2023, through to the new film just released: Mario has had a chaotic, sincere, and ultimately rather beautiful life on the big screen."
 date: "2026-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "TV Archive: I expected the boredom of the wine cellar, and I ended up in a 1998 video shop"
-seoTitle: "TV Archive Tidy Up Together: review of the VHS shelving game"
+seoTitle: "TV Archive: Tidy Up Together, review"
 slug: "tv-archive-tidy-up-together-test"
 category: "tests"
 excerpt: "3,180 tapes to file, solo, in co-op or head to head. A tidying game with the good sense to automate the work for you."

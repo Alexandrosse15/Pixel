@@ -1,6 +1,6 @@
 ---
 title: "Guide Echoes of Mystralia : comprendre la création de sorts et bien démarrer ses premières runs"
-seoTitle: "Echoes of Mystralia : guide de la création de sorts et des débuts"
+seoTitle: "Echoes of Mystralia : guide"
 slug: "echoes-of-mystralia-guide"
 category: "guides"
 excerpt: "Comment fonctionne la combinaison de souvenirs, comment aborder les runs, et ce qu'il faut prioriser au Temple Azimuth entre deux expéditions."

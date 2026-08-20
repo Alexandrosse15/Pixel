@@ -1,6 +1,7 @@
 ---
 title: "Hillshade Farm: the farm seen from the inside"
 slug: "hillshade-farm-apercu"
+seoTitle: "Hillshade Farm: preview"
 category: "previews"
 excerpt: "A first-person farming simulator developed by a solo developer. Hillshade Farm arrives in Early Access on May 21st and promises radical planting freedom in a world that actually lives."
 date: "2026-04-21"

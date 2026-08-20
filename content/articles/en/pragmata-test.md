@@ -1,6 +1,7 @@
 ---
 title: "Pragmata: Capcom lays the foundation for a new franchise, and it holds"
 slug: "pragmata-test"
+seoTitle: "Pragmata: review"
 category: "tests"
 excerpt: "Capcom bets on a new IP with a hybrid shooting and hacking mechanic, polished art direction, and an engaging duo. Not a revolution, but a solid foundation."
 date: "2026-04-21"

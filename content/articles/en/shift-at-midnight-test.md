@@ -1,6 +1,6 @@
 ---
 title: "Shift at Midnight: a solo Australian dev just made the best co-op horror game of the year"
-seoTitle: "Shift at Midnight review: co-op horror gas station, our verdict"
+seoTitle: "Shift at Midnight: review"
 slug: "shift-at-midnight-test"
 category: "tests"
 excerpt: "Papers, Please meets That's Not My Neighbor in a 1990s American gas station. One developer. 99% positive on Steam. Day One on Game Pass. Shift at Midnight came out of nowhere and it's here."

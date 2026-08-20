@@ -1,6 +1,6 @@
 ---
 title: "Ocean Survivors : c'est laid comme un poulpe échoué, mais qu'est-ce que c'est bon"
-seoTitle: "Ocean Survivors : test et avis du survivors-like"
+seoTitle: "Ocean Survivors : test et avis"
 slug: "ocean-survivors-test"
 category: "tests"
 excerpt: "Un survivors-like pirate minimaliste, moche mais redoutablement efficace. Des runs de 15 minutes qui vous scotchent malgré une présentation à la ramasse."

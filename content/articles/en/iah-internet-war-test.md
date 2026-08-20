@@ -1,6 +1,6 @@
 ---
 title: "IAH: INTERNET WAR: plan in turns, fight in real time, and watch your wanted level climb"
-seoTitle: "IAH INTERNET WAR: review of the tactical roguelite"
+seoTitle: "IAH: INTERNET WAR, review"
 slug: "iah-internet-war-test"
 category: "tests"
 excerpt: "A labyrinth of websites, bots to command in real time, and Chaos cards that punish success. Good ideas, properly applied."

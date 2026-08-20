@@ -1,6 +1,6 @@
 ---
 title: "LEGO Batman : L'Héritage du Chevalier Noir est la meilleure chose qui soit arrivée à Batman depuis Arkham"
-seoTitle: "LEGO Batman L'Héritage du Chevalier Noir test : notre avis"
+seoTitle: "LEGO Batman: Legacy of the Dark Knight"
 slug: "lego-batman-heritage-chevalier-noir-test"
 category: "tests"
 excerpt: "Un jeu LEGO qui rend hommage à chaque version de Batman depuis Tim Burton jusqu'à The Batman de Reeves, avec un système de combat emprunté aux Arkham et un Gotham en monde ouvert parmi les meilleurs de l'année. Personne ne l'avait vu venir."

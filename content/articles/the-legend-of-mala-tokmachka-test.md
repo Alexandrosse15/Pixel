@@ -1,6 +1,6 @@
 ---
 title: "The Legend of Mala Tokmachka : une forteresse de bric et de broc, et un studio qui refuse de désigner un camp"
-seoTitle: "The Legend of Mala Tokmachka : test et avis du tower defense de siège"
+seoTitle: "The Legend of Mala Tokmachka : test"
 slug: "the-legend-of-mala-tokmachka-test"
 category: "tests"
 excerpt: "Bâtir une forteresse bloc par bloc et tenir un siège sans fin. Le jeu s'inspire d'une actualité dramatique, mais refuse de la commenter."

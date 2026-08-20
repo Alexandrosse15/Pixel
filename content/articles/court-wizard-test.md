@@ -1,6 +1,6 @@
 ---
 title: "Court Wizard : lancer des sorts, brasser des potions et tenir la ligne, un défense de vagues malin"
-seoTitle: "Court Wizard : test et avis du RTS de sorcier"
+seoTitle: "Court Wizard : test et avis"
 slug: "court-wizard-test"
 category: "tests"
 excerpt: "Un RTS de survie où chaque archétype de sorcier change tout, entre sorts, potions et vagues sans fin. Malin et rejouable, malgré une présentation modeste."

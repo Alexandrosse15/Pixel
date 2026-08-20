@@ -1,6 +1,6 @@
 ---
 title: "Zenless Zone Zero arrive enfin sur Steam, et reste le plus beau jeu d'action qu'on ait du mal à recommander"
-seoTitle: "Zenless Zone Zero : test de la version Steam"
+seoTitle: "Zenless Zone Zero : test et avis"
 slug: "zenless-zone-zero-test"
 category: "tests"
 excerpt: "Débarquement sur Steam et version 3.0 aujourd'hui. On n'aime pas les gacha HoYoverse, alors on a pris le plus stylé au sérieux. Verdict: du talent enchaîné à une caisse enregistreuse."

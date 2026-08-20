@@ -1,6 +1,6 @@
 ---
 title: "RD Racing : le successeur spirituel de Death Rally est un arcade combat racer indé à neuf euros"
-seoTitle: "RD Racing preview : arcade combat racing indé, notre avis"
+seoTitle: "RD Racing : preview"
 slug: "rdracing-preview"
 category: "previews"
 excerpt: "See The Sea Studio a sorti un jeu de course arcade où la victoire passe autant par les armes que par la vitesse. Inspiré de Death Rally, coloré, accessible, et disponible avec une démo gratuite sur Steam depuis le 5 mai 2026."

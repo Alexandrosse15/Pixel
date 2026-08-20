@@ -1,6 +1,6 @@
 ---
 title: "Halo Campaign Evolved Legendary guide: a detailed mission-by-mission walkthrough of all 13 levels"
-seoTitle: "Halo Campaign Evolved: Legendary guide, mission by mission"
+seoTitle: "Halo Campaign Evolved: guide"
 slug: "halo-campaign-evolved-legendary-guide"
 category: "guides"
 excerpt: "The complete Halo Campaign Evolved Legendary guide: the golden rules, the remake's arsenal, and a detailed strategy for each of the 13 missions, from Operation Meteorite to The Maw."

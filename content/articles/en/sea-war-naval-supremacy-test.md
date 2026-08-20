@@ -1,6 +1,6 @@
 ---
 title: "Sea War Naval Supremacy: the sleep thief that keeps you saying one more battle"
-seoTitle: "Sea War Naval Supremacy: review and verdict"
+seoTitle: "Sea War Naval Supremacy: review"
 slug: "sea-war-naval-supremacy-test"
 category: "tests"
 excerpt: "A naval action-RPG where you set out to raid for five minutes and look up three hours later. We warned you: sleep is going to suffer."

@@ -1,6 +1,6 @@
 ---
 title: "Big Walk : j'ai perdu mon meilleur pote dans un buisson géant, et c'est le plus beau moment de coop de mon année"
-seoTitle: "Big Walk : test et avis du coop de House House"
+seoTitle: "Big Walk : test et avis"
 slug: "big-walk-test"
 category: "tests"
 excerpt: "Les créateurs d'Untitled Goose Game reviennent, et cette fois on ne fait pas de bêtises tout seul : on se perd à deux dans la nature, et c'est génial."

@@ -1,6 +1,6 @@
 ---
 title: "Rush Royale met 7 777 $ en jeu pour sa Rhandum League, sauf que c'est aux joueurs de remplir la cagnotte"
-seoTitle: "Rush Royale : la Rhandum League et sa cagnotte"
+seoTitle: "Rush Royale : la Rhandum League"
 slug: "rush-royale-rhandum-league-industrie"
 category: "industrie"
 excerpt: "MY.GAMES relance son tournoi Rush Royale avec une cagnotte de 7 777 $. Le format à armes égales mérite des applaudissements, mais le prix qui gonfle à chaque achat mérite qu'on regarde de plus près."

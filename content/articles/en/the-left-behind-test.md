@@ -1,6 +1,6 @@
 ---
 title: "The Left Behind wants to be DayZ by day and Dying Light by night, a fine ambition held back by rough edges"
-seoTitle: "The Left Behind: review of the post-apo survival game"
+seoTitle: "The Left Behind: review"
 slug: "the-left-behind-test"
 category: "tests"
 excerpt: "A Dutch post-apo survival game, solo or co-op, where you loot by day and endure the hordes by night. The Left Behind bets on permadeath and tension, with a strong but rough concept."

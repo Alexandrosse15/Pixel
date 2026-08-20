@@ -1,6 +1,6 @@
 ---
 title: "Stars Reach: the father of Ultima Online returns with a galaxy that remembers everything done to it"
-seoTitle: "Stars Reach: review of Raph Koster's sandbox MMO"
+seoTitle: "Stars Reach: review"
 slug: "stars-reach-test"
 category: "tests"
 excerpt: "A simulation where water flows, forests burn and lava hardens into new land. An MMO built on the memory of worlds and mutual aid between players."

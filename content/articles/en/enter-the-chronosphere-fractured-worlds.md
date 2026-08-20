@@ -1,6 +1,6 @@
 ---
 title: "Enter the Chronosphere: the Fractured Worlds update pulls other worlds into the loop"
-seoTitle: "Enter the Chronosphere: the Fractured Worlds update detailed"
+seoTitle: "Enter the Chronosphere: preview"
 slug: "enter-the-chronosphere-fractured-worlds"
 excerpt: "Four brand-new biomes, twenty weapons, nine enemies, damage numbers at last: the 94% positive tactical roguelike treats itself to a hefty expansion."
 category: "previews"

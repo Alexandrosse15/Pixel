@@ -1,6 +1,6 @@
 ---
 title: "Clawed: an abandoned dinosaur park, a convincing atmosphere, and a resemblance worth discussing"
-seoTitle: "Clawed: review of the dinosaur park survival horror"
+seoTitle: "Clawed: review"
 slug: "clawed-test"
 category: "tests"
 excerpt: "Prehistoria, a ruined park, puzzles and predators. The atmosphere works, and the kinship with a certain 1993 film deserves a closer look."

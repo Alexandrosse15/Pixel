@@ -1,6 +1,7 @@
 ---
 title: "Space Drilling Station : creuser l'espace, une boucle à la fois"
 slug: "space-drilling-station-test"
+seoTitle: "Space Drilling Station : test et avis"
 category: "tests"
 excerpt: "Space Drilling Station a l'ambition difficile de proposer une boucle de jeu qui donne envie de rester. Il y parvient, presque."
 date: "2026-04-24"

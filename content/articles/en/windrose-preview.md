@@ -1,6 +1,7 @@
 ---
 title: "Windrose wants to be the Black Flag we've been waiting for since 2013. It's off to a good start."
 slug: "windrose-preview"
+seoTitle: "Windrose: preview"
 category: "previews"
 excerpt: "Kraken Express arrives with an early access open-world pirate game. Free exploration, naval combat, co-op for up to 4. The 2026 pirate dream might finally be here. Or not. That's the whole point."
 date: "2026-04-16"

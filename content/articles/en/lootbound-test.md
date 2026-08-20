@@ -1,6 +1,6 @@
 ---
 title: "Lootbound: moving a sword one square changes your whole build, and that is where its real depth hides"
-seoTitle: "Lootbound: review of the tactical inventory roguelite"
+seoTitle: "Lootbound: review"
 slug: "lootbound-test"
 category: "tests"
 excerpt: "A dark fantasy roguelite where inventory layout is the build. Brilliant on that ground, but this is not an RPG."

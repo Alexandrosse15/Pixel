@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 5 : je n'ai pas pleuré cette fois, mais en tant que papa, ce film m'a parlé comme aucun autre"
-seoTitle: "Toy Story 5 : notre chronique de papa et de nostalgique"
+seoTitle: "Toy Story 5 : notre chronique"
 slug: "toy-story-5-chronique"
 category: "cinema"
 excerpt: "J'avais pleuré pour le 3 comme tout le monde. Aujourd'hui je suis papa deux fois, et Toy Story 5 a visé juste : les écrans, l'imagination et nos gosses."

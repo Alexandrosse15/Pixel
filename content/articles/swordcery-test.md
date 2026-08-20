@@ -1,6 +1,6 @@
 ---
 title: "Swordcery : une pluie d'épées sur le monde, et chacune vient avec son propre tour de magie"
-seoTitle: "Swordcery : test et avis du jeu d'action aux épées magiques"
+seoTitle: "Swordcery : test et avis"
 slug: "swordcery-test"
 category: "tests"
 excerpt: "Chaque lame ramassée apporte une capacité unique et appartient à une classe d'armes. Un jeu d'action bâti sur la reconnaissance de schémas."

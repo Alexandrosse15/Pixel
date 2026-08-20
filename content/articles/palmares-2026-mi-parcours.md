@@ -1,6 +1,6 @@
 ---
 title: "288 jeux testés depuis janvier : on vous rend les clés du classement"
-seoTitle: "Palmarès InsertCoins 2026 : votez pour le jeu de la mi-année"
+seoTitle: "Palmarès InsertCoins 2026 : votez"
 slug: "palmares-2026-mi-parcours"
 category: "dossiers"
 excerpt: "Huit mois, 288 tests, une moyenne de 7,03. Voici ce que ça raconte, et le vote est ouvert dans quatre catégories dont la liste de la honte."

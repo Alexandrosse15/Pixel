@@ -1,6 +1,6 @@
 ---
 title: "Starsand Island: cute, simple, entirely undemanding, and that is exactly what it sells"
-seoTitle: "Starsand Island: review of the life sim at version 1.0"
+seoTitle: "Starsand Island: review"
 slug: "starsand-island-test"
 category: "tests"
 excerpt: "A lovely island, a loop that hooks, and content that runs dry fast. Version 1.0 today, with a Steam review affair in the background."

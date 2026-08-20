@@ -1,6 +1,6 @@
 ---
 title: "Gallipoli : la série WW1 trouve enfin son crossplay, et signe son meilleur équilibre entre simulation et arcade"
-seoTitle: "Gallipoli : test et avis du FPS Première Guerre mondiale de BlackMill"
+seoTitle: "Gallipoli : test et avis"
 slug: "gallipoli-test"
 category: "tests"
 excerpt: "25 contre 25 sur les plages d'Anzac Cove, dix classes, cinquante armes. Le quatrième volet règle le problème qui minait la série depuis dix ans."

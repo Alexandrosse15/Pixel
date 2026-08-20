@@ -1,6 +1,6 @@
 ---
 title: "Starseeker: Astroneer Expeditions, un monde magnifique où l'on cherche encore le jeu"
-seoTitle: "Starseeker : test de l'accès anticipé Astroneer"
+seoTitle: "Starseeker: Astroneer Expeditions, test"
 slug: "starseeker-astroneer-expeditions-test"
 category: "tests"
 excerpt: "System Era quitte le bac à sable d'Astroneer pour des expéditions coop en ligne. C'est splendide et dépaysant, mais on cherche encore quoi y faire."

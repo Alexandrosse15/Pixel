@@ -1,6 +1,6 @@
 ---
 title: "Yet Another Zombie Survivors: three years of early access, a squad instead of a hero, and finally 1.0"
-seoTitle: "Yet Another Zombie Survivors: review of the 1.0 release"
+seoTitle: "Yet Another Zombie Survivors: review"
 slug: "yet-another-zombie-survivors-test"
 category: "tests"
 excerpt: "A survivors game where you steer three characters instead of one. Half a million copies sold before the official release."

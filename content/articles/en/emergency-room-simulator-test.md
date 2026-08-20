@@ -1,6 +1,6 @@
 ---
 title: "Emergency Room Simulator: we all heard the ER theme the moment we saw the thumbnail"
-seoTitle: "Emergency Room Simulator: review of the emergency medicine simulator"
+seoTitle: "Emergency Room Simulator: review"
 slug: "emergency-room-simulator-test"
 category: "tests"
 excerpt: "Examine, order the right tests, reach a diagnosis and treat. A medical simulator betting on investigation rather than dexterity."

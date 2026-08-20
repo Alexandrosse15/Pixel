@@ -1,6 +1,6 @@
 ---
 title: "IAH: INTERNET WAR : planifier au tour par tour, se battre en temps réel, et voir monter son niveau de recherche"
-seoTitle: "IAH INTERNET WAR : test et avis du roguelite tactique"
+seoTitle: "IAH: INTERNET WAR, test et avis"
 slug: "iah-internet-war-test"
 category: "tests"
 excerpt: "Un labyrinthe de sites web, des bots à commander en temps réel, et des cartes Chaos qui punissent la réussite. De bonnes idées, correctement appliquées."

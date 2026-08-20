@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon: the complete guide to the best hiding spots, map by map"
-seoTitle: "Meccha Chameleon: best hiding spots by map (complete guide)"
+seoTitle: "Meccha Chameleon: guide"
 slug: "meccha-chameleon-hiding-spots-guide"
 category: "guides"
 excerpt: "The complete Meccha Chameleon hiding spots guide, map by map: Mansion, Indoor Country, Sewer, Backrooms, Penguin Hotel and Sugarland. Precise spots, colors, poses and seeker counters."

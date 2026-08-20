@@ -1,6 +1,6 @@
 ---
 title: "Ember Seeker mise tout sur le brouillard et le silence, et gagne son pari à moitié"
-seoTitle: "Ember Seeker : test du walking sim dark fantasy"
+seoTitle: "Ember Seeker : test et avis"
 slug: "ember-seeker-test"
 category: "tests"
 excerpt: "Une terre sans mémoire, une nuit éternelle, des ruines à fouiller. Un walking sim pixelisé qui envoûte une heure, puis laisse le brouillard faire le reste."

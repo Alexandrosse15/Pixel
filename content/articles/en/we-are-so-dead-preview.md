@@ -1,6 +1,6 @@
 ---
 title: "We Are So Dead: never play with a ouija board, and if you do not believe me, try this one"
-seoTitle: "We Are So Dead: preview of the co-op ouija board horror game"
+seoTitle: "WE ARE SO DEAD: preview"
 slug: "we-are-so-dead-preview"
 category: "previews"
 excerpt: "One player starts dead, sees everything, and can only communicate by spelling on a board their friends keep misreading. Brilliant and cruel."

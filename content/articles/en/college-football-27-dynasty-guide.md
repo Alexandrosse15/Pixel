@@ -1,6 +1,6 @@
 ---
 title: "College Football 27 guide: getting started in Dynasty mode, recruiting, prestige and playbooks"
-seoTitle: "College Football 27: Dynasty guide, recruiting and best teams"
+seoTitle: "EA Sports College Football 27: guide"
 slug: "college-football-27-dynasty-guide"
 category: "guides"
 excerpt: "The College Football 27 Dynasty guide: which team to pick, which coach to create, how to master recruiting and prestige, and how to use playbooks well."

@@ -1,6 +1,6 @@
 ---
 title: "Low-Budget Repairs: if all these simulators look alike, this time we can name who is responsible"
-seoTitle: "Low-Budget Repairs: review of the corner-cutting handyman simulator"
+seoTitle: "Low-Budget Repairs: review"
 slug: "low-budget-repairs-test"
 category: "tests"
 excerpt: "Dilute the paint, lay tiles without a level, throw the furniture out the window. A good idea in a shell we have seen everywhere."

@@ -1,6 +1,6 @@
 ---
 title: "HackHub : encore un simulateur de hacking ? Oui, mais celui-là mise tout sur sa communauté"
-seoTitle: "HackHub Ultimate Hacker Simulator : test et avis"
+seoTitle: "HackHub - Ultimate Hacker Simulator"
 slug: "hackhub-test"
 category: "tests"
 excerpt: "Un énième sim de hacking ? Pas tout à fait. Avec son passage en 1.0, HackHub ajoute le modding et un vrai multijoueur qui le distinguent enfin de la masse."

@@ -1,6 +1,6 @@
 ---
 title: "Gargantua: a space economy where arming one side pushes up prices with the other"
-seoTitle: "Gargantua: review of the space trading and strategy game"
+seoTitle: "Gargantua: review"
 slug: "gargantua-test"
 category: "tests"
 excerpt: "Dozens of generated planets, supply and demand that genuinely move, and political consequences to every transaction."

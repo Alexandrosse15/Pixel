@@ -1,6 +1,7 @@
 ---
 title: "Hex Harmony : le petit jeu indie qu'on a envie de voir réussir"
 slug: "hex-harmony-preview"
+seoTitle: "Hex Harmony : preview de l'indé"
 category: "previews"
 excerpt: "Un puzzle de gestion sur hexagones, sans stress, avec des écosystèmes fragiles et un art style qui fait chaud au coeur. On l'a dans l'oeil."
 date: "2026-04-18"

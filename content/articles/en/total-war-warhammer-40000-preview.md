@@ -1,6 +1,6 @@
 ---
 title: "Total War: Warhammer 40,000 finally shows gameplay, and Armageddon looks like a dream"
-seoTitle: "Total War Warhammer 40000: gameplay preview"
+seoTitle: "Total War: Warhammer 40,000, preview"
 slug: "total-war-warhammer-40000-preview"
 category: "previews"
 excerpt: "Imperial Guard against Orks on Armageddon, Yarrick versus Ghazghkull, a beta incoming: Creative Assembly finally showed Total War 40K gameplay."

@@ -1,6 +1,6 @@
 ---
 title: "City Car Driving 2.0 : notre conduite est irréprochable, et pourtant ce simu nous a remis à notre place"
-seoTitle: "City Car Driving 2.0 : test de la simu de conduite"
+seoTitle: "City Car Driving 2.0 : test et avis"
 slug: "city-car-driving-2-test"
 category: "tests"
 excerpt: "Un simulateur de conduite obsédé par le réalisme, pensé pour les apprentis. On n'est pas la cible. On a quand même fini par comprendre son intérêt."

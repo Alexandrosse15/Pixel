@@ -1,6 +1,6 @@
 ---
 title: "GRIT : pourquoi ce western de 2021 débarque seulement aujourd'hui sur Steam, et ce qu'il a perdu en route"
-seoTitle: "GRIT : test et avis du battle royale western à mains de poker"
+seoTitle: "GRIT : test et avis"
 slug: "grit-test"
 category: "tests"
 excerpt: "Chaque arme est une carte, quatre emplacements font une main. Et derrière la sortie tardive, une histoire de NFT que la page Steam ne raconte plus."

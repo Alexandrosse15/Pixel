@@ -1,6 +1,6 @@
 ---
 title: "Battlestar Galactica: Scattered Hopes is the Crying Suns sequel nobody expected, and it's a good surprise"
-seoTitle: "Battlestar Galactica Scattered Hopes: roguelite preview"
+seoTitle: "Battlestar Galactica: Scattered Hopes"
 slug: "bsg-scattered-hopes-preview"
 category: "previews"
 excerpt: "Fleet management roguelite with crisis management, real-time Viper combat and meta-progression. Scattered Hopes is Crying Suns with a BSG paint job and notable improvements, for better and for worse."

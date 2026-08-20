@@ -1,6 +1,6 @@
 ---
 title: "Archon Soul: the dice-builder that turns luck into calculation"
-seoTitle: "Archon Soul: review of the roguelike dice-builder"
+seoTitle: "Archon Soul: review"
 slug: "archon-soul-test"
 category: "tests"
 excerpt: "We expected to rage at the dice. We ended up building them ourselves. Archon Soul makes randomness controllable, and it is fiendishly addictive."

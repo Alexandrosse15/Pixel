@@ -1,6 +1,7 @@
 ---
 title: "Heroes of Might and Magic Olden Era: Heroes III is back, and it means something"
 slug: "heroes-of-might-and-magic-olden-era-test"
+seoTitle: "Heroes of Might and Magic: Olden Era"
 category: "tests"
 excerpt: "Unfrozen managed what Ubisoft couldn't pull off in ten years: getting Heroes back on track. A trip back to childhood, an honest assessment, and the question we're all asking: is it actually as good as we hoped?"
 date: "2026-05-04"

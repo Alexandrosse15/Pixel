@@ -1,6 +1,6 @@
 ---
 title: "EA Sports College Football 27 is a monument of atmosphere sabotaged by its own store"
-seoTitle: "College Football 27: review and verdict (EA Sports)"
+seoTitle: "EA Sports College Football 27: review"
 slug: "ea-sports-college-football-27-test"
 category: "tests"
 excerpt: "Dynasty mode is a management masterpiece, the atmosphere of American Saturdays is unique. Then Ultimate Team and its store arrive, and the whole veneer cracks."

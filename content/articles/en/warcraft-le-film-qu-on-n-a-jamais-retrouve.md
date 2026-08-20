@@ -1,6 +1,7 @@
 ---
 title: "Warcraft the film we didn't expect… and never really got back"
 slug: "warcraft-le-film-qu-on-n-a-jamais-retrouve"
+seoTitle: "Warcraft: the film we never got back"
 category: "cinema"
 excerpt: "When it came out, Warcraft divided critics. At InsertCoins, our verdict is simple: we loved it. And it broke our hearts that there was never a sequel."
 date: "2026-04-17"

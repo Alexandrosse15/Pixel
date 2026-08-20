@@ -1,6 +1,6 @@
 ---
 title: "GRAIN ROT: the extraction horror with a real idea, dying is only the beginning when you are a spark"
-seoTitle: "GRAIN ROT: preview of the co-op extraction horror"
+seoTitle: "GRAIN ROT: preview"
 slug: "grain-rot-preview"
 category: "previews"
 excerpt: "350,000 demos played and a fresh mechanic: playing a spark that possesses wooden bodies. GRAIN ROT launches on 7 August and finally stands out."

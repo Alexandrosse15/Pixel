@@ -1,6 +1,6 @@
 ---
 title: "Space Imperia 4X est une adaptation tendue et brillante d'un jeu de plateau culte, à ne pas confondre avec le X4 d'Egosoft"
-seoTitle: "Space Imperia 4X : test et avis du 4X spatial"
+seoTitle: "Space Imperia 4X : test et avis"
 slug: "space-imperia-4x-test"
 category: "tests"
 excerpt: "L'adaptation officielle du jeu de plateau Space Empires 4X de GMT : des parties nerveuses d'une à deux heures, du bluff, des vaisseaux cachés et une profondeur tactique redoutable."

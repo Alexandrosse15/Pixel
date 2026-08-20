@@ -1,6 +1,6 @@
 ---
 title: "Star Wars Zero Company: the Clone Wars, XCOM veterans, and one single prayer, EA, do not ruin this"
-seoTitle: "Star Wars Zero Company: preview of the turn-based tactics game"
+seoTitle: "STAR WARS Zero Company: preview"
 slug: "star-wars-zero-company-preview"
 category: "previews"
 excerpt: "A turn-based tactics game from the XCOM veterans, set in the best period of Star Wars. With permadeath, and one worry about the music."

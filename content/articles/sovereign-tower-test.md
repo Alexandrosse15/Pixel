@@ -1,6 +1,6 @@
 ---
 title: "Sovereign Tower : régner sur une Table Ronde d'incapables, et remonter le temps quand ça tourne mal"
-seoTitle: "Sovereign Tower : test et avis du RPG de gestion de Table Ronde"
+seoTitle: "Sovereign Tower : test et avis"
 slug: "sovereign-tower-test"
 category: "tests"
 excerpt: "Recruter des chevaliers ingérables, arbitrer leurs ego, équilibrer cinq factions et le Trésor. Et rembobiner le destin autant de fois qu'il le faudra."

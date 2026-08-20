@@ -1,6 +1,6 @@
 ---
 title: "Fields of Mistria: two years of early access later, the 1.0 took me hostage all over again"
-seoTitle: "Fields of Mistria: review of the cozy farming sim"
+seoTitle: "Fields of Mistria: review"
 slug: "fields-of-mistria-test"
 excerpt: "A pastel pixel-art Stardew Valley that pushes cuteness to indecent levels. I thought I was immune. It got me by the first spring."
 category: "tests"

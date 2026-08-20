@@ -1,6 +1,6 @@
 ---
 title: "Last Spaceship : restaurer une épave stellaire, une énigme à la fois, dans un silence qui parle"
-seoTitle: "Last Spaceship : test et avis de l'aventure-puzzle"
+seoTitle: "Last Spaceship : test et avis"
 slug: "last-spaceship-test"
 category: "tests"
 excerpt: "Un vaisseau abandonné, des énigmes qui s'emboîtent et le dernier héritage de l'humanité à reconstituer. Une aventure cozy et atmosphérique qui prend son temps."

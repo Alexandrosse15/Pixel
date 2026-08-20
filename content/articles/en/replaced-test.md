@@ -1,6 +1,7 @@
 ---
 title: "REPLACED: a stunning visual experience… but is the game up to the same standard?"
 slug: "replaced-test"
+seoTitle: "REPLACED: review"
 category: "tests"
 excerpt: "REPLACED impresses from the very first frame. The pixel art is gorgeous, the cyberpunk atmosphere perfectly controlled. But once the visual impact wears off, one question remains: does the game hold up on anything beyond its appearance?"
 date: "2026-04-17"

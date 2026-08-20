@@ -1,6 +1,6 @@
 ---
 title: "Riftstorm : du PVE et rien que du PVE, et c'est exactement pour ça qu'il doit être irréprochable"
-seoTitle: "Riftstorm : test et avis du jeu d'action coopératif PVE"
+seoTitle: "RIFTSTORM : test et avis"
 slug: "riftstorm-test"
 category: "tests"
 excerpt: "Trois joueurs, des failles à refermer, des builds qui dérapent en cours de mission. Pas de PVP, donc aucune excuse sur la qualité du contenu."

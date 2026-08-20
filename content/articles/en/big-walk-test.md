@@ -1,6 +1,6 @@
 ---
 title: "Big Walk: I lost my best friend in a giant bush, and it was my best co-op moment of the year"
-seoTitle: "Big Walk: review of the House House co-op game"
+seoTitle: "Big Walk: review"
 slug: "big-walk-test"
 category: "tests"
 excerpt: "The Untitled Goose Game creators are back, and this time you do not cause mischief alone: you get lost together in the wild, and it is wonderful."

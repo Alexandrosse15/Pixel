@@ -1,6 +1,6 @@
 ---
 title: "Beast of Reincarnation : j'attendais Game Freak au tournant, je me suis pris une claque (la bonne)"
-seoTitle: "Beast of Reincarnation : test et avis du RPG Game Freak"
+seoTitle: "Beast of Reincarnation : test et avis"
 slug: "beast-of-reincarnation-test"
 category: "tests"
 excerpt: "Le studio de Pokémon qui se lance dans le souls-like, j'y croyais pas une seconde. Quatre heures plus tard, je n'avais pas lâché la manette."

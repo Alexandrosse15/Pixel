@@ -1,6 +1,6 @@
 ---
 title: "Mandate Order : des champs superbes, des bâtiments en retrait, et un Manor Lords qui aurait déménagé en Chine antique"
-seoTitle: "Mandate Order : test et avis du city builder en Chine antique"
+seoTitle: "Mandate Order : test et avis"
 slug: "mandate-order-test"
 category: "tests"
 excerpt: "Construction libre, saisons agricoles et batailles à mille unités dans la Chine antique. Riche sur le papier, encore rugueux à l'usage."

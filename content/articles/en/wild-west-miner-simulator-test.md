@@ -1,6 +1,6 @@
 ---
 title: "Wild West Miner Simulator: I already have a job, thanks, I was not looking for five more"
-seoTitle: "Wild West Miner Simulator: review of the mining simulator"
+seoTitle: "Wild West Miner Simulator: review"
 slug: "wild-west-miner-simulator-test"
 category: "tests"
 excerpt: "Mine, smelt, build, repeat. Gathering here is a chore with no playful payoff, and the same publisher produces this by the yard."

@@ -1,6 +1,6 @@
 ---
 title: "Dive or Die: Children of Rain était l'un de nos jeux les plus attendus, et c'est bien la pépite qu'on espérait"
-seoTitle: "Dive or Die: Children of Rain : test et avis"
+seoTitle: "Dive or Die: Children of Rain, test"
 slug: "dive-or-die-children-of-rain-test"
 category: "tests"
 excerpt: "Plonger dans un abysse lovecraftien, gérer son oxygène et récupérer des idoles avant que la pluie noire n'engloutisse le monde. On l'attendait de pied ferme, et Dive or Die tient sa promesse."

@@ -1,6 +1,6 @@
 ---
 title: "Guide Big Walk : ne pas perdre son partenaire, se retrouver, et bien vivre l'aventure à deux"
-seoTitle: "Big Walk : guide de débutant et de coopération"
+seoTitle: "Big Walk : guide"
 slug: "big-walk-guide"
 category: "guides"
 excerpt: "Bien débuter Big Walk : comprendre le chat de proximité, rester ensemble, se retrouver avec mégaphone, fusées et pancartes, et progresser dans le monde ouvert."

@@ -1,6 +1,6 @@
 ---
 title: "Rush Royale puts $7,777 on the table for its Rhandum League, except it's the players who fill the prize pool"
-seoTitle: "Rush Royale: the Rhandum League and its prize pool"
+seoTitle: "Rush Royale: the Rhandum League"
 slug: "rush-royale-rhandum-league-industrie"
 category: "industrie"
 excerpt: "MY.GAMES relaunches its Rush Royale tournament with a $7,777 prize pool. The level-playing-field format deserves applause, but the prize that grows with every purchase deserves a closer look."

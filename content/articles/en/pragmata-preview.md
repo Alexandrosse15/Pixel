@@ -1,6 +1,7 @@
 ---
 title: "Pragmata: what if Capcom really surprised us?"
 slug: "pragmata-preview"
+seoTitle: "Pragmata: preview"
 category: "previews"
 excerpt: "Diana, a mysterious little girl, and an astronaut lost in a hostile, warped space universe. Pragmata may be one of Capcom's boldest creations in years."
 date: "2026-04-15"

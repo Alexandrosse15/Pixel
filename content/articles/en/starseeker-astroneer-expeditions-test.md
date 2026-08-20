@@ -1,6 +1,6 @@
 ---
 title: "Starseeker: Astroneer Expeditions, a gorgeous world still searching for the game"
-seoTitle: "Starseeker review: the Astroneer early access spin-off"
+seoTitle: "Starseeker: Astroneer Expeditions"
 slug: "starseeker-astroneer-expeditions-test"
 category: "tests"
 excerpt: "System Era leaves Astroneer's sandbox for online co-op expeditions. It is splendid and otherworldly, but you are still looking for what to do. Our review."

@@ -1,6 +1,7 @@
 ---
 title: "Cartel Pilots Wanted: tropical islands, a smuggling plane, and something that reminds us why we play"
 slug: "cartel-pilots-preview"
+seoTitle: "Cartel Pilots Wanted: preview"
 category: "previews"
 excerpt: "A co-op aerial smuggling sim across a tropical archipelago. No demo, no press access. Just a trailer, a first-Far Cry vibe, and a genuine desire to be there."
 date: "2026-04-19"

@@ -1,6 +1,6 @@
 ---
 title: "Omen: the atmosphere grabs you, and your children will not see you for a week"
-seoTitle: "Omen: preview of the space combat and defence roguelite"
+seoTitle: "Omen: preview"
 slug: "omen-preview"
 category: "previews"
 excerpt: "A collapsing space empire, an entity called The Veil, and an expedition loop built to swallow your evenings."

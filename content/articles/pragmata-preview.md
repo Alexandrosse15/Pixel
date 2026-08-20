@@ -1,6 +1,7 @@
 ---
 title: "Pragmata : et si Capcom nous surprenait vraiment ?"
 slug: "pragmata-preview"
+seoTitle: "Pragmata : preview"
 category: "previews"
 excerpt: "Une petite fille mystérieuse et un astronaute perdu dans un univers hostile. Pragmata est peut-être la création la plus audacieuse de Capcom depuis des années."
 date: "2026-04-15"

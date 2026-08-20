@@ -1,6 +1,6 @@
 ---
 title: "Mechanicus 2 releases May 21 and the only thing stopping us from burning the incense right now is the soundtrack"
-seoTitle: "Mechanicus 2: Warhammer 40K strategy preview"
+seoTitle: "Warhammer 40000 Mechanicus 2: preview"
 slug: "mechanicus-2-preview"
 category: "previews"
 excerpt: "Lingua Technis as an option, playable Necrons, solid demo. Mechanicus 2 releases May 21. The only remaining question: can the soundtrack rival XCOM 2?"

@@ -1,6 +1,6 @@
 ---
 title: "Repterra: They Are Billions with dinosaurs, and a breeding system that changes the equation"
-seoTitle: "Repterra: review of the dinosaur survival RTS"
+seoTitle: "Repterra: review"
 slug: "repterra-test"
 category: "tests"
 excerpt: "Hordes of tens of thousands of dinos, taming, genetic breeding and three factions. Published by MicroProse, and far more than a clone."

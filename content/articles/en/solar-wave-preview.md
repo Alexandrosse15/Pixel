@@ -1,6 +1,6 @@
 ---
 title: "Solar Wave: strip the micromanagement out of a space strategy game, and do you remove the chore or the game?"
-seoTitle: "Solar Wave: preview of the indirect-control space strategy game"
+seoTitle: "Solar Wave: preview"
 slug: "solar-wave-preview"
 category: "previews"
 excerpt: "Autonomous fleets, a living economy, thousands of ships. A design gamble that is not playing on Stellaris's pitch."

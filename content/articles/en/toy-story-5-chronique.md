@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 5: I did not cry this time, but as a dad, this film spoke to me like no other"
-seoTitle: "Toy Story 5: our chronicle of a dad and a nostalgic"
+seoTitle: "Toy Story 5: our chronicle"
 slug: "toy-story-5-chronique"
 category: "cinema"
 excerpt: "I cried for the third one like everyone else. Today I am a father of two, and Toy Story 5 hit home: screens, imagination and our kids."

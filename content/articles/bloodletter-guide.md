@@ -1,6 +1,6 @@
 ---
 title: "Guide BLOODLETTER : la file d'attente est votre vrai plateau, et les rares ne sauveront pas vos parties"
-seoTitle: "BLOODLETTER : guide des entités, transmutateurs, cartes et jauges"
+seoTitle: "BLOODLETTER : guide"
 slug: "bloodletter-guide"
 category: "guides"
 excerpt: "Pureté, Santé, Maladie, pierres de sang, transmutateurs et quatre entités aux conditions de victoire différentes. Le guide complet du deckbuilder."

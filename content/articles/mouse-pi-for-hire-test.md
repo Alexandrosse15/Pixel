@@ -1,6 +1,7 @@
 ---
 title: "Mouse: P.I. For Hire : un style incroyable, un jeu qui ne tient pas la distance"
 slug: "mouse-pi-for-hire-test"
+seoTitle: "Mouse: P.I. For Hire, test et avis"
 category: "tests"
 excerpt: "Cartoon des années 30, film noir, FPS à l'ancienne. Ça fonctionne à merveille pendant quelques heures. Puis les limites apparaissent."
 date: "2026-04-17"

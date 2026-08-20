@@ -1,6 +1,6 @@
 ---
 title: "Red Tape Rampage: the mad optimiser in you will fire entire teams, and the game is counting on it"
-seoTitle: "Red Tape Rampage: preview of the satirical office incremental"
+seoTitle: "Red Tape Rampage: preview"
 slug: "red-tape-rampage-preview"
 category: "previews"
 excerpt: "A satirical incremental where paperwork becomes progress and mass layoffs are an owned game mechanic."

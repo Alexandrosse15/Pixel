@@ -1,6 +1,6 @@
 ---
 title: "Mahou Arms is a pretty magical-girl hack-and-slash, sabotaged by fan service it could really have done without"
-seoTitle: "Mahou Arms: review of the magical-girl hack-and-slash"
+seoTitle: "Mahou Arms: review"
 slug: "mahou-arms-test"
 category: "tests"
 excerpt: "A polished, nervous anime character-action blending Musou and Devil May Cry. Mahou Arms is pretty and well thought out, but its insistence on panty shots undercuts its elegance."

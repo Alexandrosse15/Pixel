@@ -1,6 +1,6 @@
 ---
 title: "Yoshi and the Mysterious Book: Good Feel reinvents Yoshi from scratch"
-seoTitle: "Yoshi and the Mysterious Book review: our verdict on the Switch 2 game"
+seoTitle: "Yoshi and the Mysterious Book: review"
 slug: "yoshi-mysterious-book-test"
 category: "tests"
 excerpt: "Good Feel doesn't remake Crafted World. They build something without a precise genre name: a side-scrolling sandbox where each level is a creature to understand. Inventive, beautiful, and almost without challenge."

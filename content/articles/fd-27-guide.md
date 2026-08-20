@@ -1,6 +1,6 @@
 ---
 title: "Guide FD 27 : par quel département commencer, et pourquoi le médical se paie six mois plus tard"
-seoTitle: "FD 27 : guide de démarrage, départements, sponsors et finances"
+seoTitle: "FD 27: Direct Your Football Club, guide"
 slug: "fd-27-guide"
 category: "guides"
 excerpt: "Choisir son club, recruter dans le bon ordre, négocier ses sponsors et éviter la spirale de dette. Le guide complet de la version 0.1."

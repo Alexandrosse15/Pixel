@@ -1,6 +1,6 @@
 ---
 title: "Rogue Eclipse: one solo developer delivers the space combat others have been promising for fourteen years"
-seoTitle: "Rogue Eclipse: review of the space combat roguelike"
+seoTitle: "Rogue Eclipse: review"
 slug: "rogue-eclipse-test"
 category: "tests"
 excerpt: "Arcade space combat, sharp and legible, from a single British developer funded by the label set up by the creators of Among Us."

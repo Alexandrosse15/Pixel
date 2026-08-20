@@ -1,6 +1,7 @@
 ---
 title: "Le malaise silencieux de Nacon : chronique d'une industrie sous tension"
 slug: "nacon-malaise-industrie"
+seoTitle: "Le malaise silencieux de Nacon"
 category: "industrie"
 excerpt: "Derrière les communiqués et les ambitions affichées, Nacon cache une réalité plus fragile. Chronique d'un acteur européen pris en étau."
 date: "2026-04-13"

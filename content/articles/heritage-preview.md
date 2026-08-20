@@ -1,6 +1,6 @@
 ---
 title: "Heritage : un auto battler qui soigne son écriture et néglige tout le reste à l'écran"
-seoTitle: "Heritage : preview de l'auto battler roguelike wuxia"
+seoTitle: "Heritage : preview"
 slug: "heritage-preview"
 category: "previews"
 excerpt: "160 parchemins, 140 compétences, 10 sectes : la matière est là. L'animation et l'habillage visuel, beaucoup moins."

@@ -1,6 +1,6 @@
 ---
 title: "The Last Nordic Tribe: surviving the Little Ragnarök, and it smells like Gothic 2001 in the best way"
-seoTitle: "The Last Nordic Tribe preview: Nordic survival RPG indie, our impressions"
+seoTitle: "The Last Nordic Tribe: preview"
 slug: "last-nordic-tribe-preview"
 category: "previews"
 excerpt: "Never Say Never built a first-person survival RPG in post-volcanic-winter 536 AD Scandinavia. Desolate village, mythological spiders, stone crafting and lethal cold. Six euros. And an atmosphere that echoes what Gothic did in 2001."

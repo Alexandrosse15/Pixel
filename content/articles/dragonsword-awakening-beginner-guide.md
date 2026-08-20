@@ -1,6 +1,6 @@
 ---
 title: "Comment bien débuter dans DragonSword Awakening : premières heures, équipe de départ et ressources à ne pas gaspiller"
-seoTitle: "DragonSword Awakening : guide débutant, bien commencer"
+seoTitle: "DragonSword Awakening : guide"
 slug: "dragonsword-awakening-beginner-guide"
 category: "guides"
 excerpt: "Le guide débutant de DragonSword Awakening : par quoi commencer, quelle première équipe monter, les mécaniques à apprendre en priorité et les ressources à ne surtout pas gaspiller."

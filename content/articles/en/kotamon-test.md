@@ -1,6 +1,6 @@
 ---
 title: "KOTAMON: picking through garbage to collect cards, and an idea that deserved better artwork"
-seoTitle: "KOTAMON: review of the card-collecting dump site game"
+seoTitle: "KOTAMON: review"
 slug: "kotamon-test"
 category: "tests"
 excerpt: "Sift through a dump at your own pace, mend damaged cards, swap them for better ones. A successful mood, and a questionable art choice."

@@ -1,6 +1,6 @@
 ---
 title: "Ministry of Truth: False Memory : réécrire l'histoire à la chaîne, et se surveiller soi-même en le faisant"
-seoTitle: "Ministry of Truth False Memory : test et avis du jeu de propagande"
+seoTitle: "Ministry of Truth: False Memory, test"
 slug: "ministry-of-truth-false-memory-test"
 category: "tests"
 excerpt: "Falsifier les archives, hurler à la Rage de Cinq Minutes, réprimer ses propres doutes. Un 1984 jouable, court et tenu, signé d'un studio ukrainien."

@@ -1,6 +1,6 @@
 ---
 title: "Fable (2026) : six ans d'attente, une annonce PS5, et la question qui reste sans réponse"
-seoTitle: "Fable 2026 : reboot Playground Games, PS5 day one, notre analyse"
+seoTitle: "Fable 2026 : reboot Playground Games"
 slug: "fable-reboot-2026"
 category: "industrie"
 excerpt: "Six ans après l'annonce, Fable sort en automne 2026 sur Xbox, PC et PS5 day one. Playground Games a construit quelque chose d'ambitieux. La vraie question c'est si on aurait préféré une suite dans la lignée du deux."

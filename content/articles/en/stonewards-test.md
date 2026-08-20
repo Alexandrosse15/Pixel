@@ -1,6 +1,6 @@
 ---
 title: "Stonewards: dig, forge, hold the wall, and pixel art that does the job without striking sparks"
-seoTitle: "Stonewards: review of the co-op dwarf defence roguelite"
+seoTitle: "Stonewards: review"
 slug: "stonewards-test"
 category: "tests"
 excerpt: "Dwarves, a mine to raid between waves and ramparts to hold with four. A well-judged loop in an unsurprising shell."

@@ -1,6 +1,6 @@
 ---
 title: "Mistfall Hunter : j'ai perdu deux heures de butin à cinq mètres de la sortie, et j'y suis retourné"
-seoTitle: "Mistfall Hunter : test et avis de l'extraction ARPG"
+seoTitle: "Mistfall Hunter : test et avis"
 slug: "mistfall-hunter-test"
 category: "tests"
 excerpt: "L'extraction, c'est le seul genre où réussir 99% d'une expédition et mourir sur le dernier mètre efface tout. Mistfall Hunter maîtrise cette cruauté à la perfection."

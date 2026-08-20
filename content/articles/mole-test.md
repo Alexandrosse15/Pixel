@@ -1,6 +1,6 @@
 ---
 title: "MOLE vous enferme dans une foreuse géante avec votre propre culpabilité, et c'est le meilleur huis clos de l'année"
-seoTitle: "MOLE : test du huis clos horrifique souterrain"
+seoTitle: "MOLE : test et avis"
 slug: "mole-test"
 category: "tests"
 excerpt: "Une foreuse colossale, un équipage disparu, un Signal qui ne se tait pas. On est descendu jusqu'au bout, et on n'en est pas ressorti indemne."

@@ -1,6 +1,6 @@
 ---
 title: "Guide BOMBANANA! : les trois rôles, communiquer malgré les handicaps et désamorcer sans tout faire exploser"
-seoTitle: "BOMBANANA! : guide complet des rôles et du déminage"
+seoTitle: "BOMBANANA! : guide"
 slug: "bombanana-guide"
 category: "guides"
 excerpt: "Le guide complet BOMBANANA! : comprendre les rôles aveugle, sourd et muet, établir un code de communication et désamorcer la bombe-banane à temps."

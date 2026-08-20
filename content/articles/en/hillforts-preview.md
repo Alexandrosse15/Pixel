@@ -1,6 +1,6 @@
 ---
 title: "Hillforts is one more card autobattler, but its medieval siege could give it a real identity"
-seoTitle: "Hillforts: preview of the medieval autobattler"
+seoTitle: "Hillforts: preview"
 slug: "hillforts-preview"
 category: "previews"
 excerpt: "Build an army, research technologies, upgrade your units and siege the enemy castle. Hillforts is still a prototype, but its siege approach stands out in a saturated genre."

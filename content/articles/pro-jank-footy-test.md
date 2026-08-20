@@ -1,6 +1,6 @@
 ---
 title: "Pro Jank Footy : l'héritier direct de FIFA Street et NBA Street, sauf qu'il est australien et complètement fou"
-seoTitle: "Pro Jank Footy : test et avis du jeu de sport arcade australien"
+seoTitle: "Pro Jank Footy : test et avis"
 slug: "pro-jank-footy-test"
 category: "tests"
 excerpt: "Marquez un but, votre adversaire choisit un pouvoir absurde parmi 150. Le sport arcade dans sa version la plus assumée, et ça marche."

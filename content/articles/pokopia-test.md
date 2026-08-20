@@ -1,6 +1,7 @@
 ---
 title: "Pokopia : le cozy game qui s'est perdu dans le grind"
 slug: "pokopia-test"
+seoTitle: "Pokopia : test et avis"
 category: "tests"
 excerpt: "Pokopia promettait une expérience relaxante dans l'univers Pokémon. Dans les faits, c'est un jeu de grind qui s'est trompé d'identité."
 date: "2026-04-17"

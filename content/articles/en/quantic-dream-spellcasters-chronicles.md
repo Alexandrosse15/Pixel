@@ -1,6 +1,6 @@
 ---
 title: "Quantic Dream shuts down Spellcasters Chronicles after 83 days: 800 players at launch, 54 at the end"
-seoTitle: "Spellcasters Chronicles shut down: Quantic Dream and the predictable failure"
+seoTitle: "Spellcasters Chronicles shut down"
 slug: "quantic-dream-spellcasters-chronicles"
 category: "industrie"
 excerpt: "Quantic Dream, the studio behind Heavy Rain and Detroit, launched a MOBA hero shooter that nobody saw coming and almost nobody played. 83 days after launch, servers close June 19. The postmortem is brutal."

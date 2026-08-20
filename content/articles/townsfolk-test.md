@@ -1,6 +1,7 @@
 ---
 title: "TownsFolk : encore un jeu à hexagones, et pourtant on ne s'en lasse pas"
 slug: "townsfolk-test"
+seoTitle: "TownsFolk : test et avis"
 category: "tests"
 excerpt: "Encore un jeu à hexagones. TownsFolk ne réinvente pas la formule, mais il l'habite avec une chaleur et une générosité qui font toute la différence."
 date: "2026-04-20"

@@ -1,6 +1,6 @@
 ---
 title: "Kill the Shadow : un detective qui rembobine le temps dans une ville noire au neon"
-seoTitle: "Kill the Shadow : test et avis du RPG-enquete pixel noir"
+seoTitle: "Kill The Shadow : test et avis"
 slug: "kill-the-shadow-test"
 excerpt: "Enquete pixel-noir dans une cite d'apres-guerre coupee en deux, avec un carnet, des neons chinois sous la pluie et le pouvoir de remonter le temps."
 category: "tests"

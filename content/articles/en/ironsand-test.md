@@ -1,6 +1,6 @@
 ---
 title: "Ironsand: four players against Titans, and a roguelite betting everything on team synergy"
-seoTitle: "Ironsand: review of the co-op game against the machines"
+seoTitle: "Ironsand: review"
 slug: "ironsand-test"
 category: "tests"
 excerpt: "A planet besieged by a machine army, colossal war platforms to bring down, and builds to align across four players."

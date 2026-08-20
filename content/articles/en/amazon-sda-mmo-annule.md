@@ -1,6 +1,6 @@
 ---
 title: "Amazon's Lord of the Rings MMO is cancelled, and we were maybe the last ones to believe in it"
-seoTitle: "Lord of the Rings MMO cancelled: Amazon Games postmortem"
+seoTitle: "Lord of the Rings MMO cancelled"
 slug: "amazon-sda-mmo-annule"
 category: "industrie"
 excerpt: "Amazon just confirmed the cancellation of its Lord of the Rings MMO. Breakaway, Crucible, New World on its deathbed, two failed LOTR attempts: the track record of a studio that should never have touched this franchise."

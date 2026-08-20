@@ -1,6 +1,7 @@
 ---
 title: "Les Murmures du Soleil is the best mobile game of 2025 and you've probably never heard of it"
 slug: "les-murmures-du-soleil-test"
+seoTitle: "Les Murmures du Soleil: review"
 category: "tests"
 excerpt: "An entirely audio narrative action game, designed for the blind, developed solo, released December 30th 2025. Winner of the Pégases 2026 Best Mobile Game award. InsertCoin.press played it with eyes closed. Literally."
 date: "2026-04-18"

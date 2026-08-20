@@ -1,6 +1,6 @@
 ---
 title: "Cleaning Up The Puzzle Gallery : 2071 pieces eparpillees dans un musee, soit mon pire cauchemar en jeu video"
-seoTitle: "Cleaning Up The Puzzle Gallery : preview du puzzle cozy"
+seoTitle: "Cleaning Up The Puzzle Gallery : preview"
 slug: "puzzle-gallery-preview"
 excerpt: "On galere deja sur un 200 pieces a la maison, alors reconstituer 87 tableaux et 2071 pieces dans une galerie, c'est notre enfer sur terre. Et on a envie d'essayer."
 category: "previews"

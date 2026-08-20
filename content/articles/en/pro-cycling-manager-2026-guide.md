@@ -1,6 +1,6 @@
 ---
 title: "Pro Cycling Manager 2026 guide: getting started in career, scouting, transfers and team management"
-seoTitle: "Pro Cycling Manager 2026: career guide, teams and tips"
+seoTitle: "Pro Cycling Manager 2026: guide"
 slug: "pro-cycling-manager-2026-guide"
 category: "guides"
 excerpt: "The Pro Cycling Manager 2026 career guide: which team to pick, how to master scouting and dossier points, nail your transfers and manage budget, staff and hierarchy."

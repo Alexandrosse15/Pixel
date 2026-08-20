@@ -1,6 +1,6 @@
 ---
 title: "SpaceCraft: Shiro Games leaves its comfort zone for an ambitious space MMO, and it is a risky bet"
-seoTitle: "SpaceCraft review: Shiro's early access space MMO"
+seoTitle: "SpaceCraft: review"
 slug: "spacecraft-test"
 category: "tests"
 excerpt: "Shiro Games swaps solo strategy for an MMO of exploration, factories and space economy. Ambitious and beautiful, but still thin. Our review."

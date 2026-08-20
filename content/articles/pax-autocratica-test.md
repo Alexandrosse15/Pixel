@@ -1,6 +1,6 @@
 ---
 title: "Pax Autocratica : dites-nous régime totalitaire, ajoutez des mechas, et nous voilà parfaitement heureux"
-seoTitle: "Pax Autocratica : test et avis du colony sim totalitaire et FPS roguelite"
+seoTitle: "Pax Autocratica : test et avis"
 slug: "pax-autocratica-test"
 category: "tests"
 excerpt: "Un colony sim totalitaire soudé à un FPS roguelite avec des mechas et du bullet hell. Superbe, drôle, et beaucoup moins innocent qu'il n'en a l'air."

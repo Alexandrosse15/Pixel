@@ -1,6 +1,7 @@
 ---
 title: "Dark Heresy: Owlcat takes on the Inquisition and we're already lost in the Calixis Sector"
 slug: "dark-heresy-preview"
+seoTitle: "Warhammer 40,000: Dark Heresy, preview"
 category: "previews"
 excerpt: "An isometric CRPG set in the Imperial Inquisition, featuring Night Lords, an Ogryn, an Eldar Psyker, and even a playable Kroot. Owlcat Games doing what Owlcat Games does, in the 40K universe. We want to believe."
 date: "2026-05-05"

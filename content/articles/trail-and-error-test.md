@@ -1,6 +1,6 @@
 ---
 title: "Trail & Error débarque dans un genre saturé et trouve quand même de quoi nous faire hurler entre potes"
-seoTitle: "Trail & Error : test du co-op survie chaotique"
+seoTitle: "Trail & Error : test et avis"
 slug: "trail-and-error-test"
 category: "tests"
 excerpt: "Encore un co-op survie pour mettre l'amitié à l'épreuve ? Oui. Sauf que son chariot à la physique délirante lui donne un vrai twist. On a ri, beaucoup."

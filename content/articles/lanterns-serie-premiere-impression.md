@@ -1,6 +1,6 @@
 ---
 title: "Lanterns : Kyle Chandler a libéré Ryan Reynolds de son serment, et Aaron Pierre confirme tout ce qu'on soupçonnait"
-seoTitle: "Lanterns : premières impressions de la série Green Lantern sur HBO Max"
+seoTitle: "Lanterns : critique"
 slug: "lanterns-serie-premiere-impression"
 category: "cinema"
 excerpt: "Un meurtre dans le Nebraska, deux flics intergalactiques et une double temporalité. La série DC démarre fort, malgré quelques ficelles trop visibles."

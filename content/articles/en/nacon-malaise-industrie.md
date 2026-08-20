@@ -1,6 +1,7 @@
 ---
 title: "Nacon's silent unease: chronicle of an industry under strain"
 slug: "nacon-malaise-industrie"
+seoTitle: "Nacon's silent unease"
 category: "industrie"
 excerpt: "Behind the official press releases and stated ambitions, a more fragile, more human, and above all more troubling reality is taking shape around Nacon. A chronicle of a European player caught between growth and its limits."
 date: "2026-04-13"

@@ -1,6 +1,6 @@
 ---
 title: "BLOODLETTER guide: the queue is your real board, and rares will not save your runs"
-seoTitle: "BLOODLETTER: guide to entities, transmuters, cards and gauges"
+seoTitle: "BLOODLETTER: guide"
 slug: "bloodletter-guide"
 category: "guides"
 excerpt: "Purity, Health, Sickness, bloodstones, transmuters and four entities with different win conditions. The complete deckbuilder guide."

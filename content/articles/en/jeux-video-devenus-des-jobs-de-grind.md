@@ -1,6 +1,7 @@
 ---
 title: "Video games have become grind jobs. Nobody's paying you, but you're working anyway."
 slug: "jeux-video-devenus-des-jobs-de-grind"
+seoTitle: "When games became a second job"
 category: "dossiers"
 excerpt: "A few years ago, you launched a game to have fun. Today, you launch a game to check boxes, fill a bar, keep your streak alive, collect your daily login reward, and finish the battle pass before it expires. When was the last time you played a game just for the fun of it?"
 date: "2026-04-17"

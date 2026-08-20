@@ -1,6 +1,6 @@
 ---
 title: "Lootbound : déplacer une épée d'une case change tout votre build, et c'est là que se cache sa vraie profondeur"
-seoTitle: "Lootbound : test et avis du roguelite tactique à inventaire"
+seoTitle: "Lootbound : test et avis"
 slug: "lootbound-test"
 category: "tests"
 excerpt: "Un roguelite de dark fantasy où l'agencement de l'inventaire est le build. Brillant sur ce terrain, mais ce n'est pas un RPG."

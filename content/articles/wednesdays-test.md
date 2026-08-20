@@ -1,6 +1,7 @@
 ---
 title: "Wednesdays : éclairer ce qu'on préférerait voir ne pas exister"
 slug: "wednesdays-test"
+seoTitle: "Wednesdays : test et avis"
 category: "tests"
 excerpt: "Style BD qui rappelle Ghost World, sujet que peu d'oeuvres ont le courage d'aborder frontalement. Inconfortable, nécessaire, et lumineux."
 date: "2026-04-20"

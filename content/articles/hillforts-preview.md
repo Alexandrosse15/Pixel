@@ -1,6 +1,6 @@
 ---
 title: "Hillforts est un autobattler à cartes de plus, mais son siège médiéval pourrait bien lui donner une vraie identité"
-seoTitle: "Hillforts : preview de l'autobattler médiéval"
+seoTitle: "Hillforts : preview"
 slug: "hillforts-preview"
 category: "previews"
 excerpt: "Bâtir une armée, chercher des technologies, améliorer ses unités et assiéger le château ennemi. Hillforts est encore un prototype, mais son approche siège tranche dans un genre saturé."

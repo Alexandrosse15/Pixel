@@ -1,6 +1,6 @@
 ---
 title: "Legacy of Sail: old-school naval tactics that smell of gunpowder and wet timber"
-seoTitle: "Legacy of Sail: review of the naval tactics game"
+seoTitle: "Legacy of Sail: review"
 slug: "legacy-of-sail-test"
 category: "tests"
 excerpt: "A 17th-century admiral capturing towns and boarding ships of the line. A demanding, authentic real-time naval tactics game, built for enthusiasts."

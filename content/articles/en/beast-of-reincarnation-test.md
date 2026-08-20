@@ -1,6 +1,6 @@
 ---
 title: "Beast of Reincarnation: I was ready to tear Game Freak apart, and it slapped me (in a good way)"
-seoTitle: "Beast of Reincarnation: review of the Game Freak RPG"
+seoTitle: "Beast of Reincarnation: review"
 slug: "beast-of-reincarnation-test"
 category: "tests"
 excerpt: "The Pokémon studio trying its hand at a souls-like? I did not buy it for a second. Four hours later, I still had not put the controller down."

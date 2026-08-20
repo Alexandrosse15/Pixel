@@ -1,6 +1,6 @@
 ---
 title: "Star Wars Zero Company : la Guerre des Clones, des vétérans de XCOM et une seule prière, EA, ne gâchez pas tout"
-seoTitle: "Star Wars Zero Company : preview du jeu de tactique au tour par tour"
+seoTitle: "STAR WARS Zero Company : preview"
 slug: "star-wars-zero-company-preview"
 category: "previews"
 excerpt: "Un tactique au tour par tour par les vétérans de XCOM, dans la meilleure période de Star Wars. Avec mort permanente, et une inquiétude sur la musique."

@@ -1,6 +1,6 @@
 ---
 title: "Hearse Hero : un corbillard, des âmes à livrer, et le successeur de Crazy Taxi qu'on n'attendait pas"
-seoTitle: "Hearse Hero : test et avis de l'arcade de conduite"
+seoTitle: "Hearse Hero : test et avis"
 slug: "hearse-hero-test"
 category: "tests"
 excerpt: "Un solo dev ressuscite l'esprit de Crazy Taxi avec un corbillard et beaucoup d'humour noir. Nostalgique, généreux et fait main, pour les amoureux de l'arcade."

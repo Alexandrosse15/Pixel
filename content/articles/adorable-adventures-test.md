@@ -1,6 +1,7 @@
 ---
 title: "Adorable Adventures : Boris le marcassin et l'art de ne rien précipiter"
 slug: "adorable-adventures-test"
+seoTitle: "Adorable Adventures : test et avis"
 category: "tests"
 excerpt: "Boris est un marcassin orphelin dans un monde qui brûle. Adorable Adventures ose être doux dans un paysage qui ne l'est plus. C'est courageux."
 date: "2026-04-30"

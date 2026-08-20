@@ -1,6 +1,6 @@
 ---
 title: "The Ranchers : 245 000 euros levés, quatre ans d'attente, et un accès anticipé amputé de presque tout ce qui le rendait excitant"
-seoTitle: "The Ranchers : test et avis du country-life sim en accès anticipé"
+seoTitle: "The Ranchers : test et avis"
 slug: "the-ranchers-test"
 category: "tests"
 excerpt: "Pêche, chasse, mines, donjons, monstres : tout ce qui distinguait The Ranchers des autres jeux de ferme est absent au lancement. Le reste est fonctionnel."

@@ -1,6 +1,7 @@
 ---
 title: "Pragmata : Capcom pose les bases d'une nouvelle licence, et ça tient"
 slug: "pragmata-test"
+seoTitle: "Pragmata : test et avis"
 category: "tests"
 excerpt: "Capcom mise sur une nouvelle licence : mécaniques hybrides, direction artistique soignée, duo attachant. Pas une révolution, mais une base solide."
 date: "2026-04-21"

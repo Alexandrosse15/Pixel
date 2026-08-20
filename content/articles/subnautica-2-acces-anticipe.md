@@ -1,6 +1,6 @@
 ---
 title: "Subnautica 2 est sorti malgré Krafton, et c'est la première fois qu'acheter un jeu ressemble à un acte politique"
-seoTitle: "Subnautica 2 : polémique Krafton et impressions EA"
+seoTitle: "Subnautica 2 : la polémique Krafton"
 slug: "subnautica-2-acces-anticipe"
 category: "industrie"
 excerpt: "Krafton a essayé d'escroquer ses devs via un plan illégal conseillé par ChatGPT, a perdu son procès, et Subnautica 2 est sorti quand même en accès anticipé."

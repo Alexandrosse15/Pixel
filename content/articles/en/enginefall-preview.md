@@ -1,6 +1,6 @@
 ---
 title: "Enginefall wants to kill ARC Raiders on a giant train, but it has a Rust problem first"
-seoTitle: "Enginefall: preview of megatrain extraction"
+seoTitle: "Enginefall: preview"
 slug: "enginefall-preview"
 category: "previews"
 excerpt: "An extraction shooter à la Snowpiercer where you climb a megatrain car by car. The idea is superb. The demo, though, already shows where it stumbles against ARC Raiders."

@@ -1,6 +1,6 @@
 ---
 title: "The Merchant's Eden : probablement le city builder le plus mignon de l'année, et il cache une tower defense"
-seoTitle: "The Merchant's Eden : preview du city builder médiéval minimaliste"
+seoTitle: "The Merchant's Eden : preview"
 slug: "the-merchants-eden-preview"
 category: "previews"
 excerpt: "Une bourgade médiévale autour d'une place de marché, en style minimaliste et apaisant. Sauf que la prospérité attire les berserkers."

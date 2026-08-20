@@ -1,6 +1,6 @@
 ---
 title: "Mr. President: running the United States from crisis to crisis, a presidential management game like they used to make"
-seoTitle: "Mr. President: review of the management game"
+seoTitle: "Mr. President: review"
 slug: "mr-president-test"
 category: "tests"
 excerpt: "You won the election, now govern. Over 150 crises, Russia and China as rivals: a dense presidency sim that fills a real gap."

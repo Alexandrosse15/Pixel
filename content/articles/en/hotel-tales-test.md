@@ -1,6 +1,6 @@
 ---
 title: "Hotel Tales: the strangest summer job of the year, between hotel management and a crossroads of worlds"
-seoTitle: "Hotel Tales: review of the mystery hotel game"
+seoTitle: "Hotel Tales: review"
 slug: "hotel-tales-test"
 category: "tests"
 excerpt: "Running a hotel at the crossroads of worlds, between strange guests and secrets to uncover. An endearing blend of management and narrative, if not always sharp."

@@ -1,6 +1,6 @@
 ---
 title: "Warhounds : un XCOM correct sorti juste avant le vrai, et un passif que l'acheteur mérite de connaître"
-seoTitle: "Warhounds : test et avis du jeu de tactique au tour par tour"
+seoTitle: "Warhounds : test et avis"
 slug: "warhounds-test"
 category: "tests"
 excerpt: "Tactique au tour par tour honnête mais sans éclat. Surtout, c'est la version internationale de Sparta 2035, financé par un organisme d'État russe."

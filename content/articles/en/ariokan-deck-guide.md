@@ -1,6 +1,6 @@
 ---
 title: "Ariokan guide: getting started, building your deck, choosing your God and creating your cards"
-seoTitle: "Ariokan: beginner guide, deckbuilding and card editor"
+seoTitle: "Ariokan: guide"
 slug: "ariokan-deck-guide"
 category: "guides"
 excerpt: "The Ariokan guide: understand Mana, Minions, Spells and Legends, choose your God and Faction, exploit the card editor and progress in the roguelite mode."

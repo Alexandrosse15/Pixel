@@ -1,6 +1,7 @@
 ---
 title: "Sudden Strike 5: twenty years later, we're still here"
 slug: "sudden-strike-5-test"
+seoTitle: "Sudden Strike 5: review"
 category: "tests"
 excerpt: "We played the first Sudden Strike games in high school. Twenty years have passed. The fifth entry is here, and something in the gut says we're going to spend a lot of time with it."
 date: "2026-04-23"

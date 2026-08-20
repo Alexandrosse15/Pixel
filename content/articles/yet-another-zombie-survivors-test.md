@@ -1,6 +1,6 @@
 ---
 title: "Yet Another Zombie Survivors : trois ans d'accès anticipé, une escouade au lieu d'un héros, et enfin la 1.0"
-seoTitle: "Yet Another Zombie Survivors : test et avis de la version 1.0"
+seoTitle: "Yet Another Zombie Survivors : test"
 slug: "yet-another-zombie-survivors-test"
 category: "tests"
 excerpt: "Un survivors où l'on dirige trois personnages au lieu d'un. Un demi-million d'exemplaires vendus avant même la sortie officielle."

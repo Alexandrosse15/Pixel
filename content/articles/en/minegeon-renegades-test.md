@@ -1,6 +1,6 @@
 ---
 title: "MineGeon Renegades: dig, shoot, betray your friends for loot, and love it"
-seoTitle: "MineGeon Renegades: review of the co-op roguelite"
+seoTitle: "MineGeon: Renegades, review"
 slug: "minegeon-renegades-test"
 category: "tests"
 excerpt: "A co-op mining roguelite where the real question is whether your friends will let you grab the loot. Bullet hell, biomes, and great tension."

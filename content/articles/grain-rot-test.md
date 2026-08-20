@@ -1,6 +1,6 @@
 ---
 title: "Grain Rot : mourir ne vous sort pas de la partie, et c'est toute l'idée qui rend ce coop si drôle"
-seoTitle: "Grain Rot : test et avis du jeu d'extraction coopératif horrifique"
+seoTitle: "GRAIN ROT : test et avis"
 slug: "grain-rot-test"
 category: "tests"
 excerpt: "On incarne une étincelle qui possède des corps en bois. Quand le vôtre casse, vous restez dans la partie et cherchez un nouvel hôte. Malin."

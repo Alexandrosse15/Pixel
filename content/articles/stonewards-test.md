@@ -1,6 +1,6 @@
 ---
 title: "Stonewards : creuser, forger, tenir le mur, et un pixel art qui fait le travail sans faire d'étincelles"
-seoTitle: "Stonewards : test et avis du roguelite coopératif de défense de nains"
+seoTitle: "Stonewards : test et avis"
 slug: "stonewards-test"
 category: "tests"
 excerpt: "Des nains, une mine à piller entre deux vagues et des remparts à tenir à quatre. Une boucle bien pensée dans un habillage sans surprise."

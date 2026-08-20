@@ -1,6 +1,6 @@
 ---
 title: "Sephiria : les créateurs de Dungreed remettent le couvert et ça promettait du lourd, ça l'est"
-seoTitle: "Sephiria : test et avis de l'action-roguelite"
+seoTitle: "Sephiria : test et avis"
 slug: "sephiria-test"
 category: "tests"
 excerpt: "Un action-roguelite pixel art signé des papas de Dungreed, six armes, dix boss et une coop à quatre. La promesse était énorme, elle est tenue."

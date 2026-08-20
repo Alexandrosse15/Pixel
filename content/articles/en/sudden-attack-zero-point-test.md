@@ -1,6 +1,6 @@
 ---
 title: "Sudden Attack Zero Point: the free reboot that aims true but shoots wide of the pack"
-seoTitle: "Sudden Attack Zero Point: review of the FPS"
+seoTitle: "Sudden Attack Zero Point: review"
 slug: "sudden-attack-zero-point-test"
 category: "tests"
 excerpt: "Nexon revives its 2005 tactical FPS as free-to-play. The fundamentals are solid, but the Early Access lacks content and personality."

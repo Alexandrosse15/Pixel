@@ -1,6 +1,6 @@
 ---
 title: "Figure Shop Simulator : si tous ces simulateurs de boutique se ressemblent, celui-ci explique pourquoi sans le vouloir"
-seoTitle: "Figure Shop Simulator : test et avis du simulateur de boutique de figurines"
+seoTitle: "Figure Shop Simulator : test et avis"
 slug: "figure-shop-simulator-test"
 category: "tests"
 excerpt: "Il ajoute une vraie couche de production à la formule du simulateur de boutique. Mais le studio reconnaît utiliser de l'IA pour une partie de ses assets."

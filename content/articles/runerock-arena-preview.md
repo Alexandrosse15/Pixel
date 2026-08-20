@@ -1,6 +1,6 @@
 ---
 title: "Runerock Arena : gérer une écurie de gladiateurs est un régal, le regarder l'est beaucoup moins"
-seoTitle: "Runerock Arena : preview du jeu de gestion de gladiateurs au tour par tour"
+seoTitle: "Runerock Arena : preview"
 slug: "runerock-arena-preview"
 category: "previews"
 excerpt: "36 classes, des salaires à payer et des gladiateurs qui vieillissent puis prennent leur retraite. Un vrai jeu de gestion sous un habillage rude."

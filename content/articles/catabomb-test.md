@@ -1,6 +1,6 @@
 ---
 title: "Catabomb : le roguelite de chats robotiques qui désamorcent des bombes, et le pitch était trop honnête pour être ignoré"
-seoTitle: "Catabomb test : roguelite mobile chats robotiques, notre avis"
+seoTitle: "Catabomb : test et avis"
 slug: "catabomb-test"
 category: "tests"
 excerpt: "Dark Quixote Studio a posé un pitch en trois mots : chats robotiques, bombes à désamorcer, roguelite. On n'a pas résisté. On a bien fait."

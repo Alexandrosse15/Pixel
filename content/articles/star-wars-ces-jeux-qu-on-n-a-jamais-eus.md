@@ -1,6 +1,7 @@
 ---
 title: "Star Wars : ces jeux qu'on n'a jamais eus (et ceux qui inquiètent déjà)"
 slug: "star-wars-ces-jeux-qu-on-n-a-jamais-eus"
+seoTitle: "Star Wars : les jeux jamais sortis"
 category: "dossiers"
 excerpt: "Il y a les jeux Star Wars auxquels on a joué. Et ceux qu'on ne jouera jamais. Parfois, ce sont justement ces jeux-là qui marquent le plus."
 date: "2026-04-17"

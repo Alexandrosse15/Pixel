@@ -1,6 +1,6 @@
 ---
 title: "Star Fox (2026): the comeback we waited ten years for, and it does more than just resurrect Star Fox 64"
-seoTitle: "Star Fox 2026 Switch 2 preview: Star Fox 64 remake, our impressions"
+seoTitle: "Star Fox: preview"
 slug: "star-fox-2026-preview"
 category: "previews"
 excerpt: "Nintendo rebuilds Star Fox 64 with a full visual overhaul, fully voiced cinematics, a playable prologue as James McCloud, a 4v4 online Battle Mode, and mouse precision controls. Ten years away. Switch 2 exclusive. June 25, 2026."

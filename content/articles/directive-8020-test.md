@@ -1,6 +1,6 @@
 ---
 title: "Directive 8020 : la première fois en cinq ans qu'un Dark Pictures méritait qu'on coupe les lumières"
-seoTitle: "Directive 8020 : test Dark Pictures Anthology"
+seoTitle: "Directive 8020 : test"
 slug: "directive-8020-test"
 category: "tests"
 excerpt: "Cinq ans de Dark Pictures pour ça : un alien qui imite ses proies, de la vraie paranoïa, et enfin un opus qui justifie l'existence de la série."

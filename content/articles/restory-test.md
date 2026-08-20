@@ -1,6 +1,6 @@
 ---
 title: "ReStory : j'ai été ce type à qui on apporte tout ce qui est cassé, et ce jeu vient de m'envoyer vingt ans en arrière"
-seoTitle: "ReStory Chill Electronics Repairs : test et avis du simulateur de réparation"
+seoTitle: "ReStory: Chill Electronics Repairs, test"
 slug: "restory-test"
 category: "tests"
 excerpt: "Tenir une boutique de réparation dans le Tokyo des années 2000. Un jeu qui parle à tous ceux qu'on a un jour pris pour des sorciers de l'électronique."

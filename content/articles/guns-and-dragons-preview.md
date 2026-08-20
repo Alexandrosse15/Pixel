@@ -1,6 +1,6 @@
 ---
 title: "Guns & Dragons : 100 000 inscrits au playtest, et un chiffre que le communiqué ne met pas en avant"
-seoTitle: "Guns & Dragons : preview du FPS roguelite coopératif"
+seoTitle: "Guns and Dragons : preview"
 slug: "guns-and-dragons-preview"
 category: "previews"
 excerpt: "Un FPS roguelite coop en fantasy magitech, 45 armes et des stats de playtest rares. Reste à lire les chiffres correctement."

@@ -1,6 +1,6 @@
 ---
 title: "Order Automatica est un auto-battler roguelite sur une grille 3x3, des échecs avec des démons d'une tension redoutable"
-seoTitle: "Order Automatica : test et avis de l'auto-battler roguelite"
+seoTitle: "Order Automatica : test et avis"
 slug: "order-automatica-test"
 category: "tests"
 excerpt: "Placer ses unités sur une minuscule grille rituelle 3x3, bâtir des synergies et achever le rituel avant que la dernière bougie ne s'éteigne. Order Automatica condense l'auto-battler à l'os."

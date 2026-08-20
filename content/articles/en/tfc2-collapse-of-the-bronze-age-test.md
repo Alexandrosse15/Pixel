@@ -1,6 +1,6 @@
 ---
 title: "TFC2: Collapse of The Bronze Age, the RTS that asks you to save your family while the world falls apart"
-seoTitle: "TFC2 Collapse of The Bronze Age: review of the MicroProse RTS"
+seoTitle: "TFC2 Collapse of the Bronze Age: review"
 slug: "tfc2-collapse-of-the-bronze-age-test"
 category: "tests"
 excerpt: "Food as the central resource, four asymmetric peoples and the collapse of 1200 BC. A survival RTS, not a conquest one."

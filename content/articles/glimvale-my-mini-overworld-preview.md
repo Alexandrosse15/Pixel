@@ -1,6 +1,6 @@
 ---
 title: "Glimvale: My Mini Overworld, deux développeurs, un village adorable, et exactement le genre de jeu qu'on aime défendre"
-seoTitle: "Glimvale: My Mini Overworld : preview du city-builder cosy"
+seoTitle: "Glimvale: My Mini Overworld, preview"
 slug: "glimvale-my-mini-overworld-preview"
 category: "previews"
 excerpt: "Un city-builder cosy où l'on chouchoute un mini-MMO peuplé d'aventuriers. Plus de 6000 wishlists, une DA en livre illustré, et deux devs qu'on a envie d'aider."

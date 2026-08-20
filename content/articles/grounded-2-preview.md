@@ -1,6 +1,6 @@
 ---
 title: "Grounded 2, preview : suite qui ne dit pas son nom ou vraie évolution ? On a fouillé le parc pour trancher"
-seoTitle: "Grounded 2 : preview et premières impressions"
+seoTitle: "Grounded 2 : preview"
 slug: "grounded-2-preview"
 category: "previews"
 excerpt: "On n'attendait pas Grounded 2 si vite tant le premier était réussi. Monture, refonte du combat, nouveau parc géant : vraie suite ou DLC déguisé ? Nos premières impressions."

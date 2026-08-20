@@ -1,6 +1,6 @@
 ---
 title: "MineGeon Renegades : creuser, tirer, trahir ses potes pour le loot, et adorer ça"
-seoTitle: "MineGeon Renegades : test et avis du roguelite coop"
+seoTitle: "MineGeon: Renegades, test et avis"
 slug: "minegeon-renegades-test"
 category: "tests"
 excerpt: "Un roguelite minier en coop où la vraie question est de savoir si vos amis vous laisseront ramasser le butin. Bullet hell, biomes, et belle tension."

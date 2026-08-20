@@ -1,6 +1,7 @@
 ---
 title: "TownsFolk: yet another hexagon game, and somehow we still can't get enough"
 slug: "townsfolk-test"
+seoTitle: "TownsFolk: review"
 category: "tests"
 excerpt: "Hexagons are having a moment. TownsFolk doesn't reinvent the formula, but it inhabits it with a warmth and generosity that make all the difference."
 date: "2026-04-20"

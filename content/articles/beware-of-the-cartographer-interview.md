@@ -1,6 +1,6 @@
 ---
 title: "Beware of the Cartographer : 50 000 wishlists sans un centime de pub, et une carte qui devient le vrai héros du jeu"
-seoTitle: "Beware of the Cartographer : interview Tohu Bohu Games"
+seoTitle: "Beware of the Cartographer : preview"
 slug: "beware-of-the-cartographer-interview"
 category: "previews"
 excerpt: "Rencontre avec Tohu Bohu Games : un cartographe du 18e siècle, des dilemmes moraux, une carte au coeur du gameplay, et 50 000 wishlists gagnées sans budget marketing."

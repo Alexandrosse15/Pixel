@@ -1,6 +1,6 @@
 ---
 title: "Ocarina of Time renaît sur Switch 2: notre Zelda préféré revient, mais Nintendo ne montre rien"
-seoTitle: "Ocarina of Time : preview du remake Switch 2"
+seoTitle: "The Legend of Zelda: Ocarina of Time"
 slug: "ocarina-of-time-remake-switch-2-preview"
 category: "previews"
 excerpt: "Notre Zelda préféré revient sur Switch 2 en 2026. Mais Nintendo n'a montré qu'un teaser, zéro gameplay. Entre nostalgie et prudence, on attend de voir."

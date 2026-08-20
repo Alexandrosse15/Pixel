@@ -1,6 +1,7 @@
 ---
 title: "Nebulae: govern a galaxy together, or watch it die"
 slug: "nebulae-preview"
+seoTitle: "Nebulae: preview"
 category: "previews"
 excerpt: "A spreading nebula, a majority of players to convince, and a modular political system that can generate regimes nobody planned. Nebulae wants to simulate a society, not just a galaxy."
 date: "2026-04-25"

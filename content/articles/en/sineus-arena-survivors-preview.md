@@ -1,6 +1,7 @@
 ---
 title: "Sineus Arena Survivors: when a dev puts everything on the line and it looks like something"
 slug: "sineus-arena-survivors-preview"
+seoTitle: "Sineus Arena Survivors: preview"
 category: "previews"
 excerpt: "A bullet heaven co-op for up to four players, hordes, artifacts, a stronghold to defend. And behind it all, a solo developer who bet everything on this game. We wanted to see why."
 date: "2026-05-04"

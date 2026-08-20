@@ -1,6 +1,6 @@
 ---
 title: "Maul: Shadow Lord, la série Star Wars la plus belle depuis Andor (et de loin la plus méchante)"
-seoTitle: "Maul Shadow Lord : test de la série Star Wars"
+seoTitle: "Maul: Shadow Lord, critique"
 slug: "maul-shadow-lord-test"
 category: "cinema"
 excerpt: "Une DA peinte à la main, un Inquisiteur sous stéroïdes, un Vader qui sort du mur comme un croque-mitaine. On a regardé la saison 1 de Maul: Shadow Lord et on ne s'en remet pas."

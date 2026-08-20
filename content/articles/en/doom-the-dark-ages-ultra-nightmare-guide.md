@@ -1,6 +1,6 @@
 ---
 title: "DOOM The Dark Ages Ultra-Nightmare guide: surviving the most merciless mode, one life only"
-seoTitle: "DOOM The Dark Ages: Ultra-Nightmare guide (hardest mode)"
+seoTitle: "DOOM: The Dark Ages, guide"
 slug: "doom-the-dark-ages-ultra-nightmare-guide"
 category: "guides"
 excerpt: "The complete guide to beating DOOM The Dark Ages on Ultra-Nightmare: parry, shield, resource management, enemy priority and the deadly traps to avoid."

@@ -1,6 +1,6 @@
 ---
 title: "Cleaning Up The Puzzle Gallery: 2071 pieces scattered across a museum, aka my worst nightmare in game form"
-seoTitle: "Cleaning Up The Puzzle Gallery: preview of the cozy jigsaw game"
+seoTitle: "Cleaning Up The Puzzle Gallery: preview"
 slug: "puzzle-gallery-preview"
 excerpt: "We already struggle with a 200-piece puzzle at home, so rebuilding 87 paintings and 2071 pieces across a gallery is our hell on earth. And we want to try it."
 category: "previews"

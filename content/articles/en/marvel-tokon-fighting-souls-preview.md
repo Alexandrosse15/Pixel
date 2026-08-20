@@ -1,6 +1,6 @@
 ---
 title: "MARVEL Tokon Fighting Souls: we went from 2v2 to 4v4, and Arc System Works could well deliver the ultimate Marvel versus"
-seoTitle: "MARVEL Tokon Fighting Souls: preview of the 4v4 fighter"
+seoTitle: "MARVEL Tokon: Fighting Souls, preview"
 slug: "marvel-tokon-fighting-souls-preview"
 category: "previews"
 excerpt: "Arc System Works takes the Marvel versus to 4v4, with a single shared life bar and 20 heroes. The spiritual successor to Marvel vs Capcom is taking shape."

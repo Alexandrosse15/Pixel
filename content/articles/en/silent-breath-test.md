@@ -1,6 +1,6 @@
 ---
 title: "SILENT BREATH: the forest listens through your microphone, and screaming brings you closer to losing"
-seoTitle: "SILENT BREATH: review of the microphone-detection horror game"
+seoTitle: "SILENT BREATH: review"
 slug: "silent-breath-test"
 category: "tests"
 excerpt: "Find missing people in a night forest without making a sound. A simple idea, an engine that exploits it, and a mood recalling the genre's early days."

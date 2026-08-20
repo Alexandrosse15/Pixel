@@ -1,6 +1,6 @@
 ---
 title: "Silent Shark : si le sous-marin n'a pas évolué en vingt ans, ce n'est pas la faute de ce jeu-là"
-seoTitle: "Silent Shark : preview du simulateur de sous-marin de la Seconde Guerre mondiale"
+seoTitle: "Silent Shark : preview"
 slug: "silent-shark-preview"
 category: "previews"
 excerpt: "Hydrophone, stadimètre, calculateur de torpilles et couches thermiques. Un simulateur profond signé par un développeur solo, et une déception à recadrer."

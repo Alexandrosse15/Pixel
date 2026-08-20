@@ -1,6 +1,6 @@
 ---
 title: "Dwarf Delve turns greed into a survival mechanic, and it's devilishly addictive"
-seoTitle: "Dwarf Delve: review of the mining extraction roguelite"
+seoTitle: "Dwarf Delve: review"
 slug: "dwarf-delve-test"
 category: "tests"
 excerpt: "A first-person extraction roguelite where you dig ever deeper for more loot, at the risk of never getting back up. Dwarf Delve makes greed its very core."

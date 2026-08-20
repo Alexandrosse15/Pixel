@@ -1,6 +1,6 @@
 ---
 title: "Company of Heroes 3 Final Stand : pourquoi ce standalone n'aurait pas dû nous plaire autant"
-seoTitle: "Company of Heroes 3 Final Stand : test et avis"
+seoTitle: "Company of Heroes 3 Final Stand : test"
 slug: "company-of-heroes-3-final-stand-test"
 category: "tests"
 excerpt: "Un mode de survie vendu 30 dollars en standalone, ça sentait l'opportunisme. Sauf que la boucle roguelite en coop est bien plus accrocheuse que prévu."

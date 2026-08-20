@@ -1,6 +1,6 @@
 ---
 title: "Enter the Chronosphere : la mise a jour Fractured Worlds fait entrer d'autres mondes dans la boucle"
-seoTitle: "Enter the Chronosphere : la mise a jour Fractured Worlds detaillee"
+seoTitle: "Enter the Chronosphere : preview"
 slug: "enter-the-chronosphere-fractured-worlds"
 excerpt: "Quatre biomes inedits, vingt armes, neuf ennemis, des degats enfin chiffres : le roguelike tactique a 94% d'avis positifs s'offre une belle rallonge."
 category: "previews"

@@ -1,6 +1,6 @@
 ---
 title: "TV Archive : je pensais m'ennuyer comme dans la cave à vin, et je me suis retrouvé à Pontoise en 1998"
-seoTitle: "TV Archive Tidy Up Together : test et avis du jeu de rangement de VHS"
+seoTitle: "TV Archive: Tidy Up Together, test"
 slug: "tv-archive-tidy-up-together-test"
 category: "tests"
 excerpt: "3 180 cassettes à classer, en solo, en coop ou en duel. Un jeu de rangement qui a le bon goût de vous automatiser le travail."

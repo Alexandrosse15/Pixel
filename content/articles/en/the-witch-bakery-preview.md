@@ -1,6 +1,6 @@
 ---
 title: "The Witch's Bakery: Paris, magic and a bakery to find your place"
-seoTitle: "The Witch's Bakery preview: cosy RPG witch Paris, our impressions"
+seoTitle: "The Witch's Bakery: preview"
 slug: "the-witch-bakery-preview"
 category: "previews"
 excerpt: "Sunny Lab makes a cosy RPG about a witch running a bakery in 1990s Paris. It's more ambitious than it looks, and much more personal."

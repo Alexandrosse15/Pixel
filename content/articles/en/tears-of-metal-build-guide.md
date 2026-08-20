@@ -1,6 +1,6 @@
 ---
 title: "Tears of Metal build guide: best heroes, weapons, upgrades and co-op tips"
-seoTitle: "Tears of Metal: best heroes and builds guide"
+seoTitle: "Tears of Metal: guide"
 slug: "tears-of-metal-build-guide"
 category: "guides"
 excerpt: "The Tears of Metal build guide: which hero to start with, the Vanguard Cleaver build, the best Smithy upgrade branches and how to coordinate your team in co-op."

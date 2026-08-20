@@ -1,6 +1,6 @@
 ---
 title: "How Many Dudes?: the roguelike that does maths with little guys, and it is brilliant"
-seoTitle: "How Many Dudes?: review of the roguelike autobattler"
+seoTitle: "How Many Dudes?: review"
 slug: "how-many-dudes-test"
 category: "tests"
 excerpt: "42 dudes, 850,000 possible team comps and synergies that break the game. Butterscotch Shenanigans delivers an autobattler as dumb as it is brilliant."

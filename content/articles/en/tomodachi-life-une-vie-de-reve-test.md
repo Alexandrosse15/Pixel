@@ -1,6 +1,7 @@
 ---
 title: "Tomodachi Life, A Dream Life: the unexpected return of a one-of-a-kind phenomenon"
 slug: "tomodachi-life-une-vie-de-reve-test"
+seoTitle: "Tomodachi Life: review"
 category: "tests"
 excerpt: "After years of absence, Nintendo relaunches a cult licence, strange, sometimes misunderstood, but deeply unique in the gaming landscape. A long-awaited return, but also a dreaded one. Because reviving a memory is never a trivial thing."
 date: "2026-04-17"

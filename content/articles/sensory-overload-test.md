@@ -1,6 +1,6 @@
 ---
 title: "Sensory Overload : un jeu conçu pour vous rendre malade, et qui fait plus d'efforts d'accessibilité que la plupart des autres"
-seoTitle: "Sensory Overload : test et avis du dropper game vertigineux"
+seoTitle: "Sensory Overload : test et avis"
 slug: "sensory-overload-test"
 category: "tests"
 excerpt: "Des murs qui respirent, des couleurs qui tournent, des niveaux appelés Vertige et Nausée. Un jeu d'un seul développeur, viral avant même d'exister."

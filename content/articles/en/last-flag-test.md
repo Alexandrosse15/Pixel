@@ -1,6 +1,7 @@
 ---
 title: "Last Flag: a tense, strategic FPS… and clearly not for everyone"
 slug: "last-flag-test"
+seoTitle: "Last Flag: review"
 category: "tests"
 excerpt: "One mode, one idea, one execution. Last Flag bets everything on pure capture the flag, no compromises. And against all expectations, that's enough."
 date: "2026-04-17"

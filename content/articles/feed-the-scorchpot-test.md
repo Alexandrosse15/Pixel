@@ -1,6 +1,6 @@
 ---
 title: "Feed the Scorchpot : vingt ans de contrat avec un dragon, et une machine à combos qu'on démonte en cours de route"
-seoTitle: "Feed the Scorchpot : test et avis du roguelite de dés"
+seoTitle: "Feed the Scorchpot : test et avis"
 slug: "feed-the-scorchpot-test"
 category: "tests"
 excerpt: "On lance les dés, on récolte, on cuisine, on nourrit la bête. Cinquante bâtiments, quatre-vingts recettes et vingt types de dés à assembler."

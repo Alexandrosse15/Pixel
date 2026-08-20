@@ -1,6 +1,6 @@
 ---
 title: "SpeedRunners 2 King of Speed : la suite qui ruine des amitiés à huit, et c'est un compliment"
-seoTitle: "SpeedRunners 2 King of Speed : test et avis"
+seoTitle: "SpeedRunners 2: King of Speed, test"
 slug: "speedrunners-2-king-of-speed-test"
 category: "tests"
 excerpt: "La suite d'un chouchou du multijoueur retrouve la nervosité folle de l'original et l'amplifie. Course à huit, grappin, missiles : un party-game d'exception."

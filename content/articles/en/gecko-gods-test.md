@@ -1,6 +1,7 @@
 ---
 title: "Gecko Gods: the sacred lizard climbing where others don't dare"
 slug: "gecko-gods-test"
+seoTitle: "Gecko Gods: review"
 category: "tests"
 excerpt: "Gecko Gods sticks you to walls, ceilings, and the ruins of a forgotten civilisation. And somewhere between the third temple and the tenth fall into the void, you realise you haven't put the controller down in two hours."
 date: "2026-04-17"

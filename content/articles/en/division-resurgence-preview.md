@@ -1,6 +1,6 @@
 ---
 title: "The Division Resurgence: I did not see it coming, and yet I already know it will cost me hours"
-seoTitle: "The Division Resurgence: preview of the free-to-play spin-off"
+seoTitle: "The Division Resurgence: preview"
 slug: "division-resurgence-preview"
 excerpt: "A free-to-play Division spin-off landing on Steam. I sank hundreds of hours into the first two, so let us just say I am watching this one closely."
 category: "previews"

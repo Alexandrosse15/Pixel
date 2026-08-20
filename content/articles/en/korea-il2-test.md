@@ -1,6 +1,6 @@
 ---
 title: "Korea. IL-2 Series: I dusted off my old War Thunder reflexes to climb back into a Soviet cockpit"
-seoTitle: "Korea. IL-2 Series: review of the air combat sim"
+seoTitle: "Korea. IL-2 Series: review"
 slug: "korea-il2-test"
 excerpt: "3000 hours of War Thunder in sim mode later, I reopen a red-star cockpit. Airliner sims bore me, air combat wakes me up, and this one is a treat."
 category: "tests"

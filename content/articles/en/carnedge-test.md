@@ -1,6 +1,7 @@
 ---
 title: "CARNEDGE: ten years of work, three people, a game that deserves your attention"
 slug: "carnedge-test"
+seoTitle: "CARNEDGE: deckbuilder review"
 category: "tests"
 excerpt: "A dark fantasy deckbuilder roguelite made by three people over ten years. CARNEDGE is rough, ambitious, and frankly more interesting than half this week's releases."
 date: "2026-04-19"

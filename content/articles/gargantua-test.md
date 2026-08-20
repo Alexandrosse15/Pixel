@@ -1,6 +1,6 @@
 ---
 title: "Gargantua : une économie spatiale où vendre des armes à un camp fait monter les prix chez l'autre"
-seoTitle: "Gargantua : test et avis du jeu de commerce et de stratégie spatiale"
+seoTitle: "Gargantua : test et avis"
 slug: "gargantua-test"
 category: "tests"
 excerpt: "Des dizaines de planètes générées, une offre et une demande qui bougent vraiment, et des conséquences politiques à chaque transaction."

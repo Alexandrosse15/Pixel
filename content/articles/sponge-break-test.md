@@ -1,6 +1,6 @@
 ---
 title: "Sponge Break : quatre éponges, un radeau bricolé et une rivière qui veut votre peau"
-seoTitle: "Sponge Break : test et avis du coop de radeau"
+seoTitle: "Sponge Break : test et avis"
 slug: "sponge-break-test"
 category: "tests"
 excerpt: "Des éponges en cavale sur un radeau qui chavire au moindre faux pas. Un party-game coop physique et hilarant, à savourer entre amis pour huit euros."

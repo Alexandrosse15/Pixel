@@ -1,6 +1,6 @@
 ---
 title: "Amazon cancels Stargate, and got our hopes up for nothing once again"
-seoTitle: "Stargate cancelled by Amazon: a franchise sacrificed"
+seoTitle: "Stargate cancelled by Amazon"
 slug: "stargate-amazon-annule"
 category: "industrie"
 excerpt: "Amazon MGM cancels Martin Gero's Stargate series after rejecting three other projects. The franchise is alive on paper, dead in practice. We believed in the comeback again, and we were wrong again."

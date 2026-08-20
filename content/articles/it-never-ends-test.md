@@ -1,6 +1,6 @@
 ---
 title: "I.T. Never Ends : j'ai vraiment fait ce métier, et le ticket 666 ne m'a rien fait, contrairement à l'utilisateur"
-seoTitle: "I.T. Never Ends : test et avis du simulateur de support informatique"
+seoTitle: "I.T. Never Ends : test et avis"
 slug: "it-never-ends-test"
 category: "tests"
 excerpt: "Traiter des tickets pour une entreprise dirigée par des horreurs cosmiques. Une comédie de bureau qui vise juste, dans un format volontairement étroit."

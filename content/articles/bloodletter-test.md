@@ -1,6 +1,6 @@
 ---
 title: "BLOODLETTER : saigneur, seigneur, et un deckbuilder de barbier-chirurgien qui sort de son accès anticipé aujourd'hui"
-seoTitle: "BLOODLETTER : test et avis du deckbuilder médiéval d'ALDAMAMI GAMES"
+seoTitle: "BLOODLETTER : test et avis"
 slug: "bloodletter-test"
 category: "tests"
 excerpt: "Quatre entités à purifier, une file d'attente de villageois, des cartes qui fusionnent. Une direction artistique superbe au service d'un deckbuilder rigoureux."

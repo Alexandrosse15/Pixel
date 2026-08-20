@@ -1,6 +1,6 @@
 ---
 title: "Forza Horizon 6: Japan is the best map in the series, and that's about all that changes"
-seoTitle: "Forza Horizon 6 review: Japan, progression, AI, our verdict"
+seoTitle: "Forza Horizon 6: review"
 slug: "forza-horizon-6-test"
 category: "tests"
 excerpt: "Forza Horizon 6 arrives in Japan with the best map in the series, slightly improved progression, and an AI that's still as maddening as ever. It's FH5, better, in a place that finally deserves it."

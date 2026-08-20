@@ -1,6 +1,6 @@
 ---
 title: "FD 27: the question is not whether it beats Football Manager, it is that it plays a different position"
-seoTitle: "FD 27 Direct Your Football Club: review of the management game"
+seoTitle: "FD 27: Direct Your Football Club, review"
 slug: "fd-27-test"
 category: "tests"
 excerpt: "You are not on the bench, you are in the office. A real design idea that settles the trade-off between simplicity and depth."

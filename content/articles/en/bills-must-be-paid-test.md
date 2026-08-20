@@ -1,6 +1,6 @@
 ---
 title: "Bills Must Be Paid: smashing piggy banks to pay your bills, a satire that runs a little short"
-seoTitle: "Bills Must Be Paid: review of the incremental"
+seoTitle: "Bills Must Be Paid: review"
 slug: "bills-must-be-paid-test"
 category: "tests"
 excerpt: "A satirical clicker where you smash piggy banks to survive your debts. The idea lands, the loop hooks, but the whole thing runs out of steam fast."

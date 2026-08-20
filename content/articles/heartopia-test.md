@@ -1,6 +1,7 @@
 ---
 title: "Heartopia : le jeu cozy qui veut ton bonheur... et ta carte bancaire"
 slug: "heartopia-test"
+seoTitle: "Heartopia : test et avis"
 category: "tests"
 excerpt: "Heartopia promet un paradis sans stress. Ce qu'il ne précise pas dans le trailer : la paix intérieure a un prix, et ce prix s'achète en monnaie premium."
 date: "2026-04-17"

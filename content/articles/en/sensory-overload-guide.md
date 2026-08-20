@@ -1,6 +1,6 @@
 ---
 title: "Sensory Overload guide: the settings that make the game legible, and how to last longer in the tunnel"
-seoTitle: "Sensory Overload: guide to modes, accessibility settings and progression"
+seoTitle: "Sensory Overload: guide"
 slug: "sensory-overload-guide"
 category: "guides"
 excerpt: "Three modes, adjustable obstacle outlines, checkpoints and an editor. Everything to set before you drop, and how to improve without losing your stomach."

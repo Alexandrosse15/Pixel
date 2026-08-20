@@ -1,6 +1,6 @@
 ---
 title: "BOMBANANA!: a blind, a deaf and a mute monkey defuse a banana bomb, and your friendship will not survive"
-seoTitle: "BOMBANANA!: preview of the bomb defusal party game"
+seoTitle: "BOMBANANA!: preview"
 slug: "bombanana-preview"
 category: "previews"
 excerpt: "Three disabled monkeys, a banana bomb and a timer: BOMBANANA! turns communication into hilarious torture. 670,000 demo players loved suffering."

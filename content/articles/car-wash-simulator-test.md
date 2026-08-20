@@ -1,6 +1,6 @@
 ---
 title: "Car Wash Simulator : on redoutait les étudiantes en bikini, on tombe sur des plantations clandestines"
-seoTitle: "Car Wash Simulator : test et avis du simulateur de lavage auto"
+seoTitle: "Car Wash Simulator : test et avis"
 slug: "car-wash-simulator-test"
 category: "tests"
 excerpt: "Face à PowerWash Simulator, il ajoute un empire immobilier, des défis chronométrés et un marché noir. Mais sa démo n'a convaincu qu'un joueur sur deux."

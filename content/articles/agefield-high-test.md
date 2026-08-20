@@ -1,6 +1,6 @@
 ---
 title: "Agefield High : un lycée des années 2000 plus sympa que le vrai, et une fiche Steam d'une honnêteté rare"
-seoTitle: "Agefield High Rock the School : test et avis de la comédie lycéenne"
+seoTitle: "Agefield High: Rock the School, test"
 slug: "agefield-high-test"
 category: "tests"
 excerpt: "Une comédie potache début 2000 dans une petite ville faite main. Le studio dit franchement à qui le jeu ne s'adresse pas."

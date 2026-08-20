@@ -1,6 +1,7 @@
 ---
 title: "Hex Harmony: the little indie we're rooting for"
 slug: "hex-harmony-preview"
+seoTitle: "Hex Harmony: indie preview"
 category: "previews"
 excerpt: "A hex-grid puzzle management game, no stress, fragile ecosystems and an art style that makes you feel good. Pixel Builder Studio is building something right. We've got our eye on it."
 date: "2026-04-18"

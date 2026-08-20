@@ -1,6 +1,6 @@
 ---
 title: "Korea. IL-2 Series : j'ai ressorti mes vieux réflexes de War Thunder pour remonter dans un cockpit soviétique"
-seoTitle: "Korea. IL-2 Series : test et avis du simu de combat aérien"
+seoTitle: "Korea. IL-2 Series : test et avis"
 slug: "korea-il2-test"
 excerpt: "3000 heures de War Thunder en mode simu plus tard, je rouvre un cockpit à l'étoile rouge. Les simu de ligne m'ennuient, le combat aérien me réveille, et celui-là me régale."
 category: "tests"

@@ -1,6 +1,6 @@
 ---
 title: "Cellar Keeper: I like good wine, but sorting 2,448 bottles I will never drink needs explaining"
-seoTitle: "Cellar Keeper: review of the wine cellar organizing simulator"
+seoTitle: "Cellar Keeper: review"
 slug: "cellar-keeper-test"
 category: "tests"
 excerpt: "A wine cellar tidying simulator for under five euros. The idea has charm, but it rests on a single note."

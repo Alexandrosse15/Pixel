@@ -1,6 +1,6 @@
 ---
 title: "Strikers Club, le foot 100% skill et 100% gratuit qui veut nous sauver de FIFA et bousculer Rematch"
-seoTitle: "Strikers Club : preview du foot physique gratuit"
+seoTitle: "Strikers Club : preview"
 slug: "strikers-club-preview"
 category: "previews"
 excerpt: "Chaque dribble, chaque tir, chaque tacle contrôlé à la main, du 1v1 au 11v11, et gratuit. Après une démo à 60 000 joueurs, Strikers Club débarque le 17 juillet avec de vraies idées."

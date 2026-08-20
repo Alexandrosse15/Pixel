@@ -1,6 +1,7 @@
 ---
 title: "Alabaster Dawn: Radical Fish Games is back, and it's even better than we hoped"
 slug: "alabaster-dawn-preview"
+seoTitle: "Alabaster Dawn: review"
 category: "tests"
 excerpt: "The creators of CrossCode return with Juno, a chosen outcast who must break Nyx's curse in a world abandoned by gods. The demo took two and a half hours. We wanted more."
 date: "2026-05-06"

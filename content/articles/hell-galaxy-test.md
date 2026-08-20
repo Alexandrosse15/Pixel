@@ -1,6 +1,6 @@
 ---
 title: "Hell Galaxy : pendant que Star Citizen encaissait son milliardième dollar, des studios livraient des jeux de vaisseaux"
-seoTitle: "Hell Galaxy : test et avis du shooter spatial et de son pilote bio-vaisseau"
+seoTitle: "HELL GALAXY : test et avis"
 slug: "hell-galaxy-test"
 category: "tests"
 excerpt: "Un ex-détenu fusionné à un vaisseau, une jauge de santé mentale à surveiller autant que la coque. Sorti depuis un an, et injustement discret."

@@ -1,6 +1,6 @@
 ---
 title: "Expeditions Samurai: you think you are getting Commandos, you are actually getting Baldur's Gate 3 in a kimono, and that is no disappointment"
-seoTitle: "Expeditions Samurai: review of the tactical RPG in feudal Japan"
+seoTitle: "Expeditions: Samurai, review"
 slug: "expeditions-samurai-test"
 category: "tests"
 excerpt: "Top-down view, stealth, Japan in 1600. The lineage is not the one you think, and Early Access brings its own caveats."

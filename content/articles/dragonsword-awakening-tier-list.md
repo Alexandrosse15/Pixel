@@ -1,6 +1,6 @@
 ---
 title: "DragonSword Awakening : tier list des personnages et meilleures équipes"
-seoTitle: "DragonSword Awakening : tier list et meilleures équipes"
+seoTitle: "DragonSword Awakening : guide"
 slug: "dragonsword-awakening-tier-list"
 category: "guides"
 excerpt: "La tier list des personnages de DragonSword Awakening : les meilleurs héros classés par rang, leurs rôles dans les combos tag-team et les meilleures compositions d'équipe."

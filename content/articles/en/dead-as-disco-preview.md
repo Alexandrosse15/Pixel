@@ -1,6 +1,7 @@
 ---
 title: "Dead as Disco: when fists hit in rhythm and it feels great"
 slug: "dead-as-disco-preview"
+seoTitle: "Dead as Disco: preview"
 category: "previews"
 excerpt: "A neon Beat 'Em Up where every combo syncs to the music, a hero in a yellow vest who vaguely reminds you of someone, and a demo that has us wanting more. Our hands are still trembling."
 date: "2026-05-01"

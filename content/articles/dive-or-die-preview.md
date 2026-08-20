@@ -1,6 +1,6 @@
 ---
 title: "Dive or Die plonge l'horreur lovecraftienne là où Dave the Diver n'osait pas aller"
-seoTitle: "Dive or Die : preview du survival lovecraftien"
+seoTitle: "Dive or Die : preview"
 slug: "dive-or-die-preview"
 category: "previews"
 excerpt: "Un plongeur, des abysses, des choses qui n'auraient pas dû exister. Une horreur lovecraftienne à trois où l'eau n'est jamais de votre côté."

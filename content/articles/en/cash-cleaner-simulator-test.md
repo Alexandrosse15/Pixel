@@ -1,6 +1,7 @@
 ---
 title: "Cash Cleaner Simulator: we wanted to be Marty Byrde, we became a laundromat"
 slug: "cash-cleaner-simulator-test"
+seoTitle: "Cash Cleaner Simulator: review"
 category: "tests"
 excerpt: "We'd been watching Ozark a little too closely. We hoped to launder millions like a ruthless banker. Cash Cleaner Simulator taught us that laundering money is mostly just a lot of laundry."
 date: "2026-05-06"

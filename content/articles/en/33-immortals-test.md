@@ -1,6 +1,6 @@
 ---
 title: "33 Immortals: 33 strangers, a boss named God, and one of the wildest co-op ideas of the year"
-seoTitle: "33 Immortals review: the 33-player co-op roguelike"
+seoTitle: "33 Immortals: review"
 slug: "33-immortals-test"
 category: "tests"
 excerpt: "33 damned souls band together against God in a one-of-a-kind co-op roguelike. Gorgeous, thrilling, held back by the absence of real communication."

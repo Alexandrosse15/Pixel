@@ -1,6 +1,6 @@
 ---
 title: "Battlestar Galactica : Scattered Hopes est le fils de Crying Suns qu'on n'attendait pas, et c'est une bonne surprise"
-seoTitle: "Battlestar Galactica Scattered Hopes : preview roguelite"
+seoTitle: "Battlestar Galactica: Scattered Hopes"
 slug: "bsg-scattered-hopes-preview"
 category: "previews"
 excerpt: "Roguelite de flotte spatiale avec gestion de crise, combats de Vipers en temps réel et méta-progression. Scattered Hopes est Crying Suns avec une peinture BSG et des améliorations notables, pour le meilleur et le moins bon."

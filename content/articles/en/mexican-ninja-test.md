@@ -1,6 +1,6 @@
 ---
 title: "Mexican Ninja: Nuevo-Tokyo, the Narkuzas and a beat em up running on owned excess"
-seoTitle: "Mexican Ninja: review of the roguelike beat em up"
+seoTitle: "Mexican Ninja: review"
 slug: "mexican-ninja-test"
 category: "tests"
 excerpt: "Japan and Mexico collided, a feudal regime of narcos and yakuzas, and ridiculous Mexican Jutsus. Exactly what it advertises."

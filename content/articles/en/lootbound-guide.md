@@ -1,6 +1,6 @@
 ---
 title: "Lootbound guide: your inventory grid is the talent tree, here is how to read it"
-seoTitle: "Lootbound: guide to auras, the four heroes and the dice rooms"
+seoTitle: "Lootbound: guide"
 slug: "lootbound-guide"
 category: "guides"
 excerpt: "Adjacency auras, four heroes, four damage types, twenty-sided dice and a Guardian you assemble yourself. Everything to understand before your first run."

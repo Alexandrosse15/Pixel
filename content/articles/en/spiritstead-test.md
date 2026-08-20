@@ -1,6 +1,6 @@
 ---
 title: "Spiritstead: we farmed FarmVille through our student years, and this one removes precisely what used to drag us back"
-seoTitle: "Spiritstead: review of the cozy city builder with spirits"
+seoTitle: "Spiritstead: review"
 slug: "spiritstead-test"
 category: "tests"
 excerpt: "Gorgeous Miyazaki-inspired art, spirits that automate the village, and an owned 6 to 8 hours. The exact opposite of timer-driven farming."

@@ -1,6 +1,6 @@
 ---
 title: "Emergency Room Simulator : on a tous entendu le générique d'Urgences en voyant la miniature"
-seoTitle: "Emergency Room Simulator : test et avis du simulateur de médecine d'urgence"
+seoTitle: "Emergency Room Simulator : test et avis"
 slug: "emergency-room-simulator-test"
 category: "tests"
 excerpt: "Examiner, doser les examens, poser un diagnostic et traiter. Un simulateur médical qui mise sur l'enquête plutôt que sur le geste."

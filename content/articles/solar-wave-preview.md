@@ -1,6 +1,6 @@
 ---
 title: "Solar Wave : retirer le micro-management d'une stratégie spatiale, est-ce enlever la corvée ou enlever le jeu ?"
-seoTitle: "Solar Wave : preview de la stratégie spatiale à contrôle indirect"
+seoTitle: "Solar Wave : preview"
 slug: "solar-wave-preview"
 category: "previews"
 excerpt: "Des flottes autonomes, une économie vivante, des milliers de vaisseaux. Un pari de design qui ne joue pas sur le terrain de Stellaris."

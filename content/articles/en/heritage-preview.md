@@ -1,6 +1,6 @@
 ---
 title: "Heritage: an auto battler that cares about its writing and neglects everything on screen"
-seoTitle: "Heritage: preview of the wuxia auto battler roguelike"
+seoTitle: "Heritage: preview"
 slug: "heritage-preview"
 category: "previews"
 excerpt: "160 scrolls, 140 skills, 10 sects: the material is there. The animation and visual dressing, much less so."

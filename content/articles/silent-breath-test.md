@@ -1,6 +1,6 @@
 ---
 title: "SILENT BREATH : la forêt vous écoute au micro, et crier vous rapproche de la défaite"
-seoTitle: "SILENT BREATH : test et avis du jeu d'horreur à détection micro"
+seoTitle: "SILENT BREATH : test et avis"
 slug: "silent-breath-test"
 category: "tests"
 excerpt: "Retrouver des disparus dans une forêt nocturne sans faire de bruit. Une idée simple, un moteur qui l'exploite, et une ambiance qui rappelle les débuts du genre."

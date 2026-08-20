@@ -1,6 +1,6 @@
 ---
 title: "The Last Nordic Tribe : survivre au Petit Ragnarök, et ça sent le Gothic de 2001 de bonne façon"
-seoTitle: "The Last Nordic Tribe preview : survival RPG nordique indie, notre avis"
+seoTitle: "The Last Nordic Tribe : preview"
 slug: "last-nordic-tribe-preview"
 category: "previews"
 excerpt: "Never Say Never a construit un survival RPG en première personne dans la Scandinavie de l'après-hiver volcanique de 536 AD. Village désolé, araignées mythologiques, crafting en pierre et froid qui tue. Six euros. Et une ambiance qui rappelle ce que Gothic faisait en 2001."

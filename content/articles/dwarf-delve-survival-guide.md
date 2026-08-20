@@ -1,6 +1,6 @@
 ---
 title: "Guide de survie Dwarf Delve : quand s'extraire, gérer sa cupidité, s'équiper et prioriser ses améliorations"
-seoTitle: "Dwarf Delve : guide de survie, astuces et améliorations"
+seoTitle: "Dwarf Delve : guide"
 slug: "dwarf-delve-survival-guide"
 category: "guides"
 excerpt: "Le guide de survie de Dwarf Delve : maîtriser le dilemme d'extraction, gérer son temps et sa cupidité, bien utiliser son équipement et prioriser ses améliorations permanentes."

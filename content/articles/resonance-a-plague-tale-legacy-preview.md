@@ -1,6 +1,6 @@
 ---
 title: "Resonance A Plague Tale Legacy, preview : la saga troque la discrétion contre le combat, et ça pourrait tout changer"
-seoTitle: "Resonance A Plague Tale Legacy : preview et premières impressions"
+seoTitle: "Resonance A Plague Tale Legacy : preview"
 slug: "resonance-a-plague-tale-legacy-preview"
 category: "previews"
 excerpt: "Le troisième A Plague Tale abandonne l'infiltration pour un combat nerveux, sur une île mythique du Minotaure. Preview de Resonance, prequel signé Asobo, attendu le 27 août 2026."

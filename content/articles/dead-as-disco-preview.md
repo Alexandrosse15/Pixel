@@ -1,6 +1,7 @@
 ---
 title: "Dead as Disco : quand les poings cognent en rythme et que c'est trop bon"
 slug: "dead-as-disco-preview"
+seoTitle: "Dead as Disco : preview"
 category: "previews"
 excerpt: "Un Beat 'Em Up fluo où les combos se synchronisent avec la musique. La démo nous a laissés les mains qui tremblent. On veut la suite."
 date: "2026-05-01"

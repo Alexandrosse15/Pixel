@@ -1,6 +1,6 @@
 ---
 title: "The Legend of Mala Tokmachka: a fortress of odds and ends, and a studio that refuses to pick a side"
-seoTitle: "The Legend of Mala Tokmachka: review of the siege tower defence"
+seoTitle: "The Legend of Mala Tokmachka: review"
 slug: "the-legend-of-mala-tokmachka-test"
 category: "tests"
 excerpt: "Build a fortress block by block and hold an endless siege. The game draws on a dramatic news story, but refuses to comment on it."

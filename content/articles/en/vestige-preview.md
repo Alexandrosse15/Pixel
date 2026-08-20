@@ -1,6 +1,7 @@
 ---
 title: "Vestige: an island that is actually a character's subconscious"
 slug: "vestige-preview"
+seoTitle: "Vestige: preview"
 category: "previews"
 excerpt: "An island split into seven zones of grief, an impulse mechanic, and a small team building something intimate on their own dime. Vestige deserves your attention."
 date: "2026-05-02"

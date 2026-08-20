@@ -1,6 +1,6 @@
 ---
 title: "Lugal : un survival qui vous demande d'inventer l'État, et un ziggourat pour prouver que vous le méritez"
-seoTitle: "Lugal Bronze Age Survival Game : preview du survival mésopotamien"
+seoTitle: "Lugal: Bronze Age Survival Game, preview"
 slug: "lugal-bronze-age-survival-preview"
 category: "previews"
 excerpt: "Tribu, village, cité, État. Un survival qui traverse dix mille ans pour poser une question rare : d'où vient la légitimité d'un roi ?"

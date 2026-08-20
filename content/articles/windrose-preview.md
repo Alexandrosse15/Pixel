@@ -1,6 +1,7 @@
 ---
 title: "Windrose veut être le Black Flag qu'on attend depuis 2013. Ça commence bien."
 slug: "windrose-preview"
+seoTitle: "Windrose : preview"
 category: "previews"
 excerpt: "Exploration libre, combat naval, co-op jusqu'à 4. Le rêve pirate version 2026 est peut-être là. Ou pas. C'est tout l'enjeu."
 date: "2026-04-16"

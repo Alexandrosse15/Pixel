@@ -1,6 +1,6 @@
 ---
 title: "Runerock Arena: running a gladiator stable is a treat, watching it much less so"
-seoTitle: "Runerock Arena: preview of the turn-based gladiator management game"
+seoTitle: "Runerock Arena: preview"
 slug: "runerock-arena-preview"
 category: "previews"
 excerpt: "36 classes, salaries to pay and gladiators who age then retire. A real management game under rough presentation."

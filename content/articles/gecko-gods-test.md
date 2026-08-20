@@ -1,6 +1,7 @@
 ---
 title: "Gecko Gods : le lézard sacré qui grimpe où les autres n'osent pas aller"
 slug: "gecko-gods-test"
+seoTitle: "Gecko Gods : test et avis"
 category: "tests"
 excerpt: "Gecko Gods te colle aux murs, aux plafonds, aux ruines d'une civilisation oubliée. Et tu réalises que tu n'as pas lâché la manette depuis deux heures."
 date: "2026-04-17"

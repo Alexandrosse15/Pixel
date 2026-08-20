@@ -1,6 +1,6 @@
 ---
 title: "Vacation Cafe Simulator: a small piece of holiday for those already back at work"
-seoTitle: "Vacation Cafe Simulator: review of the Italian restaurant game"
+seoTitle: "Vacation Cafe Simulator: review"
 slug: "vacation-cafe-simulator-test"
 category: "tests"
 excerpt: "Pizzas to prepare, a dining room to run, farms and vineyards to visit. Cute, easy, and exactly right for late August."

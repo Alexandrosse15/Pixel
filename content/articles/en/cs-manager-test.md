@@ -1,6 +1,6 @@
 ---
 title: "CS Manager: the mechanics promise sleepless nights, the game is not yet ready to deserve them"
-seoTitle: "CS Manager: review of the eSports team management game"
+seoTitle: "CS Manager: review"
 slug: "cs-manager-test"
 category: "tests"
 excerpt: "140 teams, 8 maps, cohesion that depends on the languages your players speak. The ideas are there, the polish much less so."

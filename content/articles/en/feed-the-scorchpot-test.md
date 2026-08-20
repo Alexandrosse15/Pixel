@@ -1,6 +1,6 @@
 ---
 title: "Feed the Scorchpot: a twenty-year contract with a dragon, and a combo machine you dismantle along the way"
-seoTitle: "Feed the Scorchpot: review of the dice roguelite"
+seoTitle: "Feed the Scorchpot: review"
 slug: "feed-the-scorchpot-test"
 category: "tests"
 excerpt: "Roll the dice, harvest, cook, feed the beast. Fifty buildings, eighty recipes and twenty types of dice to assemble."

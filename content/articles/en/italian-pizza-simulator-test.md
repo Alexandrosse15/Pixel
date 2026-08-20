@@ -1,6 +1,6 @@
 ---
 title: "Italian Pizza Simulator: the exception coming out of the very factory we criticised last week"
-seoTitle: "Italian Pizza Simulator: review of the pizzeria simulator"
+seoTitle: "Italian Pizza Simulator: review"
 slug: "italian-pizza-simulator-test"
 category: "tests"
 excerpt: "Reopening your grandmother's pizzeria in a Tuscan village. Pretty, warm, and above all it does not look like the other simulators."

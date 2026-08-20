@@ -1,6 +1,6 @@
 ---
 title: "Sensory Overload: a game built to make you ill, and it does more accessibility work than most others"
-seoTitle: "Sensory Overload: review of the vertigo-inducing dropper game"
+seoTitle: "Sensory Overload: review"
 slug: "sensory-overload-test"
 category: "tests"
 excerpt: "Breathing walls, shifting colours, levels called Vertigo and Nausea. A one-developer game that went viral before it even existed."

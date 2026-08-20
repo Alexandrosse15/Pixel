@@ -1,6 +1,6 @@
 ---
 title: "SpeedRunners 2 King of Speed: the sequel that ruins friendships eight at a time, and that is a compliment"
-seoTitle: "SpeedRunners 2 King of Speed: review and verdict"
+seoTitle: "SpeedRunners 2: King of Speed, review"
 slug: "speedrunners-2-king-of-speed-test"
 category: "tests"
 excerpt: "The sequel to a multiplayer darling recaptures the wild sharpness of the original and amplifies it. Eight-player racing, grappling hook, missiles: an exceptional party game."

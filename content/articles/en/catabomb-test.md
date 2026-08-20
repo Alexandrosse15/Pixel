@@ -1,6 +1,6 @@
 ---
 title: "Catabomb: the robotic kittens disarming bombs roguelite, and the pitch was too honest to ignore"
-seoTitle: "Catabomb review: mobile roguelite robotic kittens, our verdict"
+seoTitle: "Catabomb: review"
 slug: "catabomb-test"
 category: "tests"
 excerpt: "Dark Quixote Studio pitched it in three words: robotic kittens, bombs to disarm, roguelite. We didn't resist. We were right not to."

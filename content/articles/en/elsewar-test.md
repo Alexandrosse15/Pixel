@@ -1,6 +1,6 @@
 ---
 title: "Elsewar: another deckbuilder? Yes, but a good one, betting everything on the attrition of war"
-seoTitle: "Elsewar: review of the roguelike deckbuilder"
+seoTitle: "Elsewar: review"
 slug: "elsewar-test"
 category: "tests"
 excerpt: "A fantasy roguelike deckbuilder where you manage an army's attrition through synergies. Promising and clever, even if it is still in Early Access."

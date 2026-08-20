@@ -1,6 +1,6 @@
 ---
 title: "Guide DragonSword Awakening : maîtriser le combat en tag-team, les altérations d'état, les personnages et les meilleurs builds"
-seoTitle: "DragonSword Awakening : guide complet combat, personnages et builds"
+seoTitle: "DragonSword Awakening : guide"
 slug: "dragonsword-awakening-guide"
 category: "guides"
 excerpt: "Le guide complet de DragonSword Awakening : système de tag-team, altérations d'état, cassure de posture, Signal Skills, tier list des personnages, équipes conseillées et gestion des ressources."

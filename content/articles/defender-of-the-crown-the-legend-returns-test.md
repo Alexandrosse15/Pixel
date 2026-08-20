@@ -1,6 +1,6 @@
 ---
 title: "Defender of the Crown The Legend Returns : la nostalgie fonctionne, et le jeu a l'intelligence de ne pas miser que sur elle"
-seoTitle: "Defender of the Crown The Legend Returns : test et avis du retour du classique Amiga"
+seoTitle: "Defender of the Crown : test"
 slug: "defender-of-the-crown-the-legend-returns-test"
 category: "tests"
 excerpt: "Trois modes de jeu : l'Amiga d'origine préservé, une relecture modernisée, et un mode inédit à cartes générées. La bonne façon de ressortir un classique."

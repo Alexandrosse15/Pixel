@@ -1,6 +1,6 @@
 ---
 title: "Low-Budget Repairs : si tous ces simulateurs se ressemblent, cette fois on peut nommer le responsable"
-seoTitle: "Low-Budget Repairs : test et avis du simulateur de bricolage au rabais"
+seoTitle: "Low-Budget Repairs : test et avis"
 slug: "low-budget-repairs-test"
 category: "tests"
 excerpt: "Diluer la peinture, poser du carrelage sans niveau, jeter les meubles par la fenêtre. Une bonne idée dans un habillage qu'on a déjà vu partout."

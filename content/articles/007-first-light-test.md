@@ -1,6 +1,6 @@
 ---
 title: "007 : First Light est le meilleur jeu James Bond depuis GoldenEye, et l'écriture nous a surpris"
-seoTitle: "007 First Light test : notre avis, note, le meilleur jeu Bond depuis 30 ans"
+seoTitle: "007: First Light, test et avis"
 slug: "007-first-light-test"
 category: "tests"
 excerpt: "IO Interactive livre le meilleur jeu Bond depuis GoldenEye 1997. 88 sur Metacritic, leur meilleur score, et une écriture qui dépasse tout ce qu'on espérait. On avait un doute sur l'histoire. On avait tort."

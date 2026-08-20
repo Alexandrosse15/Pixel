@@ -1,6 +1,6 @@
 ---
 title: "Figure Shop Simulator: if all these shop simulators look alike, this one accidentally explains why"
-seoTitle: "Figure Shop Simulator: review of the figure shop management game"
+seoTitle: "Figure Shop Simulator: review"
 slug: "figure-shop-simulator-test"
 category: "tests"
 excerpt: "It adds a real production layer to the shop simulator formula. But the studio admits using AI for part of its assets."

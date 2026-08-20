@@ -1,6 +1,6 @@
 ---
 title: "The Mandalorian & Grogu: a good Disney+ episode, in IMAX"
-seoTitle: "The Mandalorian & Grogu review: our verdict on the film"
+seoTitle: "The Mandalorian & Grogu: review"
 slug: "the-mandalorian-grogu-test"
 category: "cinema"
 excerpt: "Jon Favreau delivers clean visuals, an endearing Rotta the Hutt, and two hours of episodic adventures without consequences. Mandalore is ignored, two villains are wasted, galactic politics don't hold. Mando's return to cinema deserved better."

@@ -1,6 +1,7 @@
 ---
 title: "Nebulae : gouverner une galaxie ensemble, ou la regarder mourir"
 slug: "nebulae-preview"
+seoTitle: "Nebulae : preview"
 category: "previews"
 excerpt: "Gouverner une galaxie en convaincant une majorité de joueurs. Nebulae veut simuler une société, pas juste une galaxie. L'idée est différente de tout."
 date: "2026-04-25"

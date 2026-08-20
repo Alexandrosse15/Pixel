@@ -1,6 +1,6 @@
 ---
 title: "Sovereign Tower: ruling over a Round Table of incompetents, and rewinding time whenever it goes wrong"
-seoTitle: "Sovereign Tower: review of the Round Table management RPG"
+seoTitle: "Sovereign Tower: review"
 slug: "sovereign-tower-test"
 category: "tests"
 excerpt: "Recruit unmanageable knights, referee their egos, balance five factions and the Treasury. And rewind fate as many times as it takes."

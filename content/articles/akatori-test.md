@@ -1,6 +1,6 @@
 ---
 title: "Akatori : je suis tombe amoureux d'un decor avant meme de comprendre le jeu"
-seoTitle: "Akatori : test et avis du metroidvania 2.5D"
+seoTitle: "Akatori : test et avis"
 slug: "akatori-test"
 excerpt: "Un metroidvania 2.5D ou des sprites pixel evoluent dans des decors peints a la main. La direction artistique m'a cueilli, le baton m'a garde."
 category: "tests"

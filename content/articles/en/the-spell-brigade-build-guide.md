@@ -1,6 +1,6 @@
 ---
 title: "The Spell Brigade build guide: best spells, elemental synergies and infusions"
-seoTitle: "The Spell Brigade: best builds and synergies guide"
+seoTitle: "The Spell Brigade: guide"
 slug: "the-spell-brigade-build-guide"
 category: "guides"
 excerpt: "The best The Spell Brigade builds: which spells and elements to pick, the infusions that make the difference, the meta synergies and how to adapt your build in co-op."

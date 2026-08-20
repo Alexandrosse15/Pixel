@@ -1,6 +1,6 @@
 ---
 title: "Guide Cleaning Up The Puzzle Gallery : la methode pour ne pas se noyer sous 2071 pieces"
-seoTitle: "Cleaning Up The Puzzle Gallery : guide et astuces de puzzle"
+seoTitle: "Cleaning Up The Puzzle Gallery : guide"
 slug: "puzzle-gallery-guide"
 excerpt: "Comment aborder les 87 tableaux et 2071 pieces sans paniquer : la boucle de jeu, l'ordre a suivre, le tri malin et l'usage des ameliorations."
 category: "guides"

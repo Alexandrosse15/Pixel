@@ -1,6 +1,6 @@
 ---
 title: "Total War Warhammer 40000 : tout ce qu'on sait, tout ce qu'on spécule, et pourquoi on tremble d'impatience"
-seoTitle: "Total War Warhammer 40000 : tout ce qu'on sait (dossier)"
+seoTitle: "Total War Warhammer 40000 : dossier"
 slug: "total-war-warhammer-40000-dossier"
 category: "dossiers"
 excerpt: "Total War quitte la fantasy pour le grimdark du 41e millénaire. Factions, campagne galactique, batailles à distance, sortie : le point complet entre faits confirmés et spéculations."

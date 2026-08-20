@@ -1,6 +1,6 @@
 ---
 title: "Gothic Remake: seven hours in the Colony, and the same joy as 2001"
-seoTitle: "Gothic Remake preview: our impressions after 7h in the Old Camp"
+seoTitle: "Gothic 1 Remake: preview"
 slug: "gothic-remake-preview"
 category: "previews"
 excerpt: "Alkimia Interactive gave us seven hours in the Old Camp with a locked preview build. Combat is more fluid than in the Nyras prologue, dialogues are nearly identical to the original, and the urge to dive back in is intact."

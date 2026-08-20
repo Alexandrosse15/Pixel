@@ -1,6 +1,7 @@
 ---
 title: "Vestige : une île qui est en réalité le subconscient d'un personnage"
 slug: "vestige-preview"
+seoTitle: "Vestige : preview"
 category: "previews"
 excerpt: "Une île divisée en sept zones du deuil, une mécanique de pulsions, une petite équipe qui construit quelque chose d'intime avec ses propres deniers."
 date: "2026-05-02"

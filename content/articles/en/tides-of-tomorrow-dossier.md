@@ -1,6 +1,7 @@
 ---
 title: "Tides of Tomorrow: what if someone else's future became your present?"
 slug: "tides-of-tomorrow-dossier"
+seoTitle: "Tides of Tomorrow: preview"
 category: "previews"
 excerpt: "Tides of Tomorrow proposes an idea few games dare to explore: seeing another player's actions not as a replay, but as a vision of the future. A groundbreaking mechanic, carried by a studio that knows exactly what it's doing."
 date: "2026-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "How to Fish : un simulateur de pêche à quatre où l'on tue le poisson, on le vend et on parie les gains"
-seoTitle: "How to Fish : test et avis du simulateur de peche coopératif"
+seoTitle: "How to Fish : test et avis"
 slug: "how-to-fish-test"
 category: "tests"
 excerpt: "Naufragés sur une île après une sortie en bateau arrosée, il faut pêcher pour rentrer. Physique, coups trick shot et casino compris."

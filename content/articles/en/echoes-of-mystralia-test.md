@@ -1,6 +1,6 @@
 ---
 title: "Echoes of Mystralia: building your own spells is still a rare pleasure, the writing has more trouble keeping up"
-seoTitle: "Echoes of Mystralia: review of the spell-crafting roguelite"
+seoTitle: "Echoes of Mystralia: review"
 slug: "echoes-of-mystralia-test"
 category: "tests"
 excerpt: "You combine memories to cobble together your own spells, and it works beautifully. The story struggles to match that level."

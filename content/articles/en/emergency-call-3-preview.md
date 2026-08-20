@@ -1,6 +1,6 @@
 ---
 title: "Emergency Call - The Firefighting Simulation 3: the firefighter's job simulated up close, and rebuilt from scratch"
-seoTitle: "Emergency Call - The Firefighting Simulation 3: preview"
+seoTitle: "Emergency Call 3: preview"
 slug: "emergency-call-3-preview"
 excerpt: "Rebuilt in Unreal Engine 5 with real firefighters, this third entry promises fire-station life in 24-hour shifts. In France, the subject hits home."
 category: "previews"

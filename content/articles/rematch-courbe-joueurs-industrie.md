@@ -1,6 +1,6 @@
 ---
 title: "Rematch, le petit jeu de foot qui tourne tout seul dans son coin et tient sa courbe sans personne"
-seoTitle: "Rematch : pourquoi sa courbe de joueurs tient sans hype"
+seoTitle: "Rematch : la courbe qui tient"
 slug: "rematch-courbe-joueurs-industrie"
 category: "industrie"
 excerpt: "Les influenceurs ont lâché Rematch depuis des mois. Sa courbe de joueurs, elle, n'a pas bougé. On explique pourquoi ce foot de Sloclap réussit en silence."

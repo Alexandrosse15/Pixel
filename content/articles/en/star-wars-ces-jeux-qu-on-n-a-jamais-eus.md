@@ -1,6 +1,7 @@
 ---
 title: "Star Wars: the games we never got (and the ones already causing concern)"
 slug: "star-wars-ces-jeux-qu-on-n-a-jamais-eus"
+seoTitle: "Star Wars: the games we never got"
 category: "dossiers"
 excerpt: "There are the Star Wars games we played. And then there are the ones we'll never play. Sometimes it's precisely those games that leave the deepest mark. Because they promised something different."
 date: "2026-04-17"

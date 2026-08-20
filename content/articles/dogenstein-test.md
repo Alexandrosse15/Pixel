@@ -1,6 +1,6 @@
 ---
 title: "DOGENSTEIN : Doom avec un chien ? Oui, et c'est déjà une excellente raison de mordre"
-seoTitle: "DOGENSTEIN : test et avis du boomer shooter"
+seoTitle: "DOGENSTEIN : test et avis"
 slug: "dogenstein-test"
 category: "tests"
 excerpt: "Un boomer shooter rétro nerveux où l'on incarne un chien légendaire. 13 niveaux bourrés de gags et de secrets. Pas révolutionnaire, mais diablement fun."

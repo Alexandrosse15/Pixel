@@ -1,6 +1,6 @@
 ---
 title: "Directive 8020: the first time in five years a Dark Pictures was worth turning the lights off"
-seoTitle: "Directive 8020: The Dark Pictures Anthology review"
+seoTitle: "Directive 8020: review"
 slug: "directive-8020-test"
 category: "tests"
 excerpt: "Five years of Dark Pictures for this: an alien that mimics its prey, genuine paranoia, and finally an entry that justifies the series' existence."

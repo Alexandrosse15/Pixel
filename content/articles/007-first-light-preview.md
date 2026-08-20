@@ -1,6 +1,6 @@
 ---
 title: "007 : First Light est la preview la plus honnête d'IO Interactive depuis des années, et ce n'est pas du Hitman"
-seoTitle: "007 First Light preview : Hitman ou Uncharted ?"
+seoTitle: "007: First Light, preview"
 slug: "007-first-light-preview"
 category: "previews"
 excerpt: "IO Interactive lâche Hitman et fait un jeu de Bond. Pas un Hitman reskinné : un jeu de Bond. Uncharted, Arkham, stealth social, gadgets. Les previews sont prometteuses mais le doute sur l'écriture reste entier."

@@ -1,6 +1,6 @@
 ---
 title: "Solarpunk est un très joli jeu de survie qui a juste oublié d'être solarpunk"
-seoTitle: "Solarpunk : test du jeu de survie en dirigeable"
+seoTitle: "Solarpunk : test et avis"
 slug: "solarpunk-test"
 category: "tests"
 excerpt: "Magnifique, cosy, porté par un dirigeable qu'on adore. Mais Solarpunk passe à côté de sa propre promesse: c'est un survival-craft comme les autres."

@@ -1,6 +1,6 @@
 ---
 title: "Guide Dig, Dig, Die : survivre au pillage de tombes, gérer le bruit, les malédictions et la coop"
-seoTitle: "Dig, Dig, Die : guide de survie et de débutant"
+seoTitle: "Dig, Dig, Die : guide"
 slug: "dig-dig-die-guide"
 category: "guides"
 excerpt: "Le guide de survie Dig, Dig, Die : comprendre la boucle de pillage, rester silencieux, gérer les objets maudits et coordonner son équipe pour rentrer vivant."

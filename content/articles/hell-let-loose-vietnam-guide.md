@@ -1,6 +1,6 @@
 ---
 title: "Guide Hell Let Loose Vietnam : la radio, la jungle, et les erreurs qui coûtent une partie"
-seoTitle: "Hell Let Loose Vietnam : guide de la communication et de la progression"
+seoTitle: "Hell Let Loose: Vietnam, guide"
 slug: "hell-let-loose-vietnam-guide"
 category: "guides"
 excerpt: "Quand parler et quand se taire selon votre rôle, comment avancer dans la végétation, et pourquoi l'encerclement tue plus que les balles."

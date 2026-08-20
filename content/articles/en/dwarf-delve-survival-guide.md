@@ -1,6 +1,6 @@
 ---
 title: "Dwarf Delve survival guide: when to extract, managing your greed, gearing up and prioritizing upgrades"
-seoTitle: "Dwarf Delve: survival guide, tips and upgrades"
+seoTitle: "Dwarf Delve: guide"
 slug: "dwarf-delve-survival-guide"
 category: "guides"
 excerpt: "The Dwarf Delve survival guide: master the extraction dilemma, manage your time and greed, use your equipment well and prioritize your permanent upgrades."

@@ -1,6 +1,6 @@
 ---
 title: "Guide Machine Party : survivre aux mini-jeux mortels et savoir quand trahir ses amis"
-seoTitle: "Machine Party : guide de survie et de stratégie"
+seoTitle: "Machine Party : guide"
 slug: "machine-party-guide"
 category: "guides"
 excerpt: "Le guide stratégique de Machine Party : garder son sang-froid dans les mini-jeux létaux, communiquer, lire ses adversaires et choisir le bon moment pour saboter."

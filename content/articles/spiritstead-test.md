@@ -1,6 +1,6 @@
 ---
 title: "Spiritstead : on a farmé FarmVille pendant nos années étudiantes, celui-là retire précisément ce qui nous faisait revenir de force"
-seoTitle: "Spiritstead : test et avis du city builder cosy aux esprits"
+seoTitle: "Spiritstead : test et avis"
 slug: "spiritstead-test"
 category: "tests"
 excerpt: "Une DA magnifique inspirée de Miyazaki, des esprits qui automatisent le village, et 6 à 8 heures assumées. Le contraire exact du farming à minuteurs."

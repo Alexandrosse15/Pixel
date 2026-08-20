@@ -1,6 +1,6 @@
 ---
 title: "Zoominoes: the deckbuilder that turns a zoo into a runaway number machine"
-seoTitle: "Zoominoes: review of the roguelike deckbuilder"
+seoTitle: "Zoominoes: review"
 slug: "zoominoes-test"
 category: "tests"
 excerpt: "Combine animal tiles, stuff them with treats and watch the score explode. A clever, addictive roguelike deckbuilder in the number-go-up lineage."

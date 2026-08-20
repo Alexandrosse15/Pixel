@@ -1,6 +1,6 @@
 ---
 title: "Dinosaur : très joli, très vide, et surtout très loin de ce que Zoo Tycoon faisait déjà en 2002"
-seoTitle: "Dinosaur : test et avis du bac à sable de gestion d'île à dinosaures"
+seoTitle: "Dinosaur : test et avis"
 slug: "dinosaur-test"
 category: "tests"
 excerpt: "Un éditeur d'île sans limites, plus de 50 espèces et la possibilité d'incarner un dinosaure. Mais aucune trace de la gestion qui fait le genre."

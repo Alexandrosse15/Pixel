@@ -1,6 +1,6 @@
 ---
 title: "Kill the Shadow: a detective who rewinds time in a neon-soaked noir city"
-seoTitle: "Kill the Shadow: review of the pixel-noir detective RPG"
+seoTitle: "Kill The Shadow: review"
 slug: "kill-the-shadow-test"
 excerpt: "A pixel-noir investigation in a post-war city split in two, with a notebook, Chinese neon in the rain and the power to rewind time."
 category: "tests"

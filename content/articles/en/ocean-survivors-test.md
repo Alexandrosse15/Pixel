@@ -1,6 +1,6 @@
 ---
 title: "Ocean Survivors: ugly as a beached octopus, but oh boy is it good"
-seoTitle: "Ocean Survivors: review of the survivors-like"
+seoTitle: "Ocean Survivors: review"
 slug: "ocean-survivors-test"
 category: "tests"
 excerpt: "A minimalist pirate survivors-like, ugly but ruthlessly effective. Fifteen-minute runs that hook you despite a threadbare presentation."

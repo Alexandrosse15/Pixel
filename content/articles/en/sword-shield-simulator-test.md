@@ -1,6 +1,6 @@
 ---
 title: "Sword & Shield Simulator: the forge station by station, and a medieval world outside to catch your breath"
-seoTitle: "Sword & Shield Simulator: review of the medieval blacksmithing sim"
+seoTitle: "Sword & Shield Simulator: review"
 slug: "sword-shield-simulator-test"
 category: "tests"
 excerpt: "Smelt, hammer, grind, chisel, then compose your own weapons piece by piece. A forge simulator that goes beyond the anvil."

@@ -1,6 +1,6 @@
 ---
 title: "IRON NEST: the dieselpunk of Iron Harvest, except here you command nothing at all, you are sitting inside the turret"
-seoTitle: "IRON NEST Heavy Turret Simulator: review of the artillery simulator"
+seoTitle: "IRON NEST: Heavy Turret Simulator"
 slug: "iron-nest-test"
 category: "tests"
 excerpt: "The dieselpunk we loved in Iron Harvest, seen through the sighting hole. Two developers, one monstrous gun and a heavy dose of guilt."

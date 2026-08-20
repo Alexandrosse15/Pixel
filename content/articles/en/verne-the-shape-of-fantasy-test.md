@@ -1,6 +1,7 @@
 ---
 title: "Verne: The Shape of Fantasy, the point-and-click that proves imagination doesn't need 60 frames per second"
 slug: "verne-the-shape-of-fantasy-test"
+seoTitle: "Verne: The Shape of Fantasy, review"
 category: "tests"
 excerpt: "Jules Verne, the Nautilus, Atlantis, a fantasy world born from the imagination of an author who died in 1905. Gametopia turned all of that into a pixel art point-and-click. And it's exactly as good as it sounds."
 date: "2026-04-17"

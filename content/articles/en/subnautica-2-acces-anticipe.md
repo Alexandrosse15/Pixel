@@ -1,6 +1,6 @@
 ---
 title: "Subnautica 2 launched despite Krafton, and it's the first time buying a game feels like a political act"
-seoTitle: "Subnautica 2: Krafton controversy and Early Access impressions"
+seoTitle: "Subnautica 2: the Krafton row"
 slug: "subnautica-2-acces-anticipe"
 category: "industrie"
 excerpt: "Krafton tried to cheat its devs via an illegal plan advised by ChatGPT, lost the lawsuit, and Subnautica 2 launched in Early Access anyway."

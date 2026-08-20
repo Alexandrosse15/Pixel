@@ -1,6 +1,6 @@
 ---
 title: "Agent 64 Spies Never Die: the owned GoldenEye homage, with the return of the cousin peeking at your screen"
-seoTitle: "Agent 64 Spies Never Die: review of the retro FPS homage"
+seoTitle: "Agent 64: Spies Never Die, review"
 slug: "agent-64-spies-never-die-test"
 category: "tests"
 excerpt: "14 missions, split-screen, a local arena. An openly claimed homage to the console shooters of 1997, with a story that plays along."

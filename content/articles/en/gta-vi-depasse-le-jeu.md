@@ -1,6 +1,7 @@
 ---
 title: "GTA VI: the game that already goes beyond the game"
 slug: "gta-vi-depasse-le-jeu"
+seoTitle: "Grand Theft Auto VI: deep dive"
 category: "dossiers"
 excerpt: "When a new Grand Theft Auto is announced, it isn't just another release on the calendar. It's a cultural event, a tipping point where video games stop being merely entertainment and become a social phenomenon once again."
 date: "2026-04-16"

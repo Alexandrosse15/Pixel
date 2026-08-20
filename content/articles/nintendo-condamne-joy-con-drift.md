@@ -1,6 +1,6 @@
 ---
 title: "Nintendo condamné à 35 millions d'euros pour le Joy-Con drift, et si toute l'industrie en tirait la leçon ?"
-seoTitle: "Nintendo condamné : 35M€ pour le Joy-Con drift"
+seoTitle: "Joy-Con drift : Nintendo condamné"
 slug: "nintendo-condamne-joy-con-drift"
 category: "industrie"
 excerpt: "35 millions d'euros d'amende pour le Joy-Con drift: la DGCCRF sanctionne Nintendo. Et nous, on rêve que toute l'industrie arrête enfin l'obsolescence."

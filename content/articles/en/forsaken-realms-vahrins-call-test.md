@@ -1,6 +1,6 @@
 ---
 title: "Forsaken Realms Vahrin's Call is the action-RPG seven fans spent twelve years building, a dream of Fable and Elder Scrolls"
-seoTitle: "Forsaken Realms Vahrin's Call: review of the action-RPG"
+seoTitle: "Forsaken Realms Vahrin's Call: review"
 slug: "forsaken-realms-vahrins-call-test"
 category: "tests"
 excerpt: "A classless narrative action-RPG inspired by Fable and The Elder Scrolls, developed over twelve years by seven people. Forsaken Realms bets on build freedom and exploration."

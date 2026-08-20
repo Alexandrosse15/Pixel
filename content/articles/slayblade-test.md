@@ -1,6 +1,6 @@
 ---
 title: "Slayblade : les toupies sont là, les combos aussi, mais les dragons dans les toupies manquent à l'appel"
-seoTitle: "Slayblade : test et avis du jeu de combat de toupies"
+seoTitle: "Slayblade : test et avis"
 slug: "slayblade-test"
 category: "tests"
 excerpt: "Soixante pièces à collectionner, une ville PS1 miniature et des paris sur ses combats. Une direction artistique superbe, et une magie absente."

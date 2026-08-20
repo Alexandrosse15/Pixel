@@ -1,6 +1,6 @@
 ---
 title: "Echoes of Mystralia : fabriquer ses propres sorts reste un plaisir rare, l'écriture a plus de mal à suivre"
-seoTitle: "Echoes of Mystralia : test et avis du roguelite de création de sorts"
+seoTitle: "Echoes of Mystralia : test et avis"
 slug: "echoes-of-mystralia-test"
 category: "tests"
 excerpt: "On combine des souvenirs pour bricoler ses propres sorts, et ça marche très bien. Le récit, lui, peine à tenir le même niveau."

@@ -1,6 +1,6 @@
 ---
 title: "Gallipoli: the WW1 series finally gets crossplay, and lands its best balance between sim and arcade"
-seoTitle: "Gallipoli: review of the BlackMill First World War shooter"
+seoTitle: "Gallipoli: review"
 slug: "gallipoli-test"
 category: "tests"
 excerpt: "25 versus 25 on the beaches of Anzac Cove, ten classes, fifty weapons. The fourth entry fixes the problem that has undermined the series for a decade."

@@ -1,6 +1,6 @@
 ---
 title: "The Syndicate Classified Operations : non, on n'y joue ni la CIA ni le KGB, et c'est encore pire pour vos heures de sommeil"
-seoTitle: "The Syndicate Classified Operations : test et avis du jeu d'espionnage Guerre froide"
+seoTitle: "The Syndicate: Classified Operations"
 slug: "the-syndicate-classified-operations-test"
 category: "tests"
 excerpt: "Un incremental de Guerre froide où l'on bâtit son propre réseau d'espions ville par ville. Fait par une seule personne, et taillé pour les nuits blanches."

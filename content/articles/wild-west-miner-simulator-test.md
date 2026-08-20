@@ -1,6 +1,6 @@
 ---
 title: "Wild West Miner Simulator : j'ai déjà un travail, merci, je n'en cherchais pas cinq autres"
-seoTitle: "Wild West Miner Simulator : test et avis du simulateur de mine"
+seoTitle: "Wild West Miner Simulator : test et avis"
 slug: "wild-west-miner-simulator-test"
 category: "tests"
 excerpt: "Miner, fondre, construire, recommencer. La récolte y est une corvée sans contrepartie ludique, et le même éditeur produit ça à la chaîne."

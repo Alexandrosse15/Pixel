@@ -1,6 +1,6 @@
 ---
 title: "The Witch's Bakery : Paris, la magie et une boulangerie pour trouver sa place"
-seoTitle: "The Witch's Bakery preview : cosy RPG sorcière Paris, notre avis"
+seoTitle: "The Witch's Bakery : preview"
 slug: "the-witch-bakery-preview"
 category: "previews"
 excerpt: "Sunny Lab fait un RPG cosy sur une sorcière qui tient une boulangerie à Paris dans les années 90. C'est plus ambitieux que ça en a l'air, et beaucoup plus personnel."

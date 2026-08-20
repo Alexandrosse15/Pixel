@@ -1,6 +1,6 @@
 ---
 title: "Thirty Years War : le carton marron de notre enfance a survécu, il coûte juste plus cher et parle uniquement anglais"
-seoTitle: "Thirty Years War : preview du wargame à hexagones sur la guerre de Trente Ans"
+seoTitle: "Thirty Years War : preview"
 slug: "thirty-years-war-preview"
 category: "previews"
 excerpt: "80 scénarios, pique et mousquet, Gustave Adolphe et Breitenfeld. Un wargame à hexagones héritier direct de John Tiller, aussi rigoureux qu'austère."

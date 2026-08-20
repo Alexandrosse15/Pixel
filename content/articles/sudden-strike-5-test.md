@@ -1,6 +1,7 @@
 ---
 title: "Sudden Strike 5 : vingt ans plus tard, on est toujours là"
 slug: "sudden-strike-5-test"
+seoTitle: "Sudden Strike 5 : test et avis"
 category: "tests"
 excerpt: "On a joué aux premiers Sudden Strike au lycée. Vingt ans ont passé. Le cinquième opus est là, et on a l'impression de ne jamais être vraiment partis."
 date: "2026-04-23"

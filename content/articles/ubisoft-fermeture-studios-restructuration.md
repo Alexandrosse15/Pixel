@@ -1,6 +1,6 @@
 ---
 title: "Ubisoft ferme Belgrade et Winnipeg: un géant qui se taille en pièces pour survivre"
-seoTitle: "Ubisoft ferme Belgrade et Winnipeg : analyse de la crise"
+seoTitle: "Ubisoft ferme deux studios"
 slug: "ubisoft-fermeture-studios-restructuration"
 category: "industrie"
 excerpt: "380 postes supprimés, Belgrade et Winnipeg fermés, 20 000 employés tombés à 16 000. On décortique la crise Ubisoft et ses solutions, qui n'en sont pas."

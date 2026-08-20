@@ -1,6 +1,6 @@
 ---
 title: "Cellar Keeper : j'aime le bon vin, mais ranger 2 448 bouteilles que je ne boirai jamais, il faut m'expliquer"
-seoTitle: "Cellar Keeper : test et avis du simulateur de rangement de cave"
+seoTitle: "Cellar Keeper : test et avis"
 slug: "cellar-keeper-test"
 category: "tests"
 excerpt: "Un simulateur de rangement de cave à vin, à moins de cinq euros. L'idée a du charme, mais elle tient sur une seule note."

@@ -1,6 +1,7 @@
 ---
 title: "Diablo IV, nouvelle extension : et si c'était enfin le moment de revenir ?"
 slug: "diablo-iv-nouvelle-extension-preview"
+seoTitle: "Diablo IV : preview"
 category: "previews"
 excerpt: "La nouvelle extension de Diablo IV coche tout ce que la communauté réclamait depuis le lancement. La vraie question : est-ce que ça répare le jeu ?"
 date: "2026-04-28"

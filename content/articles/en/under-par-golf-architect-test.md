@@ -1,6 +1,7 @@
 ---
 title: "Under Par Golf Architect: the spreadsheet simulator in disguise"
 slug: "under-par-golf-architect-test"
+seoTitle: "Under Par Golf Architect: review"
 category: "tests"
 excerpt: "Some games make you dream. Others make you want to open Excel. Under Par Golf Architect clearly belongs to the second category."
 date: "2026-04-17"

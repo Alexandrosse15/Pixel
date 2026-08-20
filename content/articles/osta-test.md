@@ -1,6 +1,6 @@
 ---
 title: "Osta : le simulateur de brocante militaire qui transforme la poussière en trésor"
-seoTitle: "Osta : test et avis du simulateur de collection"
+seoTitle: "Osta : test et avis"
 slug: "osta-test"
 category: "tests"
 excerpt: "Détecteur de métaux en main, on déterre l'Histoire une relique à la fois. Un sim de niche, contemplatif et étonnamment addictif pour les fouineurs."

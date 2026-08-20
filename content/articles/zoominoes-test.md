@@ -1,6 +1,6 @@
 ---
 title: "Zoominoes : le deckbuilder qui transforme un zoo en machine à chiffres qui s'emballe"
-seoTitle: "Zoominoes : test et avis du roguelike deckbuilder"
+seoTitle: "Zoominoes : test et avis"
 slug: "zoominoes-test"
 category: "tests"
 excerpt: "Combiner des tuiles-animaux, les gaver de friandises et regarder le score exploser. Un roguelike deckbuilder malin et addictif, dans la lignée du number-go-up."

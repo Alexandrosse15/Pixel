@@ -1,6 +1,6 @@
 ---
 title: "Hydra Heli 2 : couler des flottes entières en pantoufles, le plaisir coupable assumé"
-seoTitle: "Hydra Heli 2 : test et avis de l'incremental"
+seoTitle: "Hydra Heli 2 : test et avis"
 slug: "hydra-heli-2-test"
 category: "tests"
 excerpt: "Un hélico surpuissant, des armadas à pulvériser et une boucle incrementale relaxante de cinq heures. Court, sans prétention, et diablement satisfaisant."

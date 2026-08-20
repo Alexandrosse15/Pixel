@@ -1,6 +1,6 @@
 ---
 title: "GRAIN ROT : l'extraction horror qui a une vraie idée, mourir n'est que le début quand on est une étincelle"
-seoTitle: "GRAIN ROT : preview de l'extraction horror coop"
+seoTitle: "GRAIN ROT : preview"
 slug: "grain-rot-preview"
 category: "previews"
 excerpt: "350 000 démos jouées et une mécanique inédite : incarner une étincelle qui possède des corps de bois. GRAIN ROT sort le 7 août et sort enfin du lot."

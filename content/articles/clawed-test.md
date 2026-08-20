@@ -1,6 +1,6 @@
 ---
 title: "Clawed : un parc à dinosaures à l'abandon, une ambiance réussie, et une ressemblance qui interroge"
-seoTitle: "Clawed : test et avis du survival horror dans un parc à dinosaures"
+seoTitle: "Clawed : test et avis"
 slug: "clawed-test"
 category: "tests"
 excerpt: "Prehistoria, parc en ruine, énigmes et prédateurs. L'ambiance fonctionne, et la parenté avec un certain film de 1993 mérite qu'on s'y arrête."

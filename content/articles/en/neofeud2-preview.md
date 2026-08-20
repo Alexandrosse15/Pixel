@@ -1,6 +1,6 @@
 ---
 title: "Neofeud 2: a solo Hawaiian developer spent nine years painting the most ambitious cyberpunk game of 2026"
-seoTitle: "Neofeud 2 preview: cyberpunk point and click solo dev, our impressions"
+seoTitle: "Neofeud 2: preview"
 slug: "neofeud2-preview"
 category: "previews"
 excerpt: "Christian Miller, a Hawaiian activist known as Silver Spook, just released Neofeud 2 after nine years of solo development. 140,000 words of fully voiced dialogue, hand-painted art of rare quality, and political satire written by someone who has something to say."

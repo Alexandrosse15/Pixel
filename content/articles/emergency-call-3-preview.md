@@ -1,6 +1,6 @@
 ---
 title: "Emergency Call - The Firefighting Simulation 3 : le metier de pompier simule au plus pres, et refait a neuf"
-seoTitle: "Emergency Call - The Firefighting Simulation 3 : preview"
+seoTitle: "Emergency Call 3 : preview"
 slug: "emergency-call-3-preview"
 excerpt: "Reconstruit sous Unreal Engine 5 avec de vrais pompiers, ce troisieme opus promet la vie de caserne en 24h chrono. En France, le sujet nous parle fort."
 category: "previews"

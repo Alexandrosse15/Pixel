@@ -1,6 +1,6 @@
 ---
 title: "Airport Manager Simulator 2026 : depuis Die Hard 2, on rêvait tous de tenir la tour, et c'est à peu près ça"
-seoTitle: "Airport Manager Simulator 2026 : test et avis du simulateur de gestion d'aéroport"
+seoTitle: "Airport Manager Simulator 2026 : test"
 slug: "airport-manager-simulator-2026-test"
 category: "tests"
 excerpt: "Flux de passagers, bagages, avitaillement et passerelles à piloter soi-même. Le cahier des charges est rempli, l'ambition reste modeste."

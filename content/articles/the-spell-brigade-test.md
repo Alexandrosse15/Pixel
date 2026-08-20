@@ -1,6 +1,6 @@
 ---
 title: "The Spell Brigade est un survivors-like coop où même vos amis peuvent vous tuer, et c'est un délice de chaos"
-seoTitle: "The Spell Brigade : test et avis du survivors coop"
+seoTitle: "The Spell Brigade : test et avis"
 slug: "the-spell-brigade-test"
 category: "tests"
 excerpt: "Un survivors-like coop jusqu'à quatre sorciers, des synergies de sorts démentes et du tir ami qui ne pardonne rien. The Spell Brigade transforme la horde en fête chaotique entre potes."

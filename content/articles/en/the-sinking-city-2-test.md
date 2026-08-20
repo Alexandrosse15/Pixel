@@ -1,6 +1,6 @@
 ---
 title: "The Sinking City 2: Frogwares drops the investigation for survival horror, and makes its best game"
-seoTitle: "The Sinking City 2: review of the Lovecraftian survival horror"
+seoTitle: "The Sinking City 2: review"
 slug: "the-sinking-city-2-test"
 category: "tests"
 excerpt: "A drowned Arkham, a tight inventory, counted bullets. A leap forward on every front, at the cost of a genre change that will divide."

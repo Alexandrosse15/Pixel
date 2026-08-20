@@ -1,6 +1,6 @@
 ---
 title: "Silent Shark: if submarine games have not evolved in twenty years, it is not this game's fault"
-seoTitle: "Silent Shark: preview of the WWII submarine simulator"
+seoTitle: "Silent Shark: preview"
 slug: "silent-shark-preview"
 category: "previews"
 excerpt: "Hydrophone, stadimeter, torpedo data computer and thermal layers. A deep simulator from a solo developer, and a disappointment worth reframing."

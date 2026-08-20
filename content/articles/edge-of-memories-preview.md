@@ -1,6 +1,6 @@
 ---
 title: "Edge of Memories veut sauver un monde de la Corruption, mais c'est son propre studio qu'il faudrait sauver d'abord"
-seoTitle: "Edge of Memories : preview de l'action-JRPG de Midgar"
+seoTitle: "Edge of Memories : preview"
 slug: "edge-of-memories-preview"
 category: "previews"
 excerpt: "Un action-JRPG ambitieux, une démo qui sort aujourd'hui, et un studio mis en vente la veille de son grand show. Le pire ennemi du jeu n'est pas dans le jeu."

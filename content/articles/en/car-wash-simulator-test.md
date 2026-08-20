@@ -1,6 +1,6 @@
 ---
 title: "Car Wash Simulator: we feared students in bikinis, we found secret plantations instead"
-seoTitle: "Car Wash Simulator: review of the car detailing simulator"
+seoTitle: "Car Wash Simulator: review"
 slug: "car-wash-simulator-test"
 category: "tests"
 excerpt: "Against PowerWash Simulator it adds a property empire, timed challenges and a black market. But its demo convinced only one player in two."

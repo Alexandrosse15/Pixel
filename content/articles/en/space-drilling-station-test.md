@@ -1,6 +1,7 @@
 ---
 title: "Space Drilling Station: drilling through space, one loop at a time"
 slug: "space-drilling-station-test"
+seoTitle: "Space Drilling Station: review"
 category: "tests"
 excerpt: "Space Drilling Station doesn't aim to redefine a genre. It has the more modest and more difficult ambition of offering a gameplay loop worth staying in. It almost pulls it off."
 date: "2026-04-24"

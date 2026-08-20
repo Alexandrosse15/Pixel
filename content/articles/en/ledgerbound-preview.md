@@ -1,6 +1,6 @@
 ---
 title: "Ledgerbound: fantasy hero by night, insurance adjuster by day, and colleagues who are frankly obsessed"
-seoTitle: "Ledgerbound: preview of the tactical RPG dating sim"
+seoTitle: "Ledgerbound: preview"
 slug: "ledgerbound-preview"
 category: "previews"
 excerpt: "You deny claims, file HR paperwork before flirting, and fight on a grid. The writing is funny, the combat more debatable."

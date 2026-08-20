@@ -1,6 +1,6 @@
 ---
 title: "Guns & Dragons: 100,000 playtest sign-ups, and one number the press release does not highlight"
-seoTitle: "Guns & Dragons: preview of the co-op roguelite FPS"
+seoTitle: "Guns and Dragons: preview"
 slug: "guns-and-dragons-preview"
 category: "previews"
 excerpt: "A co-op roguelite FPS in a magitech fantasy world, 45 weapons and rare playtest telemetry. The numbers just need reading properly."

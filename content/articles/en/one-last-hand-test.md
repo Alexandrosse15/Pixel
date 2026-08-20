@@ -1,6 +1,6 @@
 ---
 title: "One Last Hand: the title is exactly what we used to say at 4am, and the game knows it"
-seoTitle: "One Last Hand: review of the multiplayer card battler"
+seoTitle: "One Last Hand: review"
 slug: "one-last-hand-test"
 category: "tests"
 excerpt: "Bid in secret, steal your neighbour's card, then turn your hand into a slap. A card game built to end in an argument."

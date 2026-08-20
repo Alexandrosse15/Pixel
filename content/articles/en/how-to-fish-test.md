@@ -1,6 +1,6 @@
 ---
 title: "How to Fish: a four-player fishing simulator where you kill the fish, sell it and gamble the takings"
-seoTitle: "How to Fish: review of the co-op fishing simulator"
+seoTitle: "How to Fish: review"
 slug: "how-to-fish-test"
 category: "tests"
 excerpt: "Shipwrecked on an island after a boozy boat trip, you have to fish your way home. Physics, trick shots and a casino included."

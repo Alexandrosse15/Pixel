@@ -1,6 +1,7 @@
 ---
 title: "Wednesdays: shedding light on what we'd rather didn't exist"
 slug: "wednesdays-test"
+seoTitle: "Wednesdays: review"
 category: "tests"
 excerpt: "Wednesdays arrives with a comic book style that echoes the best of Ghost World, and a subject few works have the courage to address head-on. It's uncomfortable, necessary, and luminous."
 date: "2026-04-20"

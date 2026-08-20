@@ -1,6 +1,6 @@
 ---
 title: "Shippin : le Dredge sans la peur, et la vraie question que ça pose"
-seoTitle: "Shippin : test et avis de l'aventure narrative maritime"
+seoTitle: "Shippin : test et avis"
 slug: "shippin-test"
 category: "tests"
 excerpt: "Un monde marin brumeux, des ports à secourir et un mystère à percer. Mais sans la tension nocturne qui faisait tout le sel de Dredge."

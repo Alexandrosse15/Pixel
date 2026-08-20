@@ -1,6 +1,6 @@
 ---
 title: "Agefield High: an early 2000s high school nicer than the real one, and a rare piece of Steam page honesty"
-seoTitle: "Agefield High Rock the School: review of the teen comedy game"
+seoTitle: "Agefield High: Rock the School, review"
 slug: "agefield-high-test"
 category: "tests"
 excerpt: "A raunchy early 2000s comedy in a handcrafted small town. The studio says plainly who the game is not for."

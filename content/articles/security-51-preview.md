@@ -1,6 +1,6 @@
 ---
 title: "Security 51 : encore un Papers Please, sauf qu'ici la vraie question n'est pas qui vous laissez entrer"
-seoTitle: "Security 51 : preview du simulateur de garde de sécurité horrifique"
+seoTitle: "Security 51 : preview"
 slug: "security-51-preview"
 category: "previews"
 excerpt: "Le tampon administratif rencontre la paranoïa SCP. Sa vraie trouvaille : vous êtes aussi responsable de ce qui ressort du bunker."

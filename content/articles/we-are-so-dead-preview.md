@@ -1,6 +1,6 @@
 ---
 title: "We Are So Dead : ne jouez jamais avec une planche de ouija, et si vous ne me croyez pas, essayez celui-là"
-seoTitle: "We Are So Dead : preview du jeu d'horreur coopératif à la planche de ouija"
+seoTitle: "WE ARE SO DEAD : preview"
 slug: "we-are-so-dead-preview"
 category: "previews"
 excerpt: "Un joueur commence mort, voit tout, et ne peut communiquer qu'en épelant sur une planche que ses amis lisent de travers. Génial et cruel."

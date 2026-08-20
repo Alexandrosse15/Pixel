@@ -1,6 +1,6 @@
 ---
 title: "Quasimorph: the cyberpunk roguelike that has you print clones just to send them dying"
-seoTitle: "Quasimorph: review of the tactical roguelike"
+seoTitle: "Quasimorph: review"
 slug: "quasimorph-test"
 category: "tests"
 excerpt: "A cyberpunk tactical roguelike of rare brutality, where you loot, extract and die a lot. Demanding and cruel, but terribly addictive for the initiated."

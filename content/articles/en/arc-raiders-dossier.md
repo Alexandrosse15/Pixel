@@ -1,6 +1,7 @@
 ---
 title: "ARC Raiders: it doesn't reinvent anything, it just finally gets things right"
 slug: "arc-raiders-dossier"
+seoTitle: "ARC Raiders: deep dive"
 category: "dossiers"
 excerpt: "We've seen this kind of game fail before. Trailers full of promises, a strong concept, and a launch that collapses under the weight of its own ambitions. ARC Raiders works. Understanding why means understanding what the genre spent years learning."
 date: "2026-04-26"

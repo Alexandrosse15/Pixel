@@ -1,6 +1,6 @@
 ---
 title: "Cleaning Up The Puzzle Gallery guide: the method to avoid drowning under 2071 pieces"
-seoTitle: "Cleaning Up The Puzzle Gallery: guide and puzzle tips"
+seoTitle: "Cleaning Up The Puzzle Gallery: guide"
 slug: "puzzle-gallery-guide"
 excerpt: "How to tackle the 87 paintings and 2071 pieces without panic: the gameplay loop, the order to follow, smart sorting and using the enhancements."
 category: "guides"

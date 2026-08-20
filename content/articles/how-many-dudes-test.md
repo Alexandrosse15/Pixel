@@ -1,6 +1,6 @@
 ---
 title: "How Many Dudes? : le roguelike qui fait des maths avec des bonshommes, et c'est brillant"
-seoTitle: "How Many Dudes? : test et avis du roguelike autobattler"
+seoTitle: "How Many Dudes? : test et avis"
 slug: "how-many-dudes-test"
 category: "tests"
 excerpt: "42 bonshommes, 850 000 compositions possibles et des synergies qui cassent le jeu. Butterscotch Shenanigans signe un autobattler aussi bête que génial."

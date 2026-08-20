@@ -1,6 +1,6 @@
 ---
 title: "Star Citizen, one billion dollars and still no game: what this number says about our industry"
-seoTitle: "Star Citizen 1 billion: analysis of gaming's most fascinating case"
+seoTitle: "Star Citizen hits one billion"
 slug: "star-citizen-un-milliard-industrie"
 category: "industrie"
 excerpt: "On May 24, 2026, the official Roberts Space Industries counter displayed $1,000,732,962. Fourteen years of development, 6.5 million registered players, a $5,000 ship sold the same day. And still no release date."

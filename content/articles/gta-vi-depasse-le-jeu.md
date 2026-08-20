@@ -1,6 +1,7 @@
 ---
 title: "GTA VI : le jeu qui dépasse déjà le jeu"
 slug: "gta-vi-depasse-le-jeu"
+seoTitle: "Grand Theft Auto VI : dossier"
 category: "dossiers"
 excerpt: "Quand GTA VI arrive, ce n'est pas juste une sortie. C'est un moment culturel. Le jeu qui redevient un phénomène de société."
 date: "2026-04-16"

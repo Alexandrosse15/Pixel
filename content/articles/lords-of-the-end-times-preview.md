@@ -1,6 +1,6 @@
 ---
 title: "Lords of the End Times : Boris Todbringer arrive enfin, et j'attends ça depuis douze ans"
-seoTitle: "Total War WARHAMMER III Lords of the End Times : preview du DLC"
+seoTitle: "Lords of the End Times : preview"
 slug: "lords-of-the-end-times-preview"
 category: "previews"
 excerpt: "Quatre seigneurs légendaires, le plus gros DLC de la série selon Creative Assembly, et une mise à jour gratuite qui refond les Comtes Vampires."

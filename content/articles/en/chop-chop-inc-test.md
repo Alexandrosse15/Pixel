@@ -1,6 +1,6 @@
 ---
 title: "Chop Chop Inc.: another gathering game, but this one has the good sense to end up as a production line"
-seoTitle: "Chop Chop Inc.: review of the logging and automation game"
+seoTitle: "Chop Chop Inc.: review"
 slug: "chop-chop-inc-test"
 category: "tests"
 excerpt: "Fell trees, cut planks, build absurd furniture and automate the lot. Dumb and effective, for the price of two coffees."

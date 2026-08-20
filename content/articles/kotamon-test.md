@@ -1,6 +1,6 @@
 ---
 title: "KOTAMON : ramasser les ordures pour collectionner des cartes, et une idée qui méritait mieux que ses dessins"
-seoTitle: "KOTAMON : test et avis du jeu de collection de cartes et de déchetterie"
+seoTitle: "KOTAMON : test et avis"
 slug: "kotamon-test"
 category: "tests"
 excerpt: "Fouiller une décharge à son rythme, réparer des cartes abîmées, en échanger de meilleures. Une ambiance réussie, et un choix artistique discutable."

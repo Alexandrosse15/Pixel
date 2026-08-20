@@ -1,6 +1,6 @@
 ---
 title: "gen ATLAS: après Ico et Shadow of the Colossus, on espère que Fumito Ueda égalera ces précédentes oeuvres"
-seoTitle: "gen ATLAS : preview du nouveau jeu de Fumito Ueda"
+seoTitle: "gen ATLAS : preview"
 slug: "gen-atlas-preview"
 category: "previews"
 excerpt: "Le créateur de Shadow of the Colossus revient avec gen ATLAS. Un colosse, un monde mort, une planète abandonnée: et une exclusivité Epic qui fait déjà mal."

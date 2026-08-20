@@ -1,6 +1,6 @@
 ---
 title: "Guide de survie The Left Behind : survivre au cycle jour-nuit, piller, se barricader et gérer la permadeath"
-seoTitle: "The Left Behind : guide de survie et astuces"
+seoTitle: "The Left Behind : guide"
 slug: "the-left-behind-survival-guide"
 category: "guides"
 excerpt: "Le guide de survie de The Left Behind : maîtriser le cycle jour-nuit, bien piller, gérer faim, soif et santé, se barricader pour la nuit et survivre à la permadeath sans sauvegarde."

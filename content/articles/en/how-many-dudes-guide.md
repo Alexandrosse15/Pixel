@@ -1,6 +1,6 @@
 ---
 title: "How Many Dudes? guide: building synergies that break the game, family by family"
-seoTitle: "How Many Dudes?: synergy and combo strategy guide"
+seoTitle: "How Many Dudes?: guide"
 slug: "how-many-dudes-guide"
 category: "guides"
 excerpt: "The strategy guide to How Many Dudes?: understanding the six families, building runaway synergies, managing your pivots and finding the combos that break everything."

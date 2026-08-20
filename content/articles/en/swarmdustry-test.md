@@ -1,6 +1,6 @@
 ---
 title: "Swarmdustry: Factorio with the viewpoint flipped, and this time the bugs win"
-seoTitle: "Swarmdustry: review of the organic factory game"
+seoTitle: "Swarmdustry: review"
 slug: "swarmdustry-test"
 category: "tests"
 excerpt: "A living hive to grow, genetic codes to unlock, workers to mutate. The factory is no longer made of steel, it is made of flesh."

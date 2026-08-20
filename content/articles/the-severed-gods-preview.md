@@ -1,6 +1,6 @@
 ---
 title: "The Severed Gods : oui c'est très joli, oui ça ressemble beaucoup à Octopath, mais il y a de vraies idées dessous"
-seoTitle: "The Severed Gods : preview du RPG tactique roguelite"
+seoTitle: "The Severed Gods : preview"
 slug: "the-severed-gods-preview"
 category: "previews"
 excerpt: "Du combat en hauteur, des membres à sectionner sur des Titans, du karma. De vraies idées neuves, dans un habillage qui cherche encore son identité."

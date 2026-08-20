@@ -1,6 +1,6 @@
 ---
 title: "Guide MARVEL Tokon Fighting Souls : mécaniques, composition d'équipe et stratégie de chaque champion"
-seoTitle: "MARVEL Tokon Fighting Souls : guide des personnages et stratégies"
+seoTitle: "MARVEL Tokon: Fighting Souls, guide"
 slug: "marvel-tokon-fighting-souls-guide"
 category: "guides"
 excerpt: "Le guide complet MARVEL Tokon : maîtriser la barre de vie unique, composer son équipe de quatre, et l'archétype et la stratégie de chaque champion du roster."

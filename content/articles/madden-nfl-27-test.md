@@ -1,6 +1,6 @@
 ---
 title: "Madden NFL 27 : avant de parler du jeu, parlons de ce que ce sport fait aux têtes"
-seoTitle: "Madden NFL 27 : test et avis du simulateur de football américain"
+seoTitle: "EA SPORTS Madden NFL 27 : test et avis"
 slug: "madden-nfl-27-test"
 category: "tests"
 excerpt: "Le Persona Engine et la réception minutée changent vraiment quelque chose. Mais à 70 euros, l'accueil des joueurs reste tiède."

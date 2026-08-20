@@ -1,6 +1,6 @@
 ---
 title: "Mr. President : diriger les États-Unis de crise en crise, un jeu de gestion présidentiel comme on n'en voyait plus"
-seoTitle: "Mr. President : test et avis du jeu de gestion"
+seoTitle: "Mr. President : test et avis"
 slug: "mr-president-test"
 category: "tests"
 excerpt: "Vous avez gagné l'élection, maintenant gouvernez. Plus de 150 crises, la Russie et la Chine en rivales : un sim de présidence dense qui comble un vrai manque."

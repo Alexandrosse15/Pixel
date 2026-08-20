@@ -1,6 +1,6 @@
 ---
 title: "Star Citizen, un milliard de dollars et toujours pas de jeu : ce que ce chiffre dit de notre industrie"
-seoTitle: "Star Citizen 1 milliard : analyse du cas le plus fascinant du jeu vidéo"
+seoTitle: "Star Citizen : le cap du milliard"
 slug: "star-citizen-un-milliard-industrie"
 category: "industrie"
 excerpt: "Le 24 mai 2026, le compteur officiel de Roberts Space Industries a affiché 1 000 732 962 dollars. Quatorze ans de développement, 6,5 millions de joueurs enregistrés, un vaisseau à 5 000 dollars vendu le même jour. Et toujours pas de date de sortie."

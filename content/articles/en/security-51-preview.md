@@ -1,6 +1,6 @@
 ---
 title: "Security 51: another Papers Please, except the real question here is not who you let in"
-seoTitle: "Security 51: preview of the horror security guard simulator"
+seoTitle: "Security 51: preview"
 slug: "security-51-preview"
 category: "previews"
 excerpt: "The bureaucratic stamp meets SCP paranoia. Its real find: you are also responsible for what leaves the bunker."

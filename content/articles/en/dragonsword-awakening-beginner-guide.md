@@ -1,6 +1,6 @@
 ---
 title: "How to start well in DragonSword Awakening: first hours, starter team and resources not to waste"
-seoTitle: "DragonSword Awakening: beginner guide, how to start"
+seoTitle: "DragonSword Awakening: guide"
 slug: "dragonsword-awakening-beginner-guide"
 category: "guides"
 excerpt: "The DragonSword Awakening beginner guide: where to start, which first team to level, the mechanics to learn first and the resources you must not waste."

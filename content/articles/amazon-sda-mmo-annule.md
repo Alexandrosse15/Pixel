@@ -1,6 +1,6 @@
 ---
 title: "Le MMO Seigneur des Anneaux d'Amazon est annulé, et on était peut-être les derniers à y croire"
-seoTitle: "MMO Seigneur des Anneaux annulé : bilan Amazon Games"
+seoTitle: "MMO Seigneur des Anneaux annulé"
 slug: "amazon-sda-mmo-annule"
 category: "industrie"
 excerpt: "Amazon vient de confirmer l'annulation de son MMO Seigneur des Anneaux. Breakaway, Crucible, New World en fin de vie, deux tentatives LOTR ratées : le bilan d'un studio qui n'aurait jamais dû toucher à cette licence."

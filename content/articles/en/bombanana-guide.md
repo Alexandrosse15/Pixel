@@ -1,6 +1,6 @@
 ---
 title: "BOMBANANA! guide: the three roles, communicating despite the handicaps and defusing without blowing everything up"
-seoTitle: "BOMBANANA!: complete guide to roles and defusal"
+seoTitle: "BOMBANANA!: guide"
 slug: "bombanana-guide"
 category: "guides"
 excerpt: "The complete BOMBANANA! guide: understanding the blind, deaf and mute roles, setting up a communication code and defusing the banana bomb in time."

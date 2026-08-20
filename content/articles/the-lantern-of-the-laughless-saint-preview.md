@@ -1,6 +1,6 @@
 ---
 title: "The Lantern of the Laughless Saint : on était là il y a 24 ans, alors permettez qu'on soit exigeants"
-seoTitle: "The Lantern of the Laughless Saint : preview du RPG inspiré de Morrowind"
+seoTitle: "The Lantern of the Laughless Saint"
 slug: "the-lantern-of-the-laughless-saint-preview"
 category: "previews"
 excerpt: "Un RPG en monde ouvert qui invoque Morrowind dès sa bande-annonce. Les testeurs du playtest, eux, ne sont pas tous d'accord."

@@ -1,6 +1,7 @@
 ---
 title: "Cthulhu: The Cosmic Abyss: diving into the unknown, at the risk of getting lost"
 slug: "cthulhu-cosmic-abyss-test"
+seoTitle: "Cthulhu: The Cosmic Abyss, review"
 category: "tests"
 excerpt: "Cthulhu: The Cosmic Abyss doesn't try to scare you. It tries to provoke something rarer: unease. A slow descent toward what surpasses us, faithful to the Lovecraftian spirit, but not without concessions."
 date: "2026-04-17"

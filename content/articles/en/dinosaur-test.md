@@ -1,6 +1,6 @@
 ---
 title: "Dinosaur: very pretty, very empty, and a long way from what Zoo Tycoon already did in 2002"
-seoTitle: "Dinosaur: review of the dinosaur island sandbox"
+seoTitle: "Dinosaur: review"
 slug: "dinosaur-test"
 category: "tests"
 excerpt: "An island editor with no limits, 50+ species and the ability to control a dinosaur. But no trace of the management that defines the genre."

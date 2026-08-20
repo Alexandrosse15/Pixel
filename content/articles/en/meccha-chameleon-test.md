@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon: the hide-and-seek where you paint yourself as a slab of meat to survive"
-seoTitle: "Meccha Chameleon review: the paint hide-and-seek game (chameleon)"
+seoTitle: "Meccha Chameleon: review"
 slug: "meccha-chameleon-test"
 category: "tests"
 excerpt: "A hide-and-seek where you paint your white body to blend into the scenery. Meccha Chameleon turns camouflage into an art, and it is gloriously absurd."

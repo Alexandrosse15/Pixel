@@ -1,6 +1,6 @@
 ---
 title: "Yoshi et le Livre Mystérieux : Good Feel réinvente Yoshi depuis zéro"
-seoTitle: "Yoshi et le Livre Mystérieux test : notre avis sur le jeu Switch 2"
+seoTitle: "Yoshi and the Mysterious Book : test"
 slug: "yoshi-mysterious-book-test"
 category: "tests"
 excerpt: "Good Feel ne refait pas Crafted World. Ils construisent quelque chose qui n'a pas de nom de genre précis : un bac à sable en scrolling latéral où chaque niveau est une créature à comprendre. C'est inventif, beau, et quasi sans défi."

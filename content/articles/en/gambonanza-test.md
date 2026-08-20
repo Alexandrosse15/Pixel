@@ -1,6 +1,7 @@
 ---
 title: "Gambonanza: Balatro had genius, this one has a template"
 slug: "gambonanza-test"
+seoTitle: "Gambonanza: review"
 category: "tests"
 excerpt: "Chess roguelite with synergies, gambits, and pachinko minigames. The idea is excellent. The execution left us cold. Maybe we missed the essence. Maybe the essence isn't there."
 date: "2026-05-02"

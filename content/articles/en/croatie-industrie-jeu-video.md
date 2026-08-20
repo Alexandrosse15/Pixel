@@ -1,6 +1,6 @@
 ---
 title: "How Croatia quietly became a video game superpower"
-seoTitle: "Croatia, the quiet video game superpower"
+seoTitle: "Croatia, quiet gaming superpower"
 slug: "croatie-industrie-jeu-video"
 category: "industrie"
 excerpt: "A country of under four million people, SCUM, Serious Sam, The Talos Principle and nearly 150 games on Steam: inside the Croatian miracle."

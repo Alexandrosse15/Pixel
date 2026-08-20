@@ -1,6 +1,7 @@
 ---
 title: "Mixtape : la plus belle compile de 2026"
 slug: "mixtape-test"
+seoTitle: "Mixtape : test et avis"
 category: "tests"
 excerpt: "Beethoven & Dinosaur revient avec la fin du lycée et des souvenirs qu'on croyait avoir rangés. La bande originale est magnifique. On a retourné la cassette."
 date: "2026-05-08"

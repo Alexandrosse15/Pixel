@@ -1,6 +1,7 @@
 ---
 title: "Vampire Crawlers : l'addiction en embuscade ?"
 slug: "vampire-crawlers-preview"
+seoTitle: "Vampire Crawlers : preview"
 category: "previews"
 excerpt: "Roguelite, deckbuilding, action en temps réel. Sur le papier, c'est simple. Dans les faits, c'est beaucoup plus malin. Et on a pu y jouer."
 date: "2026-04-17"

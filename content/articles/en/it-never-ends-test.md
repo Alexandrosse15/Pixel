@@ -1,6 +1,6 @@
 ---
 title: "I.T. Never Ends: I genuinely did this job, and ticket 666 did nothing to me, unlike the user"
-seoTitle: "I.T. Never Ends: review of the tech support simulator"
+seoTitle: "I.T. Never Ends: review"
 slug: "it-never-ends-test"
 category: "tests"
 excerpt: "Processing tickets for a company run by cosmic horrors. An office comedy that lands, in a deliberately narrow format."

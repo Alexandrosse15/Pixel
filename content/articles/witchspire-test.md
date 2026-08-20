@@ -1,6 +1,6 @@
 ---
 title: "Witchspire: la survie magique qui refuse de vous punir, et c'est un sortilège qui opère"
-seoTitle: "Witchspire : test de l'accès anticipé sorcier"
+seoTitle: "Witchspire : test et avis"
 slug: "witchspire-test"
 category: "tests"
 excerpt: "Ni faim ni durabilité, des familiers à choyer, la construction par projection astrale: Witchspire fait de la survie un conte de sorcières cosy."

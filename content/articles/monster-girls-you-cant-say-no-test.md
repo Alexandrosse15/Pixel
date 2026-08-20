@@ -1,6 +1,6 @@
 ---
 title: "Monster Girls: You Can't Say No, ou le jeu adulte qui assume tellement qu'il en devient presque honnête"
-seoTitle: "Monster Girls You Can't Say No : test et avis du jeu adulte de Lewd Star"
+seoTitle: "Monster Girls: You Can't Say No, test"
 slug: "monster-girls-you-cant-say-no-test"
 category: "tests"
 excerpt: "Un jeu pour adultes sorti sur Steam, très bien noté par ses joueurs. On en parle sans détour et sans image, parce qu'aucune n'est publiable ici."

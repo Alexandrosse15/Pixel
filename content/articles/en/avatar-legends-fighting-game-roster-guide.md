@@ -1,6 +1,6 @@
 ---
 title: "Avatar Legends The Fighting Game character guide: all 12 fighters, their styles and where to start"
-seoTitle: "Avatar Legends The Fighting Game: guide to every character"
+seoTitle: "Avatar Legends The Fighting Game: guide"
 slug: "avatar-legends-fighting-game-roster-guide"
 category: "guides"
 excerpt: "The complete Avatar Legends roster guide: archetype, playstyle, difficulty and strengths of all 12 fighters, plus the Flow system and the best characters to start with."

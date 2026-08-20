@@ -1,6 +1,7 @@
 ---
 title: "Adorable Adventures: Boris the baby boar and the art of not rushing"
 slug: "adorable-adventures-test"
+seoTitle: "Adorable Adventures: review"
 category: "tests"
 excerpt: "A baby boar, a forest fire, a family to find. Adorable Adventures dares to be gentle in a landscape that no longer is. It's refreshing at a level we hadn't anticipated."
 date: "2026-04-30"

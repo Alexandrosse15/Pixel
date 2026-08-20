@@ -1,6 +1,7 @@
 ---
 title: "Saros : beau, couloir, et déjà vu"
 slug: "saros-test"
+seoTitle: "Saros : test et avis"
 category: "tests"
 excerpt: "Un TPS soigné, une direction artistique qui tient la route, un flingue qui a de la gueule. Mais on a l'impression d'avoir joué à ça il y a dix ans."
 date: "2026-04-29"

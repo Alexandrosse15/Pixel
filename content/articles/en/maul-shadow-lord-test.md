@@ -1,6 +1,6 @@
 ---
 title: "Maul: Shadow Lord is the most beautiful Star Wars since Andor (and by far the meanest)"
-seoTitle: "Maul Shadow Lord review: the Star Wars series"
+seoTitle: "Maul: Shadow Lord, review"
 slug: "maul-shadow-lord-test"
 category: "cinema"
 excerpt: "A hand-painted art direction, an Inquisitor on steroids, a Vader who walks through the wall like a slasher villain. We watched season 1 of Maul: Shadow Lord and we are not over it."

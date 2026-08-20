@@ -1,6 +1,6 @@
 ---
 title: "Elsewar : encore un deckbuilder ? Oui, mais un bon, qui mise tout sur l'usure de la guerre"
-seoTitle: "Elsewar : test et avis du roguelike deckbuilder"
+seoTitle: "Elsewar : test et avis"
 slug: "elsewar-test"
 category: "tests"
 excerpt: "Un roguelike deckbuilder fantasy où l'on gère l'attrition d'une armée à coups de synergies. Prometteur et malin, même s'il est encore en Accès Anticipé."

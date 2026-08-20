@@ -1,6 +1,6 @@
 ---
 title: "Corsair Cove: I spent more time admiring my stronghold than raiding the seas, and that says it all"
-seoTitle: "Corsair Cove: review of the pirate city-builder"
+seoTitle: "Corsair Cove: review"
 slug: "corsair-cove-test"
 category: "tests"
 excerpt: "The most beautiful pirate stronghold I have ever built. Shame that the moment you leave port to fight, the magic drops all at once."

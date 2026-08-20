@@ -1,6 +1,6 @@
 ---
 title: "Waterpark Simulator : construire son parc aquatique et envoyer valser ses visiteurs, ça tape à l'oeil"
-seoTitle: "Waterpark Simulator : test et avis du jeu de gestion"
+seoTitle: "Waterpark Simulator : test et avis"
 slug: "waterpark-simulator-test"
 category: "tests"
 excerpt: "Bâtir des toboggans, gérer son parc et voir ses visiteurs partir en vrille façon ragdoll. Un gestionnaire fun et spectaculaire, encore un peu vert en Accès Anticipé."

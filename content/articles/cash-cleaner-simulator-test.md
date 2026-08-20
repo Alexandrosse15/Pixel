@@ -1,6 +1,7 @@
 ---
 title: "Cash Cleaner Simulator : on voulait être Marty Byrde, on est devenus pressing"
 slug: "cash-cleaner-simulator-test"
+seoTitle: "Cash Cleaner Simulator : test et avis"
 category: "tests"
 excerpt: "On voulait être Marty Byrde. On est devenus pressing. Cash Cleaner Simulator nous a appris que blanchir de l'argent, c'est surtout de la lessive."
 date: "2026-05-06"

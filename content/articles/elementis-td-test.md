@@ -1,6 +1,6 @@
 ---
 title: "Elementis TD : le tower defense où vos meilleures tours nourrissent l'ennemi"
-seoTitle: "Elementis TD : test et avis du tower defense"
+seoTitle: "Elementis TD : test et avis"
 slug: "elementis-td-test"
 category: "tests"
 excerpt: "Vos tours les plus dévastatrices alimentent la Corruption qui renforce vos ennemis. Un tower defense bâti sur un dilemme malin, exigeant et prenant."

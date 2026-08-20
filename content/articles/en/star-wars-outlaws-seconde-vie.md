@@ -1,6 +1,7 @@
 ---
 title: "Back to the Outer Rim: why Star Wars Outlaws truly deserves a second chance"
 slug: "star-wars-outlaws-seconde-vie"
+seoTitle: "Star Wars Outlaws: deep dive"
 category: "dossiers"
 excerpt: "At launch, many saw it as an unfinished game. A promising open world, undermined by flaws that prevented you from enjoying it fully. Coming back to Outlaws today means rediscovering a transformed game."
 date: "2026-04-16"

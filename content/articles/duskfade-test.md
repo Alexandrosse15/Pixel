@@ -1,6 +1,6 @@
 ---
 title: "Duskfade : la fluidité vous rappelle Jet Set Radio Future, la filiation réelle est ailleurs"
-seoTitle: "Duskfade : test et avis du platformer d'action en 3D"
+seoTitle: "Duskfade : test et avis"
 slug: "duskfade-test"
 category: "tests"
 excerpt: "Sauter, s'élancer, planer et trancher dans un monde figé dans une nuit éternelle. Une lettre d'amour assumée aux platformers 3D d'antan."

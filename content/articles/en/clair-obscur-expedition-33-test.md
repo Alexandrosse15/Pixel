@@ -1,6 +1,7 @@
 ---
 title: "Clair Obscur Expedition 33: between artistic brilliance and very visible limits"
 slug: "clair-obscur-expedition-33-test"
+seoTitle: "Clair Obscur Expedition 33: review"
 category: "tests"
 excerpt: "Rarely has an RPG given such a strong impression of being both highly accomplished in its intentions and still fragile in its execution. That tension is precisely what makes the game fascinating, and frustrating."
 date: "2026-04-16"

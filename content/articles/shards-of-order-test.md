@@ -1,6 +1,6 @@
 ---
 title: "Shards of Order est un RPG de cartes sans tours ni mana d'une beauté sombre, et son combat au chrono change tout"
-seoTitle: "Shards of Order : test et avis du RPG de cartes"
+seoTitle: "Shards of Order : test et avis"
 slug: "shards-of-order-test"
 category: "tests"
 excerpt: "Un RPG de cartes dark fantasy qui jette le manuel : ni tours, ni mana, mais un système de temps où chaque carte rapproche ou éloigne l'action ennemie. Superbe et malin."

@@ -1,6 +1,7 @@
 ---
 title: "Rainbow Six Siege in 2026: ten years to become the game it should have been from day one"
 slug: "rainbow-six-siege-dix-ans"
+seoTitle: "Rainbow Six Siege X: deep dive"
 category: "dossiers"
 excerpt: "It took ten years, thousands of patches, a rebrand and a massive update for Siege to finally become the game Ubisoft promised in 2015. That's a long time. It's also, somehow, a little beautiful."
 date: "2026-04-19"

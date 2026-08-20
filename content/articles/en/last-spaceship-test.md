@@ -1,6 +1,6 @@
 ---
 title: "Last Spaceship: restoring a stellar wreck, one puzzle at a time, in a silence that speaks"
-seoTitle: "Last Spaceship: review of the puzzle adventure"
+seoTitle: "Last Spaceship: review"
 slug: "last-spaceship-test"
 category: "tests"
 excerpt: "An abandoned ship, puzzles that interlock and humanity's final legacy to piece together. A cozy, atmospheric adventure that takes its time."

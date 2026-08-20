@@ -1,6 +1,6 @@
 ---
 title: "Mexican Ninja : Nuevo-Tokyo, les Narkuzas et un beat'em up qui carbure à l'excès assumé"
-seoTitle: "Mexican Ninja : test et avis du beat em up roguelike"
+seoTitle: "Mexican Ninja : test et avis"
 slug: "mexican-ninja-test"
 category: "tests"
 excerpt: "Le Japon et le Mexique entrés en collision, un régime féodal de narcos et de yakuzas, et des Jutsus mexicains ridicules. Exactement ce qu'il annonce."

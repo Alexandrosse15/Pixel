@@ -1,6 +1,6 @@
 ---
 title: "On a transformé la roulette en obsession : Bingle Bingle est le roguelike qui n'aurait jamais dû marcher"
-seoTitle: "Bingle Bingle : test et avis du roguelike de roulette"
+seoTitle: "Bingle Bingle : test et avis"
 slug: "bingle-bingle-test"
 category: "tests"
 excerpt: "Construire sa propre roulette, empiler les synergies, ruiner le casino. Le rejeton de Balatro et du tapis vert passe en 1.0, et il a dévoré nos nuits."

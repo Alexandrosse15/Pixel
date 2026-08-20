@@ -1,6 +1,6 @@
 ---
 title: "The Adventures of Elliot: The Millennium Tales : Team Asano quitte le tour par tour et c'est splendide"
-seoTitle: "The Adventures of Elliot Millennium Tales preview : action RPG HD-2D, notre avis"
+seoTitle: "The Adventures of Elliot : preview"
 slug: "elliot-millennium-tales-preview"
 category: "previews"
 excerpt: "Square Enix et Team Asano appliquent leur maîtrise du HD-2D à un action RPG en temps réel, entre Zelda et Secret of Mana. La direction artistique est à couper le souffle. La fée est insupportable. Le 18 juin 2026 sur Switch 2, PS5, Xbox et PC."

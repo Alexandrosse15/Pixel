@@ -1,6 +1,6 @@
 ---
 title: "Starsand Island : mignon, simple, sans la moindre difficulté, et c'est exactement ce qu'il vend"
-seoTitle: "Starsand Island : test et avis du life sim en version 1.0"
+seoTitle: "Starsand Island : test et avis"
 slug: "starsand-island-test"
 category: "tests"
 excerpt: "Une île adorable, une boucle qui accroche, et un contenu qui s'épuise vite. Version 1.0 aujourd'hui, avec une affaire d'avis Steam en toile de fond."

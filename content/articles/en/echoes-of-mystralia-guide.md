@@ -1,6 +1,6 @@
 ---
 title: "Echoes of Mystralia guide: understanding spell crafting and starting your first runs well"
-seoTitle: "Echoes of Mystralia: guide to spell crafting and early runs"
+seoTitle: "Echoes of Mystralia: guide"
 slug: "echoes-of-mystralia-guide"
 category: "guides"
 excerpt: "How combining memories works, how to approach runs, and what to prioritise at the Azimuth Temple between expeditions."

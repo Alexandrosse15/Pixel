@@ -1,6 +1,7 @@
 ---
 title: "Masters of Albion: the return of the god game, or Peter Molyneux's last promise?"
 slug: "masters-of-albion-preview"
+seoTitle: "Masters of Albion: preview"
 category: "previews"
 excerpt: "With Masters of Albion, Peter Molyneux returns to what he does best: the god game. A fascinating, vertiginously ambitious project that reopens questions gaming had stopped asking for too long."
 date: "2026-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "Together in Forgotten Lands: the co-op that will have you waiting ten minutes in front of a jump, and that is exactly what was missing"
-seoTitle: "Together in Forgotten Lands: review of the two-player co-op game"
+seoTitle: "Together in Forgotten Lands: review"
 slug: "together-in-forgotten-lands-test"
 category: "tests"
 excerpt: "Two players required, no solo, no AI. Puzzles of light, rhythm and platforming inside a cave that keeps changing its rules."

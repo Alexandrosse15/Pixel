@@ -1,6 +1,7 @@
 ---
 title: "Pokopia: the cozy game that got lost in the grind"
 slug: "pokopia-test"
+seoTitle: "Pokopia: review"
 category: "tests"
 excerpt: "There's a promise behind Pokopia: a relaxing experience set in the Pokémon universe. On paper, it's a dream. In practice, it's a grind game that lost its identity."
 date: "2026-04-17"

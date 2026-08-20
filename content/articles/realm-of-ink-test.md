@@ -1,6 +1,7 @@
 ---
 title: "Realm of Ink : bon roguelite ou clone de plus ?"
 slug: "realm-of-ink-test"
+seoTitle: "Realm of Ink : test et avis"
 category: "tests"
 excerpt: "Direction artistique encre et calligraphie qui capte l'attention immédiatement. Dans un genre aussi saturé : est-ce que ça suffit à faire un bon jeu ?"
 date: "2026-05-26"

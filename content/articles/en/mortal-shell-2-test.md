@@ -1,6 +1,6 @@
 ---
 title: "Mortal Shell II: a world of ash, eight shells to possess, and the best souls-like outside FromSoftware"
-seoTitle: "Mortal Shell II: review of the Cold Symmetry souls-like"
+seoTitle: "Mortal Shell II: review"
 slug: "mortal-shell-2-test"
 category: "tests"
 excerpt: "No stamina, a compact open world, eight dead warriors to inhabit. Cold Symmetry turns a tech demo into an actual game."

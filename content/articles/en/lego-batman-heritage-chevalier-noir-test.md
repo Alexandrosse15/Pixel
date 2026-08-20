@@ -1,6 +1,6 @@
 ---
 title: "LEGO Batman: Legacy of the Dark Knight is the best thing to happen to Batman since Arkham"
-seoTitle: "LEGO Batman Legacy of the Dark Knight review: our verdict"
+seoTitle: "LEGO Batman: Legacy of the Dark Knight"
 slug: "lego-batman-heritage-chevalier-noir-test"
 category: "tests"
 excerpt: "A LEGO game that pays tribute to every version of Batman from Tim Burton to Reeves' The Batman, with a combat system borrowed from the Arkham games and a Gotham open world among the best of the year. Nobody saw it coming."

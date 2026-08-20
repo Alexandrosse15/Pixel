@@ -1,6 +1,6 @@
 ---
 title: "FD 27 : la question n'est pas de battre Football Manager, c'est qu'il joue à un autre poste"
-seoTitle: "FD 27 Direct Your Football Club : test et avis du jeu de gestion"
+seoTitle: "FD 27: Direct Your Football Club, test"
 slug: "fd-27-test"
 category: "tests"
 excerpt: "Vous n'êtes pas sur le banc, vous êtes dans le bureau. Une vraie idée de design qui règle le dilemme entre simplicité et profondeur."

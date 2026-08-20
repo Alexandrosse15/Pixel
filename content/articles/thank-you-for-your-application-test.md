@@ -1,6 +1,6 @@
 ---
 title: "Thank You For Your Application fait de vous le bourreau du marché du travail, et c'est sa pire et sa meilleure idée"
-seoTitle: "Thank You For Your Application : test et avis"
+seoTitle: "Thank You For Your Application : test"
 slug: "thank-you-for-your-application-test"
 category: "tests"
 excerpt: "On a passé des heures à trier des CV et signer des refus dans la satire RH de No More Robots. Cynique, juste, et parfois aussi répétitif que le boulot qu'il moque."

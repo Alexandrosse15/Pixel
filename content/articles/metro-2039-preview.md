@@ -1,6 +1,7 @@
 ---
 title: "Metro 2039 : Artyom peut se reposer, Hunter a pris le contrôle"
 slug: "metro-2039-preview"
+seoTitle: "Metro 2039 : preview"
 category: "previews"
 excerpt: "Nouveau protagoniste, Hunter devenu Führer d'un Novoreich qui a conquis tout le métro. Les Sombres plus menaçants que jamais. On est là."
 date: "2026-05-06"

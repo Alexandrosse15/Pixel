@@ -1,6 +1,6 @@
 ---
 title: "Dans God For A Day, vous jugez les âmes d'une ville entière, et ce petit jeu solo vous renvoie surtout à vos propres préjugés"
-seoTitle: "God For A Day : test du jeu de jugement indé"
+seoTitle: "God For A Day : test et avis"
 slug: "god-for-a-day-test"
 category: "tests"
 excerpt: "Fils de Dieu pour deux heures, vous fouillez la vie des gens avant de les bénir ou de les damner. Trois ans de travail solo, zéro IA, et un vrai malaise délicieux."

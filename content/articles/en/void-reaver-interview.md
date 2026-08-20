@@ -1,6 +1,6 @@
 ---
 title: "Void Reaver: six people, zero AI art, and an inventory roguelite that wants you to play Tetris between demon waves"
-seoTitle: "Void Reaver: interview with Banana Blitz Studio"
+seoTitle: "Void Reaver: preview"
 slug: "void-reaver-interview"
 category: "previews"
 excerpt: "A conversation with Banana Blitz Studio, the team behind Void Reaver: six people spread across France, trained on WoW, convinced that the heart of a roguelite lives in the inventory."

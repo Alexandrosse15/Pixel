@@ -1,6 +1,6 @@
 ---
 title: "Machine Party: the Buckshot Roulette creator turns game night into a joyous massacre"
-seoTitle: "Machine Party: review of the co-op party game"
+seoTitle: "Machine Party: review"
 slug: "machine-party-test"
 category: "tests"
 excerpt: "Fifteen minigames where failure is lethal and betrayal encouraged. The new Mike Klubnika is as cruel as it is brilliant, provided you have friends to sacrifice."

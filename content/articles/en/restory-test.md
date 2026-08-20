@@ -1,6 +1,6 @@
 ---
 title: "ReStory: I was that guy everyone brings their broken things to, and this game just sent me twenty years back"
-seoTitle: "ReStory Chill Electronics Repairs: review of the repair simulator"
+seoTitle: "ReStory: Chill Electronics Repairs"
 slug: "restory-test"
 category: "tests"
 excerpt: "Running a repair shop in mid-2000s Tokyo. A game that speaks to anyone who has ever been mistaken for an electronics wizard."

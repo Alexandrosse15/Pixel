@@ -1,6 +1,6 @@
 ---
 title: "Guide Lootbound : la grille d'inventaire est votre arbre de talents, voici comment la lire"
-seoTitle: "Lootbound : guide des auras, des quatre personnages et des salles de dés"
+seoTitle: "Lootbound : guide"
 slug: "lootbound-guide"
 category: "guides"
 excerpt: "Auras d'adjacence, quatre héros, quatre types de dégâts, dés à vingt faces et Gardien à construire. Tout ce qu'il faut comprendre avant votre première run."

@@ -1,6 +1,6 @@
 ---
 title: "Age of Empires 2 has a competitive scene in 2026. It's a miracle nobody really paid for."
-seoTitle: "Age of Empires 2: the competitive scene in 2026"
+seoTitle: "Age of Empires II: deep dive"
 slug: "age-of-empires-2-scene-competitive-dossier"
 category: "dossiers"
 excerpt: "A 1999 game, 40,000 active players, the same ten names at the top for ten years. How AoE2 resurrected a competitive scene that nobody was funding."

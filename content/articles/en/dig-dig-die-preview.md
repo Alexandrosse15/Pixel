@@ -1,6 +1,6 @@
 ---
 title: "Dig, Dig, Die: the co-op grave robbing that smells of Sea of Thieves, but with characters we have seen too much"
-seoTitle: "Dig, Dig, Die: preview of the co-op horror game"
+seoTitle: "Dig, Dig, Die: preview"
 slug: "dig-dig-die-preview"
 category: "previews"
 excerpt: "Robbing graves six-handed on a cursed flying ship, in Sea of Thieves-style chaos. Promising, despite characters that have become a little too generic."

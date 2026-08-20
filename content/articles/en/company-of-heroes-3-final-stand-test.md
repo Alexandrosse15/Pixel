@@ -1,6 +1,6 @@
 ---
 title: "Company of Heroes 3 Final Stand: why this standalone had no business being this good"
-seoTitle: "Company of Heroes 3 Final Stand: review and verdict"
+seoTitle: "Company of Heroes 3 Final Stand: review"
 slug: "company-of-heroes-3-final-stand-test"
 category: "tests"
 excerpt: "A survival mode sold standalone for 30 dollars reeked of opportunism. Except the co-op roguelite loop is far more gripping than we expected."

@@ -1,6 +1,6 @@
 ---
 title: "Fable (2026): six years of waiting, a PS5 announcement, and the question that still has no answer"
-seoTitle: "Fable 2026: Playground Games reboot, PS5 day one, our analysis"
+seoTitle: "Fable 2026: the Playground reboot"
 slug: "fable-reboot-2026"
 category: "industrie"
 excerpt: "Six years after the announcement, Fable releases in autumn 2026 on Xbox, PC and PS5 day one. Playground Games built something ambitious. The real question is whether we'd have preferred a sequel in the lineage of Fable 2."

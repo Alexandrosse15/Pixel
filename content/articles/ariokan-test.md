@@ -1,6 +1,6 @@
 ---
 title: "Ariokan laisse les joueurs créer leurs propres cartes et les équilibre tout seul, un pari fou pour un jeu de cartes"
-seoTitle: "Ariokan : test et avis du jeu de cartes en ligne"
+seoTitle: "Ariokan : test et avis"
 slug: "ariokan-test"
 category: "tests"
 excerpt: "Un jeu de cartes compétitif en ligne où l'on fabrique ses propres cartes, automatiquement équilibrées avant de rejoindre la bibliothèque commune. Ariokan ose casser le méta lui-même."

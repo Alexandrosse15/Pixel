@@ -1,6 +1,6 @@
 ---
 title: "Spyro: A Realm Beyond, le retour qu'on n'attendait plus, et pour une fois ce n'est pas un remake"
-seoTitle: "Spyro: A Realm Beyond, preview du nouveau Spyro"
+seoTitle: "Spyro: A Realm Beyond, preview"
 slug: "spyro-a-realm-beyond-preview"
 category: "previews"
 excerpt: "Pas un remake mais un vrai nouveau Spyro, signé Toys for Bob, avec le vol libre en mécanique centrale. Entre nostalgie PS1 et vigilance, on décortique."

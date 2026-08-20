@@ -1,6 +1,7 @@
 ---
 title: "Tides of Tomorrow: the world is drowning, and we believe anyway"
 slug: "tides-of-tomorrow-test"
+seoTitle: "Tides of Tomorrow: review"
 category: "tests"
 excerpt: "Tides of Tomorrow carries a brilliant idea: seeing other players' choices as visions of a possible future. The world is dying, decisions are impossible, and we push forward anyway. Like Waterworld. Like Fury Road."
 date: "2026-04-21"

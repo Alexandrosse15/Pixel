@@ -1,6 +1,6 @@
 ---
 title: "Guide Ultra-Nightmare DOOM The Dark Ages : survivre au mode le plus impitoyable, une seule vie"
-seoTitle: "DOOM The Dark Ages : guide Ultra-Nightmare (mode le plus dur)"
+seoTitle: "DOOM: The Dark Ages, guide"
 slug: "doom-the-dark-ages-ultra-nightmare-guide"
 category: "guides"
 excerpt: "Le guide complet pour boucler DOOM The Dark Ages en Ultra-Nightmare : parry, bouclier, gestion des ressources, priorité des ennemis et pièges mortels à éviter."

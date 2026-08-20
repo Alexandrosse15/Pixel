@@ -1,6 +1,6 @@
 ---
 title: "Ledgerbound : héros d'heroic fantasy, métier expert en assurances, et des collègues franchement obsédés"
-seoTitle: "Ledgerbound : preview du RPG tactique et dating sim"
+seoTitle: "Ledgerbound : preview"
 slug: "ledgerbound-preview"
 category: "previews"
 excerpt: "On refuse des sinistres, on remplit des formulaires RH avant de flirter, et on se bat sur une grille. L'écriture est drôle, le combat plus discutable."

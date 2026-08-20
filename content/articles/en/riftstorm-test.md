@@ -1,6 +1,6 @@
 ---
 title: "Riftstorm: PVE and nothing but PVE, which is exactly why it has to be flawless"
-seoTitle: "Riftstorm: review of the co-op PVE action game"
+seoTitle: "RIFTSTORM: review"
 slug: "riftstorm-test"
 category: "tests"
 excerpt: "Three players, rifts to close, builds that go off the rails mid-mission. No PVP, so no excuses on content quality."

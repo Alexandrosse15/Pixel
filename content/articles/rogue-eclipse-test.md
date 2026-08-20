@@ -1,6 +1,6 @@
 ---
 title: "Rogue Eclipse : un développeur seul livre le combat spatial que d'autres promettent depuis quatorze ans"
-seoTitle: "Rogue Eclipse : test et avis du roguelike de combat spatial"
+seoTitle: "Rogue Eclipse : test et avis"
 slug: "rogue-eclipse-test"
 category: "tests"
 excerpt: "Du combat spatial arcade, nerveux et lisible, par un seul développeur britannique financé par le label des créateurs d'Among Us."

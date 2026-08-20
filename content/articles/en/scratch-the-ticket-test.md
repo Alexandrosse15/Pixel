@@ -1,6 +1,6 @@
 ---
 title: "Scratch the Ticket: I was not going to write about it, it caught me, and that is precisely the problem"
-seoTitle: "Scratch the Ticket: review of the scratch card simulator"
+seoTitle: "Scratch the Ticket: review"
 slug: "scratch-the-ticket-test"
 category: "tests"
 excerpt: "Print tickets, scratch cells, cash out or risk it all. Fiercely effective, and perfectly aware of what it is imitating."

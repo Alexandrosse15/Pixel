@@ -1,6 +1,6 @@
 ---
 title: "Hell Let Loose Vietnam: the beta was a disaster, the studio delayed the game, and it launches today"
-seoTitle: "Hell Let Loose Vietnam: review and buyer's guide at launch"
+seoTitle: "Hell Let Loose: Vietnam, review"
 slug: "hell-let-loose-vietnam-test"
 category: "tests"
 excerpt: "Six maps, helicopters, tunnels and 50 versus 50 in the jungle. After a catastrophic beta, the studio delayed and reworked. Should you jump in?"

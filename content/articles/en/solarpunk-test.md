@@ -1,6 +1,6 @@
 ---
 title: "Solarpunk is a very pretty survival game that simply forgot to be solarpunk"
-seoTitle: "Solarpunk review: the airship survival game"
+seoTitle: "Solarpunk: review"
 slug: "solarpunk-test"
 category: "tests"
 excerpt: "Gorgeous, cozy, carried by an airship we love. But Solarpunk misses its own promise: it is a survival-craft like all the others."

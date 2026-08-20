@@ -1,6 +1,6 @@
 ---
 title: "Guide Mistfall Hunter : bien débuter l'extraction, survivre et repartir avec le butin"
-seoTitle: "Mistfall Hunter : guide de débutant pour l'extraction"
+seoTitle: "Mistfall Hunter : guide"
 slug: "mistfall-hunter-guide"
 category: "guides"
 excerpt: "Le guide de débutant Mistfall Hunter : comprendre la boucle d'extraction, gérer l'avidité, prioriser le butin, survivre aux rivaux et repartir vivant."

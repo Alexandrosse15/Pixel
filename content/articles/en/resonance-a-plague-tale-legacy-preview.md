@@ -1,6 +1,6 @@
 ---
 title: "Resonance A Plague Tale Legacy preview: the saga trades stealth for combat, and it could change everything"
-seoTitle: "Resonance A Plague Tale Legacy: preview and first impressions"
+seoTitle: "Resonance A Plague Tale Legacy: preview"
 slug: "resonance-a-plague-tale-legacy-preview"
 category: "previews"
 excerpt: "The third A Plague Tale drops stealth for nervous combat, on a mythical Minotaur island. Preview of Resonance, the Asobo prequel expected on 27 August 2026."

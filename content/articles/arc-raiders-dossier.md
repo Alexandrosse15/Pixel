@@ -1,6 +1,7 @@
 ---
 title: "ARC Raiders : il ne réinvente rien, il fait juste enfin les choses correctement"
 slug: "arc-raiders-dossier"
+seoTitle: "ARC Raiders : dossier"
 category: "dossiers"
 excerpt: "ARC Raiders ne réinvente rien. Il fait juste enfin les choses correctement. Dans un genre qui empile les cadavres, c'est presque révolutionnaire."
 date: "2026-04-26"

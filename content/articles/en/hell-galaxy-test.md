@@ -1,6 +1,6 @@
 ---
 title: "Hell Galaxy: while Star Citizen banked its billionth dollar, other studios were shipping spaceship games"
-seoTitle: "Hell Galaxy: review of the space shooter with a bio-ship pilot"
+seoTitle: "HELL GALAXY: review"
 slug: "hell-galaxy-test"
 category: "tests"
 excerpt: "An ex-convict fused into a ship, with a sanity gauge to watch as closely as the hull. Out for a year, and unfairly overlooked."

@@ -1,6 +1,6 @@
 ---
 title: "Elementis TD guide: mastering Corruption, choosing your towers and surviving the Eternal Vigil"
-seoTitle: "Elementis TD: Corruption and tower strategy guide"
+seoTitle: "Elementis TD: guide"
 slug: "elementis-td-guide"
 category: "guides"
 excerpt: "The strategy guide to Elementis TD: understanding Corruption, balancing corrupting and pure towers, fusing elements and holding the Eternal Vigil."

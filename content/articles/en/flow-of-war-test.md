@@ -1,6 +1,6 @@
 ---
 title: "Flow Of War: the RTS that automates the economy to keep only the pleasure of war"
-seoTitle: "Flow Of War: review of the wave-defense RTS"
+seoTitle: "Flow Of War: review"
 slug: "flow-of-war-test"
 category: "tests"
 excerpt: "An RTS where the workers manage the economy on their own so you can focus on the battle. A breath of fresh air, despite limited depth."

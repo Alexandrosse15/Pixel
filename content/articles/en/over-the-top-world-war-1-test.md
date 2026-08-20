@@ -1,6 +1,7 @@
 ---
 title: "Over the Top: World War 1: the Great War FPS that had no right to be this good"
 slug: "over-the-top-world-war-1-test"
+seoTitle: "Over the Top: World War 1, review"
 category: "tests"
 excerpt: "A tiny team, 200 simultaneous players, and a WWI immersion that brings back memories of Battlefield 1. Over the Top had no right to be this well made."
 date: "2026-04-25"

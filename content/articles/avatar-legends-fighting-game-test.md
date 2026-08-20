@@ -1,6 +1,6 @@
 ---
 title: "Avatar Legends The Fighting Game arrive enfin, et on se demande encore comment personne n'y avait pensé avant"
-seoTitle: "Avatar Legends The Fighting Game : test et avis"
+seoTitle: "Avatar Legends The Fighting Game : test"
 slug: "avatar-legends-fighting-game-test"
 category: "tests"
 excerpt: "Une licence bâtie sur les arts martiaux qui devient enfin un jeu de combat. Avatar Legends mise sur son système de Flow unique par personnage, et ça claque."

@@ -1,6 +1,6 @@
 ---
 title: "Mandate Order: superb fields, buildings that lag behind, and a Manor Lords that moved to ancient China"
-seoTitle: "Mandate Order: review of the ancient China city builder"
+seoTitle: "Mandate Order: review"
 slug: "mandate-order-test"
 category: "tests"
 excerpt: "Free-form building, farming seasons and thousand-unit battles in ancient China. Rich on paper, still rough in practice."

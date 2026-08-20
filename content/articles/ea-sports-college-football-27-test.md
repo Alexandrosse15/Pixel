@@ -1,6 +1,6 @@
 ---
 title: "EA Sports College Football 27 est un monument d'ambiance saboté par sa propre boutique"
-seoTitle: "College Football 27 : test, avis et verdict (EA Sports)"
+seoTitle: "EA Sports College Football 27 : test"
 slug: "ea-sports-college-football-27-test"
 category: "tests"
 excerpt: "Le mode Dynasty est un chef-d'oeuvre de gestion, l'ambiance des samedis américains est unique. Puis arrive Ultimate Team et sa boutique, et tout le vernis se fissure."

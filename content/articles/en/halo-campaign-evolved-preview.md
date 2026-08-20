@@ -1,6 +1,6 @@
 ---
 title: "Halo Campaign Evolved preview: the gorgeous remake of a monument, but the missing multiplayer leaves a void"
-seoTitle: "Halo Campaign Evolved: preview and first impressions"
+seoTitle: "Halo Campaign Evolved: preview"
 slug: "halo-campaign-evolved-preview"
 category: "previews"
 excerpt: "Just talking about it, the music resonates. Halo Campaign Evolved remakes Combat Evolved in Unreal Engine 5, sublime and faithful, but without the multiplayer that made the legend."

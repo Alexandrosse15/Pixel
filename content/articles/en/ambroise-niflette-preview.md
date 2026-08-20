@@ -1,6 +1,6 @@
 ---
 title: "Ambroise Niflette and the Gleaned Bell: James and the Giant Peach as a video game, and we've been waiting since 1996"
-seoTitle: "Ambroise Niflette: stop motion indie preview"
+seoTitle: "Ambroise Niflette and the Gleaned Bell"
 slug: "ambroise-niflette-preview"
 category: "previews"
 excerpt: "Breathtaking stop motion, adorable characters, Wallace and Gromit atmosphere. The Ambroise Niflette demo is the indie aesthetic shock of the year."

@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon guide: painting tips, poses, hiding spots, modes and tricks to win every round"
-seoTitle: "Meccha Chameleon: complete guide, tips, hiding spots and modes"
+seoTitle: "Meccha Chameleon: guide"
 slug: "meccha-chameleon-guide"
 category: "guides"
 excerpt: "Every tip to never get spotted again in Meccha Chameleon: the painting tool, poses that break your silhouette, the best hiding spots, seeker tactics and the three modes explained."

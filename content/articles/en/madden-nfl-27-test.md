@@ -1,6 +1,6 @@
 ---
 title: "Madden NFL 27: before we talk about the game, let us talk about what this sport does to heads"
-seoTitle: "Madden NFL 27: review of the American football simulation"
+seoTitle: "EA SPORTS Madden NFL 27: review"
 slug: "madden-nfl-27-test"
 category: "tests"
 excerpt: "The Persona Engine and timing-based catching genuinely change something. But at seventy euros, player reception stays lukewarm."

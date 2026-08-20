@@ -1,6 +1,7 @@
 ---
 title: "Saros: pretty, linear, and familiar"
 slug: "saros-test"
+seoTitle: "Saros: review"
 category: "tests"
 excerpt: "A polished TPS, solid art direction, and a gun with real presence. But it feels like we've played this before. Differently, but still."
 date: "2026-04-29"

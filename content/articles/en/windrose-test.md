@@ -1,6 +1,7 @@
 ---
 title: "Windrose is the pirate game we've been waiting for since Black Flag. And it delivers."
 slug: "windrose-test"
+seoTitle: "Windrose: review"
 category: "tests"
 excerpt: "500,000 copies in 48 hours. 89% positive on Steam. A smash-hit early access. After several days sailing Windrose's seas, we understand exactly why, and we can tell you what still needs fixing."
 date: "2026-04-18"

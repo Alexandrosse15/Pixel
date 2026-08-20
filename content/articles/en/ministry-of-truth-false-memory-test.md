@@ -1,6 +1,6 @@
 ---
 title: "Ministry of Truth: False Memory: rewriting history on a production line, and policing yourself while you do it"
-seoTitle: "Ministry of Truth False Memory: review of the propaganda game"
+seoTitle: "Ministry of Truth: False Memory, review"
 slug: "ministry-of-truth-false-memory-test"
 category: "tests"
 excerpt: "Falsify the records, scream through the Five Minutes Rage, suppress your own doubts. A playable 1984, short and well held, from a Ukrainian studio."

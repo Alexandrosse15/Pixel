@@ -1,6 +1,6 @@
 ---
 title: "BOMBANANA! : un aveugle, un sourd et un muet désamorcent une bombe-banane, et votre amitié n'y survivra pas"
-seoTitle: "BOMBANANA! : preview du party-game de déminage"
+seoTitle: "BOMBANANA! : preview"
 slug: "bombanana-preview"
 category: "previews"
 excerpt: "Trois singes handicapés, une bombe-banane et un chrono : BOMBANANA! transforme la communication en supplice hilarant. 670 000 joueurs sur la démo ont adoré souffrir."

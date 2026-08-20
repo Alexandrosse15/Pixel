@@ -1,6 +1,7 @@
 ---
 title: "Heartopia: the cozy game that wants your happiness... and your credit card"
 slug: "heartopia-test"
+seoTitle: "Heartopia: review"
 category: "tests"
 excerpt: "Heartopia promises a stress-free paradise with no competition and no bad vibes. What it doesn't mention in the trailer is that inner peace has a price. And that price is paid in premium currency."
 date: "2026-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "Chop Chop Inc. : encore un jeu de récolte, mais celui-ci a le bon goût de finir en chaîne de production"
-seoTitle: "Chop Chop Inc. : test et avis du jeu de bûcheronnage et d'automatisation"
+seoTitle: "Chop Chop Inc. : test et avis"
 slug: "chop-chop-inc-test"
 category: "tests"
 excerpt: "Abattre des arbres, débiter des planches, fabriquer des meubles absurdes et automatiser le tout. Bête et efficace, pour le prix de deux cafés."

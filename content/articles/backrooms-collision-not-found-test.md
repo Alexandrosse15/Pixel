@@ -1,6 +1,6 @@
 ---
 title: "Backrooms: Collision Not Found mise tout sur la 4K, et oublie ce qui rendait les Backrooms terrifiants"
-seoTitle: "Backrooms: Collision Not Found : test et avis"
+seoTitle: "Backrooms: Collision Not Found, test"
 slug: "backrooms-collision-not-found-test"
 category: "tests"
 excerpt: "Depuis le film A24 à 331 millions, tout le monde veut son jeu de Backrooms. Celui-ci parie sur l'hyper-réalisme Unreal Engine 5. Mauvaise pioche : le flou faisait la peur."

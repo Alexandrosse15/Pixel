@@ -1,6 +1,6 @@
 ---
 title: "Forsaken Realms Vahrin's Call build guide: mastering classless progression, weapons, magic, alchemy and traps"
-seoTitle: "Forsaken Realms Vahrin's Call: classless build guide"
+seoTitle: "Forsaken Realms Vahrin's Call: guide"
 slug: "forsaken-realms-vahrins-call-build-guide"
 category: "guides"
 excerpt: "The Forsaken Realms Vahrin's Call build guide: how to exploit classless progression, which styles to favor, and how to combine weapons, magic, alchemy and traps."

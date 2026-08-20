@@ -1,6 +1,6 @@
 ---
 title: "Swarmdustry : Factorio dont on aurait retourné le point de vue, et c'est l'insecte qui gagne"
-seoTitle: "Swarmdustry : test et avis du jeu d'usine organique"
+seoTitle: "Swarmdustry : test et avis"
 slug: "swarmdustry-test"
 category: "tests"
 excerpt: "Une ruche vivante à faire croître, des codes génétiques à débloquer, des ouvriers à muter. L'usine n'est plus en acier, elle est en chair."

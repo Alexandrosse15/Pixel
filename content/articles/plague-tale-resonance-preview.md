@@ -1,6 +1,6 @@
 ---
 title: "Resonance: A Plague Tale Legacy parie tout sur le combat, exactement ce que la série faisait le moins bien"
-seoTitle: "Resonance: A Plague Tale Legacy : preview critique"
+seoTitle: "Resonance: A Plague Tale Legacy, preview"
 slug: "plague-tale-resonance-preview"
 category: "previews"
 excerpt: "Asobo lâche la furtivité et les rats pour un spin-off d'action en Grèce antique. Sauf que le gameplay n'a jamais été ce qu'on aimait dans Plague Tale."

@@ -1,6 +1,7 @@
 ---
 title: "Dead as Disco: we said the combat was good. We were right."
 slug: "dead-as-disco-test"
+seoTitle: "Dead as Disco: review"
 category: "tests"
 excerpt: "The demo made us want more. Early Access confirms it: Brain Jar Games built a rhythm beat 'em up that hits hard, sounds great, and has enough personality to keep people talking."
 date: "2026-05-05"

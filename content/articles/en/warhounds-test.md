@@ -1,6 +1,6 @@
 ---
 title: "Warhounds: a decent XCOM released just before the real one, and a history buyers deserve to know"
-seoTitle: "Warhounds: review of the turn-based tactics game"
+seoTitle: "Warhounds: review"
 slug: "warhounds-test"
 category: "tests"
 excerpt: "Honest turn-based tactics with no spark. Above all, it is the international version of Sparta 2035, funded by a Russian state body."

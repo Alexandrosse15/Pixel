@@ -1,6 +1,7 @@
 ---
 title: "Steel Fortress Awakening: an android, a lost civilisation, and a solo dev with serious ambition"
 slug: "steel-fortress-awakening-preview"
+seoTitle: "Steel Fortress Awakening: preview"
 category: "previews"
 excerpt: "A solo dev, an SF obsession born from a game jam, and a memory mechanic that says a lot about his intentions. Steel Fortress Awakening isn't out yet. We're already watching."
 date: "2026-04-23"

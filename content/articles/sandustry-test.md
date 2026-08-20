@@ -1,6 +1,6 @@
 ---
 title: "Sandustry : vingt minutes de test annoncées, une nuit blanche livrée, et une accusation d'IA qui ne tient pas"
-seoTitle: "Sandustry : test et avis du jeu d'automatisation où chaque pixel est une ressource"
+seoTitle: "Sandustry : test et avis"
 slug: "sandustry-test"
 category: "tests"
 excerpt: "Un jeu d'usine bâti sur une physique de sable où chaque pixel compte. Redoutablement accrocheur, et injustement soupçonné d'avoir été écrit par une IA."

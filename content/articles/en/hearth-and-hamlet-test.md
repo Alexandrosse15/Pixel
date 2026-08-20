@@ -1,6 +1,6 @@
 ---
 title: "Hearth and Hamlet: the city clicker that never rushes you, and that is exactly why it works"
-seoTitle: "Hearth and Hamlet: review of the pixel art incremental city builder"
+seoTitle: "Hearth and Hamlet: review"
 slug: "hearth-and-hamlet-test"
 category: "tests"
 excerpt: "Superb medieval pixel art, laws to pass, a research tree and magic. The most peaceful clicker in the genre, and the best held together."

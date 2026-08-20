@@ -1,6 +1,6 @@
 ---
 title: "GRIT: why this 2021 western is only reaching Steam today, and what it lost on the way"
-seoTitle: "GRIT: review of the poker-hand Wild West battle royale"
+seoTitle: "GRIT: review"
 slug: "grit-test"
 category: "tests"
 excerpt: "Every gun is a playing card, four slots make a hand. And behind the late arrival, an NFT story the Steam page no longer tells."

@@ -1,6 +1,6 @@
 ---
 title: "Omen : l'ambiance vous happe, et vos enfants ne vous reverront pas de la semaine"
-seoTitle: "Omen : preview du roguelite spatial de combat et de défense"
+seoTitle: "Omen : preview"
 slug: "omen-preview"
 category: "previews"
 excerpt: "Un empire spatial qui s'effondre, une entité nommée le Voile, et une boucle d'expéditions taillée pour engloutir vos soirées."

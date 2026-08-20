@@ -1,6 +1,7 @@
 ---
 title: "Invincible VS: the fighting game we finally deserve"
 slug: "invincible-vs-preview"
+seoTitle: "Invincible VS: preview"
 category: "previews"
 excerpt: "A universe born from the pen of Robert Kirkman, the same man who created The Walking Dead. Characters we've known for years. A fighting game that seems to understand why this universe matters so much. We waited a long time. The wait was justified."
 date: "2026-04-29"

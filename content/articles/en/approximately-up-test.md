@@ -1,6 +1,6 @@
 ---
 title: "Approximately Up: build a rocket with four people, launch, explode, then accuse each other of mounting the thruster backwards"
-seoTitle: "Approximately Up: review of the co-op space sandbox"
+seoTitle: "Approximately Up: review"
 slug: "approximately-up-test"
 category: "tests"
 excerpt: "A modular ship made of whatever bolts together, 15 planets and up to 4 players. The chaos is excellent, provided you have the friends to go with it."

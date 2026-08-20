@@ -1,6 +1,7 @@
 ---
 title: "Sudden Strike 5 : la roadmap 2026 répond aux bonnes questions"
 slug: "sudden-strike-5-roadmap-2026"
+seoTitle: "Sudden Strike 5 : preview"
 category: "previews"
 excerpt: "La roadmap 2026 de Sudden Strike 5 : co-op campagne, patch QoL, éditeur de scénarios. Communauté sceptique sur le jeu de base, les annonces visent juste."
 date: "2026-05-09"

@@ -1,6 +1,7 @@
 ---
 title: "The head of Game Pass says Game Pass is too expensive. Thanks, we'd noticed."
 slug: "game-pass-trop-cher-asha-sharma"
+seoTitle: "Game Pass too expensive, Xbox admits"
 category: "industrie"
 excerpt: "Asha Sharma, Xbox's new boss, admitted in an internal memo that Game Pass has become too expensive for players. A brave statement. About six months late."
 date: "2026-04-17"

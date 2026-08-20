@@ -1,6 +1,6 @@
 ---
 title: "The Relic First Guardian: the Korean Soulslike that dares to rethink stamina and memory"
-seoTitle: "The Relic First Guardian: review of the Soulslike"
+seoTitle: "The Relic: First Guardian, review"
 slug: "the-relic-first-guardian-test"
 category: "tests"
 excerpt: "A semi-open Soulslike steeped in Korean folklore, with a relic system and rethought stamina. A fine effort that brings something new to the genre."

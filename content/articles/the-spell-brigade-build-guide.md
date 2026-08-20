@@ -1,6 +1,6 @@
 ---
 title: "Guide des builds The Spell Brigade : meilleurs sorts, synergies élémentaires et infusions"
-seoTitle: "The Spell Brigade : guide des meilleurs builds et synergies"
+seoTitle: "The Spell Brigade : guide"
 slug: "the-spell-brigade-build-guide"
 category: "guides"
 excerpt: "Les meilleurs builds de The Spell Brigade : quels sorts et éléments choisir, les infusions qui font la différence, les synergies méta et comment adapter son build en coopération."

@@ -1,6 +1,6 @@
 ---
 title: "Sineus Arena Survivors build guide: best weapons, synergies and Stronghold defense"
-seoTitle: "Sineus Arena Survivors: best builds and weapons guide"
+seoTitle: "Sineus Arena Survivors: guide"
 slug: "sineus-arena-survivors-build-guide"
 category: "guides"
 excerpt: "The best Sineus Arena Survivors builds: which weapons to level, how to protect your Stronghold, area synergies and co-op roles to hold the late waves."

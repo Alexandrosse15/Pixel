@@ -1,6 +1,6 @@
 ---
 title: "AI2U With You Til The End : dix-neuf mois d'accès anticipé plus tard, la 1.0 arrive aujourd'hui"
-seoTitle: "AI2U With You Til The End : test et avis de la version 1.0"
+seoTitle: "AI2U: With You 'Til The End, test"
 slug: "ai2u-with-you-til-the-end-test"
 category: "tests"
 excerpt: "Des personnages pilotés par un modèle de langage qui réagissent à vos actes. Pas beau, mais très bien accueilli, et pas pour la raison qu'on croit."

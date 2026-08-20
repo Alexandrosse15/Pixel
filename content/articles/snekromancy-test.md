@@ -1,6 +1,6 @@
 ---
 title: "SnekromancY : le Snake de votre vieux Nokia relevé d'entre les morts"
-seoTitle: "SnekromancY : test et avis du roguelite snake"
+seoTitle: "SnekromancY : test et avis"
 slug: "snekromancy-test"
 excerpt: "Le Snake du Nokia croisé avec un bullet heaven et une armée de squelettes. Absurde sur le papier, et pourtant je n'arrive plus à le lâcher."
 category: "tests"

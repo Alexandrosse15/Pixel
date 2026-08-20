@@ -1,6 +1,7 @@
 ---
 title: "LEGO Batman: The Dark Knight Legacy looks like what we've been waiting for since LEGO Star Wars"
 slug: "lego-batman-heritage-chevalier-noir-preview"
+seoTitle: "LEGO Batman: Legacy of the Dark Knight"
 category: "previews"
 excerpt: "Open-world Gotham, Arkham-inspired combat, a Batcave, villains, plastic jokes. TT Games looks like they've put their hands back in for the right reasons. We can't wait."
 date: "2026-05-02"

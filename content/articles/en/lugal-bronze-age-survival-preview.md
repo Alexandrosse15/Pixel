@@ -1,6 +1,6 @@
 ---
 title: "Lugal: a survival game that asks you to invent the state, and a ziggurat to prove you deserve it"
-seoTitle: "Lugal Bronze Age Survival Game: preview of the Mesopotamian survival game"
+seoTitle: "Lugal: Bronze Age Survival Game, preview"
 slug: "lugal-bronze-age-survival-preview"
 category: "previews"
 excerpt: "Tribe, village, city, state. A survival game crossing ten thousand years to ask a rare question: where does a king's legitimacy come from?"

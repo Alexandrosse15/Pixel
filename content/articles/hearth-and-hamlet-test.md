@@ -1,6 +1,6 @@
 ---
 title: "Hearth and Hamlet : le clicker de cité qui ne vous presse jamais, et c'est exactement pour ça qu'il fonctionne"
-seoTitle: "Hearth and Hamlet : test et avis du city builder incrémental en pixel art"
+seoTitle: "Hearth and Hamlet : test et avis"
 slug: "hearth-and-hamlet-test"
 category: "tests"
 excerpt: "Un pixel art médiéval superbe, des lois à voter, un arbre de recherche et de la magie. Le clicker le plus paisible du genre, et le mieux tenu."

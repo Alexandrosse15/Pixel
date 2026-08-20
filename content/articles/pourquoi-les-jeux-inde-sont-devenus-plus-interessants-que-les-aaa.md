@@ -1,6 +1,7 @@
 ---
 title: "Pourquoi les jeux indé sont devenus plus intéressants que les AAA"
 slug: "pourquoi-les-jeux-inde-sont-devenus-plus-interessants-que-les-aaa"
+seoTitle: "Jeux indé contre AAA : le match"
 category: "dossiers"
 excerpt: "Les AAA sont plus grands, plus chers. Les indés prennent une direction plus risquée, plus personnelle, souvent plus marquante. Pourquoi le gap se creuse."
 date: "2026-04-17"

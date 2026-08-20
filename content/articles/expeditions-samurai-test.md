@@ -1,6 +1,6 @@
 ---
 title: "Expeditions Samurai : on croit retrouver Commandos, on retrouve en fait Baldur's Gate 3 en kimono, et ce n'est pas une déception"
-seoTitle: "Expeditions Samurai : test et avis du RPG tactique au Japon féodal"
+seoTitle: "Expeditions: Samurai, test et avis"
 slug: "expeditions-samurai-test"
 category: "tests"
 excerpt: "Vue du dessus, infiltration, Japon de 1600. La filiation n'est pas celle qu'on croit, et l'accès anticipé impose ses réserves."

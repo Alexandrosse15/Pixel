@@ -1,6 +1,6 @@
 ---
 title: "Quarantine Zombies - Prologue : un amuse-bouche gratuit pour un genre qu'on a use jusqu'a la corde"
-seoTitle: "Quarantine Zombies - Prologue : preview du FPS zombie gratuit"
+seoTitle: "Quarantine Zombies - Prologue : preview"
 slug: "quarantine-zombies-preview"
 excerpt: "On a tous fait Left 4 Dead 1 et 2, World War Z et compagnie. Ce prologue gratuit apportera-t-il enfin un peu de sang neuf ? On a hate de verifier."
 category: "previews"

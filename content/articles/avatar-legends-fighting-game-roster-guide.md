@@ -1,6 +1,6 @@
 ---
 title: "Guide des personnages d'Avatar Legends The Fighting Game : les 12 combattants, leurs styles et par où commencer"
-seoTitle: "Avatar Legends The Fighting Game : guide de tous les personnages"
+seoTitle: "Avatar Legends The Fighting Game : guide"
 slug: "avatar-legends-fighting-game-roster-guide"
 category: "guides"
 excerpt: "Le guide complet du roster d'Avatar Legends : archétype, style de jeu, difficulté et forces des 12 combattants, plus le système de Flow et les meilleurs persos pour débuter."

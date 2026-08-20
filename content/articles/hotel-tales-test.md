@@ -1,6 +1,6 @@
 ---
 title: "Hotel Tales : le job d'été le plus étrange de l'année, entre gestion d'hôtel et carrefour des mondes"
-seoTitle: "Hotel Tales : test et avis de l'hôtel mystère"
+seoTitle: "Hotel Tales : test et avis"
 slug: "hotel-tales-test"
 category: "tests"
 excerpt: "Gérer un hôtel au carrefour des mondes, entre clients étranges et secrets à percer. Un mélange de gestion et de narration attachant, à défaut d'être toujours net."

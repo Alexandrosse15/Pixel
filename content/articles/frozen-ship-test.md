@@ -1,6 +1,6 @@
 ---
 title: "Frozen Ship : magnifique, un peu flippant, et beaucoup plus Frostpunk que Firewatch"
-seoTitle: "Frozen Ship : test et avis du survival narratif dans la neige"
+seoTitle: "Frozen Ship : test et avis"
 slug: "frozen-ship-test"
 category: "tests"
 excerpt: "Un navire-ville traverse une Terre gelée avec vingt personnes à bord. Sublime et anxiogène, mais l'accès anticipé se sent."

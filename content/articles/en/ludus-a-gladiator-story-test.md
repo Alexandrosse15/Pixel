@@ -1,6 +1,6 @@
 ---
 title: "Ludus A Gladiator Story: 1,800 choices to bleed on the sand, and each leaves a scar"
-seoTitle: "Ludus A Gladiator Story: review of the narrative RPG"
+seoTitle: "Ludus: A Gladiator Story, review"
 slug: "ludus-a-gladiator-story-test"
 category: "tests"
 excerpt: "A fully voiced narrative RPG of the Roman arena, 4 origins, 1,800 choices, 19 endings. Ambitious and memorable, despite combat that stays in the background."

@@ -1,6 +1,6 @@
 ---
 title: "Comment la Croatie est devenue une discrète superpuissance du jeu vidéo"
-seoTitle: "La Croatie, superpuissance discrète du jeu vidéo"
+seoTitle: "Croatie, superpuissance du jeu vidéo"
 slug: "croatie-industrie-jeu-video"
 category: "industrie"
 excerpt: "Un pays de moins de quatre millions d'habitants, SCUM, Serious Sam, The Talos Principle et près de 150 jeux sur Steam: enquête sur le miracle croate."

@@ -1,6 +1,6 @@
 ---
 title: "Mechanicus 2 sort le 21 mai et la seule chose qui nous empêche de brûler l'encens maintenant, c'est la bande son"
-seoTitle: "Mechanicus 2 : preview Warhammer 40K stratégie"
+seoTitle: "Warhammer 40000 Mechanicus 2 : preview"
 slug: "mechanicus-2-preview"
 category: "previews"
 excerpt: "Lingua Technis en option, Nécrons jouables, démo solide. Mechanicus 2 sort le 21 mai. La seule question qui reste : est-ce que la bande son va rivaliser avec XCOM 2 ?"

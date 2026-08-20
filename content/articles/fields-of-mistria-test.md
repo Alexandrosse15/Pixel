@@ -1,6 +1,6 @@
 ---
 title: "Fields of Mistria : deux ans que je l'attendais en accès anticipé, et la 1.0 m'a repris en otage"
-seoTitle: "Fields of Mistria : test et avis du farming cozy"
+seoTitle: "Fields of Mistria : test et avis"
 slug: "fields-of-mistria-test"
 excerpt: "Un Stardew Valley en pixel art pastel qui pousse la mignonnerie jusqu'a l'indecence. Je pensais y etre immunise. Il m'a eu des le premier printemps."
 category: "tests"

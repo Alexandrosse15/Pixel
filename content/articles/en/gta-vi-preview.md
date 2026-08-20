@@ -1,6 +1,7 @@
 ---
 title: "GTA VI: the return to Vice City, and ours"
 slug: "gta-vi-preview"
+seoTitle: "GTA VI: preview"
 category: "previews"
 excerpt: "GTA VI arrives in November 2026. Lucia, Jason, Leonida. But for us, children of Vice City, this isn't just a launch. It's a homecoming."
 date: "2026-04-27"

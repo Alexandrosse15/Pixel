@@ -1,6 +1,6 @@
 ---
 title: "Open The Gate Just A Little: the tower defence that lets you leave the castle and go find the enemy"
-seoTitle: "Open The Gate Just A Little: review of the tower defence and strategy hybrid"
+seoTitle: "Open The Gate: Just A Little, review"
 slug: "open-the-gate-just-a-little-test"
 category: "tests"
 excerpt: "Four legions, towers to capture, gold picked off corpses and a dragon at the end. A well-conceived hybrid with a clear concept."

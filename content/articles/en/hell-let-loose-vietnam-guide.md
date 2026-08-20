@@ -1,6 +1,6 @@
 ---
 title: "Hell Let Loose Vietnam guide: the radio, the jungle, and the mistakes that cost a match"
-seoTitle: "Hell Let Loose Vietnam: guide to communication and movement"
+seoTitle: "Hell Let Loose: Vietnam, guide"
 slug: "hell-let-loose-vietnam-guide"
 category: "guides"
 excerpt: "When to speak and when to shut up depending on your role, how to move through vegetation, and why encirclement kills more than bullets."

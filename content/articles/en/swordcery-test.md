@@ -1,6 +1,6 @@
 ---
 title: "Swordcery: a rain of swords over the world, and each one comes with its own trick"
-seoTitle: "Swordcery: review of the magical sword action game"
+seoTitle: "Swordcery: review"
 slug: "swordcery-test"
 category: "tests"
 excerpt: "Every blade you pick up brings a unique ability and belongs to a Sword Class. An action game built on pattern recognition."

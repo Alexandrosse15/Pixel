@@ -1,6 +1,6 @@
 ---
 title: "Frozen Ship: gorgeous, a little frightening, and far more Frostpunk than Firewatch"
-seoTitle: "Frozen Ship: review of the narrative snow survival game"
+seoTitle: "Frozen Ship: review"
 slug: "frozen-ship-test"
 category: "tests"
 excerpt: "A ship-city crosses a frozen Earth with twenty people aboard. Sublime and anxious-making, but Early Access shows."

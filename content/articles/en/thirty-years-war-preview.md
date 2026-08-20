@@ -1,6 +1,6 @@
 ---
 title: "Thirty Years War: the brown cardboard of our childhood survived, it just costs more and speaks only English"
-seoTitle: "Thirty Years War: preview of the hex-and-counter wargame"
+seoTitle: "Thirty Years War: preview"
 slug: "thirty-years-war-preview"
 category: "previews"
 excerpt: "80 scenarios, pike and shot, Gustavus Adolphus and Breitenfeld. A hex wargame descended directly from John Tiller, as rigorous as it is austere."

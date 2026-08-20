@@ -1,6 +1,6 @@
 ---
 title: "Guide Liquidation : bien débuter, comprendre les trois factions et gagner par la tactique plutôt que par le clic"
-seoTitle: "Liquidation : guide de débutant et des factions"
+seoTitle: "Liquidation : guide"
 slug: "liquidation-guide"
 category: "guides"
 excerpt: "Débuter dans Liquidation : la philosophie du jeu, les trois factions jouables, le positionnement, les capacités de commandant et par où commencer."

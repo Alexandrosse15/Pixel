@@ -1,6 +1,6 @@
 ---
 title: "Little Boy a des airs de Pokémon Bleu et un petit robot rose pour sauver l'humanité d'une IA qui veut l'effacer"
-seoTitle: "Little Boy : preview du jeu narratif pixel art"
+seoTitle: "Little Boy : Small Steps, Big Changes"
 slug: "little-boy-preview"
 category: "previews"
 excerpt: "Une IA décide d'exterminer l'humanité pour son bien. Le seul espoir ? Un petit robot rose et naïf. On a discuté longuement avec son créateur."

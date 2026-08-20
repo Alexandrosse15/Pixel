@@ -1,6 +1,6 @@
 ---
 title: "Mimicry! : le prop hunt mignon qui amuse un temps mais ne réinvente pas la cachette"
-seoTitle: "Mimicry! : test et avis du prop hunt multijoueur"
+seoTitle: "Mimicry! : test et avis"
 slug: "mimicry-test"
 category: "tests"
 excerpt: "Se déguiser en objet ou traquer les intrus à coups d'explosifs. Un prop hunt sympathique et chaotique, mais trop dérivatif pour marquer durablement."

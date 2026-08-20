@@ -1,6 +1,6 @@
 ---
 title: "The Ranchers: 245,000 euros raised, four years of waiting, and an Early Access stripped of almost everything that made it exciting"
-seoTitle: "The Ranchers: review of the Early Access country-life sim"
+seoTitle: "The Ranchers: review"
 slug: "the-ranchers-test"
 category: "tests"
 excerpt: "Fishing, hunting, mines, dungeons, monsters: everything that set The Ranchers apart is absent at launch. What remains is merely functional."

@@ -1,6 +1,6 @@
 ---
 title: "One Last Hand : le titre est exactement ce qu'on se disait à 4h du matin, et le jeu le sait très bien"
-seoTitle: "One Last Hand : test et avis du jeu de cartes multijoueur"
+seoTitle: "One Last Hand : test et avis"
 slug: "one-last-hand-test"
 category: "tests"
 excerpt: "Enchérir en secret, voler la carte du voisin, puis transformer sa main en gifle. Un jeu de cartes taillé pour finir en engueulade."

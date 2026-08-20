@@ -1,6 +1,6 @@
 ---
 title: "Strikers Club, the 100% skill and 100% free football game that wants to save us from FIFA and shake up Rematch"
-seoTitle: "Strikers Club: preview of the free physics football"
+seoTitle: "Strikers Club: preview"
 slug: "strikers-club-preview"
 category: "previews"
 excerpt: "Every dribble, every shot, every tackle controlled by hand, from 1v1 to 11v11, and free. After a 60,000-player demo, Strikers Club kicks off July 17 with real ideas."

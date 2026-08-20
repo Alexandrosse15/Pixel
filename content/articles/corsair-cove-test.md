@@ -1,6 +1,6 @@
 ---
 title: "Corsair Cove : j'ai passé plus de temps à admirer mon repaire qu'à écumer les mers, et ça dit tout"
-seoTitle: "Corsair Cove : test et avis du city-builder pirate"
+seoTitle: "Corsair Cove : test et avis"
 slug: "corsair-cove-test"
 category: "tests"
 excerpt: "Le plus beau repaire pirate que j'aie jamais bâti. Dommage que dès qu'on quitte le port pour se battre, la magie retombe d'un coup."

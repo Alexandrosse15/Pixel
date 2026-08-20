@@ -1,6 +1,7 @@
 ---
 title: "Far Far West: the game that read all the others and decided to do the opposite"
 slug: "far-far-west-test"
+seoTitle: "Far Far West: review"
 category: "tests"
 excerpt: "No microtransactions. 4-player co-op, paranormal Far West enemies, magic and guns. Far Far West doesn't reinvent the wheel but it spins it with infectious enjoyment."
 date: "2026-04-29"

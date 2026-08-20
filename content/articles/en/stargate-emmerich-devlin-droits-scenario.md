@@ -1,6 +1,6 @@
 ---
 title: "Stargate: Emmerich and Devlin reclaim the rights to the 1994 screenplay, and it is not quite the revolution being announced"
-seoTitle: "Stargate: Emmerich and Devlin reclaim the screenplay"
+seoTitle: "Stargate: Emmerich reclaims rights"
 slug: "stargate-emmerich-devlin-droits-scenario"
 category: "industrie"
 excerpt: "Termination notice filed April 8, effective 2029: the creators of the 1994 film reclaim the screenplay. Not the franchise. We untangle what it changes."

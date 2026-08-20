@@ -1,6 +1,6 @@
 ---
 title: "Guide Elementis TD : maîtriser la Corruption, choisir ses tours et survivre à l'Eternal Vigil"
-seoTitle: "Elementis TD : guide de la Corruption et des tours"
+seoTitle: "Elementis TD : guide"
 slug: "elementis-td-guide"
 category: "guides"
 excerpt: "Le guide stratégique d'Elementis TD : comprendre la Corruption, équilibrer tours corruptrices et tours pures, fusionner les éléments et tenir l'Eternal Vigil."

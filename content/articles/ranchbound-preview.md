@@ -1,6 +1,6 @@
 ---
 title: "Ranchbound : le Far West en jeu de gestion nerveux, ou l'on mene ses cowboys a la baguette"
-seoTitle: "Ranchbound : preview de la strategie economique western"
+seoTitle: "Ranchbound : preview"
 slug: "ranchbound-preview"
 excerpt: "Batir un ranch, elever du betail, commander des cowboys et commercer avec les colons, le tout en temps reel avec un vrai vernis de survie."
 category: "previews"

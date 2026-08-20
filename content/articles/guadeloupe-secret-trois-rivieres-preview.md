@@ -1,6 +1,6 @@
 ---
 title: "Guadeloupe : Le secret des trois rivières, le jeu d'aventure où l'on pédale pour faire avancer l'histoire"
-seoTitle: "Guadeloupe : preview du jeu d'exergaming narratif"
+seoTitle: "Guadeloupe : preview de l'exergaming"
 slug: "guadeloupe-secret-trois-rivieres-preview"
 category: "previews"
 excerpt: "Pédaler pour faire défiler une aventure au coeur du patrimoine guadeloupéen: Black Frog Studio et EVEIA fusionnent sport et conte. On vous présente le projet."

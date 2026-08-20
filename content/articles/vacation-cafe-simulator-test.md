@@ -1,6 +1,6 @@
 ---
 title: "Vacation Cafe Simulator : un petit bout de vacances pour ceux qui sont déjà rentrés"
-seoTitle: "Vacation Cafe Simulator : test et avis du jeu de restaurant italien"
+seoTitle: "Vacation Cafe Simulator : test et avis"
 slug: "vacation-cafe-simulator-test"
 category: "tests"
 excerpt: "Des pizzas à préparer, une salle à faire tourner, des fermes et des vignobles à visiter. Mignon, facile, et exactement ce qu'il faut fin août."

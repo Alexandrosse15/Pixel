@@ -1,6 +1,7 @@
 ---
 title: "Tides of Tomorrow : le monde se noie, et pourtant on y croit"
 slug: "tides-of-tomorrow-test"
+seoTitle: "Tides of Tomorrow : test et avis"
 category: "tests"
 excerpt: "Voir les choix des autres comme des visions d'un futur possible. Le monde se noie, les décisions sont impossibles, et malgré tout on avance."
 date: "2026-04-21"

@@ -1,6 +1,7 @@
 ---
 title: "Aliens: Fireteam Elite 2 : cette fois on sera quatre"
 slug: "aliens-fireteam-elite-2-preview"
+seoTitle: "Aliens: Fireteam Elite 2, preview"
 category: "previews"
 excerpt: "Cette fois on sera quatre. Cold Iron Studios revient avec crossplay day one, nouveaux Xenomorphs et un mode Horde. Le premier était solide."
 date: "2026-05-09"

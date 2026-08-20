@@ -1,6 +1,6 @@
 ---
 title: "Archon Soul : le dice-builder qui transforme le hasard en calcul"
-seoTitle: "Archon Soul : test et avis du roguelike dice-builder"
+seoTitle: "Archon Soul : test et avis"
 slug: "archon-soul-test"
 category: "tests"
 excerpt: "On pensait rager sur les dés. On a fini par les fabriquer nous-mêmes. Archon Soul rend le hasard maîtrisable, et c'est diablement addictif."

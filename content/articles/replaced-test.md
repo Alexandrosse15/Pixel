@@ -1,6 +1,7 @@
 ---
 title: "REPLACED : une claque visuelle… mais un jeu à la hauteur ?"
 slug: "replaced-test"
+seoTitle: "REPLACED : test et avis"
 category: "tests"
 excerpt: "REPLACED a un pixel art somptueux et une ambiance cyberpunk parfaite. Une fois la claque absorbée : est-ce que ça tient sur autre chose ?"
 date: "2026-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "Canyons : piloter un colosse de métal à travers le désert, en co-op, avec des choix moraux"
-seoTitle: "Canyons preview : looter shooter procédural co-op, notre avis"
+seoTitle: "Canyons : preview"
 slug: "canyons-preview"
 category: "previews"
 excerpt: "RedRuins Softworks, le studio derrière Breathedge, revient avec un looter shooter procédural en co-op à 4 joueurs dans un désert post-apocalyptique. Les Crawlers géants, la construction de Haven, les pactes de sang avec l'ennemi : il y a quelque chose ici."

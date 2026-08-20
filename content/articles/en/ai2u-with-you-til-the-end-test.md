@@ -1,6 +1,6 @@
 ---
 title: "AI2U With You Til The End: nineteen months of Early Access later, version 1.0 lands today"
-seoTitle: "AI2U With You Til The End: review of the 1.0 release"
+seoTitle: "AI2U: With You 'Til The End, review"
 slug: "ai2u-with-you-til-the-end-test"
 category: "tests"
 excerpt: "Characters driven by a language model that react to what you do. Not pretty, but very well received, and not for the reasons you would think."

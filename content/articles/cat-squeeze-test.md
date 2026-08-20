@@ -1,6 +1,6 @@
 ---
 title: "Cat Squeeze est un puzzle cozy où un chat se faufile dans des tuyaux et fait tout exploser, et c'est délicieusement malin"
-seoTitle: "Cat Squeeze : test et avis du puzzle de chat"
+seoTitle: "Cat Squeeze : test et avis"
 slug: "cat-squeeze-test"
 category: "tests"
 excerpt: "Un Sokoban tout mignon où un chat pousse des caisses, se glisse dans des tuyaux et déclenche des explosions ciblées. Cat Squeeze marie casse-tête et charme félin avec malice."

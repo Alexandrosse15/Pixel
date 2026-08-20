@@ -1,6 +1,6 @@
 ---
 title: "Meccha Chameleon : le guide complet des meilleures cachettes, carte par carte"
-seoTitle: "Meccha Chameleon : meilleures cachettes par carte (guide complet)"
+seoTitle: "Meccha Chameleon : guide"
 slug: "meccha-chameleon-hiding-spots-guide"
 category: "guides"
 excerpt: "Le guide complet des cachettes de Meccha Chameleon, carte par carte : Manoir, Indoor Country, Égouts, Backrooms, Penguin Hotel et Sugarland. Spots précis, couleurs, poses et contres de chercheur."

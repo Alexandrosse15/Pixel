@@ -1,6 +1,6 @@
 ---
 title: "Red Tape Rampage : l'optimiseur fou en vous va licencier des équipes entières, et le jeu compte là-dessus"
-seoTitle: "Red Tape Rampage : preview de l'incremental satirique de bureau"
+seoTitle: "Red Tape Rampage : preview"
 slug: "red-tape-rampage-preview"
 category: "previews"
 excerpt: "Un incremental satirique où la paperasse devient du progrès et où les licenciements de masse sont une mécanique de jeu assumée."
