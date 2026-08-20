@@ -209,9 +209,9 @@ export function getAllGames(locale = 'fr'): GameGroup[] {
     }
   }
 
-  return Array.from(map.values()).filter((g) =>
-    g.articles.some((a) => a.category === 'tests' || a.category === 'previews')
-  )
+  // Un hub regroupe TOUTE la couverture d'un jeu : un dossier, une actu
+  // industrie ou un article cinema suffisent à le justifier.
+  return Array.from(map.values())
 }
 
 export function getGameBySlug(slug: string, locale = 'fr'): GameGroup | null {
