@@ -3,7 +3,9 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Mentions légales',
   description: 'Mentions légales du site InsertCoins.press.',
-  robots: { index: false, follow: false },
+  // Page obligatoire mais sans intérêt pour la recherche : on la garde hors de
+  // l'index tout en laissant les robots suivre ses liens.
+  robots: { index: false, follow: true },
 }
 
 export default function MentionsLegalesPage() {
