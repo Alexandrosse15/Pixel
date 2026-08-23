@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { getAllArticles, getArticlesByCategory, getAllGames } from '@/lib/articles'
+import { getGameSheet, hasUsableSheet } from '@/lib/games'
 import { SITE_URL } from '@/lib/config'
 
 export const revalidate = 3600
@@ -83,7 +84,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Pages par jeu (hubs SEO ciblant le nom nu du jeu)
   const games = getAllGames('fr')
-  const gameRoutes: MetadataRoute.Sitemap = games.filter((game) => game.articles.length >= 2).flatMap((game) => {
+  // Même règle que la balise robots de la page : on n'annonce que les hubs qui
+  // ont de quoi tenir debout seuls, une fiche renseignée ou plusieurs articles.
+  const indexableGames = games.filter(
+    (game) => hasUsableSheet(getGameSheet(game.slug)) || game.articles.length >= 2,
+  )
+  const gameRoutes: MetadataRoute.Sitemap = indexableGames.flatMap((game) => {
     const lastModified = latestDate(game.articles)
     const frUrl = `${SITE_URL}/jeu/${game.slug}`
     const enUrl = `${SITE_URL}/en/jeu/${game.slug}`

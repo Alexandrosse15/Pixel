@@ -1,0 +1,9 @@
+{
+  "_comment": "Corrections manuelles des appariements Steam. Un nombre force un appid, null écarte la fiche. Relu à la main, ne pas régénérer automatiquement.",
+
+  "age-of-empires-ii": 813780,
+  "vampire-crawlers": 3265700,
+
+  "dinosaur": null,
+  "lanterns": null
+}
