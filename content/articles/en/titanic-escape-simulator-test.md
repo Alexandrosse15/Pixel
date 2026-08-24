@@ -20,19 +20,19 @@ Except the game is serious. And its story is far better than its joke.
 
 ![Titanic Escape Simulator, the ship's corridors](/images/titanicescape/screenshot-1.webp)
 
-## First, the four-point survival guide
+## The full walkthrough, free of charge
 
-Before the real subject, some advice drawn from an attentive reading of history.
+No need to buy a guide, here is one on the house.
 
-**There is plenty of room for two on the door.** The argument has run since 1997, it is settled, and we decline to revisit it.
+**There is room for two on the door.** There was always room for two on the door.
 
-**Collect the key to the binocular locker before you leave.** This is not an invented joke: officer David Blair was pulled off the ship at the last minute and walked away with the locker key in his pocket. The lookouts in the crow's nest spent the crossing scanning the North Atlantic with the naked eye.
+**Take the key to the binocular locker before you leave.** Icebergs are hard to spot through a cupboard door.
 
-**Do not sail too fast.** It is hard to dodge what you see too late, and the ship was running at a pace poorly suited to a zone reported as ice-bound.
+**Do not sail too fast.** At full steam you dodge less well.
 
-**And do not let the captain dine too late.** The evening of 14 April turned in part on who was where, and at what hour.
+**And do not let the captain dine too late.** A captain at the table is a captain who is not on the bridge.
 
-There, you are trained. Now to the serious part, because it is worth the detour.
+There, that one is on me. Now the real subject, because it is more interesting than my joke.
 
 ## What the game actually offers
 

@@ -20,19 +20,19 @@ Sauf que le jeu, lui, est sérieux. Et son histoire est bien meilleure que sa bl
 
 ![Titanic Escape Simulator, les coursives du paquebot](/images/titanicescape/screenshot-1.webp)
 
-## D'abord, le guide de survie en quatre points
+## La soluce complète, offerte
 
-Avant le vrai sujet, quelques conseils tirés d'une lecture attentive de l'histoire.
+Pas la peine d'acheter un guide, je vous fais celui-ci gratuitement.
 
-**Il y a largement la place pour deux sur la porte.** Le débat dure depuis 1997, il est tranché, et on refuse de revenir dessus.
+**Il y a la place pour deux sur la porte.** Il y a toujours eu la place pour deux sur la porte.
 
-**Récupérez les clés de l'armoire à jumelles avant de partir.** Ce n'est pas une plaisanterie inventée : l'officier David Blair a été débarqué à la dernière minute et il est reparti avec la clé du casier dans sa poche. Les vigies de la hune ont passé la traversée à scruter l'Atlantique nord à l'œil nu.
+**Prenez les clés de l'armoire à jumelles avant de partir.** On repère mal un iceberg à travers une porte de placard.
 
-**Ne naviguez pas trop vite.** Il est difficile d'esquiver ce qu'on voit arriver trop tard, et le navire filait un rythme peu compatible avec une zone signalée comme prise par les glaces.
+**Ne naviguez pas trop vite.** À pleine vapeur, on esquive moins bien.
 
-**Et ne laissez pas le commandant dîner trop tard.** La soirée du 14 avril s'est en partie jouée sur qui se trouvait où, et à quelle heure.
+**Et ne laissez pas le commandant dîner trop tard.** Un capitaine à table est un capitaine qui n'est pas sur la passerelle.
 
-Voilà, vous êtes formés. Passons aux choses sérieuses, parce qu'elles valent le détour.
+Voilà, c'est cadeau. Maintenant le vrai sujet, parce qu'il est plus intéressant que ma blague.
 
 ## Ce que le jeu propose vraiment
 
