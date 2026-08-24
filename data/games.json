@@ -3692,6 +3692,56 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "combolands": {
+    "slug": "combolands",
+    "name": "Combolands",
+    "steam": {
+      "appId": 4579380,
+      "steamName": "Combolands Demo",
+      "confidence": "prefixe",
+      "developers": [
+        "Crux Games"
+      ],
+      "publishers": [
+        "Crux Games"
+      ],
+      "releaseRaw": "13 Apr, 2026",
+      "releaseDate": "2026-04-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        10,
+        68,
+        76,
+        80,
+        74
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 92,
+        "positive": 85,
+        "percent": 92,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-08-24"
+    }
+  },
   "company-of-heroes-3-final-stand": {
     "slug": "company-of-heroes-3-final-stand",
     "name": "Company of Heroes 3 Final Stand",
@@ -5195,6 +5245,63 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "dragonkin-the-banished": {
+    "slug": "dragonkin-the-banished",
+    "name": "Dragonkin: The Banished",
+    "steam": {
+      "appId": 1863430,
+      "steamName": "Dragonkin: The Banished",
+      "confidence": "exact",
+      "developers": [
+        "Eko Software"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "releaseRaw": "16 Mar, 2026",
+      "releaseDate": "2026-03-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        39,
+        24,
+        22,
+        28,
+        23,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 2698,
+        "positive": 1991,
+        "percent": 74,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-08-24"
     }
   },
   "dragonsword-awakening": {
@@ -8747,6 +8854,70 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "hell-is-us": {
+    "slug": "hell-is-us",
+    "name": "Hell is Us",
+    "steam": {
+      "appId": 1620730,
+      "steamName": "Hell is Us",
+      "confidence": "exact",
+      "developers": [
+        "Rogue Factor"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "releaseRaw": "4 Sep, 2025",
+      "releaseDate": "2025-09-04",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "49,99€",
+        "cents": 4999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        66,
+        68,
+        78,
+        74,
+        55,
+        57,
+        58,
+        69,
+        65,
+        70,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 6593,
+        "positive": 5621,
+        "percent": 85,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-08-24"
     }
   },
   "hell-let-loose-vietnam": {
@@ -14795,6 +14966,60 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "robocop-rogue-city": {
+    "slug": "robocop-rogue-city",
+    "name": "RoboCop: Rogue City",
+    "steam": {
+      "appId": 1681430,
+      "steamName": "RoboCop: Rogue City",
+      "confidence": "exact",
+      "developers": [
+        "Teyon"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "releaseRaw": "2 Nov, 2023",
+      "releaseDate": "2023-11-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "44,99€",
+        "cents": 4499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": 76,
+      "reviews": {
+        "total": 36775,
+        "positive": 32039,
+        "percent": 87,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-08-24"
+    }
+  },
   "rogue-eclipse": {
     "slug": "rogue-eclipse",
     "name": "Rogue Eclipse",
@@ -20053,6 +20278,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "titanic-escape-simulator": {
+    "slug": "titanic-escape-simulator",
+    "name": "Titanic Escape Simulator",
+    "steam": {
+      "appId": 4645360,
+      "steamName": "Titanic Escape Simulator™",
+      "confidence": "exact",
+      "developers": [
+        "magicprostudio",
+        "Vintage Digital Revival"
+      ],
+      "publishers": [
+        "magicprostudio"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-24"
+    }
+  },
   "together-in-forgotten-lands": {
     "slug": "together-in-forgotten-lands",
     "name": "Together in Forgotten Lands",
@@ -20520,6 +20784,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "ultrapool": {
+    "slug": "ultrapool",
+    "name": "Ultrapool",
+    "steam": {
+      "appId": 4195110,
+      "steamName": "Ultrapool",
+      "confidence": "exact",
+      "developers": [
+        "Icedrop Games"
+      ],
+      "publishers": [
+        "offbrand games"
+      ],
+      "releaseRaw": "24 Aug, 2026",
+      "releaseDate": "2026-08-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        18,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        77,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-24"
+    }
+  },
   "under-par-golf-architect": {
     "slug": "under-par-golf-architect",
     "name": "Under Par Golf Architect",
@@ -20582,6 +20892,45 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "union-of-rivals": {
+    "slug": "union-of-rivals",
+    "name": "Union Of Rivals",
+    "steam": {
+      "appId": 4263170,
+      "steamName": "Union Of Rivals",
+      "confidence": "exact",
+      "developers": [
+        "2Play"
+      ],
+      "publishers": [
+        "2Play"
+      ],
+      "releaseRaw": "24 Aug, 2026",
+      "releaseDate": "2026-08-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-24"
     }
   },
   "urban-strife": {
@@ -21654,6 +22003,44 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "wordless-forest": {
+    "slug": "wordless-forest",
+    "name": "Wordless Forest",
+    "steam": {
+      "appId": 3978240,
+      "steamName": "Wordless Forest",
+      "confidence": "exact",
+      "developers": [
+        "Dogus Cagrici"
+      ],
+      "publishers": [
+        "Dogus Cagrici"
+      ],
+      "releaseRaw": "24 Aug, 2026",
+      "releaseDate": "2026-08-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        76,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-24"
     }
   },
   "worlds-upon-the-wind": {
