@@ -1,12 +1,12 @@
 ---
-title: "Aliens: Fireteam Elite 2 : un jeu très bien fait qui raconte exactement le contraire de ce que raconte Alien"
+title: "Aliens: Fireteam Elite 2 : une suite qui refait ses classes de zéro, et qui raconte toujours le contraire d'Alien"
 seoTitle: "Aliens: Fireteam Elite 2 : test et avis"
 slug: "aliens-fireteam-elite-2-test"
 category: "tests"
-excerpt: "Techniquement solide, visuellement impeccable. Mais quatre marines qui abattent des centaines de xénomorphes, c'est un univers qu'on démonte pièce par pièce."
+excerpt: "Quatre joueurs, six classes reconstruites, une classe Spécialiste qui pioche partout et un mode Horde redécoupé. Le jeu progresse, sa lecture d'Alien non."
 date: "2026-08-25"
 author: "Alexandrosse"
-readTime: "9 min"
+readTime: "13 min"
 score: 6
 image_color: "from-zinc-900 via-slate-950 to-black"
 coverImage: "/images/aliensfireteam2/screenshot-1.webp"
@@ -14,83 +14,97 @@ gameName: "Aliens: Fireteam Elite 2"
 featured: false
 ---
 
-Il faut commencer par ce qui va bien, parce que c'est réel et que la suite va être moins tendre.
-
-Aliens: Fireteam Elite 2 est un jeu bien fait. C'est beau, les animations sont soignées, les armes ont du poids, les couloirs ont la bonne texture de métal humide. Cold Iron Studios a livré une suite plus ambitieuse que le premier épisode : on passe de trois à quatre joueurs, les classes ont été retravaillées, une classe Spécialiste entièrement personnalisable est arrivée, et le bestiaire de xénomorphes s'est nettement étoffé.
-
-Sur la fiche technique, il n'y a pas grand-chose à redire.
-
-Le problème est ailleurs, et il est plus embêtant qu'un problème technique : **on ne croit pas une seconde à ce qu'il raconte.**
+Pour juger cette suite, il faut se souvenir de ce qu'était la première, parce que presque tous les changements répondent à un reproche précis.
 
 ![Aliens: Fireteam Elite 2, un couloir de station et les marines coloniaux](/images/aliensfireteam2/screenshot-1.webp)
 
-## Ce que dit vraiment l'univers d'Alien
+## D'où l'on vient
 
-Prenons le temps, parce que c'est là que tout se joue.
+Fireteam Elite, en 2021, c'était un jeu de tir à la troisième personne pour trois joueurs, quelque part entre World War Z et Gears of War. On roulait pour esquiver, on se mettait à couvert, on tirait à l'aveugle, et on avait trois armes sur le dos.
 
-L'univers d'Alien repose sur une idée que le cinéma de science-fiction ose rarement : **l'humanité est seule, et elle a plafonné**. Pas de fédération galactique, pas de peuples extraterrestres à rencontrer, pas de saut technologique salvateur. On voyage lentement, en hypersommeil, dans des vaisseaux industriels qui fuient. Les ordinateurs sont laids. Les imprimantes crachent du papier perforé. C'est un futur d'occasion.
+Cinq classes, chacune enfermée dans son matériel : l'artilleur au fusil, le démolisseur au lourd, le technicien à la tourelle et aux bobines électriques, le docteur au fusil et au pistolet avec sa station de soin déployable, l'éclaireur qu'il fallait débloquer en finissant la campagne. La personnalisation, en revanche, était généreuse : lunettes reflex, chargeurs grande capacité, cache-flammes, et des améliorations qui pouvaient transformer une tourelle en canon lourd.
 
-Politiquement, c'est encore plus intéressant. Trois puissances se partagent l'espace colonisé dans une guerre froide qui ne dit pas son nom.
+Douze missions de vingt à quarante minutes, plus un mode Horde. Et trois défauts que tout le monde a relevés.
 
-Le **Three World Empire**, né de la fusion du britannique Weyland et du japonais Yutani, qui a entraîné dans son sillage l'union du Royaume-Uni et du Japon, plus Mars et Titan. Les trois mondes du nom, ce sont la Terre, Mars et Titan.
+**Le tracé des niveaux était paresseux**, avec une alternance mécanique entre couloir étroit et arène plus ou moins ouverte, et un manque de variété dans les objectifs.
 
-Les **United Americas**, le continent américain unifié pour faire contrepoids à la puissance économique et militaire du précédent, et qui a lancé sa propre colonisation.
+**Le bestiaire était scripté.** Les synthétiques armés de fusils à lunette ou de boucliers, les xénomorphes génétiquement modifiés, tout ça n'apparaissait qu'aux moments prévus par le scénario.
 
-Et un troisième bloc, asiatique, constitué sur le même principe défensif.
+**Et l'intelligence des coéquipiers gérés par la machine était catastrophique.** Les bots fonçaient dans le tas et il fallait passer la mission à les relever, ce qui rendait le solo pénible dès qu'on montait en difficulté.
 
-Retenez ce détail, parce qu'il résume tout : **Weyland-Yutani dispose d'un siège au parlement du Three World Empire**, aux côtés des premiers ministres britannique et japonais. L'entreprise n'a pas infiltré l'État. Elle l'a fondé.
+Ce qui marchait le mieux, curieusement, ce n'étaient pas les missions. C'étaient les phases de survie à la World War Z, quand l'escouade devait se préparer, poser des pièges et tenir un point ensemble.
 
-Voilà l'univers. Des colonies isolées, sous-financées, à des mois de tout secours, appartenant à des sociétés qui pèsent plus lourd que les gouvernements, et qui n'enverront personne parce que le calcul actuariel ne le justifie pas.
+Retenez ce dernier point, parce que la suite en a tiré la leçon.
 
-## Et ce que le xénomorphe est là-dedans
+## Quatre joueurs, et ce que ça change vraiment
 
-Dans ce décor, la créature n'est pas un ennemi. C'est un **accident stratégique**.
+On passe de trois à quatre marines. Ça a l'air anecdotique, ça ne l'est pas.
 
-Rappelons les chiffres du canon, ils sont têtus. Dans Alien, **un seul** spécimen tue six membres d'équipage sur sept. Dans Aliens, il faut une colonie entière transformée en nid pour justifier l'envoi d'un détachement de marines, lequel se fait décimer dans la première demi-heure. L'ensemble du récit repose sur deux propriétés : la créature est **rare**, et elle est **quasiment impossible à tuer proprement**.
+À trois, la composition d'escouade était un compromis permanent : il fallait choisir entre le soin, le contrôle de foule et les dégâts, et on laissait toujours un rôle de côté. À quatre, la couverture devient complète, ce qui autorise le studio à durcir les rencontres sans les rendre injustes.
 
-C'est ce qui rend l'univers fonctionnel. Le xénomorphe intéresse Weyland-Yutani précisément parce qu'il est incontrôlable et introuvable. Trois superpuissances se le disputent en sous-main sans qu'aucune n'y arrive. Le moteur dramatique, c'est la rareté.
+C'est ce qu'il a fait. Les ennemis sont plus rapides et plus retors, ils contournent davantage, et la coordination n'est plus un bonus mais une condition.
 
-Retirez la rareté et il ne reste rien. Un xénomorphe qu'on abat par paquets de trente n'est plus un secret d'État, c'est de la vermine.
+## Les six classes, refaites et pas recopiées
 
-![Aliens: Fireteam Elite 2, une vague de xenomorphes](/images/aliensfireteam2/screenshot-2.webp)
+C'est le gros morceau. Les cinq classes d'origine n'ont pas été rééquilibrées, elles ont été **reconstruites**, avec de nouveaux noms et de nouveaux outils. Et surtout, **le verrouillage des armes par classe a sauté** au profit d'équipements hybrides. C'était la principale rigidité du premier jeu, elle disparaît.
 
-## Ce que le jeu en fait
+**Le Marauder** reprend le rôle du démolisseur, en force lourde. Canon à explosion monté sur l'épaule et roquettes Titan dont les effets se configurent. Ses atouts intéressants sont Rampage, qui empile des bonus de vitesse et de puissance de feu à chaque élimination, et Reactive Charges, qui repousse au corps à corps. Là où le démolisseur n'avait qu'une grosse arme, celui-ci a un choix d'explosifs.
 
-Il en fait des mobs.
+**Le Duelist** remplace l'artilleur, et c'est la meilleure idée du lot : **deux emplacements d'arme principale**, avec passage de l'une à l'autre en pleine mission. Fini le couple fusil-arme rapprochée figé. Sa Burst Configuration s'ajuste entre une variante à fragmentation et une variante de précision, et son atout Stay on Target fait monter les dégâts sur les tirs consécutifs.
 
-Le studio l'annonce sans détour : les xénomorphes attaquent en nombre écrasant, chaque pièce peut être la dernière, et l'on passe d'une confrontation tendue à la guerre ouverte. On dispose de matraques électriques pour le corps à corps, de munitions incendiaires et électriques pour éclaircir les rangs.
+**Le Machinist** prend la suite du technicien mais bascule à l'offensive. Armes à énergie, tourelle Sentry modifiable, drone Bodyguard volant. Son atout Cross-Platform Synergy donne de la résistance aux alliés qui restent près de la tourelle. Le changement de philosophie est net : le technicien posait un objet et se mettait en retrait, le Machinist se bat en même temps.
 
-Des munitions spéciales. Pour éclaircir les rangs. D'une créature dont le sang perce trois ponts d'acier.
+**Le Hunter** reprend le rôle du Lancer et se concentre sur le contrôle et les points faibles. Particle Pulse et Stasis Bolt, avec des variantes de gel, plus les atouts No Mercy et No Rest qui appuient sur le pouvoir d'arrêt. C'est la classe qui décide du rythme d'une rencontre.
 
-Sur une session, ce sont des centaines de xénomorphes qui tombent. Pas quelques-uns dans un moment de panique : des centaines, méthodiquement, avec un compteur.
-
-Et le pire, c'est que le jeu **fonctionne** dans ce registre. Le rythme est bon, la coopération à quatre demande de la coordination, les classes se complètent réellement. Comme jeu de tir coopératif à vagues, c'est compétent.
-
-Comme jeu Alien, ça ne va pas.
-
-## Le contre-argument, qui existe
-
-Soyons honnête, la critique a une faille et il faut la nommer.
-
-Le péché originel n'est pas celui de ce jeu, il date de 1986. **Aliens de James Cameron a lui-même transformé le monstre unique de Ridley Scott en essaim.** Le film montre déjà des marines qui vident des chargeurs sur des grappes de créatures. Toute la branche action de la licence descend de là, et elle a quarante ans.
-
-On peut donc défendre Fireteam Elite 2 comme un héritier légitime de cette branche, pas de l'autre.
-
-Sauf que Cameron a fait deux choses que ce jeu ne fait pas. Il a montré ses marines **perdre**, immédiatement et lourdement, ce qui préservait la menace. Et il n'a produit qu'une seule séquence d'essaim dans tout le film, encadrée par une heure et demie de montée d'angoisse.
-
-L'essaim, chez Cameron, est le point de bascule. Ici, c'est la boucle de jeu.
+**Le Medic** succède au docteur et devient une assurance-vie plutôt qu'une infirmerie. Ses Combat Stims existent en plusieurs variantes, et sa Advanced Trauma Station peut évoluer en station de bonus ou en station empoisonnée. Ses atouts Bedside Manner et Surgeon's Hands accélèrent les relevés et empêchent d'être repoussé pendant qu'on relève un coéquipier. C'est le changement de conception le plus juste : le docteur soignait après, le Medic maintient l'escouade debout pendant qu'elle avance.
 
 ![Aliens: Fireteam Elite 2, les classes et l equipement des marines](/images/aliensfireteam2/screenshot-3.webp)
 
-## Ce que ça coûte
+## La classe Spécialiste, qui est le vrai ajout
 
-Le vrai dommage est là, et il dépasse ce jeu.
+Voilà ce qui n'existait pas du tout dans le premier.
 
-À force d'être abattu par centaines, le xénomorphe s'use. Il a été mascotte de jeu de tir, adversaire de Predator, boss de jeu mobile, et à chaque fois un peu de sa charge s'est évaporée. La créature de Giger était terrifiante parce qu'on ne la voyait presque jamais et qu'on ne pouvait rien contre elle. Elle est devenue un modèle 3D qu'on farme.
+Le **Spécialiste** est une sixième classe, mais ce n'est pas un sixième métier. C'est une classe de construction, débloquée en fin de progression, qui vous laisse **mélanger les capacités, les armes et les atouts des cinq autres** dans un seul marine.
 
-Alien: Isolation avait prouvé qu'on pouvait faire autrement, avec **un** xénomorphe, un seul, pendant quinze heures, et c'est le meilleur jeu tiré de cette licence. La démonstration a été faite. Elle n'a pas été retenue.
+Le mécanisme est bien vu : vous ne récupérez que ce que vous avez déjà débloqué en montant les autres classes. Le Spécialiste n'est donc pas un raccourci, c'est une récompense de fin de parcours. On voit passer dans les démonstrations des assemblages du genre drone Bodyguard du Machinist, rayon à particules du Hunter et fusil Smartgun L56A3 dans la même configuration.
 
-Il faut dire aussi ce que ce jeu ignore complètement : la guerre froide entre les trois puissances, les colonies abandonnées à leur sort, l'entreprise qui préfère un rapport de rentabilité à une évacuation. C'est le matériau politique le plus riche de toute la science-fiction populaire, et il sert ici de papier peint.
+C'est la réponse la plus intelligente au problème du premier jeu. Là où Fireteam Elite vous assignait une identité, la suite vous en laisse fabriquer une, et surtout combler le trou précis qu'il y a dans l'escouade de vos amis ce soir-là.
+
+S'ajoutent des **armes de poing personnalisables**, des grilles d'atouts nettement plus larges et des améliorations d'armes plus profondes. Le premier jeu était déjà généreux sur ce terrain, la suite creuse.
+
+## Le mode Horde, redécoupé
+
+Souvenez-vous : ce qui fonctionnait le mieux dans le premier, c'étaient les phases de tenue de position. Le studio l'a compris et a fait du mode Horde un morceau à part entière, avec **plusieurs cartes dédiées dès le lancement** au lieu d'un mode greffé après coup.
+
+Le format change aussi. Là où il fallait tenir dix vagues avant de pouvoir encaisser ses gains, on joue désormais par **manches de cinq vagues**, d'une douzaine à une quinzaine de minutes chacune, avec des récompenses qui grossissent à mesure qu'on s'enfonce.
+
+Le changement paraît technique, il est structurant. Une session de quinze minutes se décide à deux un dimanche soir, sans bloquer une heure. Et le choix de continuer ou de repartir avec le butin devient une vraie décision, répétée, au lieu d'un seul point de sortie très loin.
+
+Les cartes de défi, qui modifiaient les règles d'une mission dans le premier, reviennent avec plus de profondeur.
+
+![Aliens: Fireteam Elite 2, une vague de xenomorphes](/images/aliensfireteam2/screenshot-2.webp)
+
+## L'arsenal et le bestiaire
+
+Le bestiaire s'est nettement étoffé, et surtout il ne se contente plus d'apparaître aux moments prévus. La variété de nouveaux xénomorphes oblige à rester mobile et à surveiller ce qui arrive par les côtés, là où le premier jeu se laissait jouer en tenant un couloir. C'est le progrès le plus sensible manette en main.
+
+Côté matériel, deux ajouts changent les habitudes. Les **matraques électriques** donnent enfin une réponse au corps à corps, qui était le point mort du premier quand une bestiole passait la ligne. Et les **munitions incendiaires et électriques** servent à éclaircir les rangs avant d'être submergé.
+
+Techniquement, c'est propre. C'est beau, les animations sont soignées, les armes ont du poids, les couloirs ont la bonne texture de métal humide. Cold Iron Studios a livré la suite qu'on lui demandait.
+
+Une réserve, et elle vient directement du premier épisode : le solo dépendait entièrement de coéquipiers gérés par la machine qui fonçaient dans le tas. Passer à quatre augmente le nombre de bots à surveiller si vous jouez seul. C'est le point à vérifier en priorité dans les semaines qui viennent.
+
+## Et pourtant
+
+Tout ce qui précède décrit une vraie suite. Le problème n'est pas là.
+
+L'univers d'Alien repose sur une idée que la science-fiction ose rarement : l'humanité est seule et elle a plafonné. On voyage lentement, en hypersommeil, dans des vaisseaux industriels qui fuient. Trois puissances se partagent l'espace colonisé dans une guerre froide qui ne dit pas son nom, et l'une d'elles, le Three World Empire, est née de la fusion du britannique Weyland et du japonais Yutani. Weyland-Yutani y dispose d'un siège au parlement, aux côtés des premiers ministres britannique et japonais. L'entreprise n'a pas infiltré l'État, elle l'a fondé.
+
+Dans ce décor, le xénomorphe n'est pas un ennemi, c'est un accident stratégique. Rappelons les chiffres du canon : dans Alien, **un seul** spécimen tue six membres d'équipage sur sept. Dans Aliens, il faut une colonie entière transformée en nid pour justifier l'envoi d'un détachement, lequel se fait décimer dans la première demi-heure. Tout repose sur deux propriétés : la créature est **rare** et **quasiment impossible à tuer proprement**.
+
+Retirez la rareté et il ne reste rien. Une créature qu'on abat par paquets de trente n'est plus un secret que trois superpuissances se disputent, c'est de la vermine. Et il y a quelque chose de savoureux à vendre des munitions adaptées pour éclaircir les rangs d'une bestiole dont le sang perce trois ponts d'acier.
+
+Le contre-argument existe et il faut le donner : le péché originel date de 1986, Cameron a lui-même transformé le monstre unique en essaim, et le premier Fireteam Elite assumait déjà de piocher dans ce film plutôt que dans celui de Ridley Scott. Sauf que Cameron a montré ses marines **perdre** immédiatement, ce qui préservait la menace, et qu'il n'a produit qu'une seule séquence d'essaim dans tout le film. Chez lui l'essaim est le point de bascule ; ici c'est la boucle de jeu.
 
 ![Aliens: Fireteam Elite 2, une station coloniale](/images/aliensfireteam2/screenshot-4.webp)
 
@@ -98,12 +112,12 @@ Il faut dire aussi ce que ce jeu ignore complètement : la guerre froide entre l
 
 Six. Elle départage deux choses qui n'ont pas le même poids.
 
-Ce qui monte : une réalisation soignée, des animations de qualité, un armement qui a de la matière, un passage à quatre joueurs qui enrichit vraiment la coordination, des classes différenciées et une classe Spécialiste personnalisable qui donne de la latitude. Cold Iron Studios a fait le travail qu'on lui a demandé.
+Ce qui monte, et c'est substantiel : des classes reconstruites plutôt que rééquilibrées, la fin du verrouillage des armes qui était la rigidité principale du premier, un Duelist qui change d'arme principale en mission, un Machinist qui se bat au lieu de poser un objet, un Medic qui maintient debout au lieu de réparer après, une classe Spécialiste qui récompense la progression en laissant fabriquer son propre marine, un mode Horde promu au rang de contenu principal et redécoupé en manches courtes avec de vraies décisions d'encaissement, un bestiaire qui punit enfin l'immobilité, et un passage à quatre qui rend la coordination obligatoire. C'est une vraie suite, pas une mise à jour vendue au prix fort.
 
-Ce qui descend : une lecture de la licence qui contredit ce qui la rend unique. La rareté remplacée par le nombre, l'invincibilité remplacée par des munitions adaptées, la peur remplacée par la cadence de tir. Et un décor politique fascinant réduit à une toile de fond.
+Ce qui descend : une lecture de la licence qui contredit ce qui la rend unique. La rareté remplacée par le nombre, l'invincibilité par le bon type de munition, la peur par la cadence de tir. Et un décor politique parmi les plus riches de la science-fiction populaire réduit à du papier peint.
 
-Si vous cherchez un jeu de tir coopératif solide avec des amis, il fait le travail et vous passerez de bonnes soirées.
+Si vous cherchez un jeu de tir coopératif solide à jouer à quatre, il fait le travail et il le fait mieux que son prédécesseur sur à peu près tous les points mesurables.
 
-Si vous aimez Alien pour ce qu'Alien raconte, vous allez passer neuf heures à voir votre monstre préféré se faire ranger au rayon des consommables. Et il n'y a pas de réglage de difficulté contre ça.
+Si vous aimez Alien pour ce qu'Alien raconte, aucun de ces progrès ne réglera le malaise. Et il n'y a pas de réglage de difficulté contre ça.
 
 On en discute sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), où le sujet Alien met tout le monde d'accord jusqu'à ce qu'on parle de Prometheus.
