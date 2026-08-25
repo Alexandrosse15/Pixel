@@ -57,6 +57,47 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "1666-amsterdam": {
+    "slug": "1666-amsterdam",
+    "name": "1666: Amsterdam",
+    "steam": {
+      "appId": 3949550,
+      "steamName": "1666: Amsterdam",
+      "confidence": "exact",
+      "developers": [
+        "Panache Digital Games"
+      ],
+      "publishers": [
+        "Panache Digital Games"
+      ],
+      "releaseRaw": "25 Aug, 2026",
+      "releaseDate": "2026-08-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        60,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-25"
+    }
+  },
   "33-immortals": {
     "slug": "33-immortals",
     "name": "33 Immortals",
