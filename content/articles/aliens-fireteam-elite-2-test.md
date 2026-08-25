@@ -36,6 +36,20 @@ Ce qui marchait le mieux, curieusement, ce n'étaient pas les missions. C'étaie
 
 Retenez ce dernier point, parce que la suite en a tiré la leçon.
 
+## Oui, il y a une campagne
+
+Le jeu n'est pas qu'un mode Horde, et c'est une question qui revient souvent parce que la communication a beaucoup insisté sur la coopération.
+
+La campagne compte **quinze missions réparties en six arcs** : Prologue, Rescue and Recovery, Boarding Party, Rock Bottom, Ancient Anomaly et Final Endeavor, à travers quatre environnements distincts.
+
+L'histoire se place en **2207**, cinq ans après celle du premier jeu, et prolonge directement les événements de LV-895 et de l'extension Pathogen. L'USS Endeavor capte la transmission de détresse d'une certaine docteure Pearce, visiblement malade, qui l'oriente vers **LV-558** et la colonie minière Weyland-Yutani de Storr Boon's, débordée par les xénomorphes. Une escouade d'élite, Fireteam Banshee, avait été envoyée pour contenir la situation. Elle a disparu.
+
+La première mission est une opération de sauvetage : retrouver Ko, promue depuis le premier épisode, partie répondre à un appel de détresse et dont on n'a plus de nouvelles.
+
+Deux choses méritent d'être signalées, parce qu'elles vont à l'encontre de ce que je reproche au jeu par ailleurs. Il y a une **reine xénomorphe**, et la campagne retourne vers des lieux liés aux **Space Jockeys**, ce qui est la partie la plus mystérieuse et la moins exploitée de l'univers. Sur ces passages-là, le jeu se souvient d'où il vient.
+
+Le doute porte sur la longueur. Quinze missions, ça paraît généreux sur le papier, mais les retours de la communauté s'inquiètent déjà de ce qu'il reste à faire une fois la campagne bouclée, et espèrent que les extensions ajouteront des missions plutôt que des cosmétiques. La première annoncée, un pack à dix euros, contient justement des tenues, dont celle de Ripley dans Aliens et des personnages tirés d'Alien: Romulus.
+
 ## Quatre joueurs, et ce que ça change vraiment
 
 On passe de trois à quatre marines. Ça a l'air anecdotique, ça ne l'est pas.

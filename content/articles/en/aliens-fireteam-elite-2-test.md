@@ -36,6 +36,20 @@ What worked best, oddly, was not the missions. It was the World War Z-style surv
 
 Hold on to that last point, because the sequel learned from it.
 
+## Yes, there is a campaign
+
+The game is not Horde mode only, and the question comes up a lot because the marketing leaned so heavily on co-op.
+
+The campaign runs to **fifteen missions across six arcs**: Prologue, Rescue and Recovery, Boarding Party, Rock Bottom, Ancient Anomaly and Final Endeavor, across four distinct environments.
+
+The story is set in **2207**, five years after the first game, and follows directly from the events of LV-895 and the Pathogen expansion. The USS Endeavor picks up a distress transmission from a visibly ill Dr Pearce, pointing it towards **LV-558** and the Weyland-Yutani mining colony of Storr Boon's, overrun by xenomorphs. An elite squad, Fireteam Banshee, was sent in to contain it. They have gone missing.
+
+The opening mission is a rescue operation: find Ko, promoted since the first game, who went to answer a distress call and has not been heard from since.
+
+Two things deserve flagging, because they cut against what I criticise elsewhere. There is a **xenomorph queen**, and the campaign returns to locations tied to the **Space Jockeys**, which is the most mysterious and least exploited corner of this universe. In those stretches, the game remembers where it comes from.
+
+The doubt is about length. Fifteen missions sounds generous on paper, but community feedback is already worrying about what remains once the campaign is done, and hoping the expansions add missions rather than cosmetics. The first one announced, a ten-euro pack, contains exactly that: outfits, including Ripley's from Aliens and characters from Alien: Romulus.
+
 ## Four players, and what that really changes
 
 You go from three marines to four. It sounds incidental. It is not.
