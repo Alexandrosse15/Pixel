@@ -11,6 +11,10 @@ interface Comment {
   by_nickname: string
   content: string
   createdAt: string
+  // Une réponse de la rédaction porte un moderatorId. Cusdis imbrique les
+  // réponses dans un objet paginé, pas dans un simple tableau.
+  moderatorId?: string | null
+  replies?: { data?: Comment[] }
 }
 
 interface Props {
@@ -34,6 +38,66 @@ function timeAgo(dateStr: string, locale: string): string {
   if (mins < 60) return `il y a ${mins} min`
   if (hours < 24) return `il y a ${hours}h`
   return `il y a ${days}j`
+}
+
+/**
+ * Un commentaire et le fil de ses réponses. Cusdis imbrique les réponses de la
+ * rédaction sous le commentaire parent : sans ce rendu récursif, elles étaient
+ * bien enregistrées mais invisibles sur le site.
+ */
+function CommentThread({
+  comment,
+  locale,
+  authorLabel,
+  depth = 0,
+}: {
+  comment: Comment
+  locale: string
+  authorLabel: string
+  depth?: number
+}) {
+  const replies = comment.replies?.data ?? []
+  const isAuthor = Boolean(comment.moderatorId)
+
+  return (
+    <div className={depth > 0 ? 'mt-4 border-l-2 border-line pl-4 sm:pl-6' : ''}>
+      <div
+        className={`rounded-sm border p-5 ${
+          isAuthor ? 'border-brand/40 bg-brand/5' : 'border-line bg-bg-card'
+        }`}
+      >
+        <div className="mb-2 flex flex-wrap items-center gap-x-3 gap-y-1">
+          <div
+            className={`flex h-8 w-8 items-center justify-center rounded-full font-display text-xs font-black text-white ${
+              isAuthor ? 'bg-brand' : 'bg-ink-muted'
+            }`}
+          >
+            {comment.by_nickname.charAt(0).toUpperCase()}
+          </div>
+          <span className="text-sm font-semibold text-white">{comment.by_nickname}</span>
+          {isAuthor && (
+            <span className="rounded-sm border border-brand/40 px-1.5 py-0.5 font-display text-[10px] uppercase tracking-widest text-brand">
+              {authorLabel}
+            </span>
+          )}
+          <span className="text-xs text-ink-muted">{timeAgo(comment.createdAt, locale)}</span>
+        </div>
+        <p className="whitespace-pre-line text-sm leading-relaxed text-ink-secondary">
+          {comment.content}
+        </p>
+      </div>
+
+      {replies.map(r => (
+        <CommentThread
+          key={r.id}
+          comment={r}
+          locale={locale}
+          authorLabel={authorLabel}
+          depth={depth + 1}
+        />
+      ))}
+    </div>
+  )
 }
 
 export default function Comments({ slug, title, url }: Props) {
@@ -91,8 +155,8 @@ export default function Comments({ slug, title, url }: Props) {
   }
 
   const labels = locale === 'en'
-    ? { name: 'Name', email: 'Email (optional)', comment: 'Your comment', send: 'Send', pending: 'Your comment has been submitted and is pending moderation.', noComments: 'No comments yet. Be the first.' }
-    : { name: 'Nom', email: 'Email (facultatif)', comment: 'Ton commentaire', send: 'Envoyer', pending: 'Ton commentaire a bien été envoyé. Il sera visible après modération.', noComments: 'Aucun commentaire pour le moment. Sois le premier.' }
+    ? { name: 'Name', email: 'Email (optional)', comment: 'Your comment', send: 'Send', pending: 'Your comment has been submitted and is pending moderation.', noComments: 'No comments yet. Be the first.', author: 'Editor' }
+    : { name: 'Nom', email: 'Email (facultatif)', comment: 'Ton commentaire', send: 'Envoyer', pending: 'Ton commentaire a bien été envoyé. Il sera visible après modération.', noComments: 'Aucun commentaire pour le moment. Sois le premier.', author: 'Rédaction' }
 
   return (
     <div className="mt-16 border-t border-line pt-12">
@@ -106,16 +170,7 @@ export default function Comments({ slug, title, url }: Props) {
           <p className="text-sm text-ink-muted">{labels.noComments}</p>
         ) : (
           comments.map(c => (
-            <div key={c.id} className="rounded-sm border border-line bg-bg-card p-5">
-              <div className="mb-2 flex items-center gap-3">
-                <div className="flex h-8 w-8 items-center justify-center rounded-full bg-brand font-display text-xs font-black text-white">
-                  {c.by_nickname.charAt(0).toUpperCase()}
-                </div>
-                <span className="text-sm font-semibold text-white">{c.by_nickname}</span>
-                <span className="text-xs text-ink-muted">{timeAgo(c.createdAt, locale)}</span>
-              </div>
-              <p className="text-sm leading-relaxed text-ink-secondary">{c.content}</p>
-            </div>
+            <CommentThread key={c.id} comment={c} locale={locale} authorLabel={labels.author} />
           ))
         )}
       </div>
