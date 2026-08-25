@@ -7170,6 +7170,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "football-agent": {
+    "slug": "football-agent",
+    "name": "Football Agent",
+    "steam": {
+      "appId": 4860970,
+      "steamName": "Football Agent",
+      "confidence": "exact",
+      "developers": [
+        "ATERO GAMES"
+      ],
+      "publishers": [
+        "ATERO GAMES"
+      ],
+      "releaseRaw": "25 Aug, 2026",
+      "releaseDate": "2026-08-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        18,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-25"
+    }
+  },
   "forsaken-realms-vahrin-s-call": {
     "slug": "forsaken-realms-vahrin-s-call",
     "name": "Forsaken Realms Vahrin's Call",
@@ -7350,6 +7389,61 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "funguys-swarm": {
+    "slug": "funguys-swarm",
+    "name": "Funguys Swarm",
+    "steam": {
+      "appId": 3371770,
+      "steamName": "Funguys Swarm",
+      "confidence": "exact",
+      "developers": [
+        "Stairway Games"
+      ],
+      "publishers": [
+        "Stairway Games"
+      ],
+      "releaseRaw": "21 Aug, 2025",
+      "releaseDate": "2025-08-21",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 980,
+        "positive": 896,
+        "percent": 91,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-08-25"
     }
   },
   "funnel-runners": {
@@ -10865,6 +10959,45 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "lorne": {
+    "slug": "lorne",
+    "name": "Lorne",
+    "steam": {
+      "appId": 2172970,
+      "steamName": "Lorne",
+      "confidence": "exact",
+      "developers": [
+        "Lorne Studios"
+      ],
+      "publishers": [
+        "Lorne Studios"
+      ],
+      "releaseRaw": "25 Aug, 2026",
+      "releaseDate": "2026-08-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-25"
+    }
+  },
   "low-budget-repairs": {
     "slug": "low-budget-repairs",
     "name": "Low-Budget Repairs",
@@ -13828,6 +13961,64 @@
     "name": "Pokopia",
     "steam": null,
     "reason": "introuvable"
+  },
+  "polylithic": {
+    "slug": "polylithic",
+    "name": "Polylithic",
+    "steam": {
+      "appId": 1839060,
+      "steamName": "Polylithic",
+      "confidence": "exact",
+      "developers": [
+        "polyperfect"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "releaseRaw": "9 Nov, 2023",
+      "releaseDate": "2023-11-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "13,99€",
+        "cents": 1399,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        55,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 195,
+        "positive": 131,
+        "percent": 67,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-08-25"
+    }
   },
   "ponder-thy-realm": {
     "slug": "ponder-thy-realm",
@@ -21743,6 +21934,48 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "western-rye": {
+    "slug": "western-rye",
+    "name": "Western Rye",
+    "steam": {
+      "appId": 2358630,
+      "steamName": "Western Rye",
+      "confidence": "exact",
+      "developers": [
+        "Nixalon Studios"
+      ],
+      "publishers": [
+        "Nixalon Studios"
+      ],
+      "releaseRaw": "25 Aug, 2026",
+      "releaseDate": "2026-08-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        18,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-25"
     }
   },
   "wild-blue-skies": {
