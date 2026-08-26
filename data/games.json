@@ -14054,6 +14054,44 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "police-officer": {
+    "slug": "police-officer",
+    "name": "Police Officer",
+    "steam": {
+      "appId": 4281060,
+      "steamName": "Police Officer",
+      "confidence": "exact",
+      "developers": [
+        "Turquoise Games"
+      ],
+      "publishers": [
+        "TK Interactive"
+      ],
+      "releaseRaw": "26 Aug, 2026",
+      "releaseDate": "2026-08-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "polylithic": {
     "slug": "polylithic",
     "name": "Polylithic",
