@@ -114,7 +114,7 @@ J'ajoute un reproche plus tactique : on part en mission avec très peu d'informa
 
 ## Sur le respect de l'univers
 
-Il faut en dire un mot parce que c'est ce qui distingue une adaptation d'un habillage.
+Il faut en dire un mot, parce que c'est la frontière entre une adaptation et un simple habillage.
 
 L'action se situe au crépuscule de la Guerre des Clones, à ce moment précis où les alliances se délitent et où la République commence à ne plus ressembler à ce qu'elle prétend être. C'est la meilleure période possible pour un jeu qui parle de mercenaires : tout le monde a une raison de trahir.
 
