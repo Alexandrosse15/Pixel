@@ -2624,6 +2624,51 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "brigandine-abyss": {
+    "slug": "brigandine-abyss",
+    "name": "BRIGANDINE ABYSS",
+    "steam": {
+      "appId": 3211430,
+      "steamName": "BRIGANDINE ABYSS",
+      "confidence": "exact",
+      "developers": [
+        "Adglobe"
+      ],
+      "publishers": [
+        "NIS America, Inc.",
+        "Happinet"
+      ],
+      "releaseRaw": "26 Aug, 2026",
+      "releaseDate": "2026-08-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        78,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "bulletreign-survivors": {
     "slug": "bulletreign-survivors",
     "name": "Bulletreign: Survivors",
