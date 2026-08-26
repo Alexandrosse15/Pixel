@@ -1,22 +1,24 @@
 ---
-title: "Titanic Escape Simulator : le jeu que tout le monde traitait de faux est sorti, et il a embarqué les meilleurs spécialistes du paquebot"
+title: "Titanic Escape Simulator : le navire est superbe, et il a été construit par quelqu'un d'autre"
 seoTitle: "Titanic Escape Simulator : test et avis"
 slug: "titanic-escape-simulator-test"
 category: "tests"
-excerpt: "Annoncé en 2025 avec une bande-annonce générée par IA, moqué partout, donné pour mort. Il arrive avec l'équipe de Titanic: Honor and Glory au générique."
+excerpt: "Le navire est somptueux parce qu'il a été modélisé par quelqu'un d'autre. Autour, un jeu qui vous fait traverser le plancher au bout de cinq mètres."
 date: "2026-08-24"
 author: "Alexandrosse"
-readTime: "9 min"
-score: 7
+readTime: "10 min"
+score: 4
 image_color: "from-slate-900 via-blue-950 to-zinc-950"
 coverImage: "/images/titanicescape/screenshot-1.webp"
 gameName: "Titanic Escape Simulator"
 featured: false
 ---
 
+> **Correction du 26 août 2026.** La première version de ce test présentait Vintage Digital Revival comme codéveloppeur du jeu, et en tirait la conclusion que l'équipe de Titanic: Honor and Glory travaillait dessus. C'est inexact, un lecteur nous l'a signalé et il avait raison. Vérification faite, VDR a **vendu une licence** sur ses modèles du paquebot ; le studio n'a pas participé au développement. Le crédit « développeur » affiché sur la fiche Steam surestime largement cette relation. La note passe de 7 à 4 et les passages concernés ont été réécrits, en tenant compte de l'accueil réservé au jeu depuis sa sortie.
+
 Commençons par le titre, parce qu'il faut évacuer le fou rire. **Titanic Escape Simulator.** Simulateur d'évasion du Titanic. On sait comment ça finit, on connaît le nombre de canots, et quelqu'un a quand même écrit le mot simulateur.
 
-Sauf que le jeu, lui, est sérieux. Et son histoire est bien meilleure que sa blague.
+Le jeu, lui, se prend au sérieux. Et l'histoire de sa fabrication est plus intéressante que la traversée qu'il propose.
 
 ![Titanic Escape Simulator, les coursives du paquebot](/images/titanicescape/screenshot-1.webp)
 
@@ -52,7 +54,7 @@ Les énigmes sont bonnes. Pas retorses, pas gratuites, construites sur la géogr
 
 C'est le premier truc qui frappe. Le navire est somptueux, l'Unreal Engine est utilisé avec goût plutôt qu'avec ostentation, et les intérieurs de première classe ont ce grain de matière qui donne envie de s'arrêter pour regarder une rampe d'escalier.
 
-Et voilà pourquoi, et c'est là que l'histoire devient intéressante.
+Et il y a une raison très précise à ça, que je n'avais pas comprise en écrivant la première version de ce test.
 
 ## Le retournement
 
@@ -64,17 +66,23 @@ Un commentaire résumait l'humeur générale : je resterai sur Titanic: Honor an
 
 Titanic: Honor and Glory, c'est le projet fou de **Vintage Digital Revival**, en développement depuis 2012. Une reconstitution intégrale du paquebot, pièce par pièce, menée avec des historiens, des collectionneurs, des plans d'époque et l'analyse de l'épave. La référence absolue en la matière, celle que tout le monde cite.
 
-Regardez le générique de Titanic Escape Simulator, sorti aujourd'hui. **Vintage Digital Revival y figure comme codéveloppeur.**
+Regardez la fiche Steam de Titanic Escape Simulator. **Vintage Digital Revival y figure comme développeur**, aux côtés de magicprostudio.
 
-Autrement dit, l'équipe qu'on opposait au projet comme preuve de son ridicule travaille dessus. C'est un retournement que je n'ai pas vu venir, et c'est l'explication la plus simple de pourquoi ce navire a l'air d'un vrai navire : parce que les gens qui l'ont modélisé passent quatorze ans dessus.
+Sauf que ce crédit ne veut pas dire ce qu'il laisse croire, et j'ai eu tort de le lire au premier degré. Interrogé par la communauté, le studio a répondu que le jeu **utilise des assets Titanic sous licence** de VDR, en précisant que Titanic Escape Simulator a ses propres systèmes de jeu et que seul le navire vient de la reconstitution de VDR.
+
+Traduction : VDR a vendu une licence sur ses modèles. VDR n'a pas fait ce jeu.
+
+Ça change tout. Le navire est somptueux parce qu'il a été modélisé pendant quatorze ans par des gens qui n'ont pas travaillé sur le reste. Et afficher un fournisseur de décors au rang de développeur sur une page de vente, c'est laisser entendre une caution qui n'existe pas. Plusieurs joueurs ont d'ailleurs relevé que les intérieurs sont ceux de la démo de Titanic: Honor and Glory, et qu'on peut parcourir le même navire gratuitement dans Project 401, distribué par VDR.
 
 ![Titanic Escape Simulator, le naufrage et l inclinaison des ponts](/images/titanicescape/screenshot-3.webp)
 
 ## Ce que ça ne règle pas
 
-Restons lucides, l'histoire est belle mais elle ne vaut pas caution.
+Une fois le décor mis de côté, il reste le jeu.
 
-**Le passé de la fiche pèse.** Une annonce vendue avec des images générées reste une annonce vendue avec des images générées, et la confiance ne se reconstruit pas parce qu'un bon studio arrive en renfort. Le doute est légitime et il mérite d'être posé sur la table plutôt que balayé.
+**Et surtout, l'exécution ne suit pas.** Les retours de joueurs depuis la sortie sont accablants et convergents : textures qui ne se chargent pas, visages de personnages absents, éclairage déréglé, écrans noirs, plantages. Un joueur raconte être passé à travers le plancher au bout de cinq mètres de marche et avoir coulé pendant deux mille mètres. Les personnages sont décrits comme des figures de cire qui parlent chacun dans leur coin, et le doublage est largement jugé synthétique. Un historien qui participe aux recherches sur le Titanic écrit que le jeu ressemble à une bêta très précoce plutôt qu'à un produit fini.
+
+L'accueil s'en ressent : sur près de trois cents avis, un peu moins des deux tiers sont positifs, ce qui place le jeu en réception **moyenne**.
 
 **Le sujet reste délicat.** Mille cinq cents morts, majoritairement en troisième classe, transformés en toile de fond d'un jeu vidéo, ça demande du tact. Le jeu s'en sort en choisissant l'enquête et le choix moral plutôt que le parcours d'obstacles, et en ne cherchant pas le frisson à bon compte. Ça ne fera pas taire tout le monde et c'est normal.
 
@@ -84,12 +92,12 @@ Restons lucides, l'histoire est belle mais elle ne vaut pas caution.
 
 ## Le verdict
 
-Sept sur dix, et je ne l'aurais pas parié il y a un an.
+Il reste une chose vraie dans ce que j'écrivais : ce navire est magnifique et le parcourir a quelque chose d'émouvant.
 
-Ce qui monte la note : une structure narrative qui résout intelligemment le problème du sujet, des énigmes bien calibrées sur la géographie du navire, une direction artistique qui profite manifestement de la meilleure documentation existante sur le Titanic, et un choix final qui donne du poids à ce qu'on a fait avant.
+Le problème, c'est que ce navire n'appartient pas à ce jeu. Il a été construit ailleurs, par d'autres, sur quatorze ans, et il est visitable gratuitement dans Project 401. Ce que Titanic Escape Simulator ajoute autour, c'est une enquête dont l'idée était bonne, et une exécution qui casse dès qu'on s'écarte du couloir prévu.
 
-Ce qui la retient : une durée qui reste à évaluer, un passé promotionnel qui laisse des traces, et un sujet sur lequel une partie du public ne suivra pas, quelle que soit la qualité du travail.
+Payer seize euros pour traverser le plancher d'un décor qu'on peut visiter pour rien, ce n'est pas une affaire.
 
-Il sort aujourd'hui sur Steam, et il arrive aussi sur PlayStation et Xbox. Contre toute attente, ce n'était pas du vent.
+Je maintiens que la structure narrative était astucieuse sur le papier, et qu'une enquête avant le choc était la bonne réponse au problème du sujet. Mais on ne note pas une intention, on note ce qui tourne sur la machine.
 
 Vous embarquez ou vous restez à quai ? On en parle sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), et la question de la porte y est toujours ouverte.
