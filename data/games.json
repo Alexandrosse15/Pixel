@@ -6779,6 +6779,49 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "fell-sell": {
+    "slug": "fell-sell",
+    "name": "Fell & Sell",
+    "steam": {
+      "appId": 4627110,
+      "steamName": "Fell & Sell",
+      "confidence": "exact",
+      "developers": [
+        "Art Games Studio S.A."
+      ],
+      "publishers": [
+        "Art Games Studio S.A.",
+        "PlayWay S.A."
+      ],
+      "releaseRaw": "26 Aug, 2026",
+      "releaseDate": "2026-08-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        3,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        74,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "fields-of-mistria": {
     "slug": "fields-of-mistria",
     "name": "Fields of Mistria",
