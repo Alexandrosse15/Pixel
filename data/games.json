@@ -17869,6 +17869,51 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "states-of-power": {
+    "slug": "states-of-power",
+    "name": "States of Power",
+    "steam": {
+      "appId": 3126500,
+      "steamName": "States of Power",
+      "confidence": "exact",
+      "developers": [
+        "Sarunas"
+      ],
+      "publishers": [
+        "Sarunas"
+      ],
+      "releaseRaw": "26 Aug, 2026",
+      "releaseDate": "2026-08-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        67,
+        68,
+        78,
+        76,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "steel-fortress-awakening": {
     "slug": "steel-fortress-awakening",
     "name": "Steel Fortress Awakening",
