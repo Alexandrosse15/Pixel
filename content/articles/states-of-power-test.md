@@ -78,8 +78,6 @@ Pour un jeu de ce genre, c'est le meilleur investissement de longévité qui exi
 
 Il y a des raisons de rester prudent, et elles sont sérieuses.
 
-**Le jeu sort aujourd'hui, développé par une seule personne, sans aucun avis de joueurs.** Une grande stratégie tient ou tombe sur l'équilibrage, et l'équilibrage d'un jeu à quatre idéologies, un marché mondial et un arbre technologique complet ne se règle pas en quelques semaines. Il existe forcément une stratégie dominante que personne n'a encore trouvée.
-
 **L'intelligence artificielle est le point d'interrogation numéro un.** C'est le talon d'Achille de tous les jeux du genre, y compris ceux qui ont des studios entiers derrière eux. Si l'adversaire géré par la machine ne sait pas défendre une ligne de ravitaillement, le solo se videra de son intérêt en trois parties et il ne restera que le multijoueur.
 
 **Et une partie en une session, c'est un pari à double sens.** Ce qu'on gagne en accessibilité, on le perd en montée en puissance. Le plaisir particulier de Hearts of Iron, c'est de voir une décision industrielle de 1936 produire ses effets en 1943. Comprimer la guerre entière dans une soirée risque de transformer cette causalité longue en simple enchaînement de coups.

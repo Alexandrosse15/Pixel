@@ -52,7 +52,7 @@ What worries me is structural, and it is the classic risk of this type of game.
 
 **And the countdown's balance.** Too short and you never explore, making the world pointless. Too long and the threat vanishes, leaving only a building game. Everything turns on that setting, and it is precisely the sort of thing early access spends months adjusting.
 
-The game launches today, made by Lorne Studios, with no player reviews yet.
+The game launches today, made by Lorne Studios.
 
 ![Lorne, a wave of attackers at the ramparts](/images/lorne/screenshot-3.webp)
 

@@ -78,8 +78,6 @@ For a game of this kind, that is the best longevity investment available. A lone
 
 There are reasons for caution, and they are serious.
 
-**The game launches today, made by one person, with no player reviews at all.** A grand strategy game stands or falls on balance, and balancing four ideologies, a world market and a full technology tree is not settled in a few weeks. There is necessarily a dominant strategy nobody has found yet.
-
 **The AI is question mark number one.** It is the Achilles heel of every game in this genre, including those with entire studios behind them. If the machine opponent cannot defend a supply line, single-player will empty out in three runs and only multiplayer will remain.
 
 **And a match in one session is a two-way wager.** What you gain in accessibility you lose in escalation. The particular pleasure of Hearts of Iron is watching an industrial decision from 1936 pay off in 1943. Compressing an entire war into an evening risks turning that long causality into a simple sequence of moves.

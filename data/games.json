@@ -2570,6 +2570,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "box-knight": {
+    "slug": "box-knight",
+    "name": "Box Knight",
+    "steam": {
+      "appId": 1678650,
+      "steamName": "Box Knight",
+      "confidence": "exact",
+      "developers": [
+        "We Made A Thing Studios"
+      ],
+      "publishers": [
+        "We Made A Thing Studios"
+      ],
+      "releaseRaw": "25 Aug, 2026",
+      "releaseDate": "2026-08-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        39,
+        24,
+        22,
+        28,
+        55,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 9,
+        "positive": 9,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "brigador-killers": {
     "slug": "brigador-killers",
     "name": "Brigador Killers",

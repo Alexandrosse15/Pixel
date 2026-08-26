@@ -50,7 +50,7 @@ Let us be straight about two things.
 
 **And a survival game's pacing is judged over time.** The first three hours of a game like this are almost always good, because everything is new and every resource counts. The question is what remains once the cabin is finished, the well dug and the smelter lit.
 
-The game launches today, made by Nixalon Studios, with no player reviews yet since it has only just opened its doors.
+The game launches today, made by Nixalon Studios.
 
 ![Western Rye, a sandstorm on the frontier](/images/westernrye/screenshot-3.webp)
 

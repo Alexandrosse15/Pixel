@@ -72,7 +72,7 @@ Instead, everyone gets their own station and their own evening. That is the kind
 
 Generic. Not botched, not ugly, simply interchangeable with a hundred other productions of the same calibre. Smooth-edged characters, clean interiors, neutral lighting. You forget what you saw as you close the game.
 
-The studio is Turquoise Games, published by TK Interactive, and the game launches today with no demo and no player reviews.
+The studio is Turquoise Games, published by TK Interactive, and the game launches today.
 
 ![Police Officer, a call-out in the field](/images/policeofficer/screenshot-4.webp)
 

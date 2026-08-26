@@ -50,7 +50,7 @@ Il faut être franc sur deux choses.
 
 **Et le rythme d'un survival se juge sur la durée.** Les trois premières heures d'un jeu comme celui-ci sont presque toujours bonnes, parce que tout est nouveau et que chaque ressource compte. La question est de savoir ce qu'il reste quand la cabane est finie, le puits creusé et le fourneau allumé.
 
-Le jeu sort aujourd'hui, développé par Nixalon Studios, sans avis de joueurs pour l'instant puisqu'il vient d'ouvrir ses portes.
+Le jeu sort aujourd'hui, développé par Nixalon Studios.
 
 ![Western Rye, une tempete de sable sur la frontiere](/images/westernrye/screenshot-3.webp)
 

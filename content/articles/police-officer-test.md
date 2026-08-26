@@ -72,7 +72,7 @@ Là, chacun son commissariat, chacun sa soirée. C'est le genre d'absence qui co
 
 Générique. Pas raté, pas laid, simplement interchangeable avec une centaine d'autres productions du même calibre. Des personnages aux formes lisses, des intérieurs propres, un éclairage neutre. On oublie ce qu'on a vu en fermant le jeu.
 
-Le studio s'appelle Turquoise Games, l'édition est signée TK Interactive, et le jeu sort aujourd'hui sans démo ni avis de joueurs.
+Le studio s'appelle Turquoise Games, l'édition est signée TK Interactive, et le jeu sort aujourd'hui sans démo.
 
 ![Police Officer, une intervention sur le terrain](/images/policeofficer/screenshot-4.webp)
 

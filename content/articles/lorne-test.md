@@ -52,7 +52,7 @@ Ce qui m'inquiète relève de la structure, et c'est le risque classique de ce t
 
 **Et l'équilibrage du chronomètre.** Trop court, on n'explore jamais et le monde ne sert à rien. Trop long, la menace disparaît et il ne reste qu'un jeu de construction. Tout se joue sur ce réglage, et c'est précisément le genre de chose qu'un accès anticipé passe des mois à ajuster.
 
-Le jeu sort aujourd'hui, développé par Lorne Studios, sans avis de joueurs pour l'instant.
+Le jeu sort aujourd'hui, développé par Lorne Studios.
 
 ![Lorne, une vague d assaillants sur les remparts](/images/lorne/screenshot-3.webp)
 
