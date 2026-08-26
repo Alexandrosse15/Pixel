@@ -7170,6 +7170,55 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "folk-emerging": {
+    "slug": "folk-emerging",
+    "name": "Folk Emerging",
+    "steam": {
+      "appId": 2275300,
+      "steamName": "Folk Emerging",
+      "confidence": "exact",
+      "developers": [
+        "Curious Dynamics"
+      ],
+      "publishers": [
+        "Curious Dynamics"
+      ],
+      "releaseRaw": "26 Aug, 2026",
+      "releaseDate": "2026-08-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        67,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-26"
+    }
+  },
   "football-agent": {
     "slug": "football-agent",
     "name": "Football Agent",
