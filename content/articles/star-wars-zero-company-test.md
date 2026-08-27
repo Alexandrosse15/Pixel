@@ -126,7 +126,7 @@ Ce n'est pas une licence posée sur une grille. C'est un jeu qui a lu ses source
 
 ## Ce que j'en retire
 
-Bit Reactor n'a pas réinventé le genre et ne s'en cache pas. Qui cherche un bac à sable tactique où tout se contourne restera sur sa faim : ici, on joue à un XCOM, avec ses règles, ses couvertures et ses tirs manqués à quatre-vingt-quinze pour cent qui font hurler.
+Bit Reactor n'a pas réinventé le genre et ne s'en cache pas. Qui cherche un bac à sable tactique où tout se contourne restera sur sa faim : ici, on joue à un XCOM, avec ses règles, ses couvertures et ses tirs manqués à 95 % qui font hurler.
 
 Ce que le studio a fait, en revanche, c'est régler le problème que ce genre traîne depuis vingt ans. Un jeu de tactique se souvient rarement de ses personnages, parce qu'ils sont interchangeables par construction. En écrivant l'escouade au lieu de vous la faire fabriquer, et en branchant les relations directement sur les statistiques, Zero Company obtient les deux choses à la fois : une campagne où l'on calcule des angles de tir, et une campagne dont on se rappelle les prénoms.
 

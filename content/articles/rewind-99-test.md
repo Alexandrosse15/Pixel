@@ -60,7 +60,7 @@ Autrement dit, les avis négatifs que vous lirez aujourd'hui décrivent une vers
 
 ## Un détail qui compte, ici plus qu'ailleurs
 
-Le studio affiche sur sa page une mention que je n'avais pas vue souvent : **cent pour cent fait par des humains**. Chaque asset, chaque illustration, chaque support de communication réalisé par de vrais artistes.
+Le studio affiche sur sa page une mention que je n'avais pas vue souvent : **100 % fait par des humains**. Chaque asset, chaque illustration, chaque support de communication réalisé par de vrais artistes.
 
 Après le mois qu'on vient de passer à démonter des jeux vendus avec des images générées, ça mérite d'être relevé. Ce n'est pas un argument de qualité en soi, un jeu peut être mauvais et entièrement fait à la main. Mais c'est une déclaration vérifiable, engageante, et il se trouve que le style visuel très typé du jeu la rend crédible.
 
