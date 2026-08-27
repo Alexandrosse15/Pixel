@@ -3833,6 +3833,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "cold-war-battles": {
+    "slug": "cold-war-battles",
+    "name": "Cold War Battles",
+    "steam": {
+      "appId": 4443780,
+      "steamName": "Cold War Battles",
+      "confidence": "exact",
+      "developers": [
+        "Kudos Games"
+      ],
+      "publishers": [
+        "Kudos Games"
+      ],
+      "releaseRaw": "27 Aug, 2026",
+      "releaseDate": "2026-08-27",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        80,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-27"
+    }
+  },
   "combolands": {
     "slug": "combolands",
     "name": "Combolands",
