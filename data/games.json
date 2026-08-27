@@ -4878,6 +4878,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dig": {
+    "slug": "dig",
+    "name": "DIG",
+    "steam": {
+      "appId": 3548510,
+      "steamName": "DIG",
+      "confidence": "exact",
+      "developers": [
+        "Alkame Games"
+      ],
+      "publishers": [
+        "Alkame Games"
+      ],
+      "releaseRaw": "27 Aug, 2026",
+      "releaseDate": "2026-08-27",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-27"
+    }
+  },
   "dig-dig-die": {
     "slug": "dig-dig-die",
     "name": "Dig, Dig, Die",
