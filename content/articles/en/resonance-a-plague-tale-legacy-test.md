@@ -11,6 +11,7 @@ score: 7.5
 image_color: "from-stone-900 via-amber-950 to-slate-950"
 coverImage: "/images/plaguetaleresonance/screenshot-1.webp"
 gameName: "Resonance: A Plague Tale Legacy"
+buyUrl: "https://gamesplanet.com/game/resonance-a-plague-tale-legacy-steam-key--7790-1?ref=insertcoins"
 featured: false
 ---
 
