@@ -15350,6 +15350,63 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "rewind-99": {
+    "slug": "rewind-99",
+    "name": "Rewind 99",
+    "steam": {
+      "appId": 3977290,
+      "steamName": "Rewind 99",
+      "confidence": "exact",
+      "developers": [
+        "Gunmetal Games",
+        "Real Fake Games"
+      ],
+      "publishers": [
+        "Gunmetal Games"
+      ],
+      "releaseRaw": "11 Mar, 2026",
+      "releaseDate": "2026-03-11",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,79€",
+        "cents": 1179,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 475,
+        "positive": 366,
+        "percent": 77,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-08-27"
+    }
+  },
   "rift-wizard-3": {
     "slug": "rift-wizard-3",
     "name": "Rift Wizard 3",
