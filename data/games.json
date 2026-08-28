@@ -158,6 +158,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "a-little-age": {
+    "slug": "a-little-age",
+    "name": "A Little Age",
+    "steam": {
+      "appId": 1530850,
+      "steamName": "A Little Age",
+      "confidence": "exact",
+      "developers": [
+        "Benerot"
+      ],
+      "publishers": [
+        "Benerot"
+      ],
+      "releaseRaw": "28 Aug, 2026",
+      "releaseDate": "2026-08-28",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-28"
+    }
+  },
   "adorable-adventures": {
     "slug": "adorable-adventures",
     "name": "Adorable Adventures",
