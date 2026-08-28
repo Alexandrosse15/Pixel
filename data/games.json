@@ -10227,6 +10227,56 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "inferno-protocol": {
+    "slug": "inferno-protocol",
+    "name": "Inferno Protocol",
+    "steam": {
+      "appId": 3908940,
+      "steamName": "Inferno Protocol",
+      "confidence": "exact",
+      "developers": [
+        "Tektonic Interactive"
+      ],
+      "publishers": [
+        "Tektonic Interactive"
+      ],
+      "releaseRaw": "28 Aug, 2026",
+      "releaseDate": "2026-08-28",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        67,
+        68,
+        55,
+        57,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-28"
+    }
+  },
   "invincible-vs": {
     "slug": "invincible-vs",
     "name": "Invincible VS",
