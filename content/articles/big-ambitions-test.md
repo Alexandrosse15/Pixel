@@ -18,6 +18,8 @@ Trente-six ans, et j'ai passé la première heure à ne pas savoir à quoi je jo
 
 Je marchais dans une rue de New York, je montais dans une voiture, j'entrais dans un immeuble. Puis j'achetais un canapé, je vérifiais que j'avais assez dormi, et je consultais une feuille de charges salariales. Trois jeux différents, dans la même session, sans transition.
 
+La caméra n'aide pas à trancher. On joue en vue haute, penchée sur la ville, à la façon des premiers GTA, et on y déplace un bonhomme qui a des besoins et des meubles, à la façon des Sims. Deux références qui n'ont rien à voir, et un jeu qui les convoque sans prévenir.
+
 Il m'a fallu un moment pour comprendre que c'était le principe, et pas un défaut.
 
 ![Big Ambitions, une rue de New York](/images/bigambitions/screenshot-1.webp)
@@ -75,6 +77,22 @@ Il faut **dormir**, rester en bonne santé, rester de bonne humeur. On passe d'u
 On achète des voitures, du gros véhicule familial à la sportive. On peut placer son argent dans des fonds d'investissement ou aller le perdre au casino. L'immobilier est un placement à part entière : n'importe quel immeuble de la ville peut être acheté.
 
 C'est cette moitié-là qui donne l'impression de jouer à autre chose. Elle n'est pas décorative : votre état conditionne votre capacité à travailler, et le confort de votre logement conditionne votre état. Un patron épuisé gère mal.
+
+## Le tableau de bord qui trahit la profondeur
+
+Il y a un écran qui résume mieux que tout le reste le sérieux de cette simulation, et c'est celui du marché.
+
+La ville est découpée en quartiers réels, du Garment District à Hell's Kitchen en passant par Industry City, Lower Manhattan, Midtown, Murray Hill et désormais les Hamptons. Et chacun est décrit par des données que vous devez apprendre à lire.
+
+La **composition sociale** d'abord, avec la répartition entre classes populaire, moyenne et supérieure. Un quartier peuplé à 70 % de classe ouvrière ne consomme pas ce qu'achète un quartier huppé, et implanter la mauvaise boutique au mauvais endroit se paie en invendus.
+
+Les **prix de l'immobilier au mètre carré**, séparés entre commerce, bureau, entrepôt et résidentiel. Sur une même rue, l'écart entre un local d'entrepôt et un logement peut être de un à cinq.
+
+Et surtout, une **liste de la demande par produit**, avec le pourcentage de besoin non satisfait, le prix le plus bas du marché, un indice de prix à l'import et le nombre de concurrents qui vendent déjà la chose. C'est très exactement une étude de marché.
+
+S'y ajoutent des événements qui bousculent les chaînes d'approvisionnement : un fournisseur débordé qui annonce une rupture prochaine, une commande en attente pour une semaine, une pénurie sur deux semaines. Vos plans dépendent de gens que vous ne contrôlez pas.
+
+C'est là que le jeu cesse d'être une curiosité de genre pour devenir une vraie simulation économique. On ne choisit pas un commerce parce qu'il a l'air sympathique, on le choisit parce qu'un tableau dit que la demande est à 57 % et que trois concurrents seulement se partagent le marché.
 
 ![Big Ambitions, la gestion des employes et des finances](/images/bigambitions/screenshot-3.webp)
 

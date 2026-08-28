@@ -18,6 +18,8 @@ Thirty-six years old, and I spent the first hour not knowing what I was playing.
 
 I was walking down a New York street, getting into a car, entering a building. Then I was buying a sofa, checking whether I had slept enough, and consulting a payroll sheet. Three different games, in the same session, with no transition.
 
+The camera does not help you decide. You play from a high, tilted view over the city, the way the early GTA games worked, and you move around a little person with needs and furniture, the way The Sims worked. Two references with nothing in common, and a game that summons both without warning.
+
 It took me a while to understand that this was the point, not a flaw.
 
 ![Big Ambitions, a New York street](/images/bigambitions/screenshot-1.webp)
@@ -75,6 +77,22 @@ You have to **sleep**, stay healthy, stay in a good mood. You move from a studio
 You buy cars, from the big family vehicle to the sports model. You can put money into investment funds or go and lose it at the casino. Property is an investment in its own right: any building in the city can be bought.
 
 It is that half which gives the impression of playing something else. It is not decorative: your condition governs your ability to work, and the comfort of your home governs your condition. An exhausted boss manages badly.
+
+## The dashboard that gives away the depth
+
+There is one screen that sums up the seriousness of this simulation better than anything else, and it is the market panel.
+
+The city is divided into real districts, from the Garment District to Hell's Kitchen by way of Industry City, Lower Manhattan, Midtown, Murray Hill and now the Hamptons. And each is described by data you have to learn to read.
+
+**Social composition** first, with the split between working, middle and upper class. A district that is 70 per cent working class does not consume what an affluent one buys, and putting the wrong shop in the wrong place is paid for in unsold stock.
+
+**Property prices per square metre**, separated between retail, office, warehouse and residential. On the same street, the gap between warehouse space and housing can be fivefold.
+
+And above all, a **demand list by product**, with the percentage of unmet need, the lowest market price, an import price index and the number of competitors already selling the thing. That is a market study, precisely.
+
+Add events that disrupt supply chains: an overstretched supplier warning of a coming shortage, a backorder lasting a week, a shortage running a fortnight. Your plans depend on people you do not control.
+
+This is where the game stops being a genre curiosity and becomes a genuine economic simulation. You do not choose a business because it looks nice, you choose it because a table says demand sits at 57 per cent and only three competitors are sharing the market.
 
 ![Big Ambitions, managing staff and finances](/images/bigambitions/screenshot-3.webp)
 
