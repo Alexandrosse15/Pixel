@@ -2096,6 +2096,59 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "big-ambitions": {
+    "slug": "big-ambitions",
+    "name": "Big Ambitions",
+    "steam": {
+      "appId": 1331550,
+      "steamName": "Big Ambitions",
+      "confidence": "exact",
+      "developers": [
+        "Hovgaard Games"
+      ],
+      "publishers": [
+        "Hovgaard Games"
+      ],
+      "releaseRaw": "10 Mar, 2023",
+      "releaseDate": "2023-03-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "25,99€",
+        "cents": 2599,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        30,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 13492,
+        "positive": 12493,
+        "percent": 93,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-08-28"
+    }
+  },
   "big-walk": {
     "slug": "big-walk",
     "name": "Big Walk",
