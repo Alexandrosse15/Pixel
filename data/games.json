@@ -13299,6 +13299,57 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "my-fire-is-bigger-than-yours": {
+    "slug": "my-fire-is-bigger-than-yours",
+    "name": "My Fire Is Bigger Than Yours",
+    "steam": {
+      "appId": 4428630,
+      "steamName": "My Fire Is Bigger Than Yours",
+      "confidence": "exact",
+      "developers": [
+        "Punch Pancake"
+      ],
+      "publishers": [
+        "Punch Pancake"
+      ],
+      "releaseRaw": "30 Aug, 2026",
+      "releaseDate": "2026-08-30",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "5,99€",
+        "cents": 599,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 52,
+        "positive": 36,
+        "percent": 69,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-08-31"
+    }
+  },
   "my-infamous-dungeon": {
     "slug": "my-infamous-dungeon",
     "name": "My Infamous Dungeon",
