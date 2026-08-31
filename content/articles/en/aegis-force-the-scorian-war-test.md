@@ -100,7 +100,7 @@ Tactical RPG is a genre where the same three or four monuments always get cited,
 
 This one did something else. It went back for what Shining Force had and its successors abandoned: the idea that an army is not only a list of units, but a group of people who cross towns, argue between battles, and eventually learn to fight together.
 
-That is a structural choice, not a stylistic flourish, and it is what lifts it out of the pile. Whether the complete campaign keeps the promise of its first chapter remains to be seen.
+That is a structural choice, not a stylistic flourish, and it is what sets this one apart. Whether the complete campaign keeps the promise of its first chapter remains to be seen.
 
 In the meantime, yes, it is the best thing in the genre this year.
 
