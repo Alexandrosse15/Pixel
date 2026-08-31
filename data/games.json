@@ -19488,6 +19488,51 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "tavrik": {
+    "slug": "tavrik",
+    "name": "Tavrik",
+    "steam": {
+      "appId": 4482350,
+      "steamName": "Tavrik",
+      "confidence": "exact",
+      "developers": [
+        "Nyra Games"
+      ],
+      "publishers": [
+        "Nyra Games"
+      ],
+      "releaseRaw": "31 Aug, 2026",
+      "releaseDate": "2026-08-31",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        67,
+        68,
+        76,
+        80,
+        74,
+        69,
+        65,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-31"
+    }
+  },
   "tears-of-metal": {
     "slug": "tears-of-metal",
     "name": "Tears of Metal",
