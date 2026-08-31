@@ -260,6 +260,54 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "aegis-force-the-scorian-war": {
+    "slug": "aegis-force-the-scorian-war",
+    "name": "Aegis Force: The Scorian War",
+    "steam": {
+      "appId": 3154550,
+      "steamName": "Aegis Force: The Scorian War",
+      "confidence": "exact",
+      "developers": [
+        "Zenahive",
+        "Ellipsii"
+      ],
+      "publishers": [
+        "Zenahive",
+        "GAMEPOCH"
+      ],
+      "releaseRaw": "31 Aug, 2026",
+      "releaseDate": "2026-08-31",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        3,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        67,
+        68,
+        78,
+        75,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-08-31"
+    }
+  },
   "age-of-empires-ii": {
     "slug": "age-of-empires-ii",
     "name": "Age of Empires II",
