@@ -28,7 +28,7 @@ Le parcours tient en trois phases, et l'escalade est réjouissante. On commence 
 
 Autour, plus de deux cents améliorations qui modifient la façon dont le feu croît, se propage et réagit. On peut se spécialiser dans un type de combustible, chercher les réactions en cascade, ou construire la disposition automatisée parfaite.
 
-Cette dernière option est la meilleure trouvaille du jeu. Le placement compte : le feu détruit ce qui l'entoure, donc il faut installer ses sources de ressources hors de portée de ce qu'on est en train de faire grossir. C'est un problème d'aménagement plutôt qu'un compteur qui monte, et c'est ce qui distingue ce jeu des incrémentaux purement abstraits.
+Cette dernière option est la meilleure trouvaille du jeu. Le placement compte : le feu détruit ce qui l'entoure, donc il faut installer ses sources de ressources hors de portée de ce qu'on est en train de faire grossir. C'est un problème d'aménagement plutôt qu'un compteur qui monte, et ça le sort des incrémentaux purement abstraits.
 
 Un joueur résume l'expérience des deux premiers tiers mieux que moi : au début ce n'était qu'un feu de camp, puis le Soleil s'est agacé, puis mon feu a grossi, puis le Soleil s'est mis en colère, et finalement il a disparu.
 
