@@ -13728,6 +13728,49 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "not-quite-dead-open-world-survival": {
+    "slug": "not-quite-dead-open-world-survival",
+    "name": "Not Quite Dead: Open World Survival",
+    "steam": {
+      "appId": 4609770,
+      "steamName": "Not Quite Dead: Open World Survival",
+      "confidence": "exact",
+      "developers": [
+        "Voidecho Studio"
+      ],
+      "publishers": [
+        "Voidecho Studio"
+      ],
+      "releaseRaw": "1 Sep, 2026",
+      "releaseDate": "2026-09-01",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-01"
+    }
+  },
   "nothing-to-declare": {
     "slug": "nothing-to-declare",
     "name": "Nothing To Declare",
