@@ -4295,6 +4295,56 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "craft-sell-goblin-repeat": {
+    "slug": "craft-sell-goblin-repeat",
+    "name": "Craft. Sell. Goblin. Repeat.",
+    "steam": {
+      "appId": 4039680,
+      "steamName": "Craft. Sell. Goblin. Repeat.",
+      "confidence": "exact",
+      "developers": [
+        "Adrià Raventós"
+      ],
+      "publishers": [
+        "Adrià Raventós"
+      ],
+      "releaseRaw": "1 Sep, 2026",
+      "releaseDate": "2026-09-01",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        64,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-01"
+    }
+  },
   "cricket-captain-2026": {
     "slug": "cricket-captain-2026",
     "name": "Cricket Captain 2026",
