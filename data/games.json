@@ -8114,6 +8114,50 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "galactum-meridian": {
+    "slug": "galactum-meridian",
+    "name": "Galactum Meridian",
+    "steam": {
+      "appId": 4690110,
+      "steamName": "Galactum Meridian",
+      "confidence": "exact",
+      "developers": [
+        "Hedra Games"
+      ],
+      "publishers": [
+        "Hedra Games"
+      ],
+      "releaseRaw": "1 Sep, 2026",
+      "releaseDate": "2026-09-01",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        64,
+        68,
+        80,
+        74,
+        79,
+        18,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-01"
+    }
+  },
   "gallipoli": {
     "slug": "gallipoli",
     "name": "Gallipoli",
