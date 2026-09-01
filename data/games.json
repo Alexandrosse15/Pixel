@@ -4455,6 +4455,54 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "crimson-moon": {
+    "slug": "crimson-moon",
+    "name": "Crimson Moon",
+    "steam": {
+      "appId": 4317690,
+      "steamName": "Crimson Moon",
+      "confidence": "exact",
+      "developers": [
+        "ProbablyMonsters"
+      ],
+      "publishers": [
+        "ProbablyMonsters"
+      ],
+      "releaseRaw": "1 Sep, 2026",
+      "releaseDate": "2026-09-01",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        60,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-01"
+    }
+  },
   "croatian-industry": {
     "slug": "croatian-industry",
     "name": "Croatian industry",
