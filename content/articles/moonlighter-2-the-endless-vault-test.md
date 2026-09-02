@@ -11,6 +11,7 @@ score: 8
 image_color: "from-violet-950 via-amber-950 to-stone-900"
 coverImage: "/images/moonlighter2/screenshot-1.webp"
 gameName: "Moonlighter 2: The Endless Vault"
+buyUrl: "https://gamesplanet.com/game/moonlighter-2-the-endless-vault-steam-key--7531-1?ref=insertcoins"
 featured: false
 ---
 
