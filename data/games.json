@@ -13264,6 +13264,65 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "moonlighter-2-the-endless-vault": {
+    "slug": "moonlighter-2-the-endless-vault",
+    "name": "Moonlighter 2: The Endless Vault",
+    "steam": {
+      "appId": 2350790,
+      "steamName": "Moonlighter 2: The Endless Vault",
+      "confidence": "exact",
+      "developers": [
+        "Digital Sun"
+      ],
+      "publishers": [
+        "11 bit studios"
+      ],
+      "releaseRaw": "19 Nov, 2025",
+      "releaseDate": "2025-11-19",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        60,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": 76,
+      "reviews": {
+        "total": 3133,
+        "positive": 2663,
+        "percent": 85,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-02"
+    }
+  },
   "mortal-shell-ii": {
     "slug": "mortal-shell-ii",
     "name": "Mortal Shell II",
