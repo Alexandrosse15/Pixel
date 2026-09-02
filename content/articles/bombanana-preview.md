@@ -13,6 +13,8 @@ gameName: "BOMBANANA!"
 featured: false
 ---
 
+> **Mise à jour du 2 septembre 2026.** Le jeu est sorti, avec un mois de décalage sur la fenêtre annoncée. Cette preview reste en ligne telle qu'elle a été publiée : [notre test complet est ici](/articles/bombanana-test), et [le guide des rôles là](/articles/bombanana-guide).
+
 Il existe des jeux conçus pour rapprocher les gens. BOMBANANA! n'en fait pas partie. Son idée de génie, ou de sadique, c'est de vous faire désamorcer une bombe à trois, sauf que l'un de vous est aveugle, l'autre sourd, et le troisième muet. Autrement dit, la personne qui voit la bombe ne peut pas le dire, celle qui a le manuel n'entend rien, et tout le monde hurle dans le vide pendant que le chrono descend. C'est un cauchemar de communication déguisé en jeu de singes, et la démo a déjà fait pleurer de rire 670 000 personnes.
 
 ![BOMBANANA!, le déminage coopératif à trois singes handicapés](/images/bombanana/screenshot-1.webp)

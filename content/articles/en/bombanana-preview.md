@@ -13,6 +13,8 @@ gameName: "BOMBANANA!"
 featured: false
 ---
 
+> **Update, 2 September 2026.** The game is out, a month later than the window announced at the time. This preview stays online as published: [our full review is here](/en/articles/bombanana-test), and [the roles guide here](/en/articles/bombanana-guide).
+
 There are games designed to bring people together. BOMBANANA! is not one of them. Its stroke of genius, or of sadism, is to have you defuse a bomb as a three, except one of you is blind, another deaf, and the third mute. In other words, the person who sees the bomb cannot say it, the one holding the manual hears nothing, and everyone screams into the void while the timer ticks down. It is a communication nightmare disguised as a monkey game, and the demo has already made 670,000 people cry with laughter.
 
 ![BOMBANANA!, cooperative defusal with three disabled monkeys](/images/bombanana/screenshot-1.webp)

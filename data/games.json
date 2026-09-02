@@ -2609,8 +2609,13 @@
       ],
       "releaseRaw": "2 Sep, 2026",
       "releaseDate": "2026-09-02",
-      "comingSoon": true,
-      "price": null,
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,15€",
+        "cents": 815,
+        "currency": "EUR"
+      },
       "platforms": {
         "windows": true,
         "mac": true,
@@ -2641,8 +2646,16 @@
       ],
       "earlyAccess": false,
       "metacritic": null,
-      "reviews": null,
-      "fetchedAt": "2026-08-23"
+      "reviews": {
+        "total": 41,
+        "positive": 41,
+        "percent": 100,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-02"
     }
   },
   "bookbinding": {
@@ -17150,6 +17163,57 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "shipshaper-falconeer-chronicles": {
+    "slug": "shipshaper-falconeer-chronicles",
+    "name": "ShipShaper: Falconeer Chronicles",
+    "steam": {
+      "appId": 4339280,
+      "steamName": "ShipShaper: Falconeer Chronicles",
+      "confidence": "exact",
+      "developers": [
+        "Tomas Sala"
+      ],
+      "publishers": [
+        "Wired Productions",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "2 Sep, 2026",
+      "releaseDate": "2026-09-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,99€",
+        "cents": 899,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        30,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 6,
+        "positive": 6,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-02"
     }
   },
   "silent-breath": {

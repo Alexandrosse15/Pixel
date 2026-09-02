@@ -1,74 +1,106 @@
 ---
-title: "Guide BOMBANANA! : les trois rôles, communiquer malgré les handicaps et désamorcer sans tout faire exploser"
-seoTitle: "BOMBANANA! : guide"
+title: "Guide BOMBANANA! : le sens de circulation de l'information, le vocabulaire à fixer avant de jouer, et les erreurs qui font tout sauter"
+seoTitle: "BOMBANANA! : guide complet des rôles et de la communication"
 slug: "bombanana-guide"
 category: "guides"
-excerpt: "Le guide complet BOMBANANA! : comprendre les rôles aveugle, sourd et muet, établir un code de communication et désamorcer la bombe-banane à temps."
-date: "2026-08-02"
+excerpt: "Qui parle à qui, dans quel ordre, et avec quels mots. Le guide des trois rôles, des trois modes et des dangers d'environnement."
+date: "2026-09-02"
 author: "Alexandrosse"
-readTime: "8 min"
+readTime: "10 min"
 image_color: "from-yellow-900 via-amber-950 to-stone-950"
 coverImage: "/images/bombanana/screenshot-4.webp"
 gameName: "BOMBANANA!"
 featured: false
 ---
 
-Dans BOMBANANA!, l'ennemi n'est pas la bombe, c'est le silence, le malentendu et la panique. Désamorcer une bombe-banane à trois quand l'un ne voit pas, l'autre n'entend pas et le troisième ne peut pas parler, ça ne s'improvise pas : ça se prépare. Ce guide vous explique les rôles, comment router l'information malgré les handicaps, et comment garder la tête froide pour couper le bon fil avant que tout ne saute. Et accessoirement, comment ne pas finir la soirée fâchés.
+Les équipes qui échouent à BOMBANANA! ne manquent pas de logique. Elles manquent de protocole.
 
-![BOMBANANA!, les trois rôles et le déminage coopératif](/images/bombanana/screenshot-4.webp)
+Le jeu ne vous impose aucune méthode de communication, et c'est là que tout se joue : celles qui gagnent ont décidé avant la première bombe qui parle à qui, avec quels mots, et dans quel ordre. Voici comment monter ce protocole.
 
-## Comment fonctionnent les trois rôles ?
+![BOMBANANA!, les trois rôles autour de la bombe](/images/bombanana/screenshot-4.webp)
 
-Tout repose sur les trois singes de la sagesse, chacun privé d'un sens. Le singe aveugle ne voit rien, mais il peut parler et entendre : c'est votre pivot vocal, celui qui coordonne à l'oreille. Le singe sourd voit tout et peut parler, mais il n'entend personne : il peut décrire ce qu'il a sous les yeux, sans jamais recevoir de réponse audible. Le singe muet voit et entend tout, mais ne peut rien dire : il détient souvent l'information mais doit la transmettre sans un mot.
+## Qui peut quoi, exactement
 
-Comprendre qui peut faire quoi est la première clé de la victoire. En pratique, il faut répartir les tâches selon les capacités : confier la manipulation ou l'observation de la bombe à ceux qui la voient, le manuel à celui qui peut le lire et le comprendre, et la coordination à celui qui peut parler et entendre. Le vrai casse-tête, c'est que personne n'a tous les sens en même temps, donc chaque information doit voyager à travers plusieurs personnes, en contournant à chaque fois le handicap de l'une d'elles. C'est ce routage de l'information qui fait tout le sel du jeu.
+Avant tout, il faut arrêter de penser en termes de handicaps et commencer à penser en termes de capacités restantes.
 
-## Comment communiquer malgré les handicaps ?
+**Le singe aveugle** ne voit pas la bombe, mais il peut la toucher. Il est le seul à agir physiquement dessus. Il ne distingue pas les couleurs et ne peut pas lire ce qui s'affiche sur les écrans. Il parle et il entend.
 
-La communication est le vrai combat de BOMBANANA!, et elle se gagne avant même le début du chrono. La règle d'or : établissez un code commun dès le départ. Puisque la parole directe ne suffit jamais, il faut convenir de signaux, de mots-clés, de gestes ou de systèmes maison pour transmettre l'essentiel malgré les trous dans la chaîne. Une équipe qui a préparé son langage désamorcera là où une équipe qui improvise s'enlisera dans les malentendus.
+**Le singe muet** est le seul à pouvoir lire le manuel de déminage. Il voit et il entend tout. Il ne peut pas parler.
 
-Adaptez votre communication au handicap de chaque interlocuteur. Vers le singe sourd, oubliez la voix, il ne vous entendra pas : il faut lui transmettre l'information par ce qu'il peut voir. Depuis le singe muet, ne comptez pas sur ses mots : apprenez à lire ses signaux non verbaux et ses actions. Et faites du singe aveugle votre relais vocal central, celui qui parle et écoute pour faire circuler ce que les autres ne peuvent pas se dire directement. La clé, c'est d'accepter que l'information ne va jamais en ligne droite, et de construire des ponts autour de chaque limitation.
+**Le singe sourd** voit la bombe et voit ses coéquipiers gesticuler. Il parle. Il n'entend rien.
 
-![BOMBANANA!, la communication asymétrique entre les trois singes](/images/bombanana/screenshot-2.webp)
+Récapitulons ce que ça implique, parce que c'est le fondement de toute la suite : la procédure est chez quelqu'un qui ne peut pas la dire, les mains sont chez quelqu'un qui ne peut pas voir, et le seul témoin visuel complet n'entend aucune question.
 
-## Comment désamorcer la bombe-banane ?
+## Le sens de circulation
 
-Le désamorçage suit une logique de triangle : celui qui voit la bombe décrit ce qu'il perçoit dans les limites de son handicap, celui qui a le manuel indique la marche à suivre, et le troisième fait le pont entre les deux. Le problème, c'est que ce triangle est troué, puisque celui qui voit ne peut pas forcément le dire à celui qui lit, qui ne peut pas forcément l'entendre. Il faut donc systématiser les échanges : décrire précisément, confirmer chaque information reçue, et ne jamais agir sur une donnée incertaine.
+Il n'existe qu'un seul chemin complet, et il ne faut pas en sortir.
 
-La rigueur est votre meilleure alliée. Avancez étape par étape plutôt que de vouloir tout traiter en même temps, faites répéter ou reconfirmer une consigne avant de couper quoi que ce soit, et vérifiez toujours que l'exécutant a bien compris avant qu'il n'agisse de façon irréversible. Une bombe ratée dans BOMBANANA! vient presque toujours d'une information mal transmise ou mal confirmée, jamais d'un manque de logique. Prenez le temps de sécuriser chaque échange, même sous la pression du chrono, car une seconde gagnée sur un malentendu est une seconde perdue à tout recommencer.
+**Le muet lit le manuel. Il transmet au sourd en gestes. Le sourd traduit à voix haute. L'aveugle exécute.**
 
-## Comment gérer le temps et la pression ?
+Retenez ce trajet et faites-le respecter, parce que la moitié des explosions vient de gens qui court-circuitent la chaîne. L'aveugle qui pose une question directe au muet n'aura jamais de réponse audible. Le sourd qui hurle vers le muet le fait pour rien : le muet entend, mais ne peut pas répondre autrement qu'en gestes, donc autant lui parler calmement.
 
-Le chrono est le troisième adversaire, après la bombe et vos propres handicaps. La panique est la première cause d'explosion : plus le temps descend, plus la tentation d'agir vite et mal grandit. La discipline consiste à garder un rythme méthodique même quand ça presse, car une équipe qui accélère dans le désordre perd plus de temps en erreurs qu'elle n'en gagne en précipitation. Respirez, avancez proprement, et faites confiance à votre code de communication établi.
+Il existe un retour utile, et un seul : **l'aveugle décrit à voix haute ce qu'il touche**. Le muet l'entend, vérifie sur le manuel, et corrige par le sourd si c'est faux. C'est votre filet de sécurité, ne vous en privez pas.
 
-Répartissez aussi la charge mentale pour ne pas saturer. Chacun se concentre sur son rôle et ne cherche pas à tout gérer, car un singe qui essaie de compenser le handicap des autres finit par ajouter du bruit à la confusion. La confiance dans l'équipe est essentielle : croyez l'information que vous transmet un coéquipier plutôt que de tout revérifier vous-même, sous peine de perdre un temps précieux. Et surtout, gardez votre sang-froid, y compris quand un ami vient de couper le mauvais fil : dans BOMBANANA!, le calme collectif est la vraie compétence à maîtriser.
+## Le vocabulaire à fixer avant la première partie
 
-![BOMBANANA!, la pression du chrono et le chaos du déminage](/images/bombanana/screenshot-3.webp)
+Passez cinq minutes là-dessus, vous les récupérerez dix fois.
 
-## FAQ BOMBANANA!
+**Nommez les positions, jamais les couleurs.** L'aveugle ne voit pas les couleurs, donc « le fil rouge » ne veut rien dire pour lui. Numérotez : premier module en haut à gauche, deuxième, troisième, et tenez la numérotation toute la soirée.
 
-**À combien se joue BOMBANANA! ?**
+**Décidez d'un point d'origine.** Compter de gauche à droite ou de haut en bas, peu importe, mais tout le monde doit compter pareil. Une équipe qui compte à l'envers coupe systématiquement le mauvais élément.
 
-C'est un jeu de déminage coopératif pensé pour trois joueurs, chacun incarnant un singe privé d'un sens : aveugle, sourd ou muet. Il n'existe pas en solo, la coopération à trois est le coeur du jeu.
+**Fixez trois signaux d'urgence** dans la roue d'emotes ou en gestes : stop, recommence, j'ai compris. Ce sont les trois seules choses qu'il faut pouvoir transmettre instantanément.
 
-**Que peut faire chaque singe ?**
+**Utilisez la gifle comme un stop physique.** Elle est dans le jeu, elle est immédiate, et elle traverse tous les handicaps. C'est le seul message qui ne dépend d'aucun sens.
 
-L'aveugle parle et entend mais ne voit rien, le sourd voit et parle mais n'entend personne, le muet voit et entend tout mais ne peut pas parler. Toute la stratégie consiste à router l'information autour de ces handicaps.
+**Et imposez la confirmation avant l'irréversible.** L'aveugle annonce ce qu'il s'apprête à faire, il attend le feu vert, puis il le fait. Une bombe ratée dans ce jeu vient presque toujours d'une action lancée une seconde trop tôt.
 
-**Quelle est la clé pour réussir ?**
+![BOMBANANA!, la communication entre les trois singes](/images/bombanana/screenshot-2.webp)
 
-Établir un code de communication commun dès le départ, adapter chaque message au handicap de son interlocuteur, et confirmer systématiquement l'information avant d'agir. La rigueur bat la précipitation.
+## Par où commencer
 
-**Pourquoi rate-t-on une bombe ?**
+**La campagne d'abord**, ses trente niveaux faits main introduisent les types de modules un par un, avec une difficulté qui monte proprement. C'est votre école. Ne la sautez pas pour aller chercher le chaos tout de suite, vous n'auriez pas le vocabulaire.
 
-Presque toujours à cause d'une information mal transmise ou mal confirmée, jamais d'un manque de logique. Décrire précisément et faire reconfirmer avant de couper est vital.
+**Le mode personnalisé ensuite**, et pas seulement pour se faire mal. Vous y réglez la difficulté de la bombe, la durée du chrono, les types de modules présents, les dangers d'environnement et le nombre d'erreurs tolérées. C'est l'outil d'entraînement : isolez un type de module que votre équipe rate, allongez le chrono, désactivez les dangers, et refaites-le jusqu'à ce que la communication devienne automatique.
 
-**Comment gérer la pression du chrono ?**
+**Le mode sans fin en dernier.** Les vagues générées durcissent jusqu'à vous éliminer, ce qui n'a d'intérêt qu'une fois le protocole rodé. C'est un test de discipline, pas un terrain d'apprentissage.
 
-Gardez un rythme méthodique même quand le temps presse, répartissez la charge mentale par rôle, faites confiance à vos coéquipiers, et surtout restez calme collectivement. La panique est la première cause d'explosion.
+## Faites tourner les rôles
 
----
+C'est le conseil que les équipes suivent le moins et qui les fait le plus progresser.
 
-*Guide rédigé sur la base de la démo et des informations officielles, avant la sortie d'août 2026.*
+Chaque rôle apprend une compétence différente. Le muet apprend à être clair sans mots, le sourd apprend à traduire vite et sans ajouter d'interprétation, l'aveugle apprend à obéir précisément et à décrire ce qu'il sent.
 
-Vous avez trouvé mieux ? Venez compléter ce guide sur [notre Discord](https://discord.gg/473FE3dWvw).
+Une équipe où chacun a tenu les trois postes communique infiniment mieux, parce que chacun sait ce que les autres ne reçoivent pas. Tant que votre muet est toujours le même, vous avez deux joueurs qui ne savent pas à quel point c'est difficile de faire passer une consigne en gestes.
+
+## Les dangers d'environnement
+
+Ils apparaissent en cours de progression et ils sont conçus pour casser exactement votre chaîne : coupures de courant, obstructions, interruptions sonores.
+
+La parade est toujours la même : **on s'arrête**. Une coupure de courant prive le sourd de ce qu'il voit, une interruption sonore prive l'aveugle de ce qu'il entend, et dans les deux cas la chaîne a un maillon mort. Continuer à ce moment-là, c'est agir sur une information périmée.
+
+Prenez l'habitude de marquer un temps d'arrêt dès qu'un danger se déclenche, de reprendre la description au dernier point confirmé, et seulement ensuite de repartir. Vous perdrez trois secondes. Vous en gagnerez trente.
+
+Sachez aussi que les décors changent, le minivan n'est plus le seul lieu de déminage, l'avion en est un autre. La disposition change, votre numérotation doit s'y adapter, et c'est le moment de la refixer à voix haute.
+
+![BOMBANANA!, la pression du chrono](/images/bombanana/screenshot-3.webp)
+
+## Les quatre erreurs qui reviennent
+
+**Parler à quelqu'un qui ne peut pas vous entendre.** Ça paraît évident écrit ici. En partie, tout le monde le fait, tout le temps.
+
+**Décrire par la couleur à l'aveugle.** Même remarque. C'est le réflexe le plus tenace du jeu.
+
+**Vouloir tout traiter en même temps.** Un module à la fois, terminé et confirmé, avant de passer au suivant. Les équipes qui ouvrent trois chantiers en parallèle perdent le fil de ce qui a été fait.
+
+**Accélérer quand le chrono descend.** C'est le moment où la précipitation coûte le plus cher, et c'est exactement le moment où tout le monde accélère. Le sang-froid collectif est la vraie compétence de ce jeu.
+
+## Si vous accueillez un débutant
+
+Mettez-le sourd. C'est le rôle le plus lisible : il voit la bombe, il voit les gestes, il parle, et il n'a rien à mémoriser. Il apprend la structure de la bombe en la regardant.
+
+Le muet est le poste le plus exigeant, parce qu'il faut lire, comprendre et transmettre sans un mot, sous le regard de deux personnes qui attendent. Ne l'infligez à personne le premier soir.
+
+Réglez aussi le mode personnalisé sur un chrono généreux et zéro danger pour les premières parties. Le jeu reste drôle sans pression, et une équipe qui a compris son protocole peut ensuite tout durcir d'un coup.
+
+Vous avez trouvé un meilleur code de gestes ? Venez le décrire sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), les protocoles maison sont ce que ce jeu produit de plus intéressant.
