@@ -2420,6 +2420,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "bioeden": {
+    "slug": "bioeden",
+    "name": "BioEden",
+    "steam": {
+      "appId": 3265840,
+      "steamName": "BioEden",
+      "confidence": "exact",
+      "developers": [
+        "Broken Arms Games"
+      ],
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "releaseRaw": "3 Sep, 2026",
+      "releaseDate": "2026-09-03",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "21,99€",
+        "cents": 2199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-03"
+    }
+  },
   "birds-of-war": {
     "slug": "birds-of-war",
     "name": "Birds of War",
@@ -17214,6 +17260,48 @@
         "label": null
       },
       "fetchedAt": "2026-09-02"
+    }
+  },
+  "shoretiles": {
+    "slug": "shoretiles",
+    "name": "ShoreTiles",
+    "steam": {
+      "appId": 4268460,
+      "steamName": "ShoreTiles",
+      "confidence": "exact",
+      "developers": [
+        "Voxel Studios"
+      ],
+      "publishers": [
+        "Noovola"
+      ],
+      "releaseRaw": "3 Sep, 2026",
+      "releaseDate": "2026-09-03",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-03"
     }
   },
   "silent-breath": {
