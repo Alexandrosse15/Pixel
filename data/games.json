@@ -7950,6 +7950,67 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "friendly-steps": {
+    "slug": "friendly-steps",
+    "name": "Friendly Steps",
+    "steam": {
+      "appId": 4279630,
+      "steamName": "Friendly Steps",
+      "confidence": "exact",
+      "developers": [
+        "KORO.GAMES"
+      ],
+      "publishers": [
+        "Ytopia"
+      ],
+      "releaseRaw": "3 Sep, 2026",
+      "releaseDate": "2026-09-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        25,
+        4,
+        29,
+        3,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        48,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 4,
+        "positive": 2,
+        "percent": 50,
+        "label": null
+      },
+      "fetchedAt": "2026-09-03"
+    }
+  },
   "frozen-ship": {
     "slug": "frozen-ship",
     "name": "Frozen Ship",
@@ -13154,6 +13215,47 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "monk-took-book": {
+    "slug": "monk-took-book",
+    "name": "Monk Took Book",
+    "steam": {
+      "appId": 4022090,
+      "steamName": "Monk Took Book",
+      "confidence": "exact",
+      "developers": [
+        "SquarePlay Games"
+      ],
+      "publishers": [
+        "SquarePlay Games"
+      ],
+      "releaseRaw": "3 Sep, 2026",
+      "releaseDate": "2026-09-03",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-03"
     }
   },
   "monster-girls-you-can-t-say-no": {
