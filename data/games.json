@@ -21278,6 +21278,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "the-undercut-racing-manager": {
+    "slug": "the-undercut-racing-manager",
+    "name": "The Undercut: Racing Manager",
+    "steam": {
+      "appId": 4514930,
+      "steamName": "The Undercut: Racing Manager",
+      "confidence": "exact",
+      "developers": [
+        "Staz.Tech"
+      ],
+      "publishers": [
+        "Staz.tech"
+      ],
+      "releaseRaw": "2 Sep, 2026",
+      "releaseDate": "2026-09-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        68,
+        78,
+        75,
+        76,
+        80,
+        74,
+        79,
+        69,
+        17,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-03"
+    }
+  },
   "the-witch-s-bakery": {
     "slug": "the-witch-s-bakery",
     "name": "The Witch's Bakery",
