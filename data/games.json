@@ -14367,6 +14367,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "onimusha-way-of-the-sword": {
+    "slug": "onimusha-way-of-the-sword",
+    "name": "Onimusha: Way of the Sword",
+    "steam": {
+      "appId": 2638890,
+      "steamName": "Onimusha: Way of the Sword",
+      "confidence": "exact",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "releaseRaw": "3 Sep, 2026",
+      "releaseDate": "2026-09-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "69,99€",
+        "cents": 6999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": 82,
+      "reviews": {
+        "total": 620,
+        "positive": 459,
+        "percent": 74,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-04"
+    }
+  },
   "open-the-gate-just-a-little": {
     "slug": "open-the-gate-just-a-little",
     "name": "Open The Gate: Just A Little",
