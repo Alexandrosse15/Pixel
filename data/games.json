@@ -5930,6 +5930,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dungeon-settlers": {
+    "slug": "dungeon-settlers",
+    "name": "Dungeon Settlers",
+    "steam": {
+      "appId": 2798330,
+      "steamName": "Dungeon Settlers",
+      "confidence": "exact",
+      "developers": [
+        "CanOpener"
+      ],
+      "publishers": [
+        "CanOpener",
+        "WhisperGames"
+      ],
+      "releaseRaw": "4 Sep, 2026",
+      "releaseDate": "2026-09-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-04"
+    }
+  },
   "duskfade": {
     "slug": "duskfade",
     "name": "Duskfade",
