@@ -16756,6 +16756,53 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "scavland": {
+    "slug": "scavland",
+    "name": "Scavland",
+    "steam": {
+      "appId": 3373500,
+      "steamName": "Scavland",
+      "confidence": "exact",
+      "developers": [
+        "NoShadow"
+      ],
+      "publishers": [
+        "NoShadow",
+        "UNSUBSCRIBE"
+      ],
+      "releaseRaw": "4 Sep, 2026",
+      "releaseDate": "2026-09-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-04"
+    }
+  },
   "scratch-the-ticket": {
     "slug": "scratch-the-ticket",
     "name": "Scratch the Ticket",
