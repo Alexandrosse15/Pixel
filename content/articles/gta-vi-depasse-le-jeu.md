@@ -46,7 +46,7 @@ Ce n'est plus seulement un monde ouvert. C'est un monde observé.
 
 ## Un duo pour raconter l'Amérique
 
-![Lucia et Jason](/images/gta-vi/screenshot-3.webp)
+![GTA VI, Jason](/images/gta-vi/screenshot-3.webp)
 
 L'une des ruptures majeures vient de ses protagonistes, Lucia et Jason. Là où la série a souvent mis en avant des figures masculines solitaires, GTA VI introduit une dynamique de duo.
 

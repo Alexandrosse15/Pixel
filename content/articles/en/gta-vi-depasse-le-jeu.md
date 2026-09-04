@@ -46,7 +46,7 @@ This is no longer just an open world. It's an observed world.
 
 ## A Duo to Tell America's Story
 
-![Lucia and Jason](/images/gta-vi/screenshot-3.webp)
+![GTA VI, Jason](/images/gta-vi/screenshot-3.webp)
 
 One of the major breaks comes from its protagonists, Lucia and Jason. Where the series has often put solitary male figures at the centre, GTA VI introduces a duo dynamic.
 
