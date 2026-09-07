@@ -2704,6 +2704,52 @@
       "fetchedAt": "2026-09-02"
     }
   },
+  "bones-and-coins": {
+    "slug": "bones-and-coins",
+    "name": "Bones and Coins",
+    "steam": {
+      "appId": 4134650,
+      "steamName": "Bones and Coins",
+      "confidence": "exact",
+      "developers": [
+        "Troyd Games"
+      ],
+      "publishers": [
+        "Rogue Duck Interactive",
+        " Gamersky Games"
+      ],
+      "releaseRaw": "7 Sep, 2026",
+      "releaseDate": "2026-09-07",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        76,
+        79,
+        23,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-07"
+    }
+  },
   "bookbinding": {
     "slug": "bookbinding",
     "name": "Bookbinding",
@@ -22146,6 +22192,59 @@
     "name": "Total War: WARHAMMER III - Lords of the End Times",
     "steam": null,
     "reason": "introuvable"
+  },
+  "tower-lab": {
+    "slug": "tower-lab",
+    "name": "Tower Lab",
+    "steam": {
+      "appId": 3084810,
+      "steamName": "Tower Lab",
+      "confidence": "exact",
+      "developers": [
+        "Devon Powell",
+        "Xueer Zhu"
+      ],
+      "publishers": [
+        "Devon Powell",
+        "Xueer Zhu"
+      ],
+      "releaseRaw": "7 Sep, 2026",
+      "releaseDate": "2026-09-07",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        30,
+        67,
+        68,
+        78,
+        76,
+        74,
+        79,
+        23,
+        25,
+        17,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-07"
+    }
   },
   "townsfolk": {
     "slug": "townsfolk",
