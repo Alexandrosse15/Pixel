@@ -562,6 +562,60 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "airline-founder": {
+    "slug": "airline-founder",
+    "name": "Airline Founder",
+    "steam": {
+      "appId": 4729250,
+      "steamName": "Airline Founder",
+      "confidence": "exact",
+      "developers": [
+        "Nerowan"
+      ],
+      "publishers": [
+        "Nerowan"
+      ],
+      "releaseRaw": "6 Sep, 2026",
+      "releaseDate": "2026-09-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,25€",
+        "cents": 1025,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        30,
+        23,
+        17,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 8,
+        "positive": 4,
+        "percent": 50,
+        "label": null
+      },
+      "fetchedAt": "2026-09-07"
+    }
+  },
   "airport-manager-simulator-2026": {
     "slug": "airport-manager-simulator-2026",
     "name": "Airport Manager Simulator 2026",
@@ -22030,6 +22084,50 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "tiny-eden": {
+    "slug": "tiny-eden",
+    "name": "Tiny Eden",
+    "steam": {
+      "appId": 3375110,
+      "steamName": "Tiny Eden",
+      "confidence": "exact",
+      "developers": [
+        "Bajka Games"
+      ],
+      "publishers": [
+        "Digital Vortex Entertainment"
+      ],
+      "releaseRaw": "7 Sep, 2026",
+      "releaseDate": "2026-09-07",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        66,
+        68,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-07"
     }
   },
   "titanic-escape-simulator": {
