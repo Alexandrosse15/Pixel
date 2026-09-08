@@ -197,6 +197,58 @@
       "fetchedAt": "2026-08-28"
     }
   },
+  "acceptable-losses": {
+    "slug": "acceptable-losses",
+    "name": "Acceptable Losses",
+    "steam": {
+      "appId": 3884200,
+      "steamName": "Acceptable Losses",
+      "confidence": "exact",
+      "developers": [
+        "Zann Archive"
+      ],
+      "publishers": [
+        "Zann Archive"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        67,
+        66,
+        68,
+        76,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 6,
+        "positive": 6,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-08"
+    }
+  },
   "adorable-adventures": {
     "slug": "adorable-adventures",
     "name": "Adorable Adventures",
@@ -792,6 +844,64 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "alchemy-factory": {
+    "slug": "alchemy-factory",
+    "name": "Alchemy Factory",
+    "steam": {
+      "appId": 3669570,
+      "steamName": "Alchemy Factory",
+      "confidence": "exact",
+      "developers": [
+        "D5 Copperhead"
+      ],
+      "publishers": [
+        " Gamirror Games"
+      ],
+      "releaseRaw": "7 Sep, 2026",
+      "releaseDate": "2026-09-07",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "17,49€",
+        "cents": 1749,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        48,
+        22,
+        30,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 2561,
+        "positive": 2285,
+        "percent": 89,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-08"
     }
   },
   "alien-apocalypse": {
@@ -3175,6 +3285,60 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "bus-simulator-27": {
+    "slug": "bus-simulator-27",
+    "name": "Bus Simulator 27",
+    "steam": {
+      "appId": 2397320,
+      "steamName": "Bus Simulator 27",
+      "confidence": "exact",
+      "developers": [
+        "Simteract "
+      ],
+      "publishers": [
+        "astragon Entertainment"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 283,
+        "positive": 161,
+        "percent": 57,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-09-08"
+    }
+  },
   "canyons": {
     "slug": "canyons",
     "name": "Canyons",
@@ -3465,6 +3629,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "cat-me-if-you-can": {
+    "slug": "cat-me-if-you-can",
+    "name": "Cat Me If You Can",
+    "steam": {
+      "appId": 3170490,
+      "steamName": "Cat Me If You Can",
+      "confidence": "exact",
+      "developers": [
+        "Cosmic Stag Games"
+      ],
+      "publishers": [
+        "Cosmic Stag Games",
+        "Craftmos Games"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        66,
+        68,
+        78,
+        80,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-08"
     }
   },
   "cat-squeeze": {
@@ -7199,6 +7411,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "factory-default-build-trade-repeat": {
+    "slug": "factory-default-build-trade-repeat",
+    "name": "Factory Default: Build, Trade, Repeat",
+    "steam": {
+      "appId": 3901610,
+      "steamName": "Factory Default: Build, Trade, Repeat",
+      "confidence": "exact",
+      "developers": [
+        "Chett Fitzgerald"
+      ],
+      "publishers": [
+        "MicroProse Software"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-08"
+    }
+  },
   "far-far-west": {
     "slug": "far-far-west",
     "name": "Far Far West",
@@ -9507,6 +9765,66 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "halloween-the-game": {
+    "slug": "halloween-the-game",
+    "name": "Halloween: The Game",
+    "steam": {
+      "appId": 3219630,
+      "steamName": "Halloween: The Game",
+      "confidence": "exact",
+      "developers": [
+        "IllFonic"
+      ],
+      "publishers": [
+        "IllFonic Publishing",
+        "Co-Publisher: Gun Interactive"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "40,99€",
+        "cents": 4099,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        29,
+        55,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 6121,
+        "positive": 4454,
+        "percent": 73,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-08"
+    }
+  },
   "halo-campaign-evolved": {
     "slug": "halo-campaign-evolved",
     "name": "Halo Campaign Evolved",
@@ -10200,6 +10518,50 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "honeycomb-the-world-beyond": {
+    "slug": "honeycomb-the-world-beyond",
+    "name": "Honeycomb: The World Beyond",
+    "steam": {
+      "appId": 1510440,
+      "steamName": "Honeycomb: The World Beyond",
+      "confidence": "exact",
+      "developers": [
+        "Frozen Way"
+      ],
+      "publishers": [
+        "Snail Games USA"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-08"
     }
   },
   "hotel-tales": {
@@ -14581,6 +14943,57 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "orc-incremental": {
+    "slug": "orc-incremental",
+    "name": "Orc Incremental",
+    "steam": {
+      "appId": 4047270,
+      "steamName": "Orc Incremental",
+      "confidence": "exact",
+      "developers": [
+        "Nice Ride"
+      ],
+      "publishers": [
+        "Playsaurus"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 5,
+        "positive": 4,
+        "percent": 80,
+        "label": null
+      },
+      "fetchedAt": "2026-09-08"
     }
   },
   "order-automatica": {
