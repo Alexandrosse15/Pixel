@@ -2302,6 +2302,62 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "between-adventures-idle": {
+    "slug": "between-adventures-idle",
+    "name": "Between Adventures IDLE",
+    "steam": {
+      "appId": 3702540,
+      "steamName": "Between Adventures IDLE",
+      "confidence": "exact",
+      "developers": [
+        "Loop Forge"
+      ],
+      "publishers": [
+        "Rogue Duck Interactive",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "8 Sep, 2026",
+      "releaseDate": "2026-09-08",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,15€",
+        "cents": 815,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        29,
+        3,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 45,
+        "positive": 30,
+        "percent": 67,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-09-09"
+    }
+  },
   "beware-of-the-cartographer": {
     "slug": "beware-of-the-cartographer",
     "name": "Beware of the Cartographer",
@@ -8175,6 +8231,63 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-26"
+    }
+  },
+  "folklands": {
+    "slug": "folklands",
+    "name": "Folklands",
+    "steam": {
+      "appId": 2282890,
+      "steamName": "Folklands",
+      "confidence": "exact",
+      "developers": [
+        "Bromantic Games"
+      ],
+      "publishers": [
+        "Light Up Games"
+      ],
+      "releaseRaw": "24 Mar, 2025",
+      "releaseDate": "2025-03-24",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,79€",
+        "cents": 1479,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        47,
+        27,
+        30,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 59,
+        "positive": 45,
+        "percent": 76,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-09"
     }
   },
   "football-agent": {
@@ -15520,6 +15633,48 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "planet-killer": {
+    "slug": "planet-killer",
+    "name": "Planet Killer",
+    "steam": {
+      "appId": 4454430,
+      "steamName": "Planet Killer",
+      "confidence": "exact",
+      "developers": [
+        "Talisman One Studio"
+      ],
+      "publishers": [
+        "Talisman One Studio"
+      ],
+      "releaseRaw": "9 Sep, 2026",
+      "releaseDate": "2026-09-09",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        80,
+        74,
+        79,
+        69,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-09"
     }
   },
   "pokopia": {
@@ -23364,6 +23519,69 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "valheim": {
+    "slug": "valheim",
+    "name": "Valheim",
+    "steam": {
+      "appId": 892970,
+      "steamName": "Valheim",
+      "confidence": "exact",
+      "developers": [
+        "Iron Gate AB"
+      ],
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "releaseRaw": "2 Feb, 2021",
+      "releaseDate": "2021-02-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        28,
+        67,
+        68,
+        78,
+        79,
+        69,
+        23,
+        42,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": 90,
+      "reviews": {
+        "total": 542274,
+        "positive": 509711,
+        "percent": 94,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-09"
+    }
+  },
   "vampire-crawlers": {
     "slug": "vampire-crawlers",
     "name": "Vampire Crawlers",
@@ -23841,6 +24059,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "warlord-awaji": {
+    "slug": "warlord-awaji",
+    "name": "Warlord: Awaji",
+    "steam": {
+      "appId": 3123060,
+      "steamName": "Warlord: Awaji",
+      "confidence": "exact",
+      "developers": [
+        "Darkmatter Games"
+      ],
+      "publishers": [
+        "Darkmatter Games"
+      ],
+      "releaseRaw": "9 Sep, 2026",
+      "releaseDate": "2026-09-09",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        66,
+        68,
+        78,
+        74,
+        79,
+        69,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-09"
     }
   },
   "waterpark-simulator": {
