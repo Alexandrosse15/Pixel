@@ -1547,6 +1547,63 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "artillery-miner": {
+    "slug": "artillery-miner",
+    "name": "Artillery Miner",
+    "steam": {
+      "appId": 4391380,
+      "steamName": "Artillery Miner",
+      "confidence": "exact",
+      "developers": [
+        "Alextgr8"
+      ],
+      "publishers": [
+        "Alextgr8"
+      ],
+      "releaseRaw": "9 Sep, 2026",
+      "releaseDate": "2026-09-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        76,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 97,
+        "positive": 70,
+        "percent": 72,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
+    }
+  },
   "ashes-of-morgravia": {
     "slug": "ashes-of-morgravia",
     "name": "Ashes of Morgravia",
@@ -8390,6 +8447,73 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "forsworn": {
+    "slug": "forsworn",
+    "name": "Forsworn",
+    "steam": {
+      "appId": 3560360,
+      "steamName": "Forsworn",
+      "confidence": "exact",
+      "developers": [
+        "Resummon Studios LLC"
+      ],
+      "publishers": [
+        "Resummon Studios LLC"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "16,49€",
+        "cents": 1649,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        64,
+        68,
+        78,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 47,
+        "positive": 44,
+        "percent": 94,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
+    }
+  },
   "forza-horizon-6": {
     "slug": "forza-horizon-6",
     "name": "Forza Horizon 6",
@@ -8519,6 +8643,56 @@
         "label": null
       },
       "fetchedAt": "2026-09-03"
+    }
+  },
+  "frontier-path-of-shadows": {
+    "slug": "frontier-path-of-shadows",
+    "name": "Frontier: Path of Shadows",
+    "steam": {
+      "appId": 3570490,
+      "steamName": "Frontier: Path of Shadows",
+      "confidence": "exact",
+      "developers": [
+        "Oduvan Games"
+      ],
+      "publishers": [
+        "3_PUBLISHING"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 41,
+        "positive": 41,
+        "percent": 100,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
     }
   },
   "frozen-ship": {
@@ -8918,6 +9092,64 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "garden-ink": {
+    "slug": "garden-ink",
+    "name": "Garden Ink",
+    "steam": {
+      "appId": 3421740,
+      "steamName": "Garden Ink",
+      "confidence": "exact",
+      "developers": [
+        "Kranich"
+      ],
+      "publishers": [
+        "Kranich"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,75€",
+        "cents": 975,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        76,
+        80,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 36,
+        "positive": 36,
+        "percent": 100,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
     }
   },
   "gargantua": {
@@ -11242,6 +11474,61 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-28"
+    }
+  },
+  "infinity-hexadome-tactics": {
+    "slug": "infinity-hexadome-tactics",
+    "name": "Infinity: HexaDome Tactics",
+    "steam": {
+      "appId": 1498550,
+      "steamName": "Infinity: HexaDome Tactics",
+      "confidence": "exact",
+      "developers": [
+        "Blindspot Games"
+      ],
+      "publishers": [
+        "Blindspot Games"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        55,
+        57,
+        58,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 63,
+        "positive": 49,
+        "percent": 78,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
     }
   },
   "invincible-vs": {
@@ -18215,6 +18502,58 @@
       "fetchedAt": "2026-09-03"
     }
   },
+  "shroom-and-gloom": {
+    "slug": "shroom-and-gloom",
+    "name": "Shroom and Gloom",
+    "steam": {
+      "appId": 3271280,
+      "steamName": "Shroom and Gloom",
+      "confidence": "exact",
+      "developers": [
+        "Team Lazerbeam"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 392,
+        "positive": 361,
+        "percent": 92,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
+    }
+  },
   "silent-breath": {
     "slug": "silent-breath",
     "name": "SILENT BREATH",
@@ -21287,6 +21626,57 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "the-crust": {
+    "slug": "the-crust",
+    "name": "The Crust",
+    "steam": {
+      "appId": 1465470,
+      "steamName": "The Crust",
+      "confidence": "exact",
+      "developers": [
+        "VEOM Studio"
+      ],
+      "publishers": [
+        "Crytivo"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 3848,
+        "positive": 2968,
+        "percent": 77,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
+    }
+  },
   "the-dark-pictures-anthology-directive-8020": {
     "slug": "the-dark-pictures-anthology-directive-8020",
     "name": "The Dark Pictures Anthology: Directive 8020",
@@ -23895,6 +24285,65 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "wardogs": {
+    "slug": "wardogs",
+    "name": "WARDOGS",
+    "steam": {
+      "appId": 1867240,
+      "steamName": "WARDOGS",
+      "confidence": "exact",
+      "developers": [
+        "BULKHEAD"
+      ],
+      "publishers": [
+        "Team17"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "39,99€",
+        "cents": 3999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        29,
+        28,
+        70
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        22,
+        67,
+        68,
+        69,
+        70,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 35791,
+        "positive": 27354,
+        "percent": 76,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
+    }
+  },
   "warena": {
     "slug": "warena",
     "name": "Warena",
@@ -24286,6 +24735,73 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "welcome-to-elderfield": {
+    "slug": "welcome-to-elderfield",
+    "name": "Welcome to Elderfield",
+    "steam": {
+      "appId": 3195440,
+      "steamName": "Welcome to Elderfield",
+      "confidence": "exact",
+      "developers": [
+        "Chris Cote"
+      ],
+      "publishers": [
+        "Kwalee"
+      ],
+      "releaseRaw": "10 Sep, 2026",
+      "releaseDate": "2026-09-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "17,99€",
+        "cents": 1799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        66,
+        82,
+        68,
+        78,
+        75,
+        80,
+        55,
+        56,
+        57,
+        58,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 478,
+        "positive": 459,
+        "percent": 96,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-12"
     }
   },
   "western-rye": {
