@@ -249,6 +249,65 @@
       "fetchedAt": "2026-09-08"
     }
   },
+  "active-matter": {
+    "slug": "active-matter",
+    "name": "Active Matter",
+    "steam": {
+      "appId": 2887580,
+      "steamName": "Active Matter",
+      "confidence": "exact",
+      "developers": [
+        "Matter Team"
+      ],
+      "publishers": [
+        "Gaijin Network Ltd"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        29
+      ],
+      "featureIds": [
+        1,
+        20,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        68,
+        74,
+        65,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 247,
+        "positive": 174,
+        "percent": 70,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-15"
+    }
+  },
   "adorable-adventures": {
     "slug": "adorable-adventures",
     "name": "Adorable Adventures",
@@ -2132,6 +2191,63 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "batomon-showdown": {
+    "slug": "batomon-showdown",
+    "name": "Batomon Showdown",
+    "steam": {
+      "appId": 4557380,
+      "steamName": "Batomon Showdown",
+      "confidence": "exact",
+      "developers": [
+        "berrymint"
+      ],
+      "publishers": [
+        "berrymint"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        28,
+        68,
+        80,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 51,
+        "positive": 41,
+        "percent": 80,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-15"
     }
   },
   "battlestar-galactica-scattered-hopes": {
@@ -4829,6 +4945,59 @@
       "fetchedAt": "2026-09-01"
     }
   },
+  "craftomation-101-programming-craft": {
+    "slug": "craftomation-101-programming-craft",
+    "name": "Craftomation 101: Programming & Craft",
+    "steam": {
+      "appId": 1724140,
+      "steamName": "Craftomation 101: Programming & Craft",
+      "confidence": "exact",
+      "developers": [
+        "Luden.io"
+      ],
+      "publishers": [
+        "Luden.io"
+      ],
+      "releaseRaw": "14 Sep, 2026",
+      "releaseDate": "2026-09-14",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        29,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 653,
+        "positive": 554,
+        "percent": 85,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-15"
+    }
+  },
   "cricket-captain-2026": {
     "slug": "cricket-captain-2026",
     "name": "Cricket Captain 2026",
@@ -5805,6 +5974,55 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "dimraeth": {
+    "slug": "dimraeth",
+    "name": "Dimraeth",
+    "steam": {
+      "appId": 2402680,
+      "steamName": "Dimraeth",
+      "confidence": "exact",
+      "developers": [
+        "Mudtek"
+      ],
+      "publishers": [
+        "Mudtek"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-15"
     }
   },
   "dinoblade": {
@@ -8117,6 +8335,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "fleetbreakers": {
+    "slug": "fleetbreakers",
+    "name": "Fleetbreakers",
+    "steam": {
+      "appId": 2929040,
+      "steamName": "Fleetbreakers",
+      "confidence": "exact",
+      "developers": [
+        "Last Keep"
+      ],
+      "publishers": [
+        "Level Up Gaming"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-15"
     }
   },
   "flow-of-war": {
@@ -12554,6 +12820,47 @@
     "name": "Little Boy : Small Steps, Big Changes",
     "steam": null,
     "reason": "introuvable"
+  },
+  "lootborne": {
+    "slug": "lootborne",
+    "name": "Lootborne",
+    "steam": {
+      "appId": 4335620,
+      "steamName": "Lootborne",
+      "confidence": "exact",
+      "developers": [
+        "Fate Rate"
+      ],
+      "publishers": [
+        "Fate Rate"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-15"
+    }
   },
   "lootbound": {
     "slug": "lootbound",
@@ -18554,6 +18861,66 @@
       "fetchedAt": "2026-09-12"
     }
   },
+  "sigilfarer-a-dice-rolling-roguelite": {
+    "slug": "sigilfarer-a-dice-rolling-roguelite",
+    "name": "Sigilfarer: A Dice-Rolling Roguelite",
+    "steam": {
+      "appId": 2436870,
+      "steamName": "Sigilfarer: A Dice-Rolling Roguelite",
+      "confidence": "exact",
+      "developers": [
+        "Viabo Games"
+      ],
+      "publishers": [
+        "Anshar Publishing"
+      ],
+      "releaseRaw": "14 Sep, 2026",
+      "releaseDate": "2026-09-14",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        66,
+        82,
+        68,
+        76,
+        80,
+        74,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 31,
+        "positive": 25,
+        "percent": 81,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-15"
+    }
+  },
   "silent-breath": {
     "slug": "silent-breath",
     "name": "SILENT BREATH",
@@ -20483,6 +20850,56 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "sublight": {
+    "slug": "sublight",
+    "name": "Sublight",
+    "steam": {
+      "appId": 3829310,
+      "steamName": "Sublight",
+      "confidence": "exact",
+      "developers": [
+        " CODEBREW SOFTWARE LTD"
+      ],
+      "publishers": [
+        " CODEBREW SOFTWARE LTD"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,99€",
+        "cents": 1099,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 3,
+        "positive": 3,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-15"
     }
   },
   "subnautica-2": {
