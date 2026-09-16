@@ -1300,6 +1300,65 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "aniimo": {
+    "slug": "aniimo",
+    "name": "Aniimo",
+    "steam": {
+      "appId": 4126040,
+      "steamName": "Aniimo",
+      "confidence": "exact",
+      "developers": [
+        "Pawprint Studio"
+      ],
+      "publishers": [
+        "Pawprint Studio"
+      ],
+      "releaseRaw": "15 Sep, 2026",
+      "releaseDate": "2026-09-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        29,
+        3,
+        28,
+        2,
+        37
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        35,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 758,
+        "positive": 377,
+        "percent": 50,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "anomaly-president": {
     "slug": "anomaly-president",
     "name": "Anomaly President",
@@ -2917,6 +2976,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "blackwood": {
+    "slug": "blackwood",
+    "name": "BLACKWOOD",
+    "steam": {
+      "appId": 3639070,
+      "steamName": "BLACKWOOD",
+      "confidence": "exact",
+      "developers": [
+        "AttritoM7 Productions"
+      ],
+      "publishers": [
+        "IZilla Games",
+        "AttritoM7 Productions"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        78,
+        57,
+        58,
+        69,
+        65,
+        70,
+        23,
+        15,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "blades-bows-and-magic": {
     "slug": "blades-bows-and-magic",
     "name": "Blades Bows and Magic",
@@ -3031,6 +3142,57 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "bloomkeeper": {
+    "slug": "bloomkeeper",
+    "name": "BloomKeeper",
+    "steam": {
+      "appId": 3034650,
+      "steamName": "BloomKeeper",
+      "confidence": "exact",
+      "developers": [
+        "Resonance Interactive"
+      ],
+      "publishers": [
+        "Resonance Interactive"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        68,
+        60,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
     }
   },
   "bombanana": {
@@ -6612,6 +6774,56 @@
       "fetchedAt": "2026-09-04"
     }
   },
+  "duo-quest": {
+    "slug": "duo-quest",
+    "name": "Duo Quest",
+    "steam": {
+      "appId": 3572800,
+      "steamName": "Duo Quest",
+      "confidence": "exact",
+      "developers": [
+        "1+1 Studios"
+      ],
+      "publishers": [
+        "Rising Tide",
+        "Electronic Sheep Games"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        1,
+        9,
+        39,
+        24,
+        28,
+        68,
+        60,
+        75,
+        74,
+        55,
+        56,
+        69,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "duskfade": {
     "slug": "duskfade",
     "name": "Duskfade",
@@ -7786,6 +7998,64 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-09-08"
+    }
+  },
+  "fallen-tear-the-ascension": {
+    "slug": "fallen-tear-the-ascension",
+    "name": "Fallen Tear: The Ascension",
+    "steam": {
+      "appId": 1446900,
+      "steamName": "Fallen Tear: The Ascension",
+      "confidence": "exact",
+      "developers": [
+        "Winter Crew Studios"
+      ],
+      "publishers": [
+        "CMD Studios"
+      ],
+      "releaseRaw": "17 Mar, 2026",
+      "releaseDate": "2026-03-17",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        60,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 307,
+        "positive": 259,
+        "percent": 84,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-16"
     }
   },
   "far-far-west": {
@@ -9540,6 +9810,71 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "gladio-mori": {
+    "slug": "gladio-mori",
+    "name": "Gladio Mori",
+    "steam": {
+      "appId": 2689120,
+      "steamName": "Gladio Mori",
+      "confidence": "exact",
+      "developers": [
+        "Plebeian Studio"
+      ],
+      "publishers": [
+        "Bonus Stage Publishing",
+        "Korgi Digital (China)"
+      ],
+      "releaseRaw": "26 Nov, 2024",
+      "releaseDate": "2024-11-26",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,99€",
+        "cents": 1599,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        28,
+        2,
+        37,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        24,
+        55,
+        56,
+        57,
+        58,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 1337,
+        "positive": 1107,
+        "percent": 83,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "glimvale-my-mini-overworld": {
     "slug": "glimvale-my-mini-overworld",
     "name": "Glimvale: My Mini Overworld",
@@ -9841,6 +10176,62 @@
     "name": "God of War: Laufey",
     "steam": null,
     "reason": "introuvable"
+  },
+  "good-heavens": {
+    "slug": "good-heavens",
+    "name": "Good Heavens!",
+    "steam": {
+      "appId": 1617120,
+      "steamName": "Good Heavens!",
+      "confidence": "exact",
+      "developers": [
+        "Nowhere Studios"
+      ],
+      "publishers": [
+        "WarpSpeed Entertainment",
+        "2P Games",
+        "Nowhere Studios"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        68,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
   },
   "gothic-1-remake": {
     "slug": "gothic-1-remake",
@@ -17775,6 +18166,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "runeomicon": {
+    "slug": "runeomicon",
+    "name": "Runeomicon",
+    "steam": {
+      "appId": 3160570,
+      "steamName": "Runeomicon",
+      "confidence": "exact",
+      "developers": [
+        "TLR Games"
+      ],
+      "publishers": [
+        "Joystick Ventures"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "runerock-arena": {
     "slug": "runerock-arena",
     "name": "Runerock Arena",
@@ -21695,6 +22125,64 @@
       "fetchedAt": "2026-08-31"
     }
   },
+  "tcg-card-shop-simulator": {
+    "slug": "tcg-card-shop-simulator",
+    "name": "TCG Card Shop Simulator",
+    "steam": {
+      "appId": 3070070,
+      "steamName": "TCG Card Shop Simulator",
+      "confidence": "exact",
+      "developers": [
+        "OPNeon Games"
+      ],
+      "publishers": [
+        "OPNeon Games"
+      ],
+      "releaseRaw": "14 Sep, 2026",
+      "releaseDate": "2026-09-14",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "20,49€",
+        "cents": 2049,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        67,
+        68,
+        74,
+        55,
+        57,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 49724,
+        "positive": 47964,
+        "percent": 96,
+        "label": {
+          "fr": "Extrêmement positives",
+          "en": "Overwhelmingly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "tears-of-metal": {
     "slug": "tears-of-metal",
     "name": "Tears of Metal",
@@ -23461,6 +23949,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "tinker-shot": {
+    "slug": "tinker-shot",
+    "name": "Tinker Shot",
+    "steam": {
+      "appId": 3351280,
+      "steamName": "Tinker Shot",
+      "confidence": "exact",
+      "developers": [
+        "CodeRed"
+      ],
+      "publishers": [
+        "Rogue Duck Interactive",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        78,
+        76,
+        74,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "tiny-eden": {
     "slug": "tiny-eden",
     "name": "Tiny Eden",
@@ -25036,6 +25570,56 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "we-are-football-2027": {
+    "slug": "we-are-football-2027",
+    "name": "WE ARE FOOTBALL 2027",
+    "steam": {
+      "appId": 4328570,
+      "steamName": "WE ARE FOOTBALL 2027",
+      "confidence": "exact",
+      "developers": [
+        "Winning Streak Games GmbH"
+      ],
+      "publishers": [
+        "Winning Streak Games GmbH"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        18,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        37,
+        24,
+        22,
+        67,
+        66,
+        68,
+        78,
+        74,
+        23,
+        17,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
+    }
+  },
   "we-are-so-dead": {
     "slug": "we-are-so-dead",
     "name": "WE ARE SO DEAD",
@@ -25562,6 +26146,57 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "woodo": {
+    "slug": "woodo",
+    "name": "Woodo",
+    "steam": {
+      "appId": 2572040,
+      "steamName": "Woodo",
+      "confidence": "exact",
+      "developers": [
+        "Tiny Monks Tales"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "releaseRaw": "16 Sep, 2026",
+      "releaseDate": "2026-09-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        66,
+        68,
+        76,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-16"
     }
   },
   "wordless-forest": {
