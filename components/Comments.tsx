@@ -103,6 +103,11 @@ function CommentThread({
 export default function Comments({ slug, title, url }: Props) {
   const { t, locale } = useLocale()
   const [comments, setComments] = useState<Comment[]>([])
+  // 'loading' tant que l'appel est en vol, 'down' si le service ne repond pas.
+  // Sans cet etat, une panne de Cusdis affichait "aucun commentaire, soyez le
+  // premier" sur des articles qui en ont, puis laissait le lecteur envoyer un
+  // message dans le vide.
+  const [status, setStatus] = useState<'loading' | 'ok' | 'down'>('loading')
   const [nickname, setNickname] = useState('')
   const [email, setEmail] = useState('')
   const [content, setContent] = useState('')
@@ -111,16 +116,31 @@ export default function Comments({ slug, title, url }: Props) {
   const [error, setError] = useState('')
 
   useEffect(() => {
+    let cancelled = false
+    setStatus('loading')
     fetch(`${HOST}/api/open/comments?appId=${APP_ID}&pageId=${slug}`)
-      .then(r => r.json())
+      .then(r => {
+        // Cusdis passe derriere Cloudflare : une panne d'origine renvoie un 521
+        // avec un corps en texte brut, donc il faut verifier le statut avant de
+        // tenter de lire du JSON.
+        if (!r.ok) throw new Error(String(r.status))
+        return r.json()
+      })
       .then(json => {
+        if (cancelled) return
         // L'API open de Cusdis ne renvoie QUE les commentaires déjà approuvés,
         // et n'inclut pas de champ "approved" dans chaque objet. Il ne faut donc
         // surtout pas re-filtrer sur c.approved, sinon on les supprime tous.
         const all: Comment[] = json?.data?.data ?? []
         setComments(all)
+        setStatus('ok')
       })
-      .catch(() => {})
+      .catch(() => {
+        if (!cancelled) setStatus('down')
+      })
+    return () => {
+      cancelled = true
+    }
   }, [slug])
 
   async function handleSubmit(e: React.FormEvent) {
@@ -148,15 +168,15 @@ export default function Comments({ slug, title, url }: Props) {
       setNickname('')
       setEmail('')
     } catch {
-      setError(locale === 'en' ? 'An error occurred. Please try again.' : 'Une erreur est survenue. Réessaie.')
+      setError(locale === 'en' ? 'An error occurred. Please try again.' : 'Une erreur est survenue. Réessayez.')
     } finally {
       setSending(false)
     }
   }
 
   const labels = locale === 'en'
-    ? { name: 'Name', email: 'Email (optional)', comment: 'Your comment', send: 'Send', pending: 'Your comment has been submitted and is pending moderation.', noComments: 'No comments yet. Be the first.', author: 'Editor' }
-    : { name: 'Nom', email: 'Email (facultatif)', comment: 'Ton commentaire', send: 'Envoyer', pending: 'Ton commentaire a bien été envoyé. Il sera visible après modération.', noComments: 'Aucun commentaire pour le moment. Sois le premier.', author: 'Rédaction' }
+    ? { name: 'Name', email: 'Email (optional)', comment: 'Your comment', send: 'Send', pending: 'Your comment has been submitted and is pending moderation.', noComments: 'No comments yet. Be the first.', author: 'Editor', loading: 'Loading comments...', down: 'Comments are temporarily unavailable: our comment host is not responding. Nothing is lost, existing comments will come back as soon as the service does.' }
+    : { name: 'Nom', email: 'Email (facultatif)', comment: 'Votre commentaire', send: 'Envoyer', pending: 'Votre commentaire a bien été envoyé. Il sera visible après modération.', noComments: 'Aucun commentaire pour le moment. Soyez le premier.', author: 'Rédaction', loading: 'Chargement des commentaires...', down: 'Les commentaires sont momentanément indisponibles : notre hébergeur de commentaires ne répond pas. Rien n\'est perdu, les commentaires existants reviendront dès le rétablissement du service.' }
 
   return (
     <div className="mt-16 border-t border-line pt-12">
@@ -166,17 +186,27 @@ export default function Comments({ slug, title, url }: Props) {
 
       {/* Liste des commentaires */}
       <div className="mb-10 flex flex-col gap-6">
-        {comments.length === 0 ? (
-          <p className="text-sm text-ink-muted">{labels.noComments}</p>
-        ) : (
-          comments.map(c => (
-            <CommentThread key={c.id} comment={c} locale={locale} authorLabel={labels.author} />
-          ))
+        {status === 'loading' && <p className="text-sm text-ink-muted">{labels.loading}</p>}
+
+        {status === 'down' && (
+          <div className="rounded-sm border border-line bg-bg-card p-5 text-sm leading-relaxed text-ink-secondary">
+            {labels.down}
+          </div>
         )}
+
+        {status === 'ok' &&
+          (comments.length === 0 ? (
+            <p className="text-sm text-ink-muted">{labels.noComments}</p>
+          ) : (
+            comments.map(c => (
+              <CommentThread key={c.id} comment={c} locale={locale} authorLabel={labels.author} />
+            ))
+          ))}
       </div>
 
-      {/* Formulaire */}
-      {sent ? (
+      {/* Formulaire : masqué tant que le service ne répond pas, sinon le lecteur
+          écrirait un commentaire qui ne partirait nulle part. */}
+      {status === 'down' ? null : sent ? (
         <div className="rounded-sm border border-brand/40 bg-brand/10 p-5 text-sm text-brand">
           {labels.pending}
         </div>
