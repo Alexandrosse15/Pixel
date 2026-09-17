@@ -4923,6 +4923,60 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "convrgence": {
+    "slug": "convrgence",
+    "name": "CONVRGENCE",
+    "steam": {
+      "appId": 2609610,
+      "steamName": "CONVRGENCE",
+      "confidence": "exact",
+      "developers": [
+        "Monkey-With-a-Bomb"
+      ],
+      "publishers": [
+        "Monkey-With-a-Bomb"
+      ],
+      "releaseRaw": "22 Apr, 2024",
+      "releaseDate": "2024-04-22",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        52,
+        54,
+        25,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 1739,
+        "positive": 1539,
+        "percent": 88,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-17"
+    }
+  },
   "copa-city": {
     "slug": "copa-city",
     "name": "Copa City",
@@ -7689,6 +7743,80 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "endless-legend-2": {
+    "slug": "endless-legend-2",
+    "name": "ENDLESS Legend 2",
+    "steam": {
+      "appId": 3407390,
+      "steamName": "ENDLESS Legend™ 2",
+      "confidence": "exact",
+      "developers": [
+        "AMPLITUDE Studios"
+      ],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "releaseRaw": "22 Sep, 2025",
+      "releaseDate": "2025-09-22",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "49,99€",
+        "cents": 4999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        3,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        22,
+        28,
+        29,
+        64,
+        67,
+        66,
+        68,
+        78,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        59,
+        69,
+        65,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 2962,
+        "positive": 2481,
+        "percent": 84,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-17"
     }
   },
   "enginefall": {
@@ -16043,6 +16171,53 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "openfront": {
+    "slug": "openfront",
+    "name": "OpenFront",
+    "steam": {
+      "appId": 3560670,
+      "steamName": "OpenFront",
+      "confidence": "exact",
+      "developers": [
+        "OpenFront Inc",
+        "Evan Pellegrini"
+      ],
+      "publishers": [
+        "OpenFront Inc"
+      ],
+      "releaseRaw": "17 Sep, 2026",
+      "releaseDate": "2026-09-17",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        29,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        20,
+        49,
+        36,
+        9,
+        38,
+        27,
+        35,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-17"
+    }
+  },
   "orc-incremental": {
     "slug": "orc-incremental",
     "name": "Orc Incremental",
@@ -16667,6 +16842,46 @@
     "name": "Pokopia",
     "steam": null,
     "reason": "introuvable"
+  },
+  "police-chief-simulator": {
+    "slug": "police-chief-simulator",
+    "name": "Police Chief Simulator",
+    "steam": {
+      "appId": 2938460,
+      "steamName": "Police Chief Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Perfect Circle Team S.A."
+      ],
+      "publishers": [
+        "Perfect Circle Team S.A."
+      ],
+      "releaseRaw": "17 Sep, 2026",
+      "releaseDate": "2026-09-17",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-17"
+    }
   },
   "police-officer": {
     "slug": "police-officer",
@@ -22588,6 +22803,55 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "the-dead-we-knew-open-world-survival": {
+    "slug": "the-dead-we-knew-open-world-survival",
+    "name": "THE DEAD WE KNEW: Open World Survival",
+    "steam": {
+      "appId": 4890760,
+      "steamName": "THE DEAD WE KNEW: Open World Survival",
+      "confidence": "exact",
+      "developers": [
+        "MAY19 STUDIO"
+      ],
+      "publishers": [
+        "MAY19 STUDIO"
+      ],
+      "releaseRaw": "22 Oct, 2026",
+      "releaseDate": "2026-10-22",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        82,
+        68,
+        78,
+        80,
+        74,
+        69,
+        70,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-17"
+    }
+  },
   "the-division-resurgence": {
     "slug": "the-division-resurgence",
     "name": "The Division Resurgence",
@@ -22743,6 +23007,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "the-guild-1-remake-europa-1410": {
+    "slug": "the-guild-1-remake-europa-1410",
+    "name": "The Guild 1 Remake: Europa 1410",
+    "steam": {
+      "appId": 2977260,
+      "steamName": "The Guild 1 Remake: Europa 1410",
+      "confidence": "exact",
+      "developers": [
+        "Ashborne Games"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "releaseRaw": "17 Sep, 2026",
+      "releaseDate": "2026-09-17",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        67,
+        66,
+        68,
+        78,
+        76,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-17"
     }
   },
   "the-lantern-of-the-laughless-saint": {
