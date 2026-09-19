@@ -5378,6 +5378,65 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "crown-siege": {
+    "slug": "crown-siege",
+    "name": "Crown Siege",
+    "steam": {
+      "appId": 4310440,
+      "steamName": "Crown Siege",
+      "confidence": "exact",
+      "developers": [
+        "JOrbits Games"
+      ],
+      "publishers": [
+        "2 Left Thumbs"
+      ],
+      "releaseRaw": "18 Sep, 2026",
+      "releaseDate": "2026-09-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        4,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        76,
+        74,
+        77,
+        18,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 57,
+        "positive": 43,
+        "percent": 75,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-19"
+    }
+  },
   "cs-manager": {
     "slug": "cs-manager",
     "name": "CS Manager",
@@ -12375,6 +12434,70 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "iracing-studios-nascar-26": {
+    "slug": "iracing-studios-nascar-26",
+    "name": "iRacing Studios NASCAR 26",
+    "steam": {
+      "appId": 4883590,
+      "steamName": "iRacing® Studios NASCAR 26",
+      "confidence": "exact",
+      "developers": [
+        "iRacing.com Motorsport Simulations, LLC"
+      ],
+      "publishers": [
+        "iRacing.com Motorsport Simulations, LLC"
+      ],
+      "releaseRaw": "17 Sep, 2026",
+      "releaseDate": "2026-09-17",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "61,99€",
+        "cents": 6199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        9,
+        28,
+        18
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        22,
+        67,
+        68,
+        78,
+        60,
+        74,
+        57,
+        69,
+        70,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 161,
+        "positive": 132,
+        "percent": 82,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-19"
+    }
+  },
   "iron-nest-heavy-turret-simulator": {
     "slug": "iron-nest-heavy-turret-simulator",
     "name": "IRON NEST: Heavy Turret Simulator",
@@ -15669,11 +15792,137 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "nightwater": {
+    "slug": "nightwater",
+    "name": "Nightwater",
+    "steam": {
+      "appId": 3983860,
+      "steamName": "Nightwater",
+      "confidence": "exact",
+      "developers": [
+        "Studio Ashty"
+      ],
+      "publishers": [
+        "Studio Ashty",
+        "Irox Games"
+      ],
+      "releaseRaw": "18 Sep, 2026",
+      "releaseDate": "2026-09-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        67,
+        66,
+        68,
+        78,
+        74,
+        79,
+        69,
+        65,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 32,
+        "positive": 28,
+        "percent": 88,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-19"
+    }
+  },
   "nintendo-switch": {
     "slug": "nintendo-switch",
     "name": "Nintendo Switch",
     "steam": null,
     "reason": "introuvable"
+  },
+  "noctiria": {
+    "slug": "noctiria",
+    "name": "Noctiria",
+    "steam": {
+      "appId": 4744550,
+      "steamName": "Noctiria",
+      "confidence": "exact",
+      "developers": [
+        "Daniele Doesn't Matter"
+      ],
+      "publishers": [
+        "Doesn't Matter Games"
+      ],
+      "releaseRaw": "18 Sep, 2026",
+      "releaseDate": "2026-09-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        23,
+        15,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1,
+        "positive": 1,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-19"
+    }
   },
   "not-quite-dead-open-world-survival": {
     "slug": "not-quite-dead-open-world-survival",
@@ -16487,6 +16736,64 @@
     "name": "Over the Top: World War 1",
     "steam": null,
     "reason": "introuvable"
+  },
+  "parisian-bistro-simulator": {
+    "slug": "parisian-bistro-simulator",
+    "name": "Parisian Bistro Simulator",
+    "steam": {
+      "appId": 3058360,
+      "steamName": "Parisian Bistro Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Quark Studios"
+      ],
+      "publishers": [
+        "Quark Studios",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "18 Sep, 2026",
+      "releaseDate": "2026-09-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 573,
+        "positive": 536,
+        "percent": 94,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-19"
+    }
   },
   "pass-the-fear": {
     "slug": "pass-the-fear",
@@ -21864,6 +22171,55 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "sunken-realms": {
+    "slug": "sunken-realms",
+    "name": "Sunken Realms",
+    "steam": {
+      "appId": 1897860,
+      "steamName": "Sunken Realms",
+      "confidence": "exact",
+      "developers": [
+        "Magic Puncher Games"
+      ],
+      "publishers": [
+        "Magic Puncher Games"
+      ],
+      "releaseRaw": "18 Sep, 2026",
+      "releaseDate": "2026-09-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "16,99€",
+        "cents": 1699,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25
+      ],
+      "featureIds": [
+        2,
+        28,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 30,
+        "positive": 27,
+        "percent": 90,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-19"
+    }
+  },
   "super-mario-bros-wonder": {
     "slug": "super-mario-bros-wonder",
     "name": "Super Mario Bros. Wonder",
@@ -25491,6 +25847,52 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "wand-order-tidy-up-the-magic-shop": {
+    "slug": "wand-order-tidy-up-the-magic-shop",
+    "name": "Wand & Order: Tidy up the magic shop!",
+    "steam": {
+      "appId": 4981570,
+      "steamName": "Wand & Order: Tidy up the magic shop!",
+      "confidence": "exact",
+      "developers": [
+        "OnSkull Games"
+      ],
+      "publishers": [
+        "OnSkull Games"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        68,
+        80,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-19"
     }
   },
   "war-commander": {
