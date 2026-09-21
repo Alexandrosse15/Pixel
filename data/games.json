@@ -2053,6 +2053,47 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "backrooms-code-yellow": {
+    "slug": "backrooms-code-yellow",
+    "name": "Backrooms: Code Yellow",
+    "steam": {
+      "appId": 4694270,
+      "steamName": "Backrooms: Code Yellow",
+      "confidence": "exact",
+      "developers": [
+        " GameMechanic"
+      ],
+      "publishers": [
+        " GameMechanic"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
+    }
+  },
   "backrooms-collision-not-found": {
     "slug": "backrooms-collision-not-found",
     "name": "Backrooms: Collision Not Found",
@@ -3423,6 +3464,55 @@
         "label": null
       },
       "fetchedAt": "2026-08-26"
+    }
+  },
+  "brave-new-wonders": {
+    "slug": "brave-new-wonders",
+    "name": "Brave New Wonders",
+    "steam": {
+      "appId": 2403830,
+      "steamName": "Brave New Wonders",
+      "confidence": "exact",
+      "developers": [
+        "City From Naught Inc."
+      ],
+      "publishers": [
+        "City From Naught Inc.",
+        "LoongGate"
+      ],
+      "releaseRaw": "20 Sep, 2026",
+      "releaseDate": "2026-09-20",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "25,49€",
+        "cents": 2549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 3,
+        "positive": 3,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-21"
     }
   },
   "breathedge-2": {
@@ -5898,6 +5988,119 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "deified": {
+    "slug": "deified",
+    "name": "Deified",
+    "steam": {
+      "appId": 3623530,
+      "steamName": "Deified",
+      "confidence": "exact",
+      "developers": [
+        "Unexpected"
+      ],
+      "publishers": [
+        "Goblinz Publishing"
+      ],
+      "releaseRaw": "27 Apr, 2026",
+      "releaseDate": "2026-04-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        76,
+        80,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 282,
+        "positive": 272,
+        "percent": 96,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-21"
+    }
+  },
+  "delverium": {
+    "slug": "delverium",
+    "name": "Delverium",
+    "steam": {
+      "appId": 2710040,
+      "steamName": "Delverium",
+      "confidence": "exact",
+      "developers": [
+        "Sagestone Games"
+      ],
+      "publishers": [
+        "Sagestone Games"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        39,
+        24,
+        22,
+        28,
+        68,
+        78,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        44,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
+    }
+  },
   "destiny-2": {
     "slug": "destiny-2",
     "name": "Destiny 2",
@@ -6846,6 +7049,47 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "dressmaker": {
+    "slug": "dressmaker",
+    "name": "Dressmaker",
+    "steam": {
+      "appId": 4019220,
+      "steamName": "Dressmaker",
+      "confidence": "exact",
+      "developers": [
+        "Cozy Lives"
+      ],
+      "publishers": [
+        "Free Lives"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        76,
+        74,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
     }
   },
   "dungeon-settlers": {
@@ -11145,6 +11389,53 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "happy-wheels": {
+    "slug": "happy-wheels",
+    "name": "Happy Wheels",
+    "steam": {
+      "appId": 4705510,
+      "steamName": "Happy Wheels",
+      "confidence": "exact",
+      "developers": [
+        "Jim Bonacci"
+      ],
+      "publishers": [
+        "Fancy Force"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        9
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        74,
+        69,
+        77,
+        18,
+        23,
+        15,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
+    }
+  },
   "hearse-hero": {
     "slug": "hearse-hero",
     "name": "Hearse Hero",
@@ -12194,6 +12485,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "igtap-an-incremental-game-that-s-also-a-platformer": {
+    "slug": "igtap-an-incremental-game-that-s-also-a-platformer",
+    "name": "IGTAP: an Incremental Game That's Also a Platformer",
+    "steam": {
+      "appId": 4364730,
+      "steamName": "IGTAP: an Incremental Game That's Also a Platformer",
+      "confidence": "exact",
+      "developers": [
+        "Pepper Tango Games"
+      ],
+      "publishers": [
+        "Gamersky Games"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        25,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        55,
+        56,
+        57,
+        58,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
     }
   },
   "imperial-ambitions": {
@@ -13501,7 +13838,7 @@
       "earlyAccess": false,
       "metacritic": null,
       "reviews": null,
-      "fetchedAt": "2026-09-15"
+      "fetchedAt": "2026-09-21"
     }
   },
   "lootbound": {
@@ -18519,6 +18856,44 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "roadhouse-simulator": {
+    "slug": "roadhouse-simulator",
+    "name": "Roadhouse Simulator",
+    "steam": {
+      "appId": 3565480,
+      "steamName": "Roadhouse Simulator",
+      "confidence": "exact",
+      "developers": [
+        "DRAGO entertainment"
+      ],
+      "publishers": [
+        "DRAGO entertainment"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
     }
   },
   "robocop-rogue-city": {
@@ -23764,6 +24139,56 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "the-rabbit-haul": {
+    "slug": "the-rabbit-haul",
+    "name": "The Rabbit Haul",
+    "steam": {
+      "appId": 2514330,
+      "steamName": "The Rabbit Haul",
+      "confidence": "exact",
+      "developers": [
+        "Caldera Interactive"
+      ],
+      "publishers": [
+        "Caldera Interactive",
+        "Fandom"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        78,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-21"
     }
   },
   "the-ranchers": {
