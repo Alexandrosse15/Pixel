@@ -727,6 +727,57 @@
       "fetchedAt": "2026-09-07"
     }
   },
+  "airport-control-27": {
+    "slug": "airport-control-27",
+    "name": "Airport Control 27",
+    "steam": {
+      "appId": 3328490,
+      "steamName": "Airport Control 27",
+      "confidence": "exact",
+      "developers": [
+        " CCC Games"
+      ],
+      "publishers": [
+        " CCC Games"
+      ],
+      "releaseRaw": "21 Sep, 2026",
+      "releaseDate": "2026-09-21",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "50,99€",
+        "cents": 5099,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 64,
+        "positive": 47,
+        "percent": 73,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-23"
+    }
+  },
   "airport-manager-simulator-2026": {
     "slug": "airport-manager-simulator-2026",
     "name": "Airport Manager Simulator 2026",
@@ -6558,6 +6609,49 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dinobones-tidy-up-the-museum": {
+    "slug": "dinobones-tidy-up-the-museum",
+    "name": "DinoBones: Tidy Up the Museum",
+    "steam": {
+      "appId": 5064340,
+      "steamName": "DinoBones: Tidy Up the Museum",
+      "confidence": "exact",
+      "developers": [
+        "Indie Souls Studio"
+      ],
+      "publishers": [
+        "Indie Souls Studio"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        64,
+        68,
+        80,
+        74,
+        69,
+        70,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-23"
+    }
+  },
   "dinosaur": {
     "slug": "dinosaur",
     "name": "Dinosaur",
@@ -10792,6 +10886,64 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "graveyard-keeper-2": {
+    "slug": "graveyard-keeper-2",
+    "name": "Graveyard Keeper 2",
+    "steam": {
+      "appId": 4358690,
+      "steamName": "Graveyard Keeper 2",
+      "confidence": "exact",
+      "developers": [
+        "Lazy Bear Games"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "releaseRaw": "22 Sep, 2026",
+      "releaseDate": "2026-09-22",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        3,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        74,
+        55,
+        57,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 909,
+        "positive": 824,
+        "percent": 91,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-23"
+    }
+  },
   "grit": {
     "slug": "grit",
     "name": "GRIT",
@@ -13384,6 +13536,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "lawn-mowing-simulator-2": {
+    "slug": "lawn-mowing-simulator-2",
+    "name": "Lawn Mowing Simulator 2",
+    "steam": {
+      "appId": 3831210,
+      "steamName": "Lawn Mowing Simulator 2",
+      "confidence": "exact",
+      "developers": [
+        "Skyhook Games"
+      ],
+      "publishers": [
+        "Skyhook Games"
+      ],
+      "releaseRaw": "23 Sep, 2026",
+      "releaseDate": "2026-09-23",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        60,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-23"
     }
   },
   "leafy-corner": {
@@ -17068,11 +17268,117 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "otterly-lost": {
+    "slug": "otterly-lost",
+    "name": "Otterly Lost",
+    "steam": {
+      "appId": 3861710,
+      "steamName": "Otterly Lost",
+      "confidence": "exact",
+      "developers": [
+        "Soulworks Interactive"
+      ],
+      "publishers": [
+        "Soulworks Interactive"
+      ],
+      "releaseRaw": "23 Sep, 2026",
+      "releaseDate": "2026-09-23",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        66,
+        68,
+        80,
+        57,
+        58,
+        79,
+        69,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-23"
+    }
+  },
   "over-the-top-world-war-1": {
     "slug": "over-the-top-world-war-1",
     "name": "Over the Top: World War 1",
     "steam": null,
     "reason": "introuvable"
+  },
+  "panzer-deck": {
+    "slug": "panzer-deck",
+    "name": "Panzer Deck",
+    "steam": {
+      "appId": 3872650,
+      "steamName": "Panzer Deck",
+      "confidence": "exact",
+      "developers": [
+        "Smash Wall"
+      ],
+      "publishers": [
+        "Smash Wall"
+      ],
+      "releaseRaw": "22 Sep, 2026",
+      "releaseDate": "2026-09-22",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,99€",
+        "cents": 1199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        82,
+        68,
+        78,
+        76,
+        80,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 21,
+        "positive": 19,
+        "percent": 90,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-23"
+    }
   },
   "parisian-bistro-simulator": {
     "slug": "parisian-bistro-simulator",
@@ -18856,6 +19162,58 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "rivage": {
+    "slug": "rivage",
+    "name": "Rivage",
+    "steam": {
+      "appId": 4094660,
+      "steamName": "Rivage",
+      "confidence": "exact",
+      "developers": [
+        "Exnilo Studio"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "releaseRaw": "22 Sep, 2026",
+      "releaseDate": "2026-09-22",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 69,
+        "positive": 41,
+        "percent": 59,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-09-23"
     }
   },
   "roadhouse-simulator": {
@@ -22059,6 +22417,68 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "stick-it-to-the-stickman": {
+    "slug": "stick-it-to-the-stickman",
+    "name": "Stick It to the Stickman",
+    "steam": {
+      "appId": 2085540,
+      "steamName": "Stick It to the Stickman",
+      "confidence": "exact",
+      "developers": [
+        "Free Lives"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "releaseRaw": "18 Aug, 2025",
+      "releaseDate": "2025-08-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,99€",
+        "cents": 1199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        39,
+        24,
+        22,
+        28,
+        30,
+        60,
+        57,
+        23,
+        17,
+        44,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 8481,
+        "positive": 8174,
+        "percent": 96,
+        "label": {
+          "fr": "Extrêmement positives",
+          "en": "Overwhelmingly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-23"
     }
   },
   "stonewards": {
@@ -27283,6 +27703,53 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "woman-simulator": {
+    "slug": "woman-simulator",
+    "name": "Woman Simulator",
+    "steam": {
+      "appId": 4072240,
+      "steamName": "Woman Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Sebasa Games"
+      ],
+      "publishers": [
+        "Sebasa Games"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3,
+        28,
+        18
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-23"
     }
   },
   "woodo": {
