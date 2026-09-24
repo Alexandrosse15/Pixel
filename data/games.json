@@ -7021,6 +7021,48 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dragon-shelter": {
+    "slug": "dragon-shelter",
+    "name": "Dragon Shelter",
+    "steam": {
+      "appId": 2712590,
+      "steamName": "Dragon Shelter",
+      "confidence": "exact",
+      "developers": [
+        "Wild Forest Studio"
+      ],
+      "publishers": [
+        "Curve Games"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-24"
+    }
+  },
   "dragonkin-the-banished": {
     "slug": "dragonkin-the-banished",
     "name": "Dragonkin: The Banished",
@@ -13334,6 +13376,49 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "kingdom-rush-6-genesis-td": {
+    "slug": "kingdom-rush-6-genesis-td",
+    "name": "Kingdom Rush 6: Genesis TD",
+    "steam": {
+      "appId": 4259190,
+      "steamName": "Kingdom Rush 6: Genesis TD",
+      "confidence": "exact",
+      "developers": [
+        "Ironhide Game Studio"
+      ],
+      "publishers": [
+        "Ironhide Game Studio"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        78,
+        76,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-24"
+    }
+  },
   "korea-il-2-series": {
     "slug": "korea-il-2-series",
     "name": "Korea. IL-2 Series",
@@ -14716,6 +14801,66 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "mars-attracts": {
+    "slug": "mars-attracts",
+    "name": "Mars Attracts",
+    "steam": {
+      "appId": 2760580,
+      "steamName": "Mars Attracts",
+      "confidence": "exact",
+      "developers": [
+        "Outlier"
+      ],
+      "publishers": [
+        "Outlier"
+      ],
+      "releaseRaw": "15 Sep, 2025",
+      "releaseDate": "2025-09-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,50€",
+        "cents": 2450,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        76,
+        74,
+        79,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 269,
+        "positive": 244,
+        "percent": 91,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-24"
+    }
+  },
   "marvel-tokon-fighting-souls": {
     "slug": "marvel-tokon-fighting-souls",
     "name": "MARVEL Tokon: Fighting Souls",
@@ -15602,6 +15747,44 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "monastery-ora-et-labora": {
+    "slug": "monastery-ora-et-labora",
+    "name": "Monastery: Ora et Labora",
+    "steam": {
+      "appId": 3179120,
+      "steamName": "Monastery: Ora et Labora",
+      "confidence": "exact",
+      "developers": [
+        "Dragonkin Studios"
+      ],
+      "publishers": [
+        "Dragonkin Studios"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-24"
     }
   },
   "monk-took-book": {
@@ -20666,6 +20849,68 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "silent-hill-townfall": {
+    "slug": "silent-hill-townfall",
+    "name": "SILENT HILL: Townfall",
+    "steam": {
+      "appId": 1636440,
+      "steamName": "SILENT HILL: Townfall",
+      "confidence": "exact",
+      "developers": [
+        "Screen Burn"
+      ],
+      "publishers": [
+        "KONAMI",
+        " Annapurna Interactive"
+      ],
+      "releaseRaw": "23 Sep, 2026",
+      "releaseDate": "2026-09-23",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "49,99€",
+        "cents": 4999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        78,
+        55,
+        56,
+        57,
+        58,
+        69,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1111,
+        "positive": 819,
+        "percent": 74,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-24"
+    }
+  },
   "silent-shark": {
     "slug": "silent-shark",
     "name": "Silent Shark",
@@ -22716,6 +22961,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "substrate-emergence": {
+    "slug": "substrate-emergence",
+    "name": "Substrate: Emergence",
+    "steam": {
+      "appId": 4248790,
+      "steamName": "Substrate: Emergence",
+      "confidence": "exact",
+      "developers": [
+        "Petri Dish Games LLC"
+      ],
+      "publishers": [
+        "Petri Dish Games LLC"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        64,
+        67,
+        66,
+        82,
+        68,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-24"
+    }
+  },
   "subway-builder": {
     "slug": "subway-builder",
     "name": "Subway Builder",
@@ -24426,6 +24717,47 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "steam": null,
     "reason": "introuvable"
+  },
+  "the-magus-circle": {
+    "slug": "the-magus-circle",
+    "name": "The Magus Circle",
+    "steam": {
+      "appId": 2796640,
+      "steamName": "The Magus Circle",
+      "confidence": "exact",
+      "developers": [
+        "By Witchlight"
+      ],
+      "publishers": [
+        "By Witchlight"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        2,
+        68,
+        78,
+        80,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-09-24"
+    }
   },
   "the-mandalorian-grogu": {
     "slug": "the-mandalorian-grogu",
