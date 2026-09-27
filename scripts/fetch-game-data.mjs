@@ -211,7 +211,14 @@ async function fetchByAppId(slug, name, appId, confidence) {
   )
   await sleep(1400)
 
-  const d = details?.[String(appId)]?.success ? details[String(appId)].data : null
+  // Steam renvoie parfois la fiche sous une autre clef que l'appid demandé
+  // (cas observé sur EA SPORTS FC 27, Fallosophy, Scapewatch, Wild West Pioneers).
+  // On prend donc l'entrée qui porte le bon steam_appid, sinon la première valide.
+  const entries = Object.values(details ?? {}).filter(e => e?.success && e.data)
+  const d =
+    entries.find(e => Number(e.data.steam_appid) === Number(appId))?.data ??
+    entries[0]?.data ??
+    null
   if (!d) return { slug, name, steam: null, reason: 'fiche indisponible' }
 
   const reviews = await getJson(

@@ -1659,6 +1659,65 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "archipeo": {
+    "slug": "archipeo",
+    "name": "Archipeo",
+    "steam": {
+      "appId": 3903640,
+      "steamName": "Archipeo",
+      "confidence": "exact",
+      "developers": [
+        "Timothy Baier"
+      ],
+      "publishers": [
+        "Timothy Baier"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "13,49€",
+        "cents": 1349,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        47,
+        9,
+        38,
+        48,
+        68,
+        78,
+        74,
+        69,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 4,
+        "positive": 4,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "archon-soul": {
     "slug": "archon-soul",
     "name": "Archon Soul",
@@ -3969,6 +4028,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "card-conquest": {
+    "slug": "card-conquest",
+    "name": "Card Conquest",
+    "steam": {
+      "appId": 3883580,
+      "steamName": "Card Conquest",
+      "confidence": "exact",
+      "developers": [
+        "YaxWorks"
+      ],
+      "publishers": [
+        "YaxWorks"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,79€",
+        "cents": 679,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 5,
+        "positive": 3,
+        "percent": 60,
+        "label": null
+      },
+      "fetchedAt": "2026-09-27"
     }
   },
   "carnival-hunt": {
@@ -7568,6 +7675,78 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "ea-sports-fc-27": {
+    "slug": "ea-sports-fc-27",
+    "name": "EA SPORTS FC™ 27",
+    "steam": {
+      "appId": 4080220,
+      "steamName": "EA SPORTS FC™ 27",
+      "confidence": "exact",
+      "developers": [
+        "EA CANADA",
+        "EA Romania"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "69,99€",
+        "cents": 6999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        18
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        9,
+        38,
+        39,
+        24,
+        27,
+        22,
+        28,
+        35,
+        72,
+        66,
+        82,
+        78,
+        74,
+        55,
+        57,
+        58,
+        69,
+        65,
+        61
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 4142,
+        "positive": 2274,
+        "percent": 55,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "ea-sports-madden-nfl-27": {
     "slug": "ea-sports-madden-nfl-27",
     "name": "EA SPORTS Madden NFL 27",
@@ -8623,6 +8802,64 @@
         }
       },
       "fetchedAt": "2026-09-16"
+    }
+  },
+  "fallosophy": {
+    "slug": "fallosophy",
+    "name": "Fallosophy",
+    "steam": {
+      "appId": 3989550,
+      "steamName": "Fallosophy",
+      "confidence": "exact",
+      "developers": [
+        "Reliable Plumbing Services"
+      ],
+      "publishers": [
+        "Reliable Plumbing Services"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        39,
+        24,
+        28,
+        55,
+        56,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 49,
+        "positive": 39,
+        "percent": 80,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
     }
   },
   "far-far-west": {
@@ -12468,6 +12705,63 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "i-know-a-guy-shady-life-simulator": {
+    "slug": "i-know-a-guy-shady-life-simulator",
+    "name": "I Know a Guy: Shady Life Simulator",
+    "steam": {
+      "appId": 4173620,
+      "steamName": "I Know a Guy: Shady Life Simulator",
+      "confidence": "exact",
+      "developers": [
+        " Bunch'o'Nerds"
+      ],
+      "publishers": [
+        " Bunch'o'Nerds"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "13,49€",
+        "cents": 1349,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        67,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 500,
+        "positive": 447,
+        "percent": 89,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "i-t-never-ends": {
     "slug": "i-t-never-ends",
     "name": "I.T. Never Ends",
@@ -13148,6 +13442,60 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "isekai-waifu-overlord": {
+    "slug": "isekai-waifu-overlord",
+    "name": "Isekai: Waifu Overlord",
+    "steam": {
+      "appId": 3850550,
+      "steamName": "Isekai: Waifu Overlord",
+      "confidence": "exact",
+      "developers": [
+        "Passion Panda",
+        "GreenT"
+      ],
+      "publishers": [
+        "Passion Panda Publishing"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        3,
+        28,
+        37
+      ],
+      "featureIds": [
+        2,
+        22,
+        35,
+        68,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 287,
+        "positive": 210,
+        "percent": 73,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "island-beekeeper": {
     "slug": "island-beekeeper",
     "name": "Island Beekeeper",
@@ -13494,6 +13842,59 @@
     "name": "KOTAMON",
     "steam": null,
     "reason": "introuvable"
+  },
+  "land-of-glarefall": {
+    "slug": "land-of-glarefall",
+    "name": "Land of Glarefall",
+    "steam": {
+      "appId": 3836120,
+      "steamName": "Land of Glarefall",
+      "confidence": "exact",
+      "developers": [
+        "BLAIKE GAMES"
+      ],
+      "publishers": [
+        "BLAIKE GAMES"
+      ],
+      "releaseRaw": "24 Sep, 2026",
+      "releaseDate": "2026-09-24",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,25€",
+        "cents": 925,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 182,
+        "positive": 167,
+        "percent": 92,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
   },
   "lanterns": {
     "slug": "lanterns",
@@ -16231,6 +16632,69 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "museologist-tidy-up-the-museum": {
+    "slug": "museologist-tidy-up-the-museum",
+    "name": "Museologist: Tidy Up the Museum!",
+    "steam": {
+      "appId": 4964580,
+      "steamName": "Museologist: Tidy Up the Museum!",
+      "confidence": "exact",
+      "developers": [
+        "Tobo Games"
+      ],
+      "publishers": [
+        "Tobo Games"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,15€",
+        "cents": 615,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 45,
+        "positive": 42,
+        "percent": 93,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "my-fire-is-bigger-than-yours": {
     "slug": "my-fire-is-bigger-than-yours",
     "name": "My Fire Is Bigger Than Yours",
@@ -16903,6 +17367,58 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "oh-ship": {
+    "slug": "oh-ship",
+    "name": "Oh Ship!",
+    "steam": {
+      "appId": 4410890,
+      "steamName": "Oh Ship!",
+      "confidence": "exact",
+      "developers": [
+        "Vendor Trash Games"
+      ],
+      "publishers": [
+        "Vendor Trash Games"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,19€",
+        "cents": 719,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        67,
+        68,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1,
+        "positive": 1,
+        "percent": 100,
+        "label": null
+      },
+      "fetchedAt": "2026-09-27"
     }
   },
   "omen": {
@@ -19880,6 +20396,76 @@
     "name": "Saros",
     "steam": null,
     "reason": "introuvable"
+  },
+  "scapewatch-idle-mmo": {
+    "slug": "scapewatch-idle-mmo",
+    "name": "Scapewatch: Idle MMO",
+    "steam": {
+      "appId": 4671380,
+      "steamName": "Scapewatch: Idle MMO",
+      "confidence": "exact",
+      "developers": [
+        "Puzzle Drop Studios"
+      ],
+      "publishers": [
+        "Puzzle Drop Studios"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        29,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        20,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        64,
+        67,
+        66,
+        82,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 178,
+        "positive": 149,
+        "percent": 84,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
   },
   "scarlet-deer-inn": {
     "slug": "scarlet-deer-inn",
@@ -27459,6 +28045,67 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "wavecrashers": {
+    "slug": "wavecrashers",
+    "name": "Wavecrashers",
+    "steam": {
+      "appId": 3664090,
+      "steamName": "Wavecrashers",
+      "confidence": "exact",
+      "developers": [
+        "Eightfold Interactive"
+      ],
+      "publishers": [
+        "Eightfold Interactive",
+        "Games Operators"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,25€",
+        "cents": 1125,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        3,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        68,
+        74,
+        69,
+        15,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 38,
+        "positive": 33,
+        "percent": 87,
+        "label": {
+          "fr": "Positives",
+          "en": "Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
+    }
+  },
   "we-are-football-2027": {
     "slug": "we-are-football-2027",
     "name": "WE ARE FOOTBALL 2027",
@@ -27858,6 +28505,59 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "wild-west-pioneers": {
+    "slug": "wild-west-pioneers",
+    "name": "Wild West Pioneers",
+    "steam": {
+      "appId": 3222640,
+      "steamName": "Wild West Pioneers",
+      "confidence": "exact",
+      "developers": [
+        "EmpireCraft Studios"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "releaseRaw": "25 Sep, 2026",
+      "releaseDate": "2026-09-25",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        29,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 208,
+        "positive": 154,
+        "percent": 74,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-09-27"
     }
   },
   "wildframe-a-creature-scrapbook": {
