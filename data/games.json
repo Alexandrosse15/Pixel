@@ -249,6 +249,69 @@
       "fetchedAt": "2026-09-08"
     }
   },
+  "ace-combat-8-wings-of-theve": {
+    "slug": "ace-combat-8-wings-of-theve",
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "steam": {
+      "appId": 2288340,
+      "steamName": "ACE COMBAT 8: WINGS OF THEVE",
+      "confidence": "exact",
+      "developers": [
+        "Bandai Namco Aces Inc."
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "releaseRaw": "1 Oct, 2026",
+      "releaseDate": "2026-10-01",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "69,99€",
+        "cents": 6999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        28,
+        29,
+        35,
+        55,
+        57,
+        58,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 5073,
+        "positive": 3815,
+        "percent": 75,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "active-matter": {
     "slug": "active-matter",
     "name": "Active Matter",
@@ -1227,6 +1290,62 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "ammossum": {
+    "slug": "ammossum",
+    "name": "Ammossum",
+    "steam": {
+      "appId": 2659600,
+      "steamName": "Ammossum",
+      "confidence": "exact",
+      "developers": [
+        "West Glade"
+      ],
+      "publishers": [
+        "Yahaha Games"
+      ],
+      "releaseRaw": "28 Sep, 2026",
+      "releaseDate": "2026-09-28",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,99€",
+        "cents": 1099,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 78,
+        "positive": 49,
+        "percent": 63,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-10-01"
     }
   },
   "an-eggstremely-hard-game": {
@@ -2630,6 +2749,42 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "bering-tonnage": {
+    "slug": "bering-tonnage",
+    "name": "Bering Tonnage",
+    "steam": {
+      "appId": 4610080,
+      "steamName": "Bering Tonnage",
+      "confidence": "exact",
+      "developers": [
+        "Antimuon Studios"
+      ],
+      "publishers": [
+        "Antimuon Studios"
+      ],
+      "releaseRaw": "2 Oct, 2026",
+      "releaseDate": "2026-10-02",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "beso-s-shawarma": {
     "slug": "beso-s-shawarma",
     "name": "Beso's Shawarma",
@@ -3765,6 +3920,56 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-26"
+    }
+  },
+  "bruisers-2d-boxing": {
+    "slug": "bruisers-2d-boxing",
+    "name": "Bruisers 2D Boxing",
+    "steam": {
+      "appId": 3740090,
+      "steamName": "Bruisers 2D Boxing",
+      "confidence": "exact",
+      "developers": [
+        "FunOldGames",
+        "Halfbrick Studios"
+      ],
+      "publishers": [
+        "Halfbrick Studios"
+      ],
+      "releaseRaw": "21 Oct, 2026",
+      "releaseDate": "2026-10-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        3,
+        18,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        37,
+        24,
+        28,
+        67,
+        68,
+        78,
+        55,
+        44,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
     }
   },
   "bulletreign-survivors": {
@@ -6259,6 +6464,69 @@
       "fetchedAt": "2026-09-21"
     }
   },
+  "deskrawl-idle-arpg": {
+    "slug": "deskrawl-idle-arpg",
+    "name": "Deskrawl: Idle ARPG",
+    "steam": {
+      "appId": 4623570,
+      "steamName": "Deskrawl: Idle ARPG",
+      "confidence": "exact",
+      "developers": [
+        "First Day Games"
+      ],
+      "publishers": [
+        "First Day Games",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "28 Sep, 2026",
+      "releaseDate": "2026-09-28",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,19€",
+        "cents": 719,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 926,
+        "positive": 671,
+        "percent": 72,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "destiny-2": {
     "slug": "destiny-2",
     "name": "Destiny 2",
@@ -7335,6 +7603,54 @@
       "fetchedAt": "2026-09-21"
     }
   },
+  "dual-fire-walled-city": {
+    "slug": "dual-fire-walled-city",
+    "name": "港警成雙：來自城寨 Dual Fire Walled City",
+    "steam": {
+      "appId": 3918200,
+      "steamName": "港警成雙：來自城寨 Dual Fire Walled City",
+      "confidence": "exact",
+      "developers": [
+        "Team DF"
+      ],
+      "publishers": [
+        "Team DF"
+      ],
+      "releaseRaw": "2026",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        1,
+        9,
+        38,
+        48,
+        39,
+        24,
+        22,
+        28,
+        64,
+        67,
+        68,
+        65,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "dungeon-settlers": {
     "slug": "dungeon-settlers",
     "name": "Dungeon Settlers",
@@ -7979,6 +8295,59 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "eclesiar": {
+    "slug": "eclesiar",
+    "name": "Eclesiar",
+    "steam": {
+      "appId": 4962560,
+      "steamName": "Eclesiar",
+      "confidence": "exact",
+      "developers": [
+        "Atlantic Game Development"
+      ],
+      "publishers": [
+        "Atlantic Game Development"
+      ],
+      "releaseRaw": "1 Oct, 2026",
+      "releaseDate": "2026-10-01",
+      "comingSoon": true,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        29,
+        3,
+        28,
+        37
+      ],
+      "featureIds": [
+        1,
+        20,
+        49,
+        36,
+        22,
+        35,
+        64,
+        82,
+        68,
+        76,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "edge-of-memories": {
     "slug": "edge-of-memories",
     "name": "Edge of Memories",
@@ -8437,6 +8806,64 @@
       "fetchedAt": "2026-09-17"
     }
   },
+  "endless-rails": {
+    "slug": "endless-rails",
+    "name": "Endless Rails",
+    "steam": {
+      "appId": 4601120,
+      "steamName": "Endless Rails",
+      "confidence": "exact",
+      "developers": [
+        "Studio Monoblok"
+      ],
+      "publishers": [
+        "Studio Monoblok",
+        "Maple Whispering Limited"
+      ],
+      "releaseRaw": "29 Sep, 2026",
+      "releaseDate": "2026-09-29",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,99€",
+        "cents": 699,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        60,
+        74,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 84,
+        "positive": 64,
+        "percent": 76,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "enginefall": {
     "slug": "enginefall",
     "name": "Enginefall",
@@ -8538,6 +8965,56 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "epic-cards-battle-3-tcg": {
+    "slug": "epic-cards-battle-3-tcg",
+    "name": "Epic Cards Battle 3 (TCG)",
+    "steam": {
+      "appId": 2239230,
+      "steamName": "Epic Cards Battle 3 (TCG)",
+      "confidence": "exact",
+      "developers": [
+        "momoStorm Entertainment"
+      ],
+      "publishers": [
+        "momoStorm Entertainment"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        29,
+        3,
+        2,
+        37,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        20,
+        49,
+        36,
+        9,
+        38,
+        27,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
     }
   },
   "esports-manager-2026": {
@@ -13604,6 +14081,57 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "japanese-ramen-simulator": {
+    "slug": "japanese-ramen-simulator",
+    "name": "Japanese Ramen Simulator",
+    "steam": {
+      "appId": 4968640,
+      "steamName": "Japanese Ramen Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Wild Dog"
+      ],
+      "publishers": [
+        "Wild Dog"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        64,
+        67,
+        68,
+        78,
+        80,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "jay-and-silent-bob-chronic-blunt-punch": {
     "slug": "jay-and-silent-bob-chronic-blunt-punch",
     "name": "Jay and Silent Bob Chronic Blunt Punch",
@@ -15788,6 +16316,75 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "minecraft-dungeons-ii": {
+    "slug": "minecraft-dungeons-ii",
+    "name": "Minecraft Dungeons II",
+    "steam": {
+      "appId": 1912410,
+      "steamName": "Minecraft Dungeons II",
+      "confidence": "exact",
+      "developers": [
+        "Mojang Studios",
+        "Double Eleven"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "releaseRaw": "29 Sep, 2026",
+      "releaseDate": "2026-09-29",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        39,
+        24,
+        27,
+        22,
+        29,
+        64,
+        66,
+        82,
+        68,
+        74,
+        69,
+        65,
+        70,
+        18,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 5078,
+        "positive": 2978,
+        "percent": 59,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "minegeon-renegades": {
     "slug": "minegeon-renegades",
     "name": "MineGeon: Renegades",
@@ -17047,6 +17644,68 @@
     "name": "Nintendo Switch",
     "steam": null,
     "reason": "introuvable"
+  },
+  "nivalis-nights": {
+    "slug": "nivalis-nights",
+    "name": "Nivalis Nights",
+    "steam": {
+      "appId": 1488490,
+      "steamName": "Nivalis Nights",
+      "confidence": "exact",
+      "developers": [
+        "ION LANDS"
+      ],
+      "publishers": [
+        "505 Games"
+      ],
+      "releaseRaw": "29 Sep, 2026",
+      "releaseDate": "2026-09-29",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        3,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        80,
+        74,
+        57,
+        58,
+        79,
+        69,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1949,
+        "positive": 1436,
+        "percent": 74,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
   },
   "noctiria": {
     "slug": "noctiria",
@@ -21107,6 +21766,66 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "shipcrafter": {
+    "slug": "shipcrafter",
+    "name": "ShipCrafter",
+    "steam": {
+      "appId": 3854870,
+      "steamName": "ShipCrafter",
+      "confidence": "exact",
+      "developers": [
+        "Myrmecoman"
+      ],
+      "publishers": [
+        "MoreButterGames"
+      ],
+      "releaseRaw": "30 Sep, 2026",
+      "releaseDate": "2026-09-30",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,79€",
+        "cents": 779,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        22,
+        30,
+        67,
+        68,
+        74,
+        79,
+        69,
+        23,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 277,
+        "positive": 252,
+        "percent": 91,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "shippin": {
     "slug": "shippin",
     "name": "Shippin",
@@ -22061,6 +22780,64 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "songs-of-glimmerwick": {
+    "slug": "songs-of-glimmerwick",
+    "name": "Songs of Glimmerwick",
+    "steam": {
+      "appId": 1706510,
+      "steamName": "Songs of Glimmerwick",
+      "confidence": "exact",
+      "developers": [
+        "Eastshade Studios"
+      ],
+      "publishers": [
+        "Eastshade Studios"
+      ],
+      "releaseRaw": "30 Sep, 2026",
+      "releaseDate": "2026-09-30",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "25,49€",
+        "cents": 2549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        66,
+        68,
+        74,
+        79,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 78,
+        "positive": 74,
+        "percent": 95,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-01"
+    }
+  },
   "soulbound-online": {
     "slug": "soulbound-online",
     "name": "Soulbound: Online",
@@ -22406,6 +23183,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "spartacus-blood-arena": {
+    "slug": "spartacus-blood-arena",
+    "name": "Spartacus Blood Arena",
+    "steam": {
+      "appId": 3227750,
+      "steamName": "Spartacus Blood Arena",
+      "confidence": "exact",
+      "developers": [
+        "survival player"
+      ],
+      "publishers": [
+        "survival player"
+      ],
+      "releaseRaw": "October 2026",
+      "releaseDate": "2026-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        24,
+        60,
+        18,
+        44,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
     }
   },
   "speedrunners-2-king-of-speed": {
@@ -27610,6 +28435,58 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "voidcraft": {
+    "slug": "voidcraft",
+    "name": "VoidCraft",
+    "steam": {
+      "appId": 4729370,
+      "steamName": "VoidCraft",
+      "confidence": "exact",
+      "developers": [
+        "Hanamori Labs, LLC"
+      ],
+      "publishers": [
+        "Hanamori Labs, LLC"
+      ],
+      "releaseRaw": "2026",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        29,
+        28,
+        2,
+        37
+      ],
+      "featureIds": [
+        1,
+        20,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        35,
+        68,
+        80,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-01"
     }
   },
   "wand-order-tidy-up-the-magic-shop": {
