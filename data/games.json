@@ -5734,13 +5734,13 @@
       "publishers": [
         "Wilks Studios"
       ],
-      "releaseRaw": "29 Jul, 2026",
-      "releaseDate": "2026-07-29",
+      "releaseRaw": "29 Sep, 2026",
+      "releaseDate": "2026-09-29",
       "comingSoon": false,
       "price": {
         "isFree": false,
-        "formatted": "14,49€",
-        "cents": 1449,
+        "formatted": "16,49€",
+        "cents": 1649,
         "currency": "EUR"
       },
       "platforms": {
@@ -5752,8 +5752,7 @@
         23,
         28,
         18,
-        2,
-        70
+        2
       ],
       "featureIds": [
         2,
@@ -5763,18 +5762,18 @@
         79,
         62
       ],
-      "earlyAccess": true,
+      "earlyAccess": false,
       "metacritic": null,
       "reviews": {
-        "total": 30,
-        "positive": 22,
-        "percent": 73,
+        "total": 35,
+        "positive": 24,
+        "percent": 69,
         "label": {
-          "fr": "Plutôt positives",
-          "en": "Mostly Positive"
+          "fr": "Moyennes",
+          "en": "Mixed"
         }
       },
-      "fetchedAt": "2026-08-23"
+      "fetchedAt": "2026-10-05"
     }
   },
   "crimson-moon": {
@@ -28487,6 +28486,50 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-10-01"
+    }
+  },
+  "voidfall": {
+    "slug": "voidfall",
+    "name": "VoidFall",
+    "steam": {
+      "appId": 4632760,
+      "steamName": "VoidFall",
+      "confidence": "exact",
+      "developers": [
+        "Voidfall Studios"
+      ],
+      "publishers": [
+        "Voidfall Studios"
+      ],
+      "releaseRaw": "5 Oct, 2026",
+      "releaseDate": "2026-10-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        68,
+        78,
+        80,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-05"
     }
   },
   "wand-order-tidy-up-the-magic-shop": {
