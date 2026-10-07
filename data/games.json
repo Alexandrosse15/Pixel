@@ -11019,6 +11019,66 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "gears-of-war-e-day": {
+    "slug": "gears-of-war-e-day",
+    "name": "Gears of War: E-Day",
+    "steam": {
+      "appId": 3010850,
+      "steamName": "Gears of War: E-Day",
+      "confidence": "exact",
+      "developers": [
+        "The Coalition"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "releaseRaw": "6 Oct, 2026",
+      "releaseDate": "2026-10-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "69,99€",
+        "cents": 6999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        28,
+        35,
+        57,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 4668,
+        "positive": 3563,
+        "percent": 76,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-07"
+    }
+  },
   "gecko-gods": {
     "slug": "gecko-gods",
     "name": "Gecko Gods",
@@ -11697,6 +11757,51 @@
         }
       },
       "fetchedAt": "2026-09-23"
+    }
+  },
+  "gridlords": {
+    "slug": "gridlords",
+    "name": "Gridlords",
+    "steam": {
+      "appId": 3768400,
+      "steamName": "Gridlords",
+      "confidence": "exact",
+      "developers": [
+        "Sphere Studios"
+      ],
+      "publishers": [
+        "Goblinz Publishing"
+      ],
+      "releaseRaw": "7 Oct, 2026",
+      "releaseDate": "2026-10-07",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        2,
+        70
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        68,
+        76,
+        80,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-07"
     }
   },
   "grit": {
@@ -23184,6 +23289,46 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "spam": {
+    "slug": "spam",
+    "name": "SPAM",
+    "steam": {
+      "appId": 2902720,
+      "steamName": "SPAM",
+      "confidence": "exact",
+      "developers": [
+        "Ticroco Entreprise"
+      ],
+      "publishers": [
+        "Ticroco Entreprise"
+      ],
+      "releaseRaw": "7 Oct, 2026",
+      "releaseDate": "2026-10-07",
+      "comingSoon": true,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        37
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        35,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-07"
+    }
+  },
   "spartacus-blood-arena": {
     "slug": "spartacus-blood-arena",
     "name": "Spartacus Blood Arena",
@@ -23578,6 +23723,78 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "star-wars-galactic-racer": {
+    "slug": "star-wars-galactic-racer",
+    "name": "STAR WARS: Galactic Racer™",
+    "steam": {
+      "appId": 4078430,
+      "steamName": "STAR WARS: Galactic Racer™",
+      "confidence": "exact",
+      "developers": [
+        "Fuse Games"
+      ],
+      "publishers": [
+        "Secret Mode"
+      ],
+      "releaseRaw": "6 Oct, 2026",
+      "releaseDate": "2026-10-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "59,99€",
+        "cents": 5999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        9,
+        28,
+        18
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        27,
+        22,
+        28,
+        64,
+        67,
+        68,
+        78,
+        60,
+        71,
+        55,
+        56,
+        57,
+        58,
+        69,
+        65,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1392,
+        "positive": 1117,
+        "percent": 80,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-07"
+    }
+  },
   "star-wars-jedi-survivor": {
     "slug": "star-wars-jedi-survivor",
     "name": "Star Wars Jedi: Survivor",
@@ -23960,6 +24177,44 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-26"
+    }
+  },
+  "steam-iron-battle-of-port-arthur": {
+    "slug": "steam-iron-battle-of-port-arthur",
+    "name": "Steam & Iron. Battle of Port Arthur",
+    "steam": {
+      "appId": 3381300,
+      "steamName": "Steam & Iron. Battle of Port Arthur",
+      "confidence": "exact",
+      "developers": [
+        "Goydalka Games"
+      ],
+      "publishers": [
+        "Goydalka Games"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-07"
     }
   },
   "steel-fortress-awakening": {
@@ -27569,6 +27824,71 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "toy-shire": {
+    "slug": "toy-shire",
+    "name": "Toy Shire",
+    "steam": {
+      "appId": 2361460,
+      "steamName": "Toy Shire",
+      "confidence": "exact",
+      "developers": [
+        "Bluespy Studios"
+      ],
+      "publishers": [
+        "Catoptric Games"
+      ],
+      "releaseRaw": "6 Oct, 2026",
+      "releaseDate": "2026-10-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,75€",
+        "cents": 975,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        29,
+        30,
+        67,
+        68,
+        78,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        18,
+        23,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 747,
+        "positive": 649,
+        "percent": 87,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-07"
     }
   },
   "trail-error": {
