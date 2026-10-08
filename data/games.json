@@ -5113,6 +5113,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "clive-barker-s-hellraiser-revival": {
+    "slug": "clive-barker-s-hellraiser-revival",
+    "name": "Clive Barker's Hellraiser: Revival",
+    "steam": {
+      "appId": 1551980,
+      "steamName": "Clive Barker's Hellraiser: Revival",
+      "confidence": "exact",
+      "developers": [
+        "Saber Interactive"
+      ],
+      "publishers": [
+        "Saber Interactive"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "39,99€",
+        "cents": 3999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
+    }
+  },
   "cloud-keeper-shrine-of-dal": {
     "slug": "cloud-keeper-shrine-of-dal",
     "name": "Cloud Keeper: Shrine of Dal",
@@ -7648,6 +7694,52 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-10-01"
+    }
+  },
+  "duelist-idle-expedition": {
+    "slug": "duelist-idle-expedition",
+    "name": "Duelist: Idle Expedition",
+    "steam": {
+      "appId": 4282780,
+      "steamName": "Duelist: Idle Expedition",
+      "confidence": "exact",
+      "developers": [
+        "One Interactive Studio"
+      ],
+      "publishers": [
+        "Infini Fun"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        3,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        75,
+        76,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
     }
   },
   "dungeon-settlers": {
@@ -13840,6 +13932,55 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "invokyr": {
+    "slug": "invokyr",
+    "name": "Invokyr",
+    "steam": {
+      "appId": 3883570,
+      "steamName": "Invokyr",
+      "confidence": "exact",
+      "developers": [
+        "Ludogram"
+      ],
+      "publishers": [
+        "Ludogram",
+        "Shochiku"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        28,
+        37,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        64,
+        68,
+        74,
+        69,
+        65,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
+    }
+  },
   "iracing-studios-nascar-26": {
     "slug": "iracing-studios-nascar-26",
     "name": "iRacing Studios NASCAR 26",
@@ -17624,6 +17765,69 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "neon-abyss-2": {
+    "slug": "neon-abyss-2",
+    "name": "Neon Abyss 2",
+    "steam": {
+      "appId": 2235200,
+      "steamName": "Neon Abyss 2",
+      "confidence": "exact",
+      "developers": [
+        "Veewo Games"
+      ],
+      "publishers": [
+        "Veewo Games",
+        "Kepler Ghost"
+      ],
+      "releaseRaw": "7 Oct, 2026",
+      "releaseDate": "2026-10-07",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,50€",
+        "cents": 1950,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        28,
+        68,
+        78,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 2379,
+        "positive": 1681,
+        "percent": 71,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-08"
+    }
+  },
   "nightmare-frontier": {
     "slug": "nightmare-frontier",
     "name": "Nightmare Frontier",
@@ -18560,6 +18764,51 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "order-of-the-sinking-star": {
+    "slug": "order-of-the-sinking-star",
+    "name": "Order of the Sinking Star",
+    "steam": {
+      "appId": 499170,
+      "steamName": "Order of the Sinking Star",
+      "confidence": "exact",
+      "developers": [
+        "Thekla, Inc."
+      ],
+      "publishers": [
+        "Arc Games",
+        "Gamirror Games"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
     }
   },
   "ore-odds": {
@@ -22376,6 +22625,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "silver-pines": {
+    "slug": "silver-pines",
+    "name": "Silver Pines",
+    "steam": {
+      "appId": 2333000,
+      "steamName": "Silver Pines",
+      "confidence": "exact",
+      "developers": [
+        "Wych Elm"
+      ],
+      "publishers": [
+        "Team17"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
     }
   },
   "sineus-arena-survivors": {
@@ -29798,6 +30095,61 @@
         }
       },
       "fetchedAt": "2026-09-27"
+    }
+  },
+  "wildaria": {
+    "slug": "wildaria",
+    "name": "Wildaria",
+    "steam": {
+      "appId": 1965550,
+      "steamName": "Wildaria",
+      "confidence": "exact",
+      "developers": [
+        "SpaceFudge"
+      ],
+      "publishers": [
+        "SpaceFudge"
+      ],
+      "releaseRaw": "8 Oct, 2026",
+      "releaseDate": "2026-10-08",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        68,
+        75,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        65,
+        70,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-08"
     }
   },
   "wildframe-a-creature-scrapbook": {
