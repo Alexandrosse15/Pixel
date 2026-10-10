@@ -68,6 +68,8 @@ On one side: one of the best puzzle games ever seen. A game that makes you earn 
 
 On the other: the execution is described as wonky, and the word buggy keeps appearing. GameSpot's headline says the game is enormous, for better and worse. Nintendo Life calls it intense, sometimes gruelling, but always inventive.
 
+Players have been far more decisive than the press: **663 positive reviews out of 685, or 97 per cent**, rated overwhelmingly positive, with over five thousand people playing at once the day after release.
+
 And two specific complaints recur that you should know about before buying.
 
 **Readability.** Objects are small, scenes are busy, and several reviewers report struggling to parse the environment. In a game where the solution is often right in front of you, not seeing clearly is a real problem rather than a nicety.

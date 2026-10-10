@@ -1,12 +1,13 @@
 ---
 title: "Duelist: Idle Expedition: your guild fights in the taskbar while you work"
-seoTitle: "Duelist: Idle Expedition: preview"
+seoTitle: "Duelist: Idle Expedition: review"
 slug: "duelist-idle-expedition-preview"
-category: "previews"
+category: "tests"
 excerpt: "91 roles, 200 pieces of equipment, and a tavern that earns you money on the wine your own recruits drink."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-stone-900 via-amber-950 to-zinc-950"
 coverImage: "/images/duelistidle/screenshot-1.webp"
 gameName: "Duelist: Idle Expedition"
@@ -21,7 +22,7 @@ Two in a fortnight is no longer a coincidence, it is a format taking hold. And h
 
 ![Duelist: Idle Expedition, the guild on expedition](/images/duelistidle/screenshot-1.webp)
 
-The game is out late today. No score.
+Out last night, it stands at **70 positive reviews out of 80, or 87 per cent**, with more than a thousand people playing at once.
 
 ## What it is
 
@@ -73,6 +74,6 @@ I am accusing nobody. I am simply saying it is the first thing I will look at, a
 
 What I like about this wave is that it owns something the industry does not enjoy saying: most people no longer have three uninterrupted hours. A game that acknowledges that and builds around it, rather than guilting you with a daily login, provides a real service.
 
-Whether this one has substance behind its ninety-one portraits is the open question.
+Early feedback leans the right way, and the question of the ninety-one roles will be settled in a month, not in an evening.
 
 Got a game permanently running in a corner of your screen? Confess on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), we already have a list and it is growing fast.

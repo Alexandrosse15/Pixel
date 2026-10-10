@@ -68,6 +68,8 @@ D'un côté : l'un des meilleurs jeux d'énigmes jamais vus. Un jeu qui vous fai
 
 De l'autre : l'exécution est décrite comme bancale, et le mot « buggé » revient. GameSpot titre que le jeu est énorme, pour le meilleur et pour le pire. Nintendo Life parle d'un jeu intense, parfois éreintant, mais toujours inventif.
 
+Les joueurs, eux, ont tranché beaucoup plus nettement que la presse : **663 avis positifs sur 685, soit 97 %**, mention extrêmement positive, avec plus de cinq mille personnes connectées en même temps au lendemain de la sortie.
+
 Et il y a deux reproches précis qui reviennent, qu'il faut connaître avant d'acheter.
 
 **La lisibilité.** Les objets sont petits, les scènes sont chargées, et plusieurs testeurs signalent avoir eu du mal à lire l'environnement. Dans un jeu où la solution est souvent sous vos yeux, ne pas voir clairement est un vrai problème, pas une coquetterie.

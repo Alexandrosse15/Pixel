@@ -1,12 +1,13 @@
 ---
 title: "Invokyr : un jeu de plateau des années 70 qui vous retient prisonnier, et des dés à usage unique"
-seoTitle: "Invokyr : preview et avis"
+seoTitle: "Invokyr : test et avis"
 slug: "invokyr-preview"
-category: "previews"
+category: "tests"
 excerpt: "Six joueurs enfermés dans une maison, un Gamemaster qui était autrefois un jouet, et des dés cachés qu'on ne peut lancer qu'une fois."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-amber-950 via-stone-900 to-zinc-950"
 coverImage: "/images/invokyr/screenshot-1.webp"
 gameName: "Invokyr"
@@ -19,7 +20,7 @@ Il y a une idée dans Invokyr que je n'avais jamais vue dans un jeu d'horreur co
 
 ![Invokyr, le plateau et la maison](/images/invokyr/screenshot-1.webp)
 
-Le jeu entre en accès anticipé aujourd'hui. Pas de note.
+Entré en accès anticipé hier, il affiche déjà **190 avis positifs sur 197, soit 96 %**, avec près de trois mille joueurs connectés en même temps. Pour un jeu d'horreur coopératif, ce démarrage est remarquable.
 
 ## Le décor
 
@@ -75,6 +76,6 @@ Voir une maison de cinéma japonaise centenaire sur la fiche d'un jeu d'horreur 
 
 **Et la peur à six est difficile.** Plus il y a de monde dans un vocal, moins on a peur. Les meilleurs jeux du genre l'ont compris et séparent les joueurs. Il faudra voir si Invokyr ose vous laisser seul.
 
-Reste cette idée de dés qu'on dépense, et elle est suffisamment bonne pour que je mette ce jeu de côté et que j'y revienne dans un mois.
+Reste cette idée de dés qu'on dépense, et le démarrage dit qu'elle fonctionne sur les gens. On y reviendra quand la variété des événements aura été éprouvée sur la durée.
 
 Vous avez déjà abandonné un ami dans un jeu d'horreur coopératif ? Confessez-vous sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on ne juge pas. On note.

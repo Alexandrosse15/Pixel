@@ -1,12 +1,13 @@
 ---
 title: "Silver Pines: a detective, a vanished musician, and a town that opens up as you gear up"
-seoTitle: "Silver Pines: preview"
+seoTitle: "Silver Pines: review"
 slug: "silver-pines-preview"
-category: "previews"
+category: "tests"
 excerpt: "Team17 publishes a love letter to classic survival horror. Locked doors, counted resources, and a black hole in the middle."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-zinc-900 via-slate-900 to-stone-900"
 coverImage: "/images/silverpines/screenshot-1.webp"
 gameName: "Silver Pines"
@@ -19,7 +20,7 @@ That is the first line on the Steam page, and it is a good first line. It gives 
 
 ![Silver Pines, the half-abandoned town](/images/silverpines/screenshot-1.webp)
 
-The game is out late this afternoon, at 22.49 euros, published by Team17. No score today.
+Out yesterday at 22.49 euros, published by Team17, it stands at **243 positive reviews out of 264, or 92 per cent**, with nearly two thousand people playing at once.
 
 ## The setup
 
@@ -65,6 +66,6 @@ What I already like is the restraint of the pitch. No revolutionary mechanic ann
 
 There have been a lot of horror games this year, and a lot that confused horror with a jump. This one looks like it knows fear starts with not being able to get in somewhere.
 
-We will come back with a score once we have found Eddie Velvet.
+The public's first verdict is in, and it is very favourable.
 
 Got a horror game town whose layout you still remember by heart? That is the highest compliment available, say so on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).

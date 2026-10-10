@@ -1,12 +1,13 @@
 ---
 title: "Duelist: Idle Expedition : votre guilde se bat dans la barre des tâches pendant que vous travaillez"
-seoTitle: "Duelist: Idle Expedition : preview et avis"
+seoTitle: "Duelist: Idle Expedition : test et avis"
 slug: "duelist-idle-expedition-preview"
-category: "previews"
+category: "tests"
 excerpt: "91 rôles, 200 équipements, et une taverne qui vous rapporte de l'argent sur le vin que boivent vos propres recrues."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-stone-900 via-amber-950 to-zinc-950"
 coverImage: "/images/duelistidle/screenshot-1.webp"
 gameName: "Duelist: Idle Expedition"
@@ -21,7 +22,7 @@ Deux en quinze jours, ce n'est plus une coïncidence, c'est un format qui s'inst
 
 ![Duelist: Idle Expedition, la guilde en expedition](/images/duelistidle/screenshot-1.webp)
 
-Le jeu sort aujourd'hui en fin de journée. Pas de note.
+Sorti hier soir, il affiche **70 avis positifs sur 80, soit 87 %**, avec plus de mille joueurs connectés en même temps.
 
 ## Ce que c'est
 
@@ -73,6 +74,6 @@ Je n'accuse personne. Je dis simplement que c'est la première chose que je rega
 
 Ce qui me plaît dans cette vague, c'est qu'elle assume quelque chose que l'industrie n'aime pas dire : la plupart des gens n'ont plus trois heures d'affilée. Un jeu qui le reconnaît et qui construit autour, plutôt que de vous culpabiliser avec une connexion quotidienne, rend un service réel.
 
-Reste à savoir si celui-ci a de la matière derrière ses quatre-vingt-onze portraits.
+Les premiers retours penchent du bon côté, et la question des quatre-vingt-onze rôles se tranchera dans un mois, pas dans une soirée.
 
 Vous avez un jeu qui tourne en permanence dans un coin de votre écran ? Avouez sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw), on a déjà une liste et elle s'allonge vite.

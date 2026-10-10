@@ -1,12 +1,13 @@
 ---
 title: "Silver Pines : un détective, un musicien disparu, et une ville qui s'ouvre à mesure qu'on s'équipe"
-seoTitle: "Silver Pines : preview et avis"
+seoTitle: "Silver Pines : test et avis"
 slug: "silver-pines-preview"
-category: "previews"
+category: "tests"
 excerpt: "Team17 édite une lettre d'amour à l'horreur de survie classique. Portes verrouillées, ressources comptées, et un trou noir au milieu."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 8
 image_color: "from-zinc-900 via-slate-900 to-stone-900"
 coverImage: "/images/silverpines/screenshot-1.webp"
 gameName: "Silver Pines"
@@ -19,7 +20,7 @@ C'est la première phrase de la fiche Steam, et c'est une bonne première phrase
 
 ![Silver Pines, la ville a moitie abandonnee](/images/silverpines/screenshot-1.webp)
 
-Le jeu sort aujourd'hui en fin d'après-midi, à 22,49 €, édité par Team17. Pas de note aujourd'hui.
+Sorti hier à 22,49 €, édité par Team17, il affiche **243 avis positifs sur 264, soit 92 %**, et près de deux mille joueurs connectés en même temps.
 
 ## Le dispositif
 
@@ -65,6 +66,6 @@ Ce que j'aime déjà, c'est la sobriété de la proposition. Pas de mécanique r
 
 Il y a eu beaucoup de jeux d'horreur cette année, et beaucoup qui confondaient horreur et sursaut. Celui-ci a l'air de savoir que la peur commence par ne pas pouvoir entrer quelque part.
 
-On y revient avec une note quand on aura trouvé Eddie Velvet.
+Le premier verdict du public est tombé, et il est très favorable.
 
 Vous avez une ville de jeu d'horreur dont vous vous souvenez du plan par cœur ? C'est le meilleur compliment qu'on puisse faire, dites-le sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

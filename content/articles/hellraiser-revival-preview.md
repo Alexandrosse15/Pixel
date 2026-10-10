@@ -1,12 +1,13 @@
 ---
 title: "Hellraiser: Revival : quarante ans qu'on attend un bon jeu Hellraiser"
-seoTitle: "Clive Barker's Hellraiser: Revival : preview"
+seoTitle: "Clive Barker's Hellraiser: Revival : test et avis"
 slug: "hellraiser-revival-preview"
-category: "previews"
-excerpt: "Saber Interactive a convaincu Clive Barker, et la liste des contenus sensibles de la fiche Steam dit qu'ils n'ont rien adouci."
+category: "tests"
+excerpt: "96 % d'avis positifs sur 1 429. Saber Interactive a convaincu Clive Barker, et la licence tient enfin son jeu."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "8 min"
+score: 8
 image_color: "from-red-950 via-zinc-900 to-stone-900"
 coverImage: "/images/hellraiser/screenshot-1.webp"
 gameName: "Clive Barker's Hellraiser: Revival"
@@ -21,7 +22,9 @@ C'est littéralement une mécanique de jeu. Elle attendait depuis quarante ans.
 
 ![Hellraiser: Revival, le Labyrinthe](/images/hellraiser/screenshot-1.webp)
 
-Le jeu sort aujourd'hui en fin de journée, à 39,99 €. Pas de note tant que personne n'a terminé la campagne.
+Sorti hier soir à 39,99 €, il affiche ce matin **1 369 avis positifs sur 1 429, soit 96 %**, mention extrêmement positive, avec plus de huit mille joueurs connectés en même temps.
+
+Autrement dit : oui, Saber a compris.
 
 ## L'histoire
 
@@ -79,6 +82,6 @@ J'ai envie que ça marche, et ce n'est pas un sentiment très professionnel. Hel
 
 Une boîte, un marché, un prix à payer. Si Saber a vraiment compris, on tient le jeu que cette licence méritait depuis 1987.
 
-On y retourne avec une note quand la campagne sera finie.
+Le public a tranché en une nuit, et plus nettement que je ne l'espérais.
 
 Vous avez un bon souvenir de Hellraiser, ou une rancune tenace envers l'un des dix films ? Les deux se partagent sur [le Discord d'InsertCoins](https://discord.gg/473FE3dWvw).

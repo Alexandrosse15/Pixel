@@ -4182,6 +4182,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "car-park-capital": {
+    "slug": "car-park-capital",
+    "name": "Car Park Capital",
+    "steam": {
+      "appId": 3031880,
+      "steamName": "Car Park Capital",
+      "confidence": "exact",
+      "developers": [
+        "Hilkojj Interactive"
+      ],
+      "publishers": [
+        "MicroProse Software"
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "16,49€",
+        "cents": 1649,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        68,
+        79,
+        23,
+        17,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 403,
+        "positive": 395,
+        "percent": 98,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
+    }
+  },
   "car-wash-simulator": {
     "slug": "car-wash-simulator",
     "name": "Car Wash Simulator",
@@ -15409,6 +15464,68 @@
       "fetchedAt": "2026-08-25"
     }
   },
+  "lost-found": {
+    "slug": "lost-found",
+    "name": "LOST & FOUND",
+    "steam": {
+      "appId": 4190960,
+      "steamName": "LOST & FOUND",
+      "confidence": "exact",
+      "developers": [
+        "Sunday's Games"
+      ],
+      "publishers": [
+        "Sunday's Games"
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        37
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        13,
+        68,
+        80,
+        69,
+        65,
+        70,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 51,
+        "positive": 43,
+        "percent": 84,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
+    }
+  },
   "low-budget-repairs": {
     "slug": "low-budget-repairs",
     "name": "Low-Budget Repairs",
@@ -19454,6 +19571,66 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "permafrost": {
+    "slug": "permafrost",
+    "name": "Permafrost",
+    "steam": {
+      "appId": 2254990,
+      "steamName": "Permafrost",
+      "confidence": "exact",
+      "developers": [
+        "SpaceRocket Games"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        29,
+        18,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 401,
+        "positive": 308,
+        "percent": 77,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
     }
   },
   "planet-killer": {
@@ -28058,6 +28235,60 @@
       "fetchedAt": "2026-09-07"
     }
   },
+  "towerfolk": {
+    "slug": "towerfolk",
+    "name": "Towerfolk",
+    "steam": {
+      "appId": 3948100,
+      "steamName": "Towerfolk",
+      "confidence": "exact",
+      "developers": [
+        "99 Interactive"
+      ],
+      "publishers": [
+        "99 Interactive"
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,79€",
+        "cents": 1079,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        78,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 31,
+        "positive": 22,
+        "percent": 71,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
+    }
+  },
   "townsfolk": {
     "slug": "townsfolk",
     "name": "TownsFolk",
@@ -28303,6 +28534,64 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "truckful": {
+    "slug": "truckful",
+    "name": "Truckful",
+    "steam": {
+      "appId": 3090810,
+      "steamName": "Truckful",
+      "confidence": "exact",
+      "developers": [
+        "MythicOwl"
+      ],
+      "publishers": [
+        "MythicOwl",
+        "Pocketpair Publishing"
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,49€",
+        "cents": 1949,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        60,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 36,
+        "positive": 26,
+        "percent": 72,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
     }
   },
   "tv-archive-tidy-up-together": {
@@ -28674,6 +28963,66 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "used-cars-simulator": {
+    "slug": "used-cars-simulator",
+    "name": "Used Cars Simulator",
+    "steam": {
+      "appId": 2637940,
+      "steamName": "Used Cars Simulator",
+      "confidence": "exact",
+      "developers": [
+        "DreamWay Games"
+      ],
+      "publishers": [
+        "PlayWay S.A."
+      ],
+      "releaseRaw": "9 Oct, 2026",
+      "releaseDate": "2026-10-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        9,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        55,
+        79,
+        69,
+        18,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 1214,
+        "positive": 963,
+        "percent": 79,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-10"
     }
   },
   "vacation-cafe-simulator": {

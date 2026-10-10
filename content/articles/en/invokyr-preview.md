@@ -1,12 +1,13 @@
 ---
 title: "Invokyr: a 1970s board game holding you prisoner, and dice you can only roll once"
-seoTitle: "Invokyr: preview"
+seoTitle: "Invokyr: review"
 slug: "invokyr-preview"
-category: "previews"
+category: "tests"
 excerpt: "Six players locked in a house, a Gamemaster who used to be a toy, and hidden dice that work exactly one time."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "6 min"
+score: 7
 image_color: "from-amber-950 via-stone-900 to-zinc-950"
 coverImage: "/images/invokyr/screenshot-1.webp"
 gameName: "Invokyr"
@@ -19,7 +20,7 @@ There is an idea in Invokyr I have never seen in a co-op horror game, and it is 
 
 ![Invokyr, the board and the house](/images/invokyr/screenshot-1.webp)
 
-The game enters early access today. No score.
+It entered early access yesterday and already stands at **190 positive reviews out of 197, or 96 per cent**, with nearly three thousand people playing at once. For a co-op horror game, that is a remarkable start.
 
 ## The setup
 
@@ -75,6 +76,6 @@ Seeing a century-old Japanese film house on the store page of a French co-op hor
 
 **And fear with six people is hard.** The more voices in a channel, the less afraid anyone is. The best games in the genre understood that and separate their players. We will see whether Invokyr dares leave you alone.
 
-What remains is that idea of dice you spend, and it is good enough that I am setting this game aside and coming back to it in a month.
+What remains is that idea of dice you spend, and the launch says it works on people. We will return once event variety has been tested over time.
 
 Ever abandoned a friend in a co-op horror game? Confess on [the InsertCoins Discord](https://discord.gg/473FE3dWvw), we do not judge. We take notes.

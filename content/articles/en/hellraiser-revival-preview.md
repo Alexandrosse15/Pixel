@@ -1,12 +1,13 @@
 ---
 title: "Hellraiser: Revival: forty years waiting for a good Hellraiser game"
-seoTitle: "Clive Barker's Hellraiser: Revival: preview"
+seoTitle: "Clive Barker's Hellraiser: Revival: review"
 slug: "hellraiser-revival-preview"
-category: "previews"
-excerpt: "Saber Interactive convinced Clive Barker, and the content warning list on the Steam page says they softened nothing."
+category: "tests"
+excerpt: "96 per cent positive out of 1,429. Saber Interactive convinced Clive Barker, and the licence finally has its game."
 date: "2026-10-08"
 author: "Alexandrosse"
 readTime: "8 min"
+score: 8
 image_color: "from-red-950 via-zinc-900 to-stone-900"
 coverImage: "/images/hellraiser/screenshot-1.webp"
 gameName: "Clive Barker's Hellraiser: Revival"
@@ -21,7 +22,9 @@ That is literally a game mechanic. It has been waiting forty years.
 
 ![Hellraiser: Revival, the Labyrinth](/images/hellraiser/screenshot-1.webp)
 
-The game is out later today, at 39.99 euros. No score until somebody has finished the campaign.
+Out last night at 39.99 euros, it stands this morning at **1,369 positive reviews out of 1,429, or 96 per cent**, rated overwhelmingly positive, with more than eight thousand people playing at once.
+
+In other words: yes, Saber understood.
 
 ## The story
 
@@ -79,6 +82,6 @@ I want this to work, which is not a very professional sentiment. Hellraiser is o
 
 A box, a bargain, a price to pay. If Saber genuinely understood, we have the game this licence has deserved since 1987.
 
-We will come back with a score once the campaign is done.
+The public settled it in one night, and more emphatically than I had hoped.
 
 Got a fond Hellraiser memory, or a lasting grudge against one of the ten films? Both get shared on [the InsertCoins Discord](https://discord.gg/473FE3dWvw).
