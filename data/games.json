@@ -2522,6 +2522,70 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "barfender-co-op-bar-simulator": {
+    "slug": "barfender-co-op-bar-simulator",
+    "name": "Barfender: CO-OP Bar Simulator",
+    "steam": {
+      "appId": 4159680,
+      "steamName": "Barfender: CO-OP Bar Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Proto Division"
+      ],
+      "publishers": [
+        "Rock Paper Publisher"
+      ],
+      "releaseRaw": "12 Oct, 2026",
+      "releaseDate": "2026-10-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "13,49€",
+        "cents": 1349,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        68,
+        78,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 102,
+        "positive": 99,
+        "percent": 97,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-13"
+    }
+  },
   "batomon-showdown": {
     "slug": "batomon-showdown",
     "name": "Batomon Showdown",
@@ -2577,6 +2641,56 @@
         }
       },
       "fetchedAt": "2026-09-15"
+    }
+  },
+  "battleplan": {
+    "slug": "battleplan",
+    "name": "Battleplan",
+    "steam": {
+      "appId": 3743140,
+      "steamName": "Battleplan",
+      "confidence": "exact",
+      "developers": [
+        "Foolish Mortals Games Inc."
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "releaseRaw": "12 Oct, 2026",
+      "releaseDate": "2026-10-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "30,49€",
+        "cents": 3049,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 117,
+        "positive": 75,
+        "percent": 64,
+        "label": {
+          "fr": "Moyennes",
+          "en": "Mixed"
+        }
+      },
+      "fetchedAt": "2026-10-13"
     }
   },
   "battlestar-galactica-scattered-hopes": {
@@ -6338,6 +6452,63 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "deep-dish-dungeon": {
+    "slug": "deep-dish-dungeon",
+    "name": "Deep Dish Dungeon",
+    "steam": {
+      "appId": 2871520,
+      "steamName": "Deep Dish Dungeon",
+      "confidence": "exact",
+      "developers": [
+        "Behold Studios"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        27,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 4,
+        "positive": 1,
+        "percent": 25,
+        "label": null
+      },
+      "fetchedAt": "2026-10-13"
+    }
+  },
   "deer-boy": {
     "slug": "deer-boy",
     "name": "Deer & Boy",
@@ -7494,6 +7665,63 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "double-dealers": {
+    "slug": "double-dealers",
+    "name": "Double Dealers",
+    "steam": {
+      "appId": 4218620,
+      "steamName": "Double Dealers",
+      "confidence": "exact",
+      "developers": [
+        "Miklagard Studios"
+      ],
+      "publishers": [
+        "Miklagard Studios"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,79€",
+        "cents": 779,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2,
+        70
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        9,
+        38,
+        67,
+        68,
+        74,
+        69,
+        70,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 4,
+        "positive": 3,
+        "percent": 75,
+        "label": null
+      },
+      "fetchedAt": "2026-10-13"
     }
   },
   "dragon-shelter": {
@@ -12595,6 +12823,74 @@
       "fetchedAt": "2026-09-21"
     }
   },
+  "haunted-heist": {
+    "slug": "haunted-heist",
+    "name": "Haunted Heist",
+    "steam": {
+      "appId": 4024440,
+      "steamName": "Haunted Heist",
+      "confidence": "exact",
+      "developers": [
+        "autotroph games"
+      ],
+      "publishers": [
+        "autotroph games"
+      ],
+      "releaseRaw": "12 Oct, 2026",
+      "releaseDate": "2026-10-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,25€",
+        "cents": 1025,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        67,
+        66,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        25,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 73,
+        "positive": 72,
+        "percent": 99,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-13"
+    }
+  },
   "hearse-hero": {
     "slug": "hearse-hero",
     "name": "Hearse Hero",
@@ -13372,6 +13668,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "hubert": {
+    "slug": "hubert",
+    "name": "Hubert",
+    "steam": {
+      "appId": 764930,
+      "steamName": "Hubert",
+      "confidence": "exact",
+      "developers": [
+        "Brocap Studio s.r.o."
+      ],
+      "publishers": [
+        "Brocap Studio s.r.o."
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        43,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-13"
     }
   },
   "hydra-heli-2": {
@@ -15064,6 +15406,61 @@
         "label": null
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "legion-breaker": {
+    "slug": "legion-breaker",
+    "name": "Legion Breaker",
+    "steam": {
+      "appId": 4425980,
+      "steamName": "Legion Breaker",
+      "confidence": "exact",
+      "developers": [
+        "Baffled Engineer"
+      ],
+      "publishers": [
+        "Level Up Gaming",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,19€",
+        "cents": 719,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        68,
+        75,
+        76,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 5,
+        "positive": 3,
+        "percent": 60,
+        "label": null
+      },
+      "fetchedAt": "2026-10-13"
     }
   },
   "lego-batman-legacy-of-the-dark-knight": {
@@ -19675,6 +20072,71 @@
       "fetchedAt": "2026-09-09"
     }
   },
+  "planet-zoo-2": {
+    "slug": "planet-zoo-2",
+    "name": "Planet Zoo 2",
+    "steam": {
+      "appId": 3219030,
+      "steamName": "Planet Zoo 2",
+      "confidence": "exact",
+      "developers": [
+        "Frontier Developments"
+      ],
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "49,99€",
+        "cents": 4999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        64,
+        67,
+        66,
+        68,
+        80,
+        74,
+        55,
+        57,
+        79,
+        69,
+        70,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 41,
+        "positive": 31,
+        "percent": 76,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-13"
+    }
+  },
   "pokopia": {
     "slug": "pokopia",
     "name": "Pokopia",
@@ -20876,6 +21338,59 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "revenge-of-the-mage": {
+    "slug": "revenge-of-the-mage",
+    "name": "Revenge of the Mage",
+    "steam": {
+      "appId": 2287150,
+      "steamName": "Revenge of the Mage",
+      "confidence": "exact",
+      "developers": [
+        "SinginGiant"
+      ],
+      "publishers": [
+        "SinginGiant"
+      ],
+      "releaseRaw": "16 Jan, 2025",
+      "releaseDate": "2025-01-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,69€",
+        "cents": 969,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 195,
+        "positive": 155,
+        "percent": 79,
+        "label": {
+          "fr": "Plutôt positives",
+          "en": "Mostly Positive"
+        }
+      },
+      "fetchedAt": "2026-10-13"
     }
   },
   "rewind-99": {
@@ -23657,6 +24172,60 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "space-manager": {
+    "slug": "space-manager",
+    "name": "Space Manager",
+    "steam": {
+      "appId": 4229480,
+      "steamName": "Space Manager",
+      "confidence": "exact",
+      "developers": [
+        "Trophy Games"
+      ],
+      "publishers": [
+        "Trophy Games"
+      ],
+      "releaseRaw": "12 Oct, 2026",
+      "releaseDate": "2026-10-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,95€",
+        "cents": 1495,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        76,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 13,
+        "positive": 4,
+        "percent": 31,
+        "label": {
+          "fr": "Plutôt négatives",
+          "en": "Mostly Negative"
+        }
+      },
+      "fetchedAt": "2026-10-13"
     }
   },
   "space-pioupiou": {
@@ -28126,6 +28695,12 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "total-war-shogun-2-complete-edition": {
+    "slug": "total-war-shogun-2-complete-edition",
+    "name": "Total War: SHOGUN 2 - Complete Edition",
+    "steam": null,
+    "reason": "introuvable"
+  },
   "total-war-warhammer-40-000": {
     "slug": "total-war-warhammer-40-000",
     "name": "Total War: Warhammer 40,000",
@@ -28479,6 +29054,53 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "trash-day": {
+    "slug": "trash-day",
+    "name": "Trash Day",
+    "steam": {
+      "appId": 3314580,
+      "steamName": "Trash Day",
+      "confidence": "exact",
+      "developers": [
+        "Off by One Games"
+      ],
+      "publishers": [
+        "Off by One Games"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        68,
+        74,
+        57,
+        58,
+        69,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-13"
     }
   },
   "treasure-beach": {
@@ -29140,6 +29762,55 @@
         }
       },
       "fetchedAt": "2026-09-09"
+    }
+  },
+  "valor-mortis": {
+    "slug": "valor-mortis",
+    "name": "Valor Mortis",
+    "steam": {
+      "appId": 2828710,
+      "steamName": "Valor Mortis",
+      "confidence": "exact",
+      "developers": [
+        "One More Level"
+      ],
+      "publishers": [
+        "Lyrical Games",
+        "One More Level"
+      ],
+      "releaseRaw": "13 Oct, 2026",
+      "releaseDate": "2026-10-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        74,
+        55,
+        57,
+        69,
+        65,
+        70,
+        23,
+        61,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-13"
     }
   },
   "vampire-crawlers": {
