@@ -3108,6 +3108,60 @@
       "fetchedAt": "2026-08-28"
     }
   },
+  "big-dig": {
+    "slug": "big-dig",
+    "name": "Big Dig",
+    "steam": {
+      "appId": 4304900,
+      "steamName": "Big Dig",
+      "confidence": "exact",
+      "developers": [
+        "Dan Schumacher",
+        "Hjalte Tagmose"
+      ],
+      "publishers": [
+        "Dan Schumacher",
+        "Hjalte Tagmose",
+        "Bird Gang",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "19 Oct, 2026",
+      "releaseDate": "2026-10-19",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        77,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "big-walk": {
     "slug": "big-walk",
     "name": "Big Walk",
@@ -4247,6 +4301,83 @@
         }
       },
       "fetchedAt": "2026-09-08"
+    }
+  },
+  "call-of-duty-modern-warfare-4": {
+    "slug": "call-of-duty-modern-warfare-4",
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "steam": {
+      "appId": 4435490,
+      "steamName": "Call of Duty®: Modern Warfare® 4",
+      "confidence": "exact",
+      "developers": [
+        "Infinity Ward",
+        "Beenox",
+        "Digital Legends",
+        "Activision Shanghai",
+        "Raven Software",
+        "Treyarch",
+        "Sledgehammer Games",
+        "High Moon Studios"
+      ],
+      "publishers": [
+        "Activision"
+      ],
+      "releaseRaw": "22 Oct, 2026",
+      "releaseDate": "2026-10-22",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "69,99€",
+        "cents": 6999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        27,
+        22,
+        28,
+        13,
+        35,
+        64,
+        67,
+        66,
+        68,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        65,
+        70,
+        61
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": {
+        "total": 3624,
+        "positive": 3348,
+        "percent": 92,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-19"
     }
   },
   "canyons": {
@@ -8025,6 +8156,64 @@
       "fetchedAt": "2026-10-08"
     }
   },
+  "dungeon-inn": {
+    "slug": "dungeon-inn",
+    "name": "Dungeon Inn",
+    "steam": {
+      "appId": 2552310,
+      "steamName": "Dungeon Inn",
+      "confidence": "exact",
+      "developers": [
+        "Cat Society"
+      ],
+      "publishers": [
+        "Spiral Up Games"
+      ],
+      "releaseRaw": "13 Nov, 2024",
+      "releaseDate": "2024-11-13",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 675,
+        "positive": 629,
+        "percent": 93,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "dungeon-settlers": {
     "slug": "dungeon-settlers",
     "name": "Dungeon Settlers",
@@ -10102,6 +10291,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "final-fantasy-resonance": {
+    "slug": "final-fantasy-resonance",
+    "name": "FINAL FANTASY RESONANCE",
+    "steam": {
+      "appId": 3259780,
+      "steamName": "FINAL FANTASY RESONANCE",
+      "confidence": "exact",
+      "developers": [
+        "Square Enix",
+        "LANCARSE Ltd."
+      ],
+      "publishers": [
+        "Square Enix"
+      ],
+      "releaseRaw": "22 Oct, 2026",
+      "releaseDate": "2026-10-22",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "49,99€",
+        "cents": 4999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        68,
+        78,
+        75,
+        80,
+        74,
+        57,
+        59,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "fire-state": {
     "slug": "fire-state",
     "name": "Fire State",
@@ -11513,6 +11754,12 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "gemcraft-legacy-collection": {
+    "slug": "gemcraft-legacy-collection",
+    "name": "GemCraft - Legacy Collection",
+    "steam": null,
+    "reason": "introuvable"
+  },
   "gen-atlas": {
     "slug": "gen-atlas",
     "name": "gen ATLAS",
@@ -11891,6 +12138,74 @@
     "name": "God of War: Laufey",
     "steam": null,
     "reason": "introuvable"
+  },
+  "gone-fishing": {
+    "slug": "gone-fishing",
+    "name": "GONE Fishing",
+    "steam": {
+      "appId": 3645890,
+      "steamName": "GONE Fishing",
+      "confidence": "exact",
+      "developers": [
+        "GONE Studios"
+      ],
+      "publishers": [
+        "GONE Studios"
+      ],
+      "releaseRaw": "15 Jun, 2025",
+      "releaseDate": "2025-06-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,99€",
+        "cents": 899,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        67,
+        66,
+        82,
+        68,
+        78,
+        74,
+        57,
+        58,
+        79,
+        69,
+        70,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 3716,
+        "positive": 3377,
+        "percent": 91,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-19"
+    }
   },
   "good-heavens": {
     "slug": "good-heavens",
@@ -15711,6 +16026,12 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "loop-dungeon-incremental": {
+    "slug": "loop-dungeon-incremental",
+    "name": "Loop Dungeon - Incremental",
+    "steam": null,
+    "reason": "introuvable"
+  },
   "lootborne": {
     "slug": "lootborne",
     "name": "Lootborne",
@@ -17012,6 +17333,46 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "midnight-launch-a-gameshop-sim": {
+    "slug": "midnight-launch-a-gameshop-sim",
+    "name": "Midnight Launch: A Gameshop Sim",
+    "steam": {
+      "appId": 3827330,
+      "steamName": "Midnight Launch: A Gameshop Sim",
+      "confidence": "exact",
+      "developers": [
+        "Broadside Studios"
+      ],
+      "publishers": [
+        "Broadside Studios"
+      ],
+      "releaseRaw": "22 Oct, 2026",
+      "releaseDate": "2026-10-22",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "mimicry": {
     "slug": "mimicry",
     "name": "Mimicry!",
@@ -17691,6 +18052,62 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "moon-sweepers": {
+    "slug": "moon-sweepers",
+    "name": "Moon Sweepers",
+    "steam": {
+      "appId": 5335510,
+      "steamName": "Moon Sweepers",
+      "confidence": "exact",
+      "developers": [
+        "DragDrop Games"
+      ],
+      "publishers": [
+        "DragDrop Games"
+      ],
+      "releaseRaw": "23 Oct, 2026",
+      "releaseDate": "2026-10-23",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        59,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "moonlight-peaks": {
     "slug": "moonlight-peaks",
     "name": "Moonlight Peaks",
@@ -18158,6 +18575,64 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "mycopunk": {
+    "slug": "mycopunk",
+    "name": "Mycopunk",
+    "steam": {
+      "appId": 3247750,
+      "steamName": "Mycopunk",
+      "confidence": "exact",
+      "developers": [
+        "Pigeons at Play"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "releaseRaw": "10 Jul, 2025",
+      "releaseDate": "2025-07-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        55,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": {
+        "total": 4780,
+        "positive": 4225,
+        "percent": 88,
+        "label": {
+          "fr": "Très positives",
+          "en": "Very Positive"
+        }
+      },
+      "fetchedAt": "2026-10-19"
     }
   },
   "nba-the-run": {
@@ -19019,6 +19494,55 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "one-piece-grand-gourmet": {
+    "slug": "one-piece-grand-gourmet",
+    "name": "ONE PIECE: Grand Gourmet",
+    "steam": {
+      "appId": 3905010,
+      "steamName": "ONE PIECE: Grand Gourmet",
+      "confidence": "exact",
+      "developers": [
+        "Kairosoft Co.,Ltd"
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "releaseRaw": "22 Oct, 2026",
+      "releaseDate": "2026-10-22",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        59,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
     }
   },
   "onimusha-way-of-the-sword": {
@@ -24753,6 +25277,44 @@
     "name": "Star Fox",
     "steam": null,
     "reason": "introuvable"
+  },
+  "star-trek-outposts-unknown": {
+    "slug": "star-trek-outposts-unknown",
+    "name": "Star Trek: Outposts Unknown",
+    "steam": {
+      "appId": 3469910,
+      "steamName": "Star Trek: Outposts Unknown",
+      "confidence": "exact",
+      "developers": [
+        " Magic Fuel Games"
+      ],
+      "publishers": [
+        " Playstack"
+      ],
+      "releaseRaw": "20 Oct, 2026",
+      "releaseDate": "2026-10-20",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
   },
   "star-wars-eclipse": {
     "slug": "star-wars-eclipse",
@@ -30541,6 +31103,96 @@
       "fetchedAt": "2026-09-09"
     }
   },
+  "warrior-cats-clans-of-the-forest": {
+    "slug": "warrior-cats-clans-of-the-forest",
+    "name": "Warrior Cats: Clans of the Forest",
+    "steam": {
+      "appId": 3960600,
+      "steamName": "Warrior Cats: Clans of the Forest",
+      "confidence": "exact",
+      "developers": [
+        "Bamtang Games"
+      ],
+      "publishers": [
+        "Trailmark Games"
+      ],
+      "releaseRaw": "23 Oct, 2026",
+      "releaseDate": "2026-10-23",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        29,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
+  "wartide": {
+    "slug": "wartide",
+    "name": "Wartide",
+    "steam": {
+      "appId": 4303660,
+      "steamName": "Wartide",
+      "confidence": "exact",
+      "developers": [
+        "Dumbbell Games"
+      ],
+      "publishers": [
+        "Dumbbell Games"
+      ],
+      "releaseRaw": "21 Oct, 2026",
+      "releaseDate": "2026-10-21",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        78,
+        80,
+        74,
+        69,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
+    }
+  },
   "waterpark-simulator": {
     "slug": "waterpark-simulator",
     "name": "Waterpark Simulator",
@@ -30769,6 +31421,54 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "we-were-here-tomorrow": {
+    "slug": "we-were-here-tomorrow",
+    "name": "We Were Here Tomorrow",
+    "steam": {
+      "appId": 2315050,
+      "steamName": "We Were Here Tomorrow",
+      "confidence": "exact",
+      "developers": [
+        "Total Mayhem Games"
+      ],
+      "publishers": [
+        "Total Mayhem Games"
+      ],
+      "releaseRaw": "20 Oct, 2026",
+      "releaseDate": "2026-10-20",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        37
+      ],
+      "featureIds": [
+        1,
+        9,
+        38,
+        27,
+        22,
+        55,
+        56,
+        57,
+        58,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-19"
     }
   },
   "wednesdays": {
