@@ -3,7 +3,14 @@ import { getAllArticles, getArticlesByCategory, getAllGames } from '@/lib/articl
 import { getGameSheet, hasUsableSheet } from '@/lib/games'
 import { SITE_URL } from '@/lib/config'
 
-export const revalidate = 3600
+/**
+ * Pas de revalidate : avec lui, Vercel regenerait le sitemap a l'execution, ou
+ * le dossier content/ n'est pas accessible. getAllArticles renvoyait un tableau
+ * vide et le sitemap tombait a 20 URL au lieu de 2600, puis cette version vide
+ * etait mise en cache. Le sitemap ne change qu'au deploiement : on le genere
+ * une fois au build, comme feed.xml qui, lui, a toujours fonctionne.
+ */
+export const dynamic = 'force-static'
 
 function latestDate(articles: { date: string }[]): Date {
   if (!articles.length) return new Date()
