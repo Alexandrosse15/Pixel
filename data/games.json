@@ -5910,6 +5910,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "crack": {
+    "slug": "crack",
+    "name": "CRACK",
+    "steam": {
+      "appId": 4312190,
+      "steamName": "CRACK",
+      "confidence": "exact",
+      "developers": [
+        "Rafoli"
+      ],
+      "publishers": [
+        "Rafoli"
+      ],
+      "releaseRaw": "26 Oct, 2026",
+      "releaseDate": "2026-10-26",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        25,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        80,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-27"
+    }
+  },
   "craft-sell-goblin-repeat": {
     "slug": "craft-sell-goblin-repeat",
     "name": "Craft. Sell. Goblin. Repeat.",
@@ -20129,6 +20181,63 @@
       "fetchedAt": "2026-09-23"
     }
   },
+  "pao-pao": {
+    "slug": "pao-pao",
+    "name": "PAO PAO",
+    "steam": {
+      "appId": 3024130,
+      "steamName": "PAO PAO",
+      "confidence": "exact",
+      "developers": [
+        "ArtDock"
+      ],
+      "publishers": [
+        "Dreland Enterprises"
+      ],
+      "releaseRaw": "26 Oct, 2026",
+      "releaseDate": "2026-10-26",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        27,
+        22,
+        28,
+        68,
+        60,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-27"
+    }
+  },
   "parisian-bistro-simulator": {
     "slug": "parisian-bistro-simulator",
     "name": "Parisian Bistro Simulator",
@@ -21579,6 +21688,56 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "reka": {
+    "slug": "reka",
+    "name": "REKA",
+    "steam": {
+      "appId": 1737870,
+      "steamName": "REKA",
+      "confidence": "exact",
+      "developers": [
+        "Emberstorm Entertainment"
+      ],
+      "publishers": [
+        "Fireshine Games",
+        "Shochiku"
+      ],
+      "releaseRaw": "26 Oct, 2026",
+      "releaseDate": "2026-10-26",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        55,
+        56,
+        57,
+        58,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-27"
     }
   },
   "rematch": {
@@ -23549,6 +23708,54 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-09-03"
+    }
+  },
+  "shreddead": {
+    "slug": "shreddead",
+    "name": "ShredDead",
+    "steam": {
+      "appId": 4704520,
+      "steamName": "ShredDead",
+      "confidence": "exact",
+      "developers": [
+        "Weird Penguin Games"
+      ],
+      "publishers": [
+        "Weird Penguin Games"
+      ],
+      "releaseRaw": "26 Oct, 2026",
+      "releaseDate": "2026-10-26",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "5,99€",
+        "cents": 599,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-27"
     }
   },
   "shroom-and-gloom": {
