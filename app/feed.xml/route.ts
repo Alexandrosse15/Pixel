@@ -1,4 +1,3 @@
-import { headers } from 'next/headers'
 import { getAllArticles } from '@/lib/articles'
 import { SITE_NAME, SITE_URL, SITE_DESCRIPTION } from '@/lib/config'
 
@@ -26,9 +25,10 @@ function orderedDate(dateStr: string, indexInDay: number): string {
 }
 
 export async function GET() {
-  const locale = headers().get('x-locale') === 'en' ? 'en' : 'fr'
-  const isEn = locale === 'en'
-  const prefix = isEn ? '/en' : ''
+  // Le flux est francophone : /feed.xml a toujours ete exclu du middleware,
+  // donc l'en-tete de locale n'y a jamais ete pose. On le dit explicitement.
+  const locale = 'fr'
+  const prefix = ''
 
   const articles = getAllArticles(locale).slice(0, FEED_SIZE)
 
@@ -69,7 +69,7 @@ export async function GET() {
     <title>${SITE_NAME}</title>
     <link>${SITE_URL}${prefix}</link>
     <description>${SITE_DESCRIPTION}</description>
-    <language>${isEn ? 'en-US' : 'fr-FR'}</language>
+    <language>fr-FR</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="${feedUrl}" rel="self" type="application/rss+xml"/>
     ${items}

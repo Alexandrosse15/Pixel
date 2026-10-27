@@ -14,7 +14,10 @@ async function getAccessToken(): Promise<string> {
 
   const res = await fetch(
     `${TWITCH_AUTH_URL}?client_id=${process.env.IGDB_CLIENT_ID}&client_secret=${process.env.IGDB_CLIENT_SECRET}&grant_type=client_credentials`,
-    { method: 'POST', cache: 'no-store' }
+    // Pas de no-store : un fetch non cache fait sortir du rendu statique toute
+    // page qui appelle IGDB. Le jeton Twitch vit des semaines, le mettre en
+    // cache une heure est sans risque et evite de le redemander sans arret.
+    { method: 'POST', next: { revalidate: 3600 } }
   )
 
   if (!res.ok) throw new Error(`Twitch auth failed: ${res.status}`)

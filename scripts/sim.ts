@@ -14,8 +14,8 @@ import {
   type GameState,
   type GameEvent,
   type Choice,
-} from '../app/creation-equipe/mission-courses/engine'
-import { CHAPTERS } from '../app/creation-equipe/mission-courses/chapters'
+} from '../app/[locale]/creation-equipe/mission-courses/engine'
+import { CHAPTERS } from '../app/[locale]/creation-equipe/mission-courses/chapters'
 
 const N = 30000
 

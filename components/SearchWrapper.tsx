@@ -1,11 +1,9 @@
-import { headers } from 'next/headers'
 import { getAllArticles } from '@/lib/articles'
 import { type Locale } from '@/lib/i18n'
 import SearchModal from './SearchModal'
 import type { SearchArticle } from './SearchModal'
 
-export default function SearchWrapper() {
-  const locale = ((headers().get('x-locale')) ?? 'fr') as Locale
+export default function SearchWrapper({ locale }: { locale: Locale }) {
   const articles = getAllArticles(locale)
 
   const searchArticles: SearchArticle[] = articles.map((a) => ({
