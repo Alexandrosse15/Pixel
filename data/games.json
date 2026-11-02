@@ -6635,6 +6635,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "deadly-days-roadtrip": {
+    "slug": "deadly-days-roadtrip",
+    "name": "Deadly Days: Roadtrip",
+    "steam": {
+      "appId": 3026450,
+      "steamName": "Deadly Days: Roadtrip",
+      "confidence": "exact",
+      "developers": [
+        "Pixelsplit"
+      ],
+      "publishers": [
+        "Sidekick Publishing"
+      ],
+      "releaseRaw": "29 Oct, 2026",
+      "releaseDate": "2026-10-29",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        39,
+        24,
+        22,
+        28,
+        68,
+        74,
+        55,
+        57,
+        69,
+        23,
+        25,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
+    }
+  },
   "deep-dish-dungeon": {
     "slug": "deep-dish-dungeon",
     "name": "Deep Dish Dungeon",
@@ -17280,6 +17335,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "metal-thunder": {
+    "slug": "metal-thunder",
+    "name": "Metal Thunder",
+    "steam": {
+      "appId": 3091340,
+      "steamName": "Metal Thunder",
+      "confidence": "exact",
+      "developers": [
+        "Dumbbell Games"
+      ],
+      "publishers": [
+        "Dumbbell Games"
+      ],
+      "releaseRaw": "29 Oct, 2026",
+      "releaseDate": "2026-10-29",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "10,79€",
+        "cents": 1079,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        29,
+        18,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
+    }
+  },
   "metro-2039": {
     "slug": "metro-2039",
     "name": "Metro 2039",
@@ -19116,6 +19223,55 @@
       "fetchedAt": "2026-09-19"
     }
   },
+  "northgard-battlegrounds": {
+    "slug": "northgard-battlegrounds",
+    "name": "Northgard Battlegrounds",
+    "steam": {
+      "appId": 4487060,
+      "steamName": "Northgard Battlegrounds",
+      "confidence": "exact",
+      "developers": [
+        "Funday Games"
+      ],
+      "publishers": [
+        "Shiro Unlimited"
+      ],
+      "releaseRaw": "27 Oct, 2026",
+      "releaseDate": "2026-10-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        28,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
+    }
+  },
   "not-quite-dead-open-world-survival": {
     "slug": "not-quite-dead-open-world-survival",
     "name": "Not Quite Dead: Open World Survival",
@@ -20663,6 +20819,61 @@
       "fetchedAt": "2026-10-10"
     }
   },
+  "phantom-blade-zero": {
+    "slug": "phantom-blade-zero",
+    "name": "Phantom Blade Zero",
+    "steam": {
+      "appId": 4115450,
+      "steamName": "Phantom Blade Zero",
+      "confidence": "exact",
+      "developers": [
+        "S-GAME Studio"
+      ],
+      "publishers": [
+        "S-GAME Publishing"
+      ],
+      "releaseRaw": "28 Oct, 2026",
+      "releaseDate": "2026-10-28",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "59,99€",
+        "cents": 5999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        68,
+        78,
+        60,
+        55,
+        56,
+        57,
+        58,
+        59,
+        69,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": 88,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
+    }
+  },
   "planet-killer": {
     "slug": "planet-killer",
     "name": "Planet Killer",
@@ -21208,6 +21419,12 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "probably-stolen-cyberpunk-shopkeeper": {
+    "slug": "probably-stolen-cyberpunk-shopkeeper",
+    "name": "Probably Stolen - Cyberpunk Shopkeeper",
+    "steam": null,
+    "reason": "introuvable"
+  },
   "project-manager-sim": {
     "slug": "project-manager-sim",
     "name": "Project Manager SIM",
@@ -21469,6 +21686,63 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "rat-game": {
+    "slug": "rat-game",
+    "name": "Rat Game",
+    "steam": {
+      "appId": 3347910,
+      "steamName": "Rat Game",
+      "confidence": "exact",
+      "developers": [
+        "Sokpop Collective"
+      ],
+      "publishers": [
+        "Sokpop Collective"
+      ],
+      "releaseRaw": "30 Oct, 2026",
+      "releaseDate": "2026-10-30",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "5,79€",
+        "cents": 579,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        67,
+        66,
+        68,
+        78,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
     }
   },
   "rayman-legends-retold": {
@@ -22668,6 +22942,12 @@
   "rush-royale": {
     "slug": "rush-royale",
     "name": "Rush Royale",
+    "steam": null,
+    "reason": "introuvable"
+  },
+  "s-o-n-a-r-submarine-operators-not-actually-ready": {
+    "slug": "s-o-n-a-r-submarine-operators-not-actually-ready",
+    "name": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
     "steam": null,
     "reason": "introuvable"
   },
@@ -26663,6 +26943,55 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "sulfur": {
+    "slug": "sulfur",
+    "name": "SULFUR",
+    "steam": {
+      "appId": 2124120,
+      "steamName": "SULFUR",
+      "confidence": "exact",
+      "developers": [
+        "Perfect Random"
+      ],
+      "publishers": [
+        "Perfect Random"
+      ],
+      "releaseRaw": "28 Oct, 2026",
+      "releaseDate": "2026-10-28",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        59,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-10-31"
     }
   },
   "suncraft": {
