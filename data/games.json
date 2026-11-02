@@ -13700,6 +13700,41 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "heroes-of-might-and-magic-iii-remake": {
+    "slug": "heroes-of-might-and-magic-iii-remake",
+    "name": "Heroes of Might and Magic III Remake",
+    "steam": {
+      "appId": 3809850,
+      "steamName": "Heroes of Might and Magic III Remake",
+      "confidence": "exact",
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "releaseRaw": "2027",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        3,
+        2
+      ],
+      "featureIds": [
+        2
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-02"
+    }
+  },
   "heroes-of-might-and-magic-olden-era": {
     "slug": "heroes-of-might-and-magic-olden-era",
     "name": "Heroes of Might and Magic: Olden Era",
