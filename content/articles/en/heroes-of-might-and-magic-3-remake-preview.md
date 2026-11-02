@@ -41,7 +41,7 @@ You and your mate crammed onto a tiny desk. One on a beanbag, the other on a che
 
 That is how an entire generation played Heroes III. And it was not a French peculiarity.
 
-In 1999, **2 per cent of Russian households and 7 per cent of Polish households had internet access**. Hot seat mode, the one where you pass the mouse around on the same machine, was not a convenience feature in those countries: it was the only multiplayer mode available. It is one of the reasons this game became a monument in Eastern Europe and stayed played there for twenty-five years.
+In 1999, **2 per cent of Russian households and 7 per cent of Polish households had internet access**. Hot seat mode, the one where you pass the mouse around on the same machine, was not a convenience feature in those countries: it was the only multiplayer mode available. It is one of the reasons this game became a monument in Eastern Europe and is still played there today.
 
 So yes, asking whether hot seat returns is not a nostalgic's question. It is a question about the game's identity.
 
@@ -69,7 +69,9 @@ It was an alpha. So I am not going to talk about bugs, that would make no sense 
 
 What I can talk about is what was there.
 
-And what was there is Heroes III. Genuinely Heroes III. With a date that does not age you too badly.
+And what was there is Heroes III.
+
+I am not going to write that it is exactly the same game as twenty-seven years ago, because that would age me far too much. Let us just say it is the same game, and leave the date alone.
 
 I do not say that unkindly. I played it happily, because this game is excellent and it already was. The Snowdrop engine does its job: you move from a fixed isometric perspective to real 3D with a free camera, dynamic lighting, weather, shifting seasons. It looks good, it reads well, and the combat grid stays perfectly clear, which was not a given in moving to volume.
 
@@ -111,7 +113,7 @@ And there is my whole problem.
 
 A good remake does not redo the game. It looks at what has aged, rebuilds it, and keeps the tone. It is a tightrope act: too much reverence and you have made an overpriced re-release, too much freedom and you betray what people loved.
 
-Heroes III is twenty-seven. It has things that have aged, and everyone still playing it knows them by heart: managing creature queues, the readability of information on the adventure map, the town management interface once you own seven of them, the way an eight-player game stretches until it becomes unmanageable.
+Heroes III is the age I refused to write above. It has things that have aged, and everyone still playing it knows them by heart: managing creature queues, the readability of information on the adventure map, the town management interface once you own seven of them, the way an eight-player game stretches until it becomes unmanageable.
 
 Those are places where a remake can work without touching the game's soul. Nobody is asking you to change the combat grid or the skill tree. We are asking you to look at why a six-hour session contains two hours of waiting.
 

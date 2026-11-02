@@ -41,7 +41,7 @@ Vous et votre pote serrés sur un mini bureau. L'un sur un pouf, l'autre sur une
 
 C'est comme ça qu'une génération entière a joué à Heroes III. Et ce n'était pas une bizarrerie française.
 
-En 1999, **2 % des foyers russes et 7 % des foyers polonais avaient accès à internet**. Le mode hot seat, celui où l'on se passe la souris à tour de rôle sur la même machine, n'était pas un bonus de confort dans ces pays : c'était le seul mode multijoueur accessible. C'est l'une des raisons pour lesquelles ce jeu est devenu un monument en Europe de l'Est et y est resté joué pendant vingt-cinq ans.
+En 1999, **2 % des foyers russes et 7 % des foyers polonais avaient accès à internet**. Le mode hot seat, celui où l'on se passe la souris à tour de rôle sur la même machine, n'était pas un bonus de confort dans ces pays : c'était le seul mode multijoueur accessible. C'est l'une des raisons pour lesquelles ce jeu est devenu un monument en Europe de l'Est et qu'on y joue encore aujourd'hui.
 
 Donc oui, demander si le hot seat revient n'est pas une question de nostalgique. C'est une question sur l'identité du jeu.
 
@@ -69,7 +69,9 @@ C'était une alpha. Je ne vais donc pas vous parler des bugs, ça n'aurait aucun
 
 Ce dont je peux parler, c'est de ce qui était là.
 
-Et ce qui était là, c'est Heroes III. Vraiment Heroes III. Avec une date qui ne vous vieillit pas trop.
+Et ce qui était là, c'est Heroes III.
+
+Je ne vais pas écrire que c'est exactement le même jeu qu'il y a vingt-sept ans, parce que ça me vieillirait beaucoup trop. Disons simplement que c'est le même jeu, et laissons la date tranquille.
 
 Je ne dis pas ça méchamment. Je l'ai joué avec plaisir, parce que ce jeu est excellent et qu'il l'était déjà. Le moteur Snowdrop fait son travail : on passe de la perspective isométrique fixe à une vraie 3D avec caméra libre, de la lumière dynamique, de la météo, des saisons qui changent. C'est beau, c'est lisible, et la grille de combat reste parfaitement claire, ce qui n'était pas gagné en passant en volume.
 
@@ -111,7 +113,7 @@ Et là est tout mon problème.
 
 Un bon remake ne refait pas le jeu. Il regarde ce qui a vieilli, il le reconstruit, et il garde le ton. C'est un exercice d'équilibriste : trop de respect et vous faites une réédition hors de prix, trop de liberté et vous trahissez ce que les gens aimaient.
 
-Heroes III a vingt-sept ans. Il a des choses qui ont vieilli, et tous ceux qui y jouent encore les connaissent par cœur : la gestion des files d'attente de créatures, la lisibilité des informations sur la carte d'aventure, l'interface de gestion de ville quand on en possède sept, la façon dont une partie à huit s'étire jusqu'à devenir ingérable.
+Heroes III a l'âge que j'ai refusé d'écrire plus haut. Il a des choses qui ont vieilli, et tous ceux qui y jouent encore les connaissent par cœur : la gestion des files d'attente de créatures, la lisibilité des informations sur la carte d'aventure, l'interface de gestion de ville quand on en possède sept, la façon dont une partie à huit s'étire jusqu'à devenir ingérable.
 
 Ce sont des endroits où un remake peut travailler sans toucher à l'âme du jeu. Personne ne vous demande de changer la grille de combat ni l'arbre de compétences. On vous demande de regarder ce qui fait qu'une partie de six heures en contient deux d'attente.
 
