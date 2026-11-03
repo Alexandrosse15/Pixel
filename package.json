@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "verify": "tsc --noEmit && next lint && node scripts/verify-content.mjs",
+    "verify:all": "tsc --noEmit && next lint && node scripts/verify-content.mjs --all",
+    "build:light": "NEXT_CPUS=2 NODE_OPTIONS=--max-old-space-size=2048 next build"
   },
   "dependencies": {
     "@upstash/redis": "^1.37.0",

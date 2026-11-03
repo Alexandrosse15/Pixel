@@ -23,7 +23,9 @@ Média jeu vidéo indépendant, FR + EN. Articles en markdown dans `content/arti
 - **Preview vs test** : `previews` = jeu pas encore sorti ou pas encore joué, sans note. `tests` = joué, avec note. En cas de doute, demander.
 - **Chaque article invite au Discord** : `https://discord.gg/473FE3dWvw`. L'invitation se place en fin d'article, après la dernière image. **Formulation variée à chaque fois**, jamais la même phrase recopiée (voir règle anti-template n°5 sur les footers identiques). Elle doit s'accrocher au sujet de l'article quand c'est possible.
 - **git push immédiatement après chaque commit**. Message de commit en français, sans mention d'IA.
-- Avant chaque commit : vérifier 0 em dash, 0 emoji, et `npm run build` OK.
+- **Avant chaque commit : `npm run verify`, JAMAIS `npm run build`.** La vérification légère (tsc + lint + `scripts/verify-content.mjs`) prend 3 secondes et 400 Mo. Le build complet rend 2 869 pages avec 7 processus parallèles pendant 12 minutes et écrit 2 Go : sur une machine à 8 Go de RAM il remplit le swap et rend le Mac inutilisable, y compris pour le `git push` qui suit. Vercel rebuild de toute façon à la réception, et son log sert à corriger si ça casse. Si un build local est indispensable, `npm run build:light` (2 workers, mémoire plafonnée) et prévenir avant.
+  - `npm run verify` contrôle par défaut les seuls articles modifiés depuis `origin/main` : em dash, emoji, traces IA, tutoiement, tics, frontmatter, excerpt, score, images et PDF présents, liens internes, Discord.
+  - `npm run verify:all` pour auditer tout le catalogue, `node scripts/verify-content.mjs --slug=a,b` pour cibler.
 
 ## Règles anti-template (priorité haute — éviter le style "IA détectable")
 
