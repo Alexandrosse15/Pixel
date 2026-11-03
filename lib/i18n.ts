@@ -54,6 +54,12 @@ const translations = {
           "Critiques de séries et de films par une rédaction de joueurs : adaptations de jeux vidéo, pop culture gaming, analyses. Le 7e art et les séries vus depuis un fauteuil de gamer.",
         empty: 'Aucun article pour le moment.',
       },
+      wargame: {
+        title: 'Wargame',
+        description:
+          "Wargames et jeux de figurines : règles expliquées, guides de démarrage, boîtes d'initiation et conseils de peinture. Warhammer 40,000, Age of Sigmar et les autres, pour ceux qui n'osaient pas franchir la porte.",
+        empty: 'Aucun article wargame pour le moment.',
+      },
       gratuit: {
         title: 'Gratuit',
         description: 'Les jeux gratuits de la semaine sur Epic Games Store et GOG.',
@@ -102,6 +108,7 @@ const translations = {
       industrie: 'Industrie',
       guides: 'Guide',
       cinema: 'Séries & Cinéma',
+      wargame: 'Wargame',
     },
     search: {
       placeholder: 'Rechercher un article...',
@@ -208,6 +215,12 @@ const translations = {
           "Series and film reviews by a team of gamers: video game adaptations, gaming pop culture, analysis. The 7th art and streaming series seen from a gamer's perspective.",
         empty: 'No articles yet.',
       },
+      wargame: {
+        title: 'Wargame',
+        description:
+          "Wargames and miniature games: rules explained, starter guides, boxed sets and painting advice. Warhammer 40,000, Age of Sigmar and the rest, for anyone who never dared walk through the door.",
+        empty: 'No wargame articles yet.',
+      },
       gratuit: {
         title: 'Free Games',
         description: 'This week\'s free games on Epic Games Store and GOG.',
@@ -256,6 +269,7 @@ const translations = {
       industrie: 'Industry',
       guides: 'Guide',
       cinema: 'Series & Cinema',
+      wargame: 'Wargame',
     },
     search: {
       placeholder: 'Search an article...',

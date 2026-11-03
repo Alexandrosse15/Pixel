@@ -41,6 +41,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const frUrl = `${SITE_URL}/palmares`
   const enUrl = `${SITE_URL}/en/palmares`
   return {
+    // Le palmares est retire de la navigation et du sitemap : la page reste
+    // accessible par son URL pour les votes deja en cours, mais elle n'est
+    // plus indexee ni mise en avant.
+    robots: { index: false, follow: true },
     title: c.title,
     description: c.intro,
     alternates: {

@@ -54,10 +54,10 @@ export default function Header() {
             </Link>
           ))}
           <Link
-            href={`${prefix}/palmares`}
-            className={`nav-link font-bold text-brand ${pathname.startsWith(`${prefix}/palmares`) ? 'active' : ''}`}
+            href={`${prefix}/wargame`}
+            className={`nav-link font-bold text-brand ${pathname.startsWith(`${prefix}/wargame`) ? 'active' : ''}`}
           >
-            {locale === 'en' ? 'Awards' : 'Palmarès'}
+            {t.sections.wargame.title}
           </Link>
         </nav>
 
@@ -153,11 +153,11 @@ export default function Header() {
               <LanguageSwitcher />
             </div>
             <Link
-              href={`${prefix}/palmares`}
+              href={`${prefix}/wargame`}
               onClick={() => setMenuOpen(false)}
               className="py-3 font-display text-sm font-bold uppercase tracking-wide text-brand"
             >
-              {locale === 'en' ? 'Awards' : 'Palmarès'}
+              {t.sections.wargame.title}
             </Link>
           </nav>
         </div>

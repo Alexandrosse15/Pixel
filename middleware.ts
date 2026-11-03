@@ -29,6 +29,9 @@ export function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    '/((?!_next/static|_next/image|images|icon\\.svg|opengraph-image|sitemap\\.xml|robots\\.txt|feed\\.xml|api).*)',
+    // `downloads` est exclu au même titre que `images` : ce sont des fichiers
+    // servis depuis public/, qui n'ont pas de version par locale. Sans cette
+    // exclusion, /downloads/x.pdf est réécrit en /fr/downloads/x.pdf et renvoie 404.
+    '/((?!_next/static|_next/image|images|downloads|icon\\.svg|opengraph-image|sitemap\\.xml|robots\\.txt|feed\\.xml|api).*)',
   ],
 }

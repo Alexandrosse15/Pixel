@@ -26,6 +26,10 @@ export interface Article {
   featured?: boolean
   buyUrl?: string
   buyable?: boolean
+  pdfUrl?: string
+  pdfTitle?: string
+  pdfPages?: number
+  pdfSize?: string
 }
 
 function contentDir(locale = 'fr') {
@@ -63,6 +67,10 @@ function parseFile(slug: string, locale = 'fr'): Article | null {
       featured: (data.featured as boolean) ?? false,
       buyUrl: data.buyUrl as string | undefined,
       buyable: data.buyable as boolean | undefined,
+      pdfUrl: data.pdfUrl as string | undefined,
+      pdfTitle: data.pdfTitle as string | undefined,
+      pdfPages: data.pdfPages as number | undefined,
+      pdfSize: data.pdfSize as string | undefined,
     }
   } catch {
     return null

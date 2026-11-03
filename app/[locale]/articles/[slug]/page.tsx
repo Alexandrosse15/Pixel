@@ -12,6 +12,7 @@ import Image from 'next/image'
 import ArticleCard from '@/components/ArticleCard'
 import BuyButton from '@/components/BuyButton'
 import AdSlot from '@/components/AdSlot'
+import PdfDownload from '@/components/PdfDownload'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
@@ -370,6 +371,25 @@ export default async function ArticlePage({ params }: Props) {
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 components={{
+                  // Un paragraphe reduit au marqueur [[PDF]] devient l'encart de
+                  // telechargement, place ou l'auteur l'a voulu dans le texte.
+                  p: ({ children, ...props }) => {
+                    const text = Array.isArray(children)
+                      ? children.map((c) => (typeof c === 'string' ? c : '')).join('')
+                      : String(children ?? '')
+                    if (text.trim() === '[[PDF]]' && article.pdfUrl) {
+                      return (
+                        <PdfDownload
+                          url={article.pdfUrl}
+                          title={article.pdfTitle ?? article.title}
+                          pages={article.pdfPages}
+                          size={article.pdfSize}
+                          locale={locale}
+                        />
+                      )
+                    }
+                    return <p {...props}>{children}</p>
+                  },
                   h2: ({ children }) => {
                     const text = Array.isArray(children)
                       ? children.map((c) => (typeof c === 'string' ? c : '')).join('')

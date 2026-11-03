@@ -43,11 +43,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/guides`, lastModified: guidesDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/guides`, en: `${SITE_URL}/en/guides` } } },
     { url: `${SITE_URL}/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
-    { url: `${SITE_URL}/palmares`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/palmares`, en: `${SITE_URL}/en/palmares` } } },
+    { url: `${SITE_URL}/wargame`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
     { url: `${SITE_URL}/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
     // /mentions-legales est volontairement en noindex : l'annoncer au sitemap
     // reviendrait à demander à Google d'indexer une page qui le lui interdit.
-    { url: `${SITE_URL}/en/palmares`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/palmares`, en: `${SITE_URL}/en/palmares` } } },
+    { url: `${SITE_URL}/en/wargame`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
     { url: `${SITE_URL}/en/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
     { url: `${SITE_URL}/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
     // EN versions

@@ -1,4 +1,4 @@
-export type Category = 'tests' | 'previews' | 'dossiers' | 'industrie' | 'cinema' | 'guides'
+export type Category = 'tests' | 'previews' | 'dossiers' | 'industrie' | 'cinema' | 'guides' | 'wargame'
 
 export const categoryConfig: Record<Category, { label: string; color: string; textColor: string }> = {
   tests: { label: 'Test', color: 'bg-brand', textColor: 'text-white' },
@@ -7,4 +7,5 @@ export const categoryConfig: Record<Category, { label: string; color: string; te
   industrie: { label: 'Industrie', color: 'bg-emerald-600', textColor: 'text-white' },
   cinema: { label: 'Séries & Cinéma', color: 'bg-rose-700', textColor: 'text-white' },
   guides: { label: 'Guide', color: 'bg-sky-500', textColor: 'text-black' },
+  wargame: { label: 'Wargame', color: 'bg-orange-700', textColor: 'text-white' },
 }
