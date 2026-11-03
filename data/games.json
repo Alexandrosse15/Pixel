@@ -6690,6 +6690,55 @@
       "fetchedAt": "2026-10-31"
     }
   },
+  "death-at-fleming-manor": {
+    "slug": "death-at-fleming-manor",
+    "name": "Death at Fleming Manor",
+    "steam": {
+      "appId": 3758950,
+      "steamName": "Death at Fleming Manor",
+      "confidence": "exact",
+      "developers": [
+        "SUPERTHUMb"
+      ],
+      "publishers": [
+        "SUPERTHUMb"
+      ],
+      "releaseRaw": "3 Nov, 2026",
+      "releaseDate": "2026-11-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "17,99€",
+        "cents": 1799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        76,
+        80,
+        74,
+        77,
+        23,
+        42,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
+  },
   "deep-dish-dungeon": {
     "slug": "deep-dish-dungeon",
     "name": "Deep Dish Dungeon",
@@ -8319,6 +8368,59 @@
         }
       },
       "fetchedAt": "2026-10-19"
+    }
+  },
+  "dungeon-rampage-remastered": {
+    "slug": "dungeon-rampage-remastered",
+    "name": "Dungeon Rampage Remastered",
+    "steam": {
+      "appId": 3053950,
+      "steamName": "Dungeon Rampage Remastered",
+      "confidence": "exact",
+      "developers": [
+        "Gamebreaking Studios"
+      ],
+      "publishers": [
+        "Gamebreaking Studios"
+      ],
+      "releaseRaw": "3 Nov, 2026",
+      "releaseDate": "2026-11-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        1,
+        9,
+        38,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        59,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
     }
   },
   "dungeon-settlers": {
@@ -10186,6 +10288,55 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "feed-the-forest": {
+    "slug": "feed-the-forest",
+    "name": "Feed The Forest",
+    "steam": {
+      "appId": 4362170,
+      "steamName": "Feed The Forest",
+      "confidence": "exact",
+      "developers": [
+        "Indoor Sunglasses"
+      ],
+      "publishers": [
+        "Indoor Sunglasses"
+      ],
+      "releaseRaw": "2 Nov, 2026",
+      "releaseDate": "2026-11-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        75,
+        80,
+        74,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
     }
   },
   "feed-the-scorchpot": {
@@ -12245,6 +12396,57 @@
     "name": "God of War: Laufey",
     "steam": null,
     "reason": "introuvable"
+  },
+  "godzilla-destroy-all-monsters-melee-remastered": {
+    "slug": "godzilla-destroy-all-monsters-melee-remastered",
+    "name": "Godzilla: Destroy All Monsters Melee Remastered",
+    "steam": {
+      "appId": 4251460,
+      "steamName": "Godzilla: Destroy All Monsters Melee Remastered",
+      "confidence": "exact",
+      "developers": [
+        "Pipeworks Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "releaseRaw": "3 Nov, 2026",
+      "releaseDate": "2026-11-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "29,99€",
+        "cents": 2999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        24,
+        22,
+        28,
+        60,
+        23,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
   },
   "gone-fishing": {
     "slug": "gone-fishing",
@@ -16168,6 +16370,65 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "loftia": {
+    "slug": "loftia",
+    "name": "Loftia",
+    "steam": {
+      "appId": 2320980,
+      "steamName": "Loftia",
+      "confidence": "exact",
+      "developers": [
+        "Qloud Games"
+      ],
+      "publishers": [
+        "Qloud Games"
+      ],
+      "releaseRaw": "3 Nov, 2026",
+      "releaseDate": "2026-11-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "28,99€",
+        "cents": 2899,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        29,
+        3,
+        28,
+        70
+      ],
+      "featureIds": [
+        1,
+        20,
+        9,
+        38,
+        28,
+        35,
+        67,
+        68,
+        78,
+        55,
+        56,
+        57,
+        58,
+        69,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
+  },
   "loop-dungeon-incremental": {
     "slug": "loop-dungeon-incremental",
     "name": "Loop Dungeon - Incremental",
@@ -17195,6 +17456,54 @@
     "name": "Maul: Shadow Lord",
     "steam": null,
     "reason": "introuvable"
+  },
+  "mayday-the-survival-island": {
+    "slug": "mayday-the-survival-island",
+    "name": "Mayday: The Survival Island",
+    "steam": {
+      "appId": 1686230,
+      "steamName": "Mayday: The Survival Island",
+      "confidence": "exact",
+      "developers": [
+        "Pequi studios"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "releaseRaw": "2 Nov, 2026",
+      "releaseDate": "2026-11-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "13,15€",
+        "cents": 1315,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
   },
   "meccha-chameleon": {
     "slug": "meccha-chameleon",
@@ -22111,6 +22420,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "repel-the-rifts": {
+    "slug": "repel-the-rifts",
+    "name": "Repel The Rifts",
+    "steam": {
+      "appId": 3686580,
+      "steamName": "Repel The Rifts",
+      "confidence": "exact",
+      "developers": [
+        "RefinedBearGames"
+      ],
+      "publishers": [
+        "Goblinz Publishing",
+        "WR game"
+      ],
+      "releaseRaw": "2 Nov, 2026",
+      "releaseDate": "2026-11-02",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "12,99€",
+        "cents": 1299,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
+  },
   "replaced": {
     "slug": "replaced",
     "name": "REPLACED",
@@ -23098,6 +23453,51 @@
     "name": "Saros",
     "steam": null,
     "reason": "introuvable"
+  },
+  "scam-line": {
+    "slug": "scam-line",
+    "name": "Scam Line",
+    "steam": {
+      "appId": 2794590,
+      "steamName": "Scam Line",
+      "confidence": "exact",
+      "developers": [
+        "RavenJm"
+      ],
+      "publishers": [
+        "RavenJm",
+        "GAZE IN GAMES"
+      ],
+      "releaseRaw": "3 Nov, 2026",
+      "releaseDate": "2026-11-03",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,99€",
+        "cents": 699,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        9,
+        38,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-03"
+    }
   },
   "scapewatch-idle-mmo": {
     "slug": "scapewatch-idle-mmo",
