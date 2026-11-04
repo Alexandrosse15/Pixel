@@ -3,7 +3,7 @@ title: "Warhammer 40,000 in 11th edition: I read all 88 pages of rules so you do
 seoTitle: "Warhammer 40,000 11th edition: beginner guide to download"
 slug: "warhammer-40000-v11-guide-debutant"
 category: "wargame"
-excerpt: "A free 37-page PDF so you can play your first game without memorising anything. Plus a new section on the site."
+excerpt: "A free bilingual PDF so you can play your first game without memorising anything. Plus a new section on the site."
 date: "2026-11-03"
 author: "Alexandrosse"
 readTime: "11 min"
@@ -12,16 +12,16 @@ coverImage: "/images/warhammer40k-v11/screenshot-1.webp"
 gameName: "Warhammer 40,000"
 featured: true
 pdfUrl: "/downloads/guide-debutant-warhammer-40000-v11.pdf"
-pdfTitle: "Guide du débutant Warhammer 40,000 (V11)"
-pdfPages: 37
-pdfSize: "990 KB"
+pdfTitle: "Warhammer 40,000 (11th edition) Beginner's Guide"
+pdfPages: 70
+pdfSize: "546 KB"
 ---
 
 There is a statistic nobody will ever publish: the number of people who walked into a Warhammer shop, watched a game table for three minutes, and walked back out without saying a word.
 
 What stops those people is almost never the price. It is a very specific feeling, and it is wrong: the impression that you have to know everything before you are allowed to play a single game.
 
-So I took the 88 pages of the 11th edition Core Rules, the updates that correct them, and wrote the thing I wish somebody had handed me that day. Thirty-seven pages, free, at the bottom of this article.
+So I took the 88 pages of the 11th edition Core Rules, the updates that correct them, and wrote the thing I wish somebody had handed me that day. Seventy pages, free, at the bottom of this article. The guide is fully bilingual: the French version first, the English one after, in the same file.
 
 ![The Warhammer 40,000 Starter Set, the box, the booklets and the table laid out](/images/warhammer40k-v11/screenshot-1.webp)
 
@@ -57,7 +57,7 @@ Which does not mean 88 pages read like a novel. That is precisely the problem th
 
 ## What is inside
 
-Thirty-seven pages, arranged to be read in order once, then raided at random during a game.
+Thirty-two pages in English, after the French ones, arranged to be read in order once, then raided at random during a game.
 
 The first four sections lay the groundwork: the equipment you actually need, dice notation, how to read a datasheet, and keywords. The next seven walk through a game phase by phase, in the order they arrive on the table. The last ones cover terrain, stratagems and weapon abilities.
 
@@ -131,6 +131,6 @@ If you have been putting it off, it is probably for the reason in the first para
 
 Take the PDF, read it once on a train, keep the last three pages handy, and go lose your first game. It is the only compulsory step.
 
-Note that the guide itself is written in French, with every rules term carrying its official English name alongside, so it doubles as a translation key if you play in English.
+The English half of the guide starts at page 39, so jump straight there. Every rules term keeps its official English name throughout, which is what you will actually hear across the table.
 
 Got a rules question blocking you, or an army in mind and no idea where to begin? There is a channel for that on [the InsertCoins Discord](https://discord.gg/473FE3dWvw) now, and we talk painting there too.

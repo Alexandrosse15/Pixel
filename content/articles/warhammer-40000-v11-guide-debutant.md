@@ -3,7 +3,7 @@ title: "Warhammer 40,000 en V11 : j'ai lu les 88 pages de règles pour que vous 
 seoTitle: "Warhammer 40,000 V11 : guide du débutant à télécharger"
 slug: "warhammer-40000-v11-guide-debutant"
 category: "wargame"
-excerpt: "Un PDF de 37 pages, gratuit, pour jouer votre première partie sans avoir rien appris par coeur. Et une nouvelle rubrique sur le site."
+excerpt: "Un PDF gratuit, français et anglais, pour jouer votre première partie sans avoir rien appris par coeur. Et une nouvelle rubrique."
 date: "2026-11-03"
 author: "Alexandrosse"
 readTime: "11 min"
@@ -13,15 +13,15 @@ gameName: "Warhammer 40,000"
 featured: true
 pdfUrl: "/downloads/guide-debutant-warhammer-40000-v11.pdf"
 pdfTitle: "Guide du débutant Warhammer 40,000 (V11)"
-pdfPages: 37
-pdfSize: "990 Ko"
+pdfPages: 70
+pdfSize: "546 Ko"
 ---
 
 Il existe une statistique que personne ne publiera jamais : le nombre de gens qui sont entrés dans une boutique Warhammer, ont regardé une table de jeu pendant trois minutes, et sont ressortis sans rien dire.
 
 Ce qui arrête ces gens-là n'est presque jamais le prix. C'est une sensation précise, et elle est fausse : l'impression qu'il faut tout savoir avant d'avoir le droit de jouer une seule partie.
 
-Alors j'ai pris les 88 pages des Règles de Base de la onzième édition, les mises à jour qui les corrigent, et j'ai écrit ce que j'aurais voulu qu'on me mette dans les mains ce jour-là. Trente-sept pages, en français, gratuites, en bas de cet article.
+Alors j'ai pris les 88 pages des Règles de Base de la onzième édition, les mises à jour qui les corrigent, et j'ai écrit ce que j'aurais voulu qu'on me mette dans les mains ce jour-là. Soixante-dix pages, gratuites, en bas de cet article. Le guide est intégralement bilingue : la version française d'abord, la version anglaise ensuite, dans le même fichier.
 
 ![Le Set d'initiation Warhammer 40,000, la boîte, les livrets et la table montée](/images/warhammer40k-v11/screenshot-1.webp)
 
@@ -57,7 +57,7 @@ Ce qui ne veut pas dire que les 88 pages se lisent comme un roman. C'est précis
 
 ## Ce qu'il y a dedans
 
-Trente-sept pages, organisées pour être lues dans l'ordre une fois, puis consultées en vrac pendant la partie.
+Trente-huit pages en français, puis la même chose en anglais, organisées pour être lues dans l'ordre une fois, puis consultées en vrac pendant la partie.
 
 Les quatre premières sections posent les bases : le matériel réellement nécessaire, la notation des dés, la lecture d'une fiche d'unité et les mots-clés. Les sept suivantes déroulent une partie phase par phase, dans l'ordre où elles arrivent sur la table. Les dernières couvrent le terrain, les stratagèmes et les aptitudes d'armes.
 
