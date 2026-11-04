@@ -32,6 +32,11 @@ export const config = {
     // `downloads` est exclu au même titre que `images` : ce sont des fichiers
     // servis depuis public/, qui n'ont pas de version par locale. Sans cette
     // exclusion, /downloads/x.pdf est réécrit en /fr/downloads/x.pdf et renvoie 404.
-    '/((?!_next/static|_next/image|images|downloads|icon\\.svg|opengraph-image|sitemap\\.xml|robots\\.txt|feed\\.xml|api).*)',
+    //
+    // `ads.txt` relève de la même règle. Il était absent de cette liste, donc
+    // /ads.txt partait en /fr/ads.txt : le fichier existait dans public/ mais
+    // renvoyait 404, et le robot AdSense ne pouvait pas le lire. Tout fichier
+    // ajouté à la racine de public/ doit figurer ici.
+    '/((?!_next/static|_next/image|images|downloads|icon\\.svg|ads\\.txt|opengraph-image|sitemap\\.xml|robots\\.txt|feed\\.xml|api).*)',
   ],
 }
