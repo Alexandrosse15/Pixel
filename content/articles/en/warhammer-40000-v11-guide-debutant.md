@@ -14,7 +14,7 @@ featured: true
 pdfUrl: "/downloads/guide-debutant-warhammer-40000-v11.pdf"
 pdfTitle: "Guide du débutant Warhammer 40,000 (V11)"
 pdfPages: 37
-pdfSize: "1.2 MB"
+pdfSize: "990 KB"
 ---
 
 There is a statistic nobody will ever publish: the number of people who walked into a Warhammer shop, watched a game table for three minutes, and walked back out without saying a word.
