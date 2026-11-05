@@ -5,5 +5,10 @@
   "vampire-crawlers": 3265700,
 
   "dinosaur": null,
-  "lanterns": null
+  "lanterns": null,
+
+  "_comment_wargame": "Jeux de figurines : ils n'existent pas sur Steam. Sans ces null, l'appariement par prefixe collait la fiche de Warhammer 40,000: Darktide (Fatshark, 2022) sur le hub du jeu de plateau.",
+  "warhammer-40-000": null,
+  "gundam-assemble": null,
+  "starcraft-tabletop-miniatures-game": null
 }

@@ -5845,6 +5845,47 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "county-of-fortune": {
+    "slug": "county-of-fortune",
+    "name": "County of Fortune",
+    "steam": {
+      "appId": 3204330,
+      "steamName": "County of Fortune",
+      "confidence": "exact",
+      "developers": [
+        "Nepos Games"
+      ],
+      "publishers": [
+        "Aquila Interactive"
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
+    }
+  },
   "court-wizard": {
     "slug": "court-wizard",
     "name": "Court Wizard",
@@ -5908,6 +5949,55 @@
         "label": null
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "cozy-game-restoration": {
+    "slug": "cozy-game-restoration",
+    "name": "Cozy Game Restoration",
+    "steam": {
+      "appId": 3581230,
+      "steamName": "Cozy Game Restoration",
+      "confidence": "exact",
+      "developers": [
+        "Parasol Corp"
+      ],
+      "publishers": [
+        "Parasol Corp"
+      ],
+      "releaseRaw": "4 Nov, 2026",
+      "releaseDate": "2026-11-04",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,99€",
+        "cents": 1499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28
+      ],
+      "featureIds": [
+        2,
+        28,
+        68,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
     }
   },
   "crack": {
@@ -7839,6 +7929,47 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "dominus-gladiatus": {
+    "slug": "dominus-gladiatus",
+    "name": "Dominus Gladiatus",
+    "steam": {
+      "appId": 3572090,
+      "steamName": "Dominus Gladiatus",
+      "confidence": "exact",
+      "developers": [
+        "Brain Seal Ltd"
+      ],
+      "publishers": [
+        "PlayWay S.A."
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        57,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
     }
   },
   "don-t-sleep-with-the-fishes": {
@@ -13028,6 +13159,12 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "gundam-assemble": {
+    "slug": "gundam-assemble",
+    "name": "Gundam Assemble",
+    "steam": null,
+    "reason": "écarté à la relecture"
+  },
   "guns-and-dragons": {
     "slug": "guns-and-dragons",
     "name": "Guns and Dragons",
@@ -17505,6 +17642,51 @@
       "fetchedAt": "2026-11-03"
     }
   },
+  "meadgard": {
+    "slug": "meadgard",
+    "name": "Meadgard",
+    "steam": {
+      "appId": 2433560,
+      "steamName": "Meadgard",
+      "confidence": "exact",
+      "developers": [
+        "Oddiko"
+      ],
+      "publishers": [
+        "Oddiko"
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        28,
+        60,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
+    }
+  },
   "meccha-chameleon": {
     "slug": "meccha-chameleon",
     "name": "Meccha Chameleon",
@@ -21216,6 +21398,49 @@
       "metacritic": 88,
       "reviews": null,
       "fetchedAt": "2026-10-31"
+    }
+  },
+  "pix-football-manager": {
+    "slug": "pix-football-manager",
+    "name": "PIX Football Manager",
+    "steam": {
+      "appId": 4195140,
+      "steamName": "PIX Football Manager",
+      "confidence": "exact",
+      "developers": [
+        "PeytonParrishGames"
+      ],
+      "publishers": [
+        "PeytonParrishGames"
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        18,
+        2,
+        70
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        22,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
     }
   },
   "planet-killer": {
@@ -26484,6 +26709,12 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "starcraft-tabletop-miniatures-game": {
+    "slug": "starcraft-tabletop-miniatures-game",
+    "name": "StarCraft: Tabletop Miniatures Game",
+    "steam": null,
+    "reason": "écarté à la relecture"
+  },
   "stargate": {
     "slug": "stargate",
     "name": "Stargate",
@@ -31022,6 +31253,54 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "underkeep": {
+    "slug": "underkeep",
+    "name": "Underkeep",
+    "steam": {
+      "appId": 2411200,
+      "steamName": "Underkeep",
+      "confidence": "exact",
+      "developers": [
+        "Rake in Grass"
+      ],
+      "publishers": [
+        "Rake in Grass"
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        69,
+        77,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
+    }
+  },
   "union-of-rivals": {
     "slug": "union-of-rivals",
     "name": "Union Of Rivals",
@@ -31914,6 +32193,12 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "warhammer-40-000": {
+    "slug": "warhammer-40-000",
+    "name": "Warhammer 40,000",
+    "steam": null,
+    "reason": "écarté à la relecture"
+  },
   "warhammer-40-000-dark-heresy": {
     "slug": "warhammer-40-000-dark-heresy",
     "name": "Warhammer 40,000: Dark Heresy",
@@ -32609,6 +32894,55 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-25"
+    }
+  },
+  "wielders-of-the-essence": {
+    "slug": "wielders-of-the-essence",
+    "name": "Wielders of the Essence",
+    "steam": {
+      "appId": 3546610,
+      "steamName": "Wielders of the Essence",
+      "confidence": "exact",
+      "developers": [
+        "Lavapotion"
+      ],
+      "publishers": [
+        "Lavapotion",
+        "Coffee Stain Publishing"
+      ],
+      "releaseRaw": "5 Nov, 2026",
+      "releaseDate": "2026-11-05",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        67,
+        68,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-05"
     }
   },
   "wild-blue-skies": {
