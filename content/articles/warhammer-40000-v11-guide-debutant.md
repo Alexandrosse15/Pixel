@@ -31,7 +31,7 @@ InsertCoins ouvre une section Wargame.
 
 Pas parce qu'il fallait remplir une case, mais parce qu'une bonne partie des gens qui lisent des tests de jeux de stratégie le soir ont déjà, quelque part dans un placard, une boîte de figurines jamais montée. Les deux publics sont le même public, et il n'y avait aucune raison de les séparer.
 
-On y parlera règles, boîtes d'entrée, peinture, et de ce que ça coûte vraiment. Ça commence ici, avec le plus gros morceau du rayon.
+On y parlera règles, boîtes d'entrée, peinture, et de ce que ça coûte vraiment. Ça commence ici, avec le plus gros morceau du rayon, et ça continue avec [Gundam Assemble](/articles/gundam-assemble-guide-debutant) et [StarCraft TMG](/articles/starcraft-tmg-guide-debutant), qui ont droit au même traitement et au même PDF gratuit.
 
 ## La boucle tient en une phrase
 

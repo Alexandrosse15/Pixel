@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const guides = getArticlesByCategory('guides', 'fr')
   const industrie = getArticlesByCategory('industrie', 'fr')
   const cinema = getArticlesByCategory('cinema', 'fr')
+  const wargame = getArticlesByCategory('wargame', 'fr')
 
   const testsDate = latestDate(tests)
   const previewsDate = latestDate(previews)
@@ -33,6 +34,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const guidesDate = latestDate(guides)
   const industrieDate = latestDate(industrie)
   const cinemaDate = latestDate(cinema)
+  // La rubrique portait new Date() : sa date changeait à chaque déploiement
+  // sans qu'un article bouge, ce qui est le meilleur moyen d'apprendre à
+  // Google à ignorer le lastModified du sitemap.
+  const wargameDate = latestDate(wargame)
   const homeDate = latestDate(articles)
 
   const staticRoutes: MetadataRoute.Sitemap = [
@@ -43,11 +48,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/guides`, lastModified: guidesDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/guides`, en: `${SITE_URL}/en/guides` } } },
     { url: `${SITE_URL}/industrie`, lastModified: industrieDate, changeFrequency: 'daily', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/industrie`, en: `${SITE_URL}/en/industrie` } } },
     { url: `${SITE_URL}/cinema`, lastModified: cinemaDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/cinema`, en: `${SITE_URL}/en/cinema` } } },
-    { url: `${SITE_URL}/wargame`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
+    { url: `${SITE_URL}/wargame`, lastModified: wargameDate, changeFrequency: 'weekly', priority: 0.9, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
     { url: `${SITE_URL}/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
     // /mentions-legales est volontairement en noindex : l'annoncer au sitemap
     // reviendrait à demander à Google d'indexer une page qui le lui interdit.
-    { url: `${SITE_URL}/en/wargame`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
+    { url: `${SITE_URL}/en/wargame`, lastModified: wargameDate, changeFrequency: 'weekly', priority: 0.8, alternates: { languages: { fr: `${SITE_URL}/wargame`, en: `${SITE_URL}/en/wargame` } } },
     { url: `${SITE_URL}/en/gratuit`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/gratuit`, en: `${SITE_URL}/en/gratuit` } } },
     { url: `${SITE_URL}/a-propos`, lastModified: new Date('2025-01-01'), changeFrequency: 'monthly', priority: 0.5, alternates: { languages: { fr: `${SITE_URL}/a-propos`, en: `${SITE_URL}/en/a-propos` } } },
     // EN versions

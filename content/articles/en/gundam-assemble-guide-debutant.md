@@ -37,7 +37,7 @@ So at every activation the real question is not "will I hit" but "if I spend 3, 
 
 ## No tape measure, and the mood changes
 
-Everything counts in hexes. Adjacent means the next space, range 2 means two spaces, and the board has elevation levels built from stacked cardboard platforms. Nobody argues over half an inch, nobody crawls under the table to check a line of sight. You point at spaces.
+Everything counts in hexes. Adjacent means the next space, range 2 means two spaces, and the board has elevation levels built from stacked cardboard platforms. Nobody argues over half an inch, nobody crawls under the table to check a line of sight. You point at spaces. Coming from [Warhammer 40,000](/en/articles/warhammer-40000-v11-guide-debutant), where an evening can stall for twenty minutes over one sight line, you feel the relief in the first game.
 
 The dice are D10s and the results table runs to four lines: a 1 always misses, 2 and 3 miss, 4 to 8 hit, 9 and 10 are criticals. Each hitting die deals one damage, with no wound roll and no save behind it. Accuracy shifts the middle numbers and never touches the 1s, 9s and 10s.
 

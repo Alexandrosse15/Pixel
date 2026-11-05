@@ -56,9 +56,27 @@ const translations = {
       },
       wargame: {
         title: 'Wargame',
+        // Le titre de la page de rubrique vise la requête générique ("wargame
+        // débutant"), que les articles ne peuvent pas viser : chacun d'eux est
+        // positionné sur le nom nu de son jeu.
+        seoTitle: 'Wargame pour débutants : par où commencer, guides gratuits',
         description:
-          "Wargames et jeux de figurines : règles expliquées, guides de démarrage, boîtes d'initiation et conseils de peinture. Warhammer 40,000, Age of Sigmar et les autres, pour ceux qui n'osaient pas franchir la porte.",
+          "Débuter le wargame quand on n'y a jamais joué : règles résumées, boîtes d'initiation comparées, budget réel et un guide du débutant gratuit par jeu. Warhammer 40,000, Gundam Assemble, StarCraft TMG.",
+        lede:
+          "Cette rubrique s'adresse à ceux qui regardent les tables de jeu depuis la porte sans oser entrer. Chaque guide résume les règles officielles, compare les boîtes d'entrée, donne les prix réels, et se télécharge en PDF gratuitement, en français et en anglais.",
         empty: 'Aucun article wargame pour le moment.',
+        start: {
+          title: "Débuter le wargame : ce qu'il faut savoir avant d'acheter",
+          rulesTitle: 'Les règles ne coûtent rien',
+          rules:
+            "C'est le malentendu le plus tenace du rayon. Les Règles de Base de Warhammer 40,000 sont en téléchargement libre, celles de StarCraft TMG aussi, et Bandai publie le livre de Gundam Assemble. On peut lire un système en entier, comprendre une partie et même l'arbitrer sans dépenser un centime. La barrière d'entrée est en plastique, pas en papier.",
+          budgetTitle: "Le vrai budget d'une première boîte",
+          budget:
+            "Comptez environ 40 euros pour entrer dans Gundam Assemble, 99 euros pour une boîte de faction StarCraft, 200 euros pour le Set d'initiation Warhammer 40,000 qui contient en plus le décor. Ajoutez une pince, de la colle selon les gammes, de la peinture si l'envie vient. L'option à zéro euro existe et reste la meilleure pour une première partie : un club, ou une boutique avec des tables ouvertes, prête ses figurines à qui demande.",
+          pickTitle: 'Lequel commencer en premier',
+          pick:
+            "Pour jouer ce soir en dépensant peu : Gundam Assemble, plateau à cases, pas de mètre ruban, parties courtes. Pour retrouver la montée en puissance d'un jeu de stratégie : StarCraft TMG, dont la table commence vide. Pour le hobby complet, avec des clubs partout et vingt ans de contenu derrière : Warhammer 40,000. Les trois guides ci-dessus se lisent une fois dans le train, puis restent ouverts à côté du plateau.",
+        },
       },
       gratuit: {
         title: 'Gratuit',
@@ -217,9 +235,23 @@ const translations = {
       },
       wargame: {
         title: 'Wargame',
+        seoTitle: 'Wargames for beginners: where to start, free guides',
         description:
-          "Wargames and miniature games: rules explained, starter guides, boxed sets and painting advice. Warhammer 40,000, Age of Sigmar and the rest, for anyone who never dared walk through the door.",
+          'Starting a wargame from scratch: rules boiled down, starter boxes compared, real prices, and a free beginner guide per game. Warhammer 40,000, Gundam Assemble, StarCraft TMG.',
+        lede:
+          'This section is for anyone who has watched a game table from the doorway without going in. Every guide boils down the official rules, compares the entry boxes, gives the real prices, and downloads as a free PDF in French and English.',
         empty: 'No wargame articles yet.',
+        start: {
+          title: 'Starting a wargame: what to know before you buy',
+          rulesTitle: 'The rules cost nothing',
+          rules:
+            'This is the most stubborn misunderstanding on the shelf. The Warhammer 40,000 Core Rules are a free download, so are the StarCraft TMG rules, and Bandai publishes the Gundam Assemble book. You can read an entire system, understand a game and even referee one without spending a penny. The barrier to entry is made of plastic, not paper.',
+          budgetTitle: 'What a first box actually costs',
+          budget:
+            'Budget around 40 euros to get into Gundam Assemble, 99 euros for a StarCraft faction box, 200 euros for the Warhammer 40,000 Starter Set, which also brings the terrain. Add clippers, glue depending on the range, and paint if the urge arrives. The zero-euro option exists and remains the best for a first game: a club, or a shop with open tables, will lend miniatures to anybody who asks.',
+          pickTitle: 'Which one to start with',
+          pick: 'To play tonight without spending much: Gundam Assemble, hex board, no tape measure, short games. To get the ramp-up of a strategy game back: StarCraft TMG, where the table starts empty. For the full hobby, with clubs everywhere and twenty years of material behind it: Warhammer 40,000. The three guides above are made to be read once on a train, then left open beside the board.',
+        },
       },
       gratuit: {
         title: 'Free Games',

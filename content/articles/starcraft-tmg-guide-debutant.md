@@ -67,11 +67,11 @@ Le tapis en tissu plutôt qu'un plateau en carton, à ce prix, ce n'est pas rien
 
 Ce qui manque, en revanche, se remarque tout de suite : il n'y a aucun livre de règles imprimé dans la boîte, ni livret d'initiation, ni une page de contexte. Juste une aide de jeu. Pour un univers que Blizzard a passé vingt-huit ans à écrire, ouvrir une boîte à 199 euros sans une ligne de lore, c'est une étrangeté. Le livre imprimé existe, mais il se vend à part, autour de dix euros.
 
-Depuis, Archon a sorti des boîtes de faction plus accessibles, autour de 99 euros pour les Terrans et 109 euros pour les Protoss, et la troisième vague de figurines est disponible. Si vous jouez déjà avec quelqu'un d'équipé, c'est par là qu'il faut entrer.
+Depuis, Archon a sorti des boîtes de faction plus accessibles, autour de 99 euros pour les Terrans et 109 euros pour les Protoss, et la troisième vague de figurines est disponible. Si vous jouez déjà avec quelqu'un d'équipé, c'est par là qu'il faut entrer. Et si 99 euros restent hors de portée, [Gundam Assemble](/articles/gundam-assemble-guide-debutant) ouvre sa porte à 40.
 
 ## Cinq habitudes à perdre si vous venez de Warhammer
 
-Elles reviennent toutes dans les premières parties, et elles viennent du même endroit : les réflexes d'un autre jeu.
+Elles reviennent toutes dans les premières parties, et elles viennent du même endroit : les réflexes pris sur [Warhammer 40,000](/articles/warhammer-40000-v11-guide-debutant), qui ne fonctionne pas du tout de la même façon.
 
 Tout faire entrer au round 1. Le ravitaillement ne le permet pas, et de toute façon ce serait perdre l'intérêt du système.
 

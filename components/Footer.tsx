@@ -3,18 +3,24 @@
 import Link from 'next/link'
 import { useLocale } from './LocaleProvider'
 
-const NAV_LINKS = [
-  { href: '/tests', label: 'Tests' },
-  { href: '/previews', label: 'Previews' },
-  { href: '/dossiers', label: 'Dossiers' },
-  { href: '/guides', label: 'Guides' },
-  { href: '/industrie', label: 'Industrie' },
-  { href: '/cinema', label: 'Cinéma' },
-]
+/**
+ * Les libellés viennent des traductions : en anglais, ce pied de page affichait
+ * des intitulés français. Et les chemins sont préfixés par la locale, sinon
+ * chaque page anglaise renvoyait vers les rubriques françaises, ce qui envoie
+ * les robots d'une langue à l'autre à chaque bas de page.
+ *
+ * `wargame` y manquait : la rubrique n'était liée que depuis l'en-tête.
+ */
+const NAV_KEYS = ['tests', 'previews', 'dossiers', 'guides', 'industrie', 'cinema', 'wargame'] as const
 
 export default function Footer() {
-  const { t } = useLocale()
+  const { t, locale } = useLocale()
   const f = t.footer
+  const prefix = locale === 'en' ? '/en' : ''
+  const navLinks = NAV_KEYS.map((key) => ({
+    href: `${prefix}/${key}`,
+    label: t.sections[key].title,
+  }))
 
   return (
     <footer className="mt-24 border-t border-line bg-bg-surface">
@@ -22,7 +28,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-12 md:grid-cols-3">
           {/* Brand */}
           <div>
-            <Link href="/" className="group flex items-center gap-0.5 no-underline">
+            <Link href={prefix || '/'} className="group flex items-center gap-0.5 no-underline">
               <span className="font-display text-xl font-black uppercase tracking-tight text-white">
                 INSERT
               </span>
@@ -42,7 +48,7 @@ export default function Footer() {
               {f.sections_title}
             </h3>
             <ul className="space-y-2">
-              {NAV_LINKS.map(({ href, label }) => (
+              {navLinks.map(({ href, label }) => (
                 <li key={href}>
                   <Link
                     href={href}
@@ -63,7 +69,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <Link
-                  href="/a-propos"
+                  href={`${prefix}/a-propos`}
                   className="text-ink-secondary transition-colors hover:text-brand"
                 >
                   {f.about}
@@ -71,7 +77,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/mentions-legales"
+                  href={`${prefix}/mentions-legales`}
                   className="text-ink-secondary transition-colors hover:text-brand"
                 >
                   {f.legal}

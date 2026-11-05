@@ -37,7 +37,7 @@ Résultat : à chaque activation, la vraie question n'est pas « est-ce que je t
 
 ## Pas de mètre ruban, et ça change l'ambiance
 
-Tout se compte en cases hexagonales. Adjacent veut dire case voisine, portée 2 veut dire deux cases, et le plateau a des niveaux de hauteur empilés en plateformes de carton. Personne ne se dispute sur un demi-pouce, personne ne rampe sous la table pour vérifier une ligne de vue. On montre les cases du doigt.
+Tout se compte en cases hexagonales. Adjacent veut dire case voisine, portée 2 veut dire deux cases, et le plateau a des niveaux de hauteur empilés en plateformes de carton. Personne ne se dispute sur un demi-pouce, personne ne rampe sous la table pour vérifier une ligne de vue. On montre les cases du doigt. Quand on vient de [Warhammer 40,000](/articles/warhammer-40000-v11-guide-debutant), où une soirée peut se bloquer vingt minutes sur un angle de vue, le gain de confort se sent dès la première partie.
 
 Les dés sont des D10, et la table de résultats tient en quatre lignes : 1 rate toujours, 2 et 3 ratent, 4 à 8 touchent, 9 et 10 sont des critiques. Chaque dé qui touche inflige un point de dégât, sans jet pour blesser ni sauvegarde derrière. La Précision modifie les dés du milieu, jamais les 1, les 9 et les 10.
 

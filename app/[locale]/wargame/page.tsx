@@ -3,6 +3,7 @@ import { enrichArticlesWithCovers } from '@/lib/igdb'
 import { getT, type Locale } from '@/lib/i18n'
 import ArticleCard from '@/components/ArticleCard'
 import Pagination from '@/components/Pagination'
+import JsonLd from '@/components/JsonLd'
 import type { Metadata } from 'next'
 import { SITE_URL, SITE_NAME } from '@/lib/config'
 
@@ -23,7 +24,10 @@ export async function generateMetadata({
   const base = locale === 'en' ? enBase : frBase
   const canonicalUrl = page === 1 ? base : `${base}?page=${page}`
   const sectionTitle = t.sections.wargame.title
-  const title = page === 1 ? sectionTitle : `${sectionTitle}, page ${page}`
+  // La balise title porte la requête générique de la rubrique, pas le seul mot
+  // "Wargame" : les articles sont positionnés sur le nom de leur jeu, et
+  // personne ne couvrait "wargame débutant" avant cette page.
+  const title = page === 1 ? t.sections.wargame.seoTitle : `${sectionTitle}, page ${page}`
   const description = t.sections.wargame.description
   return {
     // Les pages de liste au-delà de la première n'ont pas de valeur propre :
@@ -68,8 +72,49 @@ export default async function WargamePage({ params, searchParams }: Props) {
     currentPage * ARTICLES_PER_PAGE
   )
 
+  const prefix = locale === 'en' ? '/en' : ''
+  const hubUrl = `${SITE_URL}${prefix}/wargame`
+
+  // Une page de liste sans texte propre n'a rien à indexer : elle n'est qu'une
+  // grille de titres déjà présents ailleurs. Le balisage dit ce qu'elle
+  // regroupe, et le bloc éditorial plus bas lui donne un contenu à elle.
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: s.seoTitle,
+    description: s.description,
+    url: hubUrl,
+    inLanguage: locale === 'en' ? 'en-US' : 'fr-FR',
+    isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: SITE_URL },
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: allArticles.map((article, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: article.title,
+        url: `${SITE_URL}${prefix}/articles/${article.slug}`,
+      })),
+    },
+  }
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: locale === 'en' ? 'Home' : 'Accueil',
+        item: locale === 'en' ? `${SITE_URL}/en` : SITE_URL,
+      },
+      { '@type': 'ListItem', position: 2, name: s.title, item: hubUrl },
+    ],
+  }
+
   return (
     <div className="mx-auto max-w-7xl px-4 py-12 md:px-8">
+      <JsonLd data={collectionSchema} />
+      <JsonLd data={breadcrumbSchema} />
       <div className="mb-12 border-b border-line pb-8">
         <div className="flex items-center gap-4">
           <span className="block h-10 w-1.5 bg-brand" />
@@ -78,7 +123,7 @@ export default async function WargamePage({ params, searchParams }: Props) {
             <h1 className="font-display text-4xl font-black uppercase text-white md:text-5xl">{s.title}</h1>
           </div>
         </div>
-        <p className="mt-4 max-w-xl text-sm leading-relaxed text-ink-secondary">{s.description}</p>
+        <p className="mt-4 max-w-3xl text-base leading-relaxed text-ink-secondary">{s.lede}</p>
       </div>
 
       {articles.length === 0 ? (
@@ -92,6 +137,22 @@ export default async function WargamePage({ params, searchParams }: Props) {
           </div>
           <Pagination currentPage={currentPage} totalPages={totalPages} basePath="/wargame" />
         </>
+      )}
+
+      {/* Le texte de rubrique n'est servi que sur la première page : les pages
+          suivantes sont en noindex, le dupliquer n'apporterait rien. */}
+      {currentPage === 1 && (
+        <section className="mt-16 max-w-3xl border-t border-line pt-10">
+          <h2 className="font-display text-2xl font-black uppercase text-white md:text-3xl">
+            {s.start.title}
+          </h2>
+          <h3 className="mt-8 font-display text-lg font-bold text-white">{s.start.rulesTitle}</h3>
+          <p className="mt-2 text-base leading-relaxed text-ink-secondary">{s.start.rules}</p>
+          <h3 className="mt-6 font-display text-lg font-bold text-white">{s.start.budgetTitle}</h3>
+          <p className="mt-2 text-base leading-relaxed text-ink-secondary">{s.start.budget}</p>
+          <h3 className="mt-6 font-display text-lg font-bold text-white">{s.start.pickTitle}</h3>
+          <p className="mt-2 text-base leading-relaxed text-ink-secondary">{s.start.pick}</p>
+        </section>
       )}
     </div>
   )

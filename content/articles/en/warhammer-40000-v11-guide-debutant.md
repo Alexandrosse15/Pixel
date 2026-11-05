@@ -31,7 +31,7 @@ InsertCoins is opening a Wargame section.
 
 Not to fill a slot, but because a good share of the people who read strategy game reviews in the evening already have, somewhere in a cupboard, a box of miniatures they never assembled. The two audiences are the same audience, and there was no reason to keep them apart.
 
-We will cover rules, entry boxes, painting, and what it genuinely costs. It starts here, with the biggest thing on the shelf.
+We will cover rules, entry boxes, painting, and what it genuinely costs. It starts here, with the biggest thing on the shelf, and carries on with [Gundam Assemble](/en/articles/gundam-assemble-guide-debutant) and [StarCraft TMG](/en/articles/starcraft-tmg-guide-debutant), which get the same treatment and the same free PDF.
 
 ## The loop fits in one sentence
 

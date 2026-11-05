@@ -67,11 +67,11 @@ A fabric mat rather than a cardboard board, at this price, is not nothing. Neith
 
 What is missing, though, you notice straight away: there is no printed rulebook in the box, no tutorial booklet, not one page of setting. Just a rules reference. For a universe Blizzard spent twenty-eight years writing, opening a 199-euro box without a line of lore is a strange experience. The printed book exists, but it sells separately, at around ten euros.
 
-Archon has since released cheaper faction boxes, around 99 euros for the Terrans and 109 euros for the Protoss, and the third wave of miniatures is out. If you already play with somebody who is equipped, that is the door to use.
+Archon has since released cheaper faction boxes, around 99 euros for the Terrans and 109 euros for the Protoss, and the third wave of miniatures is out. If you already play with somebody who is equipped, that is the door to use. And if 99 euros is still out of reach, [Gundam Assemble](/en/articles/gundam-assemble-guide-debutant) opens its own at 40.
 
 ## Five habits to drop if you come from Warhammer
 
-They all turn up in the first few games, and they come from the same place: reflexes from another system.
+They all turn up in the first few games, and they come from the same place: reflexes picked up on [Warhammer 40,000](/en/articles/warhammer-40000-v11-guide-debutant), which does not work the same way at all.
 
 Bringing everything in on round 1. Supply will not allow it, and it would throw away the point of the design anyway.
 
