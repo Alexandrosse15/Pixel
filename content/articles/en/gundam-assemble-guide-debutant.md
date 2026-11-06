@@ -59,7 +59,7 @@ The opening walks through setup step by step, how to read a unit card, and the v
 
 Starter Set 01 came out on 31 October 2026, at around 40 euros depending on the shop, 35 dollars in the United States. Inside: six Mobile Suits roughly 5 cm tall (RX-78-2, Char's Zaku II, Wing Gundam Zero EW, Epyon, Barbatos Lupus Rex and Vidar), 18 Tactics cards, 6 unit cards, a board, a cardboard terrain set, tokens, D10s, a handbook and two quick reference sheets. Two introductory scenarios are included. The base format is 3 against 3.
 
-Deluxe Set 01, announced at around 120 euros for 9 November, goes up to thirteen miniatures and moves to 5 against 5 on a bigger board, replaying the battle of A Baoa Qu. The Expansion Packs, around 45 euros, are themed: one series or one unit type per box.
+Deluxe Set 01, announced for 27 November at around 108 euros, goes up to thirteen miniatures and moves to 5 against 5 across two boards, replaying the battle of A Baoa Qu. The Expansion Packs, around 40 euros, are themed: one series or one unit type per box. Every box, out now or coming, is covered in [our rundown of the new releases](/en/articles/gundam-assemble-nouvelles-sorties).
 
 And here is the thing nobody says loudly enough: these are model kits. They arrive on sprues, you build them, and you paint them if you want to. Bandai leans into the gunpla connection to the point of selling a Paint Pack. If you are coming from the video games and have never held a hobby knife, budget an evening before your first game. That is not a flaw, it is the deal. But it is worth knowing before you invite somebody over for the same night.
 

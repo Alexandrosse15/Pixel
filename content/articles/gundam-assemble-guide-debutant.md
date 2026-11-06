@@ -59,7 +59,7 @@ Le début déroule la mise en place pas à pas, la lecture d'une fiche d'unité 
 
 Le Starter Set 01 est sorti le 31 octobre 2026, autour de 40 euros selon les boutiques. Dedans : six Mobile Suits d'environ 5 centimètres (RX-78-2, le Zaku II de Char, Wing Gundam Zero EW, Epyon, Barbatos Lupus Rex et Vidar), 18 cartes Tactique, 6 cartes d'unité, un plateau, un décor en carton, les jetons, les D10, un livret et deux aides de jeu. Deux scénarios d'initiation sont inclus. Le format de base, c'est 3 contre 3.
 
-Le Deluxe Set 01, annoncé autour de 120 euros pour le 9 novembre, monte à treize figurines et passe en 5 contre 5 sur un plateau plus grand, avec la bataille d'A Baoa Qu en toile de fond. Les Expansion Packs, autour de 45 euros, sont thématiques : une série ou un type d'unité par boîte.
+Le Deluxe Set 01, annoncé pour le 27 novembre autour de 108 euros, monte à treize figurines et passe en 5 contre 5 sur deux plateaux, avec la bataille d'A Baoa Qu en toile de fond. Les Expansion Packs, autour de 40 euros, sont thématiques : une série ou un type d'unité par boîte. Le détail de chaque boîte, sortie ou à venir, est dans [notre point sur les nouvelles sorties](/articles/gundam-assemble-nouvelles-sorties).
 
 Et il y a le point que personne ne dit assez fort : ce sont des maquettes. Elles arrivent en grappes, vous les montez, et vous les peignez si vous voulez. Bandai assume le lien avec le gunpla jusqu'à vendre un Paint Pack. Si vous venez du jeu vidéo et que vous n'avez jamais tenu une pince de modéliste, comptez une soirée avant la première partie. Ce n'est pas un défaut, c'est le contrat. Mais autant le savoir avant d'inviter quelqu'un à jouer le soir même.
 
