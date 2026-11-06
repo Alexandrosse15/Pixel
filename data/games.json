@@ -9094,6 +9094,49 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "echoes-of-calir": {
+    "slug": "echoes-of-calir",
+    "name": "Echoes of Calir",
+    "steam": {
+      "appId": 5371290,
+      "steamName": "Echoes of Calir",
+      "confidence": "exact",
+      "developers": [
+        "GK Software"
+      ],
+      "publishers": [
+        "GK Software"
+      ],
+      "releaseRaw": "6 Nov, 2026",
+      "releaseDate": "2026-11-06",
+      "comingSoon": true,
+      "price": {
+        "isFree": true
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        2,
+        37
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
+    }
+  },
   "echoes-of-mystralia": {
     "slug": "echoes-of-mystralia",
     "name": "Echoes of Mystralia",
@@ -10940,6 +10983,52 @@
       "fetchedAt": "2026-09-15"
     }
   },
+  "fleets-of-valor": {
+    "slug": "fleets-of-valor",
+    "name": "Fleets of Valor",
+    "steam": {
+      "appId": 5222940,
+      "steamName": "Fleets of Valor",
+      "confidence": "exact",
+      "developers": [
+        "Frontmark Games LLC"
+      ],
+      "publishers": [
+        "Frontmark Games LLC"
+      ],
+      "releaseRaw": "6 Nov, 2026",
+      "releaseDate": "2026-11-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "17,49€",
+        "cents": 1749,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        80,
+        74,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
+    }
+  },
   "flow-of-war": {
     "slug": "flow-of-war",
     "name": "Flow Of War",
@@ -12022,6 +12111,59 @@
         "label": null
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "gear-up-einstein": {
+    "slug": "gear-up-einstein",
+    "name": "Gear Up Einstein!",
+    "steam": {
+      "appId": 2950410,
+      "steamName": "Gear Up Einstein!",
+      "confidence": "exact",
+      "developers": [
+        "No Deadlines"
+      ],
+      "publishers": [
+        "No Deadlines"
+      ],
+      "releaseRaw": "6 Nov, 2026",
+      "releaseDate": "2026-11-06",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        68,
+        76,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        77,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
     }
   },
   "gears-of-war-e-day": {
@@ -15465,6 +15607,59 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "it-s-about-pirates": {
+    "slug": "it-s-about-pirates",
+    "name": "It's About Pirates",
+    "steam": {
+      "appId": 4468540,
+      "steamName": "It's About Pirates",
+      "confidence": "exact",
+      "developers": [
+        "Elderwoof Games"
+      ],
+      "publishers": [
+        "Elderwoof Games"
+      ],
+      "releaseRaw": "6 Nov, 2026",
+      "releaseDate": "2026-11-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,75€",
+        "cents": 1175,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        82,
+        68,
+        60,
+        74,
+        55,
+        56,
+        57,
+        58,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
     }
   },
   "italian-pizza-simulator": {
@@ -21400,6 +21595,63 @@
       "fetchedAt": "2026-10-31"
     }
   },
+  "piano-glow": {
+    "slug": "piano-glow",
+    "name": "Piano Glow",
+    "steam": {
+      "appId": 3499520,
+      "steamName": "Piano Glow",
+      "confidence": "exact",
+      "developers": [
+        "TheAlanski"
+      ],
+      "publishers": [
+        "TheAlanski"
+      ],
+      "releaseRaw": "6 Nov, 2026",
+      "releaseDate": "2026-11-06",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,50€",
+        "cents": 2450,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        51,
+        52,
+        58
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        29,
+        30,
+        23,
+        15,
+        25,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
+    }
+  },
   "pix-football-manager": {
     "slug": "pix-football-manager",
     "name": "PIX Football Manager",
@@ -23565,6 +23817,50 @@
     "name": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
     "steam": null,
     "reason": "introuvable"
+  },
+  "saloon-simulator": {
+    "slug": "saloon-simulator",
+    "name": "Saloon Simulator",
+    "steam": {
+      "appId": 1876930,
+      "steamName": "Saloon Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Glivi Games S.A."
+      ],
+      "publishers": [
+        "RockGame S.A."
+      ],
+      "releaseRaw": "15 Jul, 2025",
+      "releaseDate": "2025-07-15",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "18,49€",
+        "cents": 1849,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-06"
+    }
   },
   "sand-raiders-of-sophie": {
     "slug": "sand-raiders-of-sophie",
