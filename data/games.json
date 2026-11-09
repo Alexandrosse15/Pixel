@@ -2002,6 +2002,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "ashes-of-the-singularity-ii": {
+    "slug": "ashes-of-the-singularity-ii",
+    "name": "Ashes of the Singularity II",
+    "steam": {
+      "appId": 3499790,
+      "steamName": "Ashes of the Singularity II",
+      "confidence": "exact",
+      "developers": [
+        "Oxide Games"
+      ],
+      "publishers": [
+        "Stardock Entertainment"
+      ],
+      "releaseRaw": "10 Nov, 2026",
+      "releaseDate": "2026-11-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        64,
+        68,
+        78,
+        74,
+        79,
+        69,
+        70,
+        18,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "assassin-s-creed-black-flag": {
     "slug": "assassin-s-creed-black-flag",
     "name": "Assassin's Creed Black Flag",
@@ -2166,6 +2218,43 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "australia-did-it-end-of-the-world-railway-defense-business": {
+    "slug": "australia-did-it-end-of-the-world-railway-defense-business",
+    "name": "Australia Did It: End-of-the-World Railway Defense Business",
+    "steam": {
+      "appId": 2396130,
+      "steamName": "Australia Did It: End-of-the-World Railway Defense Business",
+      "confidence": "exact",
+      "developers": [
+        "Rami Ismail",
+        "Aesthetician Labs"
+      ],
+      "publishers": [
+        "Mystic Forge"
+      ],
+      "releaseRaw": "10 Nov, 2026",
+      "releaseDate": "2026-11-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        2
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
     }
   },
   "auto-dungeon": {
@@ -3897,6 +3986,54 @@
         "label": null
       },
       "fetchedAt": "2026-08-26"
+    }
+  },
+  "boxroom": {
+    "slug": "boxroom",
+    "name": "BOXROOM",
+    "steam": {
+      "appId": 4335460,
+      "steamName": "BOXROOM",
+      "confidence": "exact",
+      "developers": [
+        "Nested Loop Studios"
+      ],
+      "publishers": [
+        "Pantaloon"
+      ],
+      "releaseRaw": "11 Jun, 2026",
+      "releaseDate": "2026-06-11",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,99€",
+        "cents": 799,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        30,
+        55,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
     }
   },
   "brave-new-wonders": {
@@ -8308,6 +8445,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dreadmoor": {
+    "slug": "dreadmoor",
+    "name": "DREADMOOR",
+    "steam": {
+      "appId": 3629430,
+      "steamName": "DREADMOOR",
+      "confidence": "exact",
+      "developers": [
+        "Dream Dock"
+      ],
+      "publishers": [
+        "Digital Vortex Entertainment"
+      ],
+      "releaseRaw": "9 Nov, 2026",
+      "releaseDate": "2026-11-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "20,49€",
+        "cents": 2049,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "dressmaker": {
     "slug": "dressmaker",
     "name": "Dressmaker",
@@ -11294,6 +11486,65 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-25"
+    }
+  },
+  "football-manager-27": {
+    "slug": "football-manager-27",
+    "name": "Football Manager 27",
+    "steam": {
+      "appId": 4530370,
+      "steamName": "Football Manager 27",
+      "confidence": "exact",
+      "developers": [
+        "Sports Interactive"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "releaseRaw": "10 Nov, 2026",
+      "releaseDate": "2026-11-10",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "59,99€",
+        "cents": 5999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        18,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        27,
+        22,
+        28,
+        29,
+        64,
+        68,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
     }
   },
   "forsaken-realms-vahrin-s-call": {
@@ -16454,6 +16705,52 @@
       "fetchedAt": "2026-10-13"
     }
   },
+  "legion-du-hasard-slotbound": {
+    "slug": "legion-du-hasard-slotbound",
+    "name": "Légion du hasard - Slotbound",
+    "steam": {
+      "appId": 4459590,
+      "steamName": "Slotbound",
+      "confidence": "manuel",
+      "developers": [
+        "Optima Arch"
+      ],
+      "publishers": [
+        "Optima Arch"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        28,
+        68,
+        78,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "lego-batman-legacy-of-the-dark-knight": {
     "slug": "lego-batman-legacy-of-the-dark-knight",
     "name": "LEGO Batman: Legacy of the Dark Knight",
@@ -20093,6 +20390,61 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "oboro-no-ichi": {
+    "slug": "oboro-no-ichi",
+    "name": "Oboro no Ichi",
+    "steam": {
+      "appId": 4559930,
+      "steamName": "Oboro no Ichi",
+      "confidence": "exact",
+      "developers": [
+        "TheLaba"
+      ],
+      "publishers": [
+        "TheLaba"
+      ],
+      "releaseRaw": "9 Nov, 2026",
+      "releaseDate": "2026-11-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "12,49€",
+        "cents": 1249,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        64,
+        67,
+        66,
+        68,
+        78,
+        76,
+        80,
+        74,
+        79,
+        69,
+        65,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "ocean-survivors": {
     "slug": "ocean-survivors",
     "name": "Ocean Survivors",
@@ -22303,6 +22655,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "project-tomorrow": {
+    "slug": "project-tomorrow",
+    "name": "Project Tomorrow",
+    "steam": {
+      "appId": 4402200,
+      "steamName": "Project Tomorrow",
+      "confidence": "exact",
+      "developers": [
+        "Advance Nine"
+      ],
+      "publishers": [
+        "Advance Nine"
+      ],
+      "releaseRaw": "9 Nov, 2026",
+      "releaseDate": "2026-11-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,79€",
+        "cents": 679,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        78,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "quarantine-zombies-prologue": {
     "slug": "quarantine-zombies-prologue",
     "name": "Quarantine Zombies - Prologue",
@@ -23862,6 +24266,51 @@
       "fetchedAt": "2026-11-06"
     }
   },
+  "salt-and-soil-a-frontier-family-sim": {
+    "slug": "salt-and-soil-a-frontier-family-sim",
+    "name": "Salt and Soil: A Frontier Family Sim",
+    "steam": {
+      "appId": 4551060,
+      "steamName": "Salt and Soil: A Frontier Family Sim",
+      "confidence": "exact",
+      "developers": [
+        "DelosX"
+      ],
+      "publishers": [
+        "DelosX"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        3,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        76,
+        80,
+        74,
+        79,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
+  },
   "sand-raiders-of-sophie": {
     "slug": "sand-raiders-of-sophie",
     "name": "SAND: Raiders of Sophie",
@@ -25104,6 +25553,58 @@
         }
       },
       "fetchedAt": "2026-09-15"
+    }
+  },
+  "signs-of-life": {
+    "slug": "signs-of-life",
+    "name": "Signs of Life",
+    "steam": {
+      "appId": 263200,
+      "steamName": "Signs of Life",
+      "confidence": "exact",
+      "developers": [
+        "Sweet Dog Studios"
+      ],
+      "publishers": [
+        "Sweet Dog Studios"
+      ],
+      "releaseRaw": "9 Nov, 2026",
+      "releaseDate": "2026-11-09",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "15,49€",
+        "cents": 1549,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        29,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
     }
   },
   "silent-breath": {
@@ -27499,6 +28000,63 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "stormforge": {
+    "slug": "stormforge",
+    "name": "Stormforge",
+    "steam": {
+      "appId": 2826790,
+      "steamName": "Stormforge",
+      "confidence": "exact",
+      "developers": [
+        "Roboto Games"
+      ],
+      "publishers": [
+        "Roboto Games"
+      ],
+      "releaseRaw": "10 Nov, 2026",
+      "releaseDate": "2026-11-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23,
+        3,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        30,
+        67,
+        82,
+        68,
+        78,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        18,
+        17,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
     }
   },
   "strikers-club": {
@@ -32543,6 +33101,57 @@
     "name": "Warhammer 40000 Mechanicus 2",
     "steam": null,
     "reason": "introuvable"
+  },
+  "warhammer-survivors": {
+    "slug": "warhammer-survivors",
+    "name": "Warhammer Survivors",
+    "steam": {
+      "appId": 3669620,
+      "steamName": "Warhammer Survivors",
+      "confidence": "exact",
+      "developers": [
+        "Auroch Digital"
+      ],
+      "publishers": [
+        "Auroch Digital"
+      ],
+      "releaseRaw": "10 Nov, 2026",
+      "releaseDate": "2026-11-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        75,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-09"
+    }
   },
   "warhounds": {
     "slug": "warhounds",
