@@ -158,6 +158,71 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "9-kings": {
+    "slug": "9-kings",
+    "name": "9 Kings",
+    "steam": {
+      "appId": 2784470,
+      "steamName": "9 Kings",
+      "confidence": "exact",
+      "developers": [
+        "Sad Socket"
+      ],
+      "publishers": [
+        "Hooded Horse",
+        "Sidekick Publishing"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,99€",
+        "cents": 1999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        27,
+        22,
+        28,
+        29,
+        67,
+        68,
+        78,
+        75,
+        76,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        59,
+        65,
+        77,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "a-little-age": {
     "slug": "a-little-age",
     "name": "A Little Age",
@@ -1410,6 +1475,65 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "ancient-wars-sparta-hd": {
+    "slug": "ancient-wars-sparta-hd",
+    "name": "Ancient Wars: Sparta HD",
+    "steam": {
+      "appId": 2953940,
+      "steamName": "Ancient Wars: Sparta HD",
+      "confidence": "exact",
+      "developers": [
+        "JOTASOFT STUDIOS"
+      ],
+      "publishers": [
+        "JOTASOFT STUDIOS"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        51,
+        30,
+        68,
+        78,
+        76,
+        79,
+        15,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "angels-fall-first": {
     "slug": "angels-fall-first",
     "name": "Angels Fall First",
@@ -2371,6 +2495,47 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "aviassembly": {
+    "slug": "aviassembly",
+    "name": "Aviassembly",
+    "steam": {
+      "appId": 2660460,
+      "steamName": "Aviassembly",
+      "confidence": "exact",
+      "developers": [
+        "Jelle Booij"
+      ],
+      "publishers": [
+        "Jelle Booij"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,75€",
+        "cents": 975,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "backrooms-code-yellow": {
     "slug": "backrooms-code-yellow",
     "name": "Backrooms: Code Yellow",
@@ -2477,6 +2642,74 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "backseat-champions": {
+    "slug": "backseat-champions",
+    "name": "Backseat Champions",
+    "steam": {
+      "appId": 2174510,
+      "steamName": "Backseat Champions",
+      "confidence": "exact",
+      "developers": [
+        "f13rce"
+      ],
+      "publishers": [
+        "f13rce"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        9,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        9,
+        38,
+        39,
+        24,
+        22,
+        28,
+        30,
+        64,
+        67,
+        68,
+        78,
+        75,
+        76,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        23,
+        15,
+        25,
+        17,
+        44,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "backyard-baseball": {
@@ -7501,6 +7734,51 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dice-hoarder": {
+    "slug": "dice-hoarder",
+    "name": "Dice Hoarder",
+    "steam": {
+      "appId": 3687090,
+      "steamName": "Dice Hoarder",
+      "confidence": "exact",
+      "developers": [
+        "DieCorp Games"
+      ],
+      "publishers": [
+        "DieCorp Games"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        66,
+        68,
+        80,
+        74,
+        79,
+        69,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "dig": {
     "slug": "dig",
     "name": "DIG",
@@ -8443,6 +8721,46 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "drawquarium": {
+    "slug": "drawquarium",
+    "name": "Drawquarium",
+    "steam": {
+      "appId": 4045480,
+      "steamName": "Drawquarium",
+      "confidence": "exact",
+      "developers": [
+        "byKaleb"
+      ],
+      "publishers": [
+        "rokaplay"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        67,
+        76,
+        74,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "dreadmoor": {
@@ -10002,6 +10320,71 @@
       "fetchedAt": "2026-10-01"
     }
   },
+  "engagement": {
+    "slug": "engagement",
+    "name": "Engagement",
+    "steam": {
+      "appId": 5195200,
+      "steamName": "Engagement",
+      "confidence": "exact",
+      "developers": [
+        "Trevor Parker"
+      ],
+      "publishers": [
+        "Trevor Games"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,69€",
+        "cents": 869,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        48,
+        39,
+        24,
+        22,
+        28,
+        67,
+        68,
+        78,
+        76,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        23,
+        25,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "enginefall": {
     "slug": "enginefall",
     "name": "Enginefall",
@@ -10596,6 +10979,58 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "fat-goblins": {
+    "slug": "fat-goblins",
+    "name": "Fat Goblins",
+    "steam": {
+      "appId": 2450350,
+      "steamName": "Fat Goblins",
+      "confidence": "exact",
+      "developers": [
+        "Koda Games, LLC"
+      ],
+      "publishers": [
+        "Koda Games, LLC"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,79€",
+        "cents": 1479,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        18,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "fd-27-direct-your-football-club": {
@@ -13282,6 +13717,45 @@
       "fetchedAt": "2026-09-23"
     }
   },
+  "green-again": {
+    "slug": "green-again",
+    "name": "Green Again",
+    "steam": {
+      "appId": 2718320,
+      "steamName": "Green Again",
+      "confidence": "exact",
+      "developers": [
+        "mattsnippets"
+      ],
+      "publishers": [
+        "Slug Disco"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "gridlords": {
     "slug": "gridlords",
     "name": "Gridlords",
@@ -15631,6 +16105,49 @@
       "fetchedAt": "2026-09-19"
     }
   },
+  "iron-frontier": {
+    "slug": "iron-frontier",
+    "name": "Iron Frontier",
+    "steam": {
+      "appId": 2131290,
+      "steamName": "Iron Frontier",
+      "confidence": "exact",
+      "developers": [
+        "Bibamus"
+      ],
+      "publishers": [
+        "Polden Publishing"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        67,
+        68,
+        78,
+        76,
+        80,
+        74,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "iron-nest-heavy-turret-simulator": {
     "slug": "iron-nest-heavy-turret-simulator",
     "name": "IRON NEST: Heavy Turret Simulator",
@@ -16254,6 +16771,50 @@
     "name": "KOTAMON",
     "steam": null,
     "reason": "introuvable"
+  },
+  "la-muraille-1806": {
+    "slug": "la-muraille-1806",
+    "name": "La Muraille 1806",
+    "steam": {
+      "appId": 5378030,
+      "steamName": "La Muraille 1806",
+      "confidence": "exact",
+      "developers": [
+        "Tea & Cake Games"
+      ],
+      "publishers": [
+        "Tea & Cake Games"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,69€",
+        "cents": 969,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
   },
   "land-of-glarefall": {
     "slug": "land-of-glarefall",
@@ -17721,6 +18282,98 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "main-sequence": {
+    "slug": "main-sequence",
+    "name": "Main Sequence",
+    "steam": {
+      "appId": 2487190,
+      "steamName": "Main Sequence",
+      "confidence": "exact",
+      "developers": [
+        "Tumbling Dumpling Studio"
+      ],
+      "publishers": [
+        "Mythwright"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        68,
+        80,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
+  "malignus": {
+    "slug": "malignus",
+    "name": "Malignus",
+    "steam": {
+      "appId": 4672030,
+      "steamName": "Malignus",
+      "confidence": "exact",
+      "developers": [
+        "Mossbomb"
+      ],
+      "publishers": [
+        "Mossbomb"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "mall-together": {
     "slug": "mall-together",
     "name": "Mall Together",
@@ -17963,6 +18616,66 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "mask-splitters": {
+    "slug": "mask-splitters",
+    "name": "Mask Splitters",
+    "steam": {
+      "appId": 5226580,
+      "steamName": "Mask Splitters",
+      "confidence": "exact",
+      "developers": [
+        "Xavier Blanchette",
+        "Phoebe Tetreault",
+        "Ilan Verbeke",
+        "Ryan Moussa",
+        "Joshua Jourdain",
+        "Tristan Lévèque",
+        "Oscar Pena Botero",
+        "Maude Hébert-Adam"
+      ],
+      "publishers": [
+        "BadRez Games"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "2,89€",
+        "cents": 289,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        37,
+        24,
+        22,
+        67,
+        68,
+        78,
+        60,
+        75,
+        74,
+        18,
+        44,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "master-healer-kale-with-useless-party": {
@@ -20775,6 +21488,62 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "one-more-lawn": {
+    "slug": "one-more-lawn",
+    "name": "One More Lawn",
+    "steam": {
+      "appId": 5378110,
+      "steamName": "One More Lawn",
+      "confidence": "exact",
+      "developers": [
+        "Superdou"
+      ],
+      "publishers": [
+        "Superdou"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,79€",
+        "cents": 679,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        80,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "one-piece-grand-gourmet": {
@@ -24963,6 +25732,48 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "setter-volleyball-manager-27": {
+    "slug": "setter-volleyball-manager-27",
+    "name": "Setter: Volleyball Manager 27",
+    "steam": {
+      "appId": 4908560,
+      "steamName": "Setter: Volleyball Manager 27",
+      "confidence": "exact",
+      "developers": [
+        "Setter"
+      ],
+      "publishers": [
+        "Setter"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        18,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        80,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "settler-s-domain": {
     "slug": "settler-s-domain",
     "name": "Settler's Domain",
@@ -25955,6 +26766,64 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "ski-e-o-ski-resort-tycoon": {
+    "slug": "ski-e-o-ski-resort-tycoon",
+    "name": "Ski-E-O! Ski Resort Tycoon",
+    "steam": {
+      "appId": 4493130,
+      "steamName": "Ski-E-O! Ski Resort Tycoon",
+      "confidence": "exact",
+      "developers": [
+        "Falling Damage Games"
+      ],
+      "publishers": [
+        "Falling Damage Games"
+      ],
+      "releaseRaw": "12 Nov, 2026",
+      "releaseDate": "2026-11-12",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,49€",
+        "cents": 1949,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        67,
+        66,
+        82,
+        68,
+        78,
+        75,
+        76,
+        80,
+        74,
+        79,
+        69,
+        23,
+        15,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "skills-raids": {
     "slug": "skills-raids",
     "name": "Skills & Raids",
@@ -26116,6 +26985,50 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "sloppy-forgeries": {
+    "slug": "sloppy-forgeries",
+    "name": "Sloppy Forgeries",
+    "steam": {
+      "appId": 3030560,
+      "steamName": "Sloppy Forgeries",
+      "confidence": "exact",
+      "developers": [
+        "Playful Systems LLC"
+      ],
+      "publishers": [
+        "Playful Systems LLC",
+        "ENJOYN GAMES"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        37,
+        24,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "snekromancy": {
@@ -33354,6 +34267,45 @@
       "fetchedAt": "2026-10-19"
     }
   },
+  "water-td": {
+    "slug": "water-td",
+    "name": "Water TD",
+    "steam": {
+      "appId": 5295330,
+      "steamName": "Water TD",
+      "confidence": "exact",
+      "developers": [
+        "Managagrau"
+      ],
+      "publishers": [
+        "Managagrau"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
+    }
+  },
   "waterpark-simulator": {
     "slug": "waterpark-simulator",
     "name": "Waterpark Simulator",
@@ -33582,6 +34534,43 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "we-march-as-one": {
+    "slug": "we-march-as-one",
+    "name": "We March as One",
+    "steam": {
+      "appId": 5189160,
+      "steamName": "We March as One",
+      "confidence": "exact",
+      "developers": [
+        "dux"
+      ],
+      "publishers": [
+        "dux"
+      ],
+      "releaseRaw": "13 Nov, 2026",
+      "releaseDate": "2026-11-13",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-13"
     }
   },
   "we-were-here-tomorrow": {
