@@ -7482,6 +7482,54 @@
       "fetchedAt": "2026-09-21"
     }
   },
+  "demockracy": {
+    "slug": "demockracy",
+    "name": "Demockracy",
+    "steam": {
+      "appId": 4957380,
+      "steamName": "Demockracy",
+      "confidence": "exact",
+      "developers": [
+        "SKLC Games"
+      ],
+      "publishers": [
+        "SKLC Games"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,09€",
+        "cents": 609,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        67,
+        80,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "deskrawl-idle-arpg": {
     "slug": "deskrawl-idle-arpg",
     "name": "Deskrawl: Idle ARPG",
@@ -9101,6 +9149,67 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-09-04"
+    }
+  },
+  "dungeonbound": {
+    "slug": "dungeonbound",
+    "name": "Dungeonbound",
+    "steam": {
+      "appId": 5200620,
+      "steamName": "Dungeonbound",
+      "confidence": "exact",
+      "developers": [
+        "louidev"
+      ],
+      "publishers": [
+        "louidev"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,49€",
+        "cents": 1149,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23,
+        3,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        67,
+        68,
+        75,
+        76,
+        80,
+        74,
+        79,
+        23,
+        15,
+        25,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
     }
   },
   "duo-quest": {
@@ -14900,6 +15009,50 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "here-comes-the-horde": {
+    "slug": "here-comes-the-horde",
+    "name": "Here Comes the Horde",
+    "steam": {
+      "appId": 5066010,
+      "steamName": "Here Comes the Horde",
+      "confidence": "exact",
+      "developers": [
+        "Polished Games"
+      ],
+      "publishers": [
+        "Polished Games"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "6,99€",
+        "cents": 699,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        3
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "heritage": {
     "slug": "heritage",
     "name": "Heritage",
@@ -17559,6 +17712,52 @@
     "name": "Little Boy : Small Steps, Big Changes",
     "steam": null,
     "reason": "introuvable"
+  },
+  "littlelands": {
+    "slug": "littlelands",
+    "name": "Littlelands",
+    "steam": {
+      "appId": 2083660,
+      "steamName": "Littlelands",
+      "confidence": "exact",
+      "developers": [
+        "Rafael Martín",
+        "Kyle Creamer"
+      ],
+      "publishers": [
+        "Apogee Entertainment"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "19,49€",
+        "cents": 1949,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        70
+      ],
+      "featureIds": [
+        2,
+        28,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
   },
   "loftia": {
     "slug": "loftia",
@@ -22122,6 +22321,51 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "padel-manager-27": {
+    "slug": "padel-manager-27",
+    "name": "Padel Manager 27",
+    "steam": {
+      "appId": 5369160,
+      "steamName": "Padel Manager 27",
+      "confidence": "exact",
+      "developers": [
+        "Sácame de Pobre Games"
+      ],
+      "publishers": [
+        "Sácame de Pobre Games"
+      ],
+      "releaseRaw": "Q4 2026",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        18,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        37,
+        9,
+        39,
+        24,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "panzer-deck": {
     "slug": "panzer-deck",
     "name": "Panzer Deck",
@@ -24445,6 +24689,49 @@
         }
       },
       "fetchedAt": "2026-08-27"
+    }
+  },
+  "ridiculous-space-battles": {
+    "slug": "ridiculous-space-battles",
+    "name": "Ridiculous Space Battles",
+    "steam": {
+      "appId": 3607230,
+      "steamName": "Ridiculous Space Battles",
+      "confidence": "exact",
+      "developers": [
+        "Positech Games"
+      ],
+      "publishers": [
+        "Positech Games"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,49€",
+        "cents": 2449,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
     }
   },
   "rift-wizard-3": {
@@ -27864,6 +28151,61 @@
     "steam": null,
     "reason": "introuvable"
   },
+  "spirit-crossing": {
+    "slug": "spirit-crossing",
+    "name": "Spirit Crossing",
+    "steam": {
+      "appId": 2321960,
+      "steamName": "Spirit Crossing",
+      "confidence": "exact",
+      "developers": [
+        "Spry Fox"
+      ],
+      "publishers": [
+        "Spry Fox"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        29,
+        3,
+        28
+      ],
+      "featureIds": [
+        1,
+        20,
+        9,
+        38,
+        27,
+        35,
+        67,
+        68,
+        78,
+        74,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "spiritstead": {
     "slug": "spiritstead",
     "name": "Spiritstead",
@@ -30079,6 +30421,52 @@
       "fetchedAt": "2026-09-16"
     }
   },
+  "tcg-multiplayer-card-shop-simulator": {
+    "slug": "tcg-multiplayer-card-shop-simulator",
+    "name": "TCG Multiplayer Card Shop Simulator",
+    "steam": {
+      "appId": 3354260,
+      "steamName": "TCG Multiplayer Card Shop Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Alkame Games"
+      ],
+      "publishers": [
+        "Alkame Games"
+      ],
+      "releaseRaw": "18 Jun, 2025",
+      "releaseDate": "2025-06-18",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,79€",
+        "cents": 779,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "tears-of-metal": {
     "slug": "tears-of-metal",
     "name": "Tears of Metal",
@@ -31654,6 +32042,58 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "the-tower-must-fall": {
+    "slug": "the-tower-must-fall",
+    "name": "The Tower Must Fall",
+    "steam": {
+      "appId": 4483900,
+      "steamName": "The Tower Must Fall",
+      "confidence": "exact",
+      "developers": [
+        "Tidepool Games"
+      ],
+      "publishers": [
+        "Caketown Interactive"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,99€",
+        "cents": 999,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        76,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "the-undercut-racing-manager": {
     "slug": "the-undercut-racing-manager",
     "name": "The Undercut: Racing Manager",
@@ -32525,6 +32965,49 @@
       "fetchedAt": "2026-10-07"
     }
   },
+  "trafficity": {
+    "slug": "trafficity",
+    "name": "Trafficity",
+    "steam": {
+      "appId": 5185750,
+      "steamName": "Trafficity",
+      "confidence": "exact",
+      "developers": [
+        "Onramp Games"
+      ],
+      "publishers": [
+        "Onramp Games"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "14,49€",
+        "cents": 1449,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
+    }
+  },
   "trail-error": {
     "slug": "trail-error",
     "name": "Trail & Error",
@@ -32687,6 +33170,56 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "trees-hate-you": {
+    "slug": "trees-hate-you",
+    "name": "Trees Hate You",
+    "steam": {
+      "appId": 4171850,
+      "steamName": "Trees Hate You",
+      "confidence": "exact",
+      "developers": [
+        "Tykenn"
+      ],
+      "publishers": [
+        "Tykenn"
+      ],
+      "releaseRaw": "16 Nov, 2026",
+      "releaseDate": "2026-11-16",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "7,79€",
+        "cents": 779,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        68,
+        75,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
     }
   },
   "truckful": {
@@ -35246,6 +35779,49 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "wizdom-academy": {
+    "slug": "wizdom-academy",
+    "name": "Wizdom Academy",
+    "steam": {
+      "appId": 2668000,
+      "steamName": "Wizdom Academy",
+      "confidence": "exact",
+      "developers": [
+        "Kipwak Studio",
+        "Lake On Fire"
+      ],
+      "publishers": [
+        "Kipwak Studio"
+      ],
+      "releaseRaw": "17 Apr, 2025",
+      "releaseDate": "2025-04-17",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "21,99€",
+        "cents": 2199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-16"
     }
   },
   "woman-simulator": {
