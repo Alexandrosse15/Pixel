@@ -57,6 +57,50 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "10-million-pixels": {
+    "slug": "10-million-pixels",
+    "name": "10 Million Pixels",
+    "steam": {
+      "appId": 4738100,
+      "steamName": "10 Million Pixels",
+      "confidence": "exact",
+      "developers": [
+        "BATTLE LAB"
+      ],
+      "publishers": [
+        "BATTLE LAB"
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        68,
+        76,
+        80,
+        74,
+        79,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "1666-amsterdam": {
     "slug": "1666-amsterdam",
     "name": "1666: Amsterdam",
@@ -1774,6 +1818,46 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "appulse": {
+    "slug": "appulse",
+    "name": "Appulse",
+    "steam": {
+      "appId": 3498700,
+      "steamName": "Appulse",
+      "confidence": "exact",
+      "developers": [
+        "Le Rado"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "aquapark-tycoon": {
     "slug": "aquapark-tycoon",
     "name": "Aquapark Tycoon",
@@ -2010,6 +2094,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "arctic-drive": {
+    "slug": "arctic-drive",
+    "name": "Arctic Drive",
+    "steam": {
+      "appId": 4009490,
+      "steamName": "Arctic Drive",
+      "confidence": "exact",
+      "developers": [
+        "Pebbles Games",
+        "PlayTogether Studio"
+      ],
+      "publishers": [
+        "Bonus Stage Publishing"
+      ],
+      "releaseRaw": "25 Nov, 2026",
+      "releaseDate": "2026-11-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        9,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        79,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "ariokan": {
@@ -4673,6 +4803,50 @@
       "fetchedAt": "2026-09-08"
     }
   },
+  "business-simulator": {
+    "slug": "business-simulator",
+    "name": "Business Simulator",
+    "steam": {
+      "appId": 3098060,
+      "steamName": "Business Simulator",
+      "confidence": "manuel",
+      "developers": [
+        "HOGO Games"
+      ],
+      "publishers": [
+        "HOGO Games"
+      ],
+      "releaseRaw": "10 Nov, 2025",
+      "releaseDate": "2025-11-10",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "11,99€",
+        "cents": 1199,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "call-of-duty-modern-warfare-4": {
     "slug": "call-of-duty-modern-warfare-4",
     "name": "Call of Duty®: Modern Warfare® 4",
@@ -5372,6 +5546,49 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "chop-loop": {
+    "slug": "chop-loop",
+    "name": "Chop Loop",
+    "steam": {
+      "appId": 4829310,
+      "steamName": "Chop Loop",
+      "confidence": "exact",
+      "developers": [
+        "Lebleby Games"
+      ],
+      "publishers": [
+        "Lebleby Games",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "16 Dec, 2026",
+      "releaseDate": "2026-12-16",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        68,
+        76,
+        74,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "chrono-ccg": {
@@ -11511,6 +11728,54 @@
       "fetchedAt": "2026-10-19"
     }
   },
+  "fire-crew-simulator": {
+    "slug": "fire-crew-simulator",
+    "name": "Fire Crew Simulator",
+    "steam": {
+      "appId": 4012160,
+      "steamName": "Fire Crew Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Dinomore Games"
+      ],
+      "publishers": [
+        "Dinomore Games"
+      ],
+      "releaseRaw": "10 Dec, 2026",
+      "releaseDate": "2026-12-10",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        48,
+        22,
+        28,
+        30,
+        60,
+        55,
+        57,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "fire-state": {
     "slug": "fire-state",
     "name": "Fire State",
@@ -15162,6 +15427,50 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "heya-sumo-manager": {
+    "slug": "heya-sumo-manager",
+    "name": "Heya! Sumo Manager",
+    "steam": {
+      "appId": 4885580,
+      "steamName": "Heya! Sumo Manager",
+      "confidence": "exact",
+      "developers": [
+        "Houseman Games"
+      ],
+      "publishers": [
+        "Houseman Games"
+      ],
+      "releaseRaw": "22 Nov, 2026",
+      "releaseDate": "2026-11-22",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        28,
+        18,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        66,
+        80,
+        74,
+        79,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "hillforts": {
     "slug": "hillforts",
     "name": "Hillforts",
@@ -16258,6 +16567,42 @@
       "fetchedAt": "2026-09-19"
     }
   },
+  "iron-dawn": {
+    "slug": "iron-dawn",
+    "name": "Iron Dawn",
+    "steam": {
+      "appId": 2765070,
+      "steamName": "Iron Dawn",
+      "confidence": "exact",
+      "developers": [
+        "Polylab Studio"
+      ],
+      "publishers": [
+        "Polylab Studio"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1
+      ],
+      "featureIds": [
+        2,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "iron-frontier": {
     "slug": "iron-frontier",
     "name": "Iron Frontier",
@@ -16747,6 +17092,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "jurassic-architect": {
+    "slug": "jurassic-architect",
+    "name": "Jurassic Architect",
+    "steam": {
+      "appId": 1737370,
+      "steamName": "Jurassic Architect",
+      "confidence": "exact",
+      "developers": [
+        "MadOctopus"
+      ],
+      "publishers": [
+        "MadOctopus"
+      ],
+      "releaseRaw": "24 Nov, 2026",
+      "releaseDate": "2026-11-24",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        64,
+        68,
+        78,
+        75,
+        79,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "kill-the-shadow": {
@@ -21093,6 +21484,52 @@
       "fetchedAt": "2026-10-01"
     }
   },
+  "no-body-no-problem": {
+    "slug": "no-body-no-problem",
+    "name": "No Body No Problem!",
+    "steam": {
+      "appId": 4954970,
+      "steamName": "No Body No Problem!",
+      "confidence": "exact",
+      "developers": [
+        "Crime Cleanup Co."
+      ],
+      "publishers": [
+        " Red Axe Games"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        4,
+        23
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        9,
+        38,
+        55,
+        56,
+        57,
+        58,
+        18,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "noctiria": {
     "slug": "noctiria",
     "name": "Noctiria",
@@ -21955,6 +22392,48 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-09-17"
+    }
+  },
+  "operatives-revolve": {
+    "slug": "operatives-revolve",
+    "name": "OPERATIVES: Revolve",
+    "steam": {
+      "appId": 3004810,
+      "steamName": "OPERATIVES: Revolve",
+      "confidence": "exact",
+      "developers": [
+        "Enigma Equation"
+      ],
+      "publishers": [
+        "Enigma Equation"
+      ],
+      "releaseRaw": "January 2027",
+      "releaseDate": "2027-01",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "orc-incremental": {
@@ -24475,6 +24954,53 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "reshine": {
+    "slug": "reshine",
+    "name": "Reshine",
+    "steam": {
+      "appId": 4253570,
+      "steamName": "Reshine",
+      "confidence": "exact",
+      "developers": [
+        "Quite OK Games"
+      ],
+      "publishers": [
+        "Quite OK Games"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        28,
+        64,
+        67,
+        68,
+        76,
+        80,
+        74,
+        69,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "resonance-a-plague-tale-legacy": {
     "slug": "resonance-a-plague-tale-legacy",
     "name": "Resonance: A Plague Tale Legacy",
@@ -26221,6 +26747,54 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "shark-mart": {
+    "slug": "shark-mart",
+    "name": "Shark Mart",
+    "steam": {
+      "appId": 4704000,
+      "steamName": "Shark Mart",
+      "confidence": "exact",
+      "developers": [
+        "stre1itzia",
+        "Andryash"
+      ],
+      "publishers": [
+        "Polden Publishing"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        55,
+        56,
+        57,
+        58,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "shift-at-midnight": {
     "slug": "shift-at-midnight",
     "name": "Shift at Midnight",
@@ -27316,6 +27890,58 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-11-13"
+    }
+  },
+  "snackrifice": {
+    "slug": "snackrifice",
+    "name": "Snackrifice",
+    "steam": {
+      "appId": 4382960,
+      "steamName": "Snackrifice",
+      "confidence": "exact",
+      "developers": [
+        "Karnage Studios"
+      ],
+      "publishers": [
+        "Karnage Studios"
+      ],
+      "releaseRaw": "25 Nov, 2026",
+      "releaseDate": "2026-11-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        28,
+        67,
+        68,
+        80,
+        74,
+        79,
+        69,
+        70,
+        23,
+        15,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "snekromancy": {
@@ -28944,6 +29570,44 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "starship-crafter": {
+    "slug": "starship-crafter",
+    "name": "Starship Crafter",
+    "steam": {
+      "appId": 2431590,
+      "steamName": "Starship Crafter",
+      "confidence": "exact",
+      "developers": [
+        "Rysesoft"
+      ],
+      "publishers": [
+        "PlayWay S.A."
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "states-of-power": {
     "slug": "states-of-power",
     "name": "States of Power",
@@ -29137,6 +29801,55 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "stellaris-willpower": {
+    "slug": "stellaris-willpower",
+    "name": "Stellaris: Willpower",
+    "steam": {
+      "appId": 4241440,
+      "steamName": "Stellaris: Willpower",
+      "confidence": "exact",
+      "developers": [
+        "Paradox Development Studio",
+        "Abrakam"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "releaseRaw": "23 Nov, 2026",
+      "releaseDate": "2026-11-23",
+      "comingSoon": true,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        1,
+        27,
+        21,
+        22,
+        29,
+        30,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "stick-it-to-the-stickman": {
@@ -34134,6 +34847,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "vibe-train": {
+    "slug": "vibe-train",
+    "name": "Vibe Train",
+    "steam": {
+      "appId": 4729050,
+      "steamName": "Vibe Train",
+      "confidence": "exact",
+      "developers": [
+        "IGNICORE GAMES"
+      ],
+      "publishers": [
+        "IGNICORE GAMES"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
+    }
+  },
   "void-reaver": {
     "slug": "void-reaver",
     "name": "Void Reaver",
@@ -35321,6 +36073,43 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-25"
+    }
+  },
+  "when-chests-rain-tons-of-loot": {
+    "slug": "when-chests-rain-tons-of-loot",
+    "name": "When Chests Rain Tons of Loot",
+    "steam": {
+      "appId": 5057800,
+      "steamName": "When Chests Rain Tons of Loot",
+      "confidence": "exact",
+      "developers": [
+        "LeenGameDev"
+      ],
+      "publishers": [
+        "LeenGameDev"
+      ],
+      "releaseRaw": "25 Nov, 2026",
+      "releaseDate": "2026-11-25",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-22"
     }
   },
   "wielders-of-the-essence": {
