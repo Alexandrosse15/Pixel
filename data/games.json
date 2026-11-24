@@ -7198,6 +7198,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "dead-copies": {
+    "slug": "dead-copies",
+    "name": "Dead Copies",
+    "steam": {
+      "appId": 5418340,
+      "steamName": "Dead Copies",
+      "confidence": "exact",
+      "developers": [
+        "DustyEffsky"
+      ],
+      "publishers": [
+        "Unikkorn.xyz"
+      ],
+      "releaseRaw": "9 Mar, 2027",
+      "releaseDate": "2027-03-09",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        23,
+        2
+      ],
+      "featureIds": [
+        2,
+        28,
+        55,
+        57,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-24"
+    }
+  },
   "dead-reckoning-the-long-drift": {
     "slug": "dead-reckoning-the-long-drift",
     "name": "Dead Reckoning: The Long Drift",
