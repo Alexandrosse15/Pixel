@@ -5648,6 +5648,45 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "chronocracy": {
+    "slug": "chronocracy",
+    "name": "Chronocracy",
+    "steam": {
+      "appId": 3309160,
+      "steamName": "Chronocracy",
+      "confidence": "exact",
+      "developers": [
+        "Regolite"
+      ],
+      "publishers": [
+        "HeroCraft PC"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-26"
+    }
+  },
   "city-car-driving-2-0": {
     "slug": "city-car-driving-2-0",
     "name": "City Car Driving 2.0",
@@ -11871,6 +11910,59 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "flak-simulator": {
+    "slug": "flak-simulator",
+    "name": "Flak Simulator",
+    "steam": {
+      "appId": 5268810,
+      "steamName": "Flak Simulator",
+      "confidence": "exact",
+      "developers": [
+        "Horseman Interactive"
+      ],
+      "publishers": [
+        "Horseman Interactive"
+      ],
+      "releaseRaw": "26 Nov, 2026",
+      "releaseDate": "2026-11-26",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        82,
+        68,
+        78,
+        75,
+        76,
+        74,
+        79,
+        69,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-26"
     }
   },
   "flaregate-network": {
