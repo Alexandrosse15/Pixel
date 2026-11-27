@@ -591,6 +591,56 @@
       "fetchedAt": "2026-08-31"
     }
   },
+  "aethercycle": {
+    "slug": "aethercycle",
+    "name": "AetherCycle",
+    "steam": {
+      "appId": 4504970,
+      "steamName": "AetherCycle",
+      "confidence": "exact",
+      "developers": [
+        "DEEP INTERACTIVE"
+      ],
+      "publishers": [
+        "DEEP INTERACTIVE"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        3,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        67,
+        68,
+        78,
+        80,
+        74,
+        69,
+        70,
+        18,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "age-of-empires-ii": {
     "slug": "age-of-empires-ii",
     "name": "Age of Empires II",
@@ -1298,6 +1348,57 @@
       "metacritic": null,
       "reviews": null,
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "am-i-nima": {
+    "slug": "am-i-nima",
+    "name": "Am I Nima",
+    "steam": {
+      "appId": 3224600,
+      "steamName": "Am I Nima",
+      "confidence": "exact",
+      "developers": [
+        "HO! Games"
+      ],
+      "publishers": [
+        "HO! Games",
+        "Outersloth"
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "17,49€",
+        "cents": 1749,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        25,
+        23
+      ],
+      "featureIds": [
+        2,
+        22,
+        68,
+        76,
+        80,
+        74,
+        79,
+        69,
+        77,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "amata": {
@@ -2147,6 +2248,57 @@
     "name": "Ariokan",
     "steam": null,
     "reason": "introuvable"
+  },
+  "arkheron": {
+    "slug": "arkheron",
+    "name": "Arkheron",
+    "steam": {
+      "appId": 3333850,
+      "steamName": "Arkheron",
+      "confidence": "exact",
+      "developers": [
+        "Bonfire Studios"
+      ],
+      "publishers": [
+        "Bonfire Studios"
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,99€",
+        "cents": 2499,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        70
+      ],
+      "featureIds": [
+        1,
+        49,
+        36,
+        27,
+        22,
+        28,
+        13,
+        55,
+        56,
+        57,
+        58,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
   },
   "artillery-miner": {
     "slug": "artillery-miner",
@@ -3796,6 +3948,52 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "bio-inc-total-defense": {
+    "slug": "bio-inc-total-defense",
+    "name": "Bio Inc. Total Defense",
+    "steam": {
+      "appId": 5164110,
+      "steamName": "Bio Inc. Total Defense",
+      "confidence": "exact",
+      "developers": [
+        "DryGin Studios"
+      ],
+      "publishers": [
+        "DryGin Studios"
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "9,69€",
+        "cents": 969,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        30,
+        23,
+        17,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "bioeden": {
@@ -8439,6 +8637,48 @@
     "steam": null,
     "reason": "écarté à la relecture"
   },
+  "dirt-town": {
+    "slug": "dirt-town",
+    "name": "Dirt Town",
+    "steam": {
+      "appId": 5275590,
+      "steamName": "Dirt Town",
+      "confidence": "exact",
+      "developers": [
+        "Skyturns"
+      ],
+      "publishers": [
+        "Skyturns"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        18,
+        23,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "dirty-business": {
     "slug": "dirty-business",
     "name": "Dirty Business",
@@ -11383,6 +11623,51 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "farmed-dangerous": {
+    "slug": "farmed-dangerous",
+    "name": "Farmed & Dangerous",
+    "steam": {
+      "appId": 4533230,
+      "steamName": "Farmed & Dangerous",
+      "confidence": "exact",
+      "developers": [
+        "Limina Games"
+      ],
+      "publishers": [
+        "Limina Games",
+        "Shared Games"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        22,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "fat-goblins": {
@@ -15755,6 +16040,59 @@
       "fetchedAt": "2026-09-08"
     }
   },
+  "horse-racing-manager": {
+    "slug": "horse-racing-manager",
+    "name": "Horse Racing Manager",
+    "steam": {
+      "appId": 2740170,
+      "steamName": "Horse Racing Manager",
+      "confidence": "exact",
+      "developers": [
+        "Sheep Meadow Road Games"
+      ],
+      "publishers": [
+        "Sheep Meadow Road Games"
+      ],
+      "releaseRaw": "24 Oct, 2025",
+      "releaseDate": "2025-10-24",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "24,50€",
+        "cents": 2450,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        9,
+        3,
+        28,
+        18,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        22,
+        30,
+        55,
+        56,
+        57,
+        58,
+        18,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "hotel-tales": {
     "slug": "hotel-tales",
     "name": "Hotel Tales",
@@ -17225,6 +17563,52 @@
       "fetchedAt": "2026-08-23"
     }
   },
+  "jeffrey-eggstein": {
+    "slug": "jeffrey-eggstein",
+    "name": "Jeffrey Eggstein",
+    "steam": {
+      "appId": 4775410,
+      "steamName": "Jeffrey Eggstein",
+      "confidence": "exact",
+      "developers": [
+        "Grabba Guild Games LLC "
+      ],
+      "publishers": [
+        "Grabba Guild Games LLC "
+      ],
+      "releaseRaw": "17 Jul, 2026",
+      "releaseDate": "2026-07-17",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "5,19€",
+        "cents": 519,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        25,
+        4,
+        70
+      ],
+      "featureIds": [
+        2,
+        1,
+        23,
+        25,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "jurassic-architect": {
     "slug": "jurassic-architect",
     "name": "Jurassic Architect",
@@ -18496,6 +18880,50 @@
       "fetchedAt": "2026-08-25"
     }
   },
+  "lost-bitcoin": {
+    "slug": "lost-bitcoin",
+    "name": "Lost Bitcoin",
+    "steam": {
+      "appId": 5427110,
+      "steamName": "Lost Bitcoin",
+      "confidence": "exact",
+      "developers": [
+        "Velto Games"
+      ],
+      "publishers": [
+        "Velto Games"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        4,
+        23,
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        9,
+        38,
+        80,
+        74,
+        79,
+        69,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "lost-found": {
     "slug": "lost-found",
     "name": "LOST & FOUND",
@@ -19214,6 +19642,49 @@
         }
       },
       "fetchedAt": "2026-08-23"
+    }
+  },
+  "mapping-creator": {
+    "slug": "mapping-creator",
+    "name": "Mapping Creator",
+    "steam": {
+      "appId": 4997480,
+      "steamName": "Mapping Creator",
+      "confidence": "exact",
+      "developers": [
+        "MappingCreator"
+      ],
+      "publishers": [
+        "MappingCreator"
+      ],
+      "releaseRaw": "27 Nov, 2026",
+      "releaseDate": "2026-11-27",
+      "comingSoon": false,
+      "price": {
+        "isFree": false,
+        "formatted": "8,69€",
+        "cents": 869,
+        "currency": "EUR"
+      },
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        23,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        30,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "mars-attracts": {
@@ -23712,6 +24183,48 @@
       "fetchedAt": "2026-09-09"
     }
   },
+  "planet-no-more": {
+    "slug": "planet-no-more",
+    "name": "Planet No More",
+    "steam": {
+      "appId": 4456110,
+      "steamName": "Planet No More",
+      "confidence": "exact",
+      "developers": [
+        "WiseMonkeES"
+      ],
+      "publishers": [
+        "Rogue Duck Interactive",
+        "Gamersky Games"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "genreIds": [
+        4,
+        28,
+        2
+      ],
+      "featureIds": [
+        2,
+        22,
+        76,
+        77,
+        23,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
+    }
+  },
   "planet-zoo-2": {
     "slug": "planet-zoo-2",
     "name": "Planet Zoo 2",
@@ -27296,6 +27809,65 @@
         }
       },
       "fetchedAt": "2026-09-12"
+    }
+  },
+  "siberian-prison-builder": {
+    "slug": "siberian-prison-builder",
+    "name": "Siberian Prison Builder",
+    "steam": {
+      "appId": 5510860,
+      "steamName": "Siberian Prison Builder",
+      "confidence": "exact",
+      "developers": [
+        "Rogue History"
+      ],
+      "publishers": [
+        "Rogue History"
+      ],
+      "releaseRaw": "Coming soon",
+      "releaseDate": null,
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "genreIds": [
+        28
+      ],
+      "featureIds": [
+        2,
+        1,
+        49,
+        36,
+        9,
+        38,
+        22,
+        28,
+        51,
+        64,
+        67,
+        82,
+        68,
+        78,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        59,
+        69,
+        23,
+        15,
+        25,
+        62
+      ],
+      "earlyAccess": false,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "sigilfarer-a-dice-rolling-roguelite": {
@@ -33807,6 +34379,52 @@
         }
       },
       "fetchedAt": "2026-10-07"
+    }
+  },
+  "trading-kingdom": {
+    "slug": "trading-kingdom",
+    "name": "Trading Kingdom",
+    "steam": {
+      "appId": 3193990,
+      "steamName": "Trading Kingdom",
+      "confidence": "exact",
+      "developers": [
+        "99 Interactive"
+      ],
+      "publishers": [
+        "99 Interactive"
+      ],
+      "releaseRaw": "4 Dec, 2026",
+      "releaseDate": "2026-12-04",
+      "comingSoon": true,
+      "price": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "genreIds": [
+        1,
+        23,
+        3,
+        28,
+        2,
+        70
+      ],
+      "featureIds": [
+        2,
+        67,
+        68,
+        78,
+        79,
+        69,
+        70,
+        62
+      ],
+      "earlyAccess": true,
+      "metacritic": null,
+      "reviews": null,
+      "fetchedAt": "2026-11-27"
     }
   },
   "trafficity": {
