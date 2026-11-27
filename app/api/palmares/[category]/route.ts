@@ -26,6 +26,11 @@ export async function POST(
     return NextResponse.json({ error: 'Vote invalide' }, { status: 400 })
   }
 
-  const results = await addPollVote(EDITION, params.category, choice)
-  return NextResponse.json(results)
+  try {
+    const results = await addPollVote(EDITION, params.category, choice)
+    return NextResponse.json(results)
+  } catch (err) {
+    console.error('[palmares] enregistrement impossible:', err)
+    return NextResponse.json({ error: 'Vote indisponible pour le moment' }, { status: 503 })
+  }
 }

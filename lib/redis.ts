@@ -13,14 +13,32 @@ function getRedis(): Redis | null {
 
 export const redis = getRedis()
 
+/**
+ * Pendant `next build`, on ne lit pas Redis. Le prerendu des ~2 900 pages
+ * faisait un appel par article et par projet Vercel a chaque deploiement, ce qui
+ * a epuise le quota Upstash (500 000 requetes) et fait echouer le build
+ * le 27 novembre 2026. Les notes reviennent a la revalidation horaire.
+ */
+const IS_BUILD = process.env.NEXT_PHASE === 'phase-production-build'
+
+/** Lecture tolerante : une erreur Redis (quota, reseau) ne casse jamais une page. */
+async function safeGet<T>(key: string): Promise<T | null> {
+  if (!redis || IS_BUILD) return null
+  try {
+    return await redis.get<T>(key)
+  } catch (err) {
+    console.error(`[redis] lecture impossible pour ${key}:`, err)
+    return null
+  }
+}
+
 export interface RatingData {
   total: number
   count: number
 }
 
 export async function getRating(slug: string): Promise<{ average: number; count: number }> {
-  if (!redis) return { average: 0, count: 0 }
-  const data = await redis.get<RatingData>(`rating:${slug}`)
+  const data = await safeGet<RatingData>(`rating:${slug}`)
   if (!data || data.count === 0) return { average: 0, count: 0 }
   return {
     average: Math.round(data.total / data.count),
@@ -51,8 +69,7 @@ export async function addRating(slug: string, score: number): Promise<{ average:
 export type PollResults = Record<string, number>
 
 export async function getPoll(edition: string, category: string): Promise<PollResults> {
-  if (!redis) return {}
-  const data = await redis.get<PollResults>(`poll:${edition}:${category}`)
+  const data = await safeGet<PollResults>(`poll:${edition}:${category}`)
   return data ?? {}
 }
 

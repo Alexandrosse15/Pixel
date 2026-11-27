@@ -19,6 +19,11 @@ export async function POST(req: NextRequest, { params }: { params: { slug: strin
     return NextResponse.json({ error: 'Score invalide (0-100)' }, { status: 400 })
   }
 
-  const data = await addRating(params.slug, score)
-  return NextResponse.json(data)
+  try {
+    const data = await addRating(params.slug, score)
+    return NextResponse.json(data)
+  } catch (err) {
+    console.error('[ratings] enregistrement impossible:', err)
+    return NextResponse.json({ error: 'Vote indisponible pour le moment' }, { status: 503 })
+  }
 }
