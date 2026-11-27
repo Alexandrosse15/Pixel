@@ -3,7 +3,7 @@ title: "10 Million Pixels: thousands of balls, a world to mine, and a single Gol
 seoTitle: "10 Million Pixels: preview of the ball-bouncing incremental"
 slug: "10-million-pixels-preview"
 category: "previews"
-excerpt: "A world a thousand times bigger than the screen, seven balls with different powers and one golden pixel to find. Out on 27 November."
+excerpt: "A world a thousand times bigger than the screen, seven balls with different powers and one golden pixel to find. Now out on 10 December."
 date: "2026-11-22"
 author: "Alexandrosse"
 readTime: "2 min"
@@ -24,6 +24,8 @@ The demo only offered a world of 50,000 pixels. The final version is two hundred
 
 ![The ball upgrade tree, icon by icon](/images/10millionpixels/screenshot-3.webp)
 
-The developer, BATTLE LAB, says the project was meant to be "a small incremental game without any fluff", and grew a lot over a year: a full redesign, the introduction of the Golden Pixel, and a soundtrack by Pulsewith (Justin Skomarovsky), who also scored The Loopler. The game passed 100,000 wishlists in October. Out on 27 November.
+The developer, BATTLE LAB, says the project was meant to be "a small incremental game without any fluff", and grew a lot over a year: a full redesign, the introduction of the Golden Pixel, and a soundtrack by Pulsewith (Justin Skomarovsky), who also scored The Loopler. The game passed 100,000 wishlists in October.
+
+**Update, 27 November:** the release, planned for 27 November, has been delayed again, to 10 December. The developer explains the game was not yet as polished as intended, and still lacked a few important features and some balancing. An official Discord server has opened in the meantime.
 
 The first person to find the Golden Pixel gets an official announcement on the [InsertCoins Discord](https://discord.gg/473FE3dWvw). We want the screenshot.

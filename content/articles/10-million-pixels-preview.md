@@ -3,7 +3,7 @@ title: "10 Million Pixels : des milliers de balles, un monde à miner, et un seu
 seoTitle: "10 Million Pixels : preview de l'incrémental à balles"
 slug: "10-million-pixels-preview"
 category: "previews"
-excerpt: "Un monde mille fois plus grand que l'écran, sept balles aux pouvoirs différents et un pixel doré à trouver. Sortie le 27 novembre."
+excerpt: "Un monde mille fois plus grand que l'écran, sept balles aux pouvoirs différents et un pixel doré à trouver. Sortie repoussée au 10 décembre."
 date: "2026-11-22"
 author: "Alexandrosse"
 readTime: "2 min"
@@ -24,6 +24,8 @@ La démo ne proposait qu'un monde de 50 000 pixels. La version finale est deux c
 
 ![L'arbre d'amélioration des balles, icône par icône](/images/10millionpixels/screenshot-3.webp)
 
-Le développeur, BATTLE LAB, raconte que le projet devait être « un petit incrémental sans fioritures », et qu'il a beaucoup grossi en un an : refonte complète, introduction du Pixel d'Or, et une bande-son confiée à Pulsewith (Justin Skomarovsky), déjà compositeur de The Loopler. Le jeu a passé les 100 000 listes de souhaits en octobre. Sortie le 27 novembre.
+Le développeur, BATTLE LAB, raconte que le projet devait être « un petit incrémental sans fioritures », et qu'il a beaucoup grossi en un an : refonte complète, introduction du Pixel d'Or, et une bande-son confiée à Pulsewith (Justin Skomarovsky), déjà compositeur de The Loopler. Le jeu a passé les 100 000 listes de souhaits en octobre.
+
+**Mise à jour du 27 novembre :** la sortie, prévue le 27 novembre, a de nouveau été repoussée, au 10 décembre. Le développeur explique que le jeu n'avait pas encore le niveau de finition voulu et qu'il manquait quelques fonctions importantes et de l'équilibrage. Un serveur Discord officiel a ouvert en attendant.
 
 Le premier qui trouve le Pixel d'Or a droit à une annonce officielle sur le [Discord d'InsertCoins](https://discord.gg/473FE3dWvw). On attend la capture.
